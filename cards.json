@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "name": "Charizard",
+        "number": "001",
+        "section": "Set principale",
+        "image": "https://images.pokemontcg.io/base1/4.png"
+    },
+    {
+        "id": 2,
+        "name": "Blastoise",
+        "number": "002",
+        "section": "Set principale",
+        "image": "https://images.pokemontcg.io/base1/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "number": "003",
+        "section": "Set principale",
+        "image": "https://images.pokemontcg.io/base1/15.png"
+    },
+    {
+        "id": 4,
+        "name": "Pikachu",
+        "number": "004",
+        "section": "Set principale",
+        "image": "https://images.pokemontcg.io/base1/58.png"
+    },
+    {
+        "id": 5,
+        "name": "Arcanine",
+        "number": "005",
+        "section": "Set principale",
+        "image": "https://images.pokemontcg.io/base1/23.png"
+    },
+    {
+        "id": 6,
+        "name": "Jigglypuff",
+        "number": "006",
+        "section": "Set principale",
+        "image": "https://images.pokemontcg.io/base1/54.png"
+    }
+]
