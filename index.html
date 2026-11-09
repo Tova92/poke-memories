@@ -284,7 +284,7 @@
             color: #aaa1bd;
             margin: 0 0 15px;
         }
-
+      
         .modal-status {
             border: 0;
             border-radius: 12px;
@@ -308,10 +308,15 @@
             background: #29233d;
             color: #f5f0ff;
             font-size: 13px;
+            visibility: hidden;
         }
 
         .modal-eye:active {
             background: #51465e;
+        }
+
+        .modal-eye.visible {
+            visibility: visible;
         }
 
         @media (min-width: 650px) {
@@ -571,7 +576,7 @@
         const eyeButton =
             document.getElementById("toggleVisibility");
 
-        eyeButton.style.display = isOwned ? "block" : "none";
+        eyeButton.classList.toggle("visible", isOwned);
 
         eyeButton.textContent = revealCard
             ? "👁 Nascondi colori"
