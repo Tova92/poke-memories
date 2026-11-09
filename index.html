@@ -299,6 +299,20 @@
             font-size: 12px;
         }
 
+        .modal-eye {
+            margin-top: 14px;
+            padding: 10px 18px;
+            border: 1px solid #51465e;
+            border-radius: 12px;
+            background: #29233d;
+            color: #f5f0ff;
+            font-size: 13px;
+        }
+        
+        .modal-eye:active {
+            background: #51465e;
+        }
+
         @media (min-width: 650px) {
             .grid {
                 grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -364,6 +378,10 @@
         <button class="modal-arrow" id="previousCard">‹</button>
 
         <img class="modal-image" id="modalImage" src="" alt="Carta Pokémon">
+
+        <button class="modal-eye" id="toggleVisibility">
+            👁 Mostra a colori
+        </button>
 
         <button class="modal-arrow" id="nextCard">›</button>
     </div>
@@ -439,6 +457,7 @@
 
     let currentFilter = "all";
     let currentCardId = null;
+    let revealCard = false;
 
     const grid = document.getElementById("grid");
     const search = document.getElementById("search");
@@ -544,6 +563,7 @@
 
     function openModal(id) {
         currentCardId = id;
+        revealCard = false;
         updateModal();
         modal.classList.add("open");
         document.body.style.overflow = "hidden";
@@ -553,6 +573,7 @@
         modal.classList.remove("open");
         document.body.style.overflow = "";
         currentCardId = null;
+        revealCard = false;
     }
 
     function updateModal() {
@@ -569,7 +590,19 @@
         const image = document.getElementById("modalImage");
         image.src = card.image;
         image.alt = card.name;
-        image.classList.toggle("owned", isOwned);
+        
+        image.classList.toggle(
+            "owned",
+            isOwned && !revealCard
+        );
+        
+        const eyeButton = document.getElementById("toggleVisibility");
+        
+        eyeButton.style.display = isOwned ? "block" : "none";
+        
+        eyeButton.textContent = revealCard
+            ? "👁 Nascondi colori"
+            : "👁 Mostra a colori";
 
         document.getElementById("modalName").textContent =
             card.name;
@@ -659,6 +692,12 @@
         }
     });
 
+    document.getElementById("toggleVisibility")
+        .addEventListener("click", () => {
+            revealCard = !revealCard;
+            updateModal();
+        });
+    
     renderCards();
 </script>
 
