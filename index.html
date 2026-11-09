@@ -193,6 +193,18 @@
             padding: 35px 10px;
         }
 
+        .section-title {
+            grid-column: 1 / -1;
+            margin: 24px 0 8px;
+            color: #f5f0ff;
+            font-size: 19px;
+            font-weight: 600;
+        }
+        
+        .section-title:first-child {
+            margin-top: 0;
+        }
+
         footer {
             text-align: center;
             color: #777087;
@@ -453,59 +465,76 @@
 
     function renderCards() {
         const query = search.value.toLowerCase().trim();
-
+    
         const filtered = cards.filter(card => {
             const isOwned = owned.includes(card.id);
-
+    
             const matchesFilter =
                 currentFilter === "all" ||
                 (currentFilter === "owned" && isOwned) ||
                 (currentFilter === "missing" && !isOwned);
-
+    
             const matchesSearch =
                 card.name.toLowerCase().includes(query) ||
                 card.number.toLowerCase().includes(query);
-
+    
             return matchesFilter && matchesSearch;
         });
-
+    
         grid.innerHTML = "";
-
+    
         if (!filtered.length) {
-            grid.innerHTML =
-                '<div class="empty">Nessuna carta trovata.</div>';
+            grid.innerHTML = '<div class="empty">Nessuna carta trovata.</div>';
+            updateProgress();
+            return;
         }
-
+    
+        const sections = new Map();
+    
         filtered.forEach(card => {
-            const isOwned = owned.includes(card.id);
-
-            const element = document.createElement("div");
-            element.className = `card ${isOwned ? "owned" : ""}`;
-
-            element.innerHTML = `
-                <div class="card-image">
-                    <img src="${card.image}" alt="${card.name}" loading="lazy">
-                </div>
-                <div class="card-name"></div>
-                <div class="card-number"></div>
-                <div class="card-status">
-                    ${isOwned ? "✓ Acquisita" : "○ Mancante"}
-                </div>
-            `;
-
-            element.querySelector(".card-name").textContent =
-                card.name;
-
-            element.querySelector(".card-number").textContent =
-                `#${card.number}`;
-
-            element.addEventListener("click", () => {
-                openModal(card.id);
-            });
-
-            grid.appendChild(element);
+            const section = card.section || "Altre carte";
+    
+            if (!sections.has(section)) {
+                sections.set(section, []);
+            }
+    
+            sections.get(section).push(card);
         });
-
+    
+        sections.forEach((sectionCards, sectionName) => {
+            const title = document.createElement("h2");
+            title.className = "section-title";
+            title.textContent = sectionName;
+    
+            grid.appendChild(title);
+    
+            sectionCards.forEach(card => {
+                const isOwned = owned.includes(card.id);
+    
+                const element = document.createElement("div");
+                element.className = `card ${isOwned ? "owned" : ""}`;
+    
+                element.innerHTML = `
+                    <div class="card-image">
+                        <img src="${card.image}" alt="${card.name}" loading="lazy">
+                    </div>
+                    <div class="card-name"></div>
+                    <div class="card-number">#${card.number}</div>
+                    <div class="card-status">
+                        ${isOwned ? "✓ Acquisita" : "○ Mancante"}
+                    </div>
+                `;
+    
+                element.querySelector(".card-name").textContent = card.name;
+    
+                element.addEventListener("click", () => {
+                    openModal(card.id);
+                });
+    
+                grid.appendChild(element);
+            });
+        });
+    
         updateProgress();
     }
 
