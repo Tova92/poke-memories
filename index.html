@@ -473,12 +473,15 @@
                 (currentFilter === "owned" && isOwned) ||
                 (currentFilter === "missing" && !isOwned);
 
+            const cardNumber = card.number
+                .split("/")[0]
+                .toLowerCase();
+            
             const matchesSearch =
                 card.name.toLowerCase().includes(query) ||
-                card.number.toLowerCase().includes(query);
-
-            return matchesFilter && matchesSearch;
-        });
+                cardNumber.includes(query);
+                        return matchesFilter && matchesSearch;
+                    });
 
         grid.innerHTML = "";
 
