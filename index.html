@@ -200,7 +200,7 @@
             font-size: 19px;
             font-weight: 600;
         }
-        
+
         .section-title:first-child {
             margin-top: 0;
         }
@@ -296,7 +296,7 @@
             color: #aaa1bd;
             margin: 0 0 15px;
         }
-      
+
         .modal-status {
             border: 0;
             border-radius: 12px;
@@ -354,7 +354,7 @@
     <section class="progress">
         <div class="progress-info">
             <div>
-                <strong id="count">0 / 6</strong>
+                <strong id="count">0 / 0</strong>
                 <div style="color:#aaa1bd;font-size:12px">
                     Carte acquisite
                 </div>
@@ -412,11 +412,10 @@
     </div>
 </div>
 
-
 <script>
-    const STORAGE_KEY = "poke-memories-owned";
+    const STORAGE_KEY = "poke-memories-owned-v2";
 
-    const defaultOwned = [1, 3, 5];
+    const defaultOwned = [];
 
     let cards = [];
     let owned = [];
@@ -465,76 +464,96 @@
 
     function renderCards() {
         const query = search.value.toLowerCase().trim();
-    
+
         const filtered = cards.filter(card => {
             const isOwned = owned.includes(card.id);
-    
+
             const matchesFilter =
                 currentFilter === "all" ||
                 (currentFilter === "owned" && isOwned) ||
                 (currentFilter === "missing" && !isOwned);
-    
+
             const matchesSearch =
                 card.name.toLowerCase().includes(query) ||
                 card.number.toLowerCase().includes(query);
-    
+
             return matchesFilter && matchesSearch;
         });
-    
+
         grid.innerHTML = "";
-    
+
         if (!filtered.length) {
-            grid.innerHTML = '<div class="empty">Nessuna carta trovata.</div>';
+            grid.innerHTML =
+                '<div class="empty">Nessuna carta trovata.</div>';
+
             updateProgress();
             return;
         }
-    
+
         const sections = new Map();
-    
+
         filtered.forEach(card => {
             const section = card.section || "Altre carte";
-    
+
             if (!sections.has(section)) {
                 sections.set(section, []);
             }
-    
+
             sections.get(section).push(card);
         });
-    
+
         sections.forEach((sectionCards, sectionName) => {
             const title = document.createElement("h2");
             title.className = "section-title";
             title.textContent = sectionName;
-    
+
             grid.appendChild(title);
-    
+
             sectionCards.forEach(card => {
                 const isOwned = owned.includes(card.id);
-    
+
                 const element = document.createElement("div");
                 element.className = `card ${isOwned ? "owned" : ""}`;
-    
-                element.innerHTML = `
-                    <div class="card-image">
-                        <img src="${card.image}" alt="${card.name}" loading="lazy">
-                    </div>
-                    <div class="card-name"></div>
-                    <div class="card-number">#${card.number}</div>
-                    <div class="card-status">
-                        ${isOwned ? "✓ Acquisita" : "○ Mancante"}
-                    </div>
-                `;
-    
-                element.querySelector(".card-name").textContent = card.name;
-    
+
+                const imageContainer = document.createElement("div");
+                imageContainer.className = "card-image";
+
+                const image = document.createElement("img");
+                image.src = card.image;
+                image.alt = card.name;
+                image.loading = "lazy";
+
+                imageContainer.appendChild(image);
+
+                const name = document.createElement("div");
+                name.className = "card-name";
+                name.textContent = card.name;
+
+                const number = document.createElement("div");
+                number.className = "card-number";
+                number.textContent = `#${card.number}`;
+
+                const status = document.createElement("div");
+                status.className = "card-status";
+                status.textContent = isOwned
+                    ? "✓ Acquisita"
+                    : "○ Mancante";
+
+                element.append(
+                    imageContainer,
+                    name,
+                    number,
+                    status
+                );
+
                 element.addEventListener("click", () => {
                     openModal(card.id);
                 });
-    
+
                 grid.appendChild(element);
             });
         });
-    
+
         updateProgress();
     }
 
@@ -631,6 +650,10 @@
             item => item.id === currentCardId
         );
 
+        if (position === -1 || cards.length === 0) {
+            return;
+        }
+
         const nextPosition =
             (position + direction + cards.length) % cards.length;
 
@@ -661,13 +684,19 @@
 
             cards = data.map(card => {
                 if (
-                    card.id === undefined ||
-                    !card.name ||
-                    !card.number ||
-                    !card.image ||
+                    typeof card.id !== "string" ||
+                    !card.id.trim() ||
+                    typeof card.name !== "string" ||
+                    !card.name.trim() ||
+                    typeof card.number !== "string" ||
+                    !card.number.trim() ||
+                    typeof card.image !== "string" ||
+                    !card.image.trim() ||
                     ids.has(card.id)
                 ) {
-                    throw new Error("Una o più carte hanno dati mancanti o ID duplicati");
+                    throw new Error(
+                        "Una o più carte hanno dati mancanti o ID duplicati"
+                    );
                 }
 
                 ids.add(card.id);
@@ -675,6 +704,9 @@
                 return card;
             });
 
+            owned = owned.filter(id => ids.has(id));
+
+            saveOwned();
             renderCards();
         } catch (error) {
             console.error(error);
