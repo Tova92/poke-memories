@@ -1,45 +1,1594 @@
-
 [
     {
-        "id": 1,
-        "name": "Charizard",
-        "number": "001",
+        "id": "base-001",
+        "name": "Exeggcute",
+        "number": "001/128",
         "section": "Set principale",
-        "image": "https://images.pokemontcg.io/base1/4.png"
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-001.webp",
+        "language": "IT"
     },
     {
-        "id": 2,
-        "name": "Blastoise",
-        "number": "002",
+        "id": "base-002",
+        "name": "Exeggutor di Alola",
+        "number": "002/128",
         "section": "Set principale",
-        "image": "https://images.pokemontcg.io/base1/2.png"
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-002.webp",
+        "language": "IT"
     },
     {
-        "id": 3,
-        "name": "Venusaur",
-        "number": "003",
+        "id": "base-003",
+        "name": "Volbeat",
+        "number": "003/128",
         "section": "Set principale",
-        "image": "https://images.pokemontcg.io/base1/15.png"
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-003.webp",
+        "language": "IT"
     },
     {
-        "id": 4,
+        "id": "base-004",
+        "name": "Illumise",
+        "number": "004/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-004.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-005",
+        "name": "Tropius",
+        "number": "005/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-005.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-006",
+        "name": "Cherubi",
+        "number": "006/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-006.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-007",
+        "name": "Cherrim",
+        "number": "007/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-007.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-008",
+        "name": "Vivillon",
+        "number": "008/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-008.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-009",
+        "name": "Vulpix",
+        "number": "009/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-009.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-010",
+        "name": "Ninetales",
+        "number": "010/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-010.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-011",
+        "name": "Moltres",
+        "number": "011/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-011.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-012",
+        "name": "Ho-Oh",
+        "number": "012/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-012.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-013",
+        "name": "Victini",
+        "number": "013/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-013.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-014",
+        "name": "Reshiram",
+        "number": "014/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-014.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-015",
+        "name": "Fuecoco ex",
+        "number": "015/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-015.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-016",
+        "name": "Slowpoke",
+        "number": "016/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-016.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-017",
+        "name": "Lapras",
+        "number": "017/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-017.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-018",
+        "name": "Articuno",
+        "number": "018/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-018.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-019",
+        "name": "Kyogre",
+        "number": "019/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-019.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-020",
+        "name": "Palkia",
+        "number": "020/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-020.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-021",
+        "name": "Greninja ex",
+        "number": "021/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-021.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-022",
+        "name": "Wishiwashi",
+        "number": "022/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-022.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-023",
         "name": "Pikachu",
-        "number": "004",
+        "number": "023/128",
         "section": "Set principale",
-        "image": "https://images.pokemontcg.io/base1/58.png"
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-023.webp",
+        "language": "IT"
     },
     {
-        "id": 5,
-        "name": "Arcanine",
-        "number": "005",
+        "id": "base-024",
+        "name": "Pikachu",
+        "number": "024/128",
         "section": "Set principale",
-        "image": "https://images.pokemontcg.io/base1/23.png"
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-024.webp",
+        "language": "IT"
     },
     {
-        "id": 6,
-        "name": "Jigglypuff",
-        "number": "006",
+        "id": "base-025",
+        "name": "Pikachu",
+        "number": "025/128",
         "section": "Set principale",
-        "image": "https://images.pokemontcg.io/base1/54.png"
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-025.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-026",
+        "name": "Pikachu",
+        "number": "026/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-026.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-027",
+        "name": "Pikachu",
+        "number": "027/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-027.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-028",
+        "name": "Pikachu",
+        "number": "028/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-028.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-029",
+        "name": "Pikachu",
+        "number": "029/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-029.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-030",
+        "name": "Pikachu",
+        "number": "030/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-030.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-031",
+        "name": "Pikachu",
+        "number": "031/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-031.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-032",
+        "name": "Pikachu",
+        "number": "032/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-032.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-033",
+        "name": "Pikachu",
+        "number": "033/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-033.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-034",
+        "name": "Pikachu",
+        "number": "034/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-034.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-035",
+        "name": "Pikachu",
+        "number": "035/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-035.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-036",
+        "name": "Pikachu",
+        "number": "036/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-036.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-037",
+        "name": "Pikachu",
+        "number": "037/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-037.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-038",
+        "name": "Pikachu",
+        "number": "038/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-038.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-039",
+        "name": "Pikachu",
+        "number": "039/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-039.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-040",
+        "name": "Pikachu",
+        "number": "040/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-040.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-041",
+        "name": "Pikachu",
+        "number": "041/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-041.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-042",
+        "name": "Pikachu",
+        "number": "042/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-042.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-043",
+        "name": "Pikachu",
+        "number": "043/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-043.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-044",
+        "name": "Pikachu",
+        "number": "044/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-044.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-045",
+        "name": "Pikachu",
+        "number": "045/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-045.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-046",
+        "name": "Pikachu",
+        "number": "046/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-046.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-047",
+        "name": "Pikachu",
+        "number": "047/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-047.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-048",
+        "name": "Pikachu",
+        "number": "048/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-048.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-049",
+        "name": "Pikachu",
+        "number": "049/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-049.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-050",
+        "name": "Pikachu",
+        "number": "050/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-050.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-051",
+        "name": "Pikachu",
+        "number": "051/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-051.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-052",
+        "name": "Pikachu",
+        "number": "052/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-052.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-053",
+        "name": "Pikachu ex",
+        "number": "053/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-053.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-054",
+        "name": "Pikachu ex",
+        "number": "054/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-054.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-055",
+        "name": "Zapdos",
+        "number": "055/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-055.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-056",
+        "name": "Zekrom",
+        "number": "056/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-056.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-057",
+        "name": "Zeraora",
+        "number": "057/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-057.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-058",
+        "name": "Toxel",
+        "number": "058/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-058.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-059",
+        "name": "Toxtricity",
+        "number": "059/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-059.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-060",
+        "name": "Toxtricity",
+        "number": "060/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-060.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-061",
+        "name": "Morpeko",
+        "number": "061/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-061.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-062",
+        "name": "Miraidon",
+        "number": "062/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-062.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-063",
+        "name": "Mewtwo",
+        "number": "063/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-063.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-064",
+        "name": "Mewtwo ex",
+        "number": "064/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-064.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-065",
+        "name": "Mew",
+        "number": "065/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-065.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-066",
+        "name": "Mew ex",
+        "number": "066/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-066.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-067",
+        "name": "Marill",
+        "number": "067/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-067.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-068",
+        "name": "Azumarill",
+        "number": "068/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-068.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-069",
+        "name": "Espeon",
+        "number": "069/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-069.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-070",
+        "name": "Espeon ex",
+        "number": "070/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-070.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-071",
+        "name": "Sylveon ex",
+        "number": "071/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-071.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-072",
+        "name": "Unown",
+        "number": "072/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-072.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-073",
+        "name": "Drifloon",
+        "number": "073/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-073.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-074",
+        "name": "Cresselia",
+        "number": "074/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-074.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-075",
+        "name": "Chandelure",
+        "number": "075/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-075.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-076",
+        "name": "Xerneas",
+        "number": "076/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-076.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-077",
+        "name": "Comfey",
+        "number": "077/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-077.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-078",
+        "name": "Cosmog",
+        "number": "078/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-078.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-079",
+        "name": "Cosmoem",
+        "number": "079/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-079.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-080",
+        "name": "Lunala",
+        "number": "080/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-080.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-081",
+        "name": "Gimmighoul",
+        "number": "081/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-081.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-082",
+        "name": "Groudon",
+        "number": "082/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-082.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-083",
+        "name": "Lucario",
+        "number": "083/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-083.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-084",
+        "name": "Seismitoad",
+        "number": "084/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-084.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-085",
+        "name": "Lycanroc",
+        "number": "085/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-085.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-086",
+        "name": "Koraidon",
+        "number": "086/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-086.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-087",
+        "name": "Nidoran ♀",
+        "number": "087/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-087.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-088",
+        "name": "Nidorina",
+        "number": "088/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-088.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-089",
+        "name": "Meowth di Alola",
+        "number": "089/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-089.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-090",
+        "name": "Gengar ex",
+        "number": "090/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-090.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-091",
+        "name": "Umbreon",
+        "number": "091/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-091.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-092",
+        "name": "Umbreon ex",
+        "number": "092/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-092.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-093",
+        "name": "Murkrow",
+        "number": "093/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-093.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-094",
+        "name": "Scraggy",
+        "number": "094/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-094.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-095",
+        "name": "Zorua",
+        "number": "095/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-095.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-096",
+        "name": "Zoroark",
+        "number": "096/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-096.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-097",
+        "name": "Deino",
+        "number": "097/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-097.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-098",
+        "name": "Zweilous",
+        "number": "098/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-098.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-099",
+        "name": "Hydreigon",
+        "number": "099/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-099.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-100",
+        "name": "Yveltal",
+        "number": "100/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-100.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-101",
+        "name": "Meowth di Galar",
+        "number": "101/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-101.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-102",
+        "name": "Jirachi ex",
+        "number": "102/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-102.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-103",
+        "name": "Dialga",
+        "number": "103/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-103.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-104",
+        "name": "Ferrothorn",
+        "number": "104/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-104.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-105",
+        "name": "Solgaleo",
+        "number": "105/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-105.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-106",
+        "name": "Zacian",
+        "number": "106/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-106.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-107",
+        "name": "Zamazenta",
+        "number": "107/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-107.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-108",
+        "name": "Gholdengo",
+        "number": "108/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-108.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-109",
+        "name": "Salamence ex",
+        "number": "109/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-109.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-110",
+        "name": "Jangmo-o",
+        "number": "110/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-110.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-111",
+        "name": "Hakamo-o",
+        "number": "111/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-111.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-112",
+        "name": "Kommo-o",
+        "number": "112/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-112.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-113",
+        "name": "Meowth",
+        "number": "113/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-113.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-114",
+        "name": "Kangaskhan",
+        "number": "114/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-114.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-115",
+        "name": "Ditto",
+        "number": "115/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-115.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-116",
+        "name": "Eevee",
+        "number": "116/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-116.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-117",
+        "name": "Eevee",
+        "number": "117/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-117.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-118",
+        "name": "Eevee",
+        "number": "118/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-118.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-119",
+        "name": "Snorlax",
+        "number": "119/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-119.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-120",
+        "name": "Igglybuff",
+        "number": "120/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-120.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-121",
+        "name": "Lugia",
+        "number": "121/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-121.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-122",
+        "name": "Zorua di Hisui",
+        "number": "122/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-122.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-123",
+        "name": "Zoroark di Hisui",
+        "number": "123/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-123.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-124",
+        "name": "Minior",
+        "number": "124/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-124.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-125",
+        "name": "Maushold",
+        "number": "125/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-125.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-126",
+        "name": "Poké Pad",
+        "number": "126/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-126.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-127",
+        "name": "Scambio",
+        "number": "127/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-127.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-128",
+        "name": "Ultra Ball",
+        "number": "128/128",
+        "section": "Set principale",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-128.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-129",
+        "name": "Exeggutor di Alola",
+        "number": "129/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-129.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-130",
+        "name": "Moltres",
+        "number": "130/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-130.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-131",
+        "name": "Lapras",
+        "number": "131/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-131.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-132",
+        "name": "Articuno",
+        "number": "132/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-132.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-133",
+        "name": "Zapdos",
+        "number": "133/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-133.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-134",
+        "name": "Toxtricity",
+        "number": "134/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-134.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-135",
+        "name": "Morpeko",
+        "number": "135/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-135.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-136",
+        "name": "Drifloon",
+        "number": "136/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-136.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-137",
+        "name": "Chandelure",
+        "number": "137/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-137.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-138",
+        "name": "Lycanroc",
+        "number": "138/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-138.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-139",
+        "name": "Meowth di Alola",
+        "number": "139/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-139.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-140",
+        "name": "Scraggy",
+        "number": "140/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-140.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-141",
+        "name": "Meowth di Galar",
+        "number": "141/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-141.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-142",
+        "name": "Gholdengo",
+        "number": "142/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-142.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-143",
+        "name": "Kommo-o",
+        "number": "143/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-base-143.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-144",
+        "name": "Meowth",
+        "number": "144/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-144.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-145",
+        "name": "Zorua di Hisui",
+        "number": "145/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-145.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-146",
+        "name": "Maushold",
+        "number": "146/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-146.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-147",
+        "name": "Fuecoco ex",
+        "number": "147/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-147.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-148",
+        "name": "Greninja ex",
+        "number": "148/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-148.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-149",
+        "name": "Pikachu ex",
+        "number": "149/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-149.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-150",
+        "name": "Pikachu ex",
+        "number": "150/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-150.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-151",
+        "name": "Mewtwo ex",
+        "number": "151/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-base-151.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-152",
+        "name": "Mew ex",
+        "number": "152/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-base-152.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-153",
+        "name": "Sylveon ex",
+        "number": "153/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-153.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-154",
+        "name": "Gengar ex",
+        "number": "154/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-base-154.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-155",
+        "name": "Jirachi ex",
+        "number": "155/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-155.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-156",
+        "name": "Salamence ex",
+        "number": "156/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-156.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-157",
+        "name": "Mewtwo ex",
+        "number": "157/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-157.webp",
+        "language": "IT"
+    },
+    {
+        "id": "base-158",
+        "name": "Mew ex",
+        "number": "158/128",
+        "section": "Fuoriserie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-base-158.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-001",
+        "name": "Charizard",
+        "number": "4/102",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-001.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-002",
+        "name": "Delcatty",
+        "number": "5/109",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-002.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-003",
+        "name": "Metagross δ",
+        "number": "11/113",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-003.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-004",
+        "name": "Genesect EX",
+        "number": "11/101",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-004.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-005",
+        "name": "Misty",
+        "number": "18/132",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-005.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-006",
+        "name": "Dark Tyranitar",
+        "number": "19/109",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-006.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-007",
+        "name": "Sneasel",
+        "number": "25/111",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-007.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-008",
+        "name": "Pikachu e Zekrom GX",
+        "number": "33/181",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-008.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-009",
+        "name": "Greninja TURBO",
+        "number": "41/122",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-009.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-010",
+        "name": "Uxie",
+        "number": "43/146",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-010.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-011",
+        "name": "Crobat G",
+        "number": "47/127",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-011.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-012",
+        "name": "Raikou",
+        "number": "050/185",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-012.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-013",
+        "name": "Buzzwole GX",
+        "number": "57/111",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-013.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-014",
+        "name": "Pikachu",
+        "number": "58/102",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-014.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-015",
+        "name": "Jigglypuff di Erika",
+        "number": "69/132",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-015.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-016",
+        "name": "Rayquaza EX",
+        "number": "85/124",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-016.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-017",
+        "name": "Solgaleo GX",
+        "number": "89/149",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-017.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-018",
+        "name": "Gengar",
+        "number": "94/102",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-018.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-019",
+        "name": "Darkrai & Cresselia LEGGENDA",
+        "number": "99/102",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-019.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-020",
+        "name": "Darkrai & Cresselia LEGGENDA",
+        "number": "100/102",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-020.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-021",
+        "name": "N",
+        "number": "101/101",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-021.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-022",
+        "name": "Palkia LV.X",
+        "number": "106/106",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-022.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-023",
+        "name": "M Gardevoir EX",
+        "number": "106/160",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-023.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-024",
+        "name": "Shining Celebi",
+        "number": "106/105",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-024.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-025",
+        "name": "Scizor ex",
+        "number": "108/115",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-025.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-026",
+        "name": "Mew VMAX",
+        "number": "114/264",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-026.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-027",
+        "name": "Arceus V ASTRO",
+        "number": "123/172",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-027.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-028",
+        "name": "Zacian V",
+        "number": "138/202",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-028.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-029",
+        "name": "Lugia",
+        "number": "149/147",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-029.webp",
+        "language": "IT"
+    },
+    {
+        "id": "classic-030",
+        "name": "Magikarp",
+        "number": "203/193",
+        "section": "Collezione Classica",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-classic-030.webp",
+        "language": "IT"
+    },
+    {
+        "id": "energy-009",
+        "name": "Energia base Erba",
+        "number": "MEE 009",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-009.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-010",
+        "name": "Energia base Fuoco",
+        "number": "MEE 010",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-010.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-011",
+        "name": "Energia base Acqua",
+        "number": "MEE 011",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-011.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-012",
+        "name": "Energia base Lampo",
+        "number": "MEE 012",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-012.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-013",
+        "name": "Energia base Psico",
+        "number": "MEE 013",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-013.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-014",
+        "name": "Energia base Lotta",
+        "number": "MEE 014",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-014.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-015",
+        "name": "Energia base Oscurità",
+        "number": "MEE 015",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-015.webp",
+        "language": "EN"
+    },
+    {
+        "id": "energy-016",
+        "name": "Energia base Metallo",
+        "number": "MEE 016",
+        "section": "Energie",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-energy-016.webp",
+        "language": "EN"
+    },
+    {
+        "id": "rgb-b",
+        "name": "Mew RGB Blu",
+        "number": "B/RGB",
+        "section": "Mew RGB",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-rgb-blue.webp",
+        "language": "EN"
+    },
+    {
+        "id": "rgb-g",
+        "name": "Mew RGB Verde",
+        "number": "G/RGB",
+        "section": "Mew RGB",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-rgb-green.webp",
+        "language": "EN"
+    },
+    {
+        "id": "rgb-r",
+        "name": "Mew RGB Rosso",
+        "number": "R/RGB",
+        "section": "Mew RGB",
+        "image": "https://www.cartemagic.com/wp-content/uploads/cm-checklist-30c-20260921-rgb-red.webp",
+        "language": "EN"
     }
 ]
