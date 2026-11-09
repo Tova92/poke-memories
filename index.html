@@ -112,6 +112,10 @@
             outline: none;
         }
 
+        .search::placeholder {
+            color: #aaa1bd;
+        }
+
         .grid {
             display: grid;
             grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -263,6 +267,9 @@
         }
 
         .modal-details {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             text-align: center;
             margin-top: 18px;
         }
@@ -293,14 +300,8 @@
             color: #f5f0ff;
         }
 
-        .modal-position {
-            margin-top: 13px;
-            color: #777087;
-            font-size: 12px;
-        }
-
         .modal-eye {
-            margin-top: 14px;
+            margin-bottom: 12px;
             padding: 10px 18px;
             border: 1px solid #51465e;
             border-radius: 12px;
@@ -308,7 +309,7 @@
             color: #f5f0ff;
             font-size: 13px;
         }
-        
+
         .modal-eye:active {
             background: #51465e;
         }
@@ -329,7 +330,7 @@
 
 <header>
     <h1>PokéMemories ✨</h1>
-    <p>La mia collezione, un ricordo alla volta</p>
+    <p>Ogni carta conquistata è un nuovo traguardo</p>
 </header>
 
 <main>
@@ -359,7 +360,7 @@
         class="search"
         id="search"
         type="search"
-        placeholder="Cerca una carta..."
+        placeholder="Cerca per nome o numero..."
     >
 
     <section class="grid" id="grid"></section>
@@ -379,10 +380,6 @@
 
         <img class="modal-image" id="modalImage" src="" alt="Carta Pokémon">
 
-        <button class="modal-eye" id="toggleVisibility">
-            👁 Mostra a colori
-        </button>
-
         <button class="modal-arrow" id="nextCard">›</button>
     </div>
 
@@ -390,9 +387,11 @@
         <h2 id="modalName"></h2>
         <p id="modalNumber"></p>
 
-        <button class="modal-status" id="toggleStatus"></button>
+        <button class="modal-eye" id="toggleVisibility">
+            👁 Mostra a colori
+        </button>
 
-        <div class="modal-position" id="modalPosition"></div>
+        <button class="modal-status" id="toggleStatus"></button>
     </div>
 </div>
 
@@ -444,6 +443,7 @@
 
     try {
         const saved = localStorage.getItem(STORAGE_KEY);
+
         owned = saved === null
             ? [...defaultOwned]
             : JSON.parse(saved);
@@ -553,18 +553,19 @@
             owned.push(id);
         }
 
+        revealCard = false;
+
         saveOwned();
         renderCards();
-
-        if (currentCardId === id) {
-            updateModal();
-        }
+        updateModal();
     }
 
     function openModal(id) {
         currentCardId = id;
         revealCard = false;
+
         updateModal();
+
         modal.classList.add("open");
         document.body.style.overflow = "hidden";
     }
@@ -572,6 +573,7 @@
     function closeModal() {
         modal.classList.remove("open");
         document.body.style.overflow = "";
+
         currentCardId = null;
         revealCard = false;
     }
@@ -587,19 +589,24 @@
 
         const isOwned = owned.includes(card.id);
 
+        if (!isOwned) {
+            revealCard = false;
+        }
+
         const image = document.getElementById("modalImage");
+
         image.src = card.image;
         image.alt = card.name;
-        
+
         image.classList.toggle(
             "owned",
             isOwned && !revealCard
         );
-        
+
         const eyeButton = document.getElementById("toggleVisibility");
-        
+
         eyeButton.style.display = isOwned ? "block" : "none";
-        
+
         eyeButton.textContent = revealCard
             ? "👁 Nascondi colori"
             : "👁 Mostra a colori";
@@ -617,13 +624,6 @@
             : "Segna come acquisita";
 
         button.classList.toggle("owned", isOwned);
-
-        const position = cards.findIndex(
-            item => item.id === currentCardId
-        );
-
-        document.getElementById("modalPosition").textContent =
-            `${position + 1} di ${cards.length}`;
     }
 
     function navigateModal(direction) {
@@ -635,6 +635,7 @@
             (position + direction + cards.length) % cards.length;
 
         currentCardId = cards[nextPosition].id;
+        revealCard = false;
 
         updateModal();
     }
@@ -668,6 +669,12 @@
             toggleCard(currentCardId);
         });
 
+    document.getElementById("toggleVisibility")
+        .addEventListener("click", () => {
+            revealCard = !revealCard;
+            updateModal();
+        });
+
     modal.addEventListener("click", event => {
         if (event.target === modal) {
             closeModal();
@@ -692,12 +699,6 @@
         }
     });
 
-    document.getElementById("toggleVisibility")
-        .addEventListener("click", () => {
-            revealCard = !revealCard;
-            updateModal();
-        });
-    
     renderCards();
 </script>
 
