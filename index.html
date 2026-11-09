@@ -395,51 +395,21 @@
     </div>
 </div>
 
-<script>
-    const cards = [
-        {
-            id: 1,
-            name: "Charizard",
-            number: "001",
-            image: "https://images.pokemontcg.io/base1/4.png"
-        },
-        {
-            id: 2,
-            name: "Blastoise",
-            number: "002",
-            image: "https://images.pokemontcg.io/base1/2.png"
-        },
-        {
-            id: 3,
-            name: "Venusaur",
-            number: "003",
-            image: "https://images.pokemontcg.io/base1/15.png"
-        },
-        {
-            id: 4,
-            name: "Pikachu",
-            number: "004",
-            image: "https://images.pokemontcg.io/base1/58.png"
-        },
-        {
-            id: 5,
-            name: "Arcanine",
-            number: "005",
-            image: "https://images.pokemontcg.io/base1/23.png"
-        },
-        {
-            id: 6,
-            name: "Jigglypuff",
-            number: "006",
-            image: "https://images.pokemontcg.io/base1/54.png"
-        }
-    ];
 
+<script>
     const STORAGE_KEY = "poke-memories-owned";
 
     const defaultOwned = [1, 3, 5];
 
-    let owned;
+    let cards = [];
+    let owned = [];
+    let currentFilter = "all";
+    let currentCardId = null;
+    let revealCard = false;
+
+    const grid = document.getElementById("grid");
+    const search = document.getElementById("search");
+    const modal = document.getElementById("modal");
 
     try {
         const saved = localStorage.getItem(STORAGE_KEY);
@@ -454,14 +424,6 @@
     } catch {
         owned = [...defaultOwned];
     }
-
-    let currentFilter = "all";
-    let currentCardId = null;
-    let revealCard = false;
-
-    const grid = document.getElementById("grid");
-    const search = document.getElementById("search");
-    const modal = document.getElementById("modal");
 
     function updateProgress() {
         const total = cards.length;
@@ -485,7 +447,7 @@
     }
 
     function renderCards() {
-        const query = search.value.toLowerCase();
+        const query = search.value.toLowerCase().trim();
 
         const filtered = cards.filter(card => {
             const isOwned = owned.includes(card.id);
@@ -497,7 +459,7 @@
 
             const matchesSearch =
                 card.name.toLowerCase().includes(query) ||
-                card.number.includes(query);
+                card.number.toLowerCase().includes(query);
 
             return matchesFilter && matchesSearch;
         });
@@ -520,7 +482,7 @@
                     <img src="${card.image}" alt="${card.name}" loading="lazy">
                 </div>
                 <div class="card-name"></div>
-                <div class="card-number">#${card.number}</div>
+                <div class="card-number"></div>
                 <div class="card-status">
                     ${isOwned ? "✓ Acquisita" : "○ Mancante"}
                 </div>
@@ -528,6 +490,9 @@
 
             element.querySelector(".card-name").textContent =
                 card.name;
+
+            element.querySelector(".card-number").textContent =
+                `#${card.number}`;
 
             element.addEventListener("click", () => {
                 openModal(card.id);
@@ -603,7 +568,8 @@
             isOwned && !revealCard
         );
 
-        const eyeButton = document.getElementById("toggleVisibility");
+        const eyeButton =
+            document.getElementById("toggleVisibility");
 
         eyeButton.style.display = isOwned ? "block" : "none";
 
@@ -638,6 +604,55 @@
         revealCard = false;
 
         updateModal();
+    }
+
+    async function loadCards() {
+        grid.innerHTML =
+            '<div class="empty">Caricamento delle carte...</div>';
+
+        try {
+            const response = await fetch("./cards.json");
+
+            if (!response.ok) {
+                throw new Error("Impossibile caricare cards.json");
+            }
+
+            const data = await response.json();
+
+            if (!Array.isArray(data)) {
+                throw new Error("Il catalogo non è un elenco valido");
+            }
+
+            const ids = new Set();
+
+            cards = data.map(card => {
+                if (
+                    card.id === undefined ||
+                    !card.name ||
+                    !card.number ||
+                    !card.image ||
+                    ids.has(card.id)
+                ) {
+                    throw new Error("Una o più carte hanno dati mancanti o ID duplicati");
+                }
+
+                ids.add(card.id);
+
+                return card;
+            });
+
+            renderCards();
+        } catch (error) {
+            console.error(error);
+
+            grid.innerHTML = `
+                <div class="empty">
+                    Non è stato possibile caricare il catalogo.
+                    Controlla che cards.json sia presente
+                    nella stessa cartella di index.html.
+                </div>
+            `;
+        }
     }
 
     document.querySelectorAll(".filters button").forEach(button => {
@@ -699,7 +714,7 @@
         }
     });
 
-    renderCards();
+    loadCards();
 </script>
 
 </body>
