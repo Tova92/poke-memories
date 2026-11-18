@@ -1,0 +1,993 @@
+{
+    "expansion": {
+        "id": "LTR",
+        "name": "Nero e Bianco - Tesori Leggendari",
+				"year": 2013,
+				"month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b7/SimboloSetTesori_Leggendari.png",
+        "cardCount": 140
+    },
+    "cards": [
+        {
+            "id": "LTR-1/113",
+            "name": "Tangela",
+            "number": "1/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/TangelaTesoriLeggendari1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-2/113",
+            "name": "Tangrowth",
+            "number": "2/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/TangrowthTesoriLeggendari2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-3/113",
+            "name": "Shuckle",
+            "number": "3/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/ShuckleTesoriLeggendari3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-4/113",
+            "name": "Cherubi",
+            "number": "4/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CherubiTesoriLeggendari4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-5/113",
+            "name": "Carnivine",
+            "number": "5/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/CarnivineTesoriLeggendari5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-6/113",
+            "name": "Snivy",
+            "number": "6/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/SnivyTesoriLeggendari6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-7/113",
+            "name": "Servine",
+            "number": "7/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ServineTesoriLeggendari7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-8/113",
+            "name": "Serperior",
+            "number": "8/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/SerperiorTesoriLeggendari8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-9/113",
+            "name": "Sewaddle",
+            "number": "9/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/SewaddleTesoriLeggendari9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-10/113",
+            "name": "Sewaddle",
+            "number": "10/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/SewaddleTesoriLeggendari10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-11/113",
+            "name": "Swadloon",
+            "number": "11/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/SwadloonTesoriLeggendari11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-12/113",
+            "name": "Leavanny",
+            "number": "12/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/LeavannyTesoriLeggendari12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-13/113",
+            "name": "Dwebble",
+            "number": "13/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/DwebbleTesoriLeggendari13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-14/113",
+            "name": "Crustle",
+            "number": "14/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/CrustleTesoriLeggendari14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-15/113",
+            "name": "Virizion",
+            "number": "15/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/VirizionTesoriLeggendari15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-16/113",
+            "name": "Genesect",
+            "number": "16/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/GenesectTesoriLeggendari16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-17/113",
+            "name": "Charmander",
+            "number": "17/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/CharmanderTesoriLeggendari17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-18/113",
+            "name": "Charmeleon",
+            "number": "18/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/CharmeleonTesoriLeggendari18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-19/113",
+            "name": "Charizard",
+            "number": "19/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/CharizardTesoriLeggendari19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-20/113",
+            "name": "Vulpix",
+            "number": "20/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/VulpixTesoriLeggendari20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-21/113",
+            "name": "Ninetales",
+            "number": "21/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/NinetalesTesoriLeggendari21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-22/113",
+            "name": "Moltres",
+            "number": "22/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MoltresTesoriLeggendari22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-23/113",
+            "name": "Victini",
+            "number": "23/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/VictiniTesoriLeggendari23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-24/113",
+            "name": "Victini-EX",
+            "number": "24/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Victini-EXTesoriLeggendari24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-25/113",
+            "name": "Tepig",
+            "number": "25/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/TepigTesoriLeggendari25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-26/113",
+            "name": "Pignite",
+            "number": "26/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/PigniteTesoriLeggendari26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-27/113",
+            "name": "Emboar",
+            "number": "27/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/EmboarTesoriLeggendari27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-28/113",
+            "name": "Reshiram",
+            "number": "28/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/ReshiramTesoriLeggendari28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-29/113",
+            "name": "Reshiram-EX",
+            "number": "29/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Reshiram-EXTesoriLeggendari29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-30/113",
+            "name": "Magikarp",
+            "number": "30/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/MagikarpTesoriLeggendari30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-31/113",
+            "name": "Gyarados",
+            "number": "31/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/GyaradosTesoriLeggendari31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-32/113",
+            "name": "Articuno",
+            "number": "32/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ArticunoTesoriLeggendari32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-33/113",
+            "name": "Piplup",
+            "number": "33/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/PiplupTesoriLeggendari33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-34/113",
+            "name": "Prinplup",
+            "number": "34/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/PrinplupTesoriLeggendari34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-35/113",
+            "name": "Empoleon",
+            "number": "35/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/EmpoleonTesoriLeggendari35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-36/113",
+            "name": "Phione",
+            "number": "36/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/PhioneTesoriLeggendari36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-37/113",
+            "name": "Oshawott",
+            "number": "37/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/OshawottTesoriLeggendari37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-38/113",
+            "name": "Dewott",
+            "number": "38/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DewottTesoriLeggendari38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-39/113",
+            "name": "Samurott",
+            "number": "39/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SamurottTesoriLeggendari39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-40/113",
+            "name": "Tympole",
+            "number": "40/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/TympoleTesoriLeggendari40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-41/113",
+            "name": "Palpitoad",
+            "number": "41/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/PalpitoadTesoriLeggendari41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-42/113",
+            "name": "Seismitoad",
+            "number": "42/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/SeismitoadTesoriLeggendari42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-43/113",
+            "name": "Kyurem",
+            "number": "43/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/KyuremTesoriLeggendari43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-44/113",
+            "name": "Kyurem-EX",
+            "number": "44/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Kyurem-EXTesoriLeggendari44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-45/113",
+            "name": "Keldeo-EX",
+            "number": "45/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Keldeo-EXTesoriLeggendari45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-46/113",
+            "name": "Zapdos",
+            "number": "46/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ZapdosTesoriLeggendari46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-47/113",
+            "name": "Plusle",
+            "number": "47/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/PlusleTesoriLeggendari47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-48/113",
+            "name": "Minun",
+            "number": "48/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MinunTesoriLeggendari48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-49/113",
+            "name": "Emolga",
+            "number": "49/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/EmolgaTesoriLeggendari49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-50/113",
+            "name": "Thundurus",
+            "number": "50/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/ThundurusTesoriLeggendari50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-51/113",
+            "name": "Zekrom",
+            "number": "51/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/ZekromTesoriLeggendari51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-52/113",
+            "name": "Zekrom-EX",
+            "number": "52/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Zekrom-EXTesoriLeggendari52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-53/113",
+            "name": "Mewtwo",
+            "number": "53/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/MewtwoTesoriLeggendari53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-54/113",
+            "name": "Mewtwo-EX",
+            "number": "54/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Mewtwo-EXTesoriLeggendari54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-55/113",
+            "name": "Natu",
+            "number": "55/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/NatuTesoriLeggendari55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-56/113",
+            "name": "Xatu",
+            "number": "56/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/XatuTesoriLeggendari56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-57/113",
+            "name": "Misdreavus",
+            "number": "57/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MisdreavusTesoriLeggendari57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-58/113",
+            "name": "Mismagius",
+            "number": "58/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MismagiusTesoriLeggendari58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-59/113",
+            "name": "Ralts",
+            "number": "59/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/RaltsTesoriLeggendari59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-60/113",
+            "name": "Kirlia",
+            "number": "60/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/KirliaTesoriLeggendari60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-61/113",
+            "name": "Sableye",
+            "number": "61/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/SableyeTesoriLeggendari61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-62/113",
+            "name": "Croagunk",
+            "number": "62/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/CroagunkTesoriLeggendari62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-63/113",
+            "name": "Toxicroak",
+            "number": "63/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/ToxicroakTesoriLeggendari63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-64/113",
+            "name": "Woobat",
+            "number": "64/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/WoobatTesoriLeggendari64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-65/113",
+            "name": "Swoobat",
+            "number": "65/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/SwoobatTesoriLeggendari65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-66/113",
+            "name": "Sigilyph",
+            "number": "66/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/SigilyphTesoriLeggendari66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-67/113",
+            "name": "Trubbish",
+            "number": "67/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/TrubbishTesoriLeggendari67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-68/113",
+            "name": "Garbodor",
+            "number": "68/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/GarbodorTesoriLeggendari68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-69/113",
+            "name": "Gothita",
+            "number": "69/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/GothitaTesoriLeggendari69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-70/113",
+            "name": "Gothita",
+            "number": "70/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/GothitaTesoriLeggendari70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-71/113",
+            "name": "Gothorita",
+            "number": "71/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/GothoritaTesoriLeggendari71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-72/113",
+            "name": "Gothitelle",
+            "number": "72/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/GothitelleTesoriLeggendari72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-73/113",
+            "name": "Solosis",
+            "number": "73/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/SolosisTesoriLeggendari73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-74/113",
+            "name": "Solosis",
+            "number": "74/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/SolosisTesoriLeggendari74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-75/113",
+            "name": "Duosion",
+            "number": "75/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DuosionTesoriLeggendari75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-76/113",
+            "name": "Reuniclus",
+            "number": "76/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/ReuniclusTesoriLeggendari76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-77/113",
+            "name": "Chandelure-EX",
+            "number": "77/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Chandelure-EXTesoriLeggendari77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-78/113",
+            "name": "Meloetta",
+            "number": "78/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MeloettaTesoriLeggendari78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-79/113",
+            "name": "Riolu",
+            "number": "79/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RioluTesoriLeggendari79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-80/113",
+            "name": "Lucario",
+            "number": "80/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/LucarioTesoriLeggendari80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-81/113",
+            "name": "Gallade",
+            "number": "81/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/GalladeTesoriLeggendari81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-82/113",
+            "name": "Excadrill-EX",
+            "number": "82/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Excadrill-EXTesoriLeggendari82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-83/113",
+            "name": "Stunfisk",
+            "number": "83/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/StunfiskTesoriLeggendari83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-84/113",
+            "name": "Terrakion",
+            "number": "84/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/TerrakionTesoriLeggendari84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-85/113",
+            "name": "Landorus",
+            "number": "85/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LandorusTesoriLeggendari85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-86/113",
+            "name": "Meloetta",
+            "number": "86/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MeloettaTesoriLeggendari86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-87/113",
+            "name": "Spiritomb",
+            "number": "87/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/SpiritombTesoriLeggendari87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-88/113",
+            "name": "Darkrai-EX",
+            "number": "88/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Darkrai-EXTesoriLeggendari88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-89/113",
+            "name": "Zorua",
+            "number": "89/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/ZoruaTesoriLeggendari89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-90/113",
+            "name": "Zoroark",
+            "number": "90/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ZoroarkTesoriLeggendari90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-91/113",
+            "name": "Cobalion",
+            "number": "91/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/CobalionTesoriLeggendari91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-92/113",
+            "name": "Altaria",
+            "number": "92/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/AltariaTesoriLeggendari92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-93/113",
+            "name": "Rayquaza",
+            "number": "93/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/RayquazaTesoriLeggendari93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-94/113",
+            "name": "Gible",
+            "number": "94/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/GibleTesoriLeggendari94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-95/113",
+            "name": "Gabite",
+            "number": "95/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/GabiteTesoriLeggendari95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-96/113",
+            "name": "Garchomp",
+            "number": "96/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/GarchompTesoriLeggendari96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-97/113",
+            "name": "Deino",
+            "number": "97/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/DeinoTesoriLeggendari97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-98/113",
+            "name": "Zweilous",
+            "number": "98/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/ZweilousTesoriLeggendari98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-99/113",
+            "name": "Hydreigon",
+            "number": "99/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/HydreigonTesoriLeggendari99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-100/113",
+            "name": "Kyurem Nero-EX",
+            "number": "100/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/KyuremNero-EXTesoriLeggendari100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-101/113",
+            "name": "Kyurem Bianco-EX",
+            "number": "101/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/KyuremBianco-EXTesoriLeggendari101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-102/113",
+            "name": "Lugia-EX",
+            "number": "102/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Lugia-EXTesoriLeggendari102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-103/113",
+            "name": "Swablu",
+            "number": "103/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/SwabluTesoriLeggendari103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-104/113",
+            "name": "Minccino",
+            "number": "104/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/MinccinoTesoriLeggendari104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-105/113",
+            "name": "Cinccino",
+            "number": "105/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/CinccinoTesoriLeggendari105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-106/113",
+            "name": "Druddigon",
+            "number": "106/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DruddigonTesoriLeggendari106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-107/113",
+            "name": "Bouffalant",
+            "number": "107/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/BouffalantTesoriLeggendari107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-108/113",
+            "name": "Tornadus",
+            "number": "108/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/TornadusTesoriLeggendari108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-109/113",
+            "name": "Belle",
+            "number": "109/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BelleTesoriLeggendari109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-110/113",
+            "name": "Gasparago Aralia",
+            "number": "110/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/GasparagoAraliaTesoriLeggendari110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-111/113",
+            "name": "Martello Dirompente",
+            "number": "111/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MartelloDirompenteTesoriLeggendari111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-112/113",
+            "name": "Scambio di Energia",
+            "number": "112/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ScambiodiEnergiaTesoriLeggendari112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-113/113",
+            "name": "Energia Incolore doppia",
+            "number": "113/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/EnergiaIncoloredoppiaTesoriLeggendari113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LTR-114/113",
+            "name": "Reshiram",
+            "number": "114/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ReshiramTesoriLeggendari114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LTR-115/113",
+            "name": "Zekrom",
+            "number": "115/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ZekromTesoriLeggendari115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LTR-RC1/RC25",
+            "name": "Snivy",
+            "number": "RC1/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SnivyTesoriLeggendariRC1.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC2/RC25",
+            "name": "Servine",
+            "number": "RC2/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ServineTesoriLeggendariRC2.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC3/RC25",
+            "name": "Serperior",
+            "number": "RC3/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/SerperiorTesoriLeggendariRC3.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC4/RC25",
+            "name": "Growlithe",
+            "number": "RC4/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GrowlitheTesoriLeggendariRC4.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC5/RC25",
+            "name": "Torchic",
+            "number": "RC5/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/TorchicTesoriLeggendariRC5.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC6/RC25",
+            "name": "Piplup",
+            "number": "RC6/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/PiplupTesoriLeggendariRC6.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC7/RC25",
+            "name": "Pikachu",
+            "number": "RC7/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/PikachuTesoriLeggendariRC7.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC8/RC25",
+            "name": "Ralts",
+            "number": "RC8/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/RaltsTesoriLeggendariRC8.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC9/RC25",
+            "name": "Kirlia",
+            "number": "RC9/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/KirliaTesoriLeggendariRC9.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC10/RC25",
+            "name": "Gardevoir",
+            "number": "RC10/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GardevoirTesoriLeggendariRC10.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC11/RC25",
+            "name": "Meloetta-EX",
+            "number": "RC11/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Meloetta-EXTesoriLeggendariRC11.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC12/RC25",
+            "name": "Stunfisk",
+            "number": "RC12/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/StunfiskTesoriLeggendariRC12.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC13/RC25",
+            "name": "Purrloin",
+            "number": "RC13/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/PurrloinTesoriLeggendariRC13.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC14/RC25",
+            "name": "Eevee",
+            "number": "RC14/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/EeveeTesoriLeggendariRC14.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC15/RC25",
+            "name": "Teddiursa",
+            "number": "RC15/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/TeddiursaTesoriLeggendariRC15.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC16/RC25",
+            "name": "Ursaring",
+            "number": "RC16/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/UrsaringTesoriLeggendariRC16.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC17/RC25",
+            "name": "Audino",
+            "number": "RC17/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/AudinoTesoriLeggendariRC17.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC18/RC25",
+            "name": "Minccino",
+            "number": "RC18/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MinccinoTesoriLeggendariRC18.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC19/RC25",
+            "name": "Cinccino",
+            "number": "RC19/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/CinccinoTesoriLeggendariRC19.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC20/RC25",
+            "name": "Camelia",
+            "number": "RC20/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CameliaTesoriLeggendariRC20.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC21/RC25",
+            "name": "Shaymin-EX",
+            "number": "RC21/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Shaymin-EXTesoriLeggendariRC21.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC22/RC25",
+            "name": "Reshiram",
+            "number": "RC22/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/ReshiramTesoriLeggendariRC22.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC23/RC25",
+            "name": "Emolga",
+            "number": "RC23/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/EmolgaTesoriLeggendariRC23.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC24/RC25",
+            "name": "Mew-EX",
+            "number": "RC24/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/Mew-EXTesoriLeggendariRC24.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "LTR-RC25/RC25",
+            "name": "Meloetta-EX",
+            "number": "RC25/RC25",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Meloetta-EXTesoriLeggendariRC25.png",
+            "section": "Raccolta Cangiante"
+        }
+    ]
+}

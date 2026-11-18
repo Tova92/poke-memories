@@ -1,0 +1,933 @@
+{
+    "expansion": {
+        "id": "PFL",
+        "name": "Megaevoluzione - Fiamme Spettrali",
+        "year": 2025,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d3/SimboloSetFiamme_Spettrali.png",
+        "cardCount": 130
+    },
+    "cards": [
+        {
+            "id": "PFL-001/094",
+            "name": "Oddish",
+            "number": "001/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/OddishFiammeSpettrali1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-002/094",
+            "name": "Gloom",
+            "number": "002/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GloomFiammeSpettrali2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-003/094",
+            "name": "Vileplume",
+            "number": "003/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/VileplumeFiammeSpettrali3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-004/094",
+            "name": "Mega Heracross-ex",
+            "number": "004/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/MegaHeracross-exFiammeSpettrali4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-005/094",
+            "name": "Lotad",
+            "number": "005/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/LotadFiammeSpettrali5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-006/094",
+            "name": "Lombre",
+            "number": "006/094",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/LombreFiammeSpettrali6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-007/094",
+            "name": "Ludicolo",
+            "number": "007/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/LudicoloFiammeSpettrali7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-008/094",
+            "name": "Genesect",
+            "number": "008/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/GenesectFiammeSpettrali8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-009/094",
+            "name": "Nymble",
+            "number": "009/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/NymbleFiammeSpettrali9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-010/094",
+            "name": "Lokix",
+            "number": "010/094",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/LokixFiammeSpettrali10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-011/094",
+            "name": "Charmander",
+            "number": "011/094",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/CharmanderFiammeSpettrali11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-012/094",
+            "name": "Charmeleon",
+            "number": "012/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/CharmeleonFiammeSpettrali12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-013/094",
+            "name": "Mega Charizard X-ex",
+            "number": "013/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/MegaCharizardX-exFiammeSpettrali13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-014/094",
+            "name": "Moltres",
+            "number": "014/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MoltresFiammeSpettrali14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-015/094",
+            "name": "Darumaka",
+            "number": "015/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/DarumakaFiammeSpettrali15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-016/094",
+            "name": "Darmanitan",
+            "number": "016/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/DarmanitanFiammeSpettrali16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-017/094",
+            "name": "Reshiram",
+            "number": "017/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ReshiramFiammeSpettrali17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-018/094",
+            "name": "Oricorio-ex",
+            "number": "018/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Oricorio-exFiammeSpettrali18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-019/094",
+            "name": "Charcadet",
+            "number": "019/094",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/CharcadetFiammeSpettrali19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-020/094",
+            "name": "Ceruledge",
+            "number": "020/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CeruledgeFiammeSpettrali20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-021/094",
+            "name": "Seel",
+            "number": "021/094",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/SeelFiammeSpettrali21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-022/094",
+            "name": "Dewgong",
+            "number": "022/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/DewgongFiammeSpettrali22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-023/094",
+            "name": "Swinub",
+            "number": "023/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/SwinubFiammeSpettrali23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-024/094",
+            "name": "Piloswine",
+            "number": "024/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/PiloswineFiammeSpettrali24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-025/094",
+            "name": "Mamoswine",
+            "number": "025/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MamoswineFiammeSpettrali25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-026/094",
+            "name": "Suicune",
+            "number": "026/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SuicuneFiammeSpettrali26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-027/094",
+            "name": "Piplup",
+            "number": "027/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/PiplupFiammeSpettrali27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-028/094",
+            "name": "Prinplup",
+            "number": "028/094",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/PrinplupFiammeSpettrali28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-029/094",
+            "name": "Rotom-ex",
+            "number": "029/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Rotom-exFiammeSpettrali29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-030/094",
+            "name": "Yamper",
+            "number": "030/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/YamperFiammeSpettrali30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-031/094",
+            "name": "Boltund",
+            "number": "031/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BoltundFiammeSpettrali31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-032/094",
+            "name": "Pawmi",
+            "number": "032/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/PawmiFiammeSpettrali32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-033/094",
+            "name": "Pawmo",
+            "number": "033/094",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/PawmoFiammeSpettrali33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-034/094",
+            "name": "Pawmot",
+            "number": "034/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/PawmotFiammeSpettrali34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-035/094",
+            "name": "Misdreavus",
+            "number": "035/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/MisdreavusFiammeSpettrali35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-036/094",
+            "name": "Mismagius-ex",
+            "number": "036/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Mismagius-exFiammeSpettrali36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-037/094",
+            "name": "Snubbull",
+            "number": "037/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/SnubbullFiammeSpettrali37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-038/094",
+            "name": "Granbull",
+            "number": "038/094",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GranbullFiammeSpettrali38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-039/094",
+            "name": "Cresselia",
+            "number": "039/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CresseliaFiammeSpettrali39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-040/094",
+            "name": "Meloetta",
+            "number": "040/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MeloettaFiammeSpettrali40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-041/094",
+            "name": "Mega Diancie-ex",
+            "number": "041/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/MegaDiancie-exFiammeSpettrali41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-042/094",
+            "name": "Mimikyu",
+            "number": "042/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MimikyuFiammeSpettrali42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-043/094",
+            "name": "Milcery",
+            "number": "043/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MilceryFiammeSpettrali43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-044/094",
+            "name": "Alcremie",
+            "number": "044/094",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/AlcremieFiammeSpettrali44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-045/094",
+            "name": "Zacian",
+            "number": "045/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ZacianFiammeSpettrali45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-046/094",
+            "name": "Bramblin",
+            "number": "046/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/BramblinFiammeSpettrali46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-047/094",
+            "name": "Brambleghast",
+            "number": "047/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/BrambleghastFiammeSpettrali47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-048/094",
+            "name": "Tauros di Paldea",
+            "number": "048/094",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/TaurosdiPaldeaFiammeSpettrali48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-049/094",
+            "name": "Gligar",
+            "number": "049/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/GligarFiammeSpettrali49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-050/094",
+            "name": "Gliscor",
+            "number": "050/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/GliscorFiammeSpettrali50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-051/094",
+            "name": "Trapinch",
+            "number": "051/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/TrapinchFiammeSpettrali51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-052/094",
+            "name": "Vibrava",
+            "number": "052/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/VibravaFiammeSpettrali52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-053/094",
+            "name": "Flygon",
+            "number": "053/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/FlygonFiammeSpettrali53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-054/094",
+            "name": "Gastly",
+            "number": "054/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GastlyFiammeSpettrali54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-055/094",
+            "name": "Haunter",
+            "number": "055/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/HaunterFiammeSpettrali55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-056/094",
+            "name": "Mega Gengar-ex",
+            "number": "056/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/MegaGengar-exFiammeSpettrali56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-057/094",
+            "name": "Murkrow",
+            "number": "057/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MurkrowFiammeSpettrali57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-058/094",
+            "name": "Honchkrow",
+            "number": "058/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/HonchkrowFiammeSpettrali58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-059/094",
+            "name": "Sableye",
+            "number": "059/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SableyeFiammeSpettrali59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-060/094",
+            "name": "Carvanha",
+            "number": "060/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/CarvanhaFiammeSpettrali60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-061/094",
+            "name": "Mega Sharpedo-ex",
+            "number": "061/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MegaSharpedo-exFiammeSpettrali61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-062/094",
+            "name": "Seviper",
+            "number": "062/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/SeviperFiammeSpettrali62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-063/094",
+            "name": "Absol",
+            "number": "063/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/AbsolFiammeSpettrali63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-064/094",
+            "name": "Sandile",
+            "number": "064/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SandileFiammeSpettrali64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-065/094",
+            "name": "Krokorok",
+            "number": "065/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/KrokorokFiammeSpettrali65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-066/094",
+            "name": "Krookodile",
+            "number": "066/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/KrookodileFiammeSpettrali66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-067/094",
+            "name": "Toxel",
+            "number": "067/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ToxelFiammeSpettrali67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-068/094",
+            "name": "Toxtricity",
+            "number": "068/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ToxtricityFiammeSpettrali68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-069/094",
+            "name": "Eternatus",
+            "number": "069/094",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/EternatusFiammeSpettrali69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-070/094",
+            "name": "Empoleon-ex",
+            "number": "070/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Empoleon-exFiammeSpettrali70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-071/094",
+            "name": "Bronzor",
+            "number": "071/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/BronzorFiammeSpettrali71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-072/094",
+            "name": "Bronzong",
+            "number": "072/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/BronzongFiammeSpettrali72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-073/094",
+            "name": "Togedemaru",
+            "number": "073/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/TogedemaruFiammeSpettrali73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-074/094",
+            "name": "Duraludon",
+            "number": "074/094",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/DuraludonFiammeSpettrali74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-075/094",
+            "name": "Archaludon",
+            "number": "075/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ArchaludonFiammeSpettrali75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-076/094",
+            "name": "Jigglypuff",
+            "number": "076/094",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/JigglypuffFiammeSpettrali76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-077/094",
+            "name": "Wigglytuff",
+            "number": "077/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/WigglytuffFiammeSpettrali77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-078/094",
+            "name": "Aipom",
+            "number": "078/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/AipomFiammeSpettrali78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-079/094",
+            "name": "Ambipom",
+            "number": "079/094",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/AmbipomFiammeSpettrali79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-080/094",
+            "name": "Smeargle",
+            "number": "080/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SmeargleFiammeSpettrali80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-081/094",
+            "name": "Zigzagoon",
+            "number": "081/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ZigzagoonFiammeSpettrali81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-082/094",
+            "name": "Linoone",
+            "number": "082/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/LinooneFiammeSpettrali82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-083/094",
+            "name": "Buneary",
+            "number": "083/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BunearyFiammeSpettrali83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-084/094",
+            "name": "Mega Lopunny-ex",
+            "number": "084/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MegaLopunny-exFiammeSpettrali84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-085/094",
+            "name": "Gabbia di Lotta",
+            "number": "085/094",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/GabbiadiLottaFiammeSpettrali85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-086/094",
+            "name": "Fiamma Ossidrica",
+            "number": "086/094",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/FiammaOssidricaFiammeSpettrali86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-087/094",
+            "name": "Lucinda",
+            "number": "087/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/LucindaFiammeSpettrali87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-088/094",
+            "name": "Valle Disorientante",
+            "number": "088/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/ValleDisorientanteFiammeSpettrali88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-089/094",
+            "name": "Mangiafuoco",
+            "number": "089/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MangiafuocoFiammeSpettrali89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-090/094",
+            "name": "Mossa di Mirton",
+            "number": "090/094",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/MossadiMirtonFiammeSpettrali90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-091/094",
+            "name": "Gelato Gigante",
+            "number": "091/094",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/GelatoGiganteFiammeSpettrali91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-092/094",
+            "name": "Elmo Punk",
+            "number": "092/094",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ElmoPunkFiammeSpettrali92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-093/094",
+            "name": "Amuleto Magico",
+            "number": "093/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/AmuletoMagicoFiammeSpettrali93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-094/094",
+            "name": "Distintivo Meraviglioso",
+            "number": "094/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/DistintivoMeravigliosoFiammeSpettrali94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PFL-095/094",
+            "name": "Ludicolo",
+            "number": "095/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/LudicoloFiammeSpettrali95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-096/094",
+            "name": "Nymble",
+            "number": "096/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/NymbleFiammeSpettrali96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-097/094",
+            "name": "Dewgong",
+            "number": "097/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/DewgongFiammeSpettrali97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-098/094",
+            "name": "Piplup",
+            "number": "098/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/PiplupFiammeSpettrali98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-099/094",
+            "name": "Yamper",
+            "number": "099/094",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/YamperFiammeSpettrali99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-100/094",
+            "name": "Zacian",
+            "number": "100/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/ZacianFiammeSpettrali100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-101/094",
+            "name": "Flygon",
+            "number": "101/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/FlygonFiammeSpettrali101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-102/094",
+            "name": "Wooper di Paldea",
+            "number": "102/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/WooperdiPaldeaFiammeSpettrali102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-103/094",
+            "name": "Toxtricity",
+            "number": "103/094",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/ToxtricityFiammeSpettrali103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-104/094",
+            "name": "Togedemaru",
+            "number": "104/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/TogedemaruFiammeSpettrali104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-105/094",
+            "name": "Wigglytuff",
+            "number": "105/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/WigglytuffFiammeSpettrali105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-106/094",
+            "name": "Meowth",
+            "number": "106/094",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MeowthFiammeSpettrali106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-107/094",
+            "name": "Ambipom",
+            "number": "107/094",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/AmbipomFiammeSpettrali107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-108/094",
+            "name": "Mega Heracross-ex",
+            "number": "108/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/MegaHeracross-exFiammeSpettrali108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-109/094",
+            "name": "Mega Charizard X-ex",
+            "number": "109/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/MegaCharizardX-exFiammeSpettrali109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-110/094",
+            "name": "Oricorio-ex",
+            "number": "110/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Oricorio-exFiammeSpettrali110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-111/094",
+            "name": "Rotom-ex",
+            "number": "111/094",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Rotom-exFiammeSpettrali111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-112/094",
+            "name": "Mismagius-ex",
+            "number": "112/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Mismagius-exFiammeSpettrali112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-113/094",
+            "name": "Mega Sharpedo-ex",
+            "number": "113/094",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MegaSharpedo-exFiammeSpettrali113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-114/094",
+            "name": "Empoleon-ex",
+            "number": "114/094",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Empoleon-exFiammeSpettrali114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-115/094",
+            "name": "Mega Lopunny-ex",
+            "number": "115/094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MegaLopunny-exFiammeSpettrali115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-116/094",
+            "name": "Gabbia di Lotta",
+            "number": "116/094",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/GabbiadiLottaFiammeSpettrali116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-117/094",
+            "name": "Fiamma Ossidrica",
+            "number": "117/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/FiammaOssidricaFiammeSpettrali117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-118/094",
+            "name": "Lucinda",
+            "number": "118/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/LucindaFiammeSpettrali118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-119/094",
+            "name": "Mangiafuoco",
+            "number": "119/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/MangiafuocoFiammeSpettrali119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-120/094",
+            "name": "Mossa di Mirton",
+            "number": "120/094",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MossadiMirtonFiammeSpettrali120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-121/094",
+            "name": "Elmo Punk",
+            "number": "121/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ElmoPunkFiammeSpettrali121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-122/094",
+            "name": "Amuleto Magico",
+            "number": "122/094",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/AmuletoMagicoFiammeSpettrali122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-123/094",
+            "name": "Scambio",
+            "number": "123/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ScambioFiammeSpettrali123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-124/094",
+            "name": "Energia Deflagrazione",
+            "number": "124/094",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/EnergiaDeflagrazioneFiammeSpettrali124.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-125/094",
+            "name": "Mega Charizard X-ex",
+            "number": "125/094",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MegaCharizardX-exFiammeSpettrali125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-126/094",
+            "name": "Rotom-ex",
+            "number": "126/094",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Rotom-exFiammeSpettrali126.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-127/094",
+            "name": "Mega Sharpedo-ex",
+            "number": "127/094",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MegaSharpedo-exFiammeSpettrali127.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-128/094",
+            "name": "Mega Lopunny-ex",
+            "number": "128/094",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/MegaLopunny-exFiammeSpettrali128.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-129/094",
+            "name": "Lucinda",
+            "number": "129/094",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/LucindaFiammeSpettrali129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PFL-130/094",
+            "name": "Mega Charizard X-ex",
+            "number": "130/094",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MegaCharizardX-exFiammeSpettrali130.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

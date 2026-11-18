@@ -1,0 +1,882 @@
+{
+    "expansion": {
+        "id": "PHF",
+        "name": "XY - Forze Spettrali",
+        "year": 2014,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetForze_Spettrali.png",
+        "cardCount": 122,
+				"yellowAAlternateCardCount": 2
+    },
+    "cards": [
+        {
+            "id": "PHF-1/119",
+            "name": "Venonat",
+            "number": "1/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/VenonatForzeSpettrali1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-2/119",
+            "name": "Venomoth",
+            "number": "2/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/VenomothForzeSpettrali2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-3/119",
+            "name": "Yanma",
+            "number": "3/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/YanmaForzeSpettrali3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-4/119",
+            "name": "Yanmega",
+            "number": "4/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/YanmegaForzeSpettrali4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-5/119",
+            "name": "Sewaddle",
+            "number": "5/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/SewaddleForzeSpettrali5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-6/119",
+            "name": "Swadloon",
+            "number": "6/119",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SwadloonForzeSpettrali6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-7/119",
+            "name": "Leavanny",
+            "number": "7/119",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/LeavannyForzeSpettrali7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-8/119",
+            "name": "Karrablast",
+            "number": "8/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/KarrablastForzeSpettrali8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-9/119",
+            "name": "Fletchinder",
+            "number": "9/119",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/FletchinderForzeSpettrali9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-10/119",
+            "name": "Talonflame",
+            "number": "10/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/TalonflameForzeSpettrali10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-11/119",
+            "name": "Litleo",
+            "number": "11/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/LitleoForzeSpettrali11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-12/119",
+            "name": "Pyroar",
+            "number": "12/119",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/PyroarForzeSpettrali12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-13/119",
+            "name": "Krabby",
+            "number": "13/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/KrabbyForzeSpettrali13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-14/119",
+            "name": "Kingler",
+            "number": "14/119",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/KinglerForzeSpettrali14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-15/119",
+            "name": "Totodile",
+            "number": "15/119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/TotodileForzeSpettrali15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-16/119",
+            "name": "Croconaw",
+            "number": "16/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/CroconawForzeSpettrali16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-17/119",
+            "name": "Feraligatr",
+            "number": "17/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/FeraligatrForzeSpettrali17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-18/119",
+            "name": "Finneon",
+            "number": "18/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/FinneonForzeSpettrali18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-19/119",
+            "name": "Lumineon",
+            "number": "19/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/LumineonForzeSpettrali19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-20/119",
+            "name": "Frillish",
+            "number": "20/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/FrillishForzeSpettrali20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-21/119",
+            "name": "Jellicent",
+            "number": "21/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/JellicentForzeSpettrali21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-22/119",
+            "name": "Alomomola",
+            "number": "22/119",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/AlomomolaForzeSpettrali22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-23/119",
+            "name": "Manectric-EX",
+            "number": "23/119",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Manectric-EXForzeSpettrali23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-24/119",
+            "name": "M Manectric-EX",
+            "number": "24/119",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/MManectric-EXForzeSpettrali24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-25/119",
+            "name": "Pachirisu",
+            "number": "25/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/PachirisuForzeSpettrali25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-26/119",
+            "name": "Joltik",
+            "number": "26/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/JoltikForzeSpettrali26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-27/119",
+            "name": "Galvantula",
+            "number": "27/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/GalvantulaForzeSpettrali27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-28/119",
+            "name": "Helioptile",
+            "number": "28/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/HelioptileForzeSpettrali28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-29/119",
+            "name": "Helioptile",
+            "number": "29/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/HelioptileForzeSpettrali29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-30/119",
+            "name": "Heliolisk",
+            "number": "30/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/HelioliskForzeSpettrali30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-31/119",
+            "name": "Zubat",
+            "number": "31/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ZubatForzeSpettrali31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-32/119",
+            "name": "Golbat",
+            "number": "32/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/GolbatForzeSpettrali32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-33/119",
+            "name": "Crobat",
+            "number": "33/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/CrobatForzeSpettrali33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-34/119",
+            "name": "Gengar-EX",
+            "number": "34/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Gengar-EXForzeSpettrali34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-35/119",
+            "name": "M Gengar-EX",
+            "number": "35/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MGengar-EXForzeSpettrali35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-36/119",
+            "name": "Wobbuffet",
+            "number": "36/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/WobbuffetForzeSpettrali36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-37/119",
+            "name": "Gulpin",
+            "number": "37/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GulpinForzeSpettrali37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-38/119",
+            "name": "Swalot",
+            "number": "38/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/SwalotForzeSpettrali38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-39/119",
+            "name": "Munna",
+            "number": "39/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MunnaForzeSpettrali39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-40/119",
+            "name": "Musharna",
+            "number": "40/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/MusharnaForzeSpettrali40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-41/119",
+            "name": "Litwick",
+            "number": "41/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/LitwickForzeSpettrali41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-42/119",
+            "name": "Lampent",
+            "number": "42/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/LampentForzeSpettrali42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-43/119",
+            "name": "Chandelure",
+            "number": "43/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ChandelureForzeSpettrali43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-44/119",
+            "name": "Pumpkaboo",
+            "number": "44/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PumpkabooForzeSpettrali44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-45/119",
+            "name": "Gourgeist",
+            "number": "45/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/GourgeistForzeSpettrali45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-46/119",
+            "name": "Gligar",
+            "number": "46/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/GligarForzeSpettrali46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-47/119",
+            "name": "Gliscor",
+            "number": "47/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/GliscorForzeSpettrali47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-48/119",
+            "name": "Roggenrola",
+            "number": "48/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/RoggenrolaForzeSpettrali48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-49/119",
+            "name": "Boldore",
+            "number": "49/119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/BoldoreForzeSpettrali49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-50/119",
+            "name": "Gigalith",
+            "number": "50/119",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/GigalithForzeSpettrali50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-51/119",
+            "name": "Murkrow",
+            "number": "51/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MurkrowForzeSpettrali51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-52/119",
+            "name": "Honchkrow",
+            "number": "52/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/HonchkrowForzeSpettrali52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-53/119",
+            "name": "Poochyena",
+            "number": "53/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/PoochyenaForzeSpettrali53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-54/119",
+            "name": "Mightyena",
+            "number": "54/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/MightyenaForzeSpettrali54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-55/119",
+            "name": "Spiritomb",
+            "number": "55/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SpiritombForzeSpettrali55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-56/119",
+            "name": "Purrloin",
+            "number": "56/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/PurrloinForzeSpettrali56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-57/119",
+            "name": "Liepard",
+            "number": "57/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/LiepardForzeSpettrali57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-58/119",
+            "name": "Malamar-EX",
+            "number": "58/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Malamar-EXForzeSpettrali58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-59/119",
+            "name": "Skarmory",
+            "number": "59/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/SkarmoryForzeSpettrali59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-60/119",
+            "name": "Bronzor",
+            "number": "60/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/BronzorForzeSpettrali60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-61/119",
+            "name": "Bronzong",
+            "number": "61/119",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/BronzongForzeSpettrali61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-62/119",
+            "name": "Dialga-EX",
+            "number": "62/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Dialga-EXForzeSpettrali62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-63/119",
+            "name": "Heatran",
+            "number": "63/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/HeatranForzeSpettrali63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-64/119",
+            "name": "Escavalier",
+            "number": "64/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/EscavalierForzeSpettrali64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-65/119",
+            "name": "Aegislash-EX",
+            "number": "65/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Aegislash-EXForzeSpettrali65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-66/119",
+            "name": "Klefki",
+            "number": "66/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/KlefkiForzeSpettrali66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-67/119",
+            "name": "Florges-EX",
+            "number": "67/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Florges-EXForzeSpettrali67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-68/119",
+            "name": "Swirlix",
+            "number": "68/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SwirlixForzeSpettrali68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-69/119",
+            "name": "Slurpuff",
+            "number": "69/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/SlurpuffForzeSpettrali69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-70/119",
+            "name": "Dedenne",
+            "number": "70/119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/DedenneForzeSpettrali70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-71/119",
+            "name": "Diancie",
+            "number": "71/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DiancieForzeSpettrali71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-72/119",
+            "name": "Deino",
+            "number": "72/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/DeinoForzeSpettrali72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-73/119",
+            "name": "Zweilous",
+            "number": "73/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/ZweilousForzeSpettrali73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-74/119",
+            "name": "Hydreigon",
+            "number": "74/119",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/HydreigonForzeSpettrali74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-75/119",
+            "name": "Goomy",
+            "number": "75/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/GoomyForzeSpettrali75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-76/119",
+            "name": "Sliggoo",
+            "number": "76/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/SliggooForzeSpettrali76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-77/119",
+            "name": "Goodra",
+            "number": "77/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/GoodraForzeSpettrali77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-78/119",
+            "name": "Spearow",
+            "number": "78/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SpearowForzeSpettrali78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-79/119",
+            "name": "Fearow",
+            "number": "79/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/FearowForzeSpettrali79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-80/119",
+            "name": "Chansey",
+            "number": "80/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ChanseyForzeSpettrali80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-81/119",
+            "name": "Blissey",
+            "number": "81/119",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/BlisseyForzeSpettrali81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-82/119",
+            "name": "Girafarig",
+            "number": "82/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/GirafarigForzeSpettrali82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-83/119",
+            "name": "Whismur",
+            "number": "83/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/WhismurForzeSpettrali83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-84/119",
+            "name": "Loudred",
+            "number": "84/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/LoudredForzeSpettrali84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-85/119",
+            "name": "Exploud",
+            "number": "85/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/ExploudForzeSpettrali85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-86/119",
+            "name": "Regigigas",
+            "number": "86/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/RegigigasForzeSpettrali86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-87/119",
+            "name": "Bunnelby",
+            "number": "87/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/BunnelbyForzeSpettrali87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-88/119",
+            "name": "Diggersby",
+            "number": "88/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/DiggersbyForzeSpettrali88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-89/119",
+            "name": "Fletchling",
+            "number": "89/119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/FletchlingForzeSpettrali89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-90/119",
+            "name": "Furfrou",
+            "number": "90/119",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/FurfrouForzeSpettrali90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-91/119",
+            "name": "AZ",
+            "number": "91/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/AZForzeSpettrali91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-92/119",
+            "name": "Compressore Lotta",
+            "number": "92/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/CompressoreLottaForzeSpettrali92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-93/119",
+            "name": "Valle Dimensionale",
+            "number": "93/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ValleDimensionaleForzeSpettrali93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-94/119",
+            "name": "Supermartello",
+            "number": "94/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SupermartelloForzeSpettrali94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-95/119",
+            "name": "Legame Mentale con Gengar",
+            "number": "95/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/LegameMentaleconGengarForzeSpettrali95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-96/119",
+            "name": "Mirino Manuale",
+            "number": "96/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MirinoManualeForzeSpettrali96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-97/119",
+            "name": "Casco Sonoro",
+            "number": "97/119",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CascoSonoroForzeSpettrali97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-98/119",
+            "name": "Rete Disturbo",
+            "number": "98/119",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ReteDisturboForzeSpettrali98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-99/119",
+            "name": "Asso di Elisio",
+            "number": "99/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/AssodiElisioForzeSpettrali99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-100/119",
+            "name": "Legame Mentale con Manectric",
+            "number": "100/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/LegameMentaleconManectricForzeSpettrali100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-101/119",
+            "name": "Professor Platan",
+            "number": "101/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/ProfessorPlatanForzeSpettrali101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-102/119",
+            "name": "Sostituto Robot",
+            "number": "102/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SostitutoRobotForzeSpettrali102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-103/119",
+            "name": "Pattini",
+            "number": "103/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PattiniForzeSpettrali103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-104/119",
+            "name": "Shana",
+            "number": "104/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/ShanaForzeSpettrali104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-105/119",
+            "name": "Rifugio Acciaio",
+            "number": "105/119",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/RifugioAcciaioForzeSpettrali105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-106/119",
+            "name": "Fischio Mirato",
+            "number": "106/119",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/FischioMiratoForzeSpettrali106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-107/119",
+            "name": "Tierno",
+            "number": "107/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/TiernoForzeSpettrali107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-108/119",
+            "name": "Moneta Truccata",
+            "number": "108/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MonetaTruccataForzeSpettrali108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-109/119",
+            "name": "Cercasfide",
+            "number": "109/119",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/CercasfideForzeSpettrali109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-110/119",
+            "name": "Xante",
+            "number": "110/119",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/XanteForzeSpettrali110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-111/119",
+            "name": "Energia Incolore doppia",
+            "number": "111/119",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/EnergiaIncoloredoppiaForzeSpettrali111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-112/119",
+            "name": "Energia Mistero",
+            "number": "112/119",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/EnergiaMisteroForzeSpettrali112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-113/119",
+            "name": "Manectric-EX",
+            "number": "113/119",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Manectric-EXForzeSpettrali113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-114/119",
+            "name": "Gengar-EX",
+            "number": "114/119",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Gengar-EXForzeSpettrali114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-115/119",
+            "name": "Malamar-EX",
+            "number": "115/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Malamar-EXForzeSpettrali115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-116/119",
+            "name": "Florges-EX",
+            "number": "116/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Florges-EXForzeSpettrali116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-117/119",
+            "name": "AZ",
+            "number": "117/119",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/AZForzeSpettrali117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-118/119",
+            "name": "Asso di Elisio",
+            "number": "118/119",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/AssodiElisioForzeSpettrali118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-119/119",
+            "name": "Xante",
+            "number": "119/119",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/XanteForzeSpettrali119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PHF-120/119",
+            "name": "M Manectric-EX",
+            "number": "120/119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/MManectric-EXForzeSpettrali120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PHF-121/119",
+            "name": "M Gengar-EX",
+            "number": "121/119",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MGengar-EXForzeSpettrali121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PHF-122/119",
+            "name": "Dialga-EX",
+            "number": "122/119",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Dialga-EXForzeSpettrali122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PHF-24a/119",
+            "name": "M Manectric-EX",
+            "number": "24a/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MManectric-EXForzeSpettrali24a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "PHF-65a/119",
+            "name": "Aegislash-EX",
+            "number": "65a/119",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Aegislash-EXForzeSpettrali65a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

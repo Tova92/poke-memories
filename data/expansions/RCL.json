@@ -1,0 +1,1476 @@
+{
+    "expansion": {
+        "id": "RCL",
+        "name": "Spada e Scudo - Fragore Ribelle",
+        "year": 2020,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/62/SimboloSetFragore_Ribelle.png",
+        "cardCount": 209
+    },
+    "cards": [
+        {
+            "id": "RCL-001/192",
+            "name": "Caterpie",
+            "number": "001/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/CaterpieFragoreRibelle1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-002/192",
+            "name": "Metapod",
+            "number": "002/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MetapodFragoreRibelle2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-003/192",
+            "name": "Butterfree",
+            "number": "003/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/ButterfreeFragoreRibelle3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-004/192",
+            "name": "Scyther",
+            "number": "004/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/ScytherFragoreRibelle4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-005/192",
+            "name": "Shuckle",
+            "number": "005/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ShuckleFragoreRibelle5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-006/192",
+            "name": "Heracross",
+            "number": "006/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/HeracrossFragoreRibelle6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-007/192",
+            "name": "Lotad",
+            "number": "007/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/LotadFragoreRibelle7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-008/192",
+            "name": "Lombre",
+            "number": "008/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/LombreFragoreRibelle8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-009/192",
+            "name": "Ludicolo",
+            "number": "009/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/LudicoloFragoreRibelle9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-010/192",
+            "name": "Surskit",
+            "number": "010/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SurskitFragoreRibelle10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-011/192",
+            "name": "Masquerain",
+            "number": "011/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MasquerainFragoreRibelle11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-012/192",
+            "name": "Snover",
+            "number": "012/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SnoverFragoreRibelle12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-013/192",
+            "name": "Abomasnow",
+            "number": "013/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/AbomasnowFragoreRibelle13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-014/192",
+            "name": "Phantump",
+            "number": "014/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/PhantumpFragoreRibelle14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-015/192",
+            "name": "Trevenant",
+            "number": "015/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TrevenantFragoreRibelle15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-016/192",
+            "name": "Grubbin",
+            "number": "016/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/GrubbinFragoreRibelle16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-017/192",
+            "name": "Rillaboom-V",
+            "number": "017/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Rillaboom-VFragoreRibelle17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-018/192",
+            "name": "Rillaboom-VMAX",
+            "number": "018/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/Rillaboom-VMAXFragoreRibelle18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-019/192",
+            "name": "Eldegoss-V",
+            "number": "019/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Eldegoss-VFragoreRibelle19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-020/192",
+            "name": "Applin",
+            "number": "020/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/ApplinFragoreRibelle20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-021/192",
+            "name": "Applin",
+            "number": "021/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ApplinFragoreRibelle21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-022/192",
+            "name": "Flapple",
+            "number": "022/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/FlappleFragoreRibelle22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-023/192",
+            "name": "Appletun",
+            "number": "023/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/AppletunFragoreRibelle23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-024/192",
+            "name": "Vulpix",
+            "number": "024/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/VulpixFragoreRibelle24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-025/192",
+            "name": "Ninetales",
+            "number": "025/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/NinetalesFragoreRibelle25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-026/192",
+            "name": "Ninetales-V",
+            "number": "026/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/Ninetales-VFragoreRibelle26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-027/192",
+            "name": "Growlithe",
+            "number": "027/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/GrowlitheFragoreRibelle27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-028/192",
+            "name": "Arcanine",
+            "number": "028/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ArcanineFragoreRibelle28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-029/192",
+            "name": "Magmar",
+            "number": "029/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MagmarFragoreRibelle29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-030/192",
+            "name": "Magmortar",
+            "number": "030/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MagmortarFragoreRibelle30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-031/192",
+            "name": "Litwick",
+            "number": "031/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/LitwickFragoreRibelle31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-032/192",
+            "name": "Lampent",
+            "number": "032/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/LampentFragoreRibelle32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-033/192",
+            "name": "Chandelure",
+            "number": "033/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ChandelureFragoreRibelle33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-034/192",
+            "name": "Heatmor",
+            "number": "034/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/HeatmorFragoreRibelle34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-035/192",
+            "name": "Cinderace-V",
+            "number": "035/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Cinderace-VFragoreRibelle35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-036/192",
+            "name": "Cinderace-VMAX",
+            "number": "036/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Cinderace-VMAXFragoreRibelle36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-037/192",
+            "name": "Mr. Mime di Galar",
+            "number": "037/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MrMimediGalarFragoreRibelle37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-038/192",
+            "name": "Mr. Rime di Galar",
+            "number": "038/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MrRimediGalarFragoreRibelle38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-039/192",
+            "name": "Magikarp",
+            "number": "039/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MagikarpFragoreRibelle39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-040/192",
+            "name": "Gyarados",
+            "number": "040/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/GyaradosFragoreRibelle40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-041/192",
+            "name": "Wingull",
+            "number": "041/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/WingullFragoreRibelle41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-042/192",
+            "name": "Pelipper",
+            "number": "042/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/PelipperFragoreRibelle42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-043/192",
+            "name": "Milotic-V",
+            "number": "043/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Milotic-VFragoreRibelle43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-044/192",
+            "name": "Tympole",
+            "number": "044/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/TympoleFragoreRibelle44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-045/192",
+            "name": "Palpitoad",
+            "number": "045/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/PalpitoadFragoreRibelle45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-046/192",
+            "name": "Seismitoad",
+            "number": "046/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/SeismitoadFragoreRibelle46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-047/192",
+            "name": "Darumaka di Galar",
+            "number": "047/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/DarumakadiGalarFragoreRibelle47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-048/192",
+            "name": "Darmanitan di Galar",
+            "number": "048/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/DarmanitandiGalarFragoreRibelle48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-049/192",
+            "name": "Inteleon-V",
+            "number": "049/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Inteleon-VFragoreRibelle49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-050/192",
+            "name": "Inteleon-VMAX",
+            "number": "050/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Inteleon-VMAXFragoreRibelle50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-051/192",
+            "name": "Cramorant",
+            "number": "051/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/CramorantFragoreRibelle51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-052/192",
+            "name": "Arrokuda",
+            "number": "052/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/ArrokudaFragoreRibelle52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-053/192",
+            "name": "Barraskewda",
+            "number": "053/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/BarraskewdaFragoreRibelle53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-054/192",
+            "name": "Eiscue",
+            "number": "054/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EiscueFragoreRibelle54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-055/192",
+            "name": "Eiscue-V",
+            "number": "055/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Eiscue-VFragoreRibelle55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-056/192",
+            "name": "Voltorb",
+            "number": "056/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/VoltorbFragoreRibelle56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-057/192",
+            "name": "Electrode",
+            "number": "057/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ElectrodeFragoreRibelle57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-058/192",
+            "name": "Electabuzz",
+            "number": "058/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ElectabuzzFragoreRibelle58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-059/192",
+            "name": "Electivire",
+            "number": "059/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/ElectivireFragoreRibelle59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-060/192",
+            "name": "Shinx",
+            "number": "060/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/ShinxFragoreRibelle60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-061/192",
+            "name": "Luxio",
+            "number": "061/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/LuxioFragoreRibelle61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-062/192",
+            "name": "Luxray",
+            "number": "062/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/LuxrayFragoreRibelle62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-063/192",
+            "name": "Helioptile",
+            "number": "063/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/HelioptileFragoreRibelle63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-064/192",
+            "name": "Heliolisk",
+            "number": "064/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/HelioliskFragoreRibelle64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-065/192",
+            "name": "Charjabug",
+            "number": "065/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/CharjabugFragoreRibelle65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-066/192",
+            "name": "Vikavolt",
+            "number": "066/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/VikavoltFragoreRibelle66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-067/192",
+            "name": "Boltund-V",
+            "number": "067/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Boltund-VFragoreRibelle67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-068/192",
+            "name": "Toxel",
+            "number": "068/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/ToxelFragoreRibelle68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-069/192",
+            "name": "Toxtricity",
+            "number": "069/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ToxtricityFragoreRibelle69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-070/192",
+            "name": "Toxtricity-V",
+            "number": "070/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Toxtricity-VFragoreRibelle70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-071/192",
+            "name": "Toxtricity-VMAX",
+            "number": "071/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Toxtricity-VMAXFragoreRibelle71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-072/192",
+            "name": "Pincurchin-V",
+            "number": "072/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Pincurchin-VFragoreRibelle72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-073/192",
+            "name": "Morpeko",
+            "number": "073/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MorpekoFragoreRibelle73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-074/192",
+            "name": "Clefairy",
+            "number": "074/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ClefairyFragoreRibelle74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-075/192",
+            "name": "Clefable",
+            "number": "075/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/ClefableFragoreRibelle75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-076/192",
+            "name": "Natu",
+            "number": "076/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/NatuFragoreRibelle76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-077/192",
+            "name": "Xatu",
+            "number": "077/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/XatuFragoreRibelle77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-078/192",
+            "name": "Corsola di Galar",
+            "number": "078/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/CorsoladiGalarFragoreRibelle78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-079/192",
+            "name": "Cursola di Galar",
+            "number": "079/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/CursoladiGalarFragoreRibelle79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-080/192",
+            "name": "Sigilyph",
+            "number": "080/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/SigilyphFragoreRibelle80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-081/192",
+            "name": "Sandygast",
+            "number": "081/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SandygastFragoreRibelle81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-082/192",
+            "name": "Palossand",
+            "number": "082/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/PalossandFragoreRibelle82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-083/192",
+            "name": "Hatenna",
+            "number": "083/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/HatennaFragoreRibelle83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-084/192",
+            "name": "Hattrem",
+            "number": "084/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/HattremFragoreRibelle84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-085/192",
+            "name": "Hatterene",
+            "number": "085/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/HattereneFragoreRibelle85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-086/192",
+            "name": "Milcery",
+            "number": "086/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MilceryFragoreRibelle86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-087/192",
+            "name": "Alcremie",
+            "number": "087/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/AlcremieFragoreRibelle87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-088/192",
+            "name": "Indeedee",
+            "number": "088/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/IndeedeeFragoreRibelle88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-089/192",
+            "name": "Dreepy",
+            "number": "089/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/DreepyFragoreRibelle89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-090/192",
+            "name": "Drakloak",
+            "number": "090/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/DrakloakFragoreRibelle90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-091/192",
+            "name": "Dragapult",
+            "number": "091/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/DragapultFragoreRibelle91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-092/192",
+            "name": "Dragapult-V",
+            "number": "092/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Dragapult-VFragoreRibelle92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-093/192",
+            "name": "Dragapult-VMAX",
+            "number": "093/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Dragapult-VMAXFragoreRibelle93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-094/192",
+            "name": "Farfetch'd di Galar",
+            "number": "094/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FarfetchddiGalarFragoreRibelle94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-095/192",
+            "name": "Sirfetch'd di Galar",
+            "number": "095/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SirfetchddiGalarFragoreRibelle95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-096/192",
+            "name": "Nosepass",
+            "number": "096/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/NosepassFragoreRibelle96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-097/192",
+            "name": "Meditite",
+            "number": "097/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MedititeFragoreRibelle97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-098/192",
+            "name": "Medicham",
+            "number": "098/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MedichamFragoreRibelle98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-099/192",
+            "name": "Barboach",
+            "number": "099/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/BarboachFragoreRibelle99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-100/192",
+            "name": "Whiscash",
+            "number": "100/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/WhiscashFragoreRibelle100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-101/192",
+            "name": "Yamask di Galar",
+            "number": "101/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/YamaskdiGalarFragoreRibelle101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-102/192",
+            "name": "Runerigus di Galar",
+            "number": "102/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/RunerigusdiGalarFragoreRibelle102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-103/192",
+            "name": "Binacle",
+            "number": "103/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BinacleFragoreRibelle103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-104/192",
+            "name": "Barbaracle",
+            "number": "104/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/BarbaracleFragoreRibelle104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-105/192",
+            "name": "Rolycoly",
+            "number": "105/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/RolycolyFragoreRibelle105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-106/192",
+            "name": "Carkol",
+            "number": "106/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/CarkolFragoreRibelle106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-107/192",
+            "name": "Coalossal",
+            "number": "107/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/CoalossalFragoreRibelle107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-108/192",
+            "name": "Sandaconda-V",
+            "number": "108/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Sandaconda-VFragoreRibelle108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-109/192",
+            "name": "Falinks",
+            "number": "109/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/FalinksFragoreRibelle109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-110/192",
+            "name": "Falinks-V",
+            "number": "110/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Falinks-VFragoreRibelle110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-111/192",
+            "name": "Stonjourner",
+            "number": "111/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/StonjournerFragoreRibelle111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-112/192",
+            "name": "Koffing",
+            "number": "112/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/KoffingFragoreRibelle112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-113/192",
+            "name": "Weezing di Galar",
+            "number": "113/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/WeezingdiGalarFragoreRibelle113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-114/192",
+            "name": "Stunky",
+            "number": "114/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/StunkyFragoreRibelle114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-115/192",
+            "name": "Skuntank",
+            "number": "115/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/SkuntankFragoreRibelle115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-116/192",
+            "name": "Spiritomb",
+            "number": "116/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/SpiritombFragoreRibelle116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-117/192",
+            "name": "Trubbish",
+            "number": "117/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/TrubbishFragoreRibelle117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-118/192",
+            "name": "Garbodor",
+            "number": "118/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/GarbodorFragoreRibelle118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-119/192",
+            "name": "Vullaby",
+            "number": "119/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/VullabyFragoreRibelle119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-120/192",
+            "name": "Mandibuzz",
+            "number": "120/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MandibuzzFragoreRibelle120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-121/192",
+            "name": "Malamar-V",
+            "number": "121/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Malamar-VFragoreRibelle121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-122/192",
+            "name": "Malamar-VMAX",
+            "number": "122/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Malamar-VMAXFragoreRibelle122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-123/192",
+            "name": "Impidimp",
+            "number": "123/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ImpidimpFragoreRibelle123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-124/192",
+            "name": "Morgrem",
+            "number": "124/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/MorgremFragoreRibelle124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-125/192",
+            "name": "Grimmsnarl",
+            "number": "125/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/GrimmsnarlFragoreRibelle125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-126/192",
+            "name": "Meowth di Galar",
+            "number": "126/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MeowthdiGalarFragoreRibelle126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-127/192",
+            "name": "Perrserker di Galar",
+            "number": "127/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/PerrserkerdiGalarFragoreRibelle127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-128/192",
+            "name": "Scizor",
+            "number": "128/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/ScizorFragoreRibelle128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-129/192",
+            "name": "Bronzor",
+            "number": "129/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/BronzorFragoreRibelle129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-130/192",
+            "name": "Bronzong",
+            "number": "130/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/BronzongFragoreRibelle130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-131/192",
+            "name": "Probopass",
+            "number": "131/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/ProbopassFragoreRibelle131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-132/192",
+            "name": "Durant",
+            "number": "132/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/DurantFragoreRibelle132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-133/192",
+            "name": "Honedge",
+            "number": "133/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/HonedgeFragoreRibelle133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-134/192",
+            "name": "Doublade",
+            "number": "134/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/DoubladeFragoreRibelle134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-135/192",
+            "name": "Aegislash",
+            "number": "135/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/AegislashFragoreRibelle135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-136/192",
+            "name": "Copperajah-V",
+            "number": "136/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Copperajah-VFragoreRibelle136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-137/192",
+            "name": "Copperajah-VMAX",
+            "number": "137/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Copperajah-VMAXFragoreRibelle137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-138/192",
+            "name": "Duraludon",
+            "number": "138/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/DuraludonFragoreRibelle138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-139/192",
+            "name": "Zacian",
+            "number": "139/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/ZacianFragoreRibelle139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-140/192",
+            "name": "Zamazenta",
+            "number": "140/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/ZamazentaFragoreRibelle140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-141/192",
+            "name": "Snorlax",
+            "number": "141/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/SnorlaxFragoreRibelle141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-142/192",
+            "name": "Chatot",
+            "number": "142/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/ChatotFragoreRibelle142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-143/192",
+            "name": "Pidove",
+            "number": "143/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/PidoveFragoreRibelle143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-144/192",
+            "name": "Tranquill",
+            "number": "144/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/TranquillFragoreRibelle144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-145/192",
+            "name": "Unfezant",
+            "number": "145/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/UnfezantFragoreRibelle145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-146/192",
+            "name": "Bunnelby",
+            "number": "146/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/BunnelbyFragoreRibelle146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-147/192",
+            "name": "Diggersby",
+            "number": "147/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/DiggersbyFragoreRibelle147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-148/192",
+            "name": "Hawlucha",
+            "number": "148/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/HawluchaFragoreRibelle148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-149/192",
+            "name": "Stufful",
+            "number": "149/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/StuffulFragoreRibelle149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-150/192",
+            "name": "Bewear",
+            "number": "150/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BewearFragoreRibelle150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-151/192",
+            "name": "Skwovet",
+            "number": "151/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SkwovetFragoreRibelle151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-152/192",
+            "name": "Greedent",
+            "number": "152/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GreedentFragoreRibelle152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-153/192",
+            "name": "Dubwool-V",
+            "number": "153/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Dubwool-VFragoreRibelle153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-154/192",
+            "name": "Ordini del Capo [Giovanni]",
+            "number": "154/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/OrdinidelCapoFragoreRibelle154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-155/192",
+            "name": "Bandana Ardente",
+            "number": "155/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/BandanaArdenteFragoreRibelle155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-156/192",
+            "name": "Secchio Capiente",
+            "number": "156/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SecchioCapienteFragoreRibelle156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-157/192",
+            "name": "Paletta Maledetta",
+            "number": "157/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/PalettaMaledettaFragoreRibelle157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-158/192",
+            "name": "Cicerone",
+            "number": "158/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/CiceroneFragoreRibelle158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-159/192",
+            "name": "Cura Totale",
+            "number": "159/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/CuraTotaleFragoreRibelle159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-160/192",
+            "name": "Miniera di Galar",
+            "number": "160/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/MinieradiGalarFragoreRibelle160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-161/192",
+            "name": "Yarrow",
+            "number": "161/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/YarrowFragoreRibelle161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-162/192",
+            "name": "Pepita",
+            "number": "162/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/PepitaFragoreRibelle162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-163/192",
+            "name": "Olive",
+            "number": "163/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/OliveFragoreRibelle163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-164/192",
+            "name": "Poké Ball",
+            "number": "164/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Pok%C3%A9BallFragoreRibelle164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-165/192",
+            "name": "Retino di Recupero",
+            "number": "165/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/RetinodiRecuperoFragoreRibelle165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-166/192",
+            "name": "Anemone",
+            "number": "166/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/AnemoneFragoreRibelle166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-167/192",
+            "name": "Sonia",
+            "number": "167/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SoniaFragoreRibelle167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-168/192",
+            "name": "Scartaoggetti",
+            "number": "168/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ScartaoggettiFragoreRibelle168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-169/192",
+            "name": "Cortile di Allenamento",
+            "number": "169/192",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/CortilediAllenamentoFragoreRibelle169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-170/192",
+            "name": "Stadio di Turffield",
+            "number": "170/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/StadiodiTurffieldFragoreRibelle170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-171/192",
+            "name": "Energia Cattura",
+            "number": "171/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/EnergiaCatturaFragoreRibelle171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-172/192",
+            "name": "Energia P Orrore",
+            "number": "172/192",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/EnergiaPOrroreFragoreRibelle172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-173/192",
+            "name": "Energia L Velocità",
+            "number": "173/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/EnergiaLVelocit%C3%A0FragoreRibelle173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-174/192",
+            "name": "Energia Duplice",
+            "number": "174/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/EnergiaDupliceFragoreRibelle174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-175/192",
+            "name": "Rillaboom-V",
+            "number": "175/192",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/Rillaboom-VFragoreRibelle175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-176/192",
+            "name": "Eldegoss-V",
+            "number": "176/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Eldegoss-VFragoreRibelle176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-177/192",
+            "name": "Ninetales-V",
+            "number": "177/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Ninetales-VFragoreRibelle177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-178/192",
+            "name": "Cinderace-V",
+            "number": "178/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Cinderace-VFragoreRibelle178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-179/192",
+            "name": "Milotic-V",
+            "number": "179/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Milotic-VFragoreRibelle179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-180/192",
+            "name": "Inteleon-V",
+            "number": "180/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Inteleon-VFragoreRibelle180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-181/192",
+            "name": "Boltund-V",
+            "number": "181/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Boltund-VFragoreRibelle181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-182/192",
+            "name": "Toxtricity-V",
+            "number": "182/192",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Toxtricity-VFragoreRibelle182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-183/192",
+            "name": "Dragapult-V",
+            "number": "183/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Dragapult-VFragoreRibelle183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-184/192",
+            "name": "Sandaconda-V",
+            "number": "184/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Sandaconda-VFragoreRibelle184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-185/192",
+            "name": "Falinks-V",
+            "number": "185/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Falinks-VFragoreRibelle185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-186/192",
+            "name": "Malamar-V",
+            "number": "186/192",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Malamar-VFragoreRibelle186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-187/192",
+            "name": "Copperajah-V",
+            "number": "187/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/Copperajah-VFragoreRibelle187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-188/192",
+            "name": "Dubwool-V",
+            "number": "188/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/Dubwool-VFragoreRibelle188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-189/192",
+            "name": "Ordini del Capo [Giovanni]",
+            "number": "189/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/OrdinidelCapoFragoreRibelle189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-190/192",
+            "name": "Yarrow",
+            "number": "190/192",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/YarrowFragoreRibelle190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-191/192",
+            "name": "Olive",
+            "number": "191/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/OliveFragoreRibelle191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-192/192",
+            "name": "Sonia",
+            "number": "192/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SoniaFragoreRibelle192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RCL-193/192",
+            "name": "Rillaboom-VMAX",
+            "number": "193/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Rillaboom-VMAXFragoreRibelle193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-194/192",
+            "name": "Cinderace-VMAX",
+            "number": "194/192",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Cinderace-VMAXFragoreRibelle194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-195/192",
+            "name": "Inteleon-VMAX",
+            "number": "195/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Inteleon-VMAXFragoreRibelle195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-196/192",
+            "name": "Toxtricity-VMAX",
+            "number": "196/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Toxtricity-VMAXFragoreRibelle196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-197/192",
+            "name": "Dragapult-VMAX",
+            "number": "197/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Dragapult-VMAXFragoreRibelle197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-198/192",
+            "name": "Malamar-VMAX",
+            "number": "198/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Malamar-VMAXFragoreRibelle198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-199/192",
+            "name": "Copperajah-VMAX",
+            "number": "199/192",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Copperajah-VMAXFragoreRibelle199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-200/192",
+            "name": "Ordini del Capo [Giovanni]",
+            "number": "200/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/OrdinidelCapoFragoreRibelle200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-201/192",
+            "name": "Yarrow",
+            "number": "201/192",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/YarrowFragoreRibelle201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-202/192",
+            "name": "Olive",
+            "number": "202/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/OliveFragoreRibelle202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-203/192",
+            "name": "Sonia",
+            "number": "203/192",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/SoniaFragoreRibelle203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-204/192",
+            "name": "Frosmoth",
+            "number": "204/192",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/FrosmothFragoreRibelle204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-205/192",
+            "name": "Perrserker di Galar",
+            "number": "205/192",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/PerrserkerdiGalarFragoreRibelle205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-206/192",
+            "name": "Amuleto Grande",
+            "number": "206/192",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/AmuletoGrandeFragoreRibelle206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-207/192",
+            "name": "Retino di Recupero",
+            "number": "207/192",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/RetinodiRecuperoFragoreRibelle207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-208/192",
+            "name": "Scartaoggetti",
+            "number": "208/192",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/ScartaoggettiFragoreRibelle208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RCL-209/192",
+            "name": "Energia Duplice",
+            "number": "209/192",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/EnergiaDupliceFragoreRibelle209.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

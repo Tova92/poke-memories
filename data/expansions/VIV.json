@@ -1,0 +1,1434 @@
+{
+    "expansion": {
+        "id": "VIV",
+        "name": "Spada e Scudo - Voltaggio Sfolgorante",
+        "year": 2020,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2b/SimboloSetVoltaggio_Sfolgorante.png",
+        "cardCount": 203
+    },
+    "cards": [
+        {
+            "id": "VIV-001/185",
+            "name": "Weedle",
+            "number": "001/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/WeedleVoltaggioSfolgorante1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-002/185",
+            "name": "Kakuna",
+            "number": "002/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/KakunaVoltaggioSfolgorante2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-003/185",
+            "name": "Beedrill",
+            "number": "003/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/BeedrillVoltaggioSfolgorante3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-004/185",
+            "name": "Exeggcute",
+            "number": "004/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ExeggcuteVoltaggioSfolgorante4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-005/185",
+            "name": "Exeggutor",
+            "number": "005/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ExeggutorVoltaggioSfolgorante5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-006/185",
+            "name": "Yanma",
+            "number": "006/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/YanmaVoltaggioSfolgorante6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-007/185",
+            "name": "Yanmega",
+            "number": "007/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/YanmegaVoltaggioSfolgorante7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-008/185",
+            "name": "Pineco",
+            "number": "008/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PinecoVoltaggioSfolgorante8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-009/185",
+            "name": "Celebi",
+            "number": "009/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/CelebiVoltaggioSfolgorante9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-010/185",
+            "name": "Seedot",
+            "number": "010/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SeedotVoltaggioSfolgorante10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-011/185",
+            "name": "Nuzleaf",
+            "number": "011/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/NuzleafVoltaggioSfolgorante11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-012/185",
+            "name": "Shiftry",
+            "number": "012/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ShiftryVoltaggioSfolgorante12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-013/185",
+            "name": "Nincada",
+            "number": "013/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/NincadaVoltaggioSfolgorante13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-014/185",
+            "name": "Ninjask",
+            "number": "014/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/NinjaskVoltaggioSfolgorante14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-015/185",
+            "name": "Shaymin",
+            "number": "015/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ShayminVoltaggioSfolgorante15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-016/185",
+            "name": "Genesect",
+            "number": "016/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/GenesectVoltaggioSfolgorante16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-017/185",
+            "name": "Skiddo",
+            "number": "017/185",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SkiddoVoltaggioSfolgorante17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-018/185",
+            "name": "Gogoat",
+            "number": "018/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/GogoatVoltaggioSfolgorante18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-019/185",
+            "name": "Dhelmise",
+            "number": "019/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/DhelmiseVoltaggioSfolgorante19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-020/185",
+            "name": "Orbeetle-V",
+            "number": "020/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Orbeetle-VVoltaggioSfolgorante20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-021/185",
+            "name": "Orbeetle-VMAX",
+            "number": "021/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Orbeetle-VMAXVoltaggioSfolgorante21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-022/185",
+            "name": "Zarude-V",
+            "number": "022/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Zarude-VVoltaggioSfolgorante22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-023/185",
+            "name": "Charmander",
+            "number": "023/185",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/CharmanderVoltaggioSfolgorante23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-024/185",
+            "name": "Charmeleon",
+            "number": "024/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/CharmeleonVoltaggioSfolgorante24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-025/185",
+            "name": "Charizard",
+            "number": "025/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/CharizardVoltaggioSfolgorante25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-026/185",
+            "name": "Flareon",
+            "number": "026/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/FlareonVoltaggioSfolgorante26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-027/185",
+            "name": "Slugma",
+            "number": "027/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/SlugmaVoltaggioSfolgorante27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-028/185",
+            "name": "Magcargo",
+            "number": "028/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MagcargoVoltaggioSfolgorante28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-029/185",
+            "name": "Talonflame-V",
+            "number": "029/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Talonflame-VVoltaggioSfolgorante29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-030/185",
+            "name": "Vaporeon",
+            "number": "030/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/VaporeonVoltaggioSfolgorante30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-031/185",
+            "name": "Wailmer",
+            "number": "031/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/WailmerVoltaggioSfolgorante31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-032/185",
+            "name": "Wailord",
+            "number": "032/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/WailordVoltaggioSfolgorante32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-033/185",
+            "name": "Oshawott",
+            "number": "033/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/OshawottVoltaggioSfolgorante33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-034/185",
+            "name": "Dewott",
+            "number": "034/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/DewottVoltaggioSfolgorante34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-035/185",
+            "name": "Samurott",
+            "number": "035/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/SamurottVoltaggioSfolgorante35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-036/185",
+            "name": "Darmanitan di Galar-V",
+            "number": "036/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/DarmanitandiGalar-VVoltaggioSfolgorante36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-037/185",
+            "name": "Darmanitan di Galar-VMAX",
+            "number": "037/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/DarmanitandiGalar-VMAXVoltaggioSfolgorante37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-038/185",
+            "name": "Chewtle",
+            "number": "038/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/ChewtleVoltaggioSfolgorante38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-039/185",
+            "name": "Drednaw",
+            "number": "039/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/DrednawVoltaggioSfolgorante39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-040/185",
+            "name": "Cramorant",
+            "number": "040/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/CramorantVoltaggioSfolgorante40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-041/185",
+            "name": "Arrokuda",
+            "number": "041/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/ArrokudaVoltaggioSfolgorante41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-042/185",
+            "name": "Barraskewda",
+            "number": "042/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/BarraskewdaVoltaggioSfolgorante42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-043/185",
+            "name": "Pikachu-V",
+            "number": "043/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Pikachu-VVoltaggioSfolgorante43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-044/185",
+            "name": "Pikachu-VMAX",
+            "number": "044/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Pikachu-VMAXVoltaggioSfolgorante44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-045/185",
+            "name": "Voltorb",
+            "number": "045/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/VoltorbVoltaggioSfolgorante45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-046/185",
+            "name": "Electrode",
+            "number": "046/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ElectrodeVoltaggioSfolgorante46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-047/185",
+            "name": "Jolteon",
+            "number": "047/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/JolteonVoltaggioSfolgorante47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-048/185",
+            "name": "Zapdos",
+            "number": "048/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ZapdosVoltaggioSfolgorante48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-049/185",
+            "name": "Ampharos-V",
+            "number": "049/185",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Ampharos-VVoltaggioSfolgorante49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-050/185",
+            "name": "Raikou",
+            "number": "050/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/RaikouVoltaggioSfolgorante50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-051/185",
+            "name": "Electrike",
+            "number": "051/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ElectrikeVoltaggioSfolgorante51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-052/185",
+            "name": "Manectric",
+            "number": "052/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ManectricVoltaggioSfolgorante52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-053/185",
+            "name": "Blitzle",
+            "number": "053/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/BlitzleVoltaggioSfolgorante53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-054/185",
+            "name": "Zebstrika",
+            "number": "054/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ZebstrikaVoltaggioSfolgorante54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-055/185",
+            "name": "Joltik",
+            "number": "055/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/JoltikVoltaggioSfolgorante55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-056/185",
+            "name": "Galvantula",
+            "number": "056/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/GalvantulaVoltaggioSfolgorante56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-057/185",
+            "name": "Tynamo",
+            "number": "057/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/TynamoVoltaggioSfolgorante57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-058/185",
+            "name": "Eelektrik",
+            "number": "058/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/EelektrikVoltaggioSfolgorante58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-059/185",
+            "name": "Eelektross",
+            "number": "059/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/EelektrossVoltaggioSfolgorante59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-060/185",
+            "name": "Zekrom",
+            "number": "060/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ZekromVoltaggioSfolgorante60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-061/185",
+            "name": "Zeraora",
+            "number": "061/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/ZeraoraVoltaggioSfolgorante61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-062/185",
+            "name": "Pincurchin",
+            "number": "062/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/PincurchinVoltaggioSfolgorante62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-063/185",
+            "name": "Clefairy",
+            "number": "063/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ClefairyVoltaggioSfolgorante63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-064/185",
+            "name": "Clefable",
+            "number": "064/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ClefableVoltaggioSfolgorante64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-065/185",
+            "name": "Girafarig",
+            "number": "065/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/GirafarigVoltaggioSfolgorante65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-066/185",
+            "name": "Shedinja",
+            "number": "066/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ShedinjaVoltaggioSfolgorante66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-067/185",
+            "name": "Shuppet",
+            "number": "067/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ShuppetVoltaggioSfolgorante67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-068/185",
+            "name": "Banette",
+            "number": "068/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/BanetteVoltaggioSfolgorante68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-069/185",
+            "name": "Duskull",
+            "number": "069/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/DuskullVoltaggioSfolgorante69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-070/185",
+            "name": "Dusclops",
+            "number": "070/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/DusclopsVoltaggioSfolgorante70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-071/185",
+            "name": "Dusknoir",
+            "number": "071/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/DusknoirVoltaggioSfolgorante71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-072/185",
+            "name": "Chimecho",
+            "number": "072/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ChimechoVoltaggioSfolgorante72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-073/185",
+            "name": "Woobat",
+            "number": "073/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/WoobatVoltaggioSfolgorante73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-074/185",
+            "name": "Swoobat",
+            "number": "074/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/SwoobatVoltaggioSfolgorante74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-075/185",
+            "name": "Cottonee",
+            "number": "075/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CottoneeVoltaggioSfolgorante75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-076/185",
+            "name": "Whimsicott",
+            "number": "076/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/WhimsicottVoltaggioSfolgorante76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-077/185",
+            "name": "Dedenne",
+            "number": "077/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/DedenneVoltaggioSfolgorante77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-078/185",
+            "name": "Xerneas",
+            "number": "078/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/XerneasVoltaggioSfolgorante78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-079/185",
+            "name": "Diancie",
+            "number": "079/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DiancieVoltaggioSfolgorante79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-080/185",
+            "name": "Milcery",
+            "number": "080/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MilceryVoltaggioSfolgorante80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-081/185",
+            "name": "Alcremie",
+            "number": "081/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/AlcremieVoltaggioSfolgorante81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-082/185",
+            "name": "Zacian",
+            "number": "082/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ZacianVoltaggioSfolgorante82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-083/185",
+            "name": "Wooper",
+            "number": "083/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/WooperVoltaggioSfolgorante83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-084/185",
+            "name": "Quagsire",
+            "number": "084/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/QuagsireVoltaggioSfolgorante84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-085/185",
+            "name": "Shuckle",
+            "number": "085/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ShuckleVoltaggioSfolgorante85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-086/185",
+            "name": "Phanpy",
+            "number": "086/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/PhanpyVoltaggioSfolgorante86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-087/185",
+            "name": "Donphan",
+            "number": "087/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/DonphanVoltaggioSfolgorante87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-088/185",
+            "name": "Hitmontop",
+            "number": "088/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/HitmontopVoltaggioSfolgorante88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-089/185",
+            "name": "Regirock",
+            "number": "089/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/RegirockVoltaggioSfolgorante89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-090/185",
+            "name": "Riolu",
+            "number": "090/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/RioluVoltaggioSfolgorante90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-091/185",
+            "name": "Drilbur",
+            "number": "091/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/DrilburVoltaggioSfolgorante91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-092/185",
+            "name": "Terrakion",
+            "number": "092/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/TerrakionVoltaggioSfolgorante92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-093/185",
+            "name": "Zygarde",
+            "number": "093/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ZygardeVoltaggioSfolgorante93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-094/185",
+            "name": "Rockruff",
+            "number": "094/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/RockruffVoltaggioSfolgorante94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-095/185",
+            "name": "Lycanroc",
+            "number": "095/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/LycanrocVoltaggioSfolgorante95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-096/185",
+            "name": "Mudbray",
+            "number": "096/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/MudbrayVoltaggioSfolgorante96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-097/185",
+            "name": "Mudsdale",
+            "number": "097/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/MudsdaleVoltaggioSfolgorante97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-098/185",
+            "name": "Coalossal-V",
+            "number": "098/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Coalossal-VVoltaggioSfolgorante98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-099/185",
+            "name": "Coalossal-VMAX",
+            "number": "099/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Coalossal-VMAXVoltaggioSfolgorante99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-100/185",
+            "name": "Clobbopus",
+            "number": "100/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ClobbopusVoltaggioSfolgorante100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-101/185",
+            "name": "Grapploct",
+            "number": "101/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GrapploctVoltaggioSfolgorante101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-102/185",
+            "name": "Zamazenta",
+            "number": "102/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ZamazentaVoltaggioSfolgorante102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-103/185",
+            "name": "Poochyena",
+            "number": "103/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/PoochyenaVoltaggioSfolgorante103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-104/185",
+            "name": "Mightyena",
+            "number": "104/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MightyenaVoltaggioSfolgorante104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-105/185",
+            "name": "Sableye",
+            "number": "105/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SableyeVoltaggioSfolgorante105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-106/185",
+            "name": "Drapion-V",
+            "number": "106/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Drapion-VVoltaggioSfolgorante106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-107/185",
+            "name": "Sandile",
+            "number": "107/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/SandileVoltaggioSfolgorante107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-108/185",
+            "name": "Krokorok",
+            "number": "108/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/KrokorokVoltaggioSfolgorante108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-109/185",
+            "name": "Krookodile",
+            "number": "109/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/KrookodileVoltaggioSfolgorante109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-110/185",
+            "name": "Trubbish",
+            "number": "110/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/TrubbishVoltaggioSfolgorante110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-111/185",
+            "name": "Garbodor",
+            "number": "111/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/GarbodorVoltaggioSfolgorante111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-112/185",
+            "name": "Meowth di Galar",
+            "number": "112/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/MeowthdiGalarVoltaggioSfolgorante112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-113/185",
+            "name": "Perrserker di Galar",
+            "number": "113/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/PerrserkerdiGalarVoltaggioSfolgorante113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-114/185",
+            "name": "Forretress",
+            "number": "114/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ForretressVoltaggioSfolgorante114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-115/185",
+            "name": "Steelix-V",
+            "number": "115/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Steelix-VVoltaggioSfolgorante115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-116/185",
+            "name": "Beldum",
+            "number": "116/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/BeldumVoltaggioSfolgorante116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-117/185",
+            "name": "Metang",
+            "number": "117/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MetangVoltaggioSfolgorante117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-118/185",
+            "name": "Metagross",
+            "number": "118/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MetagrossVoltaggioSfolgorante118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-119/185",
+            "name": "Jirachi",
+            "number": "119/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/JirachiVoltaggioSfolgorante119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-120/185",
+            "name": "Lucario",
+            "number": "120/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/LucarioVoltaggioSfolgorante120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-121/185",
+            "name": "Dialga",
+            "number": "121/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/DialgaVoltaggioSfolgorante121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-122/185",
+            "name": "Excadrill",
+            "number": "122/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ExcadrillVoltaggioSfolgorante122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-123/185",
+            "name": "Ferroseed",
+            "number": "123/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/FerroseedVoltaggioSfolgorante123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-124/185",
+            "name": "Ferrothorn",
+            "number": "124/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/FerrothornVoltaggioSfolgorante124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-125/185",
+            "name": "Stunfisk di Galar",
+            "number": "125/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/StunfiskdiGalarVoltaggioSfolgorante125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-126/185",
+            "name": "Aegislash-V",
+            "number": "126/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Aegislash-VVoltaggioSfolgorante126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-127/185",
+            "name": "Aegislash-VMAX",
+            "number": "127/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Aegislash-VMAXVoltaggioSfolgorante127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-128/185",
+            "name": "Magearna",
+            "number": "128/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MagearnaVoltaggioSfolgorante128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-129/185",
+            "name": "Duraludon",
+            "number": "129/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/DuraludonVoltaggioSfolgorante129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-130/185",
+            "name": "Eevee",
+            "number": "130/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/EeveeVoltaggioSfolgorante130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-131/185",
+            "name": "Snorlax",
+            "number": "131/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/SnorlaxVoltaggioSfolgorante131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-132/185",
+            "name": "Lugia",
+            "number": "132/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/LugiaVoltaggioSfolgorante132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-133/185",
+            "name": "Taillow",
+            "number": "133/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/TaillowVoltaggioSfolgorante133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-134/185",
+            "name": "Swellow",
+            "number": "134/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/SwellowVoltaggioSfolgorante134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-135/185",
+            "name": "Whismur",
+            "number": "135/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/WhismurVoltaggioSfolgorante135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-136/185",
+            "name": "Loudred",
+            "number": "136/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/LoudredVoltaggioSfolgorante136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-137/185",
+            "name": "Exploud",
+            "number": "137/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ExploudVoltaggioSfolgorante137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-138/185",
+            "name": "Rayquaza",
+            "number": "138/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/RayquazaVoltaggioSfolgorante138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-139/185",
+            "name": "Chatot",
+            "number": "139/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ChatotVoltaggioSfolgorante139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-140/185",
+            "name": "Togekiss-V",
+            "number": "140/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Togekiss-VVoltaggioSfolgorante140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-141/185",
+            "name": "Togekiss-VMAX",
+            "number": "141/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Togekiss-VMAXVoltaggioSfolgorante141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-142/185",
+            "name": "Tornadus",
+            "number": "142/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/TornadusVoltaggioSfolgorante142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-143/185",
+            "name": "Pikipek",
+            "number": "143/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/PikipekVoltaggioSfolgorante143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-144/185",
+            "name": "Trumbeak",
+            "number": "144/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/TrumbeakVoltaggioSfolgorante144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-145/185",
+            "name": "Toucannon",
+            "number": "145/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ToucannonVoltaggioSfolgorante145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-146/185",
+            "name": "Onion",
+            "number": "146/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/OnionVoltaggioSfolgorante146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-147/185",
+            "name": "Fabia",
+            "number": "147/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/FabiaVoltaggioSfolgorante147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-148/185",
+            "name": "Bellezza",
+            "number": "148/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/BellezzaVoltaggioSfolgorante148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-149/185",
+            "name": "Fossilia Di Strattis",
+            "number": "149/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/FossiliaDiStrattisVoltaggioSfolgorante149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-150/185",
+            "name": "Terme di Circhester",
+            "number": "150/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/TermediCirchesterVoltaggioSfolgorante150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-151/185",
+            "name": "Rotom Drone",
+            "number": "151/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/RotomDroneVoltaggioSfolgorante151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-152/185",
+            "name": "Medaglia dell'Eroe",
+            "number": "152/185",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MedagliadellEroeVoltaggioSfolgorante152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-153/185",
+            "name": "Staff Lega",
+            "number": "153/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/StaffLegaVoltaggioSfolgorante153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-154/185",
+            "name": "Dandel",
+            "number": "154/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/DandelVoltaggioSfolgorante154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-155/185",
+            "name": "Capsula della Memoria",
+            "number": "155/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/CapsuladellaMemoriaVoltaggioSfolgorante155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-156/185",
+            "name": "Formaggio Mumu",
+            "number": "156/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/FormaggioMumuVoltaggioSfolgorante156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-157/185",
+            "name": "Azzurra",
+            "number": "157/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/AzzurraVoltaggioSfolgorante157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-158/185",
+            "name": "Poppy",
+            "number": "158/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/PoppyVoltaggioSfolgorante158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-159/185",
+            "name": "Bitorzolelmo",
+            "number": "159/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/BitorzolelmoVoltaggioSfolgorante159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-160/185",
+            "name": "Vista Telescopica",
+            "number": "160/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/VistaTelescopicaVoltaggioSfolgorante160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-161/185",
+            "name": "Stadio di Goalwick",
+            "number": "161/185",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/StadiodiGoalwickVoltaggioSfolgorante161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-162/185",
+            "name": "Energia E Aromatica",
+            "number": "162/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/EnergiaEAromaticaVoltaggioSfolgorante162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-163/185",
+            "name": "Energia M Protettiva",
+            "number": "163/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/EnergiaMProtettivaVoltaggioSfolgorante163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-164/185",
+            "name": "Energia L Granitica",
+            "number": "164/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/EnergiaLGraniticaVoltaggioSfolgorante164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-165/185",
+            "name": "Energia A Lavaggio",
+            "number": "165/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/EnergiaALavaggioVoltaggioSfolgorante165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-166/185",
+            "name": "Orbeetle-V",
+            "number": "166/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Orbeetle-VVoltaggioSfolgorante166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-167/185",
+            "name": "Zarude-V",
+            "number": "167/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/Zarude-VVoltaggioSfolgorante167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-168/185",
+            "name": "Talonflame-V",
+            "number": "168/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Talonflame-VVoltaggioSfolgorante168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-169/185",
+            "name": "Darmanitan di Galar-V",
+            "number": "169/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/DarmanitandiGalar-VVoltaggioSfolgorante169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-170/185",
+            "name": "Pikachu-V",
+            "number": "170/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Pikachu-VVoltaggioSfolgorante170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-171/185",
+            "name": "Ampharos-V",
+            "number": "171/185",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Ampharos-VVoltaggioSfolgorante171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-172/185",
+            "name": "Alakazam-V",
+            "number": "172/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Alakazam-VVoltaggioSfolgorante172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-173/185",
+            "name": "Coalossal-V",
+            "number": "173/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Coalossal-VVoltaggioSfolgorante173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-174/185",
+            "name": "Sirfetch'd di Galar-V",
+            "number": "174/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SirfetchddiGalar-VVoltaggioSfolgorante174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-175/185",
+            "name": "Drapion-V",
+            "number": "175/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Drapion-VVoltaggioSfolgorante175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-176/185",
+            "name": "Steelix-V",
+            "number": "176/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Steelix-VVoltaggioSfolgorante176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-177/185",
+            "name": "Aegislash-V",
+            "number": "177/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Aegislash-VVoltaggioSfolgorante177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-178/185",
+            "name": "Togekiss-V",
+            "number": "178/185",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Togekiss-VVoltaggioSfolgorante178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-179/185",
+            "name": "Onion",
+            "number": "179/185",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/OnionVoltaggioSfolgorante179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-180/185",
+            "name": "Fabia",
+            "number": "180/185",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/FabiaVoltaggioSfolgorante180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-181/185",
+            "name": "Bellezza",
+            "number": "181/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/BellezzaVoltaggioSfolgorante181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-182/185",
+            "name": "Dandel",
+            "number": "182/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DandelVoltaggioSfolgorante182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-183/185",
+            "name": "Azzurra",
+            "number": "183/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/AzzurraVoltaggioSfolgorante183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-184/185",
+            "name": "Poppy",
+            "number": "184/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/PoppyVoltaggioSfolgorante184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-185/185",
+            "name": "Addetta del Centro Pokémon",
+            "number": "185/185",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/AddettadelCentroPok%C3%A9monVoltaggioSfolgorante185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "VIV-186/185",
+            "name": "Orbeetle-VMAX",
+            "number": "186/185",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Orbeetle-VMAXVoltaggioSfolgorante186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-187/185",
+            "name": "Darmanitan di Galar-VMAX",
+            "number": "187/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/DarmanitandiGalar-VMAXVoltaggioSfolgorante187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-188/185",
+            "name": "Pikachu-VMAX",
+            "number": "188/185",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Pikachu-VMAXVoltaggioSfolgorante188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-189/185",
+            "name": "Coalossal-VMAX",
+            "number": "189/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Coalossal-VMAXVoltaggioSfolgorante189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-190/185",
+            "name": "Aegislash-VMAX",
+            "number": "190/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Aegislash-VMAXVoltaggioSfolgorante190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-191/185",
+            "name": "Togekiss-VMAX",
+            "number": "191/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Togekiss-VMAXVoltaggioSfolgorante191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-192/185",
+            "name": "Onion",
+            "number": "192/185",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/OnionVoltaggioSfolgorante192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-193/185",
+            "name": "Fabia",
+            "number": "193/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/FabiaVoltaggioSfolgorante193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-194/185",
+            "name": "Bellezza",
+            "number": "194/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/BellezzaVoltaggioSfolgorante194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-195/185",
+            "name": "Dandel",
+            "number": "195/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/DandelVoltaggioSfolgorante195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-196/185",
+            "name": "Azzurra",
+            "number": "196/185",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/AzzurraVoltaggioSfolgorante196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-197/185",
+            "name": "Poppy",
+            "number": "197/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/PoppyVoltaggioSfolgorante197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-198/185",
+            "name": "Obstagoon di Galar",
+            "number": "198/185",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ObstagoondiGalarVoltaggioSfolgorante198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-199/185",
+            "name": "Oranguru",
+            "number": "199/185",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/OranguruVoltaggioSfolgorante199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-200/185",
+            "name": "Mantello della Tenacia",
+            "number": "200/185",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MantellodellaTenaciaVoltaggioSfolgorante200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-201/185",
+            "name": "Medaglia dell'Eroe",
+            "number": "201/185",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MedagliadellEroeVoltaggioSfolgorante201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-202/185",
+            "name": "Capsula della Memoria",
+            "number": "202/185",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/CapsuladellaMemoriaVoltaggioSfolgorante202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "VIV-203/185",
+            "name": "Vista Telescopica",
+            "number": "203/185",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/VistaTelescopicaVoltaggioSfolgorante203.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

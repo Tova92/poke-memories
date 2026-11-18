@@ -1,0 +1,716 @@
+{
+    "expansion": {
+        "id": "SFA",
+        "name": "Scarlatto e Violetto - Segreto Fiabesco",
+        "year": 2024,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetSegreto_Fiabesco.png",
+        "cardCount": 99
+    },
+    "cards": [
+        {
+            "id": "SFA-001/064",
+            "name": "Joltik",
+            "number": "001/064",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/JoltikSegretoFiabesco1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-002/064",
+            "name": "Galvantula",
+            "number": "002/064",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/GalvantulaSegretoFiabesco2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-003/064",
+            "name": "Rowlet",
+            "number": "003/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/RowletSegretoFiabesco3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-004/064",
+            "name": "Dartrix",
+            "number": "004/064",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/DartrixSegretoFiabesco4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-005/064",
+            "name": "Decidueye",
+            "number": "005/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/DecidueyeSegretoFiabesco5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-006/064",
+            "name": "Tapu Bulu",
+            "number": "006/064",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/TapuBuluSegretoFiabesco6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-007/064",
+            "name": "Houndour",
+            "number": "007/064",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/HoundourSegretoFiabesco7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-008/064",
+            "name": "Houndoom",
+            "number": "008/064",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/HoundoomSegretoFiabesco8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-009/064",
+            "name": "Falenaferrea",
+            "number": "009/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/FalenaferreaSegretoFiabesco9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-010/064",
+            "name": "Horsea",
+            "number": "010/064",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/HorseaSegretoFiabesco10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-011/064",
+            "name": "Seadra",
+            "number": "011/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/SeadraSegretoFiabesco11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-012/064",
+            "name": "Kingdra-ex",
+            "number": "012/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Kingdra-exSegretoFiabesco12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-013/064",
+            "name": "Sneasel",
+            "number": "013/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SneaselSegretoFiabesco13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-014/064",
+            "name": "Weavile",
+            "number": "014/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/WeavileSegretoFiabesco14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-015/064",
+            "name": "Revavroom-ex",
+            "number": "015/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Revavroom-exSegretoFiabesco15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-016/064",
+            "name": "Drowzee",
+            "number": "016/064",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/DrowzeeSegretoFiabesco16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-017/064",
+            "name": "Hypno",
+            "number": "017/064",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/HypnoSegretoFiabesco17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-018/064",
+            "name": "Duskull",
+            "number": "018/064",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/DuskullSegretoFiabesco18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-019/064",
+            "name": "Dusclops",
+            "number": "019/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/DusclopsSegretoFiabesco19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-020/064",
+            "name": "Dusknoir",
+            "number": "020/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/DusknoirSegretoFiabesco20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-021/064",
+            "name": "Cresselia",
+            "number": "021/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/CresseliaSegretoFiabesco21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-022/064",
+            "name": "Sylveon",
+            "number": "022/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SylveonSegretoFiabesco22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-023/064",
+            "name": "Croagunk",
+            "number": "023/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/CroagunkSegretoFiabesco23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-024/064",
+            "name": "Toxicroak",
+            "number": "024/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/ToxicroakSegretoFiabesco24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-025/064",
+            "name": "Ursaluna Luna Cremisi",
+            "number": "025/064",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/UrsalunaLunaCremisiSegretoFiabesco25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-026/064",
+            "name": "Alirasenti",
+            "number": "026/064",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/AlirasentiSegretoFiabesco26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-027/064",
+            "name": "Zubat",
+            "number": "027/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/ZubatSegretoFiabesco27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-028/064",
+            "name": "Golbat",
+            "number": "028/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GolbatSegretoFiabesco28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-029/064",
+            "name": "Crobat",
+            "number": "029/064",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/CrobatSegretoFiabesco29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-030/064",
+            "name": "Absol",
+            "number": "030/064",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/AbsolSegretoFiabesco30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-031/064",
+            "name": "Zorua",
+            "number": "031/064",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/ZoruaSegretoFiabesco31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-032/064",
+            "name": "Zoroark",
+            "number": "032/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ZoroarkSegretoFiabesco32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-033/064",
+            "name": "Inkay",
+            "number": "033/064",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/InkaySegretoFiabesco33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-034/064",
+            "name": "Malamar",
+            "number": "034/064",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MalamarSegretoFiabesco34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-035/064",
+            "name": "Yveltal",
+            "number": "035/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/YveltalSegretoFiabesco35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-036/064",
+            "name": "Okidogi-ex",
+            "number": "036/064",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Okidogi-exSegretoFiabesco36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-037/064",
+            "name": "Munkidori-ex",
+            "number": "037/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Munkidori-exSegretoFiabesco37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-038/064",
+            "name": "Fezandipiti-ex",
+            "number": "038/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Fezandipiti-exSegretoFiabesco38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-039/064",
+            "name": "Pecharunt-ex",
+            "number": "039/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/Pecharunt-exSegretoFiabesco39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-040/064",
+            "name": "Genesect",
+            "number": "040/064",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/GenesectSegretoFiabesco40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-041/064",
+            "name": "Cufant",
+            "number": "041/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/CufantSegretoFiabesco41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-042/064",
+            "name": "Copperajah",
+            "number": "042/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/CopperajahSegretoFiabesco42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-043/064",
+            "name": "Varoom",
+            "number": "043/064",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/VaroomSegretoFiabesco43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-044/064",
+            "name": "Axew",
+            "number": "044/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/AxewSegretoFiabesco44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-045/064",
+            "name": "Fraxure",
+            "number": "045/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/FraxureSegretoFiabesco45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-046/064",
+            "name": "Haxorus",
+            "number": "046/064",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/HaxorusSegretoFiabesco46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-047/064",
+            "name": "Kyurem",
+            "number": "047/064",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/KyuremSegretoFiabesco47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-048/064",
+            "name": "Meowth",
+            "number": "048/064",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MeowthSegretoFiabesco48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-049/064",
+            "name": "Persian",
+            "number": "049/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/PersianSegretoFiabesco49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-050/064",
+            "name": "Eevee",
+            "number": "050/064",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/EeveeSegretoFiabesco50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-051/064",
+            "name": "Furfrou",
+            "number": "051/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/FurfrouSegretoFiabesco51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-052/064",
+            "name": "Stufful",
+            "number": "052/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/StuffulSegretoFiabesco52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-053/064",
+            "name": "Bewear",
+            "number": "053/064",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/BewearSegretoFiabesco53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-054/064",
+            "name": "Accademia di Notte",
+            "number": "054/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/AccademiadiNotteSegretoFiabesco54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-055/064",
+            "name": "Mochi Soggiogante",
+            "number": "055/064",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MochiSoggioganteSegretoFiabesco55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-056/064",
+            "name": "Cassiopea",
+            "number": "056/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/CassiopeaSegretoFiabesco56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-057/064",
+            "name": "Perseveranza di Acromio",
+            "number": "057/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/PerseveranzadiAcromioSegretoFiabesco57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-058/064",
+            "name": "Laser Pericoloso",
+            "number": "058/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/LaserPericolosoSegretoFiabesco58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-059/064",
+            "name": "Arte Segreta di Nina",
+            "number": "059/064",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ArteSegretadiNinaSegretoFiabesco59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-060/064",
+            "name": "Area di Neutralizzazione",
+            "number": "060/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/AreadiNeutralizzazioneSegretoFiabesco60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-061/064",
+            "name": "Barella Notturna",
+            "number": "061/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/BarellaNotturnaSegretoFiabesco61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-062/064",
+            "name": "Poké Vitale A",
+            "number": "062/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Pok%C3%A9VitaleASegretoFiabesco62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-063/064",
+            "name": "Clessidra Energetica",
+            "number": "063/064",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ClessidraEnergeticaSegretoFiabesco63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-064/064",
+            "name": "Macchinazioni di Xante",
+            "number": "064/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MacchinazionidiXanteSegretoFiabesco64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SFA-065/064",
+            "name": "Tapu Bulu",
+            "number": "065/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/TapuBuluSegretoFiabesco65.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-066/064",
+            "name": "Houndoom",
+            "number": "066/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/HoundoomSegretoFiabesco66.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-067/064",
+            "name": "Horsea",
+            "number": "067/064",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/HorseaSegretoFiabesco67.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-068/064",
+            "name": "Duskull",
+            "number": "068/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/DuskullSegretoFiabesco68.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-069/064",
+            "name": "Dusclops",
+            "number": "069/064",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/DusclopsSegretoFiabesco69.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-070/064",
+            "name": "Dusknoir",
+            "number": "070/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/DusknoirSegretoFiabesco70.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-071/064",
+            "name": "Cresselia",
+            "number": "071/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/CresseliaSegretoFiabesco71.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-072/064",
+            "name": "Munkidori",
+            "number": "072/064",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/MunkidoriSegretoFiabesco72.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-073/064",
+            "name": "Fezandipiti",
+            "number": "073/064",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/FezandipitiSegretoFiabesco73.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-074/064",
+            "name": "Okidogi",
+            "number": "074/064",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/OkidogiSegretoFiabesco74.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-075/064",
+            "name": "Zorua",
+            "number": "075/064",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/ZoruaSegretoFiabesco75.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-076/064",
+            "name": "Cufant",
+            "number": "076/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/CufantSegretoFiabesco76.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-077/064",
+            "name": "Fraxure",
+            "number": "077/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/FraxureSegretoFiabesco77.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-078/064",
+            "name": "Persian",
+            "number": "078/064",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/PersianSegretoFiabesco78.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-079/064",
+            "name": "Bewear",
+            "number": "079/064",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/BewearSegretoFiabesco79.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-080/064",
+            "name": "Kingdra-ex",
+            "number": "080/064",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Kingdra-exSegretoFiabesco80.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-081/064",
+            "name": "Revavroom-ex",
+            "number": "081/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/Revavroom-exSegretoFiabesco81.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-082/064",
+            "name": "Okidogi-ex",
+            "number": "082/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Okidogi-exSegretoFiabesco82.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-083/064",
+            "name": "Munkidori-ex",
+            "number": "083/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Munkidori-exSegretoFiabesco83.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-084/064",
+            "name": "Fezandipiti-ex",
+            "number": "084/064",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Fezandipiti-exSegretoFiabesco84.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-085/064",
+            "name": "Pecharunt-ex",
+            "number": "085/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Pecharunt-exSegretoFiabesco85.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-086/064",
+            "name": "Cassiopea",
+            "number": "086/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/CassiopeaSegretoFiabesco86.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-087/064",
+            "name": "Perseveranza di Acromio",
+            "number": "087/064",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PerseveranzadiAcromioSegretoFiabesco87.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-088/064",
+            "name": "Arte Segreta di Nina",
+            "number": "088/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ArteSegretadiNinaSegretoFiabesco88.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-089/064",
+            "name": "Macchinazioni di Xante",
+            "number": "089/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MacchinazionidiXanteSegretoFiabesco89.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-090/064",
+            "name": "Okidogi-ex",
+            "number": "090/064",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Okidogi-exSegretoFiabesco90.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-091/064",
+            "name": "Munkidori-ex",
+            "number": "091/064",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Munkidori-exSegretoFiabesco91.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-092/064",
+            "name": "Fezandipiti-ex",
+            "number": "092/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Fezandipiti-exSegretoFiabesco92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-093/064",
+            "name": "Pecharunt-ex",
+            "number": "093/064",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Pecharunt-exSegretoFiabesco93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-094/064",
+            "name": "Cassiopea",
+            "number": "094/064",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CassiopeaSegretoFiabesco94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-095/064",
+            "name": "Pecharunt-ex",
+            "number": "095/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Pecharunt-exSegretoFiabesco95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-096/064",
+            "name": "Anfora Terrestre",
+            "number": "096/064",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/AnforaTerrestreSegretoFiabesco96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-097/064",
+            "name": "Clessidra Energetica",
+            "number": "097/064",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/ClessidraEnergeticaSegretoFiabesco97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-098/064",
+            "name": "Energia base Oscurità",
+            "number": "098/064",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/EnergiabaseOscurit%C3%A0SegretoFiabesco98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SFA-099/064",
+            "name": "Energia base Metallo",
+            "number": "099/064",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/EnergiabaseMetalloSegretoFiabesco99.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

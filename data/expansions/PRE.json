@@ -1,0 +1,1283 @@
+{
+    "expansion": {
+        "id": "PRE",
+        "name": "Scarlatto e Violetto - Evoluzioni Prismatiche",
+        "year": 2025,
+        "month": 1,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/e/ec/SimboloSetEvoluzioni_Prismatiche.png",
+        "cardCount": 180
+    },
+    "cards": [
+        {
+            "id": "PRE-001/131",
+            "name": "Exeggcute",
+            "number": "001/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/ExeggcuteEvoluzioniPrismatiche1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-002/131",
+            "name": "Exeggutor",
+            "number": "002/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/ExeggutorEvoluzioniPrismatiche2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-003/131",
+            "name": "Pinsir",
+            "number": "003/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/PinsirEvoluzioniPrismatiche3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-004/131",
+            "name": "Budew",
+            "number": "004/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/BudewEvoluzioniPrismatiche4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-005/131",
+            "name": "Leafeon",
+            "number": "005/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LeafeonEvoluzioniPrismatiche5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-006/131",
+            "name": "Leafeon-ex",
+            "number": "006/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Leafeon-exEvoluzioniPrismatiche6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-007/131",
+            "name": "Cottonee",
+            "number": "007/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/CottoneeEvoluzioniPrismatiche7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-008/131",
+            "name": "Whimsicott",
+            "number": "008/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/WhimsicottEvoluzioniPrismatiche8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-009/131",
+            "name": "Applin",
+            "number": "009/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ApplinEvoluzioniPrismatiche9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-010/131",
+            "name": "Dipplin",
+            "number": "010/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DipplinEvoluzioniPrismatiche10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-011/131",
+            "name": "Hydrapple-ex",
+            "number": "011/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Hydrapple-exEvoluzioniPrismatiche11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-012/131",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "012/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/OgerponMascheraTurchese-exEvoluzioniPrismatiche12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-013/131",
+            "name": "Flareon",
+            "number": "013/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/FlareonEvoluzioniPrismatiche13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-014/131",
+            "name": "Flareon-ex",
+            "number": "014/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Flareon-exEvoluzioniPrismatiche14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-015/131",
+            "name": "Litleo",
+            "number": "015/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/LitleoEvoluzioniPrismatiche15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-016/131",
+            "name": "Pyroar",
+            "number": "016/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PyroarEvoluzioniPrismatiche16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-017/131",
+            "name": "Ogerpon Maschera Focolare-ex",
+            "number": "017/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/OgerponMascheraFocolare-exEvoluzioniPrismatiche17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-018/131",
+            "name": "Slowpoke",
+            "number": "018/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SlowpokeEvoluzioniPrismatiche18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-019/131",
+            "name": "Slowking",
+            "number": "019/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SlowkingEvoluzioniPrismatiche19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-020/131",
+            "name": "Goldeen",
+            "number": "020/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/GoldeenEvoluzioniPrismatiche20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-021/131",
+            "name": "Seaking",
+            "number": "021/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SeakingEvoluzioniPrismatiche21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-022/131",
+            "name": "Vaporeon",
+            "number": "022/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/VaporeonEvoluzioniPrismatiche22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-023/131",
+            "name": "Vaporeon-ex",
+            "number": "023/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Vaporeon-exEvoluzioniPrismatiche23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-024/131",
+            "name": "Suicune",
+            "number": "024/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SuicuneEvoluzioniPrismatiche24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-025/131",
+            "name": "Glaceon",
+            "number": "025/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/GlaceonEvoluzioniPrismatiche25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-026/131",
+            "name": "Glaceon-ex",
+            "number": "026/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Glaceon-exEvoluzioniPrismatiche26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-027/131",
+            "name": "Ogerpon Maschera Pozzo-ex",
+            "number": "027/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/OgerponMascheraPozzo-exEvoluzioniPrismatiche27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-028/131",
+            "name": "Pikachu-ex",
+            "number": "028/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Pikachu-exEvoluzioniPrismatiche28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-029/131",
+            "name": "Jolteon",
+            "number": "029/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/JolteonEvoluzioniPrismatiche29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-030/131",
+            "name": "Jolteon-ex",
+            "number": "030/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Jolteon-exEvoluzioniPrismatiche30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-031/131",
+            "name": "Manoferrea-ex",
+            "number": "031/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Manoferrea-exEvoluzioniPrismatiche31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-032/131",
+            "name": "Spineferree-ex",
+            "number": "032/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Spineferree-exEvoluzioniPrismatiche32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-033/131",
+            "name": "Espeon",
+            "number": "033/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/EspeonEvoluzioniPrismatiche33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-034/131",
+            "name": "Espeon-ex",
+            "number": "034/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Espeon-exEvoluzioniPrismatiche34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-035/131",
+            "name": "Duskull",
+            "number": "035/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/DuskullEvoluzioniPrismatiche35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-036/131",
+            "name": "Dusclops",
+            "number": "036/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DusclopsEvoluzioniPrismatiche36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-037/131",
+            "name": "Dusknoir",
+            "number": "037/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/DusknoirEvoluzioniPrismatiche37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-038/131",
+            "name": "Spritzee",
+            "number": "038/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/SpritzeeEvoluzioniPrismatiche38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-039/131",
+            "name": "Aromatisse",
+            "number": "039/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/AromatisseEvoluzioniPrismatiche39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-040/131",
+            "name": "Sylveon",
+            "number": "040/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SylveonEvoluzioniPrismatiche40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-041/131",
+            "name": "Sylveon-ex",
+            "number": "041/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Sylveon-exEvoluzioniPrismatiche41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-042/131",
+            "name": "Codaurlante",
+            "number": "042/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/CodaurlanteEvoluzioniPrismatiche42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-043/131",
+            "name": "Crinealato",
+            "number": "043/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/CrinealatoEvoluzioniPrismatiche43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-044/131",
+            "name": "Munkidori",
+            "number": "044/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MunkidoriEvoluzioniPrismatiche44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-045/131",
+            "name": "Fezandipiti",
+            "number": "045/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/FezandipitiEvoluzioniPrismatiche45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-046/131",
+            "name": "Massoferreo",
+            "number": "046/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/MassoferreoEvoluzioniPrismatiche46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-047/131",
+            "name": "Larvitar",
+            "number": "047/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/LarvitarEvoluzioniPrismatiche47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-048/131",
+            "name": "Pupitar",
+            "number": "048/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/PupitarEvoluzioniPrismatiche48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-049/131",
+            "name": "Groudon",
+            "number": "049/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/GroudonEvoluzioniPrismatiche49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-050/131",
+            "name": "Riolu",
+            "number": "050/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/RioluEvoluzioniPrismatiche50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-051/131",
+            "name": "Lucario-ex",
+            "number": "051/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Lucario-exEvoluzioniPrismatiche51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-052/131",
+            "name": "Hippopotas",
+            "number": "052/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/HippopotasEvoluzioniPrismatiche52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-053/131",
+            "name": "Hippowdon",
+            "number": "053/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/HippowdonEvoluzioniPrismatiche53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-054/131",
+            "name": "Ursaluna Luna Cremisi",
+            "number": "054/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/UrsalunaLunaCremisiEvoluzioniPrismatiche54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-055/131",
+            "name": "Grandizanne",
+            "number": "055/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/GrandizanneEvoluzioniPrismatiche55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-056/131",
+            "name": "Peldisabbia-ex",
+            "number": "056/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Peldisabbia-exEvoluzioniPrismatiche56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-057/131",
+            "name": "Okidogi",
+            "number": "057/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/OkidogiEvoluzioniPrismatiche57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-058/131",
+            "name": "Ogerpon Maschera Fondamenta-ex",
+            "number": "058/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/OgerponMascheraFondamenta-exEvoluzioniPrismatiche58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-059/131",
+            "name": "Umbreon",
+            "number": "059/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/UmbreonEvoluzioniPrismatiche59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-060/131",
+            "name": "Umbreon-ex",
+            "number": "060/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Umbreon-exEvoluzioniPrismatiche60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-061/131",
+            "name": "Sneasel",
+            "number": "061/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SneaselEvoluzioniPrismatiche61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-062/131",
+            "name": "Houndour",
+            "number": "062/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/HoundourEvoluzioniPrismatiche62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-063/131",
+            "name": "Houndoom",
+            "number": "063/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/HoundoomEvoluzioniPrismatiche63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-064/131",
+            "name": "Tyranitar-ex",
+            "number": "064/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Tyranitar-exEvoluzioniPrismatiche64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-065/131",
+            "name": "Lunaruggente",
+            "number": "065/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/LunaruggenteEvoluzioniPrismatiche65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-066/131",
+            "name": "Bronzor",
+            "number": "066/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/BronzorEvoluzioniPrismatiche66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-067/131",
+            "name": "Bronzong",
+            "number": "067/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/BronzongEvoluzioniPrismatiche67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-068/131",
+            "name": "Heatran",
+            "number": "068/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/HeatranEvoluzioniPrismatiche68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-069/131",
+            "name": "Duraludon",
+            "number": "069/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DuraludonEvoluzioniPrismatiche69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-070/131",
+            "name": "Archaludon",
+            "number": "070/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/ArchaludonEvoluzioniPrismatiche70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-071/131",
+            "name": "Dreepy",
+            "number": "071/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DreepyEvoluzioniPrismatiche71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-072/131",
+            "name": "Drakloak",
+            "number": "072/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/DrakloakEvoluzioniPrismatiche72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-073/131",
+            "name": "Dragapult-ex",
+            "number": "073/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Dragapult-exEvoluzioniPrismatiche73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-074/131",
+            "name": "Eevee",
+            "number": "074/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/EeveeEvoluzioniPrismatiche74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-075/131",
+            "name": "Eevee-ex",
+            "number": "075/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Eevee-exEvoluzioniPrismatiche75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-076/131",
+            "name": "Snorlax-ex",
+            "number": "076/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Snorlax-exEvoluzioniPrismatiche76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-077/131",
+            "name": "Hoothoot",
+            "number": "077/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/HoothootEvoluzioniPrismatiche77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-078/131",
+            "name": "Noctowl",
+            "number": "078/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/NoctowlEvoluzioniPrismatiche78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-079/131",
+            "name": "Dunsparce",
+            "number": "079/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/DunsparceEvoluzioniPrismatiche79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-080/131",
+            "name": "Dudunsparce",
+            "number": "080/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/DudunsparceEvoluzioniPrismatiche80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-081/131",
+            "name": "Miltank",
+            "number": "081/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/MiltankEvoluzioniPrismatiche81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-082/131",
+            "name": "Lugia-ex",
+            "number": "082/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Lugia-exEvoluzioniPrismatiche82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-083/131",
+            "name": "Buneary",
+            "number": "083/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/BunearyEvoluzioniPrismatiche83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-084/131",
+            "name": "Lopunny",
+            "number": "084/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/LopunnyEvoluzioniPrismatiche84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-085/131",
+            "name": "Rotom Vortice",
+            "number": "085/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/RotomVorticeEvoluzioniPrismatiche85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-086/131",
+            "name": "Regigigas",
+            "number": "086/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/RegigigasEvoluzioniPrismatiche86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-087/131",
+            "name": "Shaymin",
+            "number": "087/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ShayminEvoluzioniPrismatiche87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-088/131",
+            "name": "Furfrou",
+            "number": "088/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/FurfrouEvoluzioniPrismatiche88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-089/131",
+            "name": "Hawlucha",
+            "number": "089/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/HawluchaEvoluzioniPrismatiche89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-090/131",
+            "name": "Noibat",
+            "number": "090/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/NoibatEvoluzioniPrismatiche90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-091/131",
+            "name": "Noivern-ex",
+            "number": "091/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Noivern-exEvoluzioniPrismatiche91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-092/131",
+            "name": "Terapagos-ex",
+            "number": "092/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Terapagos-exEvoluzioniPrismatiche92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-093/131",
+            "name": "Erin",
+            "number": "093/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/ErinEvoluzioniPrismatiche93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-094/131",
+            "name": "Grande Abisso Zero",
+            "number": "094/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/GrandeAbissoZeroEvoluzioniPrismatiche94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-095/131",
+            "name": "Mochi Soggiogante",
+            "number": "095/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MochiSoggioganteEvoluzioniPrismatiche95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-096/131",
+            "name": "Allenamento di Cinturanera",
+            "number": "096/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/AllenamentodiCinturaneraEvoluzioniPrismatiche96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-097/131",
+            "name": "Allenamento di Cinturanera",
+            "number": "097/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/AllenamentodiCinturaneraEvoluzioniPrismatiche97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-098/131",
+            "name": "Allenamento di Cinturanera",
+            "number": "098/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/AllenamentodiCinturaneraEvoluzioniPrismatiche98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-099/131",
+            "name": "Allenamento di Cinturanera",
+            "number": "099/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/AllenamentodiCinturaneraEvoluzioniPrismatiche99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-100/131",
+            "name": "Rea",
+            "number": "100/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ReaEvoluzioniPrismatiche100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-101/131",
+            "name": "Poffin del Cuore",
+            "number": "101/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/PoffindelCuoreEvoluzioniPrismatiche101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-102/131",
+            "name": "Set Pigliamosche",
+            "number": "102/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/SetPigliamoscheEvoluzioniPrismatiche102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-103/131",
+            "name": "Rubra",
+            "number": "103/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/RubraEvoluzioniPrismatiche103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-104/131",
+            "name": "Decrittazione Esperta",
+            "number": "104/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/DecrittazioneEspertaEvoluzioniPrismatiche104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-105/131",
+            "name": "Piros",
+            "number": "105/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/PirosEvoluzioniPrismatiche105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-106/131",
+            "name": "Anfora Terrestre",
+            "number": "106/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/AnforaTerrestreEvoluzioniPrismatiche106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-107/131",
+            "name": "Guida dell'Esploratore",
+            "number": "107/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/GuidadellEsploratoreEvoluzioniPrismatiche107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-108/131",
+            "name": "Area della Festa",
+            "number": "108/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/AreadellaFestaEvoluzioniPrismatiche108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-109/131",
+            "name": "Amici a Paldea",
+            "number": "109/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/AmiciaPaldeaEvoluzioniPrismatiche109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-110/131",
+            "name": "Tromba di Vetro",
+            "number": "110/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/TrombadiVetroEvoluzioniPrismatiche110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-111/131",
+            "name": "Baccahaban",
+            "number": "111/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/BaccahabanEvoluzioniPrismatiche111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-112/131",
+            "name": "Arte Segreta di Nina",
+            "number": "112/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ArteSegretadiNinaEvoluzioniPrismatiche112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-113/131",
+            "name": "Riben",
+            "number": "113/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/RibenEvoluzioniPrismatiche113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-114/131",
+            "name": "Rupi",
+            "number": "114/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/RupiEvoluzioniPrismatiche114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-115/131",
+            "name": "Competenza di Ubaldo",
+            "number": "115/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/CompetenzadiUbaldoEvoluzioniPrismatiche115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-116/131",
+            "name": "Canna da pesca max",
+            "number": "116/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/CannadapescamaxEvoluzioniPrismatiche116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-117/131",
+            "name": "Maxicintura",
+            "number": "117/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MaxicinturaEvoluzioniPrismatiche117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-118/131",
+            "name": "Maschera dell'Orco",
+            "number": "118/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MascheradellOrcoEvoluzioniPrismatiche118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-119/131",
+            "name": "Acchiappa-Pokémon Eccellente",
+            "number": "119/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Acchiappa-Pok%C3%A9monEccellenteEvoluzioniPrismatiche119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-120/131",
+            "name": "Vitalità della Professoressa Olim",
+            "number": "120/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Vitalit%C3%A0dellaProfessoressaOlimEvoluzioniPrismatiche120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-121/131",
+            "name": "Scenario del Professor Turum",
+            "number": "121/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ScenariodelProfessorTurumEvoluzioniPrismatiche121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-122/131",
+            "name": "Ricerca Accademica [Professor Oak]",
+            "number": "122/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/RicercaAccademicaEvoluzioniPrismatiche122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-123/131",
+            "name": "Ricerca Accademica [Professor Elm]",
+            "number": "123/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/RicercaAccademicaEvoluzioniPrismatiche123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-124/131",
+            "name": "Ricerca Accademica [Professor Rowan]",
+            "number": "124/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/RicercaAccademicaEvoluzioniPrismatiche124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-125/131",
+            "name": "Ricerca Accademica [Professor Platan]",
+            "number": "125/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/RicercaAccademicaEvoluzioniPrismatiche125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-126/131",
+            "name": "Skateboard di Salvataggio",
+            "number": "126/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/SkateboarddiSalvataggioEvoluzioniPrismatiche126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-127/131",
+            "name": "Bastone Rotoselfie",
+            "number": "127/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/BastoneRotoselfieEvoluzioniPrismatiche127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-128/131",
+            "name": "Mega Recupero",
+            "number": "128/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/MegaRecuperoEvoluzioniPrismatiche128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-129/131",
+            "name": "Cristallo Scintillante",
+            "number": "129/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/CristalloScintillanteEvoluzioniPrismatiche129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-130/131",
+            "name": "Tecnoradar",
+            "number": "130/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/TecnoradarEvoluzioniPrismatiche130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-131/131",
+            "name": "Rilevatore di Tesori",
+            "number": "131/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/RilevatorediTesoriEvoluzioniPrismatiche131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRE-132/131",
+            "name": "Erin",
+            "number": "132/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ErinEvoluzioniPrismatiche132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-133/131",
+            "name": "Henzo",
+            "number": "133/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/HenzoEvoluzioniPrismatiche133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-134/131",
+            "name": "Henzo",
+            "number": "134/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/HenzoEvoluzioniPrismatiche134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-135/131",
+            "name": "Brassius",
+            "number": "135/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/BrassiusEvoluzioniPrismatiche135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-136/131",
+            "name": "Nespera",
+            "number": "136/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/NesperaEvoluzioniPrismatiche136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-137/131",
+            "name": "Amici a Paldea",
+            "number": "137/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/AmiciaPaldeaEvoluzioniPrismatiche137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-138/131",
+            "name": "Romelio",
+            "number": "138/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/RomelioEvoluzioniPrismatiche138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-139/131",
+            "name": "Competenza di Ubaldo",
+            "number": "139/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/CompetenzadiUbaldoEvoluzioniPrismatiche139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-140/131",
+            "name": "Pruna",
+            "number": "140/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/PrunaEvoluzioniPrismatiche140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-141/131",
+            "name": "Ortiz",
+            "number": "141/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/OrtizEvoluzioniPrismatiche141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-142/131",
+            "name": "Morasia",
+            "number": "142/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MorasiaEvoluzioniPrismatiche142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-143/131",
+            "name": "Thyma",
+            "number": "143/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/ThymaEvoluzioniPrismatiche143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-144/131",
+            "name": "Leafeon-ex",
+            "number": "144/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/Leafeon-exEvoluzioniPrismatiche144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-145/131",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "145/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/OgerponMascheraTurchese-exEvoluzioniPrismatiche145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-146/131",
+            "name": "Flareon-ex",
+            "number": "146/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Flareon-exEvoluzioniPrismatiche146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-147/131",
+            "name": "Ceruledge-ex",
+            "number": "147/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Ceruledge-exEvoluzioniPrismatiche147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-148/131",
+            "name": "Ogerpon Maschera Focolare-ex",
+            "number": "148/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/OgerponMascheraFocolare-exEvoluzioniPrismatiche148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-149/131",
+            "name": "Vaporeon-ex",
+            "number": "149/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Vaporeon-exEvoluzioniPrismatiche149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-150/131",
+            "name": "Glaceon-ex",
+            "number": "150/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Glaceon-exEvoluzioniPrismatiche150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-151/131",
+            "name": "Palafin-ex",
+            "number": "151/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Palafin-exEvoluzioniPrismatiche151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-152/131",
+            "name": "Ogerpon Maschera Pozzo-ex",
+            "number": "152/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/OgerponMascheraPozzo-exEvoluzioniPrismatiche152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-153/131",
+            "name": "Jolteon-ex",
+            "number": "153/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/Jolteon-exEvoluzioniPrismatiche153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-154/131",
+            "name": "Manoferrea-ex",
+            "number": "154/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Manoferrea-exEvoluzioniPrismatiche154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-155/131",
+            "name": "Espeon-ex",
+            "number": "155/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/Espeon-exEvoluzioniPrismatiche155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-156/131",
+            "name": "Sylveon-ex",
+            "number": "156/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Sylveon-exEvoluzioniPrismatiche156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-157/131",
+            "name": "Eroeferreo-ex",
+            "number": "157/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Eroeferreo-exEvoluzioniPrismatiche157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-158/131",
+            "name": "Capoferreo-ex",
+            "number": "158/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Capoferreo-exEvoluzioniPrismatiche158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-159/131",
+            "name": "Peldisabbia-ex",
+            "number": "159/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Peldisabbia-exEvoluzioniPrismatiche159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-160/131",
+            "name": "Ogerpon Maschera Fondamenta-ex",
+            "number": "160/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/OgerponMascheraFondamenta-exEvoluzioniPrismatiche160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-161/131",
+            "name": "Umbreon-ex",
+            "number": "161/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Umbreon-exEvoluzioniPrismatiche161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-162/131",
+            "name": "Lunaruggente-ex",
+            "number": "162/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Lunaruggente-exEvoluzioniPrismatiche162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-163/131",
+            "name": "Pecharunt-ex",
+            "number": "163/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Pecharunt-exEvoluzioniPrismatiche163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-164/131",
+            "name": "Gholdengo-ex",
+            "number": "164/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Gholdengo-exEvoluzioniPrismatiche164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-165/131",
+            "name": "Dragapult-ex",
+            "number": "165/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Dragapult-exEvoluzioniPrismatiche165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-166/131",
+            "name": "Furiatonante-ex",
+            "number": "166/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Furiatonante-exEvoluzioniPrismatiche166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-167/131",
+            "name": "Eevee-ex",
+            "number": "167/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Eevee-exEvoluzioniPrismatiche167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-168/131",
+            "name": "Ursaluna Luna Cremisi-ex",
+            "number": "168/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/UrsalunaLunaCremisi-exEvoluzioniPrismatiche168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-169/131",
+            "name": "Terapagos-ex",
+            "number": "169/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Terapagos-exEvoluzioniPrismatiche169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-170/131",
+            "name": "Erin",
+            "number": "170/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ErinEvoluzioniPrismatiche170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-171/131",
+            "name": "Piros",
+            "number": "171/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/PirosEvoluzioniPrismatiche171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-172/131",
+            "name": "Aris",
+            "number": "172/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ArisEvoluzioniPrismatiche172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-173/131",
+            "name": "Arte Segreta di Nina",
+            "number": "173/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ArteSegretadiNinaEvoluzioniPrismatiche173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-174/131",
+            "name": "Riben",
+            "number": "174/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/RibenEvoluzioniPrismatiche174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-175/131",
+            "name": "Rupi",
+            "number": "175/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/RupiEvoluzioniPrismatiche175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-176/131",
+            "name": "Fogliaferrea-ex",
+            "number": "176/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Fogliaferrea-exEvoluzioniPrismatiche176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-177/131",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "177/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/OgerponMascheraTurchese-exEvoluzioniPrismatiche177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-178/131",
+            "name": "Acquecrespe-ex",
+            "number": "178/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Acquecrespe-exEvoluzioniPrismatiche178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-179/131",
+            "name": "Pikachu-ex",
+            "number": "179/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Pikachu-exEvoluzioniPrismatiche179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRE-180/131",
+            "name": "Terapagos-ex",
+            "number": "180/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/Terapagos-exEvoluzioniPrismatiche180.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-009",
+				"SVE-010",
+				"SVE-011",
+				"SVE-012",
+				"SVE-013",
+				"SVE-014",
+				"SVE-015",
+				"SVE-016"
+		]
+}

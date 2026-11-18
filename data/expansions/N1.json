@@ -1,0 +1,790 @@
+{
+    "expansion": {
+        "id": "N1",
+        "name": "Neo Genesis",
+				"year": 2001,
+				"month": 6,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetNeo_Genesis.svg",
+        "cardCount": 111
+    },
+    "cards": [
+        {
+            "id": "N1-1/111",
+            "name": "Ampharos",
+            "number": "1/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/AmpharosNeoGenesis1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-2/111",
+            "name": "Azumarill",
+            "number": "2/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/AzumarillNeoGenesis2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-3/111",
+            "name": "Bellossom",
+            "number": "3/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BellossomNeoGenesis3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-4/111",
+            "name": "Feraligatr",
+            "number": "4/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/FeraligatrNeoGenesis4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-5/111",
+            "name": "Feraligatr",
+            "number": "5/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/FeraligatrNeoGenesis5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-6/111",
+            "name": "Heracross",
+            "number": "6/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/HeracrossNeoGenesis6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-7/111",
+            "name": "Jumpluff",
+            "number": "7/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/JumpluffNeoGenesis7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-8/111",
+            "name": "Kingdra",
+            "number": "8/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/KingdraNeoGenesis8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-9/111",
+            "name": "Lugia",
+            "number": "9/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/LugiaNeoGenesis9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-10/111",
+            "name": "Meganium",
+            "number": "10/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/MeganiumNeoGenesis10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-11/111",
+            "name": "Meganium",
+            "number": "11/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MeganiumNeoGenesis11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-12/111",
+            "name": "Pichu",
+            "number": "12/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/PichuNeoGenesis12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-13/111",
+            "name": "Skarmory",
+            "number": "13/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SkarmoryNeoGenesis13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-14/111",
+            "name": "Slowking",
+            "number": "14/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SlowkingNeoGenesis14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-15/111",
+            "name": "Steelix",
+            "number": "15/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/SteelixNeoGenesis15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-16/111",
+            "name": "Togetic",
+            "number": "16/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/TogeticNeoGenesis16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-17/111",
+            "name": "Typhlosion",
+            "number": "17/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TyphlosionNeoGenesis17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-18/111",
+            "name": "Typhlosion",
+            "number": "18/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/TyphlosionNeoGenesis18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-19/111",
+            "name": "Energia Metallo",
+            "number": "19/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/EnergiaMetalloNeoGenesis19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-20/111",
+            "name": "Cleffa",
+            "number": "20/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CleffaNeoGenesis20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-21/111",
+            "name": "Donphan",
+            "number": "21/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/DonphanNeoGenesis21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-22/111",
+            "name": "Elekid",
+            "number": "22/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ElekidNeoGenesis22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-23/111",
+            "name": "Magby",
+            "number": "23/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MagbyNeoGenesis23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-24/111",
+            "name": "Murkrow",
+            "number": "24/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MurkrowNeoGenesis24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-25/111",
+            "name": "Sneasel",
+            "number": "25/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SneaselNeoGenesis25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-26/111",
+            "name": "Aipom",
+            "number": "26/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/AipomNeoGenesis26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-27/111",
+            "name": "Ariados",
+            "number": "27/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/AriadosNeoGenesis27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-28/111",
+            "name": "Bayleef",
+            "number": "28/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/BayleefNeoGenesis28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-29/111",
+            "name": "Bayleef",
+            "number": "29/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/BayleefNeoGenesis29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-30/111",
+            "name": "Clefairy",
+            "number": "30/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ClefairyNeoGenesis30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-31/111",
+            "name": "Croconaw",
+            "number": "31/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CroconawNeoGenesis31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-32/111",
+            "name": "Croconaw",
+            "number": "32/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/CroconawNeoGenesis32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-33/111",
+            "name": "Electabuzz",
+            "number": "33/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ElectabuzzNeoGenesis33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-34/111",
+            "name": "Flaaffy",
+            "number": "34/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/FlaaffyNeoGenesis34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-35/111",
+            "name": "Furret",
+            "number": "35/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/FurretNeoGenesis35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-36/111",
+            "name": "Gloom",
+            "number": "36/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/GloomNeoGenesis36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-37/111",
+            "name": "Granbull",
+            "number": "37/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/GranbullNeoGenesis37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-38/111",
+            "name": "Lanturn",
+            "number": "38/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/LanturnNeoGenesis38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-39/111",
+            "name": "Ledian",
+            "number": "39/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/LedianNeoGenesis39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-40/111",
+            "name": "Magmar",
+            "number": "40/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MagmarNeoGenesis40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-41/111",
+            "name": "Miltank",
+            "number": "41/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MiltankNeoGenesis41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-42/111",
+            "name": "Noctowl",
+            "number": "42/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/NoctowlNeoGenesis42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-43/111",
+            "name": "Phanpy",
+            "number": "43/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/PhanpyNeoGenesis43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-44/111",
+            "name": "Piloswine",
+            "number": "44/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/PiloswineNeoGenesis44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-45/111",
+            "name": "Quagsire",
+            "number": "45/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/QuagsireNeoGenesis45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-46/111",
+            "name": "Quilava",
+            "number": "46/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/QuilavaNeoGenesis46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-47/111",
+            "name": "Quilava",
+            "number": "47/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/QuilavaNeoGenesis47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-48/111",
+            "name": "Seadra",
+            "number": "48/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/SeadraNeoGenesis48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-49/111",
+            "name": "Skiploom",
+            "number": "49/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/SkiploomNeoGenesis49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-50/111",
+            "name": "Sunflora",
+            "number": "50/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SunfloraNeoGenesis50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-51/111",
+            "name": "Togepi",
+            "number": "51/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/TogepiNeoGenesis51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-52/111",
+            "name": "Xatu",
+            "number": "52/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/XatuNeoGenesis52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-53/111",
+            "name": "Chikorita",
+            "number": "53/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ChikoritaNeoGenesis53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-54/111",
+            "name": "Chikorita",
+            "number": "54/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ChikoritaNeoGenesis54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-55/111",
+            "name": "Chinchou",
+            "number": "55/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/ChinchouNeoGenesis55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-56/111",
+            "name": "Cyndaquil",
+            "number": "56/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/CyndaquilNeoGenesis56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-57/111",
+            "name": "Cyndaquil",
+            "number": "57/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/CyndaquilNeoGenesis57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-58/111",
+            "name": "Girafarig",
+            "number": "58/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/GirafarigNeoGenesis58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-59/111",
+            "name": "Gligar",
+            "number": "59/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/GligarNeoGenesis59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-60/111",
+            "name": "Hoothoot",
+            "number": "60/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/HoothootNeoGenesis60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-61/111",
+            "name": "Hoppip",
+            "number": "61/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/HoppipNeoGenesis61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-62/111",
+            "name": "Horsea",
+            "number": "62/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/HorseaNeoGenesis62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-63/111",
+            "name": "Ledyba",
+            "number": "63/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/LedybaNeoGenesis63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-64/111",
+            "name": "Mantine",
+            "number": "64/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MantineNeoGenesis64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-65/111",
+            "name": "Mareep",
+            "number": "65/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/MareepNeoGenesis65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-66/111",
+            "name": "Marill",
+            "number": "66/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MarillNeoGenesis66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-67/111",
+            "name": "Natu",
+            "number": "67/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/NatuNeoGenesis67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-68/111",
+            "name": "Oddish",
+            "number": "68/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/OddishNeoGenesis68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-69/111",
+            "name": "Onix",
+            "number": "69/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/OnixNeoGenesis69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-70/111",
+            "name": "Pikachu",
+            "number": "70/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/PikachuNeoGenesis70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-71/111",
+            "name": "Sentret",
+            "number": "71/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SentretNeoGenesis71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-72/111",
+            "name": "Shuckle",
+            "number": "72/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/ShuckleNeoGenesis72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-73/111",
+            "name": "Slowpoke",
+            "number": "73/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/SlowpokeNeoGenesis73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-74/111",
+            "name": "Snubbull",
+            "number": "74/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/SnubbullNeoGenesis74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-75/111",
+            "name": "Spinarak",
+            "number": "75/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/SpinarakNeoGenesis75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-76/111",
+            "name": "Stantler",
+            "number": "76/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/StantlerNeoGenesis76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-77/111",
+            "name": "Sudowoodo",
+            "number": "77/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SudowoodoNeoGenesis77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-78/111",
+            "name": "Sunkern",
+            "number": "78/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/SunkernNeoGenesis78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-79/111",
+            "name": "Swinub",
+            "number": "79/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/SwinubNeoGenesis79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-80/111",
+            "name": "Totodile",
+            "number": "80/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/TotodileNeoGenesis80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-81/111",
+            "name": "Totodile",
+            "number": "81/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/TotodileNeoGenesis81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-82/111",
+            "name": "Wooper",
+            "number": "82/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/WooperNeoGenesis82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-83/111",
+            "name": "Gioco Arcade",
+            "number": "83/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/GiocoArcadeNeoGenesis83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-84/111",
+            "name": "Ecopalestra",
+            "number": "84/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/EcopalestraNeoGenesis84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-85/111",
+            "name": "Carica Energia",
+            "number": "85/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/CaricaEnergiaNeoGenesis85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-86/111",
+            "name": "Bandana",
+            "number": "86/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/BandanaNeoGenesis86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-87/111",
+            "name": "Lori",
+            "number": "87/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/LoriNeoGenesis87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-88/111",
+            "name": "PokéGear",
+            "number": "88/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Pok%C3%A9GearNeoGenesis88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-89/111",
+            "name": "Super Recupero di Energia",
+            "number": "89/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SuperRecuperodiEnergiaNeoGenesis89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-90/111",
+            "name": "Capsula del Tempo",
+            "number": "90/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/CapsuladelTempoNeoGenesis90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-91/111",
+            "name": "Teletrasporto di Bill",
+            "number": "91/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TeletrasportodiBillNeoGenesis91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-92/111",
+            "name": "Gioco Scopri-Carta",
+            "number": "92/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/GiocoScopriCartaNeoGenesis92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-93/111",
+            "name": "Bacca Oro",
+            "number": "93/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/BaccaOroNeoGenesis93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-94/111",
+            "name": "Bacca Mirac.",
+            "number": "94/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/BaccaMiracolosaNeoGenesis94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-95/111",
+            "name": "Nuovo Pokédex",
+            "number": "95/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/NuovoPok%C3%A9dexNeoGenesis95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-96/111",
+            "name": "Professor Elm",
+            "number": "96/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ProfessorElmNeoGenesis96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-97/111",
+            "name": "Torre Sprout",
+            "number": "97/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/TorreSproutNeoGenesis97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-98/111",
+            "name": "Super Recupero",
+            "number": "98/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SuperRecuperoNeoGenesis98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-99/111",
+            "name": "Bacca",
+            "number": "99/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/BaccaNeoGenesis99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-100/111",
+            "name": "Doppia Folata",
+            "number": "100/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/DoppiaFolataNeoGenesis100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-101/111",
+            "name": "Latte Mumu",
+            "number": "101/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/LatteMumuNeoGenesis101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-102/111",
+            "name": "Marcia Pokémon",
+            "number": "102/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/MarciaPok%C3%A9monNeoGenesis102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-103/111",
+            "name": "Super Amo",
+            "number": "103/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SuperAmoNeoGenesis103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-104/111",
+            "name": "Energia Oscurità",
+            "number": "104/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/EnergiaOscurit%C3%A0NeoGenesis104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-105/111",
+            "name": "Energia Riciclo",
+            "number": "105/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/EnergiaRicicloNeoGenesis105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-106/111",
+            "name": "Energia Combattimento",
+            "number": "106/111",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-107/111",
+            "name": "Energia Fuoco",
+            "number": "107/111",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-108/111",
+            "name": "Energia Erba",
+            "number": "108/111",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-109/111",
+            "name": "Energia Lampo",
+            "number": "109/111",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-110/111",
+            "name": "Energia Psiche",
+            "number": "110/111",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "N1-111/111",
+            "name": "Energia Acqua",
+            "number": "111/111",
+            "image": null,
+            "section": "Set principale"
+        }
+    ]
+}

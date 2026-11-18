@@ -1,0 +1,692 @@
+{
+    "expansion": {
+        "id": "MA",
+        "name": "EX Team Magma vs Team Idro",
+				"year": 2004,
+				"month": 3,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/df/SimboloSetEX_Team_Magma_vs_Team_Idro.png",
+        "cardCount": 97
+    },
+    "cards": [
+        {
+            "id": "MA-1/95",
+            "name": "Team Idro Cacturne",
+            "number": "1/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/TeamIdroCacturneEXTeamMagmavsTeamIdro1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-2/95",
+            "name": "Team Idro Crawdaunt",
+            "number": "2/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/TeamIdroCrawdauntEXTeamMagmavsTeamIdro2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-3/95",
+            "name": "Team Idro Kyogre",
+            "number": "3/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/TeamIdroKyogreEXTeamMagmavsTeamIdro3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-4/95",
+            "name": "Team Idro Manectric",
+            "number": "4/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/TeamIdroManectricEXTeamMagmavsTeamIdro4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-5/95",
+            "name": "Team Idro Sharpedo",
+            "number": "5/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/TeamIdroSharpedoEXTeamMagmavsTeamIdro5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-6/95",
+            "name": "Team Idro Walrein",
+            "number": "6/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/TeamIdroWalreinEXTeamMagmavsTeamIdro6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-7/95",
+            "name": "Team Magma Aggron",
+            "number": "7/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/TeamMagmaAggronEXTeamMagmavsTeamIdro7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-8/95",
+            "name": "Team Magma Claydol",
+            "number": "8/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/TeamMagmaClaydolEXTeamMagmavsTeamIdro8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-9/95",
+            "name": "Team Magma Groudon",
+            "number": "9/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/TeamMagmaGroudonEXTeamMagmavsTeamIdro9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-10/95",
+            "name": "Team Magma Houndoom",
+            "number": "10/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/TeamMagmaHoundoomEXTeamMagmavsTeamIdro10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-11/95",
+            "name": "Team Magma Rhydon",
+            "number": "11/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/TeamMagmaRhydonEXTeamMagmavsTeamIdro11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-12/95",
+            "name": "Team Magma Torkoal",
+            "number": "12/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/TeamMagmaTorkoalEXTeamMagmavsTeamIdro12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-13/95",
+            "name": "Raichu",
+            "number": "13/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/RaichuEXTeamMagmavsTeamIdro13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-14/95",
+            "name": "Team Idro Crawdaunt",
+            "number": "14/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/TeamIdroCrawdauntEXTeamMagmavsTeamIdro14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-15/95",
+            "name": "Team Idro Mightyena",
+            "number": "15/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/TeamIdroMightyenaEXTeamMagmavsTeamIdro15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-16/95",
+            "name": "Team Idro Sealeo",
+            "number": "16/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/TeamIdroSealeoEXTeamMagmavsTeamIdro16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-17/95",
+            "name": "Team Idro Seviper",
+            "number": "17/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/TeamIdroSeviperEXTeamMagmavsTeamIdro17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-18/95",
+            "name": "Team Idro Sharpedo",
+            "number": "18/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/TeamIdroSharpedoEXTeamMagmavsTeamIdro18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-19/95",
+            "name": "Team Magma Camerupt",
+            "number": "19/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/TeamMagmaCameruptEXTeamMagmavsTeamIdro19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-20/95",
+            "name": "Team Magma Lairon",
+            "number": "20/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/TeamMagmaLaironEXTeamMagmavsTeamIdro20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-21/95",
+            "name": "Team Magma Mightyena",
+            "number": "21/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/TeamMagmaMightyenaEXTeamMagmavsTeamIdro21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-22/95",
+            "name": "Team Magma Rhydon",
+            "number": "22/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/TeamMagmaRhydonEXTeamMagmavsTeamIdro22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-23/95",
+            "name": "Team Magma Zangoose",
+            "number": "23/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/TeamMagmaZangooseEXTeamMagmavsTeamIdro23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-24/95",
+            "name": "Team Idro Cacnea",
+            "number": "24/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/TeamIdroCacneaEXTeamMagmavsTeamIdro24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-25/95",
+            "name": "Team Idro Carvanha",
+            "number": "25/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/TeamIdroCarvanhaEXTeamMagmavsTeamIdro25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-26/95",
+            "name": "Team Idro Corphish",
+            "number": "26/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/TeamIdroCorphishEXTeamMagmavsTeamIdro26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-27/95",
+            "name": "Team Idro Electrike",
+            "number": "27/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/TeamIdroElectrikeEXTeamMagmavsTeamIdro27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-28/95",
+            "name": "Team Idro Lanturn",
+            "number": "28/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/TeamIdroLanturnEXTeamMagmavsTeamIdro28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-29/95",
+            "name": "Team Idro Manectric",
+            "number": "29/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/TeamIdroManectricEXTeamMagmavsTeamIdro29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-30/95",
+            "name": "Team Idro Mightyena",
+            "number": "30/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/TeamIdroMightyenaEXTeamMagmavsTeamIdro30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-31/95",
+            "name": "Team Idro Sealeo",
+            "number": "31/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/TeamIdroSealeoEXTeamMagmavsTeamIdro31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-32/95",
+            "name": "Team Magma Baltoy",
+            "number": "32/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/TeamMagmaBaltoyEXTeamMagmavsTeamIdro32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-33/95",
+            "name": "Team Magma Claydol",
+            "number": "33/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/TeamMagmaClaydolEXTeamMagmavsTeamIdro33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-34/95",
+            "name": "Team Magma Houndoom",
+            "number": "34/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/TeamMagmaHoundoomEXTeamMagmavsTeamIdro34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-35/95",
+            "name": "Team Magma Houndour",
+            "number": "35/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/TeamMagmaHoundourEXTeamMagmavsTeamIdro35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-36/95",
+            "name": "Team Magma Lairon",
+            "number": "36/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/TeamMagmaLaironEXTeamMagmavsTeamIdro36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-37/95",
+            "name": "Team Magma Mightyena",
+            "number": "37/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/TeamMagmaMightyenaEXTeamMagmavsTeamIdro37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-38/95",
+            "name": "Team Magma Rhyhorn",
+            "number": "38/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/TeamMagmaRhyhornEXTeamMagmavsTeamIdro38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-39/95",
+            "name": "Bulbasaur",
+            "number": "39/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/BulbasaurEXTeamMagmavsTeamIdro39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-40/95",
+            "name": "Cubone",
+            "number": "40/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/CuboneEXTeamMagmavsTeamIdro40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-41/95",
+            "name": "Jigglypuff",
+            "number": "41/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/JigglypuffEXTeamMagmavsTeamIdro41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-42/95",
+            "name": "Meowth",
+            "number": "42/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MeowthEXTeamMagmavsTeamIdro42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-43/95",
+            "name": "Pikachu",
+            "number": "43/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/PikachuEXTeamMagmavsTeamIdro43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-44/95",
+            "name": "Psyduck",
+            "number": "44/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/PsyduckEXTeamMagmavsTeamIdro44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-45/95",
+            "name": "Slowpoke",
+            "number": "45/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SlowpokeEXTeamMagmavsTeamIdro45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-46/95",
+            "name": "Squirtle",
+            "number": "46/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SquirtleEXTeamMagmavsTeamIdro46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-47/95",
+            "name": "Team Idro Carvanha",
+            "number": "47/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/TeamIdroCarvanhaEXTeamMagmavsTeamIdro47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-48/95",
+            "name": "Team Idro Carvanha",
+            "number": "48/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/TeamIdroCarvanhaEXTeamMagmavsTeamIdro48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-49/95",
+            "name": "Team Idro Chinchou",
+            "number": "49/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/TeamIdroChinchouEXTeamMagmavsTeamIdro49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-50/95",
+            "name": "Team Idro Corphish",
+            "number": "50/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/TeamIdroCorphishEXTeamMagmavsTeamIdro50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-51/95",
+            "name": "Team Idro Corphish",
+            "number": "51/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/TeamIdroCorphishEXTeamMagmavsTeamIdro51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-52/95",
+            "name": "Team Idro Electrike",
+            "number": "52/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/TeamIdroElectrikeEXTeamMagmavsTeamIdro52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-53/95",
+            "name": "Team Idro Electrike",
+            "number": "53/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/TeamIdroElectrikeEXTeamMagmavsTeamIdro53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-54/95",
+            "name": "Team Idro Poochyena",
+            "number": "54/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/TeamIdroPoochyenaEXTeamMagmavsTeamIdro54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-55/95",
+            "name": "Team Idro Poochyena",
+            "number": "55/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/TeamIdroPoochyenaEXTeamMagmavsTeamIdro55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-56/95",
+            "name": "Team Idro Spheal",
+            "number": "56/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/TeamIdroSphealEXTeamMagmavsTeamIdro56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-57/95",
+            "name": "Team Idro Spheal",
+            "number": "57/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/TeamIdroSphealEXTeamMagmavsTeamIdro57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-58/95",
+            "name": "Team Magma Aron",
+            "number": "58/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/TeamMagmaAronEXTeamMagmavsTeamIdro58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-59/95",
+            "name": "Team Magma Aron",
+            "number": "59/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/TeamMagmaAronEXTeamMagmavsTeamIdro59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-60/95",
+            "name": "Team Magma Baltoy",
+            "number": "60/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/TeamMagmaBaltoyEXTeamMagmavsTeamIdro60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-61/95",
+            "name": "Team Magma Baltoy",
+            "number": "61/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/TeamMagmaBaltoyEXTeamMagmavsTeamIdro61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-62/95",
+            "name": "Team Magma Houndour",
+            "number": "62/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/TeamMagmaHoundourEXTeamMagmavsTeamIdro62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-63/95",
+            "name": "Team Magma Houndour",
+            "number": "63/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/TeamMagmaHoundourEXTeamMagmavsTeamIdro63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-64/95",
+            "name": "Team Magma Numel",
+            "number": "64/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/TeamMagmaNumelEXTeamMagmavsTeamIdro64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-65/95",
+            "name": "Team Magma Poochyena",
+            "number": "65/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/TeamMagmaPoochyenaEXTeamMagmavsTeamIdro65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-66/95",
+            "name": "Team Magma Poochyena",
+            "number": "66/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/TeamMagmaPoochyenaEXTeamMagmavsTeamIdro66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-67/95",
+            "name": "Team Magma Rhyhorn",
+            "number": "67/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/TeamMagmaRhyhornEXTeamMagmavsTeamIdro67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-68/95",
+            "name": "Team Magma Rhyhorn",
+            "number": "68/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/TeamMagmaRhyhornEXTeamMagmavsTeamIdro68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-69/95",
+            "name": "Pianificatore del Team Idro",
+            "number": "69/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/PianificatoredelTeamIdroEXTeamMagmavsTeamIdro69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-70/95",
+            "name": "Pianificatore del Team Magma",
+            "number": "70/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/PianificatoredelTeamMagmaEXTeamMagmavsTeamIdro70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-71/95",
+            "name": "Ivan",
+            "number": "71/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/IvanEXTeamMagmavsTeamIdro71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-72/95",
+            "name": "Palla Doppia",
+            "number": "72/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/PallaDoppiaEXTeamMagmavsTeamIdro72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-73/95",
+            "name": "Max",
+            "number": "73/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/MaxEXTeamMagmavsTeamIdro73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-74/95",
+            "name": "Malia della Forza",
+            "number": "74/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MaliadellaForzaEXTeamMagmavsTeamIdro74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-75/95",
+            "name": "Sfera del Team Idro",
+            "number": "75/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/SferadelTeamIdroEXTeamMagmavsTeamIdro75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-76/95",
+            "name": "Cintura Team Idro",
+            "number": "76/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/CinturaTeamIdroEXTeamMagmavsTeamIdro76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-77/95",
+            "name": "Cospiratore del Team Idro",
+            "number": "77/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CospiratoredelTeamIdroEXTeamMagmavsTeamIdro77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-78/95",
+            "name": "Nascondiglio del Team Idro",
+            "number": "78/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/NascondigliodelTeamIdroEXTeamMagmavsTeamIdro78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-79/95",
+            "name": "Macchinario Tecnico del Team Idro 01",
+            "number": "79/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/MacchinarioTecnicodelTeamIdro01EXTeamMagmavsTeamIdro79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-80/95",
+            "name": "Sfera del Team Magma",
+            "number": "80/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/SferadelTeamMagmaEXTeamMagmavsTeamIdro80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-81/95",
+            "name": "Cintura Team Magma",
+            "number": "81/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/CinturaTeamMagmaEXTeamMagmavsTeamIdro81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-82/95",
+            "name": "Cospiratore del Team Magma",
+            "number": "82/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/CospiratoredelTeamMagmaEXTeamMagmavsTeamIdro82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-83/95",
+            "name": "Nascondiglio del Team Magma",
+            "number": "83/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/NascondigliodelTeamMagmaEXTeamMagmavsTeamIdro83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-84/95",
+            "name": "Macchinario Tecnico del Team Magma 01",
+            "number": "84/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MacchinarioTecnicodelTeamMagma01EXTeamMagmavsTeamIdro84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-85/95",
+            "name": "Punto di Curvatura",
+            "number": "85/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/PuntodiCurvaturaEXTeamMagmavsTeamIdro85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-86/95",
+            "name": "Idro Energia",
+            "number": "86/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/IdroEnergiaEXTeamMagmavsTeamIdro86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-87/95",
+            "name": "Magma Energia",
+            "number": "87/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MagmaEnergiaEXTeamMagmavsTeamIdro87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-88/95",
+            "name": "Duplice Energia Arcobaleno",
+            "number": "88/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/DupliceEnergiaArcobalenoEXTeamMagmavsTeamIdro88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-89/95",
+            "name": "Blaziken ex",
+            "number": "89/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/BlazikenexEXTeamMagmavsTeamIdro89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-90/95",
+            "name": "Cradily ex",
+            "number": "90/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/CradilyexEXTeamMagmavsTeamIdro90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-91/95",
+            "name": "Entei ex",
+            "number": "91/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/EnteiexEXTeamMagmavsTeamIdro91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-92/95",
+            "name": "Raikou ex",
+            "number": "92/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/RaikouexEXTeamMagmavsTeamIdro92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-93/95",
+            "name": "Sceptile ex",
+            "number": "93/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SceptileexEXTeamMagmavsTeamIdro93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-94/95",
+            "name": "Suicune ex",
+            "number": "94/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SuicuneexEXTeamMagmavsTeamIdro94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-95/95",
+            "name": "Swampert ex",
+            "number": "95/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SwampertexEXTeamMagmavsTeamIdro95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "MA-96/95",
+            "name": "Absol",
+            "number": "96/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/AbsolEXTeamMagmavsTeamIdro96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MA-97/95",
+            "name": "Jirachi",
+            "number": "97/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/JirachiEXTeamMagmavsTeamIdro97.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

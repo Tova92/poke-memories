@@ -1,0 +1,1829 @@
+{
+    "expansion": {
+        "id": "SVI",
+        "name": "Scarlatto e Violetto",
+        "year": 2023,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/e/e1/SimboloSetScarlatto_e_Violetto.png",
+        "cardCount": 258
+    },
+    "cards": [
+        {
+            "id": "SVI-001/198",
+            "name": "Pineco",
+            "number": "001/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/PinecoScarlattoeVioletto1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-002/198",
+            "name": "Heracross",
+            "number": "002/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/HeracrossScarlattoeVioletto2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-003/198",
+            "name": "Shroomish",
+            "number": "003/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ShroomishScarlattoeVioletto3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-004/198",
+            "name": "Breloom",
+            "number": "004/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/BreloomScarlattoeVioletto4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-005/198",
+            "name": "Cacnea",
+            "number": "005/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/CacneaScarlattoeVioletto5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-006/198",
+            "name": "Cacturne",
+            "number": "006/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/CacturneScarlattoeVioletto6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-007/198",
+            "name": "Tropius",
+            "number": "007/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/TropiusScarlattoeVioletto7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-008/198",
+            "name": "Scatterbug",
+            "number": "008/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ScatterbugScarlattoeVioletto8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-009/198",
+            "name": "Spewpa",
+            "number": "009/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SpewpaScarlattoeVioletto9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-010/198",
+            "name": "Vivillon",
+            "number": "010/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/VivillonScarlattoeVioletto10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-011/198",
+            "name": "Skiddo",
+            "number": "011/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SkiddoScarlattoeVioletto11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-012/198",
+            "name": "Gogoat",
+            "number": "012/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/GogoatScarlattoeVioletto12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-013/198",
+            "name": "Sprigatito",
+            "number": "013/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SprigatitoScarlattoeVioletto13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-014/198",
+            "name": "Floragato",
+            "number": "014/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/FloragatoScarlattoeVioletto14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-015/198",
+            "name": "Meowscarada",
+            "number": "015/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MeowscaradaScarlattoeVioletto15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-016/198",
+            "name": "Tarountula",
+            "number": "016/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/TarountulaScarlattoeVioletto16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-017/198",
+            "name": "Tarountula",
+            "number": "017/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/TarountulaScarlattoeVioletto17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-018/198",
+            "name": "Tarountula",
+            "number": "018/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/TarountulaScarlattoeVioletto18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-019/198",
+            "name": "Spidops-ex",
+            "number": "019/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/Spidops-exScarlattoeVioletto19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-020/198",
+            "name": "Smoliv",
+            "number": "020/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SmolivScarlattoeVioletto20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-021/198",
+            "name": "Smoliv",
+            "number": "021/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SmolivScarlattoeVioletto21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-022/198",
+            "name": "Dolliv",
+            "number": "022/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/DollivScarlattoeVioletto22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-023/198",
+            "name": "Arboliva",
+            "number": "023/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ArbolivaScarlattoeVioletto23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-024/198",
+            "name": "Toedscool",
+            "number": "024/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/ToedscoolScarlattoeVioletto24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-025/198",
+            "name": "Toedscool",
+            "number": "025/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/ToedscoolScarlattoeVioletto25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-026/198",
+            "name": "Toedscruel",
+            "number": "026/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ToedscruelScarlattoeVioletto26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-027/198",
+            "name": "Capsakid",
+            "number": "027/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/CapsakidScarlattoeVioletto27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-028/198",
+            "name": "Capsakid",
+            "number": "028/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CapsakidScarlattoeVioletto28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-029/198",
+            "name": "Scovillain",
+            "number": "029/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/ScovillainScarlattoeVioletto29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-030/198",
+            "name": "Growlithe",
+            "number": "030/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/GrowlitheScarlattoeVioletto30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-031/198",
+            "name": "Growlithe",
+            "number": "031/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/GrowlitheScarlattoeVioletto31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-032/198",
+            "name": "Arcanine-ex",
+            "number": "032/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Arcanine-exScarlattoeVioletto32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-033/198",
+            "name": "Houndour",
+            "number": "033/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/HoundourScarlattoeVioletto33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-034/198",
+            "name": "Houndoom",
+            "number": "034/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/HoundoomScarlattoeVioletto34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-035/198",
+            "name": "Torkoal",
+            "number": "035/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/TorkoalScarlattoeVioletto35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-036/198",
+            "name": "Fuecoco",
+            "number": "036/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/FuecocoScarlattoeVioletto36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-037/198",
+            "name": "Crocalor",
+            "number": "037/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/CrocalorScarlattoeVioletto37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-038/198",
+            "name": "Skeledirge",
+            "number": "038/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SkeledirgeScarlattoeVioletto38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-039/198",
+            "name": "Charcadet",
+            "number": "039/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/CharcadetScarlattoeVioletto39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-040/198",
+            "name": "Charcadet",
+            "number": "040/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/CharcadetScarlattoeVioletto40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-041/198",
+            "name": "Armarouge",
+            "number": "041/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/ArmarougeScarlattoeVioletto41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-042/198",
+            "name": "Slowpoke",
+            "number": "042/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SlowpokeScarlattoeVioletto42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-043/198",
+            "name": "Slowbro",
+            "number": "043/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/SlowbroScarlattoeVioletto43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-044/198",
+            "name": "Magikarp",
+            "number": "044/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MagikarpScarlattoeVioletto44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-045/198",
+            "name": "Gyarados-ex",
+            "number": "045/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Gyarados-exScarlattoeVioletto45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-046/198",
+            "name": "Buizel",
+            "number": "046/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/BuizelScarlattoeVioletto46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-047/198",
+            "name": "Floatzel",
+            "number": "047/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/FloatzelScarlattoeVioletto47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-048/198",
+            "name": "Alomomola",
+            "number": "048/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/AlomomolaScarlattoeVioletto48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-049/198",
+            "name": "Clauncher",
+            "number": "049/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ClauncherScarlattoeVioletto49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-050/198",
+            "name": "Clawitzer",
+            "number": "050/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/ClawitzerScarlattoeVioletto50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-051/198",
+            "name": "Bruxish",
+            "number": "051/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/BruxishScarlattoeVioletto51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-052/198",
+            "name": "Quaxly",
+            "number": "052/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/QuaxlyScarlattoeVioletto52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-053/198",
+            "name": "Quaxwell",
+            "number": "053/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/QuaxwellScarlattoeVioletto53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-054/198",
+            "name": "Quaquaval",
+            "number": "054/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/QuaquavalScarlattoeVioletto54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-055/198",
+            "name": "Wiglett",
+            "number": "055/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/WiglettScarlattoeVioletto55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-056/198",
+            "name": "Wiglett",
+            "number": "056/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/WiglettScarlattoeVioletto56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-057/198",
+            "name": "Wugtrio",
+            "number": "057/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/WugtrioScarlattoeVioletto57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-058/198",
+            "name": "Cetoddle",
+            "number": "058/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/CetoddleScarlattoeVioletto58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-059/198",
+            "name": "Cetoddle",
+            "number": "059/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/CetoddleScarlattoeVioletto59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-060/198",
+            "name": "Cetitan",
+            "number": "060/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/CetitanScarlattoeVioletto60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-061/198",
+            "name": "Dondozo",
+            "number": "061/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/DondozoScarlattoeVioletto61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-062/198",
+            "name": "Tatsugiri",
+            "number": "062/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/TatsugiriScarlattoeVioletto62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-063/198",
+            "name": "Magnemite",
+            "number": "063/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/MagnemiteScarlattoeVioletto63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-064/198",
+            "name": "Magneton",
+            "number": "064/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MagnetonScarlattoeVioletto64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-065/198",
+            "name": "Magnezone-ex",
+            "number": "065/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Magnezone-exScarlattoeVioletto65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-066/198",
+            "name": "Mareep",
+            "number": "066/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MareepScarlattoeVioletto66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-067/198",
+            "name": "Flaaffy",
+            "number": "067/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/FlaaffyScarlattoeVioletto67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-068/198",
+            "name": "Pachirisu",
+            "number": "068/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/PachirisuScarlattoeVioletto68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-069/198",
+            "name": "Rotom",
+            "number": "069/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RotomScarlattoeVioletto69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-070/198",
+            "name": "Rotom",
+            "number": "070/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/RotomScarlattoeVioletto70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-071/198",
+            "name": "Toxel",
+            "number": "071/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/ToxelScarlattoeVioletto71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-072/198",
+            "name": "Toxtricity",
+            "number": "072/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ToxtricityScarlattoeVioletto72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-073/198",
+            "name": "Pawmi",
+            "number": "073/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/PawmiScarlattoeVioletto73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-074/198",
+            "name": "Pawmi",
+            "number": "074/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/PawmiScarlattoeVioletto74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-075/198",
+            "name": "Pawmo",
+            "number": "075/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/PawmoScarlattoeVioletto75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-076/198",
+            "name": "Pawmot",
+            "number": "076/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/PawmotScarlattoeVioletto76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-077/198",
+            "name": "Wattrel",
+            "number": "077/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/WattrelScarlattoeVioletto77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-078/198",
+            "name": "Wattrel",
+            "number": "078/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/WattrelScarlattoeVioletto78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-079/198",
+            "name": "Kilowattrel",
+            "number": "079/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/KilowattrelScarlattoeVioletto79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-080/198",
+            "name": "Miraidon",
+            "number": "080/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/MiraidonScarlattoeVioletto80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-081/198",
+            "name": "Miraidon-ex",
+            "number": "081/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Miraidon-exScarlattoeVioletto81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-082/198",
+            "name": "Drowzee",
+            "number": "082/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/DrowzeeScarlattoeVioletto82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-083/198",
+            "name": "Hypno",
+            "number": "083/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/HypnoScarlattoeVioletto83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-084/198",
+            "name": "Ralts",
+            "number": "084/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/RaltsScarlattoeVioletto84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-085/198",
+            "name": "Kirlia",
+            "number": "085/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/KirliaScarlattoeVioletto85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-086/198",
+            "name": "Gardevoir-ex",
+            "number": "086/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Gardevoir-exScarlattoeVioletto86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-087/198",
+            "name": "Shuppet",
+            "number": "087/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ShuppetScarlattoeVioletto87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-088/198",
+            "name": "Banette-ex",
+            "number": "088/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Banette-exScarlattoeVioletto88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-089/198",
+            "name": "Drifloon",
+            "number": "089/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/DrifloonScarlattoeVioletto89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-090/198",
+            "name": "Drifblim",
+            "number": "090/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/DrifblimScarlattoeVioletto90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-091/198",
+            "name": "Flabébé",
+            "number": "091/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Flab%C3%A9b%C3%A9ScarlattoeVioletto91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-092/198",
+            "name": "Floette",
+            "number": "092/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/FloetteScarlattoeVioletto92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-093/198",
+            "name": "Florges",
+            "number": "093/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/FlorgesScarlattoeVioletto93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-094/198",
+            "name": "Dedenne",
+            "number": "094/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/DedenneScarlattoeVioletto94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-095/198",
+            "name": "Dedenne",
+            "number": "095/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/DedenneScarlattoeVioletto95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-096/198",
+            "name": "Klefki",
+            "number": "096/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/KlefkiScarlattoeVioletto96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-097/198",
+            "name": "Fidough",
+            "number": "097/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/FidoughScarlattoeVioletto97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-098/198",
+            "name": "Fidough",
+            "number": "098/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/FidoughScarlattoeVioletto98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-099/198",
+            "name": "Dachsbun",
+            "number": "099/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/DachsbunScarlattoeVioletto99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-100/198",
+            "name": "Flittle",
+            "number": "100/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/FlittleScarlattoeVioletto100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-101/198",
+            "name": "Flittle",
+            "number": "101/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/FlittleScarlattoeVioletto101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-102/198",
+            "name": "Flittle",
+            "number": "102/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/FlittleScarlattoeVioletto102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-103/198",
+            "name": "Espathra",
+            "number": "103/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/EspathraScarlattoeVioletto103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-104/198",
+            "name": "Greavard",
+            "number": "104/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/GreavardScarlattoeVioletto104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-105/198",
+            "name": "Greavard",
+            "number": "105/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/GreavardScarlattoeVioletto105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-106/198",
+            "name": "Houndstone",
+            "number": "106/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/HoundstoneScarlattoeVioletto106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-107/198",
+            "name": "Mankey",
+            "number": "107/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MankeyScarlattoeVioletto107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-108/198",
+            "name": "Primeape",
+            "number": "108/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PrimeapeScarlattoeVioletto108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-109/198",
+            "name": "Annihilape",
+            "number": "109/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/AnnihilapeScarlattoeVioletto109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-110/198",
+            "name": "Meditite",
+            "number": "110/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MedititeScarlattoeVioletto110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-111/198",
+            "name": "Medicham",
+            "number": "111/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/MedichamScarlattoeVioletto111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-112/198",
+            "name": "Riolu",
+            "number": "112/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/RioluScarlattoeVioletto112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-113/198",
+            "name": "Riolu",
+            "number": "113/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/RioluScarlattoeVioletto113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-114/198",
+            "name": "Lucario",
+            "number": "114/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/LucarioScarlattoeVioletto114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-115/198",
+            "name": "Sandile",
+            "number": "115/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SandileScarlattoeVioletto115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-116/198",
+            "name": "Krokorok",
+            "number": "116/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/KrokorokScarlattoeVioletto116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-117/198",
+            "name": "Krookodile",
+            "number": "117/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/KrookodileScarlattoeVioletto117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-118/198",
+            "name": "Hawlucha",
+            "number": "118/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/HawluchaScarlattoeVioletto118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-119/198",
+            "name": "Silicobra",
+            "number": "119/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/SilicobraScarlattoeVioletto119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-120/198",
+            "name": "Sandaconda",
+            "number": "120/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SandacondaScarlattoeVioletto120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-121/198",
+            "name": "Stonjourner",
+            "number": "121/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/StonjournerScarlattoeVioletto121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-122/198",
+            "name": "Klawf",
+            "number": "122/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/KlawfScarlattoeVioletto122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-123/198",
+            "name": "Grandizanne-ex",
+            "number": "123/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Grandizanne-exScarlattoeVioletto123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-124/198",
+            "name": "Koraidon",
+            "number": "124/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/KoraidonScarlattoeVioletto124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-125/198",
+            "name": "Koraidon-ex",
+            "number": "125/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Koraidon-exScarlattoeVioletto125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-126/198",
+            "name": "Grimer",
+            "number": "126/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/GrimerScarlattoeVioletto126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-127/198",
+            "name": "Muk",
+            "number": "127/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MukScarlattoeVioletto127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-128/198",
+            "name": "Seviper",
+            "number": "128/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/SeviperScarlattoeVioletto128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-129/198",
+            "name": "Spiritomb",
+            "number": "129/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/SpiritombScarlattoeVioletto129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-130/198",
+            "name": "Croagunk",
+            "number": "130/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/CroagunkScarlattoeVioletto130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-131/198",
+            "name": "Toxicroak-ex",
+            "number": "131/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Toxicroak-exScarlattoeVioletto131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-132/198",
+            "name": "Pawniard",
+            "number": "132/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/PawniardScarlattoeVioletto132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-133/198",
+            "name": "Bisharp",
+            "number": "133/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/BisharpScarlattoeVioletto133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-134/198",
+            "name": "Kingambit",
+            "number": "134/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/KingambitScarlattoeVioletto134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-135/198",
+            "name": "Maschiff",
+            "number": "135/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MaschiffScarlattoeVioletto135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-136/198",
+            "name": "Maschiff",
+            "number": "136/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MaschiffScarlattoeVioletto136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-137/198",
+            "name": "Mabosstiff",
+            "number": "137/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MabosstiffScarlattoeVioletto137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-138/198",
+            "name": "Bombirdier",
+            "number": "138/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/BombirdierScarlattoeVioletto138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-139/198",
+            "name": "Forretress",
+            "number": "139/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ForretressScarlattoeVioletto139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-140/198",
+            "name": "Varoom",
+            "number": "140/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/VaroomScarlattoeVioletto140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-141/198",
+            "name": "Varoom",
+            "number": "141/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/VaroomScarlattoeVioletto141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-142/198",
+            "name": "Revavroom",
+            "number": "142/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/RevavroomScarlattoeVioletto142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-143/198",
+            "name": "Solcoferreo-ex",
+            "number": "143/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Solcoferreo-exScarlattoeVioletto143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-144/198",
+            "name": "Chansey",
+            "number": "144/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ChanseyScarlattoeVioletto144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-145/198",
+            "name": "Blissey",
+            "number": "145/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/BlisseyScarlattoeVioletto145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-146/198",
+            "name": "Zangoose",
+            "number": "146/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ZangooseScarlattoeVioletto146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-147/198",
+            "name": "Zangoose",
+            "number": "147/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ZangooseScarlattoeVioletto147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-148/198",
+            "name": "Starly",
+            "number": "148/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/StarlyScarlattoeVioletto148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-149/198",
+            "name": "Staravia",
+            "number": "149/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/StaraviaScarlattoeVioletto149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-150/198",
+            "name": "Staraptor",
+            "number": "150/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/StaraptorScarlattoeVioletto150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-151/198",
+            "name": "Skwovet",
+            "number": "151/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/SkwovetScarlattoeVioletto151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-152/198",
+            "name": "Greedent",
+            "number": "152/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/GreedentScarlattoeVioletto152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-153/198",
+            "name": "Indeedee",
+            "number": "153/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/IndeedeeScarlattoeVioletto153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-154/198",
+            "name": "Lechonk",
+            "number": "154/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/LechonkScarlattoeVioletto154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-155/198",
+            "name": "Lechonk",
+            "number": "155/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/LechonkScarlattoeVioletto155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-156/198",
+            "name": "Lechonk",
+            "number": "156/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/LechonkScarlattoeVioletto156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-157/198",
+            "name": "Oinkologne",
+            "number": "157/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/OinkologneScarlattoeVioletto157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-158/198",
+            "name": "Oinkologne-ex",
+            "number": "158/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Oinkologne-exScarlattoeVioletto158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-159/198",
+            "name": "Tandemaus",
+            "number": "159/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/TandemausScarlattoeVioletto159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-160/198",
+            "name": "Tandemaus",
+            "number": "160/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/TandemausScarlattoeVioletto160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-161/198",
+            "name": "Maushold",
+            "number": "161/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MausholdScarlattoeVioletto161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-162/198",
+            "name": "Squawkabilly",
+            "number": "162/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/SquawkabillyScarlattoeVioletto162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-163/198",
+            "name": "Cyclizar",
+            "number": "163/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/CyclizarScarlattoeVioletto163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-164/198",
+            "name": "Cyclizar",
+            "number": "164/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/CyclizarScarlattoeVioletto164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-165/198",
+            "name": "Flamigo",
+            "number": "165/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/FlamigoScarlattoeVioletto165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-166/198",
+            "name": "Pepe",
+            "number": "166/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/PepeScarlattoeVioletto166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-167/198",
+            "name": "Campo in Spiaggia",
+            "number": "167/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CampoinSpiaggiaScarlattoeVioletto167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-168/198",
+            "name": "Martello Dirompente",
+            "number": "168/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MartelloDirompenteScarlattoeVioletto168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-169/198",
+            "name": "Bendasfida",
+            "number": "169/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BendasfidaScarlattoeVioletto169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-170/198",
+            "name": "Generatore di Elettricità",
+            "number": "170/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/GeneratorediElettricit%C3%A0ScarlattoeVioletto170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-171/198",
+            "name": "Recupero di Energia",
+            "number": "171/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/RecuperodiEnergiaScarlattoeVioletto171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-172/198",
+            "name": "Ricerca di Energia",
+            "number": "172/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/RicercadiEnergiaScarlattoeVioletto172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-173/198",
+            "name": "Scambio di Energia",
+            "number": "173/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ScambiodiEnergiaScarlattoeVioletto173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-174/198",
+            "name": "Condividi Esperienza",
+            "number": "174/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/CondividiEsperienzaScarlattoeVioletto174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-175/198",
+            "name": "Zim",
+            "number": "175/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/ZimScarlattoeVioletto175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-176/198",
+            "name": "Arbitro",
+            "number": "176/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ArbitroScarlattoeVioletto176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-177/198",
+            "name": "Aceria",
+            "number": "177/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/AceriaScarlattoeVioletto177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-178/198",
+            "name": "Mesapoli",
+            "number": "178/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MesapoliScarlattoeVioletto178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-179/198",
+            "name": "Mimosa",
+            "number": "179/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MimosaScarlattoeVioletto179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-180/198",
+            "name": "Nemi",
+            "number": "180/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/NemiScarlattoeVioletto180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-181/198",
+            "name": "Minor Ball",
+            "number": "181/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MinorBallScarlattoeVioletto181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-182/198",
+            "name": "Blocco amici",
+            "number": "182/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/BloccoamiciScarlattoeVioletto182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-183/198",
+            "name": "Penny",
+            "number": "183/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/PennyScarlattoeVioletto183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-184/198",
+            "name": "Cestino da Picnic",
+            "number": "184/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/CestinodaPicnicScarlattoeVioletto184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-185/198",
+            "name": "Poké Ball",
+            "number": "185/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Pok%C3%A9BallScarlattoeVioletto185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-186/198",
+            "name": "Pokégear 3.0",
+            "number": "186/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Pok%C3%A9gear30ScarlattoeVioletto186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-187/198",
+            "name": "Acchiappa-Pokémon",
+            "number": "187/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Acchiappa-Pok%C3%A9monScarlattoeVioletto187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-188/198",
+            "name": "Pozione",
+            "number": "188/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/PozioneScarlattoeVioletto188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-189/198",
+            "name": "Ricerca Accademica [Prof.ssa Olim]",
+            "number": "189/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/RicercaAccademicaScarlattoeVioletto189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-190/198",
+            "name": "Ricerca Accademica [Professor Turum]",
+            "number": "190/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/RicercaAccademicaScarlattoeVioletto190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-191/198",
+            "name": "Caramella Rara",
+            "number": "191/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/CaramellaRaraScarlattoeVioletto191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-192/198",
+            "name": "Pettorale di Roccia",
+            "number": "192/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/PettoralediRocciaScarlattoeVioletto192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-193/198",
+            "name": "Bitorzolelmo",
+            "number": "193/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/BitorzolelmoScarlattoeVioletto193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-194/198",
+            "name": "Scambio",
+            "number": "194/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ScambioScarlattoeVioletto194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-195/198",
+            "name": "Recluta del Team Star",
+            "number": "195/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ReclutadelTeamStarScarlattoeVioletto195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-196/198",
+            "name": "Ultra Ball",
+            "number": "196/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/UltraBallScarlattoeVioletto196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-197/198",
+            "name": "Bendavitale",
+            "number": "197/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BendavitaleScarlattoeVioletto197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-198/198",
+            "name": "Marmocchio",
+            "number": "198/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/MarmocchioScarlattoeVioletto198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SVI-199/198",
+            "name": "Tarountula",
+            "number": "199/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/TarountulaScarlattoeVioletto199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-200/198",
+            "name": "Dolliv",
+            "number": "200/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/DollivScarlattoeVioletto200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-201/198",
+            "name": "Toedscool",
+            "number": "201/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ToedscoolScarlattoeVioletto201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-202/198",
+            "name": "Scovillain",
+            "number": "202/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ScovillainScarlattoeVioletto202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-203/198",
+            "name": "Armarouge",
+            "number": "203/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ArmarougeScarlattoeVioletto203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-204/198",
+            "name": "Slowpoke",
+            "number": "204/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SlowpokeScarlattoeVioletto204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-205/198",
+            "name": "Clauncher",
+            "number": "205/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/ClauncherScarlattoeVioletto205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-206/198",
+            "name": "Wiglett",
+            "number": "206/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/WiglettScarlattoeVioletto206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-207/198",
+            "name": "Dondozo",
+            "number": "207/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/DondozoScarlattoeVioletto207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-208/198",
+            "name": "Pachirisu",
+            "number": "208/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/PachirisuScarlattoeVioletto208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-209/198",
+            "name": "Pawmot",
+            "number": "209/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/PawmotScarlattoeVioletto209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-210/198",
+            "name": "Drowzee",
+            "number": "210/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/DrowzeeScarlattoeVioletto210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-211/198",
+            "name": "Ralts",
+            "number": "211/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/RaltsScarlattoeVioletto211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-212/198",
+            "name": "Kirlia",
+            "number": "212/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/KirliaScarlattoeVioletto212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-213/198",
+            "name": "Fidough",
+            "number": "213/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/FidoughScarlattoeVioletto213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-214/198",
+            "name": "Greavard",
+            "number": "214/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/GreavardScarlattoeVioletto214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-215/198",
+            "name": "Riolu",
+            "number": "215/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/RioluScarlattoeVioletto215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-216/198",
+            "name": "Sandile",
+            "number": "216/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SandileScarlattoeVioletto216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-217/198",
+            "name": "Klawf",
+            "number": "217/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KlawfScarlattoeVioletto217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-218/198",
+            "name": "Mabosstiff",
+            "number": "218/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/MabosstiffScarlattoeVioletto218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-219/198",
+            "name": "Bombirdier",
+            "number": "219/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/BombirdierScarlattoeVioletto219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-220/198",
+            "name": "Kingambit",
+            "number": "220/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/KingambitScarlattoeVioletto220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-221/198",
+            "name": "Starly",
+            "number": "221/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/StarlyScarlattoeVioletto221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-222/198",
+            "name": "Skwovet",
+            "number": "222/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SkwovetScarlattoeVioletto222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-223/198",
+            "name": "Spidops-ex",
+            "number": "223/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Spidops-exScarlattoeVioletto223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-224/198",
+            "name": "Arcanine-ex",
+            "number": "224/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Arcanine-exScarlattoeVioletto224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-225/198",
+            "name": "Gyarados-ex",
+            "number": "225/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/Gyarados-exScarlattoeVioletto225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-226/198",
+            "name": "Magnezone-ex",
+            "number": "226/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Magnezone-exScarlattoeVioletto226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-227/198",
+            "name": "Miraidon-ex",
+            "number": "227/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Miraidon-exScarlattoeVioletto227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-228/198",
+            "name": "Gardevoir-ex",
+            "number": "228/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Gardevoir-exScarlattoeVioletto228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-229/198",
+            "name": "Banette-ex",
+            "number": "229/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Banette-exScarlattoeVioletto229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-230/198",
+            "name": "Grandizanne-ex",
+            "number": "230/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/Grandizanne-exScarlattoeVioletto230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-231/198",
+            "name": "Koraidon-ex",
+            "number": "231/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Koraidon-exScarlattoeVioletto231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-232/198",
+            "name": "Toxicroak-ex",
+            "number": "232/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Toxicroak-exScarlattoeVioletto232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-233/198",
+            "name": "Solcoferreo-ex",
+            "number": "233/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Solcoferreo-exScarlattoeVioletto233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-234/198",
+            "name": "Oinkologne-ex",
+            "number": "234/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Oinkologne-exScarlattoeVioletto234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-235/198",
+            "name": "Pepe",
+            "number": "235/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/PepeScarlattoeVioletto235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-236/198",
+            "name": "Zim",
+            "number": "236/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ZimScarlattoeVioletto236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-237/198",
+            "name": "Aceria",
+            "number": "237/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/AceriaScarlattoeVioletto237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-238/198",
+            "name": "Mimosa",
+            "number": "238/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MimosaScarlattoeVioletto238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-239/198",
+            "name": "Penny",
+            "number": "239/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/PennyScarlattoeVioletto239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-240/198",
+            "name": "Ricerca Accademica [Prof.ssa Olim]",
+            "number": "240/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/RicercaAccademicaScarlattoeVioletto240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-241/198",
+            "name": "Ricerca Accademica [Professor Turum]",
+            "number": "241/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/RicercaAccademicaScarlattoeVioletto241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-242/198",
+            "name": "Recluta del Team Star",
+            "number": "242/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ReclutadelTeamStarScarlattoeVioletto242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-243/198",
+            "name": "Spidops-ex",
+            "number": "243/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Spidops-exScarlattoeVioletto243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-244/198",
+            "name": "Miraidon-ex",
+            "number": "244/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Miraidon-exScarlattoeVioletto244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-245/198",
+            "name": "Gardevoir-ex",
+            "number": "245/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Gardevoir-exScarlattoeVioletto245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-246/198",
+            "name": "Grandizanne-ex",
+            "number": "246/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Grandizanne-exScarlattoeVioletto246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-247/198",
+            "name": "Koraidon-ex",
+            "number": "247/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Koraidon-exScarlattoeVioletto247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-248/198",
+            "name": "Solcoferreo-ex",
+            "number": "248/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Solcoferreo-exScarlattoeVioletto248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-249/198",
+            "name": "Pepe",
+            "number": "249/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/PepeScarlattoeVioletto249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-250/198",
+            "name": "Zim",
+            "number": "250/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/ZimScarlattoeVioletto250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-251/198",
+            "name": "Mimosa",
+            "number": "251/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MimosaScarlattoeVioletto251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-252/198",
+            "name": "Penny",
+            "number": "252/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/PennyScarlattoeVioletto252.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-253/198",
+            "name": "Miraidon-ex",
+            "number": "253/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Miraidon-exScarlattoeVioletto253.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-254/198",
+            "name": "Koraidon-ex",
+            "number": "254/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Koraidon-exScarlattoeVioletto254.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-255/198",
+            "name": "Minor Ball",
+            "number": "255/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/MinorBallScarlattoeVioletto255.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-256/198",
+            "name": "Caramella Rara",
+            "number": "256/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/CaramellaRaraScarlattoeVioletto256.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-257/198",
+            "name": "Energia base Lampo",
+            "number": "257/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/EnergiabaseLampoScarlattoeVioletto257.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SVI-258/198",
+            "name": "Energia base Lotta",
+            "number": "258/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/EnergiabaseLottaScarlattoeVioletto258.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

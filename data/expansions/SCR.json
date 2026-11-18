@@ -1,0 +1,1248 @@
+{
+    "expansion": {
+        "id": "SCR",
+        "name": "Scarlatto e Violetto - Corona Astrale",
+        "year": 2024,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/7d/SimboloSetCorona_Astrale.png",
+        "cardCount": 175
+    },
+    "cards": [
+        {
+            "id": "SCR-001/142",
+            "name": "Venusaur-ex",
+            "number": "001/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/Venusaur-exCoronaAstrale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-002/142",
+            "name": "Ledyba",
+            "number": "002/142",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/LedybaCoronaAstrale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-003/142",
+            "name": "Ledian",
+            "number": "003/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/LedianCoronaAstrale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-004/142",
+            "name": "Celebi",
+            "number": "004/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/CelebiCoronaAstrale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-005/142",
+            "name": "Lileep",
+            "number": "005/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/LileepCoronaAstrale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-006/142",
+            "name": "Cradily",
+            "number": "006/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/CradilyCoronaAstrale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-007/142",
+            "name": "Carnivine",
+            "number": "007/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/CarnivineCoronaAstrale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-008/142",
+            "name": "Rotom Taglio",
+            "number": "008/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/RotomTaglioCoronaAstrale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-009/142",
+            "name": "Grubbin",
+            "number": "009/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/GrubbinCoronaAstrale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-010/142",
+            "name": "Gossifleur",
+            "number": "010/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/GossifleurCoronaAstrale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-011/142",
+            "name": "Eldegoss",
+            "number": "011/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/EldegossCoronaAstrale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-012/142",
+            "name": "Applin",
+            "number": "012/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ApplinCoronaAstrale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-013/142",
+            "name": "Dipplin",
+            "number": "013/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/DipplinCoronaAstrale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-014/142",
+            "name": "Hydrapple-ex",
+            "number": "014/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Hydrapple-exCoronaAstrale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-015/142",
+            "name": "Nymble",
+            "number": "015/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/NymbleCoronaAstrale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-016/142",
+            "name": "Lokix",
+            "number": "016/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/LokixCoronaAstrale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-017/142",
+            "name": "Toedscool",
+            "number": "017/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ToedscoolCoronaAstrale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-018/142",
+            "name": "Toedscruel",
+            "number": "018/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ToedscruelCoronaAstrale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-019/142",
+            "name": "Ponyta",
+            "number": "019/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/PonytaCoronaAstrale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-020/142",
+            "name": "Rapidash",
+            "number": "020/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RapidashCoronaAstrale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-021/142",
+            "name": "Pansear",
+            "number": "021/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/PansearCoronaAstrale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-022/142",
+            "name": "Reshiram",
+            "number": "022/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ReshiramCoronaAstrale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-023/142",
+            "name": "Salandit",
+            "number": "023/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/SalanditCoronaAstrale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-024/142",
+            "name": "Salazzle",
+            "number": "024/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SalazzleCoronaAstrale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-025/142",
+            "name": "Turtonator",
+            "number": "025/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/TurtonatorCoronaAstrale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-026/142",
+            "name": "Scorbunny",
+            "number": "026/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/ScorbunnyCoronaAstrale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-027/142",
+            "name": "Raboot",
+            "number": "027/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/RabootCoronaAstrale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-028/142",
+            "name": "Cinderace-ex",
+            "number": "028/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Cinderace-exCoronaAstrale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-029/142",
+            "name": "Charcadet",
+            "number": "029/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/CharcadetCoronaAstrale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-030/142",
+            "name": "Blastoise-ex",
+            "number": "030/142",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Blastoise-exCoronaAstrale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-031/142",
+            "name": "Lapras",
+            "number": "031/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/LaprasCoronaAstrale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-032/142",
+            "name": "Lapras-ex",
+            "number": "032/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Lapras-exCoronaAstrale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-033/142",
+            "name": "Marill",
+            "number": "033/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/MarillCoronaAstrale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-034/142",
+            "name": "Azumarill",
+            "number": "034/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/AzumarillCoronaAstrale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-035/142",
+            "name": "Finneon",
+            "number": "035/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/FinneonCoronaAstrale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-036/142",
+            "name": "Lumineon",
+            "number": "036/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/LumineonCoronaAstrale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-037/142",
+            "name": "Tirtouga",
+            "number": "037/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/TirtougaCoronaAstrale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-038/142",
+            "name": "Carracosta",
+            "number": "038/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/CarracostaCoronaAstrale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-039/142",
+            "name": "Froakie",
+            "number": "039/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/FroakieCoronaAstrale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-040/142",
+            "name": "Frogadier",
+            "number": "040/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/FrogadierCoronaAstrale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-041/142",
+            "name": "Greninja-ex",
+            "number": "041/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Greninja-exCoronaAstrale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-042/142",
+            "name": "Crabominable",
+            "number": "042/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/CrabominableCoronaAstrale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-043/142",
+            "name": "Chewtle",
+            "number": "043/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/ChewtleCoronaAstrale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-044/142",
+            "name": "Drednaw",
+            "number": "044/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/DrednawCoronaAstrale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-045/142",
+            "name": "Veluza",
+            "number": "045/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/VeluzaCoronaAstrale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-046/142",
+            "name": "Electabuzz",
+            "number": "046/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ElectabuzzCoronaAstrale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-047/142",
+            "name": "Electivire",
+            "number": "047/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/ElectivireCoronaAstrale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-048/142",
+            "name": "Chinchou",
+            "number": "048/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ChinchouCoronaAstrale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-049/142",
+            "name": "Lanturn",
+            "number": "049/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/LanturnCoronaAstrale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-050/142",
+            "name": "Joltik",
+            "number": "050/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/JoltikCoronaAstrale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-051/142",
+            "name": "Galvantula-ex",
+            "number": "051/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Galvantula-exCoronaAstrale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-052/142",
+            "name": "Charjabug",
+            "number": "052/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/CharjabugCoronaAstrale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-053/142",
+            "name": "Vikavolt",
+            "number": "053/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/VikavoltCoronaAstrale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-054/142",
+            "name": "Togedemaru",
+            "number": "054/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/TogedemaruCoronaAstrale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-055/142",
+            "name": "Zeraora",
+            "number": "055/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ZeraoraCoronaAstrale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-056/142",
+            "name": "Pawmi",
+            "number": "056/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/PawmiCoronaAstrale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-057/142",
+            "name": "Slowpoke",
+            "number": "057/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SlowpokeCoronaAstrale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-058/142",
+            "name": "Slowking",
+            "number": "058/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/SlowkingCoronaAstrale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-059/142",
+            "name": "Mewtwo",
+            "number": "059/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/MewtwoCoronaAstrale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-060/142",
+            "name": "Drifloon",
+            "number": "060/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/DrifloonCoronaAstrale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-061/142",
+            "name": "Drifblim",
+            "number": "061/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/DrifblimCoronaAstrale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-062/142",
+            "name": "Yamask",
+            "number": "062/142",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/YamaskCoronaAstrale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-063/142",
+            "name": "Comfey",
+            "number": "063/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ComfeyCoronaAstrale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-064/142",
+            "name": "Milcery",
+            "number": "064/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MilceryCoronaAstrale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-065/142",
+            "name": "Alcremie",
+            "number": "065/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/AlcremieCoronaAstrale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-066/142",
+            "name": "Fidough",
+            "number": "066/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/FidoughCoronaAstrale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-067/142",
+            "name": "Dachsbun-ex",
+            "number": "067/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/Dachsbun-exCoronaAstrale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-068/142",
+            "name": "Flittle",
+            "number": "068/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/FlittleCoronaAstrale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-069/142",
+            "name": "Espathra",
+            "number": "069/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/EspathraCoronaAstrale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-070/142",
+            "name": "Greavard",
+            "number": "070/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/GreavardCoronaAstrale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-071/142",
+            "name": "Massoferreo",
+            "number": "071/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MassoferreoCoronaAstrale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-072/142",
+            "name": "Cubone",
+            "number": "072/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CuboneCoronaAstrale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-073/142",
+            "name": "Marowak",
+            "number": "073/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MarowakCoronaAstrale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-074/142",
+            "name": "Rhyhorn",
+            "number": "074/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/RhyhornCoronaAstrale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-075/142",
+            "name": "Rhydon",
+            "number": "075/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/RhydonCoronaAstrale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-076/142",
+            "name": "Rhyperior",
+            "number": "076/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RhyperiorCoronaAstrale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-077/142",
+            "name": "Meditite",
+            "number": "077/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/MedititeCoronaAstrale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-078/142",
+            "name": "Meditite",
+            "number": "078/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MedititeCoronaAstrale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-079/142",
+            "name": "Medicham",
+            "number": "079/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MedichamCoronaAstrale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-080/142",
+            "name": "Medicham-ex",
+            "number": "080/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/Medicham-exCoronaAstrale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-081/142",
+            "name": "Riolu",
+            "number": "081/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/RioluCoronaAstrale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-082/142",
+            "name": "Lucario-ex",
+            "number": "082/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Lucario-exCoronaAstrale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-083/142",
+            "name": "Mienfoo",
+            "number": "083/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MienfooCoronaAstrale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-084/142",
+            "name": "Mienshao",
+            "number": "084/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MienshaoCoronaAstrale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-085/142",
+            "name": "Pancham",
+            "number": "085/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PanchamCoronaAstrale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-086/142",
+            "name": "Diancie",
+            "number": "086/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/DiancieCoronaAstrale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-087/142",
+            "name": "Crabrawler",
+            "number": "087/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/CrabrawlerCoronaAstrale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-088/142",
+            "name": "Falinks",
+            "number": "088/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/FalinksCoronaAstrale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-089/142",
+            "name": "Garganacl-ex",
+            "number": "089/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Garganacl-exCoronaAstrale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-090/142",
+            "name": "Koraidon",
+            "number": "090/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/KoraidonCoronaAstrale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-091/142",
+            "name": "Gulpin",
+            "number": "091/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/GulpinCoronaAstrale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-092/142",
+            "name": "Swalot",
+            "number": "092/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/SwalotCoronaAstrale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-093/142",
+            "name": "Pangoro",
+            "number": "093/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/PangoroCoronaAstrale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-094/142",
+            "name": "Impidimp",
+            "number": "094/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/ImpidimpCoronaAstrale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-095/142",
+            "name": "Morgrem",
+            "number": "095/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/MorgremCoronaAstrale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-096/142",
+            "name": "Grimmsnarl",
+            "number": "096/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/GrimmsnarlCoronaAstrale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-097/142",
+            "name": "Bombirdier",
+            "number": "097/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BombirdierCoronaAstrale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-098/142",
+            "name": "Jirachi",
+            "number": "098/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/JirachiCoronaAstrale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-099/142",
+            "name": "Klink",
+            "number": "099/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/KlinkCoronaAstrale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-100/142",
+            "name": "Klang",
+            "number": "100/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/KlangCoronaAstrale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-101/142",
+            "name": "Klinklang",
+            "number": "101/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/KlinklangCoronaAstrale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-102/142",
+            "name": "Meltan",
+            "number": "102/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MeltanCoronaAstrale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-103/142",
+            "name": "Meltan",
+            "number": "103/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MeltanCoronaAstrale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-104/142",
+            "name": "Melmetal",
+            "number": "104/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MelmetalCoronaAstrale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-105/142",
+            "name": "Melmetal-ex",
+            "number": "105/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Melmetal-exCoronaAstrale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-106/142",
+            "name": "Duraludon",
+            "number": "106/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/DuraludonCoronaAstrale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-107/142",
+            "name": "Archaludon",
+            "number": "107/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ArchaludonCoronaAstrale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-108/142",
+            "name": "Varoom",
+            "number": "108/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/VaroomCoronaAstrale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-109/142",
+            "name": "Revavroom",
+            "number": "109/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/RevavroomCoronaAstrale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-110/142",
+            "name": "Orthworm-ex",
+            "number": "110/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Orthworm-exCoronaAstrale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-111/142",
+            "name": "Furiatonante",
+            "number": "111/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/FuriatonanteCoronaAstrale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-112/142",
+            "name": "Tauros",
+            "number": "112/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/TaurosCoronaAstrale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-113/142",
+            "name": "Eevee",
+            "number": "113/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/EeveeCoronaAstrale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-114/142",
+            "name": "Hoothoot",
+            "number": "114/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/HoothootCoronaAstrale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-115/142",
+            "name": "Noctowl",
+            "number": "115/142",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/NoctowlCoronaAstrale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-116/142",
+            "name": "Glameow",
+            "number": "116/142",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/GlameowCoronaAstrale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-117/142",
+            "name": "Purugly",
+            "number": "117/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/PuruglyCoronaAstrale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-118/142",
+            "name": "Rotom Vortice",
+            "number": "118/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/RotomVorticeCoronaAstrale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-119/142",
+            "name": "Bouffalant",
+            "number": "119/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/BouffalantCoronaAstrale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-120/142",
+            "name": "Tornadus",
+            "number": "120/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/TornadusCoronaAstrale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-121/142",
+            "name": "Fletchling",
+            "number": "121/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/FletchlingCoronaAstrale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-122/142",
+            "name": "Fletchinder",
+            "number": "122/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/FletchinderCoronaAstrale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-123/142",
+            "name": "Talonflame",
+            "number": "123/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TalonflameCoronaAstrale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-124/142",
+            "name": "Wooloo",
+            "number": "124/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/WoolooCoronaAstrale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-125/142",
+            "name": "Dubwool",
+            "number": "125/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DubwoolCoronaAstrale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-126/142",
+            "name": "Lechonk",
+            "number": "126/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/LechonkCoronaAstrale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-127/142",
+            "name": "Cyclizar",
+            "number": "127/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/CyclizarCoronaAstrale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-128/142",
+            "name": "Terapagos-ex",
+            "number": "128/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Terapagos-exCoronaAstrale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-129/142",
+            "name": "Vecchio Fossiltappo",
+            "number": "129/142",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/VecchioFossiltappoCoronaAstrale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-130/142",
+            "name": "Vecchio Radifossile",
+            "number": "130/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/VecchioRadifossileCoronaAstrale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-131/142",
+            "name": "Grande Abisso Zero",
+            "number": "131/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/GrandeAbissoZeroCoronaAstrale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-132/142",
+            "name": "Rea",
+            "number": "132/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/ReaCoronaAstrale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-133/142",
+            "name": "Piros",
+            "number": "133/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/PirosCoronaAstrale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-134/142",
+            "name": "Bomba Deluxe",
+            "number": "134/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/BombaDeluxeCoronaAstrale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-135/142",
+            "name": "Tromba di Vetro",
+            "number": "135/142",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/TrombadiVetroCoronaAstrale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-136/142",
+            "name": "Albero Maestoso",
+            "number": "136/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/AlberoMaestosoCoronaAstrale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-137/142",
+            "name": "Gemma Gravitazionale",
+            "number": "137/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/GemmaGravitazionaleCoronaAstrale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-138/142",
+            "name": "Algaro",
+            "number": "138/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/AlgaroCoronaAstrale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-139/142",
+            "name": "Rupi",
+            "number": "139/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/RupiCoronaAstrale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-140/142",
+            "name": "Baccacao",
+            "number": "140/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/BaccacaoCoronaAstrale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-141/142",
+            "name": "Baccapayapa",
+            "number": "141/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/BaccapayapaCoronaAstrale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-142/142",
+            "name": "Cristallo Scintillante",
+            "number": "142/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/CristalloScintillanteCoronaAstrale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SCR-143/142",
+            "name": "Bulbasaur",
+            "number": "143/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/BulbasaurCoronaAstrale143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-144/142",
+            "name": "Ledian",
+            "number": "144/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/LedianCoronaAstrale144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-145/142",
+            "name": "Lileep",
+            "number": "145/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/LileepCoronaAstrale145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-146/142",
+            "name": "Turtonator",
+            "number": "146/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/TurtonatorCoronaAstrale146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-147/142",
+            "name": "Raboot",
+            "number": "147/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RabootCoronaAstrale147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-148/142",
+            "name": "Squirtle",
+            "number": "148/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SquirtleCoronaAstrale148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-149/142",
+            "name": "Crabominable",
+            "number": "149/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/CrabominableCoronaAstrale149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-150/142",
+            "name": "Joltik",
+            "number": "150/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/JoltikCoronaAstrale150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-151/142",
+            "name": "Zeraora",
+            "number": "151/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ZeraoraCoronaAstrale151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-152/142",
+            "name": "Milcery",
+            "number": "152/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/MilceryCoronaAstrale152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-153/142",
+            "name": "Meditite",
+            "number": "153/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MedititeCoronaAstrale153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-154/142",
+            "name": "Gulpin",
+            "number": "154/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/GulpinCoronaAstrale154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-155/142",
+            "name": "Archaludon",
+            "number": "155/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ArchaludonCoronaAstrale155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-156/142",
+            "name": "Hydrapple-ex",
+            "number": "156/142",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Hydrapple-exCoronaAstrale156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-157/142",
+            "name": "Cinderace-ex",
+            "number": "157/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/Cinderace-exCoronaAstrale157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-158/142",
+            "name": "Lapras-ex",
+            "number": "158/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Lapras-exCoronaAstrale158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-159/142",
+            "name": "Galvantula-ex",
+            "number": "159/142",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Galvantula-exCoronaAstrale159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-160/142",
+            "name": "Dachsbun-ex",
+            "number": "160/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Dachsbun-exCoronaAstrale160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-161/142",
+            "name": "Medicham-ex",
+            "number": "161/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Medicham-exCoronaAstrale161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-162/142",
+            "name": "Orthworm-ex",
+            "number": "162/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Orthworm-exCoronaAstrale162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-163/142",
+            "name": "Rea",
+            "number": "163/142",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ReaCoronaAstrale163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-164/142",
+            "name": "Piros",
+            "number": "164/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/PirosCoronaAstrale164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-165/142",
+            "name": "Algaro",
+            "number": "165/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/AlgaroCoronaAstrale165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-166/142",
+            "name": "Rupi",
+            "number": "166/142",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/RupiCoronaAstrale166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-167/142",
+            "name": "Hydrapple-ex",
+            "number": "167/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Hydrapple-exCoronaAstrale167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-168/142",
+            "name": "Galvantula-ex",
+            "number": "168/142",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Galvantula-exCoronaAstrale168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-169/142",
+            "name": "Dachsbun-ex",
+            "number": "169/142",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Dachsbun-exCoronaAstrale169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-170/142",
+            "name": "Terapagos-ex",
+            "number": "170/142",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Terapagos-exCoronaAstrale170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-171/142",
+            "name": "Rea",
+            "number": "171/142",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ReaCoronaAstrale171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-172/142",
+            "name": "Rupi",
+            "number": "172/142",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/RupiCoronaAstrale172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-173/142",
+            "name": "Terapagos-ex",
+            "number": "173/142",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Terapagos-exCoronaAstrale173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-174/142",
+            "name": "Grande Abisso Zero",
+            "number": "174/142",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GrandeAbissoZeroCoronaAstrale174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SCR-175/142",
+            "name": "Amuleto del Coraggio",
+            "number": "175/142",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/AmuletodelCoraggioCoronaAstrale175.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-009",
+				"SVE-010",
+				"SVE-011",
+				"SVE-012",
+				"SVE-013",
+				"SVE-014",
+				"SVE-015",
+				"SVE-016"
+		]
+}

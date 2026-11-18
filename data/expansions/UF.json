@@ -1,0 +1,1028 @@
+{
+    "expansion": {
+        "id": "UF",
+        "name": "EX Forze Segrete",
+				"year": 2005,
+				"month": 8,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/77/SimboloSetEX_Forze_Segrete.png",
+        "cardCount": 145
+    },
+    "cards": [
+        {
+            "id": "UF-1/115",
+            "name": "Ampharos",
+            "number": "1/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/AmpharosEXForzeSegrete1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-2/115",
+            "name": "Ariados",
+            "number": "2/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/AriadosEXForzeSegrete2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-3/115",
+            "name": "Bellossom",
+            "number": "3/115",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/BellossomEXForzeSegrete3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-4/115",
+            "name": "Feraligatr",
+            "number": "4/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/FeraligatrEXForzeSegrete4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-5/115",
+            "name": "Flareon",
+            "number": "5/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/FlareonEXForzeSegrete5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-6/115",
+            "name": "Forretress",
+            "number": "6/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/ForretressEXForzeSegrete6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-7/115",
+            "name": "Houndoom",
+            "number": "7/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/HoundoomEXForzeSegrete7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-8/115",
+            "name": "Jolteon",
+            "number": "8/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/JolteonEXForzeSegrete8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-9/115",
+            "name": "Meganium",
+            "number": "9/115",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MeganiumEXForzeSegrete9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-10/115",
+            "name": "Octillery",
+            "number": "10/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/OctilleryEXForzeSegrete10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-11/115",
+            "name": "Poliwrath",
+            "number": "11/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/PoliwrathEXForzeSegrete11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-12/115",
+            "name": "Porygon2",
+            "number": "12/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Porygon2EXForzeSegrete12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-13/115",
+            "name": "Slowbro",
+            "number": "13/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/SlowbroEXForzeSegrete13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-14/115",
+            "name": "Slowking",
+            "number": "14/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SlowkingEXForzeSegrete14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-15/115",
+            "name": "Sudowoodo",
+            "number": "15/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/SudowoodoEXForzeSegrete15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-16/115",
+            "name": "Sunflora",
+            "number": "16/115",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SunfloraEXForzeSegrete16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-17/115",
+            "name": "Typhlosion",
+            "number": "17/115",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/TyphlosionEXForzeSegrete17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-18/115",
+            "name": "Ursaring",
+            "number": "18/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/UrsaringEXForzeSegrete18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-19/115",
+            "name": "Vaporeon",
+            "number": "19/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/VaporeonEXForzeSegrete19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-20/115",
+            "name": "Chansey",
+            "number": "20/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ChanseyEXForzeSegrete20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-21/115",
+            "name": "Cleffa",
+            "number": "21/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/CleffaEXForzeSegrete21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-22/115",
+            "name": "Electabuzz",
+            "number": "22/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ElectabuzzEXForzeSegrete22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-23/115",
+            "name": "Elekid",
+            "number": "23/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/ElekidEXForzeSegrete23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-24/115",
+            "name": "Hitmonchan",
+            "number": "24/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/HitmonchanEXForzeSegrete24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-25/115",
+            "name": "Hitmonlee",
+            "number": "25/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/HitmonleeEXForzeSegrete25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-26/115",
+            "name": "Hitmontop",
+            "number": "26/115",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/HitmontopEXForzeSegrete26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-27/115",
+            "name": "Ho-Oh",
+            "number": "27/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/Ho-OhEXForzeSegrete27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-28/115",
+            "name": "Jynx",
+            "number": "28/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/JynxEXForzeSegrete28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-29/115",
+            "name": "Lugia",
+            "number": "29/115",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/LugiaEXForzeSegrete29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-30/115",
+            "name": "Murkrow",
+            "number": "30/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/MurkrowEXForzeSegrete30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-31/115",
+            "name": "Smoochum",
+            "number": "31/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/SmoochumEXForzeSegrete31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-32/115",
+            "name": "Stantler",
+            "number": "32/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/StantlerEXForzeSegrete32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-33/115",
+            "name": "Tyrogue",
+            "number": "33/115",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/TyrogueEXForzeSegrete33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-34/115",
+            "name": "Aipom",
+            "number": "34/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/AipomEXForzeSegrete34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-35/115",
+            "name": "Bayleef",
+            "number": "35/115",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/BayleefEXForzeSegrete35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-36/115",
+            "name": "Clefable",
+            "number": "36/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ClefableEXForzeSegrete36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-37/115",
+            "name": "Corsola",
+            "number": "37/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CorsolaEXForzeSegrete37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-38/115",
+            "name": "Croconaw",
+            "number": "38/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/CroconawEXForzeSegrete38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-39/115",
+            "name": "Granbull",
+            "number": "39/115",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/GranbullEXForzeSegrete39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-40/115",
+            "name": "Lanturn",
+            "number": "40/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/LanturnEXForzeSegrete40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-41/115",
+            "name": "Magcargo",
+            "number": "41/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/MagcargoEXForzeSegrete41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-42/115",
+            "name": "Miltank",
+            "number": "42/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MiltankEXForzeSegrete42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-43/115",
+            "name": "Noctowl",
+            "number": "43/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/NoctowlEXForzeSegrete43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-44/115",
+            "name": "Quagsire",
+            "number": "44/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/QuagsireEXForzeSegrete44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-45/115",
+            "name": "Quilava",
+            "number": "45/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/QuilavaEXForzeSegrete45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-46/115",
+            "name": "Scyther",
+            "number": "46/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ScytherEXForzeSegrete46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-47/115",
+            "name": "Shuckle",
+            "number": "47/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/ShuckleEXForzeSegrete47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-48/115",
+            "name": "Smeargle",
+            "number": "48/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SmeargleEXForzeSegrete48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-49/115",
+            "name": "Xatu",
+            "number": "49/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/XatuEXForzeSegrete49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-50/115",
+            "name": "Yanma",
+            "number": "50/115",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/YanmaEXForzeSegrete50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-51/115",
+            "name": "Chikorita",
+            "number": "51/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ChikoritaEXForzeSegrete51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-52/115",
+            "name": "Chinchou",
+            "number": "52/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ChinchouEXForzeSegrete52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-53/115",
+            "name": "Clefairy",
+            "number": "53/115",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/ClefairyEXForzeSegrete53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-54/115",
+            "name": "Cyndaquil",
+            "number": "54/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/CyndaquilEXForzeSegrete54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-55/115",
+            "name": "Eevee",
+            "number": "55/115",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/EeveeEXForzeSegrete55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-56/115",
+            "name": "Flaaffy",
+            "number": "56/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/FlaaffyEXForzeSegrete56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-57/115",
+            "name": "Gligar",
+            "number": "57/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GligarEXForzeSegrete57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-58/115",
+            "name": "Gloom",
+            "number": "58/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/GloomEXForzeSegrete58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-59/115",
+            "name": "Hoothoot",
+            "number": "59/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/HoothootEXForzeSegrete59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-60/115",
+            "name": "Houndour",
+            "number": "60/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/HoundourEXForzeSegrete60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-61/115",
+            "name": "Larvitar",
+            "number": "61/115",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/LarvitarEXForzeSegrete61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-62/115",
+            "name": "Mareep",
+            "number": "62/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/MareepEXForzeSegrete62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-63/115",
+            "name": "Natu",
+            "number": "63/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/NatuEXForzeSegrete63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-64/115",
+            "name": "Oddish",
+            "number": "64/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/OddishEXForzeSegrete64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-65/115",
+            "name": "Onix",
+            "number": "65/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/OnixEXForzeSegrete65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-66/115",
+            "name": "Pineco",
+            "number": "66/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/PinecoEXForzeSegrete66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-67/115",
+            "name": "Poliwag",
+            "number": "67/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/PoliwagEXForzeSegrete67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-68/115",
+            "name": "Poliwhirl",
+            "number": "68/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/PoliwhirlEXForzeSegrete68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-69/115",
+            "name": "Porygon",
+            "number": "69/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/PorygonEXForzeSegrete69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-70/115",
+            "name": "Pupitar",
+            "number": "70/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/PupitarEXForzeSegrete70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-71/115",
+            "name": "Remoraid",
+            "number": "71/115",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/RemoraidEXForzeSegrete71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-72/115",
+            "name": "Slowpoke",
+            "number": "72/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/SlowpokeEXForzeSegrete72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-73/115",
+            "name": "Slugma",
+            "number": "73/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/SlugmaEXForzeSegrete73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-74/115",
+            "name": "Snubbull",
+            "number": "74/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SnubbullEXForzeSegrete74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-75/115",
+            "name": "Spinarak",
+            "number": "75/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SpinarakEXForzeSegrete75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-76/115",
+            "name": "Sunkern",
+            "number": "76/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SunkernEXForzeSegrete76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-77/115",
+            "name": "Teddiursa",
+            "number": "77/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TeddiursaEXForzeSegrete77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-78/115",
+            "name": "Totodile",
+            "number": "78/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/TotodileEXForzeSegrete78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-79/115",
+            "name": "Wooper",
+            "number": "79/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/WooperEXForzeSegrete79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-80/115",
+            "name": "Polvere della Maledizione",
+            "number": "80/115",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/PolveredellaMaledizioneEXForzeSegrete80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-81/115",
+            "name": "Sistema di Riciclo dell'Energia",
+            "number": "81/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SistemadiRiciclodellEnergiaEXForzeSegrete81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-82/115",
+            "name": "Rimozione di Energia 2",
+            "number": "82/115",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/RimozionediEnergia2EXForzeSegrete82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-83/115",
+            "name": "Radice Energetica",
+            "number": "83/115",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/RadiceEnergeticaEXForzeSegrete83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-84/115",
+            "name": "Scambio di Energia",
+            "number": "84/115",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ScambiodiEnergiaEXForzeSegrete84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-85/115",
+            "name": "Bacca Dentedileone",
+            "number": "85/115",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/BaccaDentedileoneEXForzeSegrete85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-86/115",
+            "name": "Richiesta di Lori",
+            "number": "86/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/RichiestadiLoriEXForzeSegrete86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-87/115",
+            "name": "Poké Ball",
+            "number": "87/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/Pok%C3%A9BallEXForzeSegrete87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-88/115",
+            "name": "Contropiede Pokémon",
+            "number": "88/115",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ContropiedePok%C3%A9monEXForzeSegrete88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-89/115",
+            "name": "Sistema d'Allenamento del Prof. Elm",
+            "number": "89/115",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SistemadAllenamentodelProfElmEXForzeSegrete89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-90/115",
+            "name": "Protettisfera",
+            "number": "90/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/ProtettisferaEXForzeSegrete90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-91/115",
+            "name": "Baccacedro",
+            "number": "91/115",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/BaccacedroEXForzeSegrete91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-92/115",
+            "name": "Ira Solida",
+            "number": "92/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/IraSolidaEXForzeSegrete92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-93/115",
+            "name": "Punto di Curvatura",
+            "number": "93/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/PuntodiCurvaturaEXForzeSegrete93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-94/115",
+            "name": "Ricerca di Energia",
+            "number": "94/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/RicercadiEnergiaEXForzeSegrete94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-95/115",
+            "name": "Pozione",
+            "number": "95/115",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/PozioneEXForzeSegrete95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-96/115",
+            "name": "Energia Oscurità",
+            "number": "96/115",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/EnergiaOscurit%C3%A0EXForzeSegrete96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-97/115",
+            "name": "Energia Metallo",
+            "number": "97/115",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/EnergiaMetalloEXForzeSegrete97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-98/115",
+            "name": "Energia Extra",
+            "number": "98/115",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/EnergiaExtraEXForzeSegrete98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-99/115",
+            "name": "Energia Ciclonica",
+            "number": "99/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/EnergiaCiclonicaEXForzeSegrete99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-100/115",
+            "name": "Energia Curvatura",
+            "number": "100/115",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/EnergiaCurvaturaEXForzeSegrete100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-101/115",
+            "name": "Blissey ex",
+            "number": "101/115",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/BlisseyexEXForzeSegrete101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-102/115",
+            "name": "Espeon ex",
+            "number": "102/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/EspeonexEXForzeSegrete102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-103/115",
+            "name": "Feraligatr ex",
+            "number": "103/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/FeraligatrexEXForzeSegrete103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-104/115",
+            "name": "Ho-Oh ex",
+            "number": "104/115",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/Ho-OhexEXForzeSegrete104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-105/115",
+            "name": "Lugia ex",
+            "number": "105/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/LugiaexEXForzeSegrete105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-106/115",
+            "name": "Meganium ex",
+            "number": "106/115",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/MeganiumexEXForzeSegrete106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-107/115",
+            "name": "Politoed ex",
+            "number": "107/115",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/PolitoedexEXForzeSegrete107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-108/115",
+            "name": "Scizor ex",
+            "number": "108/115",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ScizorexEXForzeSegrete108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-109/115",
+            "name": "Steelix ex",
+            "number": "109/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/SteelixexEXForzeSegrete109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-110/115",
+            "name": "Typhlosion ex",
+            "number": "110/115",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/TyphlosionexEXForzeSegrete110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-111/115",
+            "name": "Tyranitar ex",
+            "number": "111/115",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/TyranitarexEXForzeSegrete111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-112/115",
+            "name": "Umbreon ex",
+            "number": "112/115",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/UmbreonexEXForzeSegrete112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-113/115",
+            "name": "Entei ☆",
+            "number": "113/115",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/EnteiEXForzeSegrete113.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-114/115",
+            "name": "Raikou ☆",
+            "number": "114/115",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/RaikouEXForzeSegrete114.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-115/115",
+            "name": "Suicune ☆",
+            "number": "115/115",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/SuicuneEXForzeSegrete115.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "UF-116/115",
+            "name": "Rocket Persian ex",
+            "number": "116/115",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/RocketPersianexEXForzeSegrete116.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UF-117/115",
+            "name": "Celebi ex",
+            "number": "117/115",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/CelebiexEXForzeSegrete117.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UF-A/28",
+            "name": "Unown",
+            "number": "A/28",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/UnownEXForzeSegreteA.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-B/28",
+            "name": "Unown",
+            "number": "B/28",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/UnownEXForzeSegreteB.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-C/28",
+            "name": "Unown",
+            "number": "C/28",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/UnownEXForzeSegreteC.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-D/28",
+            "name": "Unown",
+            "number": "D/28",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/UnownEXForzeSegreteD.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-E/28",
+            "name": "Unown",
+            "number": "E/28",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/UnownEXForzeSegreteE.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-F/28",
+            "name": "Unown",
+            "number": "F/28",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/UnownEXForzeSegreteF.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-G/28",
+            "name": "Unown",
+            "number": "G/28",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/UnownEXForzeSegreteG.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-H/28",
+            "name": "Unown",
+            "number": "H/28",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/UnownEXForzeSegreteH.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-I/28",
+            "name": "Unown",
+            "number": "I/28",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/UnownEXForzeSegreteI.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-J/28",
+            "name": "Unown",
+            "number": "J/28",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/UnownEXForzeSegreteJ.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-K/28",
+            "name": "Unown",
+            "number": "K/28",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/UnownEXForzeSegreteK.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-L/28",
+            "name": "Unown",
+            "number": "L/28",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/UnownEXForzeSegreteL.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-M/28",
+            "name": "Unown",
+            "number": "M/28",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/UnownEXForzeSegreteM.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-N/28",
+            "name": "Unown",
+            "number": "N/28",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/UnownEXForzeSegreteN.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-O/28",
+            "name": "Unown",
+            "number": "O/28",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/UnownEXForzeSegreteO.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-P/28",
+            "name": "Unown",
+            "number": "P/28",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/UnownEXForzeSegreteP.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-Q/28",
+            "name": "Unown",
+            "number": "Q/28",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/UnownEXForzeSegreteQ.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-R/28",
+            "name": "Unown",
+            "number": "R/28",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/UnownEXForzeSegreteR.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-S/28",
+            "name": "Unown",
+            "number": "S/28",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/UnownEXForzeSegreteS.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-T/28",
+            "name": "Unown",
+            "number": "T/28",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/UnownEXForzeSegreteT.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-U/28",
+            "name": "Unown",
+            "number": "U/28",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/UnownEXForzeSegreteU.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-V/28",
+            "name": "Unown",
+            "number": "V/28",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/UnownEXForzeSegreteV.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-W/28",
+            "name": "Unown",
+            "number": "W/28",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/UnownEXForzeSegreteW.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-X/28",
+            "name": "Unown",
+            "number": "X/28",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/UnownEXForzeSegreteX.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-Y/28",
+            "name": "Unown",
+            "number": "Y/28",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/UnownEXForzeSegreteY.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-Z/28",
+            "name": "Unown",
+            "number": "Z/28",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/UnownEXForzeSegreteZ.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-!/28",
+            "name": "Unown",
+            "number": "!/28",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/UnownEXForzeSegrete%21.jpg",
+            "section": "Unown"
+        },
+        {
+            "id": "UF-?/28",
+            "name": "Unown",
+            "number": "?/28",
+            "image": null,
+            "section": "Unown"
+        }
+    ]
+}

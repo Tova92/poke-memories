@@ -1,0 +1,1260 @@
+{
+    "expansion": {
+        "id": "UPR",
+        "name": "Sole e Luna - Ultraprisma",
+        "year": 2018,
+        "month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetUltraprisma.png",
+        "cardCount": 173,
+				"yellowAAlternateCardCount": 5
+    },
+    "cards": [
+        {
+            "id": "UPR-1/156",
+            "name": "Exeggcute",
+            "number": "1/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ExeggcuteUltraprisma1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-2/156",
+            "name": "Yanma",
+            "number": "2/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/YanmaUltraprisma2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-3/156",
+            "name": "Yanmega",
+            "number": "3/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/YanmegaUltraprisma3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-4/156",
+            "name": "Roselia",
+            "number": "4/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/RoseliaUltraprisma4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-5/156",
+            "name": "Roserade",
+            "number": "5/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/RoseradeUltraprisma5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-6/156",
+            "name": "Turtwig",
+            "number": "6/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/TurtwigUltraprisma6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-7/156",
+            "name": "Turtwig",
+            "number": "7/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/TurtwigUltraprisma7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-8/156",
+            "name": "Grotle",
+            "number": "8/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/GrotleUltraprisma8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-9/156",
+            "name": "Torterra",
+            "number": "9/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/TorterraUltraprisma9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-10/156",
+            "name": "Cherubi",
+            "number": "10/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CherubiUltraprisma10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-11/156",
+            "name": "Cherrim",
+            "number": "11/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/CherrimUltraprisma11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-12/156",
+            "name": "Carnivine",
+            "number": "12/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/CarnivineUltraprisma12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-13/156",
+            "name": "Leafeon-GX",
+            "number": "13/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Leafeon-GXUltraprisma13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-14/156",
+            "name": "Rotom Taglio",
+            "number": "14/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/RotomTaglioUltraprisma14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-15/156",
+            "name": "Shaymin",
+            "number": "15/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ShayminUltraprisma15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-16/156",
+            "name": "Dewpider",
+            "number": "16/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/DewpiderUltraprisma16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-17/156",
+            "name": "Araquanid",
+            "number": "17/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/AraquanidUltraprisma17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-18/156",
+            "name": "Magmar",
+            "number": "18/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MagmarUltraprisma18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-19/156",
+            "name": "Magmortar",
+            "number": "19/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/MagmortarUltraprisma19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-20/156",
+            "name": "Chimchar",
+            "number": "20/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ChimcharUltraprisma20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-21/156",
+            "name": "Chimchar",
+            "number": "21/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/ChimcharUltraprisma21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-22/156",
+            "name": "Monferno",
+            "number": "22/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/MonfernoUltraprisma22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-23/156",
+            "name": "Infernape",
+            "number": "23/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/InfernapeUltraprisma23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-24/156",
+            "name": "Rotom Calore",
+            "number": "24/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/RotomCaloreUltraprisma24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-25/156",
+            "name": "Salandit",
+            "number": "25/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/SalanditUltraprisma25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-26/156",
+            "name": "Salazzle",
+            "number": "26/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SalazzleUltraprisma26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-27/156",
+            "name": "Turtonator",
+            "number": "27/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/TurtonatorUltraprisma27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-28/156",
+            "name": "Sandshrew di Alola",
+            "number": "28/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SandshrewdiAlolaUltraprisma28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-29/156",
+            "name": "Sandslash di Alola",
+            "number": "29/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SandslashdiAlolaUltraprisma29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-30/156",
+            "name": "Vulpix di Alola",
+            "number": "30/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/VulpixdiAlolaUltraprisma30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-31/156",
+            "name": "Piplup",
+            "number": "31/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/PiplupUltraprisma31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-32/156",
+            "name": "Piplup",
+            "number": "32/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/PiplupUltraprisma32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-33/156",
+            "name": "Prinplup",
+            "number": "33/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/PrinplupUltraprisma33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-34/156",
+            "name": "Empoleon",
+            "number": "34/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/EmpoleonUltraprisma34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-35/156",
+            "name": "Buizel",
+            "number": "35/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/BuizelUltraprisma35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-36/156",
+            "name": "Floatzel",
+            "number": "36/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/FloatzelUltraprisma36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-37/156",
+            "name": "Snover",
+            "number": "37/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/SnoverUltraprisma37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-38/156",
+            "name": "Abomasnow",
+            "number": "38/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/AbomasnowUltraprisma38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-39/156",
+            "name": "Glaceon-GX",
+            "number": "39/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Glaceon-GXUltraprisma39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-40/156",
+            "name": "Rotom Lavaggio",
+            "number": "40/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/RotomLavaggioUltraprisma40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-41/156",
+            "name": "Rotom Gelo",
+            "number": "41/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/RotomGeloUltraprisma41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-42/156",
+            "name": "Manaphy",
+            "number": "42/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ManaphyUltraprisma42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-43/156",
+            "name": "Electabuzz",
+            "number": "43/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ElectabuzzUltraprisma43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-44/156",
+            "name": "Electivire",
+            "number": "44/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ElectivireUltraprisma44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-45/156",
+            "name": "Shinx",
+            "number": "45/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ShinxUltraprisma45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-46/156",
+            "name": "Shinx",
+            "number": "46/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ShinxUltraprisma46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-47/156",
+            "name": "Luxio",
+            "number": "47/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/LuxioUltraprisma47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-48/156",
+            "name": "Luxray",
+            "number": "48/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/LuxrayUltraprisma48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-49/156",
+            "name": "Pachirisu",
+            "number": "49/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PachirisuUltraprisma49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-50/156",
+            "name": "Rotom",
+            "number": "50/156",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/RotomUltraprisma50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-51/156",
+            "name": "Drifloon",
+            "number": "51/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/DrifloonUltraprisma51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-52/156",
+            "name": "Drifblim",
+            "number": "52/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DrifblimUltraprisma52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-53/156",
+            "name": "Spiritomb",
+            "number": "53/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SpiritombUltraprisma53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-54/156",
+            "name": "Skorupi",
+            "number": "54/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/SkorupiUltraprisma54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-55/156",
+            "name": "Drapion",
+            "number": "55/156",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/DrapionUltraprisma55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-56/156",
+            "name": "Croagunk",
+            "number": "56/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/CroagunkUltraprisma56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-57/156",
+            "name": "Toxicroak",
+            "number": "57/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/ToxicroakUltraprisma57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-58/156",
+            "name": "Giratina ◇",
+            "number": "58/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/GiratinaUltraprisma58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-59/156",
+            "name": "Cresselia",
+            "number": "59/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/CresseliaUltraprisma59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-60/156",
+            "name": "Cosmog",
+            "number": "60/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CosmogUltraprisma60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-61/156",
+            "name": "Cosmoem",
+            "number": "61/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CosmoemUltraprisma61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-62/156",
+            "name": "Lunala ◇",
+            "number": "62/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/LunalaUltraprisma62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-63/156",
+            "name": "Necrozma Ali dell'Aurora-GX",
+            "number": "63/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/NecrozmaAlidellAurora-GXUltraprisma63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-64/156",
+            "name": "Cranidos",
+            "number": "64/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/CranidosUltraprisma64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-65/156",
+            "name": "Rampardos",
+            "number": "65/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/RampardosUltraprisma65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-66/156",
+            "name": "Riolu",
+            "number": "66/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/RioluUltraprisma66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-67/156",
+            "name": "Lucario",
+            "number": "67/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/LucarioUltraprisma67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-68/156",
+            "name": "Hippopotas",
+            "number": "68/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/HippopotasUltraprisma68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-69/156",
+            "name": "Hippowdon",
+            "number": "69/156",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/HippowdonUltraprisma69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-70/156",
+            "name": "Passimian",
+            "number": "70/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PassimianUltraprisma70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-71/156",
+            "name": "Murkrow",
+            "number": "71/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MurkrowUltraprisma71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-72/156",
+            "name": "Honchkrow",
+            "number": "72/156",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/HonchkrowUltraprisma72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-73/156",
+            "name": "Sneasel",
+            "number": "73/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/SneaselUltraprisma73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-74/156",
+            "name": "Weavile",
+            "number": "74/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/WeavileUltraprisma74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-75/156",
+            "name": "Stunky",
+            "number": "75/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/StunkyUltraprisma75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-76/156",
+            "name": "Skuntank",
+            "number": "76/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SkuntankUltraprisma76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-77/156",
+            "name": "Darkrai ◇",
+            "number": "77/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/DarkraiUltraprisma77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-78/156",
+            "name": "Diglett di Alola",
+            "number": "78/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/DiglettdiAlolaUltraprisma78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-79/156",
+            "name": "Dugtrio di Alola",
+            "number": "79/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DugtriodiAlolaUltraprisma79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-80/156",
+            "name": "Magnemite",
+            "number": "80/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MagnemiteUltraprisma80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-81/156",
+            "name": "Magnemite",
+            "number": "81/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MagnemiteUltraprisma81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-82/156",
+            "name": "Magneton",
+            "number": "82/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MagnetonUltraprisma82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-83/156",
+            "name": "Magnezone",
+            "number": "83/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MagnezoneUltraprisma83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-84/156",
+            "name": "Shieldon",
+            "number": "84/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ShieldonUltraprisma84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-85/156",
+            "name": "Bastiodon",
+            "number": "85/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/BastiodonUltraprisma85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-86/156",
+            "name": "Bronzor",
+            "number": "86/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/BronzorUltraprisma86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-87/156",
+            "name": "Bronzong",
+            "number": "87/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/BronzongUltraprisma87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-88/156",
+            "name": "Heatran",
+            "number": "88/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/HeatranUltraprisma88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-89/156",
+            "name": "Solgaleo ◇",
+            "number": "89/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/SolgaleoUltraprisma89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-90/156",
+            "name": "Necrozma Criniera del Vespro-GX",
+            "number": "90/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/NecrozmaCrinieradelVespro-GXUltraprisma90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-91/156",
+            "name": "Magearna",
+            "number": "91/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MagearnaUltraprisma91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-92/156",
+            "name": "Morelull",
+            "number": "92/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MorelullUltraprisma92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-93/156",
+            "name": "Shiinotic",
+            "number": "93/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/ShiinoticUltraprisma93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-94/156",
+            "name": "Tapu Lele",
+            "number": "94/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/TapuLeleUltraprisma94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-95/156",
+            "name": "Exeggutor di Alola",
+            "number": "95/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ExeggutordiAlolaUltraprisma95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-96/156",
+            "name": "Gible",
+            "number": "96/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/GibleUltraprisma96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-97/156",
+            "name": "Gible",
+            "number": "97/156",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/GibleUltraprisma97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-98/156",
+            "name": "Gabite",
+            "number": "98/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/GabiteUltraprisma98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-99/156",
+            "name": "Garchomp",
+            "number": "99/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/GarchompUltraprisma99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-100/156",
+            "name": "Dialga-GX",
+            "number": "100/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Dialga-GXUltraprisma100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-101/156",
+            "name": "Palkia-GX",
+            "number": "101/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/Palkia-GXUltraprisma101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-102/156",
+            "name": "Lickitung",
+            "number": "102/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/LickitungUltraprisma102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-103/156",
+            "name": "Lickilicky",
+            "number": "103/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/LickilickyUltraprisma103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-104/156",
+            "name": "Eevee",
+            "number": "104/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/EeveeUltraprisma104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-105/156",
+            "name": "Eevee",
+            "number": "105/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/EeveeUltraprisma105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-106/156",
+            "name": "Buneary",
+            "number": "106/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/BunearyUltraprisma106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-107/156",
+            "name": "Lopunny",
+            "number": "107/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/LopunnyUltraprisma107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-108/156",
+            "name": "Glameow",
+            "number": "108/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/GlameowUltraprisma108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-109/156",
+            "name": "Purugly",
+            "number": "109/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/PuruglyUltraprisma109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-110/156",
+            "name": "Rotom Vortice",
+            "number": "110/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/RotomVorticeUltraprisma110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-111/156",
+            "name": "Shaymin",
+            "number": "111/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ShayminUltraprisma111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-112/156",
+            "name": "Yungoos",
+            "number": "112/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/YungoosUltraprisma112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-113/156",
+            "name": "Gumshoos",
+            "number": "113/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/GumshoosUltraprisma113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-114/156",
+            "name": "Oranguru",
+            "number": "114/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/OranguruUltraprisma114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-115/156",
+            "name": "Tipo Zero",
+            "number": "115/156",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/TipoZeroUltraprisma115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-116/156",
+            "name": "Silvally-GX",
+            "number": "116/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Silvally-GXUltraprisma116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-117/156",
+            "name": "Drampa",
+            "number": "117/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/DrampaUltraprisma117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-118/156",
+            "name": "Antico Cristallo",
+            "number": "118/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/AnticoCristalloUltraprisma118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-119/156",
+            "name": "Camilla",
+            "number": "119/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CamillaUltraprisma119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-120/156",
+            "name": "Cyrus ◇",
+            "number": "120/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/CyrusUltraprisma120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-121/156",
+            "name": "ROM Elettro",
+            "number": "121/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/ROMElettroUltraprisma121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-122/156",
+            "name": "Skateboard di Fuga",
+            "number": "122/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/SkateboardiFugaUltraprisma122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-123/156",
+            "name": "ROM Fuoco",
+            "number": "123/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ROMFuocoUltraprisma123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-124/156",
+            "name": "Gardenia",
+            "number": "124/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/GardeniaUltraprisma124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-125/156",
+            "name": "Lylia",
+            "number": "125/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/LyliaUltraprisma125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-126/156",
+            "name": "Bellocchio",
+            "number": "126/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/BellocchioUltraprisma126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-127/156",
+            "name": "Fischietto di Bellocchio",
+            "number": "127/156",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/FischiettodiBellocchioUltraprisma127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-128/156",
+            "name": "Martes",
+            "number": "128/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MartesUltraprisma128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-129/156",
+            "name": "Trifoglio Mancante",
+            "number": "129/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/TrifoglioMancanteUltraprisma129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-130/156",
+            "name": "Monte Corona",
+            "number": "130/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MonteCoronaUltraprisma130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-131/156",
+            "name": "Schermo Ordini",
+            "number": "131/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SchermoOrdiniUltraprisma131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-132/156",
+            "name": "Blocco Amici",
+            "number": "132/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/BloccoAmiciUltraprisma132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-133/156",
+            "name": "Pokémon Fan Club",
+            "number": "133/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Pok%C3%A9monFanClubUltraprisma133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-134/156",
+            "name": "Fossile Sconosciuto",
+            "number": "134/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/FossileSconosciutoUltraprisma134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-135/156",
+            "name": "Corrado",
+            "number": "135/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/CorradoUltraprisma135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-136/156",
+            "name": "Super Energia Extra ◇",
+            "number": "136/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/SuperEnergiaExtraUltraprisma136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-137/156",
+            "name": "Energia Unione EFA",
+            "number": "137/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/EnergiaUnioneEFAUltraprisma137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-138/156",
+            "name": "Energia Unione LPM",
+            "number": "138/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaUnioneLPMUltraprisma138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-139/156",
+            "name": "Leafeon-GX",
+            "number": "139/156",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Leafeon-GXUltraprisma139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-140/156",
+            "name": "Pheromosa-GX",
+            "number": "140/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Pheromosa-GXUltraprisma140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-141/156",
+            "name": "Glaceon-GX",
+            "number": "141/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Glaceon-GXUltraprisma141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-142/156",
+            "name": "Xurkitree-GX",
+            "number": "142/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Xurkitree-GXUltraprisma142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-143/156",
+            "name": "Necrozma Ali dell'Aurora-GX",
+            "number": "143/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/NecrozmaAlidellAurora-GXUltraprisma143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-144/156",
+            "name": "Celesteela-GX",
+            "number": "144/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Celesteela-GXUltraprisma144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-145/156",
+            "name": "Necrozma Criniera del Vespro-GX",
+            "number": "145/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/NecrozmaCrinieradelVespro-GXUltraprisma145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-146/156",
+            "name": "Dialga-GX",
+            "number": "146/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Dialga-GXUltraprisma146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-147/156",
+            "name": "Palkia-GX",
+            "number": "147/156",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Palkia-GXUltraprisma147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-148/156",
+            "name": "Camilla",
+            "number": "148/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/CamillaUltraprisma148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-149/156",
+            "name": "Gardenia",
+            "number": "149/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GardeniaUltraprisma149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-150/156",
+            "name": "Suiren",
+            "number": "150/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/SuirenUltraprisma150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-151/156",
+            "name": "Lylia",
+            "number": "151/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/LyliaUltraprisma151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-152/156",
+            "name": "Bellocchio",
+            "number": "152/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/BellocchioUltraprisma152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-153/156",
+            "name": "Samina",
+            "number": "153/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/SaminaUltraprisma153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-154/156",
+            "name": "Martes",
+            "number": "154/156",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/MartesUltraprisma154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-155/156",
+            "name": "Pokémon Fan Club",
+            "number": "155/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Pok%C3%A9monFanClubUltraprisma155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-156/156",
+            "name": "Corrado",
+            "number": "156/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/CorradoUltraprisma156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UPR-157/156",
+            "name": "Leafeon-GX",
+            "number": "157/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Leafeon-GXUltraprisma157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-158/156",
+            "name": "Pheromosa-GX",
+            "number": "158/156",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Pheromosa-GXUltraprisma158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-159/156",
+            "name": "Glaceon-GX",
+            "number": "159/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Glaceon-GXUltraprisma159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-160/156",
+            "name": "Xurkitree-GX",
+            "number": "160/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Xurkitree-GXUltraprisma160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-161/156",
+            "name": "Necrozma Ali dell'Aurora-GX",
+            "number": "161/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/NecrozmaAlidellAurora-GXUltraprisma161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-162/156",
+            "name": "Celesteela-GX",
+            "number": "162/156",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Celesteela-GXUltraprisma162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-163/156",
+            "name": "Necrozma Criniera del Vespro-GX",
+            "number": "163/156",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/NecrozmaCrinieradelVespro-GXUltraprisma163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-164/156",
+            "name": "Dialga-GX",
+            "number": "164/156",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Dialga-GXUltraprisma164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-165/156",
+            "name": "Palkia-GX",
+            "number": "165/156",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/Palkia-GXUltraprisma165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-166/156",
+            "name": "Martello Dirompente",
+            "number": "166/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MartelloDirompenteUltraprisma166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-167/156",
+            "name": "Skateboard di Fuga",
+            "number": "167/156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/SkateboarddiFugaUltraprisma167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-168/156",
+            "name": "Trifoglio Mancante",
+            "number": "168/156",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/TrifoglioMancanteUltraprisma168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-169/156",
+            "name": "Cartelrosso Spione",
+            "number": "169/156",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/CartelrossoSpioneUltraprisma169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-170/156",
+            "name": "Energia Unione EFA",
+            "number": "170/156",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/EnergiaUnioneEFAUltraprisma170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-171/156",
+            "name": "Energia Unione LPM",
+            "number": "171/156",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/EnergiaUnioneLPMUltraprisma171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-172/156",
+            "name": "Lunala-GX",
+            "number": "172/156",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Lunala-GXUltraprisma172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-173/156",
+            "name": "Solgaleo-GX",
+            "number": "173/156",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Solgaleo-GXUltraprisma173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UPR-119a/156",
+            "name": "Camilla",
+            "number": "119a/156",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UPR-122a/156",
+            "name": "Skateboard di Fuga",
+            "number": "122a/156",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SkateboarddiFugaUltraprisma122a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UPR-125a/156",
+            "name": "Lylia",
+            "number": "125a/156",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UPR-135a/156",
+            "name": "Corrado",
+            "number": "135a/156",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UPR-153a/156",
+            "name": "Samina",
+            "number": "153a/156",
+            "image": null,
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

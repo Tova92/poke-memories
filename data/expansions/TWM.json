@@ -1,0 +1,1605 @@
+{
+    "expansion": {
+        "id": "TWM",
+        "name": "Scarlatto e Violetto - Crepuscolo Mascherato",
+        "year": 2024,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2f/SimboloSetCrepuscolo_Mascherato.png",
+        "cardCount": 226
+    },
+    "cards": [
+        {
+            "id": "TWM-001/167",
+            "name": "Tangela",
+            "number": "001/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TangelaCrepuscoloMascherato1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-002/167",
+            "name": "Tangrowth",
+            "number": "002/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TangrowthCrepuscoloMascherato2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-003/167",
+            "name": "Pinsir",
+            "number": "003/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/PinsirCrepuscoloMascherato3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-004/167",
+            "name": "Spinarak",
+            "number": "004/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/SpinarakCrepuscoloMascherato4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-005/167",
+            "name": "Ariados",
+            "number": "005/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/AriadosCrepuscoloMascherato5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-006/167",
+            "name": "Sunkern",
+            "number": "006/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SunkernCrepuscoloMascherato6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-007/167",
+            "name": "Sunflora",
+            "number": "007/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/SunfloraCrepuscoloMascherato7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-008/167",
+            "name": "Heracross",
+            "number": "008/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/HeracrossCrepuscoloMascherato8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-009/167",
+            "name": "Volbeat",
+            "number": "009/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/VolbeatCrepuscoloMascherato9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-010/167",
+            "name": "Illumise",
+            "number": "010/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/IllumiseCrepuscoloMascherato10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-011/167",
+            "name": "Leafeon",
+            "number": "011/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/LeafeonCrepuscoloMascherato11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-012/167",
+            "name": "Phantump",
+            "number": "012/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PhantumpCrepuscoloMascherato12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-013/167",
+            "name": "Trevenant",
+            "number": "013/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/TrevenantCrepuscoloMascherato13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-014/167",
+            "name": "Grookey",
+            "number": "014/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/GrookeyCrepuscoloMascherato14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-015/167",
+            "name": "Thwackey",
+            "number": "015/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/ThwackeyCrepuscoloMascherato15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-016/167",
+            "name": "Rillaboom",
+            "number": "016/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/RillaboomCrepuscoloMascherato16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-017/167",
+            "name": "Applin",
+            "number": "017/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ApplinCrepuscoloMascherato17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-018/167",
+            "name": "Dipplin",
+            "number": "018/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/DipplinCrepuscoloMascherato18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-019/167",
+            "name": "Fogliaferrea",
+            "number": "019/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/FogliaferreaCrepuscoloMascherato19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-020/167",
+            "name": "Poltchageist",
+            "number": "020/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/PoltchageistCrepuscoloMascherato20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-021/167",
+            "name": "Poltchageist",
+            "number": "021/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/PoltchageistCrepuscoloMascherato21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-022/167",
+            "name": "Sinistcha",
+            "number": "022/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/SinistchaCrepuscoloMascherato22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-023/167",
+            "name": "Sinistcha-ex",
+            "number": "023/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Sinistcha-exCrepuscoloMascherato23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-024/167",
+            "name": "Ogerpon Maschera Turchese",
+            "number": "024/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/OgerponMascheraTurcheseCrepuscoloMascherato24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-025/167",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "025/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/OgerponMascheraTurchese-exCrepuscoloMascherato25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-026/167",
+            "name": "Vulpix",
+            "number": "026/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/VulpixCrepuscoloMascherato26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-027/167",
+            "name": "Ninetales",
+            "number": "027/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/NinetalesCrepuscoloMascherato27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-028/167",
+            "name": "Slugma",
+            "number": "028/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SlugmaCrepuscoloMascherato28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-029/167",
+            "name": "Magcargo-ex",
+            "number": "029/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Magcargo-exCrepuscoloMascherato29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-030/167",
+            "name": "Torkoal",
+            "number": "030/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/TorkoalCrepuscoloMascherato30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-031/167",
+            "name": "Chimchar",
+            "number": "031/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/ChimcharCrepuscoloMascherato31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-032/167",
+            "name": "Monferno",
+            "number": "032/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/MonfernoCrepuscoloMascherato32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-033/167",
+            "name": "Infernape",
+            "number": "033/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/InfernapeCrepuscoloMascherato33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-034/167",
+            "name": "Darumaka",
+            "number": "034/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DarumakaCrepuscoloMascherato34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-035/167",
+            "name": "Darmanitan",
+            "number": "035/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/DarmanitanCrepuscoloMascherato35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-036/167",
+            "name": "Litwick",
+            "number": "036/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/LitwickCrepuscoloMascherato36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-037/167",
+            "name": "Lampent",
+            "number": "037/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/LampentCrepuscoloMascherato37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-038/167",
+            "name": "Chandelure",
+            "number": "038/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ChandelureCrepuscoloMascherato38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-039/167",
+            "name": "Chi-Yu",
+            "number": "039/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Chi-YuCrepuscoloMascherato39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-040/167",
+            "name": "Ogerpon Maschera Focolare-ex",
+            "number": "040/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/OgerponMascheraFocolare-exCrepuscoloMascherato40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-041/167",
+            "name": "Poliwag",
+            "number": "041/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/PoliwagCrepuscoloMascherato41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-042/167",
+            "name": "Poliwhirl",
+            "number": "042/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/PoliwhirlCrepuscoloMascherato42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-043/167",
+            "name": "Poliwrath",
+            "number": "043/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/PoliwrathCrepuscoloMascherato43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-044/167",
+            "name": "Goldeen",
+            "number": "044/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/GoldeenCrepuscoloMascherato44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-045/167",
+            "name": "Seaking",
+            "number": "045/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/SeakingCrepuscoloMascherato45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-046/167",
+            "name": "Jynx",
+            "number": "046/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/JynxCrepuscoloMascherato46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-047/167",
+            "name": "Corphish",
+            "number": "047/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CorphishCrepuscoloMascherato47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-048/167",
+            "name": "Crawdaunt",
+            "number": "048/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/CrawdauntCrepuscoloMascherato48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-049/167",
+            "name": "Feebas",
+            "number": "049/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/FeebasCrepuscoloMascherato49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-050/167",
+            "name": "Milotic",
+            "number": "050/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/MiloticCrepuscoloMascherato50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-051/167",
+            "name": "Snorunt",
+            "number": "051/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SnoruntCrepuscoloMascherato51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-052/167",
+            "name": "Glalie",
+            "number": "052/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/GlalieCrepuscoloMascherato52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-053/167",
+            "name": "Froslass",
+            "number": "053/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/FroslassCrepuscoloMascherato53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-054/167",
+            "name": "Glaceon",
+            "number": "054/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/GlaceonCrepuscoloMascherato54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-055/167",
+            "name": "Phione",
+            "number": "055/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PhioneCrepuscoloMascherato55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-056/167",
+            "name": "Froakie",
+            "number": "056/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/FroakieCrepuscoloMascherato56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-057/167",
+            "name": "Frogadier",
+            "number": "057/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/FrogadierCrepuscoloMascherato57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-058/167",
+            "name": "Cramorant",
+            "number": "058/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/CramorantCrepuscoloMascherato58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-059/167",
+            "name": "Finizen",
+            "number": "059/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/FinizenCrepuscoloMascherato59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-060/167",
+            "name": "Palafin",
+            "number": "060/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/PalafinCrepuscoloMascherato60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-061/167",
+            "name": "Palafin-ex",
+            "number": "061/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Palafin-exCrepuscoloMascherato61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-062/167",
+            "name": "Saccoferreo",
+            "number": "062/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/SaccoferreoCrepuscoloMascherato62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-063/167",
+            "name": "Acquecrespe",
+            "number": "063/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/AcquecrespeCrepuscoloMascherato63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-064/167",
+            "name": "Ogerpon Maschera Pozzo-ex",
+            "number": "064/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/OgerponMascheraPozzo-exCrepuscoloMascherato64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-065/167",
+            "name": "Zapdos",
+            "number": "065/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/ZapdosCrepuscoloMascherato65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-066/167",
+            "name": "Shinx",
+            "number": "066/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ShinxCrepuscoloMascherato66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-067/167",
+            "name": "Luxio",
+            "number": "067/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/LuxioCrepuscoloMascherato67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-068/167",
+            "name": "Luxray-ex",
+            "number": "068/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Luxray-exCrepuscoloMascherato68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-069/167",
+            "name": "Emolga",
+            "number": "069/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EmolgaCrepuscoloMascherato69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-070/167",
+            "name": "Helioptile",
+            "number": "070/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/HelioptileCrepuscoloMascherato70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-071/167",
+            "name": "Heliolisk",
+            "number": "071/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/HelioliskCrepuscoloMascherato71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-072/167",
+            "name": "Morpeko",
+            "number": "072/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MorpekoCrepuscoloMascherato72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-073/167",
+            "name": "Tadbulb",
+            "number": "073/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/TadbulbCrepuscoloMascherato73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-074/167",
+            "name": "Bellibolt",
+            "number": "074/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/BelliboltCrepuscoloMascherato74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-075/167",
+            "name": "Wattrel",
+            "number": "075/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/WattrelCrepuscoloMascherato75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-076/167",
+            "name": "Kilowattrel",
+            "number": "076/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/KilowattrelCrepuscoloMascherato76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-077/167",
+            "name": "Spineferree-ex",
+            "number": "077/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Spineferree-exCrepuscoloMascherato77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-078/167",
+            "name": "Clefairy",
+            "number": "078/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/ClefairyCrepuscoloMascherato78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-079/167",
+            "name": "Clefable",
+            "number": "079/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ClefableCrepuscoloMascherato79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-080/167",
+            "name": "Abra",
+            "number": "080/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/AbraCrepuscoloMascherato80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-081/167",
+            "name": "Kadabra",
+            "number": "081/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/KadabraCrepuscoloMascherato81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-082/167",
+            "name": "Alakazam",
+            "number": "082/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/AlakazamCrepuscoloMascherato82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-083/167",
+            "name": "Girafarig",
+            "number": "083/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/GirafarigCrepuscoloMascherato83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-084/167",
+            "name": "Farigiraf",
+            "number": "084/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/FarigirafCrepuscoloMascherato84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-085/167",
+            "name": "Chimecho",
+            "number": "085/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/ChimechoCrepuscoloMascherato85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-086/167",
+            "name": "Flabébé",
+            "number": "086/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/Flab%C3%A9b%C3%A9CrepuscoloMascherato86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-087/167",
+            "name": "Floette",
+            "number": "087/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/FloetteCrepuscoloMascherato87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-088/167",
+            "name": "Florges",
+            "number": "088/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/FlorgesCrepuscoloMascherato88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-089/167",
+            "name": "Swirlix",
+            "number": "089/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SwirlixCrepuscoloMascherato89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-090/167",
+            "name": "Slurpuff",
+            "number": "090/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/SlurpuffCrepuscoloMascherato90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-091/167",
+            "name": "Sandygast",
+            "number": "091/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/SandygastCrepuscoloMascherato91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-092/167",
+            "name": "Palossand",
+            "number": "092/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/PalossandCrepuscoloMascherato92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-093/167",
+            "name": "Enamorus",
+            "number": "093/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/EnamorusCrepuscoloMascherato93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-094/167",
+            "name": "Codaurlante-ex",
+            "number": "094/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/Codaurlante-exCrepuscoloMascherato94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-095/167",
+            "name": "Munkidori",
+            "number": "095/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MunkidoriCrepuscoloMascherato95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-096/167",
+            "name": "Fezandipiti",
+            "number": "096/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/FezandipitiCrepuscoloMascherato96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-097/167",
+            "name": "Sandshrew",
+            "number": "097/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SandshrewCrepuscoloMascherato97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-098/167",
+            "name": "Sandslash",
+            "number": "098/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/SandslashCrepuscoloMascherato98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-099/167",
+            "name": "Growlithe di Hisui",
+            "number": "099/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/GrowlithediHisuiCrepuscoloMascherato99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-100/167",
+            "name": "Arcanine di Hisui",
+            "number": "100/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/ArcaninediHisuiCrepuscoloMascherato100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-101/167",
+            "name": "Nosepass",
+            "number": "101/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/NosepassCrepuscoloMascherato101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-102/167",
+            "name": "Probopass",
+            "number": "102/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ProbopassCrepuscoloMascherato102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-103/167",
+            "name": "Timburr",
+            "number": "103/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/TimburrCrepuscoloMascherato103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-104/167",
+            "name": "Gurdurr",
+            "number": "104/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GurdurrCrepuscoloMascherato104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-105/167",
+            "name": "Conkeldurr",
+            "number": "105/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/ConkeldurrCrepuscoloMascherato105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-106/167",
+            "name": "Greninja-ex",
+            "number": "106/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Greninja-exCrepuscoloMascherato106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-107/167",
+            "name": "Hawlucha",
+            "number": "107/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/HawluchaCrepuscoloMascherato107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-108/167",
+            "name": "Glimmet",
+            "number": "108/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/GlimmetCrepuscoloMascherato108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-109/167",
+            "name": "Glimmora",
+            "number": "109/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/GlimmoraCrepuscoloMascherato109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-110/167",
+            "name": "Ting-Lu",
+            "number": "110/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Ting-LuCrepuscoloMascherato110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-111/167",
+            "name": "Okidogi",
+            "number": "111/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/OkidogiCrepuscoloMascherato111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-112/167",
+            "name": "Ogerpon Maschera Fondamenta-ex",
+            "number": "112/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/OgerponMascheraFondamenta-exCrepuscoloMascherato112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-113/167",
+            "name": "Poochyena",
+            "number": "113/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/PoochyenaCrepuscoloMascherato113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-114/167",
+            "name": "Mightyena",
+            "number": "114/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/MightyenaCrepuscoloMascherato114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-115/167",
+            "name": "Venipede",
+            "number": "115/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/VenipedeCrepuscoloMascherato115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-116/167",
+            "name": "Whirlipede",
+            "number": "116/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/WhirlipedeCrepuscoloMascherato116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-117/167",
+            "name": "Scolipede",
+            "number": "117/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/ScolipedeCrepuscoloMascherato117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-118/167",
+            "name": "Fungofurioso",
+            "number": "118/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/FungofuriosoCrepuscoloMascherato118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-119/167",
+            "name": "Skarmory",
+            "number": "119/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SkarmoryCrepuscoloMascherato119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-120/167",
+            "name": "Aron",
+            "number": "120/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/AronCrepuscoloMascherato120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-121/167",
+            "name": "Lairon",
+            "number": "121/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/LaironCrepuscoloMascherato121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-122/167",
+            "name": "Aggron",
+            "number": "122/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/AggronCrepuscoloMascherato122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-123/167",
+            "name": "Heatran",
+            "number": "123/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/HeatranCrepuscoloMascherato123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-124/167",
+            "name": "Varoom",
+            "number": "124/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/VaroomCrepuscoloMascherato124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-125/167",
+            "name": "Revavroom",
+            "number": "125/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RevavroomCrepuscoloMascherato125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-126/167",
+            "name": "Applin",
+            "number": "126/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ApplinCrepuscoloMascherato126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-127/167",
+            "name": "Dipplin",
+            "number": "127/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/DipplinCrepuscoloMascherato127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-128/167",
+            "name": "Dreepy",
+            "number": "128/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/DreepyCrepuscoloMascherato128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-129/167",
+            "name": "Drakloak",
+            "number": "129/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/DrakloakCrepuscoloMascherato129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-130/167",
+            "name": "Dragapult-ex",
+            "number": "130/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Dragapult-exCrepuscoloMascherato130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-131/167",
+            "name": "Tatsugiri",
+            "number": "131/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/TatsugiriCrepuscoloMascherato131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-132/167",
+            "name": "Farfetch'd",
+            "number": "132/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/FarfetchdCrepuscoloMascherato132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-133/167",
+            "name": "Chansey",
+            "number": "133/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ChanseyCrepuscoloMascherato133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-134/167",
+            "name": "Blissey-ex",
+            "number": "134/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Blissey-exCrepuscoloMascherato134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-135/167",
+            "name": "Eevee",
+            "number": "135/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EeveeCrepuscoloMascherato135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-136/167",
+            "name": "Snorlax",
+            "number": "136/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SnorlaxCrepuscoloMascherato136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-137/167",
+            "name": "Aipom",
+            "number": "137/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/AipomCrepuscoloMascherato137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-138/167",
+            "name": "Ambipom",
+            "number": "138/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/AmbipomCrepuscoloMascherato138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-139/167",
+            "name": "Ducklett",
+            "number": "139/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/DucklettCrepuscoloMascherato139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-140/167",
+            "name": "Swanna",
+            "number": "140/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SwannaCrepuscoloMascherato140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-141/167",
+            "name": "Ursaluna Luna Cremisi-ex",
+            "number": "141/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/UrsalunaLunaCremisi-exCrepuscoloMascherato141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-142/167",
+            "name": "Flauto d'Accompagnamento",
+            "number": "142/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/FlautodAccompagnamentoCrepuscoloMascherato142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-143/167",
+            "name": "Set Pigliamosche",
+            "number": "143/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SetPigliamoscheCrepuscoloMascherato143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-144/167",
+            "name": "Responsabile",
+            "number": "144/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/ResponsabileCrepuscoloMascherato144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-145/167",
+            "name": "Rubra",
+            "number": "145/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/RubraCrepuscoloMascherato145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-146/167",
+            "name": "Circolo Comunale",
+            "number": "146/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CircoloComunaleCrepuscoloMascherato146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-147/167",
+            "name": "Cuoco",
+            "number": "147/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/CuocoCrepuscoloMascherato147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-148/167",
+            "name": "Supermartello",
+            "number": "148/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/SupermartelloCrepuscoloMascherato148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-149/167",
+            "name": "Area della Festa",
+            "number": "149/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/AreadellaFestaCrepuscoloMascherato149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-150/167",
+            "name": "Ventilatore Portatile",
+            "number": "150/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/VentilatorePortatileCrepuscoloMascherato150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-151/167",
+            "name": "Oranzio",
+            "number": "151/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/OranzioCrepuscoloMascherato151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-152/167",
+            "name": "Iperaroma",
+            "number": "152/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/IperaromaCrepuscoloMascherato152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-153/167",
+            "name": "Torre di Interferenza",
+            "number": "153/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/TorrediInterferenzaCrepuscoloMascherato153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-154/167",
+            "name": "Riben",
+            "number": "154/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RibenCrepuscoloMascherato154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-155/167",
+            "name": "Soccorso di Suiren",
+            "number": "155/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SoccorsodiSuirenCrepuscoloMascherato155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-156/167",
+            "name": "Love Ball",
+            "number": "156/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/LoveBallCrepuscoloMascherato156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-157/167",
+            "name": "Luciano",
+            "number": "157/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/LucianoCrepuscoloMascherato157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-158/167",
+            "name": "Fortunelmo",
+            "number": "158/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/FortunelmoCrepuscoloMascherato158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-159/167",
+            "name": "Maschera dell'Orco",
+            "number": "159/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MascheradellOrcoCrepuscoloMascherato159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-160/167",
+            "name": "Litha",
+            "number": "160/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/LithaCrepuscoloMascherato160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-161/167",
+            "name": "Morasia",
+            "number": "161/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MorasiaCrepuscoloMascherato161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-162/167",
+            "name": "Mega Recupero",
+            "number": "162/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MegaRecuperoCrepuscoloMascherato162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-163/167",
+            "name": "Scatola dei Segreti",
+            "number": "163/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ScatoladeiSegretiCrepuscoloMascherato163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-164/167",
+            "name": "Tutore di Sopravvivenza",
+            "number": "164/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TutorediSopravvivenzaCrepuscoloMascherato164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-165/167",
+            "name": "Timbro Ingiusto",
+            "number": "165/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/TimbroIngiustoCrepuscoloMascherato165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-166/167",
+            "name": "Energia Boomerang",
+            "number": "166/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/EnergiaBoomerangCrepuscoloMascherato166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-167/167",
+            "name": "Energia Lascito",
+            "number": "167/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/EnergiaLascitoCrepuscoloMascherato167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TWM-168/167",
+            "name": "Pinsir",
+            "number": "168/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PinsirCrepuscoloMascherato168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-169/167",
+            "name": "Sunflora",
+            "number": "169/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/SunfloraCrepuscoloMascherato169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-170/167",
+            "name": "Dipplin",
+            "number": "170/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/DipplinCrepuscoloMascherato170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-171/167",
+            "name": "Poltchageist",
+            "number": "171/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PoltchageistCrepuscoloMascherato171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-172/167",
+            "name": "Torkoal",
+            "number": "172/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/TorkoalCrepuscoloMascherato172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-173/167",
+            "name": "Infernape",
+            "number": "173/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/InfernapeCrepuscoloMascherato173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-174/167",
+            "name": "Froslass",
+            "number": "174/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/FroslassCrepuscoloMascherato174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-175/167",
+            "name": "Phione",
+            "number": "175/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PhioneCrepuscoloMascherato175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-176/167",
+            "name": "Cramorant",
+            "number": "176/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/CramorantCrepuscoloMascherato176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-177/167",
+            "name": "Heliolisk",
+            "number": "177/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/HelioliskCrepuscoloMascherato177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-178/167",
+            "name": "Wattrel",
+            "number": "178/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/WattrelCrepuscoloMascherato178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-179/167",
+            "name": "Chimecho",
+            "number": "179/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ChimechoCrepuscoloMascherato179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-180/167",
+            "name": "Enamorus",
+            "number": "180/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/EnamorusCrepuscoloMascherato180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-181/167",
+            "name": "Growlithe di Hisui",
+            "number": "181/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/GrowlithediHisuiCrepuscoloMascherato181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-182/167",
+            "name": "Probopass",
+            "number": "182/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ProbopassCrepuscoloMascherato182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-183/167",
+            "name": "Timburr",
+            "number": "183/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/TimburrCrepuscoloMascherato183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-184/167",
+            "name": "Lairon",
+            "number": "184/167",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/LaironCrepuscoloMascherato184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-185/167",
+            "name": "Applin",
+            "number": "185/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ApplinCrepuscoloMascherato185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-186/167",
+            "name": "Tatsugiri",
+            "number": "186/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/TatsugiriCrepuscoloMascherato186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-187/167",
+            "name": "Chansey",
+            "number": "187/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/ChanseyCrepuscoloMascherato187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-188/167",
+            "name": "Eevee",
+            "number": "188/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/EeveeCrepuscoloMascherato188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-189/167",
+            "name": "Sinistcha-ex",
+            "number": "189/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Sinistcha-exCrepuscoloMascherato189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-190/167",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "190/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/OgerponMascheraTurchese-exCrepuscoloMascherato190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-191/167",
+            "name": "Magcargo-ex",
+            "number": "191/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Magcargo-exCrepuscoloMascherato191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-192/167",
+            "name": "Ogerpon Maschera Focolare-ex",
+            "number": "192/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/OgerponMascheraFocolare-exCrepuscoloMascherato192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-193/167",
+            "name": "Palafin-ex",
+            "number": "193/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Palafin-exCrepuscoloMascherato193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-194/167",
+            "name": "Ogerpon Maschera Pozzo-ex",
+            "number": "194/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/OgerponMascheraPozzo-exCrepuscoloMascherato194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-195/167",
+            "name": "Luxray-ex",
+            "number": "195/167",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Luxray-exCrepuscoloMascherato195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-196/167",
+            "name": "Spineferree-ex",
+            "number": "196/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Spineferree-exCrepuscoloMascherato196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-197/167",
+            "name": "Codaurlante-ex",
+            "number": "197/167",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/Codaurlante-exCrepuscoloMascherato197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-198/167",
+            "name": "Greninja-ex",
+            "number": "198/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Greninja-exCrepuscoloMascherato198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-199/167",
+            "name": "Ogerpon Maschera Fondamenta-ex",
+            "number": "199/167",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/OgerponMascheraFondamenta-exCrepuscoloMascherato199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-200/167",
+            "name": "Dragapult-ex",
+            "number": "200/167",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Dragapult-exCrepuscoloMascherato200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-201/167",
+            "name": "Blissey-ex",
+            "number": "201/167",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Blissey-exCrepuscoloMascherato201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-202/167",
+            "name": "Ursaluna Luna Cremisi-ex",
+            "number": "202/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/UrsalunaLunaCremisi-exCrepuscoloMascherato202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-203/167",
+            "name": "Responsabile",
+            "number": "203/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ResponsabileCrepuscoloMascherato203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-204/167",
+            "name": "Rubra",
+            "number": "204/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/RubraCrepuscoloMascherato204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-205/167",
+            "name": "Oranzio",
+            "number": "205/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/OranzioCrepuscoloMascherato205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-206/167",
+            "name": "Riben",
+            "number": "206/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/RibenCrepuscoloMascherato206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-207/167",
+            "name": "Soccorso di Suiren",
+            "number": "207/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SoccorsodiSuirenCrepuscoloMascherato207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-208/167",
+            "name": "Luciano",
+            "number": "208/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/LucianoCrepuscoloMascherato208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-209/167",
+            "name": "Litha",
+            "number": "209/167",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/LithaCrepuscoloMascherato209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-210/167",
+            "name": "Sinistcha-ex",
+            "number": "210/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Sinistcha-exCrepuscoloMascherato210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-211/167",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "211/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/OgerponMascheraTurchese-exCrepuscoloMascherato211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-212/167",
+            "name": "Ogerpon Maschera Focolare-ex",
+            "number": "212/167",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/OgerponMascheraFocolare-exCrepuscoloMascherato212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-213/167",
+            "name": "Ogerpon Maschera Pozzo-ex",
+            "number": "213/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/OgerponMascheraPozzo-exCrepuscoloMascherato213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-214/167",
+            "name": "Greninja-ex",
+            "number": "214/167",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Greninja-exCrepuscoloMascherato214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-215/167",
+            "name": "Ogerpon Maschera Fondamenta-ex",
+            "number": "215/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/OgerponMascheraFondamenta-exCrepuscoloMascherato215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-216/167",
+            "name": "Ursaluna Luna Cremisi-ex",
+            "number": "216/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/UrsalunaLunaCremisi-exCrepuscoloMascherato216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-217/167",
+            "name": "Rubra",
+            "number": "217/167",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/RubraCrepuscoloMascherato217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-218/167",
+            "name": "Riben",
+            "number": "218/167",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/RibenCrepuscoloMascherato218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-219/167",
+            "name": "Soccorso di Suiren",
+            "number": "219/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/SoccorsodiSuirenCrepuscoloMascherato219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-220/167",
+            "name": "Litha",
+            "number": "220/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/LithaCrepuscoloMascherato220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-221/167",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "221/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/OgerponMascheraTurchese-exCrepuscoloMascherato221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-222/167",
+            "name": "Ursaluna Luna Cremisi-ex",
+            "number": "222/167",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/UrsalunaLunaCremisi-exCrepuscoloMascherato222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-223/167",
+            "name": "Poffin del Cuore",
+            "number": "223/167",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PoffindelCuoreCrepuscoloMascherato223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-224/167",
+            "name": "Supermartello",
+            "number": "224/167",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/SupermartelloCrepuscoloMascherato224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-225/167",
+            "name": "Skateboard di Salvataggio",
+            "number": "225/167",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/SkateboarddiSalvataggioCrepuscoloMascherato225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TWM-226/167",
+            "name": "Energia Luminosa",
+            "number": "226/167",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/EnergiaLuminosaCrepuscoloMascherato226.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

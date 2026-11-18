@@ -1,0 +1,804 @@
+{
+    "expansion": {
+        "id": "N4",
+        "name": "Neo Destiny",
+				"year": 2002,
+				"month": 2,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetNeo_Destiny.svg",
+        "cardCount": 113
+    },
+    "cards": [
+        {
+            "id": "N4-1/105",
+            "name": "Dark Ampharos",
+            "number": "1/105",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/DarkAmpharosNeoDestiny1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-2/105",
+            "name": "Dark Crobat",
+            "number": "2/105",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/DarkCrobatNeoDestiny2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-3/105",
+            "name": "Dark Donphan",
+            "number": "3/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/DarkDonphanNeoDestiny3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-4/105",
+            "name": "Dark Espeon",
+            "number": "4/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/DarkEspeonNeoDestiny4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-5/105",
+            "name": "Dark Feraligatr",
+            "number": "5/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/DarkFeraligatrNeoDestiny5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-6/105",
+            "name": "Dark Gengar",
+            "number": "6/105",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/DarkGengarNeoDestiny6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-7/105",
+            "name": "Dark Houndoom",
+            "number": "7/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/DarkHoundoomNeoDestiny7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-8/105",
+            "name": "Dark Porygon2",
+            "number": "8/105",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DarkPorygon2NeoDestiny8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-9/105",
+            "name": "Dark Scizor",
+            "number": "9/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/DarkScizorNeoDestiny9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-10/105",
+            "name": "Dark Typhlosion",
+            "number": "10/105",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/DarkTyphlosionNeoDestiny10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-11/105",
+            "name": "Dark Tyranitar",
+            "number": "11/105",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/DarkTyranitarNeoDestiny11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-12/105",
+            "name": "Light Arcanine",
+            "number": "12/105",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/LightArcanineNeoDestiny12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-13/105",
+            "name": "Light Azumarill",
+            "number": "13/105",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/LightAzumarillNeoDestiny13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-14/105",
+            "name": "Light Dragonite",
+            "number": "14/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/LightDragoniteNeoDestiny14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-15/105",
+            "name": "Light Togetic",
+            "number": "15/105",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/LightTogeticNeoDestiny15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-16/105",
+            "name": "Energia Miracolosa",
+            "number": "16/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/EnergiaMiracolosaNeoDestiny16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-17/105",
+            "name": "Dark Ariados",
+            "number": "17/105",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/DarkAriadosNeoDestiny17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-18/105",
+            "name": "Dark Magcargo",
+            "number": "18/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/DarkMagcargoNeoDestiny18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-19/105",
+            "name": "Dark Omastar",
+            "number": "19/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/DarkOmastarNeoDestiny19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-20/105",
+            "name": "Dark Slowking",
+            "number": "20/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DarkSlowkingNeoDestiny20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-21/105",
+            "name": "Dark Ursaring",
+            "number": "21/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/DarkUrsaringNeoDestiny21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-22/105",
+            "name": "Light Dragonair",
+            "number": "22/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/LightDragonairNeoDestiny22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-23/105",
+            "name": "Light Lanturn",
+            "number": "23/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/LightLanturnNeoDestiny23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-24/105",
+            "name": "Light Ledian",
+            "number": "24/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/LightLedianNeoDestiny24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-25/105",
+            "name": "Light Machamp",
+            "number": "25/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/LightMachampNeoDestiny25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-26/105",
+            "name": "Light Piloswine",
+            "number": "26/105",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/LightPiloswineNeoDestiny26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-27/105",
+            "name": "Unown G",
+            "number": "27/105",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/UnownGNeoDestiny27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-28/105",
+            "name": "Unown H",
+            "number": "28/105",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/UnownHNeoDestiny28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-29/105",
+            "name": "Unown W",
+            "number": "29/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/UnownWNeoDestiny29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-30/105",
+            "name": "Unown X",
+            "number": "30/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/UnownXNeoDestiny30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-31/105",
+            "name": "Chansey",
+            "number": "31/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/ChanseyNeoDestiny31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-32/105",
+            "name": "Dark Croconaw",
+            "number": "32/105",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/DarkCroconawNeoDestiny32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-33/105",
+            "name": "Dark Exeggutor",
+            "number": "33/105",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/DarkExeggutorNeoDestiny33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-34/105",
+            "name": "Dark Flaaffy",
+            "number": "34/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DarkFlaaffyNeoDestiny34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-35/105",
+            "name": "Dark Forretress",
+            "number": "35/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DarkForretressNeoDestiny35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-36/105",
+            "name": "Dark Haunter",
+            "number": "36/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/DarkHaunterNeoDestiny36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-37/105",
+            "name": "Dark Omanyte",
+            "number": "37/105",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/DarkOmanyteNeoDestiny37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-38/105",
+            "name": "Dark Pupitar",
+            "number": "38/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/DarkPupitarNeoDestiny38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-39/105",
+            "name": "Dark Quilava",
+            "number": "39/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/DarkQuilavaNeoDestiny39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-40/105",
+            "name": "Dark Wigglytuff",
+            "number": "40/105",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/DarkWigglytuffNeoDestiny40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-41/105",
+            "name": "Heracross",
+            "number": "41/105",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/HeracrossNeoDestiny41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-42/105",
+            "name": "Hitmonlee",
+            "number": "42/105",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/HitmonleeNeoDestiny42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-43/105",
+            "name": "Houndour",
+            "number": "43/105",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/HoundourNeoDestiny43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-44/105",
+            "name": "Jigglypuff",
+            "number": "44/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/JigglypuffNeoDestiny44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-45/105",
+            "name": "Light Dewgong",
+            "number": "45/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LightDewgongNeoDestiny45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-46/105",
+            "name": "Light Flareon",
+            "number": "46/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/LightFlareonNeoDestiny46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-47/105",
+            "name": "Light Golduck",
+            "number": "47/105",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/LightGolduckNeoDestiny47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-48/105",
+            "name": "Light Jolteon",
+            "number": "48/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/LightJolteonNeoDestiny48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-49/105",
+            "name": "Light Machoke",
+            "number": "49/105",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/LightMachokeNeoDestiny49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-50/105",
+            "name": "Light Ninetales",
+            "number": "50/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/LightNinetalesNeoDestiny50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-51/105",
+            "name": "Light Slowbro",
+            "number": "51/105",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/LightSlowbroNeoDestiny51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-52/105",
+            "name": "Light Vaporeon",
+            "number": "52/105",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/LightVaporeonNeoDestiny52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-53/105",
+            "name": "Light Venomoth",
+            "number": "53/105",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/LightVenomothNeoDestiny53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-54/105",
+            "name": "Light Wigglytuff",
+            "number": "54/105",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/LightWigglytuffNeoDestiny54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-55/105",
+            "name": "Scyther",
+            "number": "55/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ScytherNeoDestiny55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-56/105",
+            "name": "Togepi",
+            "number": "56/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/TogepiNeoDestiny56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-57/105",
+            "name": "Unown C",
+            "number": "57/105",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/UnownCNeoDestiny57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-58/105",
+            "name": "Unown P",
+            "number": "58/105",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/UnownPNeoDestiny58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-59/105",
+            "name": "Unown Q",
+            "number": "59/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/UnownQNeoDestiny59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-60/105",
+            "name": "Unown Z",
+            "number": "60/105",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/UnownZNeoDestiny60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-61/105",
+            "name": "Cyndaquil",
+            "number": "61/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/CyndaquilNeoDestiny61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-62/105",
+            "name": "Dark Octillery",
+            "number": "62/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/DarkOctilleryNeoDestiny62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-63/105",
+            "name": "Dratini",
+            "number": "63/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/DratiniNeoDestiny63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-64/105",
+            "name": "Exeggcute",
+            "number": "64/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/ExeggcuteNeoDestiny64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-65/105",
+            "name": "Gastly",
+            "number": "65/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/GastlyNeoDestiny65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-66/105",
+            "name": "Girafarig",
+            "number": "66/105",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/GirafarigNeoDestiny66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-67/105",
+            "name": "Gligar",
+            "number": "67/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/GligarNeoDestiny67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-68/105",
+            "name": "Growlithe",
+            "number": "68/105",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/GrowlitheNeoDestiny68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-69/105",
+            "name": "Hitmonchan",
+            "number": "69/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/HitmonchanNeoDestiny69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-70/105",
+            "name": "Larvitar",
+            "number": "70/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/LarvitarNeoDestiny70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-71/105",
+            "name": "Ledyba",
+            "number": "71/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/LedybaNeoDestiny71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-72/105",
+            "name": "Light Sunflora",
+            "number": "72/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/LightSunfloraNeoDestiny72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-73/105",
+            "name": "Machop",
+            "number": "73/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MachopNeoDestiny73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-74/105",
+            "name": "Mantine",
+            "number": "74/105",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/MantineNeoDestiny74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-75/105",
+            "name": "Mareep",
+            "number": "75/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/MareepNeoDestiny75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-76/105",
+            "name": "Phanpy",
+            "number": "76/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PhanpyNeoDestiny76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-77/105",
+            "name": "Pineco",
+            "number": "77/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PinecoNeoDestiny77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-78/105",
+            "name": "Porygon",
+            "number": "78/105",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/PorygonNeoDestiny78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-79/105",
+            "name": "Psyduck",
+            "number": "79/105",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/PsyduckNeoDestiny79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-80/105",
+            "name": "Remoraid",
+            "number": "80/105",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/RemoraidNeoDestiny80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-81/105",
+            "name": "Seel",
+            "number": "81/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SeelNeoDestiny81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-82/105",
+            "name": "Slugma",
+            "number": "82/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/SlugmaNeoDestiny82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-83/105",
+            "name": "Sunkern",
+            "number": "83/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SunkernNeoDestiny83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-84/105",
+            "name": "Swinub",
+            "number": "84/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/SwinubNeoDestiny84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-85/105",
+            "name": "Totodile",
+            "number": "85/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/TotodileNeoDestiny85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-86/105",
+            "name": "Unown L",
+            "number": "86/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/UnownLNeoDestiny86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-87/105",
+            "name": "Unown S",
+            "number": "87/105",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/UnownSNeoDestiny87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-88/105",
+            "name": "Unown T",
+            "number": "88/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/UnownTNeoDestiny88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-89/105",
+            "name": "Unown V",
+            "number": "89/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/UnownVNeoDestiny89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-90/105",
+            "name": "Venonat",
+            "number": "90/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/VenonatNeoDestiny90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-91/105",
+            "name": "Vulpix",
+            "number": "91/105",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/VulpixNeoDestiny91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-92/105",
+            "name": "Palestra di Terra Spaccata",
+            "number": "92/105",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/PalestradiTerraSpaccataNeoDestiny92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-93/105",
+            "name": "Distribuzione di Esperienza",
+            "number": "93/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/DistribuzionediEsperienzaNeoDestiny93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-94/105",
+            "name": "Invenzione del Professor Oak, l'Impostore",
+            "number": "94/105",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/InvenzionedelProfessorOakl%27ImpostoreNeoDestiny94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-95/105",
+            "name": "Torre Radio",
+            "number": "95/105",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/TorreRadioNeoDestiny95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-96/105",
+            "name": "Congegno Onda di Pensiero",
+            "number": "96/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/CongegnoOndadiPensieroNeoDestiny96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-97/105",
+            "name": "Artigli Contrattaccanti",
+            "number": "97/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ArtigliContrattaccantiNeoDestiny97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-98/105",
+            "name": "Amplifica Energia",
+            "number": "98/105",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/AmplificaEnergiaNeoDestiny98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-99/105",
+            "name": "Stadio Energia",
+            "number": "99/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/StadioEnergiaNeoDestiny99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-100/105",
+            "name": "Stadio Fortuna",
+            "number": "100/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/StadioFortunaNeoDestiny100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-101/105",
+            "name": "Ingrandimento",
+            "number": "101/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/IngrandimentoNeoDestiny101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-102/105",
+            "name": "Test di Personalità Pokémon",
+            "number": "102/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/TestdiPersonalit%C3%A0Pok%C3%A9monNeoDestiny102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-103/105",
+            "name": "Azioni diaboliche del Team Rocket",
+            "number": "103/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/AzionidiabolichedelTeamRocketNeoDestiny103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-104/105",
+            "name": "Polvocura",
+            "number": "104/105",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/PolvocuraNeoDestiny104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-105/105",
+            "name": "Posta da Bill",
+            "number": "105/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/PostadaBillNeoDestiny105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N4-106/105",
+            "name": "Shining Celebi",
+            "number": "106/105",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ShiningCelebiNeoDestiny106.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-107/105",
+            "name": "Shining Charizard",
+            "number": "107/105",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/ShiningCharizardNeoDestiny107.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-108/105",
+            "name": "Shining Kabutops",
+            "number": "108/105",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ShiningKabutopsNeoDestiny108.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-109/105",
+            "name": "Shining Mewtwo",
+            "number": "109/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/ShiningMewtwoNeoDestiny109.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-110/105",
+            "name": "Shining Noctowl",
+            "number": "110/105",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/ShiningNoctowlNeoDestiny110.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-111/105",
+            "name": "Shining Raichu",
+            "number": "111/105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/ShiningRaichuNeoDestiny111.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-112/105",
+            "name": "Shining Steelix",
+            "number": "112/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/ShiningSteelixNeoDestiny112.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N4-113/105",
+            "name": "Shining Tyranitar",
+            "number": "113/105",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/ShiningTyranitarNeoDestiny113.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

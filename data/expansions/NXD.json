@@ -1,0 +1,734 @@
+{
+    "expansion": {
+        "id": "NXD",
+        "name": "Nero e Bianco - Destini Futuri",
+				"year": 2012,
+				"month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cd/SimboloSetDestini_Futuri.png",
+        "cardCount": 103
+    },
+    "cards": [
+        {
+            "id": "NXD-1/99",
+            "name": "Pinsir",
+            "number": "1/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/PinsirDestiniFuturi1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-2/99",
+            "name": "Seedot",
+            "number": "2/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SeedotDestiniFuturi2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-3/99",
+            "name": "Kricketot",
+            "number": "3/99",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/KricketotDestiniFuturi3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-4/99",
+            "name": "Kricketune",
+            "number": "4/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/KricketuneDestiniFuturi4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-5/99",
+            "name": "Shaymin-EX",
+            "number": "5/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Shaymin-EXDestiniFuturi5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-6/99",
+            "name": "Pansage",
+            "number": "6/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/PansageDestiniFuturi6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-7/99",
+            "name": "Simisage",
+            "number": "7/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/SimisageDestiniFuturi7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-8/99",
+            "name": "Foongus",
+            "number": "8/99",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/FoongusDestiniFuturi8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-9/99",
+            "name": "Amoonguss",
+            "number": "9/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/AmoongussDestiniFuturi9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-10/99",
+            "name": "Growlithe",
+            "number": "10/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/GrowlitheDestiniFuturi10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-11/99",
+            "name": "Growlithe",
+            "number": "11/99",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/GrowlitheDestiniFuturi11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-12/99",
+            "name": "Arcanine",
+            "number": "12/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ArcanineDestiniFuturi12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-13/99",
+            "name": "Arcanine",
+            "number": "13/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ArcanineDestiniFuturi13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-14/99",
+            "name": "Moltres",
+            "number": "14/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MoltresDestiniFuturi14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-15/99",
+            "name": "Pansear",
+            "number": "15/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/PansearDestiniFuturi15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-16/99",
+            "name": "Simisear",
+            "number": "16/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/SimisearDestiniFuturi16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-17/99",
+            "name": "Darumaka",
+            "number": "17/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/DarumakaDestiniFuturi17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-18/99",
+            "name": "Litwick",
+            "number": "18/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LitwickDestiniFuturi18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-19/99",
+            "name": "Lampent",
+            "number": "19/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/LampentDestiniFuturi19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-20/99",
+            "name": "Chandelure",
+            "number": "20/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/ChandelureDestiniFuturi20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-21/99",
+            "name": "Reshiram",
+            "number": "21/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ReshiramDestiniFuturi21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-22/99",
+            "name": "Reshiram-EX",
+            "number": "22/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Reshiram-EXDestiniFuturi22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-23/99",
+            "name": "Staryu",
+            "number": "23/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/StaryuDestiniFuturi23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-24/99",
+            "name": "Starmie",
+            "number": "24/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/StarmieDestiniFuturi24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-25/99",
+            "name": "Lapras",
+            "number": "25/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/LaprasDestiniFuturi25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-26/99",
+            "name": "Lapras",
+            "number": "26/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/LaprasDestiniFuturi26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-27/99",
+            "name": "Articuno",
+            "number": "27/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ArticunoDestiniFuturi27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-28/99",
+            "name": "Panpour",
+            "number": "28/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/PanpourDestiniFuturi28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-29/99",
+            "name": "Simipour",
+            "number": "29/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SimipourDestiniFuturi29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-30/99",
+            "name": "Basculin",
+            "number": "30/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/BasculinDestiniFuturi30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-31/99",
+            "name": "Vanillite",
+            "number": "31/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/VanilliteDestiniFuturi31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-32/99",
+            "name": "Vanillish",
+            "number": "32/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/VanillishDestiniFuturi32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-33/99",
+            "name": "Vanilluxe",
+            "number": "33/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/VanilluxeDestiniFuturi33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-34/99",
+            "name": "Frillish",
+            "number": "34/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/FrillishDestiniFuturi34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-35/99",
+            "name": "Jellicent",
+            "number": "35/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/JellicentDestiniFuturi35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-36/99",
+            "name": "Cubchoo",
+            "number": "36/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/CubchooDestiniFuturi36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-37/99",
+            "name": "Beartic",
+            "number": "37/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/BearticDestiniFuturi37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-38/99",
+            "name": "Kyurem-EX",
+            "number": "38/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Kyurem-EXDestiniFuturi38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-39/99",
+            "name": "Pikachu",
+            "number": "39/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/PikachuDestiniFuturi39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-40/99",
+            "name": "Raichu",
+            "number": "40/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/RaichuDestiniFuturi40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-41/99",
+            "name": "Zapdos",
+            "number": "41/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/ZapdosDestiniFuturi41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-42/99",
+            "name": "Shinx",
+            "number": "42/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/ShinxDestiniFuturi42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-43/99",
+            "name": "Shinx",
+            "number": "43/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/ShinxDestiniFuturi43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-44/99",
+            "name": "Luxio",
+            "number": "44/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/LuxioDestiniFuturi44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-45/99",
+            "name": "Luxio",
+            "number": "45/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/LuxioDestiniFuturi45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-46/99",
+            "name": "Luxray",
+            "number": "46/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/LuxrayDestiniFuturi46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-47/99",
+            "name": "Blitzle",
+            "number": "47/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/BlitzleDestiniFuturi47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-48/99",
+            "name": "Zebstrika",
+            "number": "48/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ZebstrikaDestiniFuturi48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-49/99",
+            "name": "Emolga",
+            "number": "49/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/EmolgaDestiniFuturi49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-50/99",
+            "name": "Zekrom",
+            "number": "50/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/ZekromDestiniFuturi50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-51/99",
+            "name": "Zekrom-EX",
+            "number": "51/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Zekrom-EXDestiniFuturi51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-52/99",
+            "name": "Grimer",
+            "number": "52/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/GrimerDestiniFuturi52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-53/99",
+            "name": "Muk",
+            "number": "53/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MukDestiniFuturi53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-54/99",
+            "name": "Mewtwo-EX",
+            "number": "54/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Mewtwo-EXDestiniFuturi54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-55/99",
+            "name": "Ralts",
+            "number": "55/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/RaltsDestiniFuturi55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-56/99",
+            "name": "Kirlia",
+            "number": "56/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/KirliaDestiniFuturi56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-57/99",
+            "name": "Gardevoir",
+            "number": "57/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/GardevoirDestiniFuturi57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-58/99",
+            "name": "Munna",
+            "number": "58/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MunnaDestiniFuturi58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-59/99",
+            "name": "Musharna",
+            "number": "59/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MusharnaDestiniFuturi59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-60/99",
+            "name": "Darmanitan",
+            "number": "60/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/DarmanitanDestiniFuturi60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-61/99",
+            "name": "Elgyem",
+            "number": "61/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ElgyemDestiniFuturi61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-62/99",
+            "name": "Beheeyem",
+            "number": "62/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/BeheeyemDestiniFuturi62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-63/99",
+            "name": "Riolu",
+            "number": "63/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/RioluDestiniFuturi63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-64/99",
+            "name": "Lucario",
+            "number": "64/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/LucarioDestiniFuturi64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-65/99",
+            "name": "Hippopotas",
+            "number": "65/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/HippopotasDestiniFuturi65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-66/99",
+            "name": "Hippowdon",
+            "number": "66/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/HippowdonDestiniFuturi66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-67/99",
+            "name": "Mienfoo",
+            "number": "67/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MienfooDestiniFuturi67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-68/99",
+            "name": "Mienshao",
+            "number": "68/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/MienshaoDestiniFuturi68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-69/99",
+            "name": "Sneasel",
+            "number": "69/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SneaselDestiniFuturi69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-70/99",
+            "name": "Weavile",
+            "number": "70/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/WeavileDestiniFuturi70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-71/99",
+            "name": "Nuzleaf",
+            "number": "71/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/NuzleafDestiniFuturi71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-72/99",
+            "name": "Shiftry",
+            "number": "72/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/ShiftryDestiniFuturi72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-73/99",
+            "name": "Scraggy",
+            "number": "73/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ScraggyDestiniFuturi73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-74/99",
+            "name": "Scrafty",
+            "number": "74/99",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ScraftyDestiniFuturi74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-75/99",
+            "name": "Bronzor",
+            "number": "75/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/BronzorDestiniFuturi75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-76/99",
+            "name": "Bronzong",
+            "number": "76/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/BronzongDestiniFuturi76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-77/99",
+            "name": "Ferroseed",
+            "number": "77/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/FerroseedDestiniFuturi77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-78/99",
+            "name": "Jigglypuff",
+            "number": "78/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/JigglypuffDestiniFuturi78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-79/99",
+            "name": "Wigglytuff",
+            "number": "79/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/WigglytuffDestiniFuturi79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-80/99",
+            "name": "Meowth",
+            "number": "80/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/MeowthDestiniFuturi80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-81/99",
+            "name": "Persian",
+            "number": "81/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/PersianDestiniFuturi81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-82/99",
+            "name": "Regigigas-EX",
+            "number": "82/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Regigigas-EXDestiniFuturi82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-83/99",
+            "name": "Pidove",
+            "number": "83/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/PidoveDestiniFuturi83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-84/99",
+            "name": "Minccino",
+            "number": "84/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MinccinoDestiniFuturi84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-85/99",
+            "name": "Cinccino",
+            "number": "85/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/CinccinoDestiniFuturi85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-86/99",
+            "name": "Spighetto",
+            "number": "86/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/SpighettoDestiniFuturi86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-87/99",
+            "name": "Condividi Esperienza",
+            "number": "87/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/CondividiEsperienzaDestiniFuturi87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-88/99",
+            "name": "Peso Ball",
+            "number": "88/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PesoBallDestiniFuturi88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-89/99",
+            "name": "Level Ball",
+            "number": "89/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/LevelBallDestiniFuturi89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-90/99",
+            "name": "Centro Pokémon",
+            "number": "90/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/CentroPok%C3%A9monDestiniFuturi90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-91/99",
+            "name": "Ponte Freccialuce",
+            "number": "91/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/PonteFreccialuceDestiniFuturi91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-92/99",
+            "name": "Energia Incolore doppia",
+            "number": "92/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/EnergiaIncoloredoppiaDestiniFuturi92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-93/99",
+            "name": "Energia Prisma",
+            "number": "93/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/EnergiaPrismaDestiniFuturi93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-94/99",
+            "name": "Shaymin-EX",
+            "number": "94/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Shaymin-EXDestiniFuturi94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-95/99",
+            "name": "Reshiram-EX",
+            "number": "95/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Reshiram-EXDestiniFuturi95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-96/99",
+            "name": "Kyurem-EX",
+            "number": "96/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Kyurem-EXDestiniFuturi96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-97/99",
+            "name": "Zekrom-EX",
+            "number": "97/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Zekrom-EXDestiniFuturi97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-98/99",
+            "name": "Mewtwo-EX",
+            "number": "98/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Mewtwo-EXDestiniFuturi98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-99/99",
+            "name": "Regigigas-EX",
+            "number": "99/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Regigigas-EXDestiniFuturi99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NXD-100/99",
+            "name": "Emboar",
+            "number": "100/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/EmboarDestiniFuturi100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "NXD-101/99",
+            "name": "Chandelure",
+            "number": "101/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/ChandelureDestiniFuturi101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "NXD-102/99",
+            "name": "Zoroark",
+            "number": "102/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ZoroarkDestiniFuturi102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "NXD-103/99",
+            "name": "Hydreigon",
+            "number": "103/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/HydreigonDestiniFuturi103.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

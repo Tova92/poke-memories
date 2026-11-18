@@ -1,0 +1,1742 @@
+{
+    "expansion": {
+        "id": "LOR",
+        "name": "Spada e Scudo - Origine Perduta",
+        "year": 2022,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/8/87/SimboloSetOrigine_Perduta.png",
+        "cardCount": 247
+    },
+    "cards": [
+        {
+            "id": "LOR-001/196",
+            "name": "Oddish",
+            "number": "001/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/OddishOriginePerduta1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-002/196",
+            "name": "Gloom",
+            "number": "002/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/GloomOriginePerduta2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-003/196",
+            "name": "Vileplume",
+            "number": "003/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/VileplumeOriginePerduta3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-004/196",
+            "name": "Paras",
+            "number": "004/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/ParasOriginePerduta4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-005/196",
+            "name": "Parasect",
+            "number": "005/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/ParasectOriginePerduta5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-006/196",
+            "name": "Wurmple",
+            "number": "006/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/WurmpleOriginePerduta6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-007/196",
+            "name": "Silcoon",
+            "number": "007/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SilcoonOriginePerduta7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-008/196",
+            "name": "Beautifly",
+            "number": "008/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/BeautiflyOriginePerduta8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-009/196",
+            "name": "Cascoon",
+            "number": "009/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/CascoonOriginePerduta9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-010/196",
+            "name": "Dustox",
+            "number": "010/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/DustoxOriginePerduta10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-011/196",
+            "name": "Seedot",
+            "number": "011/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/SeedotOriginePerduta11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-012/196",
+            "name": "Nuzleaf",
+            "number": "012/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/NuzleafOriginePerduta12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-013/196",
+            "name": "Shiftry",
+            "number": "013/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/ShiftryOriginePerduta13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-014/196",
+            "name": "Roselia",
+            "number": "014/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/RoseliaOriginePerduta14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-015/196",
+            "name": "Roserade",
+            "number": "015/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/RoseradeOriginePerduta15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-016/196",
+            "name": "Phantump",
+            "number": "016/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PhantumpOriginePerduta16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-017/196",
+            "name": "Trevenant",
+            "number": "017/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/TrevenantOriginePerduta17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-018/196",
+            "name": "Blipbug",
+            "number": "018/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/BlipbugOriginePerduta18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-019/196",
+            "name": "Dottler",
+            "number": "019/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/DottlerOriginePerduta19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-020/196",
+            "name": "Orbeetle",
+            "number": "020/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/OrbeetleOriginePerduta20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-021/196",
+            "name": "Slugma",
+            "number": "021/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SlugmaOriginePerduta21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-022/196",
+            "name": "Magcargo",
+            "number": "022/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/MagcargoOriginePerduta22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-023/196",
+            "name": "Torkoal",
+            "number": "023/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/TorkoalOriginePerduta23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-024/196",
+            "name": "Litwick",
+            "number": "024/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/LitwickOriginePerduta24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-025/196",
+            "name": "Lampent",
+            "number": "025/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/LampentOriginePerduta25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-026/196",
+            "name": "Chandelure",
+            "number": "026/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ChandelureOriginePerduta26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-027/196",
+            "name": "Delphox-V",
+            "number": "027/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Delphox-VOriginePerduta27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-028/196",
+            "name": "Litleo",
+            "number": "028/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/LitleoOriginePerduta28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-029/196",
+            "name": "Pyroar",
+            "number": "029/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/PyroarOriginePerduta29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-030/196",
+            "name": "Poliwag",
+            "number": "030/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/PoliwagOriginePerduta30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-031/196",
+            "name": "Poliwhirl",
+            "number": "031/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/PoliwhirlOriginePerduta31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-032/196",
+            "name": "Politoed",
+            "number": "032/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/PolitoedOriginePerduta32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-033/196",
+            "name": "Seel",
+            "number": "033/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SeelOriginePerduta33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-034/196",
+            "name": "Dewgong",
+            "number": "034/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DewgongOriginePerduta34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-035/196",
+            "name": "Horsea",
+            "number": "035/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/HorseaOriginePerduta35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-036/196",
+            "name": "Seadra",
+            "number": "036/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SeadraOriginePerduta36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-037/196",
+            "name": "Kingdra",
+            "number": "037/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/KingdraOriginePerduta37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-038/196",
+            "name": "Luvdisc",
+            "number": "038/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/LuvdiscOriginePerduta38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-039/196",
+            "name": "Shellos",
+            "number": "039/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/ShellosOriginePerduta39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-040/196",
+            "name": "Finneon",
+            "number": "040/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/FinneonOriginePerduta40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-041/196",
+            "name": "Lumineon",
+            "number": "041/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/LumineonOriginePerduta41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-042/196",
+            "name": "Snover",
+            "number": "042/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/SnoverOriginePerduta42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-043/196",
+            "name": "Abomasnow",
+            "number": "043/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/AbomasnowOriginePerduta43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-044/196",
+            "name": "Basculin di Hisui",
+            "number": "044/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BasculindiHisuiOriginePerduta44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-045/196",
+            "name": "Basculegion di Hisui",
+            "number": "045/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/BasculegiondiHisuiOriginePerduta45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-046/196",
+            "name": "Ducklett",
+            "number": "046/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/DucklettOriginePerduta46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-047/196",
+            "name": "Swanna",
+            "number": "047/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SwannaOriginePerduta47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-048/196",
+            "name": "Kyurem-V",
+            "number": "048/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Kyurem-VOriginePerduta48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-049/196",
+            "name": "Kyurem-VMAX",
+            "number": "049/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Kyurem-VMAXOriginePerduta49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-050/196",
+            "name": "Cramorant",
+            "number": "050/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/CramorantOriginePerduta50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-051/196",
+            "name": "Glastrier",
+            "number": "051/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GlastrierOriginePerduta51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-052/196",
+            "name": "Pikachu",
+            "number": "052/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/PikachuOriginePerduta52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-053/196",
+            "name": "Raichu",
+            "number": "053/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/RaichuOriginePerduta53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-054/196",
+            "name": "Electrike",
+            "number": "054/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/ElectrikeOriginePerduta54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-055/196",
+            "name": "Manectric",
+            "number": "055/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/ManectricOriginePerduta55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-056/196",
+            "name": "Magnezone-V",
+            "number": "056/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Magnezone-VOriginePerduta56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-057/196",
+            "name": "Magnezone-V ASTRO",
+            "number": "057/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/Magnezone-VASTROOriginePerduta57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-058/196",
+            "name": "Rotom-V",
+            "number": "058/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Rotom-VOriginePerduta58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-059/196",
+            "name": "Tynamo",
+            "number": "059/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/TynamoOriginePerduta59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-060/196",
+            "name": "Eelektrik",
+            "number": "060/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/EelektrikOriginePerduta60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-061/196",
+            "name": "Eelektross",
+            "number": "061/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/EelektrossOriginePerduta61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-062/196",
+            "name": "Clefairy",
+            "number": "062/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ClefairyOriginePerduta62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-063/196",
+            "name": "Clefable",
+            "number": "063/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ClefableOriginePerduta63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-064/196",
+            "name": "Gastly",
+            "number": "064/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GastlyOriginePerduta64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-065/196",
+            "name": "Haunter",
+            "number": "065/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/HaunterOriginePerduta65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-066/196",
+            "name": "Gengar",
+            "number": "066/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/GengarOriginePerduta66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-067/196",
+            "name": "Mr. Mime",
+            "number": "067/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MrMimeOriginePerduta67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-068/196",
+            "name": "Jynx",
+            "number": "068/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/JynxOriginePerduta68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-069/196",
+            "name": "Gardevoir Lucente",
+            "number": "069/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/GardevoirLucenteOriginePerduta69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-070/196",
+            "name": "Sableye",
+            "number": "070/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/SableyeOriginePerduta70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-071/196",
+            "name": "Mawile",
+            "number": "071/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MawileOriginePerduta71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-072/196",
+            "name": "Shuppet",
+            "number": "072/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ShuppetOriginePerduta72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-073/196",
+            "name": "Banette",
+            "number": "073/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/BanetteOriginePerduta73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-074/196",
+            "name": "Cresselia",
+            "number": "074/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/CresseliaOriginePerduta74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-075/196",
+            "name": "Zorua di Hisui",
+            "number": "075/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/ZoruadiHisuiOriginePerduta75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-076/196",
+            "name": "Zoroark di Hisui",
+            "number": "076/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/ZoroarkdiHisuiOriginePerduta76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-077/196",
+            "name": "Inkay",
+            "number": "077/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/InkayOriginePerduta77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-078/196",
+            "name": "Malamar",
+            "number": "078/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MalamarOriginePerduta78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-079/196",
+            "name": "Comfey",
+            "number": "079/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ComfeyOriginePerduta79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-080/196",
+            "name": "Mimikyu",
+            "number": "080/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MimikyuOriginePerduta80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-081/196",
+            "name": "Spectrier",
+            "number": "081/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/SpectrierOriginePerduta81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-082/196",
+            "name": "Enamorus-V",
+            "number": "082/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/Enamorus-VOriginePerduta82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-083/196",
+            "name": "Growlithe di Hisui",
+            "number": "083/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/GrowlithediHisuiOriginePerduta83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-084/196",
+            "name": "Arcanine di Hisui",
+            "number": "084/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ArcaninediHisuiOriginePerduta84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-085/196",
+            "name": "Poliwrath",
+            "number": "085/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/PoliwrathOriginePerduta85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-086/196",
+            "name": "Machop",
+            "number": "086/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MachopOriginePerduta86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-087/196",
+            "name": "Machoke",
+            "number": "087/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/MachokeOriginePerduta87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-088/196",
+            "name": "Machamp",
+            "number": "088/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MachampOriginePerduta88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-089/196",
+            "name": "Rhyhorn",
+            "number": "089/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RhyhornOriginePerduta89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-090/196",
+            "name": "Rhydon",
+            "number": "090/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/RhydonOriginePerduta90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-091/196",
+            "name": "Rhyperior",
+            "number": "091/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RhyperiorOriginePerduta91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-092/196",
+            "name": "Aerodactyl-V",
+            "number": "092/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Aerodactyl-VOriginePerduta92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-093/196",
+            "name": "Aerodactyl-V ASTRO",
+            "number": "093/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Aerodactyl-VASTROOriginePerduta93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-094/196",
+            "name": "Sudowoodo",
+            "number": "094/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/SudowoodoOriginePerduta94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-095/196",
+            "name": "Gligar",
+            "number": "095/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/GligarOriginePerduta95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-096/196",
+            "name": "Gliscor",
+            "number": "096/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/GliscorOriginePerduta96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-097/196",
+            "name": "Makuhita",
+            "number": "097/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/MakuhitaOriginePerduta97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-098/196",
+            "name": "Hariyama",
+            "number": "098/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/HariyamaOriginePerduta98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-099/196",
+            "name": "Meditite",
+            "number": "099/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MedititeOriginePerduta99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-100/196",
+            "name": "Medicham",
+            "number": "100/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/MedichamOriginePerduta100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-101/196",
+            "name": "Relicanth",
+            "number": "101/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/RelicanthOriginePerduta101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-102/196",
+            "name": "Gastrodon",
+            "number": "102/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/GastrodonOriginePerduta102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-103/196",
+            "name": "Mienfoo",
+            "number": "103/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MienfooOriginePerduta103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-104/196",
+            "name": "Mienshao",
+            "number": "104/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/MienshaoOriginePerduta104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-105/196",
+            "name": "Landorus",
+            "number": "105/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/LandorusOriginePerduta105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-106/196",
+            "name": "Binacle",
+            "number": "106/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/BinacleOriginePerduta106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-107/196",
+            "name": "Barbaracle",
+            "number": "107/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/BarbaracleOriginePerduta107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-108/196",
+            "name": "Carbink",
+            "number": "108/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/CarbinkOriginePerduta108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-109/196",
+            "name": "Rockruff",
+            "number": "109/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/RockruffOriginePerduta109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-110/196",
+            "name": "Falinks",
+            "number": "110/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/FalinksOriginePerduta110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-111/196",
+            "name": "Stonjourner",
+            "number": "111/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/StonjournerOriginePerduta111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-112/196",
+            "name": "Spinarak",
+            "number": "112/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/SpinarakOriginePerduta112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-113/196",
+            "name": "Ariados",
+            "number": "113/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/AriadosOriginePerduta113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-114/196",
+            "name": "Murkrow",
+            "number": "114/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MurkrowOriginePerduta114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-115/196",
+            "name": "Honchkrow",
+            "number": "115/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/HonchkrowOriginePerduta115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-116/196",
+            "name": "Seviper",
+            "number": "116/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/SeviperOriginePerduta116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-117/196",
+            "name": "Spiritomb",
+            "number": "117/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/SpiritombOriginePerduta117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-118/196",
+            "name": "Drapion-V",
+            "number": "118/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Drapion-VOriginePerduta118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-119/196",
+            "name": "Drapion-V ASTRO",
+            "number": "119/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Drapion-VASTROOriginePerduta119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-120/196",
+            "name": "Darkrai",
+            "number": "120/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/DarkraiOriginePerduta120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-121/196",
+            "name": "Inkay",
+            "number": "121/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/InkayOriginePerduta121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-122/196",
+            "name": "Hoopa",
+            "number": "122/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/HoopaOriginePerduta122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-123/196",
+            "name": "Sneasler di Hisui Lucente",
+            "number": "123/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/SneaslerdiHisuiLucenteOriginePerduta123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-124/196",
+            "name": "Steelix Lucente",
+            "number": "124/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SteelixLucenteOriginePerduta124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-125/196",
+            "name": "Bronzor",
+            "number": "125/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/BronzorOriginePerduta125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-126/196",
+            "name": "Bronzong",
+            "number": "126/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/BronzongOriginePerduta126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-127/196",
+            "name": "Stunfisk di Galar",
+            "number": "127/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/StunfiskdiGalarOriginePerduta127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-128/196",
+            "name": "Magearna",
+            "number": "128/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MagearnaOriginePerduta128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-129/196",
+            "name": "Perrserker di Galar-V",
+            "number": "129/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/PerrserkerdiGalar-VOriginePerduta129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-130/196",
+            "name": "Giratina-V",
+            "number": "130/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Giratina-VOriginePerduta130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-131/196",
+            "name": "Giratina-V ASTRO",
+            "number": "131/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Giratina-VASTROOriginePerduta131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-132/196",
+            "name": "Goomy",
+            "number": "132/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/GoomyOriginePerduta132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-133/196",
+            "name": "Sliggoo di Hisui",
+            "number": "133/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/SliggoodiHisuiOriginePerduta133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-134/196",
+            "name": "Goodra di Hisui",
+            "number": "134/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GoodradiHisuiOriginePerduta134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-135/196",
+            "name": "Goodra di Hisui-V",
+            "number": "135/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/GoodradiHisui-VOriginePerduta135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-136/196",
+            "name": "Goodra di Hisui-V ASTRO",
+            "number": "136/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/GoodradiHisui-VASTROOriginePerduta136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-137/196",
+            "name": "Pidgeot-V",
+            "number": "137/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Pidgeot-VOriginePerduta137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-138/196",
+            "name": "Lickitung",
+            "number": "138/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/LickitungOriginePerduta138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-139/196",
+            "name": "Lickilicky",
+            "number": "139/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/LickilickyOriginePerduta139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-140/196",
+            "name": "Porygon",
+            "number": "140/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PorygonOriginePerduta140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-141/196",
+            "name": "Porygon2",
+            "number": "141/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Porygon2OriginePerduta141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-142/196",
+            "name": "Porygon-Z",
+            "number": "142/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Porygon-ZOriginePerduta142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-143/196",
+            "name": "Snorlax",
+            "number": "143/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SnorlaxOriginePerduta143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-144/196",
+            "name": "Aipom",
+            "number": "144/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/AipomOriginePerduta144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-145/196",
+            "name": "Ambipom",
+            "number": "145/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/AmbipomOriginePerduta145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-146/196",
+            "name": "Zoroark di Hisui-V",
+            "number": "146/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ZoroarkdiHisui-VOriginePerduta146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-147/196",
+            "name": "Zoroark di Hisui-V ASTRO",
+            "number": "147/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ZoroarkdiHisui-VASTROOriginePerduta147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-148/196",
+            "name": "Bouffalant",
+            "number": "148/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/BouffalantOriginePerduta148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-149/196",
+            "name": "Komala",
+            "number": "149/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KomalaOriginePerduta149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-150/196",
+            "name": "Skwovet",
+            "number": "150/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SkwovetOriginePerduta150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-151/196",
+            "name": "Greedent",
+            "number": "151/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/GreedentOriginePerduta151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-152/196",
+            "name": "Arceusphone",
+            "number": "152/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ArceusphoneOriginePerduta152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-153/196",
+            "name": "Maru",
+            "number": "153/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MaruOriginePerduta153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-154/196",
+            "name": "Scatola del Disastro",
+            "number": "154/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ScatoladelDisastroOriginePerduta154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-155/196",
+            "name": "Esperimento di Acromio",
+            "number": "155/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/EsperimentodiAcromioOriginePerduta155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-156/196",
+            "name": "Pompadanni",
+            "number": "156/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/PompadanniOriginePerduta156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-157/196",
+            "name": "Fannie",
+            "number": "157/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/FannieOriginePerduta157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-158/196",
+            "name": "Sinen",
+            "number": "158/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/SinenOriginePerduta158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-159/196",
+            "name": "Lady",
+            "number": "159/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/LadyOriginePerduta159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-160/196",
+            "name": "Acutezza Lacustre",
+            "number": "160/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/AcutezzaLacustreOriginePerduta160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-161/196",
+            "name": "Città Perduta",
+            "number": "161/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/Citt%C3%A0PerdutaOriginePerduta161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-162/196",
+            "name": "Aspiratore Perduto",
+            "number": "162/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/AspiratorePerdutoOriginePerduta162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-163/196",
+            "name": "Portalemiraggio",
+            "number": "163/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PortalemiraggioOriginePerduta163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-164/196",
+            "name": "Sorelle Florido",
+            "number": "164/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SorelleFloridoOriginePerduta164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-165/196",
+            "name": "Maschera di Panico",
+            "number": "165/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MascheradiPanicoOriginePerduta165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-166/196",
+            "name": "Marisio",
+            "number": "166/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MarisioOriginePerduta166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-167/196",
+            "name": "Spino",
+            "number": "167/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/SpinoOriginePerduta167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-168/196",
+            "name": "Cassetta degli Attrezzi",
+            "number": "168/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/CassettadegliAttrezziOriginePerduta168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-169/196",
+            "name": "Ethelo",
+            "number": "169/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/EtheloOriginePerduta169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-170/196",
+            "name": "Braccio Caricato",
+            "number": "170/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BraccioCaricatoOriginePerduta170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-171/196",
+            "name": "Energia Regalo",
+            "number": "171/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/EnergiaRegaloOriginePerduta171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-172/196",
+            "name": "Electrode di Hisui-V",
+            "number": "172/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ElectrodediHisui-VOriginePerduta172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-173/196",
+            "name": "Delphox-V",
+            "number": "173/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Delphox-VOriginePerduta173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-174/196",
+            "name": "Kyurem-V",
+            "number": "174/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Kyurem-VOriginePerduta174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-175/196",
+            "name": "Magnezone-V",
+            "number": "175/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Magnezone-VOriginePerduta175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-176/196",
+            "name": "Rotom-V",
+            "number": "176/196",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Rotom-VOriginePerduta176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-177/196",
+            "name": "Rotom-V",
+            "number": "177/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Rotom-VOriginePerduta177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-178/196",
+            "name": "Enamorus-V",
+            "number": "178/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Enamorus-VOriginePerduta178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-179/196",
+            "name": "Aerodactyl-V",
+            "number": "179/196",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Aerodactyl-VOriginePerduta179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-180/196",
+            "name": "Aerodactyl-V",
+            "number": "180/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/Aerodactyl-VOriginePerduta180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-181/196",
+            "name": "Gallade-V",
+            "number": "181/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Gallade-VOriginePerduta181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-182/196",
+            "name": "Drapion-V",
+            "number": "182/196",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Drapion-VOriginePerduta182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-183/196",
+            "name": "Perrserker di Galar-V",
+            "number": "183/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PerrserkerdiGalar-VOriginePerduta183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-184/196",
+            "name": "Perrserker di Galar-V",
+            "number": "184/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/PerrserkerdiGalar-VOriginePerduta184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-185/196",
+            "name": "Giratina-V",
+            "number": "185/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Giratina-VOriginePerduta185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-186/196",
+            "name": "Giratina-V",
+            "number": "186/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/Giratina-VOriginePerduta186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-187/196",
+            "name": "Goodra di Hisui-V",
+            "number": "187/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/GoodradiHisui-VOriginePerduta187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-188/196",
+            "name": "Pidgeot-V",
+            "number": "188/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Pidgeot-VOriginePerduta188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-189/196",
+            "name": "Maru",
+            "number": "189/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MaruOriginePerduta189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-190/196",
+            "name": "Esperimento di Acromio",
+            "number": "190/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/EsperimentodiAcromioOriginePerduta190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-191/196",
+            "name": "Fannie",
+            "number": "191/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/FannieOriginePerduta191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-192/196",
+            "name": "Sinen",
+            "number": "192/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SinenOriginePerduta192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-193/196",
+            "name": "Lady",
+            "number": "193/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/LadyOriginePerduta193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-194/196",
+            "name": "Sorelle Florido",
+            "number": "194/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/SorelleFloridoOriginePerduta194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-195/196",
+            "name": "Spino",
+            "number": "195/196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/SpinoOriginePerduta195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-196/196",
+            "name": "Ethelo",
+            "number": "196/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/EtheloOriginePerduta196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOR-197/196",
+            "name": "Kyurem-VMAX",
+            "number": "197/196",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Kyurem-VMAXOriginePerduta197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-198/196",
+            "name": "Magnezone-V ASTRO",
+            "number": "198/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Magnezone-VASTROOriginePerduta198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-199/196",
+            "name": "Aerodactyl-V ASTRO",
+            "number": "199/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Aerodactyl-VASTROOriginePerduta199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-200/196",
+            "name": "Drapion-V ASTRO",
+            "number": "200/196",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Drapion-VASTROOriginePerduta200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-201/196",
+            "name": "Giratina-V ASTRO",
+            "number": "201/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Giratina-VASTROOriginePerduta201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-202/196",
+            "name": "Goodra di Hisui-V ASTRO",
+            "number": "202/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/GoodradiHisui-VASTROOriginePerduta202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-203/196",
+            "name": "Zoroark di Hisui-V ASTRO",
+            "number": "203/196",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ZoroarkdiHisui-VASTROOriginePerduta203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-204/196",
+            "name": "Maru",
+            "number": "204/196",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MaruOriginePerduta204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-205/196",
+            "name": "Esperimento di Acromio",
+            "number": "205/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/EsperimentodiAcromioOriginePerduta205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-206/196",
+            "name": "Fannie",
+            "number": "206/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/FannieOriginePerduta206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-207/196",
+            "name": "Sinen",
+            "number": "207/196",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/SinenOriginePerduta207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-208/196",
+            "name": "Lady",
+            "number": "208/196",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/LadyOriginePerduta208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-209/196",
+            "name": "Sorelle Florido",
+            "number": "209/196",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/SorelleFloridoOriginePerduta209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-210/196",
+            "name": "Spino",
+            "number": "210/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/SpinoOriginePerduta210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-211/196",
+            "name": "Ethelo",
+            "number": "211/196",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/EtheloOriginePerduta211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-212/196",
+            "name": "Giratina-V ASTRO",
+            "number": "212/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Giratina-VASTROOriginePerduta212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-213/196",
+            "name": "Zoroark di Hisui-V ASTRO",
+            "number": "213/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/ZoroarkdiHisui-VASTROOriginePerduta213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-214/196",
+            "name": "Scatola del Disastro",
+            "number": "214/196",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ScatoladelDisastroOriginePerduta214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-215/196",
+            "name": "Macerie dello Stadio",
+            "number": "215/196",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MaceriedelloStadioOriginePerduta215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-216/196",
+            "name": "Distintivo Oscuro",
+            "number": "216/196",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/DistintivoOscuroOriginePerduta216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-217/196",
+            "name": "Aspiratore Perduto",
+            "number": "217/196",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/AspiratorePerdutoOriginePerduta217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOR-TG01/TG30",
+            "name": "Parasect",
+            "number": "TG01/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ParasectOriginePerdutaTG1.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG02/TG30",
+            "name": "Roserade",
+            "number": "TG02/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/RoseradeOriginePerdutaTG2.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG03/TG30",
+            "name": "Charizard",
+            "number": "TG03/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CharizardOriginePerdutaTG3.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG04/TG30",
+            "name": "Chandelure",
+            "number": "TG04/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/ChandelureOriginePerdutaTG4.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG05/TG30",
+            "name": "Pikachu",
+            "number": "TG05/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/PikachuOriginePerdutaTG5.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG06/TG30",
+            "name": "Gengar",
+            "number": "TG06/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GengarOriginePerdutaTG6.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG07/TG30",
+            "name": "Banette",
+            "number": "TG07/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BanetteOriginePerdutaTG7.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG08/TG30",
+            "name": "Arcanine di Hisui",
+            "number": "TG08/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/ArcaninediHisuiOriginePerdutaTG8.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG09/TG30",
+            "name": "Spiritomb",
+            "number": "TG09/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/SpiritombOriginePerdutaTG9.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG10/TG30",
+            "name": "Snorlax",
+            "number": "TG10/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/SnorlaxOriginePerdutaTG10.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG11/TG30",
+            "name": "Castform",
+            "number": "TG11/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/CastformOriginePerdutaTG11.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG12/TG30",
+            "name": "Orbeetle-V",
+            "number": "TG12/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Orbeetle-VOriginePerdutaTG12.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG13/TG30",
+            "name": "Orbeetle-VMAX",
+            "number": "TG13/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Orbeetle-VMAXOriginePerdutaTG13.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG14/TG30",
+            "name": "Centiskorch-V",
+            "number": "TG14/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Centiskorch-VOriginePerdutaTG14.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG15/TG30",
+            "name": "Centiskorch-VMAX",
+            "number": "TG15/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Centiskorch-VMAXOriginePerdutaTG15.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG16/TG30",
+            "name": "Pikachu-V",
+            "number": "TG16/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Pikachu-VOriginePerdutaTG16.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG17/TG30",
+            "name": "Pikachu-VMAX",
+            "number": "TG17/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Pikachu-VMAXOriginePerdutaTG17.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG18/TG30",
+            "name": "Enamorus-V",
+            "number": "TG18/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Enamorus-VOriginePerdutaTG18.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG19/TG30",
+            "name": "Gallade-V",
+            "number": "TG19/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Gallade-VOriginePerdutaTG19.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG20/TG30",
+            "name": "Crobat-V",
+            "number": "TG20/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Crobat-VOriginePerdutaTG20.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG21/TG30",
+            "name": "Eternatus-V",
+            "number": "TG21/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Eternatus-VOriginePerdutaTG21.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG22/TG30",
+            "name": "Eternatus-VMAX",
+            "number": "TG22/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Eternatus-VMAXOriginePerdutaTG22.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG23/TG30",
+            "name": "Scoperta dell'Avventuriera",
+            "number": "TG23/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ScopertadellAvventurieraOriginePerdutaTG23.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG24/TG30",
+            "name": "Ordini del Capo",
+            "number": "TG24/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/OrdinidelCapoOriginePerdutaTG24.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG25/TG30",
+            "name": "Cuoco",
+            "number": "TG25/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/CuocoOriginePerdutaTG25.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG26/TG30",
+            "name": "Kabu",
+            "number": "TG26/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/KabuOriginePerdutaTG26.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG27/TG30",
+            "name": "Azzurra",
+            "number": "TG27/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/AzzurraOriginePerdutaTG27.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG28/TG30",
+            "name": "Poppy",
+            "number": "TG28/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/PoppyOriginePerdutaTG28.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG29/TG30",
+            "name": "Pikachu-VMAX",
+            "number": "TG29/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Pikachu-VMAXOriginePerdutaTG29.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "LOR-TG30/TG30",
+            "name": "Mew-VMAX",
+            "number": "TG30/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Mew-VMAXOriginePerdutaTG30.png",
+            "section": "Galleria degli Allenatori"
+        }
+    ]
+}

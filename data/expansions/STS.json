@@ -1,0 +1,825 @@
+{
+    "expansion": {
+        "id": "STS",
+        "name": "XY - Vapori Accesi",
+        "year": 2016,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetVapori_Accesi.png",
+        "cardCount": 116
+    },
+    "cards": [
+        {
+            "id": "STS-1/114",
+            "name": "Tangela",
+            "number": "1/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/TangelaVaporiAccesi1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-2/114",
+            "name": "Tangrowth",
+            "number": "2/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/TangrowthVaporiAccesi2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-3/114",
+            "name": "Hoppip",
+            "number": "3/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/HoppipVaporiAccesi3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-4/114",
+            "name": "Skiploom",
+            "number": "4/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SkiploomVaporiAccesi4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-5/114",
+            "name": "Jumpluff",
+            "number": "5/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/JumpluffVaporiAccesi5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-6/114",
+            "name": "Yanma",
+            "number": "6/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/YanmaVaporiAccesi6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-7/114",
+            "name": "Yanmega",
+            "number": "7/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/YanmegaVaporiAccesi7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-8/114",
+            "name": "Yanmega TURBO",
+            "number": "8/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/YanmegaTURBOVaporiAccesi8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-9/114",
+            "name": "Seedot",
+            "number": "9/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/SeedotVaporiAccesi9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-10/114",
+            "name": "Nuzleaf",
+            "number": "10/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/NuzleafVaporiAccesi10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-11/114",
+            "name": "Shiftry",
+            "number": "11/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ShiftryVaporiAccesi11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-12/114",
+            "name": "Foongus",
+            "number": "12/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/FoongusVaporiAccesi12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-13/114",
+            "name": "Amoonguss",
+            "number": "13/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/AmoongussVaporiAccesi13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-14/114",
+            "name": "Larvesta",
+            "number": "14/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/LarvestaVaporiAccesi14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-15/114",
+            "name": "Volcarona",
+            "number": "15/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/VolcaronaVaporiAccesi15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-16/114",
+            "name": "Ponyta",
+            "number": "16/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/PonytaVaporiAccesi16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-17/114",
+            "name": "Rapidash",
+            "number": "17/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/RapidashVaporiAccesi17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-18/114",
+            "name": "Chimchar",
+            "number": "18/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/ChimcharVaporiAccesi18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-19/114",
+            "name": "Monferno",
+            "number": "19/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/MonfernoVaporiAccesi19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-20/114",
+            "name": "Infernape",
+            "number": "20/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/InfernapeVaporiAccesi20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-21/114",
+            "name": "Talonflame TURBO",
+            "number": "21/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/TalonflameTURBOVaporiAccesi21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-22/114",
+            "name": "Litleo",
+            "number": "22/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/LitleoVaporiAccesi22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-23/114",
+            "name": "Pyroar",
+            "number": "23/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/PyroarVaporiAccesi23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-24/114",
+            "name": "Pyroar TURBO",
+            "number": "24/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/PyroarTURBOVaporiAccesi24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-25/114",
+            "name": "Volcanion",
+            "number": "25/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/VolcanionVaporiAccesi25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-26/114",
+            "name": "Volcanion-EX",
+            "number": "26/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Volcanion-EXVaporiAccesi26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-27/114",
+            "name": "Mantine",
+            "number": "27/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MantineVaporiAccesi27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-28/114",
+            "name": "Shellos",
+            "number": "28/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ShellosVaporiAccesi28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-29/114",
+            "name": "Gastrodon",
+            "number": "29/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/GastrodonVaporiAccesi29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-30/114",
+            "name": "Oshawott",
+            "number": "30/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/OshawottVaporiAccesi30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-31/114",
+            "name": "Dewott",
+            "number": "31/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/DewottVaporiAccesi31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-32/114",
+            "name": "Samurott",
+            "number": "32/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/SamurottVaporiAccesi32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-33/114",
+            "name": "Clauncher",
+            "number": "33/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ClauncherVaporiAccesi33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-34/114",
+            "name": "Clawitzer",
+            "number": "34/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ClawitzerVaporiAccesi34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-35/114",
+            "name": "Clawitzer TURBO",
+            "number": "35/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ClawitzerTURBOVaporiAccesi35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-36/114",
+            "name": "Bergmite",
+            "number": "36/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/BergmiteVaporiAccesi36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-37/114",
+            "name": "Avalugg",
+            "number": "37/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/AvaluggVaporiAccesi37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-38/114",
+            "name": "Mareep",
+            "number": "38/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MareepVaporiAccesi38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-39/114",
+            "name": "Flaaffy",
+            "number": "39/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/FlaaffyVaporiAccesi39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-40/114",
+            "name": "Ampharos",
+            "number": "40/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/AmpharosVaporiAccesi40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-41/114",
+            "name": "Joltik",
+            "number": "41/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/JoltikVaporiAccesi41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-42/114",
+            "name": "Galvantula",
+            "number": "42/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/GalvantulaVaporiAccesi42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-43/114",
+            "name": "Nidoran♂",
+            "number": "43/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/NidoranVaporiAccesi43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-44/114",
+            "name": "Nidorino",
+            "number": "44/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/NidorinoVaporiAccesi44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-45/114",
+            "name": "Nidoking",
+            "number": "45/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/NidokingVaporiAccesi45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-46/114",
+            "name": "Drifloon",
+            "number": "46/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/DrifloonVaporiAccesi46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-47/114",
+            "name": "Drifblim",
+            "number": "47/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/DrifblimVaporiAccesi47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-48/114",
+            "name": "Litwick",
+            "number": "48/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/LitwickVaporiAccesi48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-49/114",
+            "name": "Lampent",
+            "number": "49/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/LampentVaporiAccesi49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-50/114",
+            "name": "Chandelure",
+            "number": "50/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/ChandelureVaporiAccesi50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-51/114",
+            "name": "Hoopa",
+            "number": "51/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/HoopaVaporiAccesi51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-52/114",
+            "name": "Mankey",
+            "number": "52/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/MankeyVaporiAccesi52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-53/114",
+            "name": "Primeape",
+            "number": "53/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/PrimeapeVaporiAccesi53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-54/114",
+            "name": "Nosepass",
+            "number": "54/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/NosepassVaporiAccesi54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-55/114",
+            "name": "Probopass",
+            "number": "55/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ProbopassVaporiAccesi55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-56/114",
+            "name": "Anorith",
+            "number": "56/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/AnorithVaporiAccesi56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-57/114",
+            "name": "Armaldo",
+            "number": "57/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/ArmaldoVaporiAccesi57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-58/114",
+            "name": "Croagunk",
+            "number": "58/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/CroagunkVaporiAccesi58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-59/114",
+            "name": "Toxicroak",
+            "number": "59/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ToxicroakVaporiAccesi59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-60/114",
+            "name": "Sneasel",
+            "number": "60/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/SneaselVaporiAccesi60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-61/114",
+            "name": "Weavile",
+            "number": "61/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/WeavileVaporiAccesi61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-62/114",
+            "name": "Spiritomb",
+            "number": "62/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SpiritombVaporiAccesi62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-63/114",
+            "name": "Pawniard",
+            "number": "63/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/PawniardVaporiAccesi63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-64/114",
+            "name": "Bisharp",
+            "number": "64/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/BisharpVaporiAccesi64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-65/114",
+            "name": "Yveltal",
+            "number": "65/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/YveltalVaporiAccesi65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-66/114",
+            "name": "Yveltal TURBO",
+            "number": "66/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/YveltalTURBOVaporiAccesi66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-67/114",
+            "name": "Steelix-EX",
+            "number": "67/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Steelix-EXVaporiAccesi67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-68/114",
+            "name": "M Steelix-EX",
+            "number": "68/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MSteelix-EXVaporiAccesi68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-69/114",
+            "name": "Shieldon",
+            "number": "69/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/ShieldonVaporiAccesi69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-70/114",
+            "name": "Bastiodon",
+            "number": "70/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/BastiodonVaporiAccesi70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-71/114",
+            "name": "Klink",
+            "number": "71/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/KlinkVaporiAccesi71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-72/114",
+            "name": "Klang",
+            "number": "72/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/KlangVaporiAccesi72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-73/114",
+            "name": "Klinklang",
+            "number": "73/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/KlinklangVaporiAccesi73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-74/114",
+            "name": "Cobalion",
+            "number": "74/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/CobalionVaporiAccesi74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-75/114",
+            "name": "Magearna-EX",
+            "number": "75/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Magearna-EXVaporiAccesi75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-76/114",
+            "name": "Marill",
+            "number": "76/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/MarillVaporiAccesi76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-77/114",
+            "name": "Azumarill",
+            "number": "77/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/AzumarillVaporiAccesi77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-78/114",
+            "name": "Gardevoir-EX",
+            "number": "78/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Gardevoir-EXVaporiAccesi78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-79/114",
+            "name": "M Gardevoir-EX",
+            "number": "79/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/MGardevoir-EXVaporiAccesi79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-80/114",
+            "name": "Klefki",
+            "number": "80/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/KlefkiVaporiAccesi80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-81/114",
+            "name": "Xerneas",
+            "number": "81/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/XerneasVaporiAccesi81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-82/114",
+            "name": "Xerneas TURBO",
+            "number": "82/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/XerneasTURBOVaporiAccesi82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-83/114",
+            "name": "Druddigon",
+            "number": "83/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/DruddigonVaporiAccesi83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-84/114",
+            "name": "Deino",
+            "number": "84/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/DeinoVaporiAccesi84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-85/114",
+            "name": "Zweilous",
+            "number": "85/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ZweilousVaporiAccesi85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-86/114",
+            "name": "Hydreigon",
+            "number": "86/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/HydreigonVaporiAccesi86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-87/114",
+            "name": "Hydreigon TURBO",
+            "number": "87/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/HydreigonTURBOVaporiAccesi87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-88/114",
+            "name": "Meowth",
+            "number": "88/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MeowthVaporiAccesi88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-89/114",
+            "name": "Persian",
+            "number": "89/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PersianVaporiAccesi89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-90/114",
+            "name": "Aipom",
+            "number": "90/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/AipomVaporiAccesi90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-91/114",
+            "name": "Ambipom",
+            "number": "91/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/AmbipomVaporiAccesi91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-92/114",
+            "name": "Rufflet",
+            "number": "92/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/RuffletVaporiAccesi92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-93/114",
+            "name": "Braviary",
+            "number": "93/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/BraviaryVaporiAccesi93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-94/114",
+            "name": "Fletchling",
+            "number": "94/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/FletchlingVaporiAccesi94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-95/114",
+            "name": "Fletchinder",
+            "number": "95/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/FletchinderVaporiAccesi95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-96/114",
+            "name": "Talonflame",
+            "number": "96/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/TalonflameVaporiAccesi96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-97/114",
+            "name": "Hawlucha",
+            "number": "97/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/HawluchaVaporiAccesi97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-98/114",
+            "name": "Fossilscudo di Shieldon",
+            "number": "98/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/FossilscudodiShieldonVaporiAccesi98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-99/114",
+            "name": "Pokébignè Incantato",
+            "number": "99/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Pok%C3%A9bign%C3%A8IncantatoVaporiAccesi99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-100/114",
+            "name": "Fossilunghia di Anorith",
+            "number": "100/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/FossilunghiadiAnorithVaporiAccesi100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-101/114",
+            "name": "Legame Mentale con Gardevoir",
+            "number": "101/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/LegameMentaleconGardevoirVaporiAccesi101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-102/114",
+            "name": "Dado Ingordo",
+            "number": "102/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/DadoIngordoVaporiAccesi102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-103/114",
+            "name": "Ninja Boy",
+            "number": "103/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/NinjaBoyVaporiAccesi103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-104/114",
+            "name": "Pokémon Ranger",
+            "number": "104/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Pok%C3%A9monRangerVaporiAccesi104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-105/114",
+            "name": "Carica Speciale",
+            "number": "105/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/CaricaSpecialeVaporiAccesi105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-106/114",
+            "name": "Legame Mentale con Steelix",
+            "number": "106/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LegameMentaleconSteelixVaporiAccesi106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-107/114",
+            "name": "Volcanion-EX",
+            "number": "107/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Volcanion-EXVaporiAccesi107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-108/114",
+            "name": "Steelix-EX",
+            "number": "108/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Steelix-EXVaporiAccesi108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-109/114",
+            "name": "M Steelix-EX",
+            "number": "109/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MSteelix-EXVaporiAccesi109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-110/114",
+            "name": "Magearna-EX",
+            "number": "110/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Magearna-EXVaporiAccesi110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-111/114",
+            "name": "Gardevoir-EX",
+            "number": "111/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/Gardevoir-EXVaporiAccesi111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-112/114",
+            "name": "M Gardevoir-EX",
+            "number": "112/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MGardevoir-EXVaporiAccesi112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-113/114",
+            "name": "Pokémon Ranger",
+            "number": "113/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Pok%C3%A9monRangerVaporiAccesi113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-114/114",
+            "name": "Professor Platan",
+            "number": "114/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/ProfessorPlatanVaporiAccesi114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "STS-115/114",
+            "name": "Volcanion-EX",
+            "number": "115/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/Volcanion-EXVaporiAccesi115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "STS-116/114",
+            "name": "Gardevoir-EX",
+            "number": "116/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Gardevoir-EXVaporiAccesi116.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

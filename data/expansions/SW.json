@@ -1,0 +1,937 @@
+{
+    "expansion": {
+        "id": "SW",
+        "name": "Diamante & Perla - Prodigi Segreti",
+				"year": 2007,
+				"month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetProdigi_Segreti.png",
+        "cardCount": 132
+    },
+    "cards": [
+        {
+            "id": "SW-1/132",
+            "name": "Ampharos",
+            "number": "1/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/AmpharosProdigiSegreti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-2/132",
+            "name": "Blastoise",
+            "number": "2/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/BlastoiseProdigiSegreti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-3/132",
+            "name": "Charizard",
+            "number": "3/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/CharizardProdigiSegreti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-4/132",
+            "name": "Entei",
+            "number": "4/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnteiProdigiSegreti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-5/132",
+            "name": "Flygon",
+            "number": "5/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/FlygonProdigiSegreti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-6/132",
+            "name": "Gallade",
+            "number": "6/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/GalladeProdigiSegreti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-7/132",
+            "name": "Gardevoir",
+            "number": "7/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/GardevoirProdigiSegreti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-8/132",
+            "name": "Gastrodon Mare Est",
+            "number": "8/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/GastrodonProdigiSegreti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-9/132",
+            "name": "Gastrodon Mare Ovest",
+            "number": "9/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/GastrodonProdigiSegreti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-10/132",
+            "name": "Ho-Oh",
+            "number": "10/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Ho-OhProdigiSegreti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-11/132",
+            "name": "Jumpluff",
+            "number": "11/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/JumpluffProdigiSegreti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-12/132",
+            "name": "Lickilicky",
+            "number": "12/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/LickilickyProdigiSegreti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-13/132",
+            "name": "Ludicolo",
+            "number": "13/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/LudicoloProdigiSegreti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-14/132",
+            "name": "Lugia",
+            "number": "14/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/LugiaProdigiSegreti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-15/132",
+            "name": "Mew",
+            "number": "15/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MewProdigiSegreti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-16/132",
+            "name": "Raikou",
+            "number": "16/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/RaikouProdigiSegreti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-17/132",
+            "name": "Roserade",
+            "number": "17/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/RoseradeProdigiSegreti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-18/132",
+            "name": "Salamence",
+            "number": "18/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SalamenceProdigiSegreti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-19/132",
+            "name": "Suicune",
+            "number": "19/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/SuicuneProdigiSegreti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-20/132",
+            "name": "Venusaur",
+            "number": "20/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/VenusaurProdigiSegreti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-21/132",
+            "name": "Absol",
+            "number": "21/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/AbsolProdigiSegreti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-22/132",
+            "name": "Arcanine",
+            "number": "22/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ArcanineProdigiSegreti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-23/132",
+            "name": "Banette",
+            "number": "23/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/BanetteProdigiSegreti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-24/132",
+            "name": "Dugtrio",
+            "number": "24/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/DugtrioProdigiSegreti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-25/132",
+            "name": "Electivire",
+            "number": "25/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ElectivireProdigiSegreti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-26/132",
+            "name": "Electrode",
+            "number": "26/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ElectrodeProdigiSegreti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-27/132",
+            "name": "Furret",
+            "number": "27/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/FurretProdigiSegreti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-28/132",
+            "name": "Golduck",
+            "number": "28/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/GolduckProdigiSegreti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-29/132",
+            "name": "Golem",
+            "number": "29/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/GolemProdigiSegreti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-30/132",
+            "name": "Jynx",
+            "number": "30/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/JynxProdigiSegreti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-31/132",
+            "name": "Magmortar",
+            "number": "31/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MagmortarProdigiSegreti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-32/132",
+            "name": "Minun",
+            "number": "32/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/MinunProdigiSegreti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-33/132",
+            "name": "Mothim",
+            "number": "33/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MothimProdigiSegreti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-34/132",
+            "name": "Nidoking",
+            "number": "34/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/NidokingProdigiSegreti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-35/132",
+            "name": "Pidgeot",
+            "number": "35/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/PidgeotProdigiSegreti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-36/132",
+            "name": "Plusle",
+            "number": "36/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PlusleProdigiSegreti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-37/132",
+            "name": "Sharpedo",
+            "number": "37/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/SharpedoProdigiSegreti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-38/132",
+            "name": "Sunflora",
+            "number": "38/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/SunfloraProdigiSegreti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-39/132",
+            "name": "Unown S",
+            "number": "39/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/UnownSProdigiSegreti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-40/132",
+            "name": "Weavile",
+            "number": "40/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/WeavileProdigiSegreti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-41/132",
+            "name": "Wormadam Manto Pianta",
+            "number": "41/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/WormadamProdigiSegreti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-42/132",
+            "name": "Wormadam Manto Sabbia",
+            "number": "42/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/WormadamProdigiSegreti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-43/132",
+            "name": "Wormadam Manto Scarti",
+            "number": "43/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/WormadamProdigiSegreti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-44/132",
+            "name": "Xatu",
+            "number": "44/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/XatuProdigiSegreti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-45/132",
+            "name": "Breloom",
+            "number": "45/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/BreloomProdigiSegreti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-46/132",
+            "name": "Charmeleon",
+            "number": "46/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/CharmeleonProdigiSegreti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-47/132",
+            "name": "Cloyster",
+            "number": "47/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/CloysterProdigiSegreti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-48/132",
+            "name": "Donphan",
+            "number": "48/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/DonphanProdigiSegreti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-49/132",
+            "name": "Farfetch'd",
+            "number": "49/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Farfetch%27dProdigiSegreti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-50/132",
+            "name": "Flaaffy",
+            "number": "50/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/FlaaffyProdigiSegreti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-51/132",
+            "name": "Ivysaur",
+            "number": "51/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/IvysaurProdigiSegreti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-52/132",
+            "name": "Kecleon",
+            "number": "52/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/KecleonProdigiSegreti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-53/132",
+            "name": "Kirlia",
+            "number": "53/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/KirliaProdigiSegreti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-54/132",
+            "name": "Lombre",
+            "number": "54/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/LombreProdigiSegreti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-55/132",
+            "name": "Miltank",
+            "number": "55/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/MiltankProdigiSegreti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-56/132",
+            "name": "Muk",
+            "number": "56/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MukProdigiSegreti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-57/132",
+            "name": "Nidorino",
+            "number": "57/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/NidorinoProdigiSegreti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-58/132",
+            "name": "Pidgeotto",
+            "number": "58/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/PidgeottoProdigiSegreti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-59/132",
+            "name": "Pinsir",
+            "number": "59/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/PinsirProdigiSegreti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-60/132",
+            "name": "Quagsire",
+            "number": "60/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/QuagsireProdigiSegreti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-61/132",
+            "name": "Raticate",
+            "number": "61/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/RaticateProdigiSegreti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-62/132",
+            "name": "Roselia",
+            "number": "62/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/RoseliaProdigiSegreti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-63/132",
+            "name": "Sableye",
+            "number": "63/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SableyeProdigiSegreti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-64/132",
+            "name": "Shelgon",
+            "number": "64/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/ShelgonProdigiSegreti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-65/132",
+            "name": "Skiploom",
+            "number": "65/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/SkiploomProdigiSegreti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-66/132",
+            "name": "Smeargle",
+            "number": "66/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/SmeargleProdigiSegreti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-67/132",
+            "name": "Smoochum",
+            "number": "67/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/SmoochumProdigiSegreti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-68/132",
+            "name": "Unown K",
+            "number": "68/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/UnownKProdigiSegreti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-69/132",
+            "name": "Unown N",
+            "number": "69/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/UnownNProdigiSegreti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-70/132",
+            "name": "Unown O",
+            "number": "70/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/UnownOProdigiSegreti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-71/132",
+            "name": "Unown X",
+            "number": "71/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/UnownXProdigiSegreti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-72/132",
+            "name": "Unown Z",
+            "number": "72/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/UnownZProdigiSegreti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-73/132",
+            "name": "Venomoth",
+            "number": "73/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/VenomothProdigiSegreti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-74/132",
+            "name": "Vibrava",
+            "number": "74/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/VibravaProdigiSegreti74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-75/132",
+            "name": "Wartortle",
+            "number": "75/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/WartortleProdigiSegreti75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-76/132",
+            "name": "Bagon",
+            "number": "76/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/BagonProdigiSegreti76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-77/132",
+            "name": "Bulbasaur",
+            "number": "77/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/BulbasaurProdigiSegreti77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-78/132",
+            "name": "Burmy Manto Pianta",
+            "number": "78/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/BurmyProdigiSegreti78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-79/132",
+            "name": "Burmy Manto Sabbia",
+            "number": "79/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/BurmyProdigiSegreti79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-80/132",
+            "name": "Burmy Manto Scarti",
+            "number": "80/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/BurmyProdigiSegreti80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-81/132",
+            "name": "Carvanha",
+            "number": "81/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/CarvanhaProdigiSegreti81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-82/132",
+            "name": "Charmander",
+            "number": "82/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/CharmanderProdigiSegreti82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-83/132",
+            "name": "Clefairy",
+            "number": "83/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ClefairyProdigiSegreti83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-84/132",
+            "name": "Corsola",
+            "number": "84/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/CorsolaProdigiSegreti84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-85/132",
+            "name": "Diglett",
+            "number": "85/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/DiglettProdigiSegreti85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-86/132",
+            "name": "Duskull",
+            "number": "86/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/DuskullProdigiSegreti86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-87/132",
+            "name": "Electabuzz",
+            "number": "87/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/ElectabuzzProdigiSegreti87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-88/132",
+            "name": "Grimer",
+            "number": "88/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/GrimerProdigiSegreti88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-89/132",
+            "name": "Growlithe",
+            "number": "89/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GrowlitheProdigiSegreti89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-90/132",
+            "name": "Hoppip",
+            "number": "90/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/HoppipProdigiSegreti90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-91/132",
+            "name": "Lickitung",
+            "number": "91/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/LickitungProdigiSegreti91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-92/132",
+            "name": "Lotad",
+            "number": "92/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LotadProdigiSegreti92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-93/132",
+            "name": "Magmar",
+            "number": "93/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MagmarProdigiSegreti93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-94/132",
+            "name": "Mareep",
+            "number": "94/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/MareepProdigiSegreti94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-95/132",
+            "name": "Murkrow",
+            "number": "95/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/MurkrowProdigiSegreti95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-96/132",
+            "name": "Natu",
+            "number": "96/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/NatuProdigiSegreti96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-97/132",
+            "name": "Nidoran♂",
+            "number": "97/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/NidoranProdigiSegreti97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-98/132",
+            "name": "Phanpy",
+            "number": "98/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/PhanpyProdigiSegreti98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-99/132",
+            "name": "Pidgey",
+            "number": "99/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/PidgeyProdigiSegreti99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-100/132",
+            "name": "Psyduck",
+            "number": "100/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/PsyduckProdigiSegreti100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-101/132",
+            "name": "Qwilfish",
+            "number": "101/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/QwilfishProdigiSegreti101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-102/132",
+            "name": "Ralts",
+            "number": "102/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/RaltsProdigiSegreti102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-103/132",
+            "name": "Rattata",
+            "number": "103/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/RattataProdigiSegreti103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-104/132",
+            "name": "Sentret",
+            "number": "104/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/SentretProdigiSegreti104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-105/132",
+            "name": "Shellder",
+            "number": "105/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ShellderProdigiSegreti105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-106/132",
+            "name": "Shellos Mare Est",
+            "number": "106/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ShellosProdigiSegreti106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-107/132",
+            "name": "Shellos Mare Ovest",
+            "number": "107/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ShellosProdigiSegreti107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-108/132",
+            "name": "Shroomish",
+            "number": "108/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/ShroomishProdigiSegreti108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-109/132",
+            "name": "Shuckle",
+            "number": "109/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ShuckleProdigiSegreti109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-110/132",
+            "name": "Shuppet",
+            "number": "110/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ShuppetProdigiSegreti110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-111/132",
+            "name": "Spinda",
+            "number": "111/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/SpindaProdigiSegreti111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-112/132",
+            "name": "Squirtle",
+            "number": "112/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SquirtleProdigiSegreti112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-113/132",
+            "name": "Stantler",
+            "number": "113/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/StantlerProdigiSegreti113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-114/132",
+            "name": "Sunkern",
+            "number": "114/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/SunkernProdigiSegreti114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-115/132",
+            "name": "Trapinch",
+            "number": "115/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/TrapinchProdigiSegreti115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-116/132",
+            "name": "Venonat",
+            "number": "116/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/VenonatProdigiSegreti116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-117/132",
+            "name": "Voltorb",
+            "number": "117/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/VoltorbProdigiSegreti117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-118/132",
+            "name": "Wooper",
+            "number": "118/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/WooperProdigiSegreti118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-119/132",
+            "name": "Ricerca di Bebe",
+            "number": "119/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/RicercadiBebeProdigiSegreti119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-120/132",
+            "name": "Manutenzione Notturna",
+            "number": "120/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ManutenzioneNotturnaProdigiSegreti120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-121/132",
+            "name": "PlusPotenza",
+            "number": "121/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/PlusPotenzaProdigiSegreti121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-122/132",
+            "name": "Visita del Professor Oak",
+            "number": "122/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/VisitadelProfessorOakProdigiSegreti122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-123/132",
+            "name": "Professor Rowan",
+            "number": "123/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/ProfessorRowanProdigiSegreti123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-124/132",
+            "name": "Rivale",
+            "number": "124/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/RivaleProdigiSegreti124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-125/132",
+            "name": "Ricerca di Rosabella",
+            "number": "125/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/RicercadiRosabellaProdigiSegreti125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-126/132",
+            "name": "Martes del Team Galassia",
+            "number": "126/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MartesdelTeamGalassiaProdigiSegreti126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-127/132",
+            "name": "Pozione Magica",
+            "number": "127/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/PozioneMagicaProdigiSegreti127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-128/132",
+            "name": "Scambio",
+            "number": "128/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ScambioProdigiSegreti128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-129/132",
+            "name": "Energia Oscurità",
+            "number": "129/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/EnergiaOscurit%C3%A0ProdigiSegreti129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-130/132",
+            "name": "Energia Metallo",
+            "number": "130/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/EnergiaMetalloProdigiSegreti130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-131/132",
+            "name": "Gardevoir LIV.X",
+            "number": "131/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/GardevoirLIVXProdigiSegreti131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SW-132/132",
+            "name": "Honchkrow LIV.X",
+            "number": "132/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/HonchkrowLIVXProdigiSegreti132.png",
+            "section": "Set principale"
+        }
+    ]
+}

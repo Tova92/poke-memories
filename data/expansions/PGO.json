@@ -1,0 +1,629 @@
+{
+    "expansion": {
+        "id": "PGO",
+        "name": "Pokémon GO",
+        "year": 2022,
+        "month": 7,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetPok%C3%A9mon_GO.png",
+        "cardCount": 88
+    },
+    "cards": [
+        {
+            "id": "PGO-001/078",
+            "name": "Bulbasaur",
+            "number": "001/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/BulbasaurPok%C3%A9monGO1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-002/078",
+            "name": "Ivysaur",
+            "number": "002/078",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/IvysaurPok%C3%A9monGO2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-003/078",
+            "name": "Venusaur",
+            "number": "003/078",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/VenusaurPok%C3%A9monGO3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-004/078",
+            "name": "Venusaur Lucente",
+            "number": "004/078",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/VenusaurLucentePok%C3%A9monGO4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-005/078",
+            "name": "Exeggutor di Alola-V",
+            "number": "005/078",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/ExeggutordiAlola-VPok%C3%A9monGO5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-006/078",
+            "name": "Spinarak",
+            "number": "006/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SpinarakPok%C3%A9monGO6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-007/078",
+            "name": "Ariados",
+            "number": "007/078",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/AriadosPok%C3%A9monGO7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-008/078",
+            "name": "Charmander",
+            "number": "008/078",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/CharmanderPok%C3%A9monGO8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-009/078",
+            "name": "Charmeleon",
+            "number": "009/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/CharmeleonPok%C3%A9monGO9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-010/078",
+            "name": "Charizard",
+            "number": "010/078",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/CharizardPok%C3%A9monGO10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-011/078",
+            "name": "Charizard Lucente",
+            "number": "011/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/CharizardLucentePok%C3%A9monGO11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-012/078",
+            "name": "Moltres",
+            "number": "012/078",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MoltresPok%C3%A9monGO12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-013/078",
+            "name": "Numel",
+            "number": "013/078",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/NumelPok%C3%A9monGO13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-014/078",
+            "name": "Camerupt",
+            "number": "014/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/CameruptPok%C3%A9monGO14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-015/078",
+            "name": "Squirtle",
+            "number": "015/078",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/SquirtlePok%C3%A9monGO15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-016/078",
+            "name": "Wartortle",
+            "number": "016/078",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/WartortlePok%C3%A9monGO16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-017/078",
+            "name": "Blastoise",
+            "number": "017/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/BlastoisePok%C3%A9monGO17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-018/078",
+            "name": "Blastoise Lucente",
+            "number": "018/078",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BlastoiseLucentePok%C3%A9monGO18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-019/078",
+            "name": "Slowpoke",
+            "number": "019/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/SlowpokePok%C3%A9monGO19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-020/078",
+            "name": "Slowbro",
+            "number": "020/078",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/SlowbroPok%C3%A9monGO20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-021/078",
+            "name": "Magikarp",
+            "number": "021/078",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/MagikarpPok%C3%A9monGO21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-022/078",
+            "name": "Gyarados",
+            "number": "022/078",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/GyaradosPok%C3%A9monGO22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-023/078",
+            "name": "Lapras",
+            "number": "023/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/LaprasPok%C3%A9monGO23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-024/078",
+            "name": "Articuno",
+            "number": "024/078",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/ArticunoPok%C3%A9monGO24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-025/078",
+            "name": "Wimpod",
+            "number": "025/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/WimpodPok%C3%A9monGO25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-026/078",
+            "name": "Golisopod",
+            "number": "026/078",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/GolisopodPok%C3%A9monGO26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-027/078",
+            "name": "Pikachu",
+            "number": "027/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/PikachuPok%C3%A9monGO27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-028/078",
+            "name": "Pikachu",
+            "number": "028/078",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PikachuPok%C3%A9monGO28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-029/078",
+            "name": "Zapdos",
+            "number": "029/078",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/ZapdosPok%C3%A9monGO29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-030/078",
+            "name": "Mewtwo-V",
+            "number": "030/078",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Mewtwo-VPok%C3%A9monGO30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-031/078",
+            "name": "Mewtwo-V ASTRO",
+            "number": "031/078",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Mewtwo-VASTROPok%C3%A9monGO31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-032/078",
+            "name": "Natu",
+            "number": "032/078",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/NatuPok%C3%A9monGO32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-033/078",
+            "name": "Xatu",
+            "number": "033/078",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/XatuPok%C3%A9monGO33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-034/078",
+            "name": "Lunatone",
+            "number": "034/078",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/LunatonePok%C3%A9monGO34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-035/078",
+            "name": "Sylveon",
+            "number": "035/078",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/SylveonPok%C3%A9monGO35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-036/078",
+            "name": "Onix",
+            "number": "036/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/OnixPok%C3%A9monGO36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-037/078",
+            "name": "Larvitar",
+            "number": "037/078",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/LarvitarPok%C3%A9monGO37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-038/078",
+            "name": "Pupitar",
+            "number": "038/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/PupitarPok%C3%A9monGO38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-039/078",
+            "name": "Solrock",
+            "number": "039/078",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SolrockPok%C3%A9monGO39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-040/078",
+            "name": "Conkeldurr-V",
+            "number": "040/078",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/Conkeldurr-VPok%C3%A9monGO40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-041/078",
+            "name": "Rattata di Alola",
+            "number": "041/078",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RattatadiAlolaPok%C3%A9monGO41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-042/078",
+            "name": "Raticate di Alola",
+            "number": "042/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/RaticatediAlolaPok%C3%A9monGO42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-043/078",
+            "name": "Tyranitar",
+            "number": "043/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/TyranitarPok%C3%A9monGO43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-044/078",
+            "name": "Steelix",
+            "number": "044/078",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SteelixPok%C3%A9monGO44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-045/078",
+            "name": "Meltan",
+            "number": "045/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MeltanPok%C3%A9monGO45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-046/078",
+            "name": "Melmetal",
+            "number": "046/078",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/MelmetalPok%C3%A9monGO46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-047/078",
+            "name": "Melmetal-V",
+            "number": "047/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/Melmetal-VPok%C3%A9monGO47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-048/078",
+            "name": "Melmetal-VMAX",
+            "number": "048/078",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Melmetal-VMAXPok%C3%A9monGO48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-049/078",
+            "name": "Dragonite-V",
+            "number": "049/078",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Dragonite-VPok%C3%A9monGO49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-050/078",
+            "name": "Dragonite-V ASTRO",
+            "number": "050/078",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Dragonite-VASTROPok%C3%A9monGO50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-051/078",
+            "name": "Chansey",
+            "number": "051/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/ChanseyPok%C3%A9monGO51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-052/078",
+            "name": "Blissey",
+            "number": "052/078",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/BlisseyPok%C3%A9monGO52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-053/078",
+            "name": "Ditto",
+            "number": "053/078",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/DittoPok%C3%A9monGO53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-054/078",
+            "name": "Eevee",
+            "number": "054/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/EeveePok%C3%A9monGO54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-055/078",
+            "name": "Snorlax",
+            "number": "055/078",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SnorlaxPok%C3%A9monGO55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-056/078",
+            "name": "Aipom",
+            "number": "056/078",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/AipomPok%C3%A9monGO56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-057/078",
+            "name": "Ambipom",
+            "number": "057/078",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/AmbipomPok%C3%A9monGO57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-058/078",
+            "name": "Slaking-V",
+            "number": "058/078",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Slaking-VPok%C3%A9monGO58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-059/078",
+            "name": "Bidoof",
+            "number": "059/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/BidoofPok%C3%A9monGO59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-060/078",
+            "name": "Bibarel",
+            "number": "060/078",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/BibarelPok%C3%A9monGO60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-061/078",
+            "name": "Pidove",
+            "number": "061/078",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/PidovePok%C3%A9monGO61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-062/078",
+            "name": "Tranquill",
+            "number": "062/078",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/TranquillPok%C3%A9monGO62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-063/078",
+            "name": "Unfezant",
+            "number": "063/078",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/UnfezantPok%C3%A9monGO63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-064/078",
+            "name": "Blanche",
+            "number": "064/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/BlanchePok%C3%A9monGO64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-065/078",
+            "name": "Candela",
+            "number": "065/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CandelaPok%C3%A9monGO65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-066/078",
+            "name": "Incubatrice Uova",
+            "number": "066/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/IncubatriceUovaPok%C3%A9monGO66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-067/078",
+            "name": "Modulo Esca",
+            "number": "067/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/ModuloEscaPok%C3%A9monGO67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-068/078",
+            "name": "Pokéstop",
+            "number": "068/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Pok%C3%A9stopPok%C3%A9monGO68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-069/078",
+            "name": "Caramella Rara",
+            "number": "069/078",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/CaramellaRaraPok%C3%A9monGO69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-070/078",
+            "name": "Spark",
+            "number": "070/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SparkPok%C3%A9monGO70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-071/078",
+            "name": "Exeggutor di Alola-V",
+            "number": "071/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/ExeggutordiAlola-VPok%C3%A9monGO71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-072/078",
+            "name": "Mewtwo-V",
+            "number": "072/078",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Mewtwo-VPok%C3%A9monGO72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-073/078",
+            "name": "Conkeldurr-V",
+            "number": "073/078",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Conkeldurr-VPok%C3%A9monGO73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-074/078",
+            "name": "Conkeldurr-V",
+            "number": "074/078",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Conkeldurr-VPok%C3%A9monGO74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-075/078",
+            "name": "Melmetal-V",
+            "number": "075/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Melmetal-VPok%C3%A9monGO75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-076/078",
+            "name": "Dragonite-V",
+            "number": "076/078",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Dragonite-VPok%C3%A9monGO76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-077/078",
+            "name": "Slaking-V",
+            "number": "077/078",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Slaking-VPok%C3%A9monGO77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-078/078",
+            "name": "Ricerca Accademica [Professor Willow]",
+            "number": "078/078",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/RicercaAccademicaPok%C3%A9monGO78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PGO-079/078",
+            "name": "Mewtwo-V ASTRO",
+            "number": "079/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Mewtwo-VASTROPok%C3%A9monGO79.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-080/078",
+            "name": "Melmetal-VMAX",
+            "number": "080/078",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Melmetal-VMAXPok%C3%A9monGO80.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-081/078",
+            "name": "Dragonite-V ASTRO",
+            "number": "081/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Dragonite-VASTROPok%C3%A9monGO81.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-082/078",
+            "name": "Blanche",
+            "number": "082/078",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/BlanchePok%C3%A9monGO82.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-083/078",
+            "name": "Candela",
+            "number": "083/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/CandelaPok%C3%A9monGO83.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-084/078",
+            "name": "Ricerca Accademica [Professor Willow]",
+            "number": "084/078",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/RicercaAccademicaPok%C3%A9monGO84.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-085/078",
+            "name": "Spark",
+            "number": "085/078",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/SparkPok%C3%A9monGO85.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-086/078",
+            "name": "Mewtwo-V ASTRO",
+            "number": "086/078",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Mewtwo-VASTROPok%C3%A9monGO86.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-087/078",
+            "name": "Incubatrice Uova",
+            "number": "087/078",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/IncubatriceUovaPok%C3%A9monGO87.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PGO-088/078",
+            "name": "Modulo Esca",
+            "number": "088/078",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ModuloEscaPok%C3%A9monGO88.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

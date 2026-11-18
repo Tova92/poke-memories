@@ -1,0 +1,538 @@
+{
+    "expansion": {
+        "id": "N2",
+        "name": "Neo Discovery",
+				"year": 2001,
+				"month": 6,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/e/e4/SimboloSetNeo_Discovery.svg",
+        "cardCount": 75
+    },
+    "cards": [
+        {
+            "id": "N2-1/75",
+            "name": "Espeon",
+            "number": "1/75",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/EspeonNeoDiscovery1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-2/75",
+            "name": "Forretress",
+            "number": "2/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ForretressNeoDiscovery2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-3/75",
+            "name": "Hitmontop",
+            "number": "3/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/HitmontopNeoDiscovery3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-4/75",
+            "name": "Houndoom",
+            "number": "4/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/HoundoomNeoDiscovery4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-5/75",
+            "name": "Houndour",
+            "number": "5/75",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundourNeoDiscovery5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-6/75",
+            "name": "Kabutops",
+            "number": "6/75",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/KabutopsNeoDiscovery6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-7/75",
+            "name": "Magnemite",
+            "number": "7/75",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/MagnemiteNeoDiscovery7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-8/75",
+            "name": "Politoed",
+            "number": "8/75",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PolitoedNeoDiscovery8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-9/75",
+            "name": "Poliwrath",
+            "number": "9/75",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/PoliwrathNeoDiscovery9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-10/75",
+            "name": "Scizor",
+            "number": "10/75",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ScizorNeoDiscovery10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-11/75",
+            "name": "Smeargle",
+            "number": "11/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/SmeargleNeoDiscovery11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-12/75",
+            "name": "Tyranitar",
+            "number": "12/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/TyranitarNeoDiscovery12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-13/75",
+            "name": "Umbreon",
+            "number": "13/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/UmbreonNeoDiscovery13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-14/75",
+            "name": "Unown A",
+            "number": "14/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/UnownANeoDiscovery14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-15/75",
+            "name": "Ursaring",
+            "number": "15/75",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/UrsaringNeoDiscovery15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-16/75",
+            "name": "Wobbuffet",
+            "number": "16/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/WobbuffetNeoDiscovery16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-17/75",
+            "name": "Yanma",
+            "number": "17/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/YanmaNeoDiscovery17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-18/75",
+            "name": "Beedrill",
+            "number": "18/75",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/BeedrillNeoDiscovery18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-19/75",
+            "name": "Butterfree",
+            "number": "19/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/ButterfreeNeoDiscovery19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-20/75",
+            "name": "Espeon",
+            "number": "20/75",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/EspeonNeoDiscovery1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-21/75",
+            "name": "Forretress",
+            "number": "21/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ForretressNeoDiscovery2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-22/75",
+            "name": "Hitmontop",
+            "number": "22/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/HitmontopNeoDiscovery3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-23/75",
+            "name": "Houndoom",
+            "number": "23/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/HoundoomNeoDiscovery4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-24/75",
+            "name": "Houndour",
+            "number": "24/75",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundourNeoDiscovery5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-25/75",
+            "name": "Kabutops",
+            "number": "25/75",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/KabutopsNeoDiscovery6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-26/75",
+            "name": "Magnemite",
+            "number": "26/75",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/MagnemiteNeoDiscovery7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-27/75",
+            "name": "Politoed",
+            "number": "27/75",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PolitoedNeoDiscovery8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-28/75",
+            "name": "Poliwrath",
+            "number": "28/75",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/PoliwrathNeoDiscovery9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-29/75",
+            "name": "Scizor",
+            "number": "29/75",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ScizorNeoDiscovery10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-30/75",
+            "name": "Smeargle",
+            "number": "30/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/SmeargleNeoDiscovery11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-31/75",
+            "name": "Tyranitar",
+            "number": "31/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/TyranitarNeoDiscovery12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-32/75",
+            "name": "Umbreon",
+            "number": "32/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/UmbreonNeoDiscovery13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-33/75",
+            "name": "Unown A",
+            "number": "33/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/UnownANeoDiscovery14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-34/75",
+            "name": "Ursaring",
+            "number": "34/75",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/UrsaringNeoDiscovery15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-35/75",
+            "name": "Wobbuffet",
+            "number": "35/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/WobbuffetNeoDiscovery16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-36/75",
+            "name": "Yanma",
+            "number": "36/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/YanmaNeoDiscovery17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-37/75",
+            "name": "Corsola",
+            "number": "37/75",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CorsolaNeoDiscovery37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-38/75",
+            "name": "Eevee",
+            "number": "38/75",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/EeveeNeoDiscovery38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-39/75",
+            "name": "Houndour",
+            "number": "39/75",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/HoundourNeoDiscovery39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-40/75",
+            "name": "Igglybuff",
+            "number": "40/75",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/IgglybuffNeoDiscovery40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-41/75",
+            "name": "Kakuna",
+            "number": "41/75",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/KakunaNeoDiscovery41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-42/75",
+            "name": "Metapod",
+            "number": "42/75",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MetapodNeoDiscovery42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-43/75",
+            "name": "Omastar",
+            "number": "43/75",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/OmastarNeoDiscovery43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-44/75",
+            "name": "Poliwhirl",
+            "number": "44/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/PoliwhirlNeoDiscovery44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-45/75",
+            "name": "Pupitar",
+            "number": "45/75",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PupitarNeoDiscovery45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-46/75",
+            "name": "Scyther",
+            "number": "46/75",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/ScytherNeoDiscovery46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-47/75",
+            "name": "Unown D",
+            "number": "47/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/UnownDNeoDiscovery47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-48/75",
+            "name": "Unown F",
+            "number": "48/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/UnownFNeoDiscovery48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-49/75",
+            "name": "Unown M",
+            "number": "49/75",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/UnownMNeoDiscovery49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-50/75",
+            "name": "Unown N",
+            "number": "50/75",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/UnownNNeoDiscovery50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-51/75",
+            "name": "Unown U",
+            "number": "51/75",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/UnownUNeoDiscovery51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-52/75",
+            "name": "Xatu",
+            "number": "52/75",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/XatuNeoDiscovery52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-53/75",
+            "name": "Caterpie",
+            "number": "53/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/CaterpieNeoDiscovery53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-54/75",
+            "name": "Dunsparce",
+            "number": "54/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/DunsparceNeoDiscovery54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-55/75",
+            "name": "Hoppip",
+            "number": "55/75",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/HoppipNeoDiscovery55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-56/75",
+            "name": "Kabuto",
+            "number": "56/75",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/KabutoNeoDiscovery56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-57/75",
+            "name": "Larvitar",
+            "number": "57/75",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/LarvitarNeoDiscovery57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-58/75",
+            "name": "Mareep",
+            "number": "58/75",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/MareepNeoDiscovery58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-59/75",
+            "name": "Natu",
+            "number": "59/75",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/NatuNeoDiscovery59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-60/75",
+            "name": "Omanyte",
+            "number": "60/75",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/OmanyteNeoDiscovery60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-61/75",
+            "name": "Pineco",
+            "number": "61/75",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/PinecoNeoDiscovery61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-62/75",
+            "name": "Poliwag",
+            "number": "62/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PoliwagNeoDiscovery62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-63/75",
+            "name": "Sentret",
+            "number": "63/75",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SentretNeoDiscovery63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-64/75",
+            "name": "Spinarak",
+            "number": "64/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/SpinarakNeoDiscovery64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-65/75",
+            "name": "Teddiursa",
+            "number": "65/75",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/TeddiursaNeoDiscovery65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-66/75",
+            "name": "Tyrogue",
+            "number": "66/75",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/TyrogueNeoDiscovery66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-67/75",
+            "name": "Unown E",
+            "number": "67/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/UnownENeoDiscovery67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-68/75",
+            "name": "Unown I",
+            "number": "68/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/UnownINeoDiscovery68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-69/75",
+            "name": "Unown O",
+            "number": "69/75",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/UnownONeoDiscovery69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-70/75",
+            "name": "Weedle",
+            "number": "70/75",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/WeedleNeoDiscovery70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-71/75",
+            "name": "Wooper",
+            "number": "71/75",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/WooperNeoDiscovery71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-72/75",
+            "name": "Uovo Fossile",
+            "number": "72/75",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/UovoFossileNeoDiscovery72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-73/75",
+            "name": "Iper Getto d'Involuzione",
+            "number": "73/75",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/IperGettod%27InvoluzioneNeoDiscovery73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-74/75",
+            "name": "Muro Pericolante",
+            "number": "74/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/MuroPericolanteNeoDiscovery74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N2-75/75",
+            "name": "Energia dell'Arca",
+            "number": "75/75",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Energiadell%27ArcaNeoDiscovery75.png",
+            "section": "Set principale"
+        }
+    ]
+}

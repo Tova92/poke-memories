@@ -1,0 +1,713 @@
+{
+    "expansion": {
+        "id": "MD",
+        "name": "Diamante & Perla - Alba Suprema",
+				"year": 2008,
+				"month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetAlba_Suprema.png",
+        "cardCount": 100
+    },
+    "cards": [
+        {
+            "id": "MD-1/100",
+            "name": "Articuno",
+            "number": "1/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ArticunoAlbaSuprema1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-2/100",
+            "name": "Cresselia",
+            "number": "2/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/CresseliaAlbaSuprema2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-3/100",
+            "name": "Darkrai",
+            "number": "3/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/DarkraiAlbaSuprema3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-4/100",
+            "name": "Dialga",
+            "number": "4/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DialgaAlbaSuprema4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-5/100",
+            "name": "Glaceon",
+            "number": "5/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/GlaceonAlbaSuprema5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-6/100",
+            "name": "Kabutops",
+            "number": "6/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/KabutopsAlbaSuprema6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-7/100",
+            "name": "Leafeon",
+            "number": "7/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/LeafeonAlbaSuprema7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-8/100",
+            "name": "Manaphy",
+            "number": "8/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/ManaphyAlbaSuprema8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-9/100",
+            "name": "Mewtwo",
+            "number": "9/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/MewtwoAlbaSuprema9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-10/100",
+            "name": "Moltres",
+            "number": "10/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MoltresAlbaSuprema10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-11/100",
+            "name": "Palkia",
+            "number": "11/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/PalkiaAlbaSuprema11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-12/100",
+            "name": "Phione",
+            "number": "12/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PhioneAlbaSuprema12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-13/100",
+            "name": "Rotom",
+            "number": "13/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/RotomAlbaSuprema13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-14/100",
+            "name": "Zapdos",
+            "number": "14/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/ZapdosAlbaSuprema14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-15/100",
+            "name": "Aerodactyl",
+            "number": "15/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/AerodactylAlbaSuprema15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-16/100",
+            "name": "Bronzong",
+            "number": "16/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/BronzongAlbaSuprema16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-17/100",
+            "name": "Empoleon",
+            "number": "17/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/EmpoleonAlbaSuprema17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-18/100",
+            "name": "Espeon",
+            "number": "18/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/EspeonAlbaSuprema18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-19/100",
+            "name": "Flareon",
+            "number": "19/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/FlareonAlbaSuprema19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-20/100",
+            "name": "Glaceon",
+            "number": "20/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/GlaceonAlbaSuprema20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-21/100",
+            "name": "Hippowdon",
+            "number": "21/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/HippowdonAlbaSuprema21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-22/100",
+            "name": "Infernape",
+            "number": "22/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/InfernapeAlbaSuprema22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-23/100",
+            "name": "Jolteon",
+            "number": "23/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/JolteonAlbaSuprema23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-24/100",
+            "name": "Leafeon",
+            "number": "24/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/LeafeonAlbaSuprema24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-25/100",
+            "name": "Minun",
+            "number": "25/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MinunAlbaSuprema25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-26/100",
+            "name": "Omastar",
+            "number": "26/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/OmastarAlbaSuprema26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-27/100",
+            "name": "Phione",
+            "number": "27/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/PhioneAlbaSuprema27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-28/100",
+            "name": "Plusle",
+            "number": "28/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/PlusleAlbaSuprema28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-29/100",
+            "name": "Scizor",
+            "number": "29/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ScizorHAlbaSuprema29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-30/100",
+            "name": "Torterra",
+            "number": "30/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/TorterraAlbaSuprema30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-31/100",
+            "name": "Toxicroak",
+            "number": "31/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ToxicroakAlbaSuprema31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-32/100",
+            "name": "Umbreon",
+            "number": "32/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/UmbreonAlbaSuprema32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-33/100",
+            "name": "Unown P",
+            "number": "33/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/UnownPAlbaSuprema33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-34/100",
+            "name": "Vaporeon",
+            "number": "34/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/VaporeonAlbaSuprema34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-35/100",
+            "name": "Ambipom",
+            "number": "35/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/AmbipomAlbaSuprema35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-36/100",
+            "name": "Fearow",
+            "number": "36/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/FearowAlbaSuprema36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-37/100",
+            "name": "Grotle",
+            "number": "37/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/GrotleAlbaSuprema37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-38/100",
+            "name": "Kangaskhan",
+            "number": "38/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/KangaskhanAlbaSuprema38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-39/100",
+            "name": "Lickitung",
+            "number": "39/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/LickitungAlbaSuprema39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-40/100",
+            "name": "Manectric",
+            "number": "40/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/ManectricAlbaSuprema40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-41/100",
+            "name": "Monferno",
+            "number": "41/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MonfernoAlbaSuprema41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-42/100",
+            "name": "Mothim",
+            "number": "42/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/MothimAlbaSuprema42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-43/100",
+            "name": "Pachirisu",
+            "number": "43/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/PachirisuAlbaSuprema43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-44/100",
+            "name": "Prinplup",
+            "number": "44/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/PrinplupAlbaSuprema44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-45/100",
+            "name": "Raichu",
+            "number": "45/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/RaichuAlbaSuprema45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-46/100",
+            "name": "Scyther",
+            "number": "46/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/ScytherAlbaSuprema46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-47/100",
+            "name": "Staravia",
+            "number": "47/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/StaraviaAlbaSuprema47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-48/100",
+            "name": "Sudowoodo",
+            "number": "48/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/SudowoodoAlbaSuprema48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-49/100",
+            "name": "Unown Q",
+            "number": "49/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/UnownQAlbaSuprema49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-50/100",
+            "name": "Aipom",
+            "number": "50/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/AipomAlbaSuprema50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-51/100",
+            "name": "Aipom",
+            "number": "51/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/AipomAlbaSuprema51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-52/100",
+            "name": "Bronzor",
+            "number": "52/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/BronzorAlbaSuprema52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-53/100",
+            "name": "Buneary",
+            "number": "53/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/BunearyAlbaSuprema53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-54/100",
+            "name": "Burmy Manto Sabbia",
+            "number": "54/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/BurmyAlbaSuprema54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-55/100",
+            "name": "Chatot",
+            "number": "55/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ChatotAlbaSuprema55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-56/100",
+            "name": "Chimchar",
+            "number": "56/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/ChimcharAlbaSuprema56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-57/100",
+            "name": "Chimchar",
+            "number": "57/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/ChimcharAlbaSuprema57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-58/100",
+            "name": "Chingling",
+            "number": "58/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ChinglingAlbaSuprema58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-59/100",
+            "name": "Combee",
+            "number": "59/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CombeeAlbaSuprema59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-60/100",
+            "name": "Croagunk",
+            "number": "60/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/CroagunkAlbaSuprema60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-61/100",
+            "name": "Drifloon",
+            "number": "61/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/DrifloonAlbaSuprema61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-62/100",
+            "name": "Eevee",
+            "number": "62/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EeveeAlbaSuprema62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-63/100",
+            "name": "Eevee",
+            "number": "63/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/EeveeAlbaSuprema63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-64/100",
+            "name": "Electrike",
+            "number": "64/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/ElectrikeAlbaSuprema64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-65/100",
+            "name": "Glameow",
+            "number": "65/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/GlameowAlbaSuprema65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-66/100",
+            "name": "Hippopotas",
+            "number": "66/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/HippopotasAlbaSuprema66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-67/100",
+            "name": "Kabuto",
+            "number": "67/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/KabutoAlbaSuprema67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-68/100",
+            "name": "Munchlax",
+            "number": "68/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MunchlaxAlbaSuprema68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-69/100",
+            "name": "Omanyte",
+            "number": "69/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/OmanyteAlbaSuprema69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-70/100",
+            "name": "Pikachu",
+            "number": "70/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/PikachuAlbaSuprema70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-71/100",
+            "name": "Piplup",
+            "number": "71/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/PiplupAlbaSuprema71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-72/100",
+            "name": "Piplup",
+            "number": "72/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/PiplupAlbaSuprema72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-73/100",
+            "name": "Shellos Mare Est",
+            "number": "73/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ShellosAlbaSuprema73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-74/100",
+            "name": "Spearow",
+            "number": "74/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/SpearowAlbaSuprema74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-75/100",
+            "name": "Starly",
+            "number": "75/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/StarlyAlbaSuprema75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-76/100",
+            "name": "Stunky",
+            "number": "76/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/StunkyAlbaSuprema76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-77/100",
+            "name": "Turtwig",
+            "number": "77/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/TurtwigAlbaSuprema77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-78/100",
+            "name": "Turtwig",
+            "number": "78/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/TurtwigAlbaSuprema78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-79/100",
+            "name": "Stadio dell'Alba",
+            "number": "79/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/StadiodellAlbaAlbaSuprema79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-80/100",
+            "name": "Scuro Ball",
+            "number": "80/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ScuroBallAlbaSuprema80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-81/100",
+            "name": "Ripristina Energia",
+            "number": "81/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/RipristinaEnergiaAlbaSuprema81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-82/100",
+            "name": "Scavatore di Fossili",
+            "number": "82/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/ScavatorediFossiliAlbaSuprema82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-83/100",
+            "name": "Cuore di Mamma",
+            "number": "83/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CuorediMammaAlbaSuprema83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-84/100",
+            "name": "Ambra Antica",
+            "number": "84/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/AmbraAnticaAlbaSuprema84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-85/100",
+            "name": "Poké Ball",
+            "number": "85/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Pok%C3%A9BallAlbaSuprema85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-86/100",
+            "name": "Velox Ball",
+            "number": "86/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/VeloxBallAlbaSuprema86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-87/100",
+            "name": "Super Recupero",
+            "number": "87/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SuperRecuperoAlbaSuprema87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-88/100",
+            "name": "Punto di Curvatura",
+            "number": "88/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PuntodiCurvaturaAlbaSuprema88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-89/100",
+            "name": "Domofossile",
+            "number": "89/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DomofossileAlbaSuprema89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-90/100",
+            "name": "Ricerca di Energia",
+            "number": "90/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/RicercadiEnergiaAlbaSuprema90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-91/100",
+            "name": "Helixfossile",
+            "number": "91/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/HelixfossileAlbaSuprema91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-92/100",
+            "name": "Energia Richiamo",
+            "number": "92/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/EnergiaRichiamoAlbaSuprema92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-93/100",
+            "name": "Energia Oscurità",
+            "number": "93/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/EnergiaOscurit%C3%A0AlbaSuprema93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-94/100",
+            "name": "Energia Salute",
+            "number": "94/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/EnergiaSaluteAlbaSuprema94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-95/100",
+            "name": "Energia Metallo",
+            "number": "95/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/EnergiaMetalloAlbaSuprema95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-96/100",
+            "name": "Energia Ripresa",
+            "number": "96/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/EnergiaRipresaAlbaSuprema96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-97/100",
+            "name": "Garchomp LIV.X",
+            "number": "97/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/GarchompLIVXAlbaSuprema97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-98/100",
+            "name": "Glaceon LIV.X",
+            "number": "98/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/GlaceonLIVXAlbaSuprema98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-99/100",
+            "name": "Leafeon LIV.X",
+            "number": "99/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/LeafeonLIVXAlbaSuprema99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MD-100/100",
+            "name": "Porygon-Z LIV.X",
+            "number": "100/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Porygon-ZLIVXAlbaSuprema100.png",
+            "section": "Set principale"
+        }
+    ]
+}

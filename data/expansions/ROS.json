@@ -1,0 +1,798 @@
+{
+    "expansion": {
+        "id": "ROS",
+        "name": "XY - Furie Volanti",
+        "year": 2015,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0c/SimboloSetFurie_Volanti.png",
+        "cardCount": 110,
+				"yellowAAlternateCardCount": 2
+    },
+    "cards": [
+        {
+            "id": "ROS-1/108",
+            "name": "Exeggcute",
+            "number": "1/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ExeggcuteFurieVolanti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-2/108",
+            "name": "Exeggutor",
+            "number": "2/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ExeggutorFurieVolanti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-3/108",
+            "name": "Wurmple",
+            "number": "3/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/WurmpleFurieVolanti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-4/108",
+            "name": "Silcoon",
+            "number": "4/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SilcoonFurieVolanti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-5/108",
+            "name": "Beautifly",
+            "number": "5/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/BeautiflyFurieVolanti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-6/108",
+            "name": "Cascoon",
+            "number": "6/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CascoonFurieVolanti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-7/108",
+            "name": "Dustox",
+            "number": "7/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/DustoxFurieVolanti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-8/108",
+            "name": "Dustox",
+            "number": "8/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/DustoxFurieVolanti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-9/108",
+            "name": "Nincada",
+            "number": "9/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/NincadaFurieVolanti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-10/108",
+            "name": "Ninjask",
+            "number": "10/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/NinjaskFurieVolanti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-11/108",
+            "name": "Shedinja",
+            "number": "11/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ShedinjaFurieVolanti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-12/108",
+            "name": "Tropius",
+            "number": "12/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/TropiusFurieVolanti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-13/108",
+            "name": "Victini",
+            "number": "13/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/VictiniFurieVolanti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-14/108",
+            "name": "Fletchinder",
+            "number": "14/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/FletchinderFurieVolanti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-15/108",
+            "name": "Talonflame",
+            "number": "15/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/TalonflameFurieVolanti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-16/108",
+            "name": "Articuno",
+            "number": "16/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/ArticunoFurieVolanti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-17/108",
+            "name": "Articuno",
+            "number": "17/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ArticunoFurieVolanti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-18/108",
+            "name": "Wingull",
+            "number": "18/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/WingullFurieVolanti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-19/108",
+            "name": "Pelipper",
+            "number": "19/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/PelipperFurieVolanti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-20/108",
+            "name": "Pikachu",
+            "number": "20/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/PikachuFurieVolanti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-21/108",
+            "name": "Voltorb",
+            "number": "21/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/VoltorbFurieVolanti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-22/108",
+            "name": "Electrode",
+            "number": "22/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ElectrodeFurieVolanti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-23/108",
+            "name": "Zapdos",
+            "number": "23/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/ZapdosFurieVolanti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-24/108",
+            "name": "Electrike",
+            "number": "24/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ElectrikeFurieVolanti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-25/108",
+            "name": "Manectric",
+            "number": "25/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ManectricFurieVolanti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-26/108",
+            "name": "Thundurus-EX",
+            "number": "26/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Thundurus-EXFurieVolanti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-27/108",
+            "name": "Natu",
+            "number": "27/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/NatuFurieVolanti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-28/108",
+            "name": "Natu",
+            "number": "28/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/NatuFurieVolanti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-29/108",
+            "name": "Xatu",
+            "number": "29/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/XatuFurieVolanti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-30/108",
+            "name": "Shuppet",
+            "number": "30/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/ShuppetFurieVolanti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-31/108",
+            "name": "Banette",
+            "number": "31/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/BanetteFurieVolanti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-32/108",
+            "name": "Banette",
+            "number": "32/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/BanetteFurieVolanti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-33/108",
+            "name": "Deoxys",
+            "number": "33/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/DeoxysFurieVolanti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-34/108",
+            "name": "Gallade-EX",
+            "number": "34/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Gallade-EXFurieVolanti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-35/108",
+            "name": "M Gallade-EX",
+            "number": "35/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MGallade-EXFurieVolanti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-36/108",
+            "name": "Gligar",
+            "number": "36/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/GligarFurieVolanti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-37/108",
+            "name": "Gliscor",
+            "number": "37/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/GliscorFurieVolanti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-38/108",
+            "name": "Binacle",
+            "number": "38/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/BinacleFurieVolanti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-39/108",
+            "name": "Hawlucha",
+            "number": "39/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/HawluchaFurieVolanti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-40/108",
+            "name": "Absol",
+            "number": "40/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/AbsolFurieVolanti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-41/108",
+            "name": "Inkay",
+            "number": "41/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/InkayFurieVolanti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-42/108",
+            "name": "Jirachi",
+            "number": "42/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/JirachiFurieVolanti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-43/108",
+            "name": "Togepi",
+            "number": "43/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/TogepiFurieVolanti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-44/108",
+            "name": "Togetic",
+            "number": "44/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TogeticFurieVolanti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-45/108",
+            "name": "Togekiss",
+            "number": "45/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/TogekissFurieVolanti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-46/108",
+            "name": "Togekiss",
+            "number": "46/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/TogekissFurieVolanti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-47/108",
+            "name": "Carbink",
+            "number": "47/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/CarbinkFurieVolanti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-48/108",
+            "name": "Klefki",
+            "number": "48/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/KlefkiFurieVolanti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-49/108",
+            "name": "Dratini",
+            "number": "49/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/DratiniFurieVolanti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-50/108",
+            "name": "Dragonair",
+            "number": "50/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/DragonairFurieVolanti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-51/108",
+            "name": "Dragonite",
+            "number": "51/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/DragoniteFurieVolanti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-52/108",
+            "name": "Dragonite",
+            "number": "52/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/DragoniteFurieVolanti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-53/108",
+            "name": "Altaria",
+            "number": "53/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/AltariaFurieVolanti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-54/108",
+            "name": "Bagon",
+            "number": "54/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/BagonFurieVolanti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-55/108",
+            "name": "Bagon",
+            "number": "55/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/BagonFurieVolanti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-56/108",
+            "name": "Shelgon",
+            "number": "56/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ShelgonFurieVolanti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-57/108",
+            "name": "Salamence",
+            "number": "57/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SalamenceFurieVolanti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-58/108",
+            "name": "Latios-EX",
+            "number": "58/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/Latios-EXFurieVolanti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-59/108",
+            "name": "M Latios-EX",
+            "number": "59/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MLatios-EXFurieVolanti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-60/108",
+            "name": "Rayquaza-EX",
+            "number": "60/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Rayquaza-EXFurieVolanti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-61/108",
+            "name": "M Rayquaza-EX",
+            "number": "61/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MRayquaza-EXFurieVolanti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-62/108",
+            "name": "Hydreigon-EX",
+            "number": "62/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Hydreigon-EXFurieVolanti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-63/108",
+            "name": "Reshiram",
+            "number": "63/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/ReshiramFurieVolanti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-64/108",
+            "name": "Zekrom",
+            "number": "64/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ZekromFurieVolanti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-65/108",
+            "name": "Spearow",
+            "number": "65/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/SpearowFurieVolanti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-66/108",
+            "name": "Fearow",
+            "number": "66/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/FearowFurieVolanti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-67/108",
+            "name": "Meowth",
+            "number": "67/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/MeowthFurieVolanti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-68/108",
+            "name": "Dunsparce",
+            "number": "68/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/DunsparceFurieVolanti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-69/108",
+            "name": "Skarmory",
+            "number": "69/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SkarmoryFurieVolanti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-70/108",
+            "name": "Taillow",
+            "number": "70/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TaillowFurieVolanti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-71/108",
+            "name": "Swellow",
+            "number": "71/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/SwellowFurieVolanti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-72/108",
+            "name": "Swellow",
+            "number": "72/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/SwellowFurieVolanti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-73/108",
+            "name": "Swablu",
+            "number": "73/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SwabluFurieVolanti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-74/108",
+            "name": "Altaria",
+            "number": "74/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/AltariaFurieVolanti74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-75/108",
+            "name": "Rayquaza-EX",
+            "number": "75/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Rayquaza-EXFurieVolanti75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-76/108",
+            "name": "M Rayquaza-EX",
+            "number": "76/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MRayquaza-EXFurieVolanti76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-77/108",
+            "name": "Shaymin-EX",
+            "number": "77/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Shaymin-EXFurieVolanti77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-78/108",
+            "name": "Pidove",
+            "number": "78/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/PidoveFurieVolanti78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-79/108",
+            "name": "Tranquill",
+            "number": "79/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/TranquillFurieVolanti79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-80/108",
+            "name": "Unfezant",
+            "number": "80/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/UnfezantFurieVolanti80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-81/108",
+            "name": "Unfezant",
+            "number": "81/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/UnfezantFurieVolanti81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-82/108",
+            "name": "Fletchling",
+            "number": "82/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/FletchlingFurieVolanti82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-83/108",
+            "name": "Legame Mentale con Gallade",
+            "number": "83/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/LegameMentaleconGalladeFurieVolanti83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-84/108",
+            "name": "Sciarpa Curativa",
+            "number": "84/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/SciarpaCurativaFurieVolanti84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-85/108",
+            "name": "Legame Mentale con Latios",
+            "number": "85/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/LegameMentaleconLatiosFurieVolanti85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-86/108",
+            "name": "Mega Turbo",
+            "number": "86/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/MegaTurboFurieVolanti86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-87/108",
+            "name": "Legame Mentale con Rayquaza",
+            "number": "87/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/LegameMentaleconRayquazaFurieVolanti87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-88/108",
+            "name": "Revitalizzante",
+            "number": "88/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/RevitalizzanteFurieVolanti88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-89/108",
+            "name": "Campo Aereo",
+            "number": "89/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/CampoAereoFurieVolanti89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-90/108",
+            "name": "Rocco",
+            "number": "90/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/RoccoFurieVolanti90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-91/108",
+            "name": "Scambio",
+            "number": "91/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ScambioFurieVolanti91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-92/108",
+            "name": "Posta Allenatori",
+            "number": "92/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/PostaAllenatoriFurieVolanti92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-93/108",
+            "name": "Ultra Ball",
+            "number": "93/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/UltraBallFurieVolanti93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-94/108",
+            "name": "Lino",
+            "number": "94/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/LinoFurieVolanti94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-95/108",
+            "name": "Grandelente",
+            "number": "95/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GrandelenteFurieVolanti95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-96/108",
+            "name": "Alice",
+            "number": "96/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/AliceFurieVolanti96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-97/108",
+            "name": "Energia Drago doppia",
+            "number": "97/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/EnergiaDragodoppiaFurieVolanti97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-98/108",
+            "name": "Thundurus-EX",
+            "number": "98/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Thundurus-EXFurieVolanti98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-99/108",
+            "name": "Gallade-EX",
+            "number": "99/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Gallade-EXFurieVolanti99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-100/108",
+            "name": "M Gallade-EX",
+            "number": "100/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/MGallade-EXFurieVolanti100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-101/108",
+            "name": "Latios-EX",
+            "number": "101/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Latios-EXFurieVolanti101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-102/108",
+            "name": "M Latios-EX",
+            "number": "102/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MLatios-EXFurieVolanti102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-103/108",
+            "name": "Hydreigon-EX",
+            "number": "103/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Hydreigon-EXFurieVolanti103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-104/108",
+            "name": "Rayquaza-EX",
+            "number": "104/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Rayquaza-EXFurieVolanti104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-105/108",
+            "name": "M Rayquaza-EX",
+            "number": "105/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MRayquaza-EXFurieVolanti105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-106/108",
+            "name": "Shaymin-EX",
+            "number": "106/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Shaymin-EXFurieVolanti106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-107/108",
+            "name": "Lino",
+            "number": "107/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/LinoFurieVolanti107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-108/108",
+            "name": "Alice",
+            "number": "108/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/AliceFurieVolanti108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ROS-109/108",
+            "name": "Scambio di Energia",
+            "number": "109/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/ScambiodiEnergiaFurieVolanti109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ROS-110/108",
+            "name": "Cercasfide",
+            "number": "110/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/CercasfideFurieVolanti110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ROS-77a/108",
+            "name": "Shaymin-EX",
+            "number": "77a/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Shaymin-EXFurieVolanti77a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "ROS-92a/108",
+            "name": "Posta Allenatori",
+            "number": "92a/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/PostaAllenatoriFurieVolanti92a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

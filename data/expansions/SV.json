@@ -1,0 +1,1084 @@
+{
+    "expansion": {
+        "id": "SV",
+        "name": "Platino - Supreme Victors",
+				"year": 2009,
+				"month": 8,
+        "language": "en",
+        "logo": "https://media.pokemoncentral.it/wiki/8/8d/SimboloSetSupreme_Victors.png",
+        "cardCount": 153
+    },
+    "cards": [
+        {
+            "id": "SV-1/147",
+            "name": "Absol G",
+            "number": "1/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AbsolGSupremeVictors1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-2/147",
+            "name": "Blaziken FB",
+            "number": "2/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/BlazikenFBSupremeVictors2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-3/147",
+            "name": "Drifblim FB",
+            "number": "3/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/DrifblimFBSupremeVictors3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-4/147",
+            "name": "Electivire FB",
+            "number": "4/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/ElectivireFBLSupremeVictors4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-5/147",
+            "name": "Garchomp",
+            "number": "5/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GarchompSupremeVictors5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-6/147",
+            "name": "Magmortar",
+            "number": "6/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/MagmortarGLSupremeVictors6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-7/147",
+            "name": "Metagross",
+            "number": "7/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MetagrossSupremeVictors7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-8/147",
+            "name": "Rayquaza C",
+            "number": "8/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/RayquazaCSupremeVictors8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-9/147",
+            "name": "Regigigas FB",
+            "number": "9/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/RegigigasFBSupremeVictors9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-10/147",
+            "name": "Rhyperior",
+            "number": "10/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/RhyperiorSupremeVictors10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-11/147",
+            "name": "Staraptor FB",
+            "number": "11/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/StaraptorFBSupremeVictors11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-12/147",
+            "name": "Swampert",
+            "number": "12/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SwampertSupremeVictors12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-13/147",
+            "name": "Venusaur",
+            "number": "13/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/VenusaurSupremeVictors13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-14/147",
+            "name": "Yanmega",
+            "number": "14/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/YanmegaSupremeVictors14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-15/147",
+            "name": "Arcanine G",
+            "number": "15/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ArcanineGSupremeVictors15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-16/147",
+            "name": "Articuno",
+            "number": "16/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/ArticunoSupremeVictors16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-17/147",
+            "name": "Butterfree FB",
+            "number": "17/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/ButterfreeFBSupremeVictors17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-18/147",
+            "name": "Camerupt",
+            "number": "18/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/CameruptSupremeVictors18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-19/147",
+            "name": "Camerupt G",
+            "number": "19/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/CameruptGSupremeVictors19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-20/147",
+            "name": "Charizard G",
+            "number": "20/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CharizardGSupremeVictors20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-21/147",
+            "name": "Chimecho",
+            "number": "21/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ChimechoSupremeVictors21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-22/147",
+            "name": "Claydol",
+            "number": "22/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ClaydolSupremeVictors22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-23/147",
+            "name": "Crawdaunt G",
+            "number": "23/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CrawdauntGSupremeVictors23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-24/147",
+            "name": "Dewgong",
+            "number": "24/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/DewgongSupremeVictors24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-25/147",
+            "name": "Dodrio",
+            "number": "25/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/DodrioSupremeVictors25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-26/147",
+            "name": "Dusknoir FB",
+            "number": "26/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DusknoirFBSupremeVictors26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-27/147",
+            "name": "Empoleon FB",
+            "number": "27/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/EmpoleonFBSupremeVictors27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-28/147",
+            "name": "Exploud",
+            "number": "28/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ExploudSupremeVictors28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-29/147",
+            "name": "Honchkrow",
+            "number": "29/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/HonchkrowSupremeVictors29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-30/147",
+            "name": "Lickilicky C",
+            "number": "30/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/LickilickyCSupremeVictors30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-31/147",
+            "name": "Lucario C",
+            "number": "31/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/LucarioCSupremeVictors31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-32/147",
+            "name": "Lunatone",
+            "number": "32/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/LunatoneSupremeVictors32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-33/147",
+            "name": "Mawile",
+            "number": "33/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MawileSupremeVictors33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-34/147",
+            "name": "Medicham",
+            "number": "34/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MedichamSupremeVictors34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-35/147",
+            "name": "Milotic C",
+            "number": "35/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/MiloticCSupremeVictors35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-36/147",
+            "name": "Moltres",
+            "number": "36/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MoltresSupremeVictors36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-37/147",
+            "name": "Mr. Mime",
+            "number": "37/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/MrMimeSupremeVictors37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-38/147",
+            "name": "Parasect",
+            "number": "38/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/ParasectSupremeVictors38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-39/147",
+            "name": "Primeape",
+            "number": "39/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/PrimeapeSupremeVictors39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-40/147",
+            "name": "Roserade C",
+            "number": "40/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/RoseradeCSupremeVictors40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-41/147",
+            "name": "Sableye G",
+            "number": "41/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/SableyeGSupremeVictors41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-42/147",
+            "name": "Sandslash",
+            "number": "42/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/SandslashSupremeVictors42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-43/147",
+            "name": "Seaking",
+            "number": "43/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/SeakingSupremeVictors43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-44/147",
+            "name": "Shedinja",
+            "number": "44/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ShedinjaSupremeVictors44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-45/147",
+            "name": "Solrock",
+            "number": "45/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SolrockSupremeVictors45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-46/147",
+            "name": "Spinda",
+            "number": "46/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SpindaSupremeVictors46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-47/147",
+            "name": "Wailord",
+            "number": "47/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/WailordSupremeVictors47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-48/147",
+            "name": "Zapdos",
+            "number": "48/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ZapdosSupremeVictors48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-49/147",
+            "name": "Altaria C",
+            "number": "49/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/AltariaCSupremeVictors49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-50/147",
+            "name": "Arcanine",
+            "number": "50/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ArcanineSupremeVictors50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-51/147",
+            "name": "Bibarel",
+            "number": "51/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/BibarelSupremeVictors51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-52/147",
+            "name": "Breloom",
+            "number": "52/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/BreloomSupremeVictors52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-53/147",
+            "name": "Carnivine",
+            "number": "53/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CarnivineSupremeVictors53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-54/147",
+            "name": "Chatot G",
+            "number": "54/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ChatotGSupremeVictors54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-55/147",
+            "name": "Cherrim",
+            "number": "55/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/CherrimSupremeVictors55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-56/147",
+            "name": "Dragonite FB",
+            "number": "56/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/DragoniteFBSupremeVictors56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-57/147",
+            "name": "Drifblim",
+            "number": "57/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/DrifblimSupremeVictors57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-58/147",
+            "name": "Floatzel",
+            "number": "58/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/FloatzelSupremeVictors58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-59/147",
+            "name": "Gabite",
+            "number": "59/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/GabiteSupremeVictors59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-60/147",
+            "name": "Garchomp C",
+            "number": "60/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/GarchompCSupremeVictors60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-61/147",
+            "name": "Hippopotas",
+            "number": "61/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/HippopotasSupremeVictors61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-62/147",
+            "name": "Ivysaur",
+            "number": "62/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/IvysaurSupremeVictors62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-63/147",
+            "name": "Lopunny",
+            "number": "63/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/LopunnySupremeVictors63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-64/147",
+            "name": "Loudred",
+            "number": "64/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/LoudredSupremeVictors64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-65/147",
+            "name": "Magmar",
+            "number": "65/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MagmarSupremeVictors65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-66/147",
+            "name": "Manectric G",
+            "number": "66/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ManectricGSupremeVictors66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-67/147",
+            "name": "Marshtomp",
+            "number": "67/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/MarshtompSupremeVictors67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-68/147",
+            "name": "Masquerain",
+            "number": "68/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/MasquerainSupremeVictors68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-69/147",
+            "name": "Metang",
+            "number": "69/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MetangSupremeVictors69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-70/147",
+            "name": "Milotic",
+            "number": "70/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MiloticSupremeVictors70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-71/147",
+            "name": "Minun",
+            "number": "71/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/MinunSupremeVictors71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-72/147",
+            "name": "Murkrow",
+            "number": "72/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MurkrowSupremeVictors72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-73/147",
+            "name": "Ninjask",
+            "number": "73/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/NinjaskSupremeVictors73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-74/147",
+            "name": "Numel",
+            "number": "74/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/NumelSupremeVictors74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-75/147",
+            "name": "Pinsir",
+            "number": "75/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/PinsirSupremeVictors75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-76/147",
+            "name": "Plusle",
+            "number": "76/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/PlusleSupremeVictors76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-77/147",
+            "name": "Raichu",
+            "number": "77/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/RaichuSupremeVictors77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-78/147",
+            "name": "Raticate G",
+            "number": "78/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/RaticateGSupremeVictors78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-79/147",
+            "name": "Relicanth",
+            "number": "79/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/RelicanthSupremeVictors79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-80/147",
+            "name": "Rhydon",
+            "number": "80/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/RhydonSupremeVictors80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-81/147",
+            "name": "Roserade",
+            "number": "81/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/RoseradeSupremeVictors81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-82/147",
+            "name": "Rotom",
+            "number": "82/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/RotomSupremeVictors82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-83/147",
+            "name": "Skarmory FB",
+            "number": "83/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/SkarmoryFBSupremeVictors83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-84/147",
+            "name": "Spiritomb C",
+            "number": "84/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SpiritombCSupremeVictors84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-85/147",
+            "name": "Staravia",
+            "number": "85/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/StaraviaSupremeVictors85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-86/147",
+            "name": "Togekiss C",
+            "number": "86/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/TogekissCSupremeVictors86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-87/147",
+            "name": "Wailmer",
+            "number": "87/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/WailmerSupremeVictors87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-88/147",
+            "name": "Yanma",
+            "number": "88/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/YanmaSupremeVictors88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-89/147",
+            "name": "Baltoy",
+            "number": "89/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/BaltoySupremeVictors89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-90/147",
+            "name": "Beldum",
+            "number": "90/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/BeldumSupremeVictors90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-91/147",
+            "name": "Bidoof",
+            "number": "91/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/BidoofSupremeVictors91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-92/147",
+            "name": "Buizel",
+            "number": "92/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/BuizelSupremeVictors92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-93/147",
+            "name": "Bulbasaur",
+            "number": "93/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/BulbasaurSupremeVictors93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-94/147",
+            "name": "Buneary",
+            "number": "94/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/BunearySupremeVictors94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-95/147",
+            "name": "Chatot",
+            "number": "95/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ChatotSupremeVictors95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-96/147",
+            "name": "Cherubi",
+            "number": "96/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/CherubiSupremeVictors96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-97/147",
+            "name": "Chimchar",
+            "number": "97/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/ChimcharSupremeVictors97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-98/147",
+            "name": "Chingling",
+            "number": "98/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ChinglingSupremeVictors98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-99/147",
+            "name": "Combee",
+            "number": "99/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/CombeeSupremeVictors99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-100/147",
+            "name": "Corphish",
+            "number": "100/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/CorphishSupremeVictors100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-101/147",
+            "name": "Croagunk",
+            "number": "101/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CroagunkSupremeVictors101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-102/147",
+            "name": "Doduo",
+            "number": "102/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/DoduoSupremeVictors102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-103/147",
+            "name": "Drifloon",
+            "number": "103/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/DrifloonSupremeVictors103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-104/147",
+            "name": "Feebas",
+            "number": "104/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/FeebasSupremeVictors104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-105/147",
+            "name": "Geodude",
+            "number": "105/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/GeodudeSupremeVictors105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-106/147",
+            "name": "Gible",
+            "number": "106/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/GibleSupremeVictors106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-107/147",
+            "name": "Goldeen",
+            "number": "107/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/GoldeenSupremeVictors107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-108/147",
+            "name": "Growlithe",
+            "number": "108/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/GrowlitheSupremeVictors108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-109/147",
+            "name": "Kricketot",
+            "number": "109/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/KricketotSupremeVictors109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-110/147",
+            "name": "Magikarp",
+            "number": "110/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MagikarpSupremeVictors110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-111/147",
+            "name": "Magnemite",
+            "number": "111/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/MagnemiteSupremeVictors111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-112/147",
+            "name": "Mankey",
+            "number": "112/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/MankeySupremeVictors112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-113/147",
+            "name": "Meditite",
+            "number": "113/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MedititeSupremeVictors113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-114/147",
+            "name": "Meowth",
+            "number": "114/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/MeowthSupremeVictors114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-115/147",
+            "name": "Mime Jr.",
+            "number": "115/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MimeJrSupremeVictors115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-116/147",
+            "name": "Mudkip",
+            "number": "116/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MudkipSupremeVictors116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-117/147",
+            "name": "Nincada",
+            "number": "117/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/NincadaSupremeVictors117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-118/147",
+            "name": "Pachirisu",
+            "number": "118/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/PachirisuSupremeVictors118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-119/147",
+            "name": "Paras",
+            "number": "119/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/ParasSupremeVictors119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-120/147",
+            "name": "Pikachu",
+            "number": "120/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/PikachuSupremeVictors120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-121/147",
+            "name": "Piplup",
+            "number": "121/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/PiplupSupremeVictors121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-122/147",
+            "name": "Rhyhorn",
+            "number": "122/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/RhyhornSupremeVictors122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-123/147",
+            "name": "Roselia",
+            "number": "123/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/RoseliaSupremeVictors123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-124/147",
+            "name": "Sandshrew",
+            "number": "124/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SandshrewSupremeVictors124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-125/147",
+            "name": "Seel",
+            "number": "125/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/SeelSupremeVictors125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-126/147",
+            "name": "Shinx",
+            "number": "126/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/ShinxSupremeVictors126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-127/147",
+            "name": "Shroomish",
+            "number": "127/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ShroomishSupremeVictors127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-128/147",
+            "name": "Skorupi",
+            "number": "128/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/SkorupiSupremeVictors128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-129/147",
+            "name": "Starly",
+            "number": "129/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/StarlySupremeVictors129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-130/147",
+            "name": "Surskit",
+            "number": "130/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SurskitSupremeVictors130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-131/147",
+            "name": "Turtwig",
+            "number": "131/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/TurtwigSupremeVictors131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-132/147",
+            "name": "Whismur",
+            "number": "132/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/WhismurSupremeVictors132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-133/147",
+            "name": "Zubat",
+            "number": "133/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ZubatSupremeVictors133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-134/147",
+            "name": "Battle Tower",
+            "number": "134/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/BattleTowerSupremeVictors134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-135/147",
+            "name": "Champion's Room",
+            "number": "135/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ChampionsRoomSupremeVictors135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-136/147",
+            "name": "Cynthia's Guidance",
+            "number": "136/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CynthiasGuidanceSupremeVictors136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-137/147",
+            "name": "Cyrus's Initiative",
+            "number": "137/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/CyrussInitiativeSupremeVictors137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-138/147",
+            "name": "Night Teleporter",
+            "number": "138/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/NightTeleporterSupremeVictors138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-139/147",
+            "name": "Palmer's Contribution",
+            "number": "139/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/PalmersContributionSupremeVictors139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-140/147",
+            "name": "Cercasfide",
+            "number": "140/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/VSSeekerSupremeVictors140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-141/147",
+            "name": "Absol G LIV.X",
+            "number": "141/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/AbsolGLVXSupremeVictors141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-142/147",
+            "name": "Blaziken FB LIV.X",
+            "number": "142/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/BlazikenFBLVXSupremeVictors142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-143/147",
+            "name": "Charizard G LIV.X",
+            "number": "143/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/CharizardGLVXSupremeVictors143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-144/147",
+            "name": "Electivire FB LIV.X",
+            "number": "144/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ElectivireFBLVXSupremeVictors144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-145/147",
+            "name": "Garchomp C LIV.X",
+            "number": "145/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GarchompCLVXSupremeVictors145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-146/147",
+            "name": "Rayquaza C LIV.X",
+            "number": "146/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/RayquazaCLVXSupremeVictors146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-147/147",
+            "name": "Staraptor FB LIV.X",
+            "number": "147/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/StaraptorFBLVXSupremeVictors147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SV-148/147",
+            "name": "Articuno",
+            "number": "148/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ArticunoSupremeVictors148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SV-149/147",
+            "name": "Moltres",
+            "number": "149/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MoltresSupremeVictors149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SV-150/147",
+            "name": "Zapdos",
+            "number": "150/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/ZapdosSupremeVictors150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SV-SH7",
+            "name": "Milotic",
+            "number": "SH7",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MiloticSupremeVictorsSH7.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "SV-SH8",
+            "name": "Relicanth",
+            "number": "SH8",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/RelicanthSupremeVictorsSH8.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "SV-SH9",
+            "name": "Yanma",
+            "number": "SH9",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/YanmaSupremeVictorsSH9.png",
+            "section": "Cromatiche"
+        }
+    ]
+}

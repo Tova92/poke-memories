@@ -1,0 +1,1035 @@
+{
+    "expansion": {
+        "id": "LA",
+        "name": "Diamante & Perla - Il Risveglio dei Miti",
+				"year": 2008,
+				"month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetIl_Risveglio_dei_Miti.png",
+        "cardCount": 146
+    },
+    "cards": [
+        {
+            "id": "LA-1/146",
+            "name": "Deoxys Forma Normale",
+            "number": "1/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DeoxysIlRisvegliodeiMiti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-2/146",
+            "name": "Dragonite",
+            "number": "2/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/DragoniteIlRisvegliodeiMiti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-3/146",
+            "name": "Froslass",
+            "number": "3/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/FroslassIlRisvegliodeiMiti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-4/146",
+            "name": "Giratina",
+            "number": "4/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/GiratinaIlRisvegliodeiMiti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-5/146",
+            "name": "Gliscor",
+            "number": "5/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/GliscorIlRisvegliodeiMiti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-6/146",
+            "name": "Heatran",
+            "number": "6/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/HeatranIlRisvegliodeiMiti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-7/146",
+            "name": "Kingdra",
+            "number": "7/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/KingdraIlRisvegliodeiMiti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-8/146",
+            "name": "Luxray",
+            "number": "8/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/LuxrayIlRisvegliodeiMiti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-9/146",
+            "name": "Mamoswine",
+            "number": "9/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MamoswineIlRisvegliodeiMiti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-10/146",
+            "name": "Metagross",
+            "number": "10/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MetagrossIlRisvegliodeiMiti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-11/146",
+            "name": "Mewtwo",
+            "number": "11/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MewtwoIlRisvegliodeiMiti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-12/146",
+            "name": "Politoed",
+            "number": "12/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/PolitoedIlRisvegliodeiMiti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-13/146",
+            "name": "Probopass",
+            "number": "13/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ProbopassIlRisvegliodeiMiti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-14/146",
+            "name": "Rayquaza",
+            "number": "14/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RayquazaIlRisvegliodeiMiti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-15/146",
+            "name": "Regigigas",
+            "number": "15/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/RegigigasIlRisvegliodeiMiti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-16/146",
+            "name": "Spiritomb",
+            "number": "16/146",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SpiritombIlRisvegliodeiMiti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-17/146",
+            "name": "Yanmega",
+            "number": "17/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/YanmegaIlRisvegliodeiMiti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-18/146",
+            "name": "Armaldo",
+            "number": "18/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/ArmaldoIlRisvegliodeiMiti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-19/146",
+            "name": "Azelf",
+            "number": "19/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/AzelfIlRisvegliodeiMiti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-20/146",
+            "name": "Bellossom",
+            "number": "20/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/BellossomIlRisvegliodeiMiti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-21/146",
+            "name": "Cradily",
+            "number": "21/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/CradilyIlRisvegliodeiMiti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-22/146",
+            "name": "Crawdaunt",
+            "number": "22/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/CrawdauntIlRisvegliodeiMiti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-23/146",
+            "name": "Delcatty",
+            "number": "23/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/DelcattyIlRisvegliodeiMiti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-24/146",
+            "name": "Deoxys Forma Attacco",
+            "number": "24/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/DeoxysIlRisvegliodeiMiti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-25/146",
+            "name": "Deoxys Forma Difesa",
+            "number": "25/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/DeoxysIlRisvegliodeiMiti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-26/146",
+            "name": "Deoxys Forma Velocità",
+            "number": "26/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DeoxysIlRisvegliodeiMiti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-27/146",
+            "name": "Ditto",
+            "number": "27/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/DittoIlRisvegliodeiMiti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-28/146",
+            "name": "Forretress",
+            "number": "28/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ForretressIlRisvegliodeiMiti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-29/146",
+            "name": "Groudon",
+            "number": "29/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/GroudonIlRisvegliodeiMiti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-30/146",
+            "name": "Heatran",
+            "number": "30/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/HeatranIlRisvegliodeiMiti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-31/146",
+            "name": "Jirachi",
+            "number": "31/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/JirachiIlRisvegliodeiMiti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-32/146",
+            "name": "Kyogre",
+            "number": "32/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/KyogreIlRisvegliodeiMiti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-33/146",
+            "name": "Lopunny",
+            "number": "33/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/LopunnyIlRisvegliodeiMiti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-34/146",
+            "name": "Mesprit",
+            "number": "34/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MespritIlRisvegliodeiMiti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-35/146",
+            "name": "Poliwrath",
+            "number": "35/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/PoliwrathIlRisvegliodeiMiti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-36/146",
+            "name": "Regice",
+            "number": "36/146",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/RegiceIlRisvegliodeiMiti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-37/146",
+            "name": "Regigigas",
+            "number": "37/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/RegigigasIlRisvegliodeiMiti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-38/146",
+            "name": "Regirock",
+            "number": "38/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/RegirockIlRisvegliodeiMiti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-39/146",
+            "name": "Registeel",
+            "number": "39/146",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/RegisteelIlRisvegliodeiMiti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-40/146",
+            "name": "Shedinja",
+            "number": "40/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/ShedinjaIlRisvegliodeiMiti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-41/146",
+            "name": "Torkoal",
+            "number": "41/146",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/TorkoalIlRisvegliodeiMiti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-42/146",
+            "name": "Unown !",
+            "number": "42/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Unown%21IlRisvegliodeiMiti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-43/146",
+            "name": "Uxie",
+            "number": "43/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/UxieIlRisvegliodeiMiti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-44/146",
+            "name": "Victreebel",
+            "number": "44/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/VictreebelIlRisvegliodeiMiti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-45/146",
+            "name": "Vileplume",
+            "number": "45/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/VileplumeIlRisvegliodeiMiti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-46/146",
+            "name": "Anorith",
+            "number": "46/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/AnorithIlRisvegliodeiMiti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-47/146",
+            "name": "Camerupt",
+            "number": "47/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/CameruptIlRisvegliodeiMiti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-48/146",
+            "name": "Castform",
+            "number": "48/146",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/CastformIlRisvegliodeiMiti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-49/146",
+            "name": "Castform Forma Pioggia",
+            "number": "49/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/CastformIlRisvegliodeiMiti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-50/146",
+            "name": "Castform Forma Neve",
+            "number": "50/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/CastformIlRisvegliodeiMiti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-51/146",
+            "name": "Castform Forma Sole",
+            "number": "51/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/CastformIlRisvegliodeiMiti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-52/146",
+            "name": "Dragonair",
+            "number": "52/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DragonairIlRisvegliodeiMiti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-53/146",
+            "name": "Drifblim",
+            "number": "53/146",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/DrifblimIlRisvegliodeiMiti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-54/146",
+            "name": "Exeggutor",
+            "number": "54/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ExeggutorIlRisvegliodeiMiti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-55/146",
+            "name": "Gliscor",
+            "number": "55/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/GliscorIlRisvegliodeiMiti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-56/146",
+            "name": "Grumpig",
+            "number": "56/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/GrumpigIlRisvegliodeiMiti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-57/146",
+            "name": "Houndoom",
+            "number": "57/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/HoundoomIlRisvegliodeiMiti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-58/146",
+            "name": "Lanturn",
+            "number": "58/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/LanturnIlRisvegliodeiMiti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-59/146",
+            "name": "Lanturn",
+            "number": "59/146",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/LanturnIlRisvegliodeiMiti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-60/146",
+            "name": "Ledian",
+            "number": "60/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/LedianIlRisvegliodeiMiti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-61/146",
+            "name": "Lucario",
+            "number": "61/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/LucarioIlRisvegliodeiMiti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-62/146",
+            "name": "Luxio",
+            "number": "62/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/LuxioIlRisvegliodeiMiti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-63/146",
+            "name": "Marowak",
+            "number": "63/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MarowakIlRisvegliodeiMiti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-64/146",
+            "name": "Metang",
+            "number": "64/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MetangIlRisvegliodeiMiti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-65/146",
+            "name": "Metang",
+            "number": "65/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/MetangIlRisvegliodeiMiti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-66/146",
+            "name": "Mightyena",
+            "number": "66/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MightyenaIlRisvegliodeiMiti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-67/146",
+            "name": "Ninjask",
+            "number": "67/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/NinjaskIlRisvegliodeiMiti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-68/146",
+            "name": "Persian",
+            "number": "68/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/PersianIlRisvegliodeiMiti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-69/146",
+            "name": "Piloswine",
+            "number": "69/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/PiloswineIlRisvegliodeiMiti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-70/146",
+            "name": "Seadra",
+            "number": "70/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SeadraIlRisvegliodeiMiti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-71/146",
+            "name": "Starmie",
+            "number": "71/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/StarmieIlRisvegliodeiMiti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-72/146",
+            "name": "Swalot",
+            "number": "72/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/SwalotIlRisvegliodeiMiti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-73/146",
+            "name": "Swellow",
+            "number": "73/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SwellowIlRisvegliodeiMiti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-74/146",
+            "name": "Tauros",
+            "number": "74/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/TaurosIlRisvegliodeiMiti74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-75/146",
+            "name": "Tentacruel",
+            "number": "75/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/TentacruelIlRisvegliodeiMiti75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-76/146",
+            "name": "Unown J",
+            "number": "76/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/UnownJIlRisvegliodeiMiti76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-77/146",
+            "name": "Unown R",
+            "number": "77/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/UnownRIlRisvegliodeiMiti77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-78/146",
+            "name": "Unown U",
+            "number": "78/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/UnownUIlRisvegliodeiMiti78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-79/146",
+            "name": "Unown V",
+            "number": "79/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/UnownVIlRisvegliodeiMiti79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-80/146",
+            "name": "Unown W",
+            "number": "80/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/UnownWIlRisvegliodeiMiti80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-81/146",
+            "name": "Unown Y",
+            "number": "81/146",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/UnownYIlRisvegliodeiMiti81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-82/146",
+            "name": "Unown ?",
+            "number": "82/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/UnownIlRisvegliodeiMiti82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-83/146",
+            "name": "Beldum",
+            "number": "83/146",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/BeldumIlRisvegliodeiMiti83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-84/146",
+            "name": "Beldum",
+            "number": "84/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/BeldumIlRisvegliodeiMiti84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-85/146",
+            "name": "Bellsprout",
+            "number": "85/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/BellsproutIlRisvegliodeiMiti85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-86/146",
+            "name": "Buneary",
+            "number": "86/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/BunearyIlRisvegliodeiMiti86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-87/146",
+            "name": "Chinchou",
+            "number": "87/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/ChinchouIlRisvegliodeiMiti87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-88/146",
+            "name": "Chinchou",
+            "number": "88/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/ChinchouIlRisvegliodeiMiti88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-89/146",
+            "name": "Corphish",
+            "number": "89/146",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/CorphishIlRisvegliodeiMiti89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-90/146",
+            "name": "Cubone",
+            "number": "90/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/CuboneIlRisvegliodeiMiti90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-91/146",
+            "name": "Dratini",
+            "number": "91/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/DratiniIlRisvegliodeiMiti91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-92/146",
+            "name": "Drifloon",
+            "number": "92/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DrifloonIlRisvegliodeiMiti92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-93/146",
+            "name": "Exeggcute",
+            "number": "93/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ExeggcuteIlRisvegliodeiMiti93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-94/146",
+            "name": "Gligar",
+            "number": "94/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/GligarIlRisvegliodeiMiti94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-95/146",
+            "name": "Gligar",
+            "number": "95/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/GligarIlRisvegliodeiMiti95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-96/146",
+            "name": "Gloom",
+            "number": "96/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/GloomIlRisvegliodeiMiti96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-97/146",
+            "name": "Gloom",
+            "number": "97/146",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/GloomIlRisvegliodeiMiti97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-98/146",
+            "name": "Gulpin",
+            "number": "98/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/GulpinIlRisvegliodeiMiti98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-99/146",
+            "name": "Hitmonchan",
+            "number": "99/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/HitmonchanIlRisvegliodeiMiti99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-100/146",
+            "name": "Hitmonlee",
+            "number": "100/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/HitmonleeIlRisvegliodeiMiti100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-101/146",
+            "name": "Hitmontop",
+            "number": "101/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/HitmontopIlRisvegliodeiMiti101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-102/146",
+            "name": "Horsea",
+            "number": "102/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/HorseaIlRisvegliodeiMiti102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-103/146",
+            "name": "Houndour",
+            "number": "103/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/HoundourIlRisvegliodeiMiti103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-104/146",
+            "name": "Ledyba",
+            "number": "104/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/LedybaIlRisvegliodeiMiti104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-105/146",
+            "name": "Lileep",
+            "number": "105/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/LileepIlRisvegliodeiMiti105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-106/146",
+            "name": "Meowth",
+            "number": "106/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MeowthIlRisvegliodeiMiti106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-107/146",
+            "name": "Misdreavus",
+            "number": "107/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/MisdreavusIlRisvegliodeiMiti107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-108/146",
+            "name": "Nincada",
+            "number": "108/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/NincadaIlRisvegliodeiMiti108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-109/146",
+            "name": "Nosepass",
+            "number": "109/146",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/NosepassIlRisvegliodeiMiti109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-110/146",
+            "name": "Numel",
+            "number": "110/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/NumelIlRisvegliodeiMiti110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-111/146",
+            "name": "Oddish",
+            "number": "111/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/OddishIlRisvegliodeiMiti111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-112/146",
+            "name": "Oddish",
+            "number": "112/146",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/OddishIlRisvegliodeiMiti112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-113/146",
+            "name": "Pineco",
+            "number": "113/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/PinecoIlRisvegliodeiMiti113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-114/146",
+            "name": "Poliwag",
+            "number": "114/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/PoliwagIlRisvegliodeiMiti114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-115/146",
+            "name": "Poliwhirl",
+            "number": "115/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/PoliwhirlIlRisvegliodeiMiti115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-116/146",
+            "name": "Poochyena",
+            "number": "116/146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/PoochyenaIlRisvegliodeiMiti116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-117/146",
+            "name": "Riolu",
+            "number": "117/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/RioluIlRisvegliodeiMiti117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-118/146",
+            "name": "Shinx",
+            "number": "118/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ShinxIlRisvegliodeiMiti118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-119/146",
+            "name": "Skitty",
+            "number": "119/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/SkittyIlRisvegliodeiMiti119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-120/146",
+            "name": "Sneasel",
+            "number": "120/146",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SneaselIlRisvegliodeiMiti120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-121/146",
+            "name": "Spoink",
+            "number": "121/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SpoinkIlRisvegliodeiMiti121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-122/146",
+            "name": "Staryu",
+            "number": "122/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/StaryuIlRisvegliodeiMiti122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-123/146",
+            "name": "Swinub",
+            "number": "123/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SwinubIlRisvegliodeiMiti123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-124/146",
+            "name": "Taillow",
+            "number": "124/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/TaillowIlRisvegliodeiMiti124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-125/146",
+            "name": "Tentacool",
+            "number": "125/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/TentacoolIlRisvegliodeiMiti125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-126/146",
+            "name": "Tyrogue",
+            "number": "126/146",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/TyrogueIlRisvegliodeiMiti126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-127/146",
+            "name": "Weepinbell",
+            "number": "127/146",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/WeepinbellIlRisvegliodeiMiti127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-128/146",
+            "name": "Yanma",
+            "number": "128/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/YanmaIlRisvegliodeiMiti128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-129/146",
+            "name": "Bolla Schermo",
+            "number": "129/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/BollaSchermoIlRisvegliodeiMiti129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-130/146",
+            "name": "Allenamento di Chicco",
+            "number": "130/146",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/AllenamentodiChiccoIlRisvegliodeiMiti130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-131/146",
+            "name": "Sentimento di Camilla",
+            "number": "131/146",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SentimentodiCamillaIlRisvegliodeiMiti131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-132/146",
+            "name": "Raccolta di Energia",
+            "number": "132/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/RaccoltadiEnergiaIlRisvegliodeiMiti132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-133/146",
+            "name": "Poké Radar",
+            "number": "133/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Pok%C3%A9RadarIlRisvegliodeiMiti133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-134/146",
+            "name": "Tempio di Nevepoli",
+            "number": "134/146",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/TempiodiNevepoliIlRisvegliodeiMiti134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-135/146",
+            "name": "Monte Ostile",
+            "number": "135/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MonteOstileIlRisvegliodeiMiti135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-136/146",
+            "name": "Macchinario Tecnico TS-1",
+            "number": "136/146",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MacchinarioTecnicoTS-1IlRisvegliodeiMiti136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-137/146",
+            "name": "Macchinario Tecnico TS-2",
+            "number": "137/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/MacchinarioTecnicoTS-2IlRisvegliodeiMiti137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-138/146",
+            "name": "Artiglio Fossile",
+            "number": "138/146",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/ArtiglioFossileIlRisvegliodeiMiti138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-139/146",
+            "name": "Radice Fossile",
+            "number": "139/146",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/RadiceFossileIlRisvegliodeiMiti139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-140/146",
+            "name": "Azelf LIV.X",
+            "number": "140/146",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/AzelfLIVXIlRisvegliodeiMiti140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-141/146",
+            "name": "Gliscor LIV.X",
+            "number": "141/146",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/GliscorLIVXIlRisvegliodeiMiti141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-142/146",
+            "name": "Magnezone LIV.X",
+            "number": "142/146",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MagnezoneLIVXIlRisvegliodeiMiti142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-143/146",
+            "name": "Mesprit LIV.X",
+            "number": "143/146",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MespritLIVXIlRisvegliodeiMiti143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-144/146",
+            "name": "Mewtwo LIV.X",
+            "number": "144/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/MewtwoLIVXIlRisvegliodeiMiti144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-145/146",
+            "name": "Rhyperior LIV.X",
+            "number": "145/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/RhyperiorLIVXIlRisvegliodeiMiti145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LA-146/146",
+            "name": "Uxie LIV.X",
+            "number": "146/146",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/UxieLIVXIlRisvegliodeiMiti146.png",
+            "section": "Set principale"
+        }
+    ]
+}

@@ -1,0 +1,1680 @@
+{
+    "expansion": {
+        "id": "UNB",
+        "name": "Sole e Luna - Legami Inossidabili",
+        "year": 2019,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetLegami_Inossidabili.png",
+        "cardCount": 234,
+				"yellowAAlternateCardCount": 4
+    },
+    "cards": [
+        {
+            "id": "UNB-1/214",
+            "name": "Pheromosa e Buzzwole-GX",
+            "number": "1/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/PheromosaeBuzzwole-GXLegamiInossidabili1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-2/214",
+            "name": "Caterpie",
+            "number": "2/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/CaterpieLegamiInossidabili2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-3/214",
+            "name": "Metapod",
+            "number": "3/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MetapodLegamiInossidabili3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-4/214",
+            "name": "Butterfree",
+            "number": "4/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ButterfreeLegamiInossidabili4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-5/214",
+            "name": "Oddish",
+            "number": "5/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/OddishLegamiInossidabili5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-6/214",
+            "name": "Oddish",
+            "number": "6/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/OddishLegamiInossidabili6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-7/214",
+            "name": "Gloom",
+            "number": "7/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/GloomLegamiInossidabili7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-8/214",
+            "name": "Vileplume",
+            "number": "8/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/VileplumeLegamiInossidabili8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-9/214",
+            "name": "Venonat",
+            "number": "9/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/VenonatLegamiInossidabili9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-10/214",
+            "name": "Venonat",
+            "number": "10/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/VenonatLegamiInossidabili10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-11/214",
+            "name": "Venomoth",
+            "number": "11/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/VenomothLegamiInossidabili11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-12/214",
+            "name": "Venomoth-GX",
+            "number": "12/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Venomoth-GXLegamiInossidabili12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-13/214",
+            "name": "Bellsprout",
+            "number": "13/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/BellsproutLegamiInossidabili13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-14/214",
+            "name": "Weepinbell",
+            "number": "14/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/WeepinbellLegamiInossidabili14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-15/214",
+            "name": "Victreebel",
+            "number": "15/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/VictreebelLegamiInossidabili15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-16/214",
+            "name": "Tangela",
+            "number": "16/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/TangelaLegamiInossidabili16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-17/214",
+            "name": "Tangrowth",
+            "number": "17/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/TangrowthLegamiInossidabili17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-18/214",
+            "name": "Grubbin",
+            "number": "18/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/GrubbinLegamiInossidabili18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-19/214",
+            "name": "Kartana",
+            "number": "19/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/KartanaLegamiInossidabili19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-20/214",
+            "name": "Reshiram e Charizard-GX",
+            "number": "20/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ReshirameCharizard-GXLegamiInossidabili20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-21/214",
+            "name": "Growlithe",
+            "number": "21/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/GrowlitheLegamiInossidabili21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-22/214",
+            "name": "Arcanine",
+            "number": "22/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ArcanineLegamiInossidabili22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-23/214",
+            "name": "Darumaka",
+            "number": "23/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/DarumakaLegamiInossidabili23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-24/214",
+            "name": "Darmanitan",
+            "number": "24/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/DarmanitanLegamiInossidabili24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-25/214",
+            "name": "Volcanion",
+            "number": "25/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/VolcanionLegamiInossidabili25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-26/214",
+            "name": "Litten",
+            "number": "26/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LittenLegamiInossidabili26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-27/214",
+            "name": "Litten",
+            "number": "27/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/LittenLegamiInossidabili27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-28/214",
+            "name": "Torracat",
+            "number": "28/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/TorracatLegamiInossidabili28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-29/214",
+            "name": "Incineroar",
+            "number": "29/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/IncineroarLegamiInossidabili29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-30/214",
+            "name": "Salandit",
+            "number": "30/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/SalanditLegamiInossidabili30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-31/214",
+            "name": "Salazzle",
+            "number": "31/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SalazzleLegamiInossidabili31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-32/214",
+            "name": "Blacephalon",
+            "number": "32/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/BlacephalonLegamiInossidabili32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-33/214",
+            "name": "Squirtle",
+            "number": "33/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SquirtleLegamiInossidabili33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-34/214",
+            "name": "Wartortle",
+            "number": "34/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/WartortleLegamiInossidabili34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-35/214",
+            "name": "Blastoise-GX",
+            "number": "35/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Blastoise-GXLegamiInossidabili35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-36/214",
+            "name": "Poliwag",
+            "number": "36/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/PoliwagLegamiInossidabili36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-37/214",
+            "name": "Poliwag",
+            "number": "37/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/PoliwagLegamiInossidabili37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-38/214",
+            "name": "Poliwhirl",
+            "number": "38/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/PoliwhirlLegamiInossidabili38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-39/214",
+            "name": "Poliwrath",
+            "number": "39/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/PoliwrathLegamiInossidabili39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-40/214",
+            "name": "Tentacool",
+            "number": "40/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/TentacoolLegamiInossidabili40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-41/214",
+            "name": "Tentacruel",
+            "number": "41/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/TentacruelLegamiInossidabili41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-42/214",
+            "name": "Slowpoke",
+            "number": "42/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/SlowpokeLegamiInossidabili42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-43/214",
+            "name": "Slowbro",
+            "number": "43/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/SlowbroLegamiInossidabili43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-44/214",
+            "name": "Seel",
+            "number": "44/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/SeelLegamiInossidabili44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-45/214",
+            "name": "Dewgong",
+            "number": "45/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/DewgongLegamiInossidabili45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-46/214",
+            "name": "Krabby",
+            "number": "46/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/KrabbyLegamiInossidabili46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-47/214",
+            "name": "Kingler",
+            "number": "47/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/KinglerLegamiInossidabili47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-48/214",
+            "name": "Goldeen",
+            "number": "48/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/GoldeenLegamiInossidabili48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-49/214",
+            "name": "Seaking",
+            "number": "49/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/SeakingLegamiInossidabili49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-50/214",
+            "name": "Kyurem",
+            "number": "50/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/KyuremLegamiInossidabili50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-51/214",
+            "name": "Froakie",
+            "number": "51/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/FroakieLegamiInossidabili51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-52/214",
+            "name": "Frogadier",
+            "number": "52/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/FrogadierLegamiInossidabili52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-53/214",
+            "name": "Pyukumuku",
+            "number": "53/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/PyukumukuLegamiInossidabili53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-54/214",
+            "name": "Pikachu",
+            "number": "54/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/PikachuLegamiInossidabili54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-55/214",
+            "name": "Raichu",
+            "number": "55/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/RaichuLegamiInossidabili55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-56/214",
+            "name": "Stunfisk",
+            "number": "56/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/StunfiskLegamiInossidabili56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-57/214",
+            "name": "Dedenne-GX",
+            "number": "57/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Dedenne-GXLegamiInossidabili57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-58/214",
+            "name": "Charjabug",
+            "number": "58/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/CharjabugLegamiInossidabili58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-59/214",
+            "name": "Vikavolt",
+            "number": "59/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/VikavoltLegamiInossidabili59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-60/214",
+            "name": "Zeraora",
+            "number": "60/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/ZeraoraLegamiInossidabili60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-61/214",
+            "name": "Muk e Muk di Alola-GX",
+            "number": "61/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MukeMukdiAlola-GXLegamiInossidabili61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-62/214",
+            "name": "Ekans",
+            "number": "62/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/EkansLegamiInossidabili62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-63/214",
+            "name": "Arbok",
+            "number": "63/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/ArbokLegamiInossidabili63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-64/214",
+            "name": "Zubat",
+            "number": "64/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ZubatLegamiInossidabili64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-65/214",
+            "name": "Golbat",
+            "number": "65/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/GolbatLegamiInossidabili65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-66/214",
+            "name": "Crobat",
+            "number": "66/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/CrobatLegamiInossidabili66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-67/214",
+            "name": "Gastly",
+            "number": "67/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/GastlyLegamiInossidabili67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-68/214",
+            "name": "Gastly",
+            "number": "68/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/GastlyLegamiInossidabili68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-69/214",
+            "name": "Haunter",
+            "number": "69/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/HaunterLegamiInossidabili69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-70/214",
+            "name": "Gengar",
+            "number": "70/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/GengarLegamiInossidabili70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-71/214",
+            "name": "Drowzee",
+            "number": "71/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/DrowzeeLegamiInossidabili71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-72/214",
+            "name": "Hypno",
+            "number": "72/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/HypnoLegamiInossidabili72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-73/214",
+            "name": "Koffing",
+            "number": "73/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/KoffingLegamiInossidabili73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-74/214",
+            "name": "Weezing",
+            "number": "74/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/WeezingLegamiInossidabili74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-75/214",
+            "name": "Mewtwo",
+            "number": "75/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/MewtwoLegamiInossidabili75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-76/214",
+            "name": "Mew",
+            "number": "76/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MewLegamiInossidabili76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-77/214",
+            "name": "Misdreavus",
+            "number": "77/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MisdreavusLegamiInossidabili77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-78/214",
+            "name": "Mismagius",
+            "number": "78/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MismagiusLegamiInossidabili78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-79/214",
+            "name": "Espurr",
+            "number": "79/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/EspurrLegamiInossidabili79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-80/214",
+            "name": "Meowstic",
+            "number": "80/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MeowsticLegamiInossidabili80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-81/214",
+            "name": "Marshadow",
+            "number": "81/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/MarshadowLegamiInossidabili81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-82/214",
+            "name": "Marshadow e Machamp-GX",
+            "number": "82/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/MarshadoweMachamp-GXLegamiInossidabili82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-83/214",
+            "name": "Sandshrew",
+            "number": "83/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/SandshrewLegamiInossidabili83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-84/214",
+            "name": "Sandslash",
+            "number": "84/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SandslashLegamiInossidabili84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-85/214",
+            "name": "Diglett",
+            "number": "85/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/DiglettLegamiInossidabili85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-86/214",
+            "name": "Dugtrio",
+            "number": "86/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/DugtrioLegamiInossidabili86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-87/214",
+            "name": "Geodude",
+            "number": "87/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/GeodudeLegamiInossidabili87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-88/214",
+            "name": "Graveler",
+            "number": "88/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/GravelerLegamiInossidabili88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-89/214",
+            "name": "Golem",
+            "number": "89/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/GolemLegamiInossidabili89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-90/214",
+            "name": "Cubone",
+            "number": "90/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/CuboneLegamiInossidabili90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-91/214",
+            "name": "Marowak",
+            "number": "91/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/MarowakLegamiInossidabili91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-92/214",
+            "name": "Rhyhorn",
+            "number": "92/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/RhyhornLegamiInossidabili92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-93/214",
+            "name": "Rhyhorn",
+            "number": "93/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/RhyhornLegamiInossidabili93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-94/214",
+            "name": "Rhydon",
+            "number": "94/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/RhydonLegamiInossidabili94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-95/214",
+            "name": "Rhyperior",
+            "number": "95/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/RhyperiorLegamiInossidabili95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-96/214",
+            "name": "Wooper",
+            "number": "96/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/WooperLegamiInossidabili96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-97/214",
+            "name": "Quagsire",
+            "number": "97/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/QuagsireLegamiInossidabili97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-98/214",
+            "name": "Gligar",
+            "number": "98/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/GligarLegamiInossidabili98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-99/214",
+            "name": "Gliscor",
+            "number": "99/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/GliscorLegamiInossidabili99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-100/214",
+            "name": "Tyrogue",
+            "number": "100/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/TyrogueLegamiInossidabili100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-101/214",
+            "name": "Hitmontop",
+            "number": "101/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/HitmontopLegamiInossidabili101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-102/214",
+            "name": "Riolu",
+            "number": "102/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/RioluLegamiInossidabili102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-103/214",
+            "name": "Landorus",
+            "number": "103/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LandorusLegamiInossidabili103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-104/214",
+            "name": "Crabrawler",
+            "number": "104/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CrabrawlerLegamiInossidabili104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-105/214",
+            "name": "Crabominable",
+            "number": "105/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/CrabominableLegamiInossidabili105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-106/214",
+            "name": "Stakataka",
+            "number": "106/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/StakatakaLegamiInossidabili106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-107/214",
+            "name": "Greninja e Zoroark-GX",
+            "number": "107/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/GreninjaeZoroark-GXLegamiInossidabili107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-108/214",
+            "name": "Murkrow",
+            "number": "108/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MurkrowLegamiInossidabili108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-109/214",
+            "name": "Honchkrow-GX",
+            "number": "109/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Honchkrow-GXLegamiInossidabili109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-110/214",
+            "name": "Carvanha",
+            "number": "110/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/CarvanhaLegamiInossidabili110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-111/214",
+            "name": "Sharpedo",
+            "number": "111/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/SharpedoLegamiInossidabili111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-112/214",
+            "name": "Spiritomb",
+            "number": "112/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/SpiritombLegamiInossidabili112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-113/214",
+            "name": "Sandile",
+            "number": "113/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/SandileLegamiInossidabili113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-114/214",
+            "name": "Sandile",
+            "number": "114/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SandileLegamiInossidabili114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-115/214",
+            "name": "Krokorok",
+            "number": "115/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/KrokorokLegamiInossidabili115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-116/214",
+            "name": "Krookodile",
+            "number": "116/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/KrookodileLegamiInossidabili116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-117/214",
+            "name": "Greninja",
+            "number": "117/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/GreninjaLegamiInossidabili117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-118/214",
+            "name": "Inkay",
+            "number": "118/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/InkayLegamiInossidabili118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-119/214",
+            "name": "Malamar",
+            "number": "119/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MalamarLegamiInossidabili119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-120/214",
+            "name": "Lucario e Melmetal-GX",
+            "number": "120/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/LucarioeMelmetal-GXLegamiInossidabili120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-121/214",
+            "name": "Diglett di Alola",
+            "number": "121/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DiglettdiAlolaLegamiInossidabili121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-122/214",
+            "name": "Dugtrio di Alola",
+            "number": "122/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/DugtriodiAlolaLegamiInossidabili122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-123/214",
+            "name": "Aron",
+            "number": "123/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/AronLegamiInossidabili123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-124/214",
+            "name": "Lairon",
+            "number": "124/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/LaironLegamiInossidabili124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-125/214",
+            "name": "Aggron",
+            "number": "125/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/AggronLegamiInossidabili125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-126/214",
+            "name": "Lucario",
+            "number": "126/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/LucarioLegamiInossidabili126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-127/214",
+            "name": "Genesect",
+            "number": "127/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/GenesectLegamiInossidabili127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-128/214",
+            "name": "Meltan",
+            "number": "128/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/MeltanLegamiInossidabili128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-129/214",
+            "name": "Melmetal",
+            "number": "129/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MelmetalLegamiInossidabili129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-130/214",
+            "name": "Gardevoir e Sylveon-GX",
+            "number": "130/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/GardevoireSylveon-GXLegamiInossidabili130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-131/214",
+            "name": "Cleffa",
+            "number": "131/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CleffaLegamiInossidabili131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-132/214",
+            "name": "Clefairy",
+            "number": "132/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/ClefairyLegamiInossidabili132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-133/214",
+            "name": "Clefable",
+            "number": "133/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/ClefableLegamiInossidabili133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-134/214",
+            "name": "Jigglypuff",
+            "number": "134/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/JigglypuffLegamiInossidabili134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-135/214",
+            "name": "Wigglytuff",
+            "number": "135/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/WigglytuffLegamiInossidabili135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-136/214",
+            "name": "Togepi",
+            "number": "136/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/TogepiLegamiInossidabili136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-137/214",
+            "name": "Togetic",
+            "number": "137/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/TogeticLegamiInossidabili137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-138/214",
+            "name": "Togekiss",
+            "number": "138/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/TogekissLegamiInossidabili138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-139/214",
+            "name": "Cottonee",
+            "number": "139/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/CottoneeLegamiInossidabili139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-140/214",
+            "name": "Whimsicott-GX",
+            "number": "140/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/Whimsicott-GXLegamiInossidabili140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-141/214",
+            "name": "Spritzee",
+            "number": "141/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/SpritzeeLegamiInossidabili141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-142/214",
+            "name": "Aromatisse",
+            "number": "142/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/AromatisseLegamiInossidabili142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-143/214",
+            "name": "Rattata",
+            "number": "143/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/RattataLegamiInossidabili143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-144/214",
+            "name": "Raticate",
+            "number": "144/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RaticateLegamiInossidabili144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-145/214",
+            "name": "Spearow",
+            "number": "145/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SpearowLegamiInossidabili145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-146/214",
+            "name": "Fearow",
+            "number": "146/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/FearowLegamiInossidabili146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-147/214",
+            "name": "Meowth",
+            "number": "147/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/MeowthLegamiInossidabili147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-148/214",
+            "name": "Persian",
+            "number": "148/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/PersianLegamiInossidabili148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-149/214",
+            "name": "Persian-GX",
+            "number": "149/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/Persian-GXLegamiInossidabili149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-150/214",
+            "name": "Doduo",
+            "number": "150/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/DoduoLegamiInossidabili150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-151/214",
+            "name": "Dodrio",
+            "number": "151/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/DodrioLegamiInossidabili151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-152/214",
+            "name": "Lickitung",
+            "number": "152/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/LickitungLegamiInossidabili152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-153/214",
+            "name": "Lickilicky",
+            "number": "153/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/LickilickyLegamiInossidabili153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-154/214",
+            "name": "Porygon",
+            "number": "154/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/PorygonLegamiInossidabili154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-155/214",
+            "name": "Porygon",
+            "number": "155/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/PorygonLegamiInossidabili155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-156/214",
+            "name": "Porygon2",
+            "number": "156/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Porygon2LegamiInossidabili156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-157/214",
+            "name": "Porygon-Z",
+            "number": "157/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Porygon-ZLegamiInossidabili157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-158/214",
+            "name": "Snorlax",
+            "number": "158/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SnorlaxLegamiInossidabili158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-159/214",
+            "name": "Glameow",
+            "number": "159/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/GlameowLegamiInossidabili159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-160/214",
+            "name": "Purugly",
+            "number": "160/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/PuruglyLegamiInossidabili160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-161/214",
+            "name": "Happiny",
+            "number": "161/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/HappinyLegamiInossidabili161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-162/214",
+            "name": "Chatot",
+            "number": "162/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ChatotLegamiInossidabili162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-163/214",
+            "name": "Celesteela-GX",
+            "number": "163/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/Celesteela-GXLegamiInossidabili163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-164/214",
+            "name": "Ultraganasce",
+            "number": "164/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/UltraganasceLegamiInossidabili164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-165/214",
+            "name": "Picchetto Rompighiaccio",
+            "number": "165/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/PicchettoRompighiaccioLegamiInossidabili165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-166/214",
+            "name": "Getto di Involuzione Z",
+            "number": "166/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GettodiInvoluzioneZLegamiInossidabili166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-167/214",
+            "name": "Neropietra",
+            "number": "167/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/NeropietraLegamiInossidabili167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-168/214",
+            "name": "Isola Tossica",
+            "number": "168/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/IsolaTossicaLegamiInossidabili168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-169/214",
+            "name": "Radar Elettromagnetico",
+            "number": "169/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/RadarElettromagneticoLegamiInossidabili169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-170/214",
+            "name": "Spinner Energetico",
+            "number": "170/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SpinnerEnergeticoLegamiInossidabili170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-171/214",
+            "name": "Amuleto Folletto Abilità",
+            "number": "171/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/AmuletoFollettoAbilit%C3%A0LegamiInossidabili171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-172/214",
+            "name": "Amuleto Folletto L",
+            "number": "172/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/AmuletoFollettoLLegamiInossidabili172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-173/214",
+            "name": "Cristallo di Fuoco",
+            "number": "173/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CristallodiFuocoLegamiInossidabili173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-174/214",
+            "name": "Esilio di Giovanni",
+            "number": "174/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/EsiliodiGiovanniLegamiInossidabili174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-175/214",
+            "name": "Esplorazione di Verde",
+            "number": "175/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/EsplorazionediVerdeLegamiInossidabili175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-176/214",
+            "name": "Nina",
+            "number": "176/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/NinaLegamiInossidabili176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-177/214",
+            "name": "Trappola di Koga",
+            "number": "177/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/TrappoladiKogaLegamiInossidabili177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-178/214",
+            "name": "Strategia di Lt. Surge",
+            "number": "178/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/StrategiadiLt.SurgeLegamiInossidabili178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-179/214",
+            "name": "Dojo di Arti Marziali",
+            "number": "179/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/DojodiArtiMarzialiLegamiInossidabili179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-180/214",
+            "name": "Barriera Metallica",
+            "number": "180/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/BarrieraMetallicaLegamiInossidabili180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-181/214",
+            "name": "Tapso",
+            "number": "181/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/TapsoLegamiInossidabili181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-182/214",
+            "name": "Pokégear 3.0",
+            "number": "182/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Pok%C3%A9gear30LegamiInossidabili182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-183/214",
+            "name": "Centrale Elettrica",
+            "number": "183/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/CentraleElettricaLegamiInossidabili183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-184/214",
+            "name": "Sfida di Rosso",
+            "number": "184/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/SfidadiRossoLegamiInossidabili184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-185/214",
+            "name": "Manuel Oak",
+            "number": "185/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ManuelOakLegamiInossidabili185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-186/214",
+            "name": "Cappuccio Furtivo",
+            "number": "186/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/CappuccioFurtivoLegamiInossidabili186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-187/214",
+            "name": "Scatola a Sorpresa",
+            "number": "187/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ScatolaaSorpresaLegamiInossidabili187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-188/214",
+            "name": "Mastro Karta dell'Ultraforesta",
+            "number": "188/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MastroKartadellUltraforestaLegamiInossidabili188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-189/214",
+            "name": "Saldatrice",
+            "number": "189/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/SaldatriceLegamiInossidabili189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-190/214",
+            "name": "Energia Accelerazione Tripla",
+            "number": "190/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EnergiaAccelerazioneTriplaLegamiInossidabili190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-191/214",
+            "name": "Pheromosa e Buzzwole-GX",
+            "number": "191/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/PheromosaeBuzzwole-GXLegamiInossidabili191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-192/214",
+            "name": "Pheromosa e Buzzwole-GX",
+            "number": "192/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/PheromosaeBuzzwole-GXLegamiInossidabili192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-193/214",
+            "name": "Venomoth-GX",
+            "number": "193/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Venomoth-GXLegamiInossidabili193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-194/214",
+            "name": "Reshiram e Charizard-GX",
+            "number": "194/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ReshirameCharizard-GXLegamiInossidabili194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-195/214",
+            "name": "Dedenne-GX",
+            "number": "195/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Dedenne-GXLegamiInossidabili195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-196/214",
+            "name": "Muk e Muk di Alola-GX",
+            "number": "196/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MukeMukdiAlola-GXLegamiInossidabili196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-197/214",
+            "name": "Muk e Muk di Alola-GX",
+            "number": "197/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MukeMukdiAlola-GXLegamiInossidabili197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-198/214",
+            "name": "Marshadow e Machamp-GX",
+            "number": "198/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MarshadoweMachamp-GXLegamiInossidabili198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-199/214",
+            "name": "Marshadow e Machamp-GX",
+            "number": "199/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/MarshadoweMachamp-GXLegamiInossidabili199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-200/214",
+            "name": "Greninja e Zoroark-GX",
+            "number": "200/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/GreninjaeZoroark-GXLegamiInossidabili200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-201/214",
+            "name": "Greninja e Zoroark-GX",
+            "number": "201/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/GreninjaeZoroark-GXLegamiInossidabili201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-202/214",
+            "name": "Honchkrow-GX",
+            "number": "202/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Honchkrow-GXLegamiInossidabili202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-203/214",
+            "name": "Lucario e Melmetal-GX",
+            "number": "203/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/LucarioeMelmetal-GXLegamiInossidabili203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-204/214",
+            "name": "Gardevoir e Sylveon-GX",
+            "number": "204/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/GardevoireSylveon-GXLegamiInossidabili204.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-205/214",
+            "name": "Gardevoir e Sylveon-GX",
+            "number": "205/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/GardevoireSylveon-GXLegamiInossidabili205.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-206/214",
+            "name": "Whimsicott-GX",
+            "number": "206/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Whimsicott-GXLegamiInossidabili206.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-207/214",
+            "name": "Persian-GX",
+            "number": "207/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Persian-GXLegamiInossidabili207.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-208/214",
+            "name": "Celesteela-GX",
+            "number": "208/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Celesteela-GXLegamiInossidabili208.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-209/214",
+            "name": "Esplorazione di Verde",
+            "number": "209/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EsplorazionediVerdeLegamiInossidabili209.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-210/214",
+            "name": "Nina",
+            "number": "210/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/NinaLegamiInossidabili210.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-211/214",
+            "name": "Trappola di Koga",
+            "number": "211/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TrappoladiKogaLegamiInossidabili211.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-212/214",
+            "name": "Tapso",
+            "number": "212/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/TapsoLegamiInossidabili212.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-213/214",
+            "name": "Sfida di Rosso",
+            "number": "213/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SfidadiRossoLegamiInossidabili213.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-214/214",
+            "name": "Saldatrice",
+            "number": "214/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SaldatriceLegamiInossidabili214.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNB-215/214",
+            "name": "Pheromosa e Buzzwole-GX",
+            "number": "215/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PheromosaeBuzzwole-GXLegamiInossidabili215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-216/214",
+            "name": "Venomoth-GX",
+            "number": "216/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Venomoth-GXLegamiInossidabili216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-217/214",
+            "name": "Reshiram e Charizard-GX",
+            "number": "217/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/ReshirameCharizard-GXLegamiInossidabili217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-218/214",
+            "name": "Blastoise-GX",
+            "number": "218/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Blastoise-GXLegamiInossidabili218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-219/214",
+            "name": "Dedenne-GX",
+            "number": "219/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Dedenne-GXLegamiInossidabili219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-220/214",
+            "name": "Muk e Muk di Alola-GX",
+            "number": "220/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MukeMukdiAlola-GXLegamiInossidabili220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-221/214",
+            "name": "Marshadow e Machamp-GX",
+            "number": "221/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MarshadoweMachamp-GXLegamiInossidabili221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-222/214",
+            "name": "Greninja e Zoroark-GX",
+            "number": "222/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/GreninjaeZoroark-GXLegamiInossidabili222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-223/214",
+            "name": "Honchkrow-GX",
+            "number": "223/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/Honchkrow-GXLegamiInossidabili223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-224/214",
+            "name": "Lucario e Melmetal-GX",
+            "number": "224/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/LucarioeMelmetal-GXLegamiInossidabili224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-225/214",
+            "name": "Gardevoir e Sylveon-GX",
+            "number": "225/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/GardevoireSylveon-GXLegamiInossidabili225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-226/214",
+            "name": "Whimsicott-GX",
+            "number": "226/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Whimsicott-GXLegamiInossidabili226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-227/214",
+            "name": "Persian-GX",
+            "number": "227/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Persian-GXLegamiInossidabili227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-228/214",
+            "name": "Celesteela-GX",
+            "number": "228/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Celesteela-GXLegamiInossidabili228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-229/214",
+            "name": "Ultraganasce",
+            "number": "229/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/UltraganasceLegamiInossidabili229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-230/214",
+            "name": "Radar Elettromagnetico",
+            "number": "230/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/RadarElettromagneticoLegamiInossidabili230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-231/214",
+            "name": "Cristallo di Fuoco",
+            "number": "231/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CristallodiFuocoLegamiInossidabili231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-232/214",
+            "name": "Barriera Metallica",
+            "number": "232/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/BarrieraMetallicaLegamiInossidabili232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-233/214",
+            "name": "Pokégear 3.0",
+            "number": "233/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/Pok%C3%A9gear30LegamiInossidabili233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-234/214",
+            "name": "Energia Accelerazione Tripla",
+            "number": "234/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/EnergiaAccelerazioneTriplaLegamiInossidabili234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNB-182a/214",
+            "name": "Pokégear 3.0",
+            "number": "182a/214",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UNB-182b/214",
+            "name": "Pokégear 3.0",
+            "number": "182b/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Pok%C3%A9gear30LegamiInossidabili182b.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UNB-189a/214",
+            "name": "Saldatrice",
+            "number": "189a/214",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UNB-195a/214",
+            "name": "Dedenne-GX",
+            "number": "195a/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Dedenne-GXLegamiInossidabili195a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

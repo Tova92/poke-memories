@@ -1,0 +1,1400 @@
+{
+    "expansion": {
+        "id": "TEU",
+        "name": "Sole e Luna - Gioco di Squadra",
+        "year": 2019,
+        "month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetGioco_di_Squadra.png",
+        "cardCount": 196,
+				"yellowAAlternateCardCount": 2
+    },
+    "cards": [
+        {
+            "id": "TEU-1/181",
+            "name": "Celebi e Venusaur-GX",
+            "number": "1/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/CelebieVenusaur-GXGiocodiSquadra1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-2/181",
+            "name": "Weedle",
+            "number": "2/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/WeedleGiocodiSquadra2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-3/181",
+            "name": "Weedle",
+            "number": "3/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/WeedleGiocodiSquadra3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-4/181",
+            "name": "Kakuna",
+            "number": "4/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KakunaGiocodiSquadra4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-5/181",
+            "name": "Beedrill",
+            "number": "5/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BeedrillGiocodiSquadra5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-6/181",
+            "name": "Paras",
+            "number": "6/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/ParasGiocodiSquadra6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-7/181",
+            "name": "Parasect",
+            "number": "7/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/ParasectGiocodiSquadra7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-8/181",
+            "name": "Exeggcute",
+            "number": "8/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/ExeggcuteGiocodiSquadra8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-9/181",
+            "name": "Pinsir",
+            "number": "9/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PinsirGiocodiSquadra9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-10/181",
+            "name": "Shaymin ◇",
+            "number": "10/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ShayminGiocodiSquadra10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-11/181",
+            "name": "Charmander",
+            "number": "11/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/CharmanderGiocodiSquadra11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-12/181",
+            "name": "Charmander",
+            "number": "12/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CharmanderGiocodiSquadra12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-13/181",
+            "name": "Charmeleon",
+            "number": "13/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/CharmeleonGiocodiSquadra13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-14/181",
+            "name": "Charizard",
+            "number": "14/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CharizardGiocodiSquadra14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-15/181",
+            "name": "Vulpix",
+            "number": "15/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/VulpixGiocodiSquadra15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-16/181",
+            "name": "Ninetales",
+            "number": "16/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/NinetalesGiocodiSquadra16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-17/181",
+            "name": "Ponyta",
+            "number": "17/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/PonytaGiocodiSquadra17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-18/181",
+            "name": "Rapidash",
+            "number": "18/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/RapidashGiocodiSquadra18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-19/181",
+            "name": "Moltres",
+            "number": "19/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/MoltresGiocodiSquadra19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-20/181",
+            "name": "Litten",
+            "number": "20/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/LittenGiocodiSquadra20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-21/181",
+            "name": "Torracat",
+            "number": "21/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/TorracatGiocodiSquadra21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-22/181",
+            "name": "Squirtle",
+            "number": "22/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SquirtleGiocodiSquadra22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-23/181",
+            "name": "Squirtle",
+            "number": "23/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SquirtleGiocodiSquadra23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-24/181",
+            "name": "Wartortle",
+            "number": "24/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/WartortleGiocodiSquadra24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-25/181",
+            "name": "Blastoise",
+            "number": "25/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/BlastoiseGiocodiSquadra25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-26/181",
+            "name": "Psyduck",
+            "number": "26/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/PsyduckGiocodiSquadra26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-27/181",
+            "name": "Golduck",
+            "number": "27/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/GolduckGiocodiSquadra27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-28/181",
+            "name": "Staryu",
+            "number": "28/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/StaryuGiocodiSquadra28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-29/181",
+            "name": "Magikarp",
+            "number": "29/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MagikarpGiocodiSquadra29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-30/181",
+            "name": "Gyarados",
+            "number": "30/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GyaradosGiocodiSquadra30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-31/181",
+            "name": "Lapras",
+            "number": "31/181",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/LaprasGiocodiSquadra31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-32/181",
+            "name": "Articuno",
+            "number": "32/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ArticunoGiocodiSquadra32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-33/181",
+            "name": "Pikachu e Zekrom-GX",
+            "number": "33/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/PikachueZekrom-GXGiocodiSquadra33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-34/181",
+            "name": "Geodude di Alola",
+            "number": "34/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/GeodudediAlolaGiocodiSquadra34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-35/181",
+            "name": "Geodude di Alola",
+            "number": "35/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/GeodudediAlolaGiocodiSquadra35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-36/181",
+            "name": "Graveler di Alola",
+            "number": "36/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/GravelerdiAlolaGiocodiSquadra36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-37/181",
+            "name": "Golem di Alola",
+            "number": "37/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/GolemdiAlolaGiocodiSquadra37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-38/181",
+            "name": "Voltorb",
+            "number": "38/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/VoltorbGiocodiSquadra38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-39/181",
+            "name": "Electrode",
+            "number": "39/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ElectrodeGiocodiSquadra39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-40/181",
+            "name": "Zapdos",
+            "number": "40/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/ZapdosGiocodiSquadra40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-41/181",
+            "name": "Mareep",
+            "number": "41/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/MareepGiocodiSquadra41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-42/181",
+            "name": "Flaaffy",
+            "number": "42/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/FlaaffyGiocodiSquadra42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-43/181",
+            "name": "Ampharos-GX",
+            "number": "43/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Ampharos-GXGiocodiSquadra43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-44/181",
+            "name": "Blitzle",
+            "number": "44/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/BlitzleGiocodiSquadra44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-45/181",
+            "name": "Zebstrika",
+            "number": "45/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ZebstrikaGiocodiSquadra45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-46/181",
+            "name": "Emolga",
+            "number": "46/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/EmolgaGiocodiSquadra46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-47/181",
+            "name": "Joltik",
+            "number": "47/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/JoltikGiocodiSquadra47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-48/181",
+            "name": "Galvantula",
+            "number": "48/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/GalvantulaGiocodiSquadra48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-49/181",
+            "name": "Helioptile",
+            "number": "49/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/HelioptileGiocodiSquadra49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-50/181",
+            "name": "Heliolisk",
+            "number": "50/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/HelioliskGiocodiSquadra50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-51/181",
+            "name": "Tapu Koko ◇",
+            "number": "51/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/TapuKokoGiocodiSquadra51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-52/181",
+            "name": "Zeraora",
+            "number": "52/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ZeraoraGiocodiSquadra52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-53/181",
+            "name": "Gengar e Mimikyu-GX",
+            "number": "53/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/GengareMimikyu-GXGiocodiSquadra53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-54/181",
+            "name": "Nidoran♀",
+            "number": "54/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/NidoranGiocodiSquadra54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-55/181",
+            "name": "Nidorina",
+            "number": "55/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/NidorinaGiocodiSquadra55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-56/181",
+            "name": "Nidoqueen",
+            "number": "56/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/NidoqueenGiocodiSquadra56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-57/181",
+            "name": "Nidoran♂",
+            "number": "57/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/NidoranGiocodiSquadra57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-58/181",
+            "name": "Nidorino",
+            "number": "58/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/NidorinoGiocodiSquadra58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-59/181",
+            "name": "Nidoking",
+            "number": "59/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/NidokingGiocodiSquadra59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-60/181",
+            "name": "Tentacool",
+            "number": "60/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/TentacoolGiocodiSquadra60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-61/181",
+            "name": "Tentacruel",
+            "number": "61/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/TentacruelGiocodiSquadra61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-62/181",
+            "name": "Grimer",
+            "number": "62/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/GrimerGiocodiSquadra62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-63/181",
+            "name": "Muk",
+            "number": "63/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/MukGiocodiSquadra63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-64/181",
+            "name": "Marowak di Alola",
+            "number": "64/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MarowakdiAlolaGiocodiSquadra64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-65/181",
+            "name": "Starmie",
+            "number": "65/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/StarmieGiocodiSquadra65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-66/181",
+            "name": "Mr. Mime",
+            "number": "66/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Mr.MimeGiocodiSquadra66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-67/181",
+            "name": "Mr. Mime-GX",
+            "number": "67/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/Mr.Mime-GXGiocodiSquadra67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-68/181",
+            "name": "Jynx",
+            "number": "68/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/JynxGiocodiSquadra68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-69/181",
+            "name": "Cosmog",
+            "number": "69/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/CosmogGiocodiSquadra69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-70/181",
+            "name": "Cosmoem",
+            "number": "70/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/CosmoemGiocodiSquadra70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-71/181",
+            "name": "Mankey",
+            "number": "71/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MankeyGiocodiSquadra71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-72/181",
+            "name": "Primeape",
+            "number": "72/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PrimeapeGiocodiSquadra72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-73/181",
+            "name": "Hitmonlee",
+            "number": "73/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/HitmonleeGiocodiSquadra73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-74/181",
+            "name": "Hitmonchan",
+            "number": "74/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/HitmonchanGiocodiSquadra74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-75/181",
+            "name": "Omanyte",
+            "number": "75/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/OmanyteGiocodiSquadra75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-76/181",
+            "name": "Omastar",
+            "number": "76/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/OmastarGiocodiSquadra76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-77/181",
+            "name": "Kabuto",
+            "number": "77/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/KabutoGiocodiSquadra77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-78/181",
+            "name": "Kabutops",
+            "number": "78/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/KabutopsGiocodiSquadra78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-79/181",
+            "name": "Larvitar",
+            "number": "79/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/LarvitarGiocodiSquadra79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-80/181",
+            "name": "Pupitar",
+            "number": "80/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/PupitarGiocodiSquadra80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-81/181",
+            "name": "Pancham",
+            "number": "81/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/PanchamGiocodiSquadra81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-82/181",
+            "name": "Lycanroc-GX",
+            "number": "82/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/Lycanroc-GXGiocodiSquadra82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-83/181",
+            "name": "Grimer di Alola",
+            "number": "83/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/GrimerdiAlolaGiocodiSquadra83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-84/181",
+            "name": "Muk di Alola",
+            "number": "84/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MukdiAlolaGiocodiSquadra84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-85/181",
+            "name": "Tyranitar",
+            "number": "85/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/TyranitarGiocodiSquadra85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-86/181",
+            "name": "Poochyena",
+            "number": "86/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/PoochyenaGiocodiSquadra86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-87/181",
+            "name": "Mightyena",
+            "number": "87/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MightyenaGiocodiSquadra87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-88/181",
+            "name": "Absol",
+            "number": "88/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/AbsolGiocodiSquadra88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-89/181",
+            "name": "Spiritomb",
+            "number": "89/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SpiritombGiocodiSquadra89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-90/181",
+            "name": "Zorua",
+            "number": "90/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ZoruaGiocodiSquadra90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-91/181",
+            "name": "Zoroark",
+            "number": "91/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ZoroarkGiocodiSquadra91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-92/181",
+            "name": "Vullaby",
+            "number": "92/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/VullabyGiocodiSquadra92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-93/181",
+            "name": "Mandibuzz",
+            "number": "93/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MandibuzzGiocodiSquadra93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-94/181",
+            "name": "Pangoro",
+            "number": "94/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/PangoroGiocodiSquadra94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-95/181",
+            "name": "Yveltal",
+            "number": "95/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/YveltalGiocodiSquadra95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-96/181",
+            "name": "Hoopa-GX",
+            "number": "96/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/Hoopa-GXGiocodiSquadra96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-97/181",
+            "name": "Incineroar-GX",
+            "number": "97/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Incineroar-GXGiocodiSquadra97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-98/181",
+            "name": "Skarmory",
+            "number": "98/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SkarmoryGiocodiSquadra98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-99/181",
+            "name": "Jirachi",
+            "number": "99/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/JirachiGiocodiSquadra99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-100/181",
+            "name": "Bronzor",
+            "number": "100/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/BronzorGiocodiSquadra100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-101/181",
+            "name": "Bronzong",
+            "number": "101/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/BronzongGiocodiSquadra101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-102/181",
+            "name": "Ferroseed",
+            "number": "102/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/FerroseedGiocodiSquadra102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-103/181",
+            "name": "Ferrothorn",
+            "number": "103/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/FerrothornGiocodiSquadra103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-104/181",
+            "name": "Pawniard",
+            "number": "104/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/PawniardGiocodiSquadra104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-105/181",
+            "name": "Bisharp",
+            "number": "105/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/BisharpGiocodiSquadra105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-106/181",
+            "name": "Cobalion-GX",
+            "number": "106/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/Cobalion-GXGiocodiSquadra106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-107/181",
+            "name": "Honedge",
+            "number": "107/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/HonedgeGiocodiSquadra107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-108/181",
+            "name": "Doublade",
+            "number": "108/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/DoubladeGiocodiSquadra108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-109/181",
+            "name": "Aegislash",
+            "number": "109/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/AegislashGiocodiSquadra109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-110/181",
+            "name": "Klefki",
+            "number": "110/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/KlefkiGiocodiSquadra110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-111/181",
+            "name": "Ninetales di Alola",
+            "number": "111/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/NinetalesdiAlolaGiocodiSquadra111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-112/181",
+            "name": "Mimikyu",
+            "number": "112/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MimikyuGiocodiSquadra112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-113/181",
+            "name": "Latias e Latios-GX",
+            "number": "113/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LatiaseLatios-GXGiocodiSquadra113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-114/181",
+            "name": "Exeggutor di Alola",
+            "number": "114/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ExeggutordiAlolaGiocodiSquadra114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-115/181",
+            "name": "Exeggutor di Alola",
+            "number": "115/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ExeggutordiAlolaGiocodiSquadra115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-116/181",
+            "name": "Dratini",
+            "number": "116/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/DratiniGiocodiSquadra116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-117/181",
+            "name": "Dratini",
+            "number": "117/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/DratiniGiocodiSquadra117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-118/181",
+            "name": "Dragonair",
+            "number": "118/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DragonairGiocodiSquadra118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-119/181",
+            "name": "Dragonite",
+            "number": "119/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/DragoniteGiocodiSquadra119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-120/181",
+            "name": "Eevee e Snorlax-GX",
+            "number": "120/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/EeveeeSnorlax-GXGiocodiSquadra120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-121/181",
+            "name": "Pidgey",
+            "number": "121/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/PidgeyGiocodiSquadra121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-122/181",
+            "name": "Pidgey",
+            "number": "122/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/PidgeyGiocodiSquadra122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-123/181",
+            "name": "Pidgeotto",
+            "number": "123/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PidgeottoGiocodiSquadra123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-124/181",
+            "name": "Pidgeot",
+            "number": "124/181",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/PidgeotGiocodiSquadra124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-125/181",
+            "name": "Meowth",
+            "number": "125/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MeowthGiocodiSquadra125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-126/181",
+            "name": "Persian",
+            "number": "126/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/PersianGiocodiSquadra126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-127/181",
+            "name": "Farfetch'd",
+            "number": "127/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/FarfetchdGiocodiSquadra127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-128/181",
+            "name": "Kangaskhan",
+            "number": "128/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/KangaskhanGiocodiSquadra128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-129/181",
+            "name": "Tauros",
+            "number": "129/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/TaurosGiocodiSquadra129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-130/181",
+            "name": "Aerodactyl",
+            "number": "130/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/AerodactylGiocodiSquadra130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-131/181",
+            "name": "Lugia",
+            "number": "131/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/LugiaGiocodiSquadra131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-132/181",
+            "name": "Zangoose",
+            "number": "132/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/ZangooseGiocodiSquadra132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-133/181",
+            "name": "Analisi di Bill",
+            "number": "133/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/AnalisidiBillGiocodiSquadra133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-134/181",
+            "name": "Mercato Nero ◇",
+            "number": "134/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MercatoNeroGiocodiSquadra134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-135/181",
+            "name": "Tenacia di Brock",
+            "number": "135/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/TenaciadiBrockGiocodiSquadra135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-136/181",
+            "name": "Imbottitura",
+            "number": "136/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/ImbottituraGiocodiSquadra136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-137/181",
+            "name": "Meridia",
+            "number": "137/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/MeridiaGiocodiSquadra137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-138/181",
+            "name": "Trivella Insidiosa",
+            "number": "138/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/TrivellaInsidiosaGiocodiSquadra138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-139/181",
+            "name": "Caricatore Elettrico",
+            "number": "139/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CaricatoreElettricoGiocodiSquadra139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-140/181",
+            "name": "Ospitalità di Erika",
+            "number": "140/181",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/Ospitalit%C3%A0diErikaGiocodiSquadra140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-141/181",
+            "name": "Vespera",
+            "number": "141/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/VesperaGiocodiSquadra141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-142/181",
+            "name": "Amuleto Folletto UC",
+            "number": "142/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/AmuletoFollettoUCGiocodiSquadra142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-143/181",
+            "name": "ROM Erba",
+            "number": "143/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ROMErbaGiocodiSquadra143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-144/181",
+            "name": "Andy e Torn",
+            "number": "144/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/AndyeTornGiocodiSquadra144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-145/181",
+            "name": "Jasmine",
+            "number": "145/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/JasmineGiocodiSquadra145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-146/181",
+            "name": "Fischietto dell'Arbitro",
+            "number": "146/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/FischiettodellArbitroGiocodiSquadra146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-147/181",
+            "name": "Lavandonia",
+            "number": "147/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/LavandoniaGiocodiSquadra147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-148/181",
+            "name": "Occhialini Metallici",
+            "number": "148/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/OcchialiniMetalliciGiocodiSquadra148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-149/181",
+            "name": "Aurora",
+            "number": "149/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/AuroraGiocodiSquadra149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-150/181",
+            "name": "Augusto",
+            "number": "150/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AugustoGiocodiSquadra150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-151/181",
+            "name": "Notturna",
+            "number": "151/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/NotturnaGiocodiSquadra151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-152/181",
+            "name": "Comunicazione Pokémon",
+            "number": "152/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ComunicazionePok%C3%A9monGiocodiSquadra152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-153/181",
+            "name": "Ricevuta di Ritorno",
+            "number": "153/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/RicevutadiRitornoGiocodiSquadra153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-154/181",
+            "name": "Suggerimento di Sabrina",
+            "number": "154/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/SuggerimentodiSabrinaGiocodiSquadra154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-155/181",
+            "name": "Fossile Sconosciuto",
+            "number": "155/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/FossileSconosciutoGiocodiSquadra155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-156/181",
+            "name": "Bosco Smeraldo",
+            "number": "156/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/BoscoSmeraldoGiocodiSquadra156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-157/181",
+            "name": "ROM Acqua",
+            "number": "157/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ROMAcquaGiocodiSquadra157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-158/181",
+            "name": "Labirinto Meraviglioso ◇",
+            "number": "158/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/LabirintoMeravigliosoGiocodiSquadra158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-159/181",
+            "name": "Celebi e Venusaur-GX",
+            "number": "159/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/CelebieVenusaur-GXGiocodiSquadra159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-160/181",
+            "name": "Magikarp e Wailord-GX",
+            "number": "160/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MagikarpeWailord-GXGiocodiSquadra160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-161/181",
+            "name": "Magikarp e Wailord-GX",
+            "number": "161/181",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/MagikarpeWailord-GXGiocodiSquadra161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-162/181",
+            "name": "Pikachu e Zekrom-GX",
+            "number": "162/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/PikachueZekrom-GXGiocodiSquadra162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-163/181",
+            "name": "Ampharos-GX",
+            "number": "163/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Ampharos-GXGiocodiSquadra163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-164/181",
+            "name": "Gengar e Mimikyu-GX",
+            "number": "164/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/GengareMimikyu-GXGiocodiSquadra164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-165/181",
+            "name": "Gengar e Mimikyu-GX",
+            "number": "165/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/GengareMimikyu-GXGiocodiSquadra165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-166/181",
+            "name": "Hoopa-GX",
+            "number": "166/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Hoopa-GXGiocodiSquadra166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-167/181",
+            "name": "Incineroar-GX",
+            "number": "167/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Incineroar-GXGiocodiSquadra167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-168/181",
+            "name": "Cobalion-GX",
+            "number": "168/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Cobalion-GXGiocodiSquadra168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-169/181",
+            "name": "Latias e Latios-GX",
+            "number": "169/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/LatiaseLatios-GXGiocodiSquadra169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-170/181",
+            "name": "Latias e Latios-GX",
+            "number": "170/181",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/LatiaseLatios-GXGiocodiSquadra170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-171/181",
+            "name": "Eevee e Snorlax-GX",
+            "number": "171/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/EeveeeSnorlax-GXGiocodiSquadra171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-172/181",
+            "name": "Tenacia di Brock",
+            "number": "172/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/TenaciadiBrockGiocodiSquadra172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-173/181",
+            "name": "Meridia",
+            "number": "173/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/MeridiaGiocodiSquadra173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-174/181",
+            "name": "Ospitalità di Erika",
+            "number": "174/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Ospitalit%C3%A0diErikaGiocodiSquadra174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-175/181",
+            "name": "Vespera",
+            "number": "175/181",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/VesperaGiocodiSquadra175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-176/181",
+            "name": "Andy e Torn",
+            "number": "176/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/AndyeTornGiocodiSquadra176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-177/181",
+            "name": "Jasmine",
+            "number": "177/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/JasmineGiocodiSquadra177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-178/181",
+            "name": "Aurora",
+            "number": "178/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/AuroraGiocodiSquadra178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-179/181",
+            "name": "Augusto",
+            "number": "179/181",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/AugustoGiocodiSquadra179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-180/181",
+            "name": "Notturna",
+            "number": "180/181",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/NotturnaGiocodiSquadra180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-181/181",
+            "name": "Suggerimento di Sabrina",
+            "number": "181/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SuggerimentodiSabrinaGiocodiSquadra181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEU-182/181",
+            "name": "Celebi e Venusaur-GX",
+            "number": "182/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/CelebieVenusaur-GXGiocodiSquadra182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-183/181",
+            "name": "Magikarp e Wailord-GX",
+            "number": "183/181",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/MagikarpeWailord-GXGiocodiSquadra183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-184/181",
+            "name": "Pikachu e Zekrom-GX",
+            "number": "184/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/PikachueZekrom-GXGiocodiSquadra184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-185/181",
+            "name": "Ampharos-GX",
+            "number": "185/181",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/Ampharos-GXGiocodiSquadra185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-186/181",
+            "name": "Gengar e Mimikyu-GX",
+            "number": "186/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/GengareMimikyu-GXGiocodiSquadra186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-187/181",
+            "name": "Hoopa-GX",
+            "number": "187/181",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Hoopa-GXGiocodiSquadra187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-188/181",
+            "name": "Incineroar-GX",
+            "number": "188/181",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Incineroar-GXGiocodiSquadra188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-189/181",
+            "name": "Cobalion-GX",
+            "number": "189/181",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Cobalion-GXGiocodiSquadra189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-190/181",
+            "name": "Latias e Latios-GX",
+            "number": "190/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LatiaseLatios-GXGiocodiSquadra190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-191/181",
+            "name": "Eevee e Snorlax-GX",
+            "number": "191/181",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/EeveeeSnorlax-GXGiocodiSquadra191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-192/181",
+            "name": "Trivella Insidiosa",
+            "number": "192/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/TrivellaInsidiosaGiocodiSquadra192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-193/181",
+            "name": "Caricatore Elettrico",
+            "number": "193/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/CaricatoreElettricoGiocodiSquadra193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-194/181",
+            "name": "Fischietto dell'Arbitro",
+            "number": "194/181",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/FischiettodellArbitroGiocodiSquadra194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-195/181",
+            "name": "Occhialini Metallici",
+            "number": "195/181",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/OcchialiniMetalliciGiocodiSquadra195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-196/181",
+            "name": "Comunicazione Pokémon",
+            "number": "196/181",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/ComunicazionePok%C3%A9monGiocodiSquadra196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEU-152a/181",
+            "name": "Comunicazione Pokémon",
+            "number": "152a/181",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "TEU-152b/181",
+            "name": "Comunicazione Pokémon",
+            "number": "152b/181",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ComunicazionePok%C3%A9monGiocodiSquadra152b.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

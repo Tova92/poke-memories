@@ -1,0 +1,790 @@
+{
+    "expansion": {
+        "id": "TRR",
+        "name": "EX Team Rocket Returns",
+				"year": 2004,
+				"month": 11,
+				"language": "en",
+        "logo": "https://media.pokemoncentral.it/wiki/3/32/SimboloSetEX_Team_Rocket_Returns.png",
+        "cardCount": 111
+    },
+    "cards": [
+        {
+            "id": "TRR-1/109",
+            "name": "Azumarill",
+            "number": "1/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/AzumarillEXTeamRocketReturns1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-2/109",
+            "name": "Dark Ampharos",
+            "number": "2/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/DarkAmpharosEXTeamRocketReturns2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-3/109",
+            "name": "Dark Crobat",
+            "number": "3/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/DarkCrobatEXTeamRocketReturns3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-4/109",
+            "name": "Dark Electrode",
+            "number": "4/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/DarkElectrodeEXTeamRocketReturns4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-5/109",
+            "name": "Dark Houndoom",
+            "number": "5/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/DarkHoundoomEXTeamRocketReturns5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-6/109",
+            "name": "Dark Hypno",
+            "number": "6/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/DarkHypnoEXTeamRocketReturns6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-7/109",
+            "name": "Dark Marowak",
+            "number": "7/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DarkMarowakEXTeamRocketReturns7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-8/109",
+            "name": "Dark Octillery",
+            "number": "8/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/DarkOctilleryEXTeamRocketReturns8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-9/109",
+            "name": "Dark Slowking",
+            "number": "9/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/DarkSlowkingEXTeamRocketReturns9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-10/109",
+            "name": "Dark Steelix",
+            "number": "10/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DarkSteelixEXTeamRocketReturns10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-11/109",
+            "name": "Jumpluff",
+            "number": "11/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/JumpluffEXTeamRocketReturns11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-12/109",
+            "name": "Kingdra",
+            "number": "12/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/KingdraEXTeamRocketReturns12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-13/109",
+            "name": "Piloswine",
+            "number": "13/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/PiloswineEXTeamRocketReturns13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-14/109",
+            "name": "Togetic",
+            "number": "14/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/TogeticEXTeamRocketReturns14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-15/109",
+            "name": "Dark Dragonite",
+            "number": "15/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/DarkDragoniteEXTeamRocketReturns15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-16/109",
+            "name": "Dark Muk",
+            "number": "16/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DarkMukEXTeamRocketReturns16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-17/109",
+            "name": "Dark Raticate",
+            "number": "17/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DarkRaticateEXTeamRocketReturns17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-18/109",
+            "name": "Dark Sandslash",
+            "number": "18/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/DarkSandslashEXTeamRocketReturns18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-19/109",
+            "name": "Dark Tyranitar",
+            "number": "19/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/DarkTyranitarEXTeamRocketReturns19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-20/109",
+            "name": "Dark Tyranitar",
+            "number": "20/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/DarkTyranitarEXTeamRocketReturns20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-21/109",
+            "name": "Delibird",
+            "number": "21/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/DelibirdEXTeamRocketReturns21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-22/109",
+            "name": "Furret",
+            "number": "22/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/FurretEXTeamRocketReturns22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-23/109",
+            "name": "Ledian",
+            "number": "23/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/LedianEXTeamRocketReturns23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-24/109",
+            "name": "Magby",
+            "number": "24/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MagbyEXTeamRocketReturns24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-25/109",
+            "name": "Misdreavus",
+            "number": "25/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/MisdreavusEXTeamRocketReturns25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-26/109",
+            "name": "Quagsire",
+            "number": "26/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/QuagsireEXTeamRocketReturns26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-27/109",
+            "name": "Qwilfish",
+            "number": "27/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/QwilfishEXTeamRocketReturns27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-28/109",
+            "name": "Yanma",
+            "number": "28/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/YanmaEXTeamRocketReturns28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-29/109",
+            "name": "Dark Arbok",
+            "number": "29/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/DarkArbokEXTeamRocketReturns29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-30/109",
+            "name": "Dark Ariados",
+            "number": "30/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/DarkAriadosEXTeamRocketReturns30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-31/109",
+            "name": "Dark Dragonair",
+            "number": "31/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/DarkDragonairEXTeamRocketReturns31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-32/109",
+            "name": "Dark Dragonair",
+            "number": "32/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/DarkDragonairEXTeamRocketReturns32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-33/109",
+            "name": "Dark Flaaffy",
+            "number": "33/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/DarkFlaaffyEXTeamRocketReturns33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-34/109",
+            "name": "Dark Golbat",
+            "number": "34/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/DarkGolbatEXTeamRocketReturns34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-35/109",
+            "name": "Dark Golduck",
+            "number": "35/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/DarkGolduckEXTeamRocketReturns35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-36/109",
+            "name": "Dark Gyarados",
+            "number": "36/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DarkGyaradosEXTeamRocketReturns36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-37/109",
+            "name": "Dark Houndoom",
+            "number": "37/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/DarkHoundoomEXTeamRocketReturns37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-38/109",
+            "name": "Dark Magcargo",
+            "number": "38/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/DarkMagcargoEXTeamRocketReturns38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-39/109",
+            "name": "Dark Magneton",
+            "number": "39/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DarkMagnetonEXTeamRocketReturns39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-40/109",
+            "name": "Dark Pupitar",
+            "number": "40/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/DarkPupitarEXTeamRocketReturns40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-41/109",
+            "name": "Dark Pupitar",
+            "number": "41/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/DarkPupitarEXTeamRocketReturns41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-42/109",
+            "name": "Dark Weezing",
+            "number": "42/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/DarkWeezingEXTeamRocketReturns42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-43/109",
+            "name": "Heracross",
+            "number": "43/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/HeracrossEXTeamRocketReturns43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-44/109",
+            "name": "Magmar",
+            "number": "44/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MagmarEXTeamRocketReturns44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-45/109",
+            "name": "Mantine",
+            "number": "45/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MantineEXTeamRocketReturns45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-46/109",
+            "name": "Rocket's Meowth",
+            "number": "46/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/RocketMeowthEXTeamRocketReturns46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-47/109",
+            "name": "Rocket's Wobbuffet",
+            "number": "47/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/RocketWobbuffetEXTeamRocketReturns47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-48/109",
+            "name": "Seadra",
+            "number": "48/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/SeadraEXTeamRocketReturns48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-49/109",
+            "name": "Skiploom",
+            "number": "49/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/SkiploomEXTeamRocketReturns49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-50/109",
+            "name": "Togepi",
+            "number": "50/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/TogepiEXTeamRocketReturns50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-51/109",
+            "name": "Cubone",
+            "number": "51/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/CuboneEXTeamRocketReturns51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-52/109",
+            "name": "Dratini",
+            "number": "52/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/DratiniEXTeamRocketReturns52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-53/109",
+            "name": "Dratini",
+            "number": "53/109",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/DratiniEXTeamRocketReturns53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-54/109",
+            "name": "Drowzee",
+            "number": "54/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/DrowzeeEXTeamRocketReturns54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-55/109",
+            "name": "Ekans",
+            "number": "55/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EkansEXTeamRocketReturns55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-56/109",
+            "name": "Grimer",
+            "number": "56/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/GrimerEXTeamRocketReturns56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-57/109",
+            "name": "Hoppip",
+            "number": "57/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/HoppipEXTeamRocketReturns57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-58/109",
+            "name": "Horsea",
+            "number": "58/109",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/HorseaEXTeamRocketReturns58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-59/109",
+            "name": "Houndour",
+            "number": "59/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/HoundourEXTeamRocketReturns59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-60/109",
+            "name": "Houndour",
+            "number": "60/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/HoundourEXTeamRocketReturns60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-61/109",
+            "name": "Koffing",
+            "number": "61/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/KoffingEXTeamRocketReturns61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-62/109",
+            "name": "Larvitar",
+            "number": "62/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/LarvitarEXTeamRocketReturns62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-63/109",
+            "name": "Larvitar",
+            "number": "63/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/LarvitarEXTeamRocketReturns63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-64/109",
+            "name": "Ledyba",
+            "number": "64/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/LedybaEXTeamRocketReturns64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-65/109",
+            "name": "Magikarp",
+            "number": "65/109",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/MagikarpEXTeamRocketReturns65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-66/109",
+            "name": "Magnemite",
+            "number": "66/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MagnemiteEXTeamRocketReturns66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-67/109",
+            "name": "Mareep",
+            "number": "67/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MareepEXTeamRocketReturns67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-68/109",
+            "name": "Marill",
+            "number": "68/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MarillEXTeamRocketReturns68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-69/109",
+            "name": "Onix",
+            "number": "69/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/OnixEXTeamRocketReturns69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-70/109",
+            "name": "Psyduck",
+            "number": "70/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/PsyduckEXTeamRocketReturns70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-71/109",
+            "name": "Rattata",
+            "number": "71/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RattataEXTeamRocketReturns71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-72/109",
+            "name": "Rattata",
+            "number": "72/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/RattataEXTeamRocketReturns72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-73/109",
+            "name": "Remoraid",
+            "number": "73/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/RemoraidEXTeamRocketReturns73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-74/109",
+            "name": "Sandshrew",
+            "number": "74/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/SandshrewEXTeamRocketReturns74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-75/109",
+            "name": "Sentret",
+            "number": "75/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/SentretEXTeamRocketReturns75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-76/109",
+            "name": "Slowpoke",
+            "number": "76/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/SlowpokeEXTeamRocketReturns76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-77/109",
+            "name": "Slugma",
+            "number": "77/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/SlugmaEXTeamRocketReturns77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-78/109",
+            "name": "Spinarak",
+            "number": "78/109",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/SpinarakEXTeamRocketReturns78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-79/109",
+            "name": "Swinub",
+            "number": "79/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SwinubEXTeamRocketReturns79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-80/109",
+            "name": "Voltorb",
+            "number": "80/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/VoltorbEXTeamRocketReturns80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-81/109",
+            "name": "Wooper",
+            "number": "81/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/WooperEXTeamRocketReturns81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-82/109",
+            "name": "Zubat",
+            "number": "82/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ZubatEXTeamRocketReturns82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-83/109",
+            "name": "Copycat",
+            "number": "83/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/CopycatEXTeamRocketReturns83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-84/109",
+            "name": "Pokémon Retriever",
+            "number": "84/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Pok%C3%A9monRetrieverEXTeamRocketReturns84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-85/109",
+            "name": "Pow! Hand Extension",
+            "number": "85/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/PowHandExtensionEXTeamRocketReturns85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-86/109",
+            "name": "Rocket's Admin.",
+            "number": "86/109",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/RocketAdminEXTeamRocketReturns86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-87/109",
+            "name": "Rocket's Hideout",
+            "number": "87/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/RocketHideoutEXTeamRocketReturns87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-88/109",
+            "name": "Rocket's Mission",
+            "number": "88/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/RocketMissionEXTeamRocketReturns88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-89/109",
+            "name": "Rocket's Poké Ball",
+            "number": "89/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/RocketPkballEXTeamRocketReturns89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-90/109",
+            "name": "Rocket's Tricky Gym",
+            "number": "90/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/RocketTrickyGymEXTeamRocketReturns90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-91/109",
+            "name": "Surprise! Time Machine",
+            "number": "91/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/SurpriseTimeMachineEXTeamRocketReturns91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-92/109",
+            "name": "Swoop! Teleporter",
+            "number": "92/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SwoopTeleporterEXTeamRocketReturns92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-93/109",
+            "name": "Venture Bomb",
+            "number": "93/109",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/VentureBombEXTeamRocketReturns93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-94/109",
+            "name": "Dark Metal Energy",
+            "number": "94/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/DarkMetalEnergyEXTeamRocketReturns94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-95/109",
+            "name": "R Energy",
+            "number": "95/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/REnergyEXTeamRocketReturns95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-96/109",
+            "name": "Rocket's Articuno ex",
+            "number": "96/109",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/RocketArticunoexEXTeamRocketReturns96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-97/109",
+            "name": "Rocket's Entei ex",
+            "number": "97/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/RocketEnteiexEXTeamRocketReturns97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-98/109",
+            "name": "Rocket's Hitmonchan ex",
+            "number": "98/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/RocketHitmonchanexEXTeamRocketReturns98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-99/109",
+            "name": "Rocket's Mewtwo ex",
+            "number": "99/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/RocketMewtwoexEXTeamRocketReturns99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-100/109",
+            "name": "Rocket's Moltres ex",
+            "number": "100/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/RocketMoltresexEXTeamRocketReturns100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-101/109",
+            "name": "Rocket's Scizor ex",
+            "number": "101/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/RocketScizorexEXTeamRocketReturns101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-102/109",
+            "name": "Rocket's Scyther ex",
+            "number": "102/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/RocketScytherexEXTeamRocketReturns102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-103/109",
+            "name": "Rocket's Sneasel ex",
+            "number": "103/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RocketSneaselexEXTeamRocketReturns103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-104/109",
+            "name": "Rocket's Snorlax ex",
+            "number": "104/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/RocketSnorlaxexEXTeamRocketReturns104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-105/109",
+            "name": "Rocket's Suicune ex",
+            "number": "105/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/RocketSuicuneexEXTeamRocketReturns105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-106/109",
+            "name": "Rocket's Zapdos ex",
+            "number": "106/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/RocketZapdosexEXTeamRocketReturns106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-107/109",
+            "name": "Mudkip ☆",
+            "number": "107/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/MudkipEXTeamRocketReturns107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-108/109",
+            "name": "Torchic ☆",
+            "number": "108/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/TorchicEXTeamRocketReturns108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-109/109",
+            "name": "Treecko ☆",
+            "number": "109/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/TreeckoEXTeamRocketReturns109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TRR-110/109",
+            "name": "Charmeleon",
+            "number": "110/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/CharmeleonEXTeamRocketReturns110.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TRR-111/109",
+            "name": "Here Comes Team Rocket!",
+            "number": "111/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/HereComesTeamRocketEXTeamRocketReturns111.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

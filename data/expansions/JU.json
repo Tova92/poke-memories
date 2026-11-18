@@ -1,0 +1,461 @@
+{
+    "expansion": {
+        "id": "JU",
+        "name": "Jungle",
+				"year": 2000,
+				"month": 7,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_Jungle.png",
+        "cardCount": 64
+    },
+    "cards": [
+        {
+            "id": "JU-1/64",
+            "name": "Clefable",
+            "number": "1/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-2/64",
+            "name": "Electrode",
+            "number": "2/64",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/ElectrodeJungle2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-3/64",
+            "name": "Flareon",
+            "number": "3/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/FlareonJungle3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-4/64",
+            "name": "Jolteon",
+            "number": "4/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/JolteonJungle4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-5/64",
+            "name": "Kangaskhan",
+            "number": "5/64",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/KangaskhanJungle5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-6/64",
+            "name": "Mr. Mime",
+            "number": "6/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-7/64",
+            "name": "Nidoqueen",
+            "number": "7/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/NidoqueenJungle7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-8/64",
+            "name": "Pidgeot",
+            "number": "8/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-9/64",
+            "name": "Pinsir",
+            "number": "9/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PinsirJungle9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-10/64",
+            "name": "Scyther",
+            "number": "10/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ScytherJungle10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-11/64",
+            "name": "Snorlax",
+            "number": "11/64",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/SnorlaxJungle11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-12/64",
+            "name": "Vaporeon",
+            "number": "12/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/VaporeonJungle12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-13/64",
+            "name": "Venomoth",
+            "number": "13/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/VenomothJungle13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-14/64",
+            "name": "Victreebel",
+            "number": "14/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-15/64",
+            "name": "Vileplume",
+            "number": "15/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-16/64",
+            "name": "Wigglytuff",
+            "number": "16/64",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/WigglytuffJungle16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-17/64",
+            "name": "Clefable",
+            "number": "17/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ClefableJungle17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-18/64",
+            "name": "Electrode",
+            "number": "18/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-19/64",
+            "name": "Flareon",
+            "number": "19/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-20/64",
+            "name": "Jolteon",
+            "number": "20/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-21/64",
+            "name": "Kangaskhan",
+            "number": "21/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-22/64",
+            "name": "Mr. Mime",
+            "number": "22/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MrMimeJungle22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-23/64",
+            "name": "Nidoqueen",
+            "number": "23/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-24/64",
+            "name": "Pidgeot",
+            "number": "24/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/PidgeotJungle24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-25/64",
+            "name": "Pinsir",
+            "number": "25/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-26/64",
+            "name": "Scyther",
+            "number": "26/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-27/64",
+            "name": "Snorlax",
+            "number": "27/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-28/64",
+            "name": "Vaporeon",
+            "number": "28/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-29/64",
+            "name": "Venomoth",
+            "number": "29/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-30/64",
+            "name": "Victreebel",
+            "number": "30/64",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/VictreebelJungle30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-31/64",
+            "name": "Vileplume",
+            "number": "31/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/VileplumeJungle31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-32/64",
+            "name": "Wigglytuff",
+            "number": "32/64",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-33/64",
+            "name": "Butterfree",
+            "number": "33/64",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ButterfreeJungle33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-34/64",
+            "name": "Dodrio",
+            "number": "34/64",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/DodrioJungle34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-35/64",
+            "name": "Exeggutor",
+            "number": "35/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ExeggutorJungle35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-36/64",
+            "name": "Fearow",
+            "number": "36/64",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/FearowJungle36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-37/64",
+            "name": "Gloom",
+            "number": "37/64",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/GloomJungle37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-38/64",
+            "name": "Lickitung",
+            "number": "38/64",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/LickitungJungle38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-39/64",
+            "name": "Marowak",
+            "number": "39/64",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/MarowakJungle39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-40/64",
+            "name": "Nidorina",
+            "number": "40/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/NidorinaJungle40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-41/64",
+            "name": "Parasect",
+            "number": "41/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ParasectJungle41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-42/64",
+            "name": "Persian",
+            "number": "42/64",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/PersianJungle42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-43/64",
+            "name": "Primeape",
+            "number": "43/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/PrimeapeJungle43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-44/64",
+            "name": "Rapidash",
+            "number": "44/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/RapidashJungle44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-45/64",
+            "name": "Rhydon",
+            "number": "45/64",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/RhydonJungle45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-46/64",
+            "name": "Seaking",
+            "number": "46/64",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SeakingJungle46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-47/64",
+            "name": "Tauros",
+            "number": "47/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/TaurosJungle47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-48/64",
+            "name": "Weepinbell",
+            "number": "48/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/WeepinbellJungle48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-49/64",
+            "name": "Bellsprout",
+            "number": "49/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/BellsproutJungle49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-50/64",
+            "name": "Cubone",
+            "number": "50/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/CuboneJungle50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-51/64",
+            "name": "Eevee",
+            "number": "51/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/EeveeJungle51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-52/64",
+            "name": "Exeggcute",
+            "number": "52/64",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ExeggcuteJungle52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-53/64",
+            "name": "Goldeen",
+            "number": "53/64",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/GoldeenJungle53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-54/64",
+            "name": "Jigglypuff",
+            "number": "54/64",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/JigglypuffJungle54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-55/64",
+            "name": "Mankey",
+            "number": "55/64",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/MankeyJungle55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-56/64",
+            "name": "Meowth",
+            "number": "56/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/MeowthJungle56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-57/64",
+            "name": "Nidoran♀",
+            "number": "57/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/NidoranJungle57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-58/64",
+            "name": "Oddish",
+            "number": "58/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/OddishJungle58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-59/64",
+            "name": "Paras",
+            "number": "59/64",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/ParasJungle59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-60/64",
+            "name": "Pikachu",
+            "number": "60/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/PikachuJungle60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-61/64",
+            "name": "Rhyhorn",
+            "number": "61/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/RhyhornJungle61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-62/64",
+            "name": "Spearow",
+            "number": "62/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/SpearowJungle62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-63/64",
+            "name": "Venonat",
+            "number": "63/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/VenonatJungle63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "JU-64/64",
+            "name": "Poké Ball",
+            "number": "64/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Pok%C3%A9BallJungle64.png",
+            "section": "Set principale"
+        }
+    ]
+}

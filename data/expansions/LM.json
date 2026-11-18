@@ -1,0 +1,664 @@
+{
+    "expansion": {
+        "id": "LM",
+        "name": "EX La Leggenda di Mew",
+				"year": 2006,
+				"month": 2,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetEX_La_Leggenda_di_Mew.png",
+        "cardCount": 93
+    },
+    "cards": [
+        {
+            "id": "LM-1/92",
+            "name": "Aerodactyl",
+            "number": "1/92",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AerodactylEXLaLeggendadiMew1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-2/92",
+            "name": "Aggron",
+            "number": "2/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/AggronEXLaLeggendadiMew2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-3/92",
+            "name": "Cradily",
+            "number": "3/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/CradilyEXLaLeggendadiMew3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-4/92",
+            "name": "Delcatty",
+            "number": "4/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/DelcattyEXLaLeggendadiMew4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-5/92",
+            "name": "Gengar",
+            "number": "5/92",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/GengarEXLaLeggendadiMew5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-6/92",
+            "name": "Golem",
+            "number": "6/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/GolemEXLaLeggendadiMew6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-7/92",
+            "name": "Kabutops",
+            "number": "7/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/KabutopsEXLaLeggendadiMew7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-8/92",
+            "name": "Lapras",
+            "number": "8/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/LaprasEXLaLeggendadiMew8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-9/92",
+            "name": "Machamp",
+            "number": "9/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/MachampEXLaLeggendadiMew9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-10/92",
+            "name": "Mew",
+            "number": "10/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MewEXLaLeggendadiMew10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-11/92",
+            "name": "Muk",
+            "number": "11/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MukEXLaLeggendadiMew11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-12/92",
+            "name": "Shiftry",
+            "number": "12/92",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/ShiftryEXLaLeggendadiMew12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-13/92",
+            "name": "Victreebel",
+            "number": "13/92",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/VictreebelEXLaLeggendadiMew13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-14/92",
+            "name": "Wailord",
+            "number": "14/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/WailordEXLaLeggendadiMew14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-15/92",
+            "name": "Absol",
+            "number": "15/92",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/AbsolEXLaLeggendadiMew15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-16/92",
+            "name": "Girafarig",
+            "number": "16/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/GirafarigEXLaLeggendadiMew16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-17/92",
+            "name": "Gorebyss",
+            "number": "17/92",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/GorebyssEXLaLeggendadiMew17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-18/92",
+            "name": "Huntail",
+            "number": "18/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/HuntailEXLaLeggendadiMew18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-19/92",
+            "name": "Lanturn",
+            "number": "19/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/LanturnEXLaLeggendadiMew19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-20/92",
+            "name": "Lunatone",
+            "number": "20/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/LunatoneEXLaLeggendadiMew20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-21/92",
+            "name": "Magmar",
+            "number": "21/92",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/MagmarEXLaLeggendadiMew21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-22/92",
+            "name": "Magneton",
+            "number": "22/92",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MagnetonEXLaLeggendadiMew22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-23/92",
+            "name": "Omastar",
+            "number": "23/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/OmastarEXLaLeggendadiMew23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-24/92",
+            "name": "Pinsir",
+            "number": "24/92",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/PinsirEXLaLeggendadiMew24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-25/92",
+            "name": "Solrock",
+            "number": "25/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/SolrockEXLaLeggendadiMew25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-26/92",
+            "name": "Spinda",
+            "number": "26/92",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/SpindaEXLaLeggendadiMew26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-27/92",
+            "name": "Torkoal",
+            "number": "27/92",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/TorkoalEXLaLeggendadiMew27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-28/92",
+            "name": "Wobbuffet",
+            "number": "28/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/WobbuffetEXLaLeggendadiMew28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-29/92",
+            "name": "Anorith",
+            "number": "29/92",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/AnorithEXLaLeggendadiMew29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-30/92",
+            "name": "Cascoon",
+            "number": "30/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/CascoonEXLaLeggendadiMew30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-31/92",
+            "name": "Dunsparce",
+            "number": "31/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/DunsparceEXLaLeggendadiMew31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-32/92",
+            "name": "Electrode",
+            "number": "32/92",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ElectrodeEXLaLeggendadiMew32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-33/92",
+            "name": "Furret",
+            "number": "33/92",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/FurretEXLaLeggendadiMew33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-34/92",
+            "name": "Graveler",
+            "number": "34/92",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/GravelerEXLaLeggendadiMew34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-35/92",
+            "name": "Haunter",
+            "number": "35/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/HaunterEXLaLeggendadiMew35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-36/92",
+            "name": "Kabuto",
+            "number": "36/92",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/KabutoEXLaLeggendadiMew36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-37/92",
+            "name": "Kecleon",
+            "number": "37/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/KecleonEXLaLeggendadiMew37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-38/92",
+            "name": "Lairon",
+            "number": "38/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/LaironEXLaLeggendadiMew38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-39/92",
+            "name": "Machoke",
+            "number": "39/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MachokeEXLaLeggendadiMew39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-40/92",
+            "name": "Misdreavus",
+            "number": "40/92",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/MisdreavusEXLaLeggendadiMew40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-41/92",
+            "name": "Nuzleaf",
+            "number": "41/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/NuzleafEXLaLeggendadiMew41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-42/92",
+            "name": "Roselia",
+            "number": "42/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/RoseliaEXLaLeggendadiMew42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-43/92",
+            "name": "Sealeo",
+            "number": "43/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/SealeoEXLaLeggendadiMew43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-44/92",
+            "name": "Tangela",
+            "number": "44/92",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/TangelaEXLaLeggendadiMew44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-45/92",
+            "name": "Tentacruel",
+            "number": "45/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/TentacruelEXLaLeggendadiMew45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-46/92",
+            "name": "Vibrava",
+            "number": "46/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/VibravaEXLaLeggendadiMew46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-47/92",
+            "name": "Weepinbell",
+            "number": "47/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/WeepinbellEXLaLeggendadiMew47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-48/92",
+            "name": "Aron",
+            "number": "48/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/AronEXLaLeggendadiMew48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-49/92",
+            "name": "Bellsprout",
+            "number": "49/92",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/BellsproutEXLaLeggendadiMew49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-50/92",
+            "name": "Chinchou",
+            "number": "50/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/ChinchouEXLaLeggendadiMew50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-51/92",
+            "name": "Clamperl",
+            "number": "51/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ClamperlEXLaLeggendadiMew51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-52/92",
+            "name": "Gastly",
+            "number": "52/92",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/GastlyEXLaLeggendadiMew52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-53/92",
+            "name": "Geodude",
+            "number": "53/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/GeodudeEXLaLeggendadiMew53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-54/92",
+            "name": "Grimer",
+            "number": "54/92",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/GrimerEXLaLeggendadiMew54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-55/92",
+            "name": "Growlithe",
+            "number": "55/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/GrowlitheEXLaLeggendadiMew55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-56/92",
+            "name": "Lileep",
+            "number": "56/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/LileepEXLaLeggendadiMew56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-57/92",
+            "name": "Machop",
+            "number": "57/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MachopEXLaLeggendadiMew57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-58/92",
+            "name": "Magby",
+            "number": "58/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/MagbyEXLaLeggendadiMew58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-59/92",
+            "name": "Magnemite",
+            "number": "59/92",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/MagnemiteEXLaLeggendadiMew59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-60/92",
+            "name": "Omanyte",
+            "number": "60/92",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/OmanyteEXLaLeggendadiMew60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-61/92",
+            "name": "Seedot",
+            "number": "61/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SeedotEXLaLeggendadiMew61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-62/92",
+            "name": "Sentret",
+            "number": "62/92",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/SentretEXLaLeggendadiMew62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-63/92",
+            "name": "Shuppet",
+            "number": "63/92",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ShuppetEXLaLeggendadiMew63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-64/92",
+            "name": "Skitty",
+            "number": "64/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/SkittyEXLaLeggendadiMew64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-65/92",
+            "name": "Spheal",
+            "number": "65/92",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SphealEXLaLeggendadiMew65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-66/92",
+            "name": "Tentacool",
+            "number": "66/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/TentacoolEXLaLeggendadiMew66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-67/92",
+            "name": "Trapinch",
+            "number": "67/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/TrapinchEXLaLeggendadiMew67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-68/92",
+            "name": "Voltorb",
+            "number": "68/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/VoltorbEXLaLeggendadiMew68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-69/92",
+            "name": "Wailmer",
+            "number": "69/92",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/WailmerEXLaLeggendadiMew69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-70/92",
+            "name": "Wurmple",
+            "number": "70/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/WurmpleEXLaLeggendadiMew70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-71/92",
+            "name": "Wynaut",
+            "number": "71/92",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/WynautEXLaLeggendadiMew71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-72/92",
+            "name": "Pietra Maledetta",
+            "number": "72/92",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/PietraMaledettaEXLaLeggendadiMew72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-73/92",
+            "name": "Operatore sul Campo",
+            "number": "73/92",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/OperatoresulCampoEXLaLeggendadiMew73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-74/92",
+            "name": "Grande Incendio",
+            "number": "74/92",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/GrandeIncendioEXLaLeggendadiMew74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-75/92",
+            "name": "Tronco Gigante",
+            "number": "75/92",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/TroncoGiganteEXLaLeggendadiMew75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-76/92",
+            "name": "Albero del Potere",
+            "number": "76/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/AlberodelPotereEXLaLeggendadiMew76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-77/92",
+            "name": "Strana Caverna",
+            "number": "77/92",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/StranaCavernaEXLaLeggendadiMew77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-78/92",
+            "name": "Artiglio Fossile",
+            "number": "78/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ArtiglioFossileEXLaLeggendadiMew78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-79/92",
+            "name": "Fossile Misterioso",
+            "number": "79/92",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/FossileMisteriosoEXLaLeggendadiMew79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-80/92",
+            "name": "Radice Fossile",
+            "number": "80/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/RadiceFossileEXLaLeggendadiMew80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-81/92",
+            "name": "Energia Arcobaleno",
+            "number": "81/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/EnergiaArcobalenoEXLaLeggendadiMew81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-82/92",
+            "name": "Energia Reazione",
+            "number": "82/92",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/EnergiaReazioneEXLaLeggendadiMew82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-83/92",
+            "name": "Arcanine ex",
+            "number": "83/92",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ArcanineexEXLaLeggendadiMew83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-84/92",
+            "name": "Armaldo ex",
+            "number": "84/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/ArmaldoexEXLaLeggendadiMew84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-85/92",
+            "name": "Banette ex",
+            "number": "85/92",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/BanetteexEXLaLeggendadiMew85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-86/92",
+            "name": "Dustox ex",
+            "number": "86/92",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DustoxexEXLaLeggendadiMew86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-87/92",
+            "name": "Flygon ex",
+            "number": "87/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/FlygonexEXLaLeggendadiMew87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-88/92",
+            "name": "Mew ex",
+            "number": "88/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/MewexEXLaLeggendadiMew88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-89/92",
+            "name": "Walrein ex",
+            "number": "89/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/WalreinexEXLaLeggendadiMew89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-90/92",
+            "name": "Regice ☆",
+            "number": "90/92",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/RegiceEXLaLeggendadiMew90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-91/92",
+            "name": "Regirock ☆",
+            "number": "91/92",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/RegirockEXLaLeggendadiMew91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-92/92",
+            "name": "Registeel ☆",
+            "number": "92/92",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/RegisteelEXLaLeggendadiMew92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "LM-93/92",
+            "name": "Pikachu δ",
+            "number": "93/92",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/PikachuEXLaLeggendadiMew93.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

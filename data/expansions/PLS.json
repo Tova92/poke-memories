@@ -1,0 +1,979 @@
+{
+    "expansion": {
+        "id": "PLS",
+        "name": "Nero e Bianco - Uragano Plasma",
+				"year": 2013,
+				"month": 4,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/6b/SimboloSetUragano_Plasma.png",
+        "cardCount": 138
+    },
+    "cards": [
+        {
+            "id": "PLS-1/135",
+            "name": "Turtwig",
+            "number": "1/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/TurtwigUraganoPlasma1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-2/135",
+            "name": "Grotle",
+            "number": "2/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/GrotleUraganoPlasma2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-3/135",
+            "name": "Torterra",
+            "number": "3/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/TorterraUraganoPlasma3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-4/135",
+            "name": "Combee",
+            "number": "4/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/CombeeUraganoPlasma4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-5/135",
+            "name": "Vespiquen",
+            "number": "5/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/VespiquenUraganoPlasma5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-6/135",
+            "name": "Cherubi",
+            "number": "6/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/CherubiUraganoPlasma6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-7/135",
+            "name": "Cherrim",
+            "number": "7/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/CherrimUraganoPlasma7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-8/135",
+            "name": "Sewaddle",
+            "number": "8/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SewaddleUraganoPlasma8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-9/135",
+            "name": "Swadloon",
+            "number": "9/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/SwadloonUraganoPlasma9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-10/135",
+            "name": "Leavanny",
+            "number": "10/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/LeavannyUraganoPlasma10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-11/135",
+            "name": "Maractus",
+            "number": "11/135",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MaractusUraganoPlasma11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-12/135",
+            "name": "Foongus",
+            "number": "12/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/FoongusUraganoPlasma12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-13/135",
+            "name": "Amoonguss",
+            "number": "13/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/AmoongussUraganoPlasma13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-14/135",
+            "name": "Moltres-EX",
+            "number": "14/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Moltres-EXUraganoPlasma14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-15/135",
+            "name": "Chimchar",
+            "number": "15/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ChimcharUraganoPlasma15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-16/135",
+            "name": "Monferno",
+            "number": "16/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MonfernoUraganoPlasma16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-17/135",
+            "name": "Infernape",
+            "number": "17/135",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/InfernapeUraganoPlasma17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-18/135",
+            "name": "Victini-EX",
+            "number": "18/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Victini-EXUraganoPlasma18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-19/135",
+            "name": "Pansear",
+            "number": "19/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PansearUraganoPlasma19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-20/135",
+            "name": "Simisear",
+            "number": "20/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/SimisearUraganoPlasma20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-21/135",
+            "name": "Litwick",
+            "number": "21/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/LitwickUraganoPlasma21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-22/135",
+            "name": "Lampent",
+            "number": "22/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/LampentUraganoPlasma22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-23/135",
+            "name": "Heatmor",
+            "number": "23/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/HeatmorUraganoPlasma23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-24/135",
+            "name": "Squirtle",
+            "number": "24/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/SquirtleUraganoPlasma24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-25/135",
+            "name": "Articuno-EX",
+            "number": "25/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Articuno-EXUraganoPlasma25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-26/135",
+            "name": "Swinub",
+            "number": "26/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/SwinubUraganoPlasma26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-27/135",
+            "name": "Piloswine",
+            "number": "27/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/PiloswineUraganoPlasma27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-28/135",
+            "name": "Mamoswine",
+            "number": "28/135",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/MamoswineUraganoPlasma28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-29/135",
+            "name": "Lotad",
+            "number": "29/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/LotadUraganoPlasma29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-30/135",
+            "name": "Lombre",
+            "number": "30/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/LombreUraganoPlasma30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-31/135",
+            "name": "Ludicolo",
+            "number": "31/135",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/LudicoloUraganoPlasma31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-32/135",
+            "name": "Carvanha",
+            "number": "32/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/CarvanhaUraganoPlasma32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-33/135",
+            "name": "Sharpedo",
+            "number": "33/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/SharpedoUraganoPlasma33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-34/135",
+            "name": "Manaphy",
+            "number": "34/135",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ManaphyUraganoPlasma34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-35/135",
+            "name": "Vanillite",
+            "number": "35/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/VanilliteUraganoPlasma35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-36/135",
+            "name": "Vanillish",
+            "number": "36/135",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/VanillishUraganoPlasma36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-37/135",
+            "name": "Vanilluxe",
+            "number": "37/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/VanilluxeUraganoPlasma37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-38/135",
+            "name": "Frillish",
+            "number": "38/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/FrillishUraganoPlasma38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-39/135",
+            "name": "Jellicent",
+            "number": "39/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/JellicentUraganoPlasma39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-40/135",
+            "name": "Cubchoo",
+            "number": "40/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/CubchooUraganoPlasma40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-41/135",
+            "name": "Beartic",
+            "number": "41/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/BearticUraganoPlasma41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-42/135",
+            "name": "Magnemite",
+            "number": "42/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MagnemiteUraganoPlasma42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-43/135",
+            "name": "Magnemite",
+            "number": "43/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MagnemiteUraganoPlasma43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-44/135",
+            "name": "Magneton",
+            "number": "44/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MagnetonUraganoPlasma44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-45/135",
+            "name": "Magneton",
+            "number": "45/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/MagnetonUraganoPlasma45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-46/135",
+            "name": "Magnezone",
+            "number": "46/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MagnezoneUraganoPlasma46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-47/135",
+            "name": "Magnezone",
+            "number": "47/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MagnezoneUraganoPlasma47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-48/135",
+            "name": "Zapdos-EX",
+            "number": "48/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Zapdos-EXUraganoPlasma48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-49/135",
+            "name": "Rotom",
+            "number": "49/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/RotomUraganoPlasma49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-50/135",
+            "name": "Joltik",
+            "number": "50/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/JoltikUraganoPlasma50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-51/135",
+            "name": "Galvantula",
+            "number": "51/135",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/GalvantulaUraganoPlasma51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-52/135",
+            "name": "Zubat",
+            "number": "52/135",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ZubatUraganoPlasma52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-53/135",
+            "name": "Zubat",
+            "number": "53/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ZubatUraganoPlasma53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-54/135",
+            "name": "Golbat",
+            "number": "54/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/GolbatUraganoPlasma54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-55/135",
+            "name": "Crobat",
+            "number": "55/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/CrobatUraganoPlasma55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-56/135",
+            "name": "Koffing",
+            "number": "56/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/KoffingUraganoPlasma56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-57/135",
+            "name": "Koffing",
+            "number": "57/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/KoffingUraganoPlasma57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-58/135",
+            "name": "Weezing",
+            "number": "58/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/WeezingUraganoPlasma58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-59/135",
+            "name": "Ralts",
+            "number": "59/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/RaltsUraganoPlasma59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-60/135",
+            "name": "Kirlia",
+            "number": "60/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/KirliaUraganoPlasma60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-61/135",
+            "name": "Gallade",
+            "number": "61/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/GalladeUraganoPlasma61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-62/135",
+            "name": "Giratina",
+            "number": "62/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/GiratinaUraganoPlasma62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-63/135",
+            "name": "Trubbish",
+            "number": "63/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TrubbishUraganoPlasma63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-64/135",
+            "name": "Trubbish",
+            "number": "64/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/TrubbishUraganoPlasma64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-65/135",
+            "name": "Trubbish",
+            "number": "65/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/TrubbishUraganoPlasma65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-66/135",
+            "name": "Garbodor",
+            "number": "66/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/GarbodorUraganoPlasma66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-67/135",
+            "name": "Garbodor",
+            "number": "67/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/GarbodorUraganoPlasma67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-68/135",
+            "name": "Elgyem",
+            "number": "68/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ElgyemUraganoPlasma68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-69/135",
+            "name": "Elgyem",
+            "number": "69/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ElgyemUraganoPlasma69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-70/135",
+            "name": "Beheeyem",
+            "number": "70/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/BeheeyemUraganoPlasma70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-71/135",
+            "name": "Phanpy",
+            "number": "71/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/PhanpyUraganoPlasma71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-72/135",
+            "name": "Donphan",
+            "number": "72/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/DonphanUraganoPlasma72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-73/135",
+            "name": "Lunatone",
+            "number": "73/135",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/LunatoneUraganoPlasma73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-74/135",
+            "name": "Solrock",
+            "number": "74/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SolrockUraganoPlasma74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-75/135",
+            "name": "Riolu",
+            "number": "75/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/RioluUraganoPlasma75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-76/135",
+            "name": "Riolu",
+            "number": "76/135",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/RioluUraganoPlasma76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-77/135",
+            "name": "Lucario",
+            "number": "77/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/LucarioUraganoPlasma77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-78/135",
+            "name": "Lucario",
+            "number": "78/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/LucarioUraganoPlasma78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-79/135",
+            "name": "Timburr",
+            "number": "79/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TimburrUraganoPlasma79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-80/135",
+            "name": "Gurdurr",
+            "number": "80/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/GurdurrUraganoPlasma80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-81/135",
+            "name": "Conkeldurr",
+            "number": "81/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ConkeldurrUraganoPlasma81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-82/135",
+            "name": "Purrloin",
+            "number": "82/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/PurrloinUraganoPlasma82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-83/135",
+            "name": "Purrloin",
+            "number": "83/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/PurrloinUraganoPlasma83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-84/135",
+            "name": "Liepard",
+            "number": "84/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/LiepardUraganoPlasma84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-85/135",
+            "name": "Scraggy",
+            "number": "85/135",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ScraggyUraganoPlasma85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-86/135",
+            "name": "Scrafty",
+            "number": "86/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/ScraftyUraganoPlasma86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-87/135",
+            "name": "Skarmory",
+            "number": "87/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/SkarmoryUraganoPlasma87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-88/135",
+            "name": "Klink",
+            "number": "88/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/KlinkUraganoPlasma88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-89/135",
+            "name": "Klang",
+            "number": "89/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/KlangUraganoPlasma89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-90/135",
+            "name": "Klinklang",
+            "number": "90/135",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/KlinklangUraganoPlasma90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-91/135",
+            "name": "Durant",
+            "number": "91/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/DurantUraganoPlasma91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-92/135",
+            "name": "Durant",
+            "number": "92/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/DurantUraganoPlasma92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-93/135",
+            "name": "Cobalion-EX",
+            "number": "93/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Cobalion-EXUraganoPlasma93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-94/135",
+            "name": "Druddigon",
+            "number": "94/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/DruddigonUraganoPlasma94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-95/135",
+            "name": "Kyurem Nero-EX",
+            "number": "95/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/KyuremNero-EXUraganoPlasma95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-96/135",
+            "name": "Kyurem Bianco-EX",
+            "number": "96/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/KyuremBianco-EXUraganoPlasma96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-97/135",
+            "name": "Clefairy",
+            "number": "97/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/ClefairyUraganoPlasma97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-98/135",
+            "name": "Clefable",
+            "number": "98/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/ClefableUraganoPlasma98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-99/135",
+            "name": "Doduo",
+            "number": "99/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/DoduoUraganoPlasma99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-100/135",
+            "name": "Dodrio",
+            "number": "100/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/DodrioUraganoPlasma100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-101/135",
+            "name": "Snorlax",
+            "number": "101/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/SnorlaxUraganoPlasma101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-102/135",
+            "name": "Togepi",
+            "number": "102/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TogepiUraganoPlasma102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-103/135",
+            "name": "Togetic",
+            "number": "103/135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TogeticUraganoPlasma103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-104/135",
+            "name": "Togekiss",
+            "number": "104/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/TogekissUraganoPlasma104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-105/135",
+            "name": "Whismur",
+            "number": "105/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/WhismurUraganoPlasma105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-106/135",
+            "name": "Loudred",
+            "number": "106/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LoudredUraganoPlasma106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-107/135",
+            "name": "Exploud",
+            "number": "107/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ExploudUraganoPlasma107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-108/135",
+            "name": "Lugia-EX",
+            "number": "108/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Lugia-EXUraganoPlasma108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-109/135",
+            "name": "Skitty",
+            "number": "109/135",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SkittyUraganoPlasma109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-110/135",
+            "name": "Patrat",
+            "number": "110/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/PatratUraganoPlasma110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-111/135",
+            "name": "Patrat",
+            "number": "111/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/PatratUraganoPlasma111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-112/135",
+            "name": "Watchog",
+            "number": "112/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/WatchogUraganoPlasma112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-113/135",
+            "name": "Watchog",
+            "number": "113/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/WatchogUraganoPlasma113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-114/135",
+            "name": "Bouffalant",
+            "number": "114/135",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/BouffalantUraganoPlasma114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-115/135",
+            "name": "Rufflet",
+            "number": "115/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/RuffletUraganoPlasma115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-116/135",
+            "name": "Braviary",
+            "number": "116/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/BraviaryUraganoPlasma116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-117/135",
+            "name": "Bicicletta",
+            "number": "117/135",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/BiciclettaUraganoPlasma117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-118/135",
+            "name": "Acromio",
+            "number": "118/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/AcromioUraganoPlasma118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-119/135",
+            "name": "Acrocongegno",
+            "number": "119/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/AcrocongegnoUraganoPlasma119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-120/135",
+            "name": "Fune di Fuga",
+            "number": "120/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/FunediFugaUraganoPlasma120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-121/135",
+            "name": "Etere",
+            "number": "121/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/EtereUraganoPlasma121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-122/135",
+            "name": "Evolcondensa",
+            "number": "122/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/EvolcondensaUraganoPlasma122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-123/135",
+            "name": "Raggio Ipnotossico",
+            "number": "123/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/RaggioIpnotossicoUraganoPlasma123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-124/135",
+            "name": "Fregata Plasma",
+            "number": "124/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/FregataPlasmaUraganoPlasma124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-125/135",
+            "name": "Seguace del Team Plasma",
+            "number": "125/135",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/SeguacedelTeamPlasmaUraganoPlasma125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-126/135",
+            "name": "Palestra di Zondopoli",
+            "number": "126/135",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PalestradiZondopoliUraganoPlasma126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-127/135",
+            "name": "Energia Plasma",
+            "number": "127/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/EnergiaPlasmaUraganoPlasma127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-128/135",
+            "name": "Ricerca Strumenti",
+            "number": "128/135",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/RicercaStrumentiUraganoPlasma128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-129/135",
+            "name": "Scambio Pazzo",
+            "number": "129/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ScambioPazzoUraganoPlasma129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-130/135",
+            "name": "Portavittoria",
+            "number": "130/135",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/PortavittoriaUraganoPlasma130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-131/135",
+            "name": "Victini-EX",
+            "number": "131/135",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/Victini-EXUraganoPlasma131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-132/135",
+            "name": "Articuno-EX",
+            "number": "132/135",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Articuno-EXUraganoPlasma132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-133/135",
+            "name": "Cobalion-EX",
+            "number": "133/135",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Cobalion-EXUraganoPlasma133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-134/135",
+            "name": "Lugia-EX",
+            "number": "134/135",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Lugia-EXUraganoPlasma134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-135/135",
+            "name": "Acromio",
+            "number": "135/135",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/AcromioUraganoPlasma135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLS-136/135",
+            "name": "Charizard",
+            "number": "136/135",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/CharizardUraganoPlasma136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLS-137/135",
+            "name": "Blastoise",
+            "number": "137/135",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/BlastoiseUraganoPlasma137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLS-138/135",
+            "name": "Destinatario Casuale",
+            "number": "138/135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/DestinatarioCasualeUraganoPlasma138.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

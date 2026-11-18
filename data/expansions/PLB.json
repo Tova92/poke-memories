@@ -1,0 +1,748 @@
+{
+    "expansion": {
+        "id": "PLB",
+        "name": "Nero e Bianco - Esplosione Plasma",
+				"year": 2013,
+				"month": 10,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetEsplosione_Plasma.png",
+        "cardCount": 105
+    },
+    "cards": [
+        {
+            "id": "PLB-1/101",
+            "name": "Surskit",
+            "number": "1/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/SurskitEsplosionePlasma1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-2/101",
+            "name": "Masquerain",
+            "number": "2/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/MasquerainEsplosionePlasma2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-3/101",
+            "name": "Lileep",
+            "number": "3/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/LileepEsplosionePlasma3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-4/101",
+            "name": "Cradily",
+            "number": "4/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/CradilyEsplosionePlasma4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-5/101",
+            "name": "Tropius",
+            "number": "5/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/TropiusEsplosionePlasma5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-6/101",
+            "name": "Karrablast",
+            "number": "6/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/KarrablastEsplosionePlasma6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-7/101",
+            "name": "Shelmet",
+            "number": "7/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/ShelmetEsplosionePlasma7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-8/101",
+            "name": "Accelgor",
+            "number": "8/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/AccelgorEsplosionePlasma8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-9/101",
+            "name": "Virizion-EX",
+            "number": "9/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Virizion-EXEsplosionePlasma9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-10/101",
+            "name": "Genesect",
+            "number": "10/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/GenesectEsplosionePlasma10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-11/101",
+            "name": "Genesect-EX",
+            "number": "11/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Genesect-EXEsplosionePlasma11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-12/101",
+            "name": "Larvesta",
+            "number": "12/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/LarvestaEsplosionePlasma12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-13/101",
+            "name": "Volcarona",
+            "number": "13/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/VolcaronaEsplosionePlasma13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-14/101",
+            "name": "Squirtle",
+            "number": "14/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/SquirtleEsplosionePlasma14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-15/101",
+            "name": "Wartortle",
+            "number": "15/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/WartortleEsplosionePlasma15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-16/101",
+            "name": "Blastoise",
+            "number": "16/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/BlastoiseEsplosionePlasma16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-17/101",
+            "name": "Lapras",
+            "number": "17/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/LaprasEsplosionePlasma17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-18/101",
+            "name": "Remoraid",
+            "number": "18/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/RemoraidEsplosionePlasma18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-19/101",
+            "name": "Octillery",
+            "number": "19/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/OctilleryEsplosionePlasma19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-20/101",
+            "name": "Suicune",
+            "number": "20/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SuicuneEsplosionePlasma20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-21/101",
+            "name": "Snorunt",
+            "number": "21/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SnoruntEsplosionePlasma21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-22/101",
+            "name": "Glalie",
+            "number": "22/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/GlalieEsplosionePlasma22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-23/101",
+            "name": "Froslass",
+            "number": "23/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/FroslassEsplosionePlasma23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-24/101",
+            "name": "Relicanth",
+            "number": "24/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/RelicanthEsplosionePlasma24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-25/101",
+            "name": "Snover",
+            "number": "25/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SnoverEsplosionePlasma25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-26/101",
+            "name": "Abomasnow",
+            "number": "26/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/AbomasnowEsplosionePlasma26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-27/101",
+            "name": "Tirtouga",
+            "number": "27/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/TirtougaEsplosionePlasma27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-28/101",
+            "name": "Carracosta",
+            "number": "28/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/CarracostaEsplosionePlasma28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-29/101",
+            "name": "Ducklett",
+            "number": "29/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/DucklettEsplosionePlasma29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-30/101",
+            "name": "Kyurem-EX",
+            "number": "30/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Kyurem-EXEsplosionePlasma30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-31/101",
+            "name": "Tynamo",
+            "number": "31/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/TynamoEsplosionePlasma31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-32/101",
+            "name": "Eelektrik",
+            "number": "32/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/EelektrikEsplosionePlasma32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-33/101",
+            "name": "Eelektross",
+            "number": "33/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/EelektrossEsplosionePlasma33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-34/101",
+            "name": "Drifloon",
+            "number": "34/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/DrifloonEsplosionePlasma34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-35/101",
+            "name": "Drifblim",
+            "number": "35/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/DrifblimEsplosionePlasma35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-36/101",
+            "name": "Uxie",
+            "number": "36/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/UxieEsplosionePlasma36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-37/101",
+            "name": "Mesprit",
+            "number": "37/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/MespritEsplosionePlasma37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-38/101",
+            "name": "Azelf",
+            "number": "38/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/AzelfEsplosionePlasma38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-39/101",
+            "name": "Munna",
+            "number": "39/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/MunnaEsplosionePlasma39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-40/101",
+            "name": "Musharna",
+            "number": "40/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MusharnaEsplosionePlasma40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-41/101",
+            "name": "Sigilyph",
+            "number": "41/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/SigilyphEsplosionePlasma41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-42/101",
+            "name": "Solosis",
+            "number": "42/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SolosisEsplosionePlasma42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-43/101",
+            "name": "Duosion",
+            "number": "43/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/DuosionEsplosionePlasma43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-44/101",
+            "name": "Reuniclus",
+            "number": "44/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ReuniclusEsplosionePlasma44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-45/101",
+            "name": "Golett",
+            "number": "45/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GolettEsplosionePlasma45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-46/101",
+            "name": "Golurk",
+            "number": "46/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/GolurkEsplosionePlasma46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-47/101",
+            "name": "Machop",
+            "number": "47/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MachopEsplosionePlasma47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-48/101",
+            "name": "Machoke",
+            "number": "48/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MachokeEsplosionePlasma48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-49/101",
+            "name": "Machamp",
+            "number": "49/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MachampEsplosionePlasma49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-50/101",
+            "name": "Machamp",
+            "number": "50/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MachampEsplosionePlasma50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-51/101",
+            "name": "Throh",
+            "number": "51/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ThrohEsplosionePlasma51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-52/101",
+            "name": "Sawk",
+            "number": "52/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SawkEsplosionePlasma52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-53/101",
+            "name": "Archen",
+            "number": "53/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/ArchenEsplosionePlasma53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-54/101",
+            "name": "Archeops",
+            "number": "54/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ArcheopsEsplosionePlasma54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-55/101",
+            "name": "Houndour",
+            "number": "55/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/HoundourEsplosionePlasma55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-56/101",
+            "name": "Houndoom",
+            "number": "56/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/HoundoomEsplosionePlasma56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-57/101",
+            "name": "Aron",
+            "number": "57/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/AronEsplosionePlasma57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-58/101",
+            "name": "Lairon",
+            "number": "58/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/LaironEsplosionePlasma58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-59/101",
+            "name": "Aggron",
+            "number": "59/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/AggronEsplosionePlasma59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-60/101",
+            "name": "Jirachi-EX",
+            "number": "60/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Jirachi-EXEsplosionePlasma60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-61/101",
+            "name": "Escavalier",
+            "number": "61/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/EscavalierEsplosionePlasma61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-62/101",
+            "name": "Bagon",
+            "number": "62/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/BagonEsplosionePlasma62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-63/101",
+            "name": "Shelgon",
+            "number": "63/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ShelgonEsplosionePlasma63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-64/101",
+            "name": "Salamence",
+            "number": "64/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/SalamenceEsplosionePlasma64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-65/101",
+            "name": "Dialga-EX",
+            "number": "65/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Dialga-EXEsplosionePlasma65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-66/101",
+            "name": "Palkia-EX",
+            "number": "66/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Palkia-EXEsplosionePlasma66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-67/101",
+            "name": "Axew",
+            "number": "67/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/AxewEsplosionePlasma67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-68/101",
+            "name": "Fraxure",
+            "number": "68/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/FraxureEsplosionePlasma68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-69/101",
+            "name": "Haxorus",
+            "number": "69/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/HaxorusEsplosionePlasma69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-70/101",
+            "name": "Druddigon",
+            "number": "70/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/DruddigonEsplosionePlasma70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-71/101",
+            "name": "Kangaskhan",
+            "number": "71/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/KangaskhanEsplosionePlasma71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-72/101",
+            "name": "Porygon",
+            "number": "72/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PorygonEsplosionePlasma72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-73/101",
+            "name": "Porygon2",
+            "number": "73/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Porygon2EsplosionePlasma73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-74/101",
+            "name": "Porygon-Z",
+            "number": "74/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Porygon-ZEsplosionePlasma74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-75/101",
+            "name": "Teddiursa",
+            "number": "75/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/TeddiursaEsplosionePlasma75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-76/101",
+            "name": "Ursaring",
+            "number": "76/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/UrsaringEsplosionePlasma76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-77/101",
+            "name": "Chatot",
+            "number": "77/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/ChatotEsplosionePlasma77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-78/101",
+            "name": "Catlina",
+            "number": "78/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CatlinaEsplosionePlasma78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-79/101",
+            "name": "Fossiltappo",
+            "number": "79/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/FossiltappoEsplosionePlasma79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-80/101",
+            "name": "Recupero di Energia",
+            "number": "80/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/RecuperodiEnergiaEsplosionePlasma80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-81/101",
+            "name": "Iris",
+            "number": "81/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/IrisEsplosionePlasma81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-82/101",
+            "name": "Fossilpiuma",
+            "number": "82/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/FossilpiumaEsplosionePlasma82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-83/101",
+            "name": "Acchiappa-Pokémon",
+            "number": "83/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Acchiappa-Pok%C3%A9monEsplosionePlasma83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-84/101",
+            "name": "Prof.ssa Aralia",
+            "number": "84/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/ProfssaAraliaEsplosionePlasma84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-85/101",
+            "name": "Caramella Rara",
+            "number": "85/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/CaramellaRaraEsplosionePlasma85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-86/101",
+            "name": "Invertitore",
+            "number": "86/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/InvertitoreEsplosionePlasma86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-87/101",
+            "name": "Radifossile Lileep",
+            "number": "87/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/RadifossileLileepEsplosionePlasma87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-88/101",
+            "name": "Braccialargento",
+            "number": "88/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/BraccialargentoEsplosionePlasma88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-89/101",
+            "name": "Specchiargento",
+            "number": "89/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/SpecchiargentoEsplosionePlasma89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-90/101",
+            "name": "Ultra Ball",
+            "number": "90/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/UltraBallEsplosionePlasma90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-91/101",
+            "name": "Energia Plasma",
+            "number": "91/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/EnergiaPlasmaEsplosionePlasma91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-92/101",
+            "name": "Carica G",
+            "number": "92/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/CaricaGEsplosionePlasma92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-93/101",
+            "name": "Mirino G",
+            "number": "93/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/MirinoGEsplosionePlasma93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-94/101",
+            "name": "Master Ball",
+            "number": "94/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/MasterBallEsplosionePlasma94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-95/101",
+            "name": "Mega Recupero",
+            "number": "95/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/MegaRecuperoEsplosionePlasma95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-96/101",
+            "name": "Virizion-EX",
+            "number": "96/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/Virizion-EXEsplosionePlasma96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-97/101",
+            "name": "Genesect-EX",
+            "number": "97/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Genesect-EXEsplosionePlasma97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-98/101",
+            "name": "Jirachi-EX",
+            "number": "98/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/Jirachi-EXEsplosionePlasma98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-99/101",
+            "name": "Dialga-EX",
+            "number": "99/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/Dialga-EXEsplosionePlasma99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-100/101",
+            "name": "Palkia-EX",
+            "number": "100/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Palkia-EXEsplosionePlasma100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-101/101",
+            "name": "Iris",
+            "number": "101/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/IrisEsplosionePlasma101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLB-102/101",
+            "name": "Exeggcute",
+            "number": "102/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/ExeggcuteEsplosionePlasma102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLB-103/101",
+            "name": "Virizion",
+            "number": "103/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/VirizionEsplosionePlasma103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLB-104/101",
+            "name": "Dusknoir",
+            "number": "104/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/DusknoirEsplosionePlasma104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLB-105/101",
+            "name": "Caramella Rara",
+            "number": "105/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/CaramellaRaraEsplosionePlasma105.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

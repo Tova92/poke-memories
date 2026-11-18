@@ -1,0 +1,755 @@
+{
+    "expansion": {
+        "id": "SF",
+        "name": "Diamante & Perla - Fronte di Tempesta",
+				"year": 2008,
+				"month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/9b/SimboloSetFronte_di_Tempesta.png",
+        "cardCount": 106
+    },
+    "cards": [
+        {
+            "id": "SF-1/100",
+            "name": "Dusknoir",
+            "number": "1/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/DusknoirFrontediTempesta1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-2/100",
+            "name": "Empoleon",
+            "number": "2/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/EmpoleonFrontediTempesta2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-3/100",
+            "name": "Infernape",
+            "number": "3/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/InfernapeFrontediTempesta3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-4/100",
+            "name": "Lumineon",
+            "number": "4/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LumineonFrontediTempesta4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-5/100",
+            "name": "Magnezone",
+            "number": "5/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/MagnezoneFrontediTempesta5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-6/100",
+            "name": "Magnezone",
+            "number": "6/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/MagnezoneFrontediTempesta6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-7/100",
+            "name": "Mismagius",
+            "number": "7/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/MismagiusFrontediTempesta7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-8/100",
+            "name": "Raichu",
+            "number": "8/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/RaichuFrontediTempesta8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-9/100",
+            "name": "Regigigas",
+            "number": "9/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/RegigigasFrontediTempesta9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-10/100",
+            "name": "Sceptile",
+            "number": "10/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SceptileFrontediTempesta10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-11/100",
+            "name": "Torterra",
+            "number": "11/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/TorterraFrontediTempesta11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-12/100",
+            "name": "Abomasnow",
+            "number": "12/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/AbomasnowFrontediTempesta12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-13/100",
+            "name": "Bronzong",
+            "number": "13/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/BronzongFrontediTempesta13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-14/100",
+            "name": "Cherrim",
+            "number": "14/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CherrimFrontediTempesta14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-15/100",
+            "name": "Drapion",
+            "number": "15/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DrapionFrontediTempesta15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-16/100",
+            "name": "Drifblim",
+            "number": "16/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/DrifblimFrontediTempesta16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-17/100",
+            "name": "Dusknoir",
+            "number": "17/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/DusknoirFrontediTempesta17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-18/100",
+            "name": "Gengar",
+            "number": "18/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/GengarFrontediTempesta18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-19/100",
+            "name": "Gyarados",
+            "number": "19/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/GyaradosFrontediTempesta19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-20/100",
+            "name": "Machamp",
+            "number": "20/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/MachampFrontediTempesta20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-21/100",
+            "name": "Mamoswine",
+            "number": "21/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MamoswineFrontediTempesta21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-22/100",
+            "name": "Rapidash",
+            "number": "22/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/RapidashFrontediTempesta22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-23/100",
+            "name": "Roserade",
+            "number": "23/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/RoseradeFrontediTempesta23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-24/100",
+            "name": "Salamence",
+            "number": "24/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SalamenceFrontediTempesta24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-25/100",
+            "name": "Scizor",
+            "number": "25/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ScizorFrontediTempesta25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-26/100",
+            "name": "Skuntank",
+            "number": "26/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/SkuntankFrontediTempesta26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-27/100",
+            "name": "Staraptor",
+            "number": "27/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/StaraptorFrontediTempesta27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-28/100",
+            "name": "Steelix",
+            "number": "28/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/SteelixFrontediTempesta28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-29/100",
+            "name": "Tangrowth",
+            "number": "29/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/TangrowthFrontediTempesta29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-30/100",
+            "name": "Tyranitar",
+            "number": "30/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/TyranitarFrontediTempesta30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-31/100",
+            "name": "Vespiquen",
+            "number": "31/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/VespiquenFrontediTempesta31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-32/100",
+            "name": "Bibarel",
+            "number": "32/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/BibarelFrontediTempesta32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-33/100",
+            "name": "Budew",
+            "number": "33/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/BudewFrontediTempesta33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-34/100",
+            "name": "Dusclops",
+            "number": "34/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/DusclopsFrontediTempesta34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-35/100",
+            "name": "Dusclops",
+            "number": "35/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/DusclopsFrontediTempesta35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-36/100",
+            "name": "Electrode",
+            "number": "36/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ElectrodeFrontediTempesta36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-37/100",
+            "name": "Electrode",
+            "number": "37/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/ElectrodeFrontediTempesta37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-38/100",
+            "name": "Farfetch'd",
+            "number": "38/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/FarfetchdFrontediTempesta38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-39/100",
+            "name": "Grovyle",
+            "number": "39/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/GrovyleFrontediTempesta39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-40/100",
+            "name": "Haunter",
+            "number": "40/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/HaunterFrontediTempesta40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-41/100",
+            "name": "Machoke",
+            "number": "41/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MachokeFrontediTempesta41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-42/100",
+            "name": "Magneton",
+            "number": "42/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/MagnetonFrontediTempesta42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-43/100",
+            "name": "Magneton",
+            "number": "43/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/MagnetonFrontediTempesta43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-44/100",
+            "name": "Miltank",
+            "number": "44/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MiltankFrontediTempesta44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-45/100",
+            "name": "Pichu",
+            "number": "45/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/PichuFrontediTempesta45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-46/100",
+            "name": "Piloswine",
+            "number": "46/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/PiloswineFrontediTempesta46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-47/100",
+            "name": "Pupitar",
+            "number": "47/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/PupitarFrontediTempesta47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-48/100",
+            "name": "Sableye",
+            "number": "48/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SableyeFrontediTempesta48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-49/100",
+            "name": "Scyther",
+            "number": "49/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/ScytherFrontediTempesta49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-50/100",
+            "name": "Shelgon",
+            "number": "50/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ShelgonFrontediTempesta50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-51/100",
+            "name": "Skarmory",
+            "number": "51/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/SkarmoryFrontediTempesta51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-52/100",
+            "name": "Staravia",
+            "number": "52/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/StaraviaFrontediTempesta52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-53/100",
+            "name": "Bagon",
+            "number": "53/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/BagonFrontediTempesta53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-54/100",
+            "name": "Bidoof",
+            "number": "54/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/BidoofFrontediTempesta54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-55/100",
+            "name": "Bronzor",
+            "number": "55/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/BronzorFrontediTempesta55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-56/100",
+            "name": "Cherubi",
+            "number": "56/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CherubiFrontediTempesta56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-57/100",
+            "name": "Combee",
+            "number": "57/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/CombeeFrontediTempesta57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-58/100",
+            "name": "Drifloon",
+            "number": "58/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/DrifloonFrontediTempesta58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-59/100",
+            "name": "Duskull",
+            "number": "59/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/DuskullFrontediTempesta59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-60/100",
+            "name": "Duskull",
+            "number": "60/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/DuskullFrontediTempesta60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-61/100",
+            "name": "Finneon",
+            "number": "61/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/FinneonFrontediTempesta61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-62/100",
+            "name": "Gastly",
+            "number": "62/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/GastlyFrontediTempesta62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-63/100",
+            "name": "Larvitar",
+            "number": "63/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/LarvitarFrontediTempesta63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-64/100",
+            "name": "Machop",
+            "number": "64/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MachopFrontediTempesta64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-65/100",
+            "name": "Magikarp",
+            "number": "65/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MagikarpFrontediTempesta65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-66/100",
+            "name": "Magnemite",
+            "number": "66/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MagnemiteFrontediTempesta66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-67/100",
+            "name": "Magnemite",
+            "number": "67/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/MagnemiteFrontediTempesta67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-68/100",
+            "name": "Misdreavus",
+            "number": "68/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MisdreavusFrontediTempesta68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-69/100",
+            "name": "Onix",
+            "number": "69/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/OnixFrontediTempesta69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-70/100",
+            "name": "Pikachu",
+            "number": "70/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/PikachuFrontediTempesta70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-71/100",
+            "name": "Ponyta",
+            "number": "71/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/PonytaFrontediTempesta71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-72/100",
+            "name": "Roselia",
+            "number": "72/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/RoseliaFrontediTempesta72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-73/100",
+            "name": "Skorupi",
+            "number": "73/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SkorupiFrontediTempesta73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-74/100",
+            "name": "Snover",
+            "number": "74/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SnoverFrontediTempesta74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-75/100",
+            "name": "Starly",
+            "number": "75/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/StarlyFrontediTempesta75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-76/100",
+            "name": "Stunky",
+            "number": "76/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/StunkyFrontediTempesta76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-77/100",
+            "name": "Swinub",
+            "number": "77/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SwinubFrontediTempesta77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-78/100",
+            "name": "Tangela",
+            "number": "78/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/TangelaFrontediTempesta78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-79/100",
+            "name": "Treecko",
+            "number": "79/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/TreeckoFrontediTempesta79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-80/100",
+            "name": "Voltorb",
+            "number": "80/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/VoltorbFrontediTempesta80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-81/100",
+            "name": "Voltorb",
+            "number": "81/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/VoltorbFrontediTempesta81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-82/100",
+            "name": "Cava Conduttrice",
+            "number": "82/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CavaConduttriceFrontediTempesta82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-83/100",
+            "name": "Legame Energetico",
+            "number": "83/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/LegameEnergeticoFrontediTempesta83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-84/100",
+            "name": "Scambio di Energia",
+            "number": "84/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ScambiodiEnergiaFrontediTempesta84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-85/100",
+            "name": "Mega Ball",
+            "number": "85/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MegaBallFrontediTempesta85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-86/100",
+            "name": "Chic Ball",
+            "number": "86/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/ChicBallFrontediTempesta86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-87/100",
+            "name": "Richiesta di Risetta",
+            "number": "87/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/RichiestadiRisettaFrontediTempesta87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-88/100",
+            "name": "Poké Colpo +",
+            "number": "88/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Pok%C3%A9Colpo%2BFrontediTempesta88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-89/100",
+            "name": "Poké Pesca +",
+            "number": "89/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Pok%C3%A9Pesca%2BFrontediTempesta89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-90/100",
+            "name": "Poké Cura +",
+            "number": "90/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Pok%C3%A9Cura%2BFrontediTempesta90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-91/100",
+            "name": "Premier Ball",
+            "number": "91/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/PremierBallFrontediTempesta91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-92/100",
+            "name": "Pozione Magica",
+            "number": "92/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/PozioneMagicaFrontediTempesta92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-93/100",
+            "name": "Scambio",
+            "number": "93/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/ScambioFrontediTempesta93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-94/100",
+            "name": "Energia Ciclonica",
+            "number": "94/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/EnergiaCiclonicaFrontediTempesta94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-95/100",
+            "name": "Energia Curvatura",
+            "number": "95/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/EnergiaCurvaturaFrontediTempesta95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-96/100",
+            "name": "Dusknoir LIV.X",
+            "number": "96/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/DusknoirLIVXFrontediTempesta96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-97/100",
+            "name": "Heatran LIV.X",
+            "number": "97/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/HeatranLIVXFrontediTempesta97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-98/100",
+            "name": "Machamp LIV.X",
+            "number": "98/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MachampLIVXFrontediTempesta98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-99/100",
+            "name": "Raichu LIV.X",
+            "number": "99/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/RaichuLIVXFrontediTempesta99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-100/100",
+            "name": "Regigigas LIV.X",
+            "number": "100/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/RegigigasLIVXFrontediTempesta100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SF-101/100",
+            "name": "Charmander",
+            "number": "101/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CharmanderFrontediTempesta101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SF-102/100",
+            "name": "Charmeleon",
+            "number": "102/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/CharmeleonFrontediTempesta102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SF-103/100",
+            "name": "Charizard",
+            "number": "103/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/CharizardFrontediTempesta103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SF-SH1",
+            "name": "Drifloon",
+            "number": "SH1",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/DrifloonFrontediTempestaSH1.jpg",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "SF-SH2",
+            "name": "Duskull",
+            "number": "SH2",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DuskullFrontediTempestaSH2.jpg",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "SF-SH3",
+            "name": "Voltorb",
+            "number": "SH3",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/VoltorbFrontediTempestaSH3.jpg",
+            "section": "Cromatiche"
+        }
+    ]
+}

@@ -1,0 +1,944 @@
+{
+    "expansion": {
+        "id": "PL",
+        "name": "Platino",
+				"year": 2009,
+				"month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetPlatino.png",
+        "cardCount": 133
+    },
+    "cards": [
+        {
+            "id": "PL-1/127",
+            "name": "Ampharos",
+            "number": "1/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/AmpharosPlatino1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-2/127",
+            "name": "Blastoise",
+            "number": "2/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/BlastoisePlatino2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-3/127",
+            "name": "Blaziken",
+            "number": "3/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/BlazikenPlatino3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-4/127",
+            "name": "Delcatty",
+            "number": "4/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/DelcattyPlatino4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-5/127",
+            "name": "Dialga",
+            "number": "5/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/DialgaPlatino5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-6/127",
+            "name": "Dialga",
+            "number": "6/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/DialgaPlatino6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-7/127",
+            "name": "Dialga G",
+            "number": "7/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/DialgaGPlatino7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-8/127",
+            "name": "Gardevoir",
+            "number": "8/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/GardevoirPlatino8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-9/127",
+            "name": "Giratina",
+            "number": "9/127",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/GiratinaPlatino9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-10/127",
+            "name": "Giratina",
+            "number": "10/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/GiratinaPlatino10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-11/127",
+            "name": "Manectric",
+            "number": "11/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ManectricPlatino11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-12/127",
+            "name": "Palkia G",
+            "number": "12/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/PalkiaGPlatino12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-13/127",
+            "name": "Rampardos",
+            "number": "13/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/RampardosPlatino13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-14/127",
+            "name": "Shaymin",
+            "number": "14/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/ShayminPlatino14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-15/127",
+            "name": "Shaymin",
+            "number": "15/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ShayminPlatino15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-16/127",
+            "name": "Slaking",
+            "number": "16/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SlakingPlatino16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-17/127",
+            "name": "Weavile G",
+            "number": "17/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/WeavileGPlatino17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-18/127",
+            "name": "Altaria",
+            "number": "18/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/AltariaPlatino18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-19/127",
+            "name": "Banette",
+            "number": "19/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/BanettePlatino19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-20/127",
+            "name": "Bastiodon",
+            "number": "20/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/BastiodonPlatino20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-21/127",
+            "name": "Beautifly",
+            "number": "21/127",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/BeautiflyPlatino21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-22/127",
+            "name": "Blissey",
+            "number": "22/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/BlisseyPlatino22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-23/127",
+            "name": "Dialga",
+            "number": "23/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/DialgaPlatino23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-24/127",
+            "name": "Dugtrio",
+            "number": "24/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/DugtrioPlatino24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-25/127",
+            "name": "Dustox",
+            "number": "25/127",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/DustoxPlatino25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-26/127",
+            "name": "Empoleon",
+            "number": "26/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/EmpoleonPlatino26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-27/127",
+            "name": "Giratina",
+            "number": "27/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/GiratinaPlatino27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-28/127",
+            "name": "Giratina",
+            "number": "28/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/GiratinaPlatino28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-29/127",
+            "name": "Golduck",
+            "number": "29/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/GolduckPlatino29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-30/127",
+            "name": "Gyarados G",
+            "number": "30/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/GyaradosGPlatino30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-31/127",
+            "name": "Infernape",
+            "number": "31/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/InfernapePlatino31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-32/127",
+            "name": "Kricketune",
+            "number": "32/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/KricketunePlatino32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-33/127",
+            "name": "Lickilicky",
+            "number": "33/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/LickilickyPlatino33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-34/127",
+            "name": "Ludicolo",
+            "number": "34/127",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/LudicoloPlatino34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-35/127",
+            "name": "Luvdisc",
+            "number": "35/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/LuvdiscPlatino35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-36/127",
+            "name": "Ninetales",
+            "number": "36/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/NinetalesPlatino36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-37/127",
+            "name": "Palkia",
+            "number": "37/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PalkiaPlatino37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-38/127",
+            "name": "Shaymin",
+            "number": "38/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ShayminPlatino38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-39/127",
+            "name": "Torterra",
+            "number": "39/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/TorterraPlatino39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-40/127",
+            "name": "Toxicroak G",
+            "number": "40/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ToxicroakGPlatino40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-41/127",
+            "name": "Bronzong G",
+            "number": "41/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/BronzongGPlatino41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-42/127",
+            "name": "Cacturne",
+            "number": "42/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/CacturnePlatino42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-43/127",
+            "name": "Carnivine",
+            "number": "43/127",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/CarnivinePlatino43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-44/127",
+            "name": "Cascoon",
+            "number": "44/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/CascoonPlatino44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-45/127",
+            "name": "Combusken",
+            "number": "45/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/CombuskenPlatino45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-46/127",
+            "name": "Cranidos",
+            "number": "46/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/CranidosPlatino46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-47/127",
+            "name": "Crobat G",
+            "number": "47/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CrobatGPlatino47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-48/127",
+            "name": "Flaaffy",
+            "number": "48/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/FlaaffyPlatino48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-49/127",
+            "name": "Grotle",
+            "number": "49/127",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/GrotlePlatino49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-50/127",
+            "name": "Houndoom G",
+            "number": "50/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/HoundoomGPlatino50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-51/127",
+            "name": "Kirlia",
+            "number": "51/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/KirliaPlatino51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-52/127",
+            "name": "Lombre",
+            "number": "52/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/LombrePlatino52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-53/127",
+            "name": "Lucario",
+            "number": "53/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/LucarioPlatino53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-54/127",
+            "name": "Mightyena",
+            "number": "54/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MightyenaPlatino54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-55/127",
+            "name": "Mismagius",
+            "number": "55/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MismagiusPlatino55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-56/127",
+            "name": "Monferno",
+            "number": "56/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MonfernoPlatino56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-57/127",
+            "name": "Muk",
+            "number": "57/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MukPlatino57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-58/127",
+            "name": "Octillery",
+            "number": "58/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/OctilleryPlatino58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-59/127",
+            "name": "Prinplup",
+            "number": "59/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/PrinplupPlatino59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-60/127",
+            "name": "Probopass",
+            "number": "60/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ProbopassPlatino60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-61/127",
+            "name": "Seviper",
+            "number": "61/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/SeviperPlatino61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-62/127",
+            "name": "Shieldon",
+            "number": "62/127",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ShieldonPlatino62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-63/127",
+            "name": "Silcoon",
+            "number": "63/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SilcoonPlatino63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-64/127",
+            "name": "Vigoroth",
+            "number": "64/127",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/VigorothPlatino64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-65/127",
+            "name": "Wartortle",
+            "number": "65/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/WartortlePlatino65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-66/127",
+            "name": "Zangoose",
+            "number": "66/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ZangoosePlatino66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-67/127",
+            "name": "Cacnea",
+            "number": "67/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/CacneaPlatino67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-68/127",
+            "name": "Carnivine",
+            "number": "68/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/CarnivinePlatino68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-69/127",
+            "name": "Chansey",
+            "number": "69/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ChanseyPlatino69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-70/127",
+            "name": "Chimchar",
+            "number": "70/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ChimcharPlatino70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-71/127",
+            "name": "Combee",
+            "number": "71/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CombeePlatino71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-72/127",
+            "name": "Diglett",
+            "number": "72/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/DiglettPlatino72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-73/127",
+            "name": "Dunsparce",
+            "number": "73/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/DunsparcePlatino73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-74/127",
+            "name": "Electrike",
+            "number": "74/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/ElectrikePlatino74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-75/127",
+            "name": "Grimer",
+            "number": "75/127",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/GrimerPlatino75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-76/127",
+            "name": "Happiny",
+            "number": "76/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/HappinyPlatino76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-77/127",
+            "name": "Honchkrow G",
+            "number": "77/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/HonchkrowGPlatino77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-78/127",
+            "name": "Kricketot",
+            "number": "78/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/KricketotPlatino78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-79/127",
+            "name": "Lapras",
+            "number": "79/127",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/LaprasPlatino79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-80/127",
+            "name": "Lickitung",
+            "number": "80/127",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/LickitungPlatino80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-81/127",
+            "name": "Lotad",
+            "number": "81/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/LotadPlatino81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-82/127",
+            "name": "Mareep",
+            "number": "82/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/MareepPlatino82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-83/127",
+            "name": "Misdreavus",
+            "number": "83/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/MisdreavusPlatino83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-84/127",
+            "name": "Nosepass",
+            "number": "84/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/NosepassPlatino84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-85/127",
+            "name": "Piplup",
+            "number": "85/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/PiplupPlatino85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-86/127",
+            "name": "Poochyena",
+            "number": "86/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PoochyenaPlatino86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-87/127",
+            "name": "Psyduck",
+            "number": "87/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PsyduckPlatino87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-88/127",
+            "name": "Purugly G",
+            "number": "88/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/PuruglyGPlatino88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-89/127",
+            "name": "Ralts",
+            "number": "89/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/RaltsPlatino89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-90/127",
+            "name": "Remoraid",
+            "number": "90/127",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/RemoraidPlatino90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-91/127",
+            "name": "Riolu",
+            "number": "91/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/RioluPlatino91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-92/127",
+            "name": "Shuppet",
+            "number": "92/127",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ShuppetPlatino92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-93/127",
+            "name": "Skitty",
+            "number": "93/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/SkittyPlatino93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-94/127",
+            "name": "Skuntank G",
+            "number": "94/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/SkuntankGPlatino94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-95/127",
+            "name": "Slakoth",
+            "number": "95/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/SlakothPlatino95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-96/127",
+            "name": "Squirtle",
+            "number": "96/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/SquirtlePlatino96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-97/127",
+            "name": "Swablu",
+            "number": "97/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/SwabluPlatino97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-98/127",
+            "name": "Tauros",
+            "number": "98/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/TaurosPlatino98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-99/127",
+            "name": "Torchic",
+            "number": "99/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/TorchicPlatino99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-100/127",
+            "name": "Torkoal",
+            "number": "100/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/TorkoalPlatino100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-101/127",
+            "name": "Turtwig",
+            "number": "101/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/TurtwigPlatino101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-102/127",
+            "name": "Vulpix",
+            "number": "102/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/VulpixPlatino102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-103/127",
+            "name": "Wurmple",
+            "number": "103/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/WurmplePlatino103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-104/127",
+            "name": "Rottura Spazio-Temporale",
+            "number": "104/127",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/RotturaSpazioTemporalePlatino104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-105/127",
+            "name": "Congiura di Cyrus",
+            "number": "105/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/CongiuradiCyrusPlatino105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-106/127",
+            "name": "Quartier Generale Galassia",
+            "number": "106/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/QuartierGeneraleGalassiaPlatino106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-107/127",
+            "name": "Livello Max",
+            "number": "107/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/LivelloMaxPlatino107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-108/127",
+            "name": "Erba Vita",
+            "number": "108/127",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ErbaVitaPlatino108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-109/127",
+            "name": "Indagini di Bellocchio",
+            "number": "109/127",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/IndaginidiBellocchioPlatino109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-110/127",
+            "name": "Bacca Memoria",
+            "number": "110/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/BaccaMemoriaPlatino110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-111/127",
+            "name": "Valle Miasma",
+            "number": "111/127",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ValleMiasmaPlatino111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-112/127",
+            "name": "PlusPotenza",
+            "number": "112/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/PlusPotenzaPlatino112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-113/127",
+            "name": "Poké Ball",
+            "number": "113/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Pok%C3%A9BallPlatino113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-114/127",
+            "name": "Pokédex HANDY 910is",
+            "number": "114/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Pok%C3%A9dexHANDY910isPlatino114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-115/127",
+            "name": "Salvataggio di Pokémon",
+            "number": "115/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/SalvataggiodiPok%C3%A9monPlatino115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-116/127",
+            "name": "Invenzione Team Galassia G-101 Aumento Energetico",
+            "number": "116/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/AumentoEnergeticoPlatino116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-117/127",
+            "name": "Invenzione Team Galassia G-103 Power Spray",
+            "number": "117/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/PowerSprayPlatino117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-118/127",
+            "name": "Invenzione Team Galassia G-105 Poké Rientro",
+            "number": "118/127",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Pok%C3%A9RientroPlatino118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-119/127",
+            "name": "Fossilscudo",
+            "number": "119/127",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/FossilscudoPlatino119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-120/127",
+            "name": "Fossilcranio",
+            "number": "120/127",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/FossilcranioPlatino120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-121/127",
+            "name": "Energia Arcobaleno",
+            "number": "121/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/EnergiaArcobalenoPlatino121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-122/127",
+            "name": "Dialga G LIV.X",
+            "number": "122/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/DialgaGLIVXPlatino122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-123/127",
+            "name": "Drapion LIV.X",
+            "number": "123/127",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/DrapionLIVXPlatino123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-124/127",
+            "name": "Giratina LIV.X",
+            "number": "124/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/GiratinaLIVXPlatino124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-125/127",
+            "name": "Palkia G LIV.X",
+            "number": "125/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/PalkiaGLIVXPlatino125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-126/127",
+            "name": "Shaymin LIV.X",
+            "number": "126/127",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ShayminLIVXPlatino126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-127/127",
+            "name": "Shaymin LIV.X",
+            "number": "127/127",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/ShayminLIVXPlatino127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PL-128/127",
+            "name": "Electabuzz",
+            "number": "128/127",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ElectabuzzPlatino128.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PL-129/127",
+            "name": "Hitmonchan",
+            "number": "129/127",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/HitmonchanPlatino129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PL-130/127",
+            "name": "Scyther",
+            "number": "130/127",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ScytherPlatino130.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PL-SH4",
+            "name": "Lotad",
+            "number": "SH4",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/LotadPlatinoSH4.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "PL-SH5",
+            "name": "Swablu",
+            "number": "SH5",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SwabluPlatinoSH5.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "PL-SH6",
+            "name": "Vulpix",
+            "number": "SH6",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/VulpixPlatinoSH6.png",
+            "section": "Cromatiche"
+        }
+    ]
+}

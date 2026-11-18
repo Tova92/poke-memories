@@ -1,0 +1,1161 @@
+{
+    "expansion": {
+        "id": "PRC",
+        "name": "XY - Scontro Primordiale",
+        "year": 2015,
+        "month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetScontro_Primordiale.png",
+        "cardCount": 164
+    },
+    "cards": [
+        {
+            "id": "PRC-1/160",
+            "name": "Weedle",
+            "number": "1/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/WeedleScontroPrimordiale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-2/160",
+            "name": "Kakuna",
+            "number": "2/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/KakunaScontroPrimordiale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-3/160",
+            "name": "Beedrill",
+            "number": "3/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/BeedrillScontroPrimordiale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-4/160",
+            "name": "Tangela",
+            "number": "4/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/TangelaScontroPrimordiale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-5/160",
+            "name": "Tangrowth",
+            "number": "5/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/TangrowthScontroPrimordiale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-6/160",
+            "name": "Treecko",
+            "number": "6/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/TreeckoScontroPrimordiale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-7/160",
+            "name": "Grovyle",
+            "number": "7/160",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/GrovyleScontroPrimordiale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-8/160",
+            "name": "Sceptile",
+            "number": "8/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SceptileScontroPrimordiale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-9/160",
+            "name": "Sceptile",
+            "number": "9/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SceptileScontroPrimordiale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-10/160",
+            "name": "Lotad",
+            "number": "10/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/LotadScontroPrimordiale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-11/160",
+            "name": "Lombre",
+            "number": "11/160",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/LombreScontroPrimordiale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-12/160",
+            "name": "Ludicolo",
+            "number": "12/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/LudicoloScontroPrimordiale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-13/160",
+            "name": "Surskit",
+            "number": "13/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SurskitScontroPrimordiale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-14/160",
+            "name": "Masquerain",
+            "number": "14/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/MasquerainScontroPrimordiale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-15/160",
+            "name": "Shroomish",
+            "number": "15/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ShroomishScontroPrimordiale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-16/160",
+            "name": "Breloom",
+            "number": "16/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/BreloomScontroPrimordiale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-17/160",
+            "name": "Volbeat",
+            "number": "17/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/VolbeatScontroPrimordiale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-18/160",
+            "name": "Illumise",
+            "number": "18/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/IllumiseScontroPrimordiale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-19/160",
+            "name": "Trevenant-EX",
+            "number": "19/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Trevenant-EXScontroPrimordiale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-20/160",
+            "name": "Vulpix",
+            "number": "20/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/VulpixScontroPrimordiale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-21/160",
+            "name": "Ninetales",
+            "number": "21/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/NinetalesScontroPrimordiale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-22/160",
+            "name": "Slugma",
+            "number": "22/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/SlugmaScontroPrimordiale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-23/160",
+            "name": "Magcargo",
+            "number": "23/160",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/MagcargoScontroPrimordiale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-24/160",
+            "name": "Magcargo",
+            "number": "24/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MagcargoScontroPrimordiale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-25/160",
+            "name": "Torchic",
+            "number": "25/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/TorchicScontroPrimordiale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-26/160",
+            "name": "Torchic",
+            "number": "26/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/TorchicScontroPrimordiale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-27/160",
+            "name": "Combusken",
+            "number": "27/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/CombuskenScontroPrimordiale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-28/160",
+            "name": "Blaziken",
+            "number": "28/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/BlazikenScontroPrimordiale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-29/160",
+            "name": "Camerupt-EX",
+            "number": "29/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/Camerupt-EXScontroPrimordiale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-30/160",
+            "name": "Horsea",
+            "number": "30/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/HorseaScontroPrimordiale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-31/160",
+            "name": "Seadra",
+            "number": "31/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/SeadraScontroPrimordiale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-32/160",
+            "name": "Staryu",
+            "number": "32/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/StaryuScontroPrimordiale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-33/160",
+            "name": "Mudkip",
+            "number": "33/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MudkipScontroPrimordiale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-34/160",
+            "name": "Marshtomp",
+            "number": "34/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MarshtompScontroPrimordiale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-35/160",
+            "name": "Swampert",
+            "number": "35/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SwampertScontroPrimordiale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-36/160",
+            "name": "Swampert",
+            "number": "36/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/SwampertScontroPrimordiale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-37/160",
+            "name": "Ludicolo",
+            "number": "37/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/LudicoloScontroPrimordiale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-38/160",
+            "name": "Wailord-EX",
+            "number": "38/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Wailord-EXScontroPrimordiale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-39/160",
+            "name": "Barboach",
+            "number": "39/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/BarboachScontroPrimordiale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-40/160",
+            "name": "Whiscash",
+            "number": "40/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/WhiscashScontroPrimordiale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-41/160",
+            "name": "Whiscash",
+            "number": "41/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/WhiscashScontroPrimordiale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-42/160",
+            "name": "Corphish",
+            "number": "42/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/CorphishScontroPrimordiale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-43/160",
+            "name": "Feebas",
+            "number": "43/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/FeebasScontroPrimordiale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-44/160",
+            "name": "Milotic",
+            "number": "44/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/MiloticScontroPrimordiale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-45/160",
+            "name": "Spheal",
+            "number": "45/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SphealScontroPrimordiale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-46/160",
+            "name": "Spheal",
+            "number": "46/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SphealScontroPrimordiale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-47/160",
+            "name": "Sealeo",
+            "number": "47/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SealeoScontroPrimordiale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-48/160",
+            "name": "Walrein",
+            "number": "48/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/WalreinScontroPrimordiale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-49/160",
+            "name": "Clamperl",
+            "number": "49/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ClamperlScontroPrimordiale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-50/160",
+            "name": "Huntail",
+            "number": "50/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/HuntailScontroPrimordiale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-51/160",
+            "name": "Gorebyss",
+            "number": "51/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/GorebyssScontroPrimordiale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-52/160",
+            "name": "Gorebyss",
+            "number": "52/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/GorebyssScontroPrimordiale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-53/160",
+            "name": "Kyogre",
+            "number": "53/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/KyogreScontroPrimordiale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-54/160",
+            "name": "Kyogre-EX",
+            "number": "54/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Kyogre-EXScontroPrimordiale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-55/160",
+            "name": "Archeo Kyogre-EX",
+            "number": "55/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ArcheoKyogre-EXScontroPrimordiale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-56/160",
+            "name": "Manaphy",
+            "number": "56/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ManaphyScontroPrimordiale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-57/160",
+            "name": "Chinchou",
+            "number": "57/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ChinchouScontroPrimordiale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-58/160",
+            "name": "Lanturn",
+            "number": "58/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/LanturnScontroPrimordiale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-59/160",
+            "name": "Electrike",
+            "number": "59/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/ElectrikeScontroPrimordiale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-60/160",
+            "name": "Electrike",
+            "number": "60/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ElectrikeScontroPrimordiale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-61/160",
+            "name": "Manectric",
+            "number": "61/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ManectricScontroPrimordiale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-62/160",
+            "name": "Tynamo",
+            "number": "62/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/TynamoScontroPrimordiale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-63/160",
+            "name": "Eelektrik",
+            "number": "63/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/EelektrikScontroPrimordiale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-64/160",
+            "name": "Eelektrik",
+            "number": "64/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/EelektrikScontroPrimordiale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-65/160",
+            "name": "Eelektross",
+            "number": "65/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/EelektrossScontroPrimordiale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-66/160",
+            "name": "Nidoran♀",
+            "number": "66/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/NidoranScontroPrimordiale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-67/160",
+            "name": "Nidorina",
+            "number": "67/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/NidorinaScontroPrimordiale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-68/160",
+            "name": "Nidoqueen",
+            "number": "68/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/NidoqueenScontroPrimordiale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-69/160",
+            "name": "Nidoqueen",
+            "number": "69/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/NidoqueenScontroPrimordiale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-70/160",
+            "name": "Tentacool",
+            "number": "70/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/TentacoolScontroPrimordiale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-71/160",
+            "name": "Tentacool",
+            "number": "71/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TentacoolScontroPrimordiale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-72/160",
+            "name": "Tentacruel",
+            "number": "72/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/TentacruelScontroPrimordiale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-73/160",
+            "name": "Starmie",
+            "number": "73/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/StarmieScontroPrimordiale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-74/160",
+            "name": "Rhyhorn",
+            "number": "74/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/RhyhornScontroPrimordiale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-75/160",
+            "name": "Rhydon",
+            "number": "75/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/RhydonScontroPrimordiale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-76/160",
+            "name": "Rhyperior",
+            "number": "76/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/RhyperiorScontroPrimordiale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-77/160",
+            "name": "Rhyperior",
+            "number": "77/160",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/RhyperiorScontroPrimordiale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-78/160",
+            "name": "Nosepass",
+            "number": "78/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/NosepassScontroPrimordiale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-79/160",
+            "name": "Meditite",
+            "number": "79/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/MedititeScontroPrimordiale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-80/160",
+            "name": "Medicham",
+            "number": "80/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MedichamScontroPrimordiale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-81/160",
+            "name": "Medicham",
+            "number": "81/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MedichamScontroPrimordiale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-82/160",
+            "name": "Trapinch",
+            "number": "82/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/TrapinchScontroPrimordiale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-83/160",
+            "name": "Solrock",
+            "number": "83/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/SolrockScontroPrimordiale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-84/160",
+            "name": "Groudon",
+            "number": "84/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/GroudonScontroPrimordiale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-85/160",
+            "name": "Groudon-EX",
+            "number": "85/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Groudon-EXScontroPrimordiale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-86/160",
+            "name": "Archeo Groudon-EX",
+            "number": "86/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ArcheoGroudon-EXScontroPrimordiale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-87/160",
+            "name": "Hippopotas",
+            "number": "87/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/HippopotasScontroPrimordiale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-88/160",
+            "name": "Hippowdon",
+            "number": "88/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/HippowdonScontroPrimordiale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-89/160",
+            "name": "Drilbur",
+            "number": "89/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/DrilburScontroPrimordiale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-90/160",
+            "name": "Diggersby",
+            "number": "90/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/DiggersbyScontroPrimordiale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-91/160",
+            "name": "Sharpedo-EX",
+            "number": "91/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Sharpedo-EXScontroPrimordiale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-92/160",
+            "name": "Crawdaunt",
+            "number": "92/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/CrawdauntScontroPrimordiale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-93/106",
+            "name": "Aggron-EX",
+            "number": "93/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Aggron-EXScontroPrimordiale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-94/160",
+            "name": "M Aggron-EX",
+            "number": "94/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MAggron-EXScontroPrimordiale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-95/160",
+            "name": "Probopass",
+            "number": "95/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/ProbopassScontroPrimordiale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-96/160",
+            "name": "Excadrill",
+            "number": "96/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ExcadrillScontroPrimordiale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-97/160",
+            "name": "Excadrill",
+            "number": "97/160",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ExcadrillScontroPrimordiale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-98/160",
+            "name": "Honedge",
+            "number": "98/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/HonedgeScontroPrimordiale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-99/160",
+            "name": "Doublade",
+            "number": "99/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/DoubladeScontroPrimordiale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-100/160",
+            "name": "Aegislash",
+            "number": "100/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/AegislashScontroPrimordiale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-101/160",
+            "name": "Mr. Mime",
+            "number": "101/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/MrMimeScontroPrimordiale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-102/160",
+            "name": "Marill",
+            "number": "102/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MarillScontroPrimordiale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-103/160",
+            "name": "Azumarill",
+            "number": "103/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/AzumarillScontroPrimordiale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-104/160",
+            "name": "Azumarill",
+            "number": "104/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/AzumarillScontroPrimordiale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-105/160",
+            "name": "Gardevoir-EX",
+            "number": "105/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Gardevoir-EXScontroPrimordiale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-106/160",
+            "name": "M Gardevoir-EX",
+            "number": "106/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MGardevoir-EXScontroPrimordiale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-107/160",
+            "name": "Kingdra",
+            "number": "107/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/KingdraScontroPrimordiale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-108/160",
+            "name": "Kingdra",
+            "number": "108/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/KingdraScontroPrimordiale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-109/160",
+            "name": "Vibrava",
+            "number": "109/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/VibravaScontroPrimordiale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-110/160",
+            "name": "Flygon",
+            "number": "110/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/FlygonScontroPrimordiale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-111/160",
+            "name": "Zigzagoon",
+            "number": "111/160",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/ZigzagoonScontroPrimordiale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-112/160",
+            "name": "Linoone",
+            "number": "112/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LinooneScontroPrimordiale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-113/160",
+            "name": "Skitty",
+            "number": "113/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/SkittyScontroPrimordiale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-114/160",
+            "name": "Delcatty",
+            "number": "114/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/DelcattyScontroPrimordiale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-115/160",
+            "name": "Spinda",
+            "number": "115/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/SpindaScontroPrimordiale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-116/160",
+            "name": "Bidoof",
+            "number": "116/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/BidoofScontroPrimordiale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-117/160",
+            "name": "Bidoof",
+            "number": "117/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/BidoofScontroPrimordiale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-118/160",
+            "name": "Bibarel",
+            "number": "118/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/BibarelScontroPrimordiale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-119/160",
+            "name": "Bouffalant",
+            "number": "119/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/BouffalantScontroPrimordiale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-120/160",
+            "name": "Bunnelby",
+            "number": "120/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/BunnelbyScontroPrimordiale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-121/160",
+            "name": "Bunnelby",
+            "number": "121/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/BunnelbyScontroPrimordiale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-122/160",
+            "name": "Bici da cross",
+            "number": "122/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/BicidacrossScontroPrimordiale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-123/160",
+            "name": "Legame Mentale con Aggron",
+            "number": "123/160",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/LegameMentaleconAggronScontroPrimordiale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-124/160",
+            "name": "Asso nella Manica di Ivan",
+            "number": "124/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/AssonellaManicadiIvanScontroPrimordiale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-125/160",
+            "name": "Sub Ball",
+            "number": "125/160",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/SubBallScontroPrimordiale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-126/160",
+            "name": "Recupero di Energia",
+            "number": "126/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/RecuperodiEnergiaScontroPrimordiale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-127/160",
+            "name": "Fune di Fuga",
+            "number": "127/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/FunediFugaScontroPrimordiale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-128/160",
+            "name": "Condividi Esperienza",
+            "number": "128/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/CondividiEsperienzaScontroPrimordiale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-129/160",
+            "name": "Set di Acqua Fresca",
+            "number": "129/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/SetdiAcquaFrescaScontroPrimordiale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-130/160",
+            "name": "Legame Mentale con Gardevoir",
+            "number": "130/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LegameMentaleconGardevoirScontroPrimordiale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-131/160",
+            "name": "Legame Mentale con Groudon",
+            "number": "131/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/LegameMentaleconGroudonScontroPrimordiale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-132/160",
+            "name": "Legame Mentale con Kyogre",
+            "number": "132/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/LegameMentaleconKyogreScontroPrimordiale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-133/160",
+            "name": "Doppio Passo di Max",
+            "number": "133/160",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/DoppioPassodiMaxScontroPrimordiale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-134/160",
+            "name": "Parere del Professor Birch",
+            "number": "134/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PareredelProfessorBirchScontroPrimordiale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-135/160",
+            "name": "Caramella Rara",
+            "number": "135/160",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/CaramellaRaraScontroPrimordiale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-136/160",
+            "name": "Bis Ball",
+            "number": "136/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/BisBallScontroPrimordiale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-137/160",
+            "name": "Mare Mosso",
+            "number": "137/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/MareMossoScontroPrimordiale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-138/160",
+            "name": "Terra Infuocata",
+            "number": "138/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/TerraInfuocataScontroPrimordiale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-139/160",
+            "name": "Ara dei Ricordi",
+            "number": "139/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/AradeiRicordiScontroPrimordiale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-140/160",
+            "name": "Studio Insonorizzato",
+            "number": "140/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/StudioInsonorizzatoScontroPrimordiale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-141/160",
+            "name": "Senior & Junior",
+            "number": "141/160",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/SenioreJuniorScontroPrimordiale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-142/160",
+            "name": "Vulneropolizza",
+            "number": "142/160",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/VulneropolizzaScontroPrimordiale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-143/160",
+            "name": "Energia Scudo",
+            "number": "143/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/EnergiaScudoScontroPrimordiale143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-144/160",
+            "name": "Energia Meraviglia",
+            "number": "144/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/EnergiaMeravigliaScontroPrimordiale144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-145/160",
+            "name": "Trevenant-EX",
+            "number": "145/160",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Trevenant-EXScontroPrimordiale145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-146/160",
+            "name": "Camerupt-EX",
+            "number": "146/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Camerupt-EXScontroPrimordiale146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-147/160",
+            "name": "Wailord-EX",
+            "number": "147/160",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Wailord-EXScontroPrimordiale147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-148/160",
+            "name": "Kyogre-EX",
+            "number": "148/160",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Kyogre-EXScontroPrimordiale148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-149/160",
+            "name": "Archeo Kyogre-EX",
+            "number": "149/160",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ArcheoKyogre-EXScontroPrimordiale149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-150/160",
+            "name": "Groudon-EX",
+            "number": "150/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Groudon-EXScontroPrimordiale150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-151/160",
+            "name": "Archeo Groudon-EX",
+            "number": "151/160",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ArcheoGroudon-EXScontroPrimordiale151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-152/160",
+            "name": "Sharpedo-EX",
+            "number": "152/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Sharpedo-EXScontroPrimordiale152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-153/106",
+            "name": "Aggron-EX",
+            "number": "153/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Aggron-EXScontroPrimordiale153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRC-154/160",
+            "name": "M Aggron-EX",
+            "number": "154/160",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MAggron-EXScontroPrimordiale154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-155/160",
+            "name": "Gardevoir-EX",
+            "number": "155/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Gardevoir-EXScontroPrimordiale155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-156/160",
+            "name": "M Gardevoir-EX",
+            "number": "156/160",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/MGardevoir-EXScontroPrimordiale156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-157/160",
+            "name": "Asso nella Manica di Ivan",
+            "number": "157/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/AssonellaManicadiIvanScontroPrimordiale157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-158/160",
+            "name": "Doppio Passo di Max",
+            "number": "158/160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/DoppioPassodiMaxScontroPrimordiale158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-159/160",
+            "name": "Parere del Professor Birch",
+            "number": "159/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/PareredelProfessorBirchScontroPrimordiale159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-160/160",
+            "name": "Senior & Junior",
+            "number": "160/160",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/SenioreJuniorScontroPrimordiale160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PRC-161/160",
+            "name": "Sub Ball",
+            "number": "161/160",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/SubBallScontroPrimordiale161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRC-162/160",
+            "name": "Supermartello",
+            "number": "162/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/SupermartelloScontroPrimordiale162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRC-163/160",
+            "name": "Scambio",
+            "number": "163/160",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/ScambioScontroPrimordiale163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PRC-164/160",
+            "name": "Vulneropolizza",
+            "number": "164/160",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/VulneropolizzaScontroPrimordiale164.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

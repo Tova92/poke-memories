@@ -1,0 +1,1339 @@
+{
+    "expansion": {
+        "id": "MEG",
+        "name": "Megaevoluzione",
+        "year": 2025,
+        "month": 10,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/48/SimboloSetMegaevoluzione.png",
+        "cardCount": 188
+    },
+    "cards": [
+        {
+            "id": "MEG-001/132",
+            "name": "Bulbasaur",
+            "number": "001/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/BulbasaurMegaevoluzione1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-002/132",
+            "name": "Ivysaur",
+            "number": "002/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/IvysaurMegaevoluzione2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-003/132",
+            "name": "Mega Venusaur-ex",
+            "number": "003/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MegaVenusaur-exMegaevoluzione3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-004/132",
+            "name": "Exeggcute",
+            "number": "004/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/ExeggcuteMegaevoluzione4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-005/132",
+            "name": "Exeggutor",
+            "number": "005/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ExeggutorMegaevoluzione5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-006/132",
+            "name": "Tangela",
+            "number": "006/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/TangelaMegaevoluzione6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-007/132",
+            "name": "Tangrowth",
+            "number": "007/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/TangrowthMegaevoluzione7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-008/132",
+            "name": "Chikorita",
+            "number": "008/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ChikoritaMegaevoluzione8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-009/132",
+            "name": "Bayleef",
+            "number": "009/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/BayleefMegaevoluzione9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-010/132",
+            "name": "Meganium",
+            "number": "010/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/MeganiumMegaevoluzione10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-011/132",
+            "name": "Shuckle",
+            "number": "011/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ShuckleMegaevoluzione11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-012/132",
+            "name": "Celebi",
+            "number": "012/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/CelebiMegaevoluzione12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-013/132",
+            "name": "Seedot",
+            "number": "013/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/SeedotMegaevoluzione13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-014/132",
+            "name": "Nuzleaf",
+            "number": "014/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/NuzleafMegaevoluzione14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-015/132",
+            "name": "Shiftry",
+            "number": "015/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ShiftryMegaevoluzione15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-016/132",
+            "name": "Nincada",
+            "number": "016/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/NincadaMegaevoluzione16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-017/132",
+            "name": "Ninjask",
+            "number": "017/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/NinjaskMegaevoluzione17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-018/132",
+            "name": "Dhelmise",
+            "number": "018/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/DhelmiseMegaevoluzione18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-019/132",
+            "name": "Vulpix",
+            "number": "019/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/VulpixMegaevoluzione19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-020/132",
+            "name": "Ninetales",
+            "number": "020/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/NinetalesMegaevoluzione20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-021/132",
+            "name": "Numel",
+            "number": "021/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/NumelMegaevoluzione21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-022/132",
+            "name": "Mega Camerupt-ex",
+            "number": "022/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/MegaCamerupt-exMegaevoluzione22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-023/132",
+            "name": "Litleo",
+            "number": "023/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/LitleoMegaevoluzione23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-024/132",
+            "name": "Pyroar",
+            "number": "024/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PyroarMegaevoluzione24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-025/132",
+            "name": "Volcanion",
+            "number": "025/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/VolcanionMegaevoluzione25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-026/132",
+            "name": "Scorbunny",
+            "number": "026/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ScorbunnyMegaevoluzione26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-027/132",
+            "name": "Raboot",
+            "number": "027/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/RabootMegaevoluzione27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-028/132",
+            "name": "Cinderace",
+            "number": "028/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CinderaceMegaevoluzione28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-029/132",
+            "name": "Sizzlipede",
+            "number": "029/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SizzlipedeMegaevoluzione29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-030/132",
+            "name": "Centiskorch",
+            "number": "030/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/CentiskorchMegaevoluzione30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-031/132",
+            "name": "Chi-Yu",
+            "number": "031/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Chi-YuMegaevoluzione31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-032/132",
+            "name": "Mantine",
+            "number": "032/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/MantineMegaevoluzione32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-033/132",
+            "name": "Corphish",
+            "number": "033/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/CorphishMegaevoluzione33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-034/132",
+            "name": "Kyogre",
+            "number": "034/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/KyogreMegaevoluzione34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-035/132",
+            "name": "Snover",
+            "number": "035/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/SnoverMegaevoluzione35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-036/132",
+            "name": "Mega Abomasnow-ex",
+            "number": "036/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/MegaAbomasnow-exMegaevoluzione36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-037/132",
+            "name": "Clauncher",
+            "number": "037/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/ClauncherMegaevoluzione37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-038/132",
+            "name": "Clawitzer",
+            "number": "038/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ClawitzerMegaevoluzione38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-039/132",
+            "name": "Sobble",
+            "number": "039/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SobbleMegaevoluzione39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-040/132",
+            "name": "Drizzile",
+            "number": "040/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/DrizzileMegaevoluzione40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-041/132",
+            "name": "Inteleon",
+            "number": "041/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/InteleonMegaevoluzione41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-042/132",
+            "name": "Snom",
+            "number": "042/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/SnomMegaevoluzione42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-043/132",
+            "name": "Frosmoth",
+            "number": "043/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/FrosmothMegaevoluzione43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-044/132",
+            "name": "Eiscue",
+            "number": "044/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/EiscueMegaevoluzione44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-045/132",
+            "name": "Magnemite",
+            "number": "045/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/MagnemiteMegaevoluzione45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-046/132",
+            "name": "Magneton",
+            "number": "046/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MagnetonMegaevoluzione46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-047/132",
+            "name": "Magnezone",
+            "number": "047/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MagnezoneMegaevoluzione47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-048/132",
+            "name": "Raikou",
+            "number": "048/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/RaikouMegaevoluzione48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-049/132",
+            "name": "Electrike",
+            "number": "049/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/ElectrikeMegaevoluzione49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-050/132",
+            "name": "Mega Manectric-ex",
+            "number": "050/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MegaManectric-exMegaevoluzione50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-051/132",
+            "name": "Pachirisu",
+            "number": "051/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/PachirisuMegaevoluzione51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-052/132",
+            "name": "Helioptile",
+            "number": "052/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/HelioptileMegaevoluzione52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-053/132",
+            "name": "Heliolisk",
+            "number": "053/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/HelioliskMegaevoluzione53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-054/132",
+            "name": "Abra",
+            "number": "054/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/AbraMegaevoluzione54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-055/132",
+            "name": "Kadabra",
+            "number": "055/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/KadabraMegaevoluzione55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-056/132",
+            "name": "Alakazam",
+            "number": "056/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/AlakazamMegaevoluzione56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-057/132",
+            "name": "Jynx",
+            "number": "057/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/JynxMegaevoluzione57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-058/132",
+            "name": "Ralts",
+            "number": "058/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/RaltsMegaevoluzione58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-059/132",
+            "name": "Kirlia",
+            "number": "059/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/KirliaMegaevoluzione59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-060/132",
+            "name": "Mega Gardevoir-ex",
+            "number": "060/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MegaGardevoir-exMegaevoluzione60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-061/132",
+            "name": "Shedinja",
+            "number": "061/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ShedinjaMegaevoluzione61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-062/132",
+            "name": "Spoink",
+            "number": "062/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SpoinkMegaevoluzione62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-063/132",
+            "name": "Grumpig",
+            "number": "063/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/GrumpigMegaevoluzione63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-064/132",
+            "name": "Xerneas",
+            "number": "064/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/XerneasMegaevoluzione64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-065/132",
+            "name": "Greavard",
+            "number": "065/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/GreavardMegaevoluzione65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-066/132",
+            "name": "Houndstone",
+            "number": "066/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/HoundstoneMegaevoluzione66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-067/132",
+            "name": "Gimmighoul",
+            "number": "067/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/GimmighoulMegaevoluzione67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-068/132",
+            "name": "Sandshrew",
+            "number": "068/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SandshrewMegaevoluzione68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-069/132",
+            "name": "Sandslash",
+            "number": "069/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SandslashMegaevoluzione69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-070/132",
+            "name": "Onix",
+            "number": "070/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/OnixMegaevoluzione70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-071/132",
+            "name": "Tyrogue",
+            "number": "071/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/TyrogueMegaevoluzione71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-072/132",
+            "name": "Makuhita",
+            "number": "072/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MakuhitaMegaevoluzione72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-073/132",
+            "name": "Hariyama",
+            "number": "073/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/HariyamaMegaevoluzione73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-074/132",
+            "name": "Lunatone",
+            "number": "074/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/LunatoneMegaevoluzione74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-075/132",
+            "name": "Solrock",
+            "number": "075/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/SolrockMegaevoluzione75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-076/132",
+            "name": "Riolu",
+            "number": "076/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/RioluMegaevoluzione76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-077/132",
+            "name": "Mega Lucario-ex",
+            "number": "077/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MegaLucario-exMegaevoluzione77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-078/132",
+            "name": "Croagunk",
+            "number": "078/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CroagunkMegaevoluzione78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-079/132",
+            "name": "Toxicroak",
+            "number": "079/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ToxicroakMegaevoluzione79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-080/132",
+            "name": "Marshadow",
+            "number": "080/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/MarshadowMegaevoluzione80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-081/132",
+            "name": "Stonjourner",
+            "number": "081/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/StonjournerMegaevoluzione81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-082/132",
+            "name": "Nacli",
+            "number": "082/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/NacliMegaevoluzione82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-083/132",
+            "name": "Naclstack",
+            "number": "083/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/NaclstackMegaevoluzione83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-084/132",
+            "name": "Garganacl",
+            "number": "084/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GarganaclMegaevoluzione84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-085/132",
+            "name": "Crawdaunt",
+            "number": "085/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/CrawdauntMegaevoluzione85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-086/132",
+            "name": "Mega Absol-ex",
+            "number": "086/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MegaAbsol-exMegaevoluzione86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-087/132",
+            "name": "Spiritomb",
+            "number": "087/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SpiritombMegaevoluzione87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-088/132",
+            "name": "Yveltal",
+            "number": "088/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/YveltalMegaevoluzione88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-089/132",
+            "name": "Nickit",
+            "number": "089/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/NickitMegaevoluzione89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-090/132",
+            "name": "Thievul",
+            "number": "090/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/ThievulMegaevoluzione90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-091/132",
+            "name": "Shroodle",
+            "number": "091/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ShroodleMegaevoluzione91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-092/132",
+            "name": "Grafaiai",
+            "number": "092/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/GrafaiaiMegaevoluzione92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-093/132",
+            "name": "Steelix",
+            "number": "093/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/SteelixMegaevoluzione93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-094/132",
+            "name": "Mega Mawile-ex",
+            "number": "094/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MegaMawile-exMegaevoluzione94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-095/132",
+            "name": "Dialga",
+            "number": "095/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/DialgaMegaevoluzione95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-096/132",
+            "name": "Tinkatink",
+            "number": "096/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/TinkatinkMegaevoluzione96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-097/132",
+            "name": "Tinkatuff",
+            "number": "097/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/TinkatuffMegaevoluzione97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-098/132",
+            "name": "Tinkaton",
+            "number": "098/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/TinkatonMegaevoluzione98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-099/132",
+            "name": "Gholdengo",
+            "number": "099/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/GholdengoMegaevoluzione99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-100/132",
+            "name": "Mega Latias-ex",
+            "number": "100/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/MegaLatias-exMegaevoluzione100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-101/132",
+            "name": "Latios",
+            "number": "101/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/LatiosMegaevoluzione101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-102/132",
+            "name": "Spearow",
+            "number": "102/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SpearowMegaevoluzione102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-103/132",
+            "name": "Fearow",
+            "number": "103/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/FearowMegaevoluzione103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-104/132",
+            "name": "Mega Kangaskhan-ex",
+            "number": "104/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/MegaKangaskhan-exMegaevoluzione104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-105/132",
+            "name": "Delibird",
+            "number": "105/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/DelibirdMegaevoluzione105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-106/132",
+            "name": "Miltank",
+            "number": "106/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MiltankMegaevoluzione106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-107/132",
+            "name": "Buneary",
+            "number": "107/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/BunearyMegaevoluzione107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-108/132",
+            "name": "Lopunny",
+            "number": "108/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/LopunnyMegaevoluzione108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-109/132",
+            "name": "Yungoos",
+            "number": "109/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/YungoosMegaevoluzione109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-110/132",
+            "name": "Gumshoos",
+            "number": "110/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/GumshoosMegaevoluzione110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-111/132",
+            "name": "Stufful",
+            "number": "111/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/StuffulMegaevoluzione111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-112/132",
+            "name": "Bewear",
+            "number": "112/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/BewearMegaevoluzione112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-113/132",
+            "name": "Birichinata di Malpi",
+            "number": "113/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BirichinatadiMalpiMegaevoluzione113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-114/132",
+            "name": "Ordini del Capo [Ghecis]",
+            "number": "114/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/OrdinidelCapoMegaevoluzione114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-115/132",
+            "name": "Scambio di Energia",
+            "number": "115/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ScambiodiEnergiaMegaevoluzione115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-116/132",
+            "name": "Gong di Lotta",
+            "number": "116/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/GongdiLottaMegaevoluzione116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-117/132",
+            "name": "Bosco della Vitalità",
+            "number": "117/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/BoscodellaVitalit%C3%A0Megaevoluzione117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-118/132",
+            "name": "Difensore Ferreo",
+            "number": "118/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/DifensoreFerreoMegaevoluzione118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-119/132",
+            "name": "Determinazione di Lylia",
+            "number": "119/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/DeterminazionediLyliaMegaevoluzione119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-120/132",
+            "name": "Affare di Lt. Surge",
+            "number": "120/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/AffarediLtSurgeMegaevoluzione120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-121/132",
+            "name": "Megasegnale",
+            "number": "121/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/MegasegnaleMegaevoluzione121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-122/132",
+            "name": "Giardino dei Misteri",
+            "number": "122/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/GiardinodeiMisteriMegaevoluzione122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-123/132",
+            "name": "Addetta del Centro Pokémon",
+            "number": "123/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/AddettadelCentroPok%C3%A9monMegaevoluzione123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-124/132",
+            "name": "Potenza Premium Pro",
+            "number": "124/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/PotenzaPremiumProMegaevoluzione124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-125/132",
+            "name": "Caramella rara",
+            "number": "125/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/CaramellararaMegaevoluzione125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-126/132",
+            "name": "Repellente",
+            "number": "126/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/RepellenteMegaevoluzione126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-127/132",
+            "name": "Rovine Insidiose",
+            "number": "127/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/RovineInsidioseMegaevoluzione127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-128/132",
+            "name": "Orologio Sospetto",
+            "number": "128/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/OrologioSospettoMegaevoluzione128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-129/132",
+            "name": "Spiaggia dei Surfisti",
+            "number": "129/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SpiaggiadeiSurfistiMegaevoluzione129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-130/132",
+            "name": "Scambio",
+            "number": "130/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/ScambioMegaevoluzione130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-131/132",
+            "name": "Ultra Ball",
+            "number": "131/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/UltraBallMegaevoluzione131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-132/132",
+            "name": "Compassione di Lino",
+            "number": "132/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/CompassionediLinoMegaevoluzione132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEG-133/132",
+            "name": "Bulbasaur",
+            "number": "133/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/BulbasaurMegaevoluzione133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-134/132",
+            "name": "Ivysaur",
+            "number": "134/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/IvysaurMegaevoluzione134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-135/132",
+            "name": "Exeggutor",
+            "number": "135/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ExeggutorMegaevoluzione135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-136/132",
+            "name": "Shuckle",
+            "number": "136/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/ShuckleMegaevoluzione136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-137/132",
+            "name": "Ninjask",
+            "number": "137/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/NinjaskMegaevoluzione137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-138/132",
+            "name": "Vulpix",
+            "number": "138/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/VulpixMegaevoluzione138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-139/132",
+            "name": "Litleo",
+            "number": "139/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/LitleoMegaevoluzione139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-140/132",
+            "name": "Snover",
+            "number": "140/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SnoverMegaevoluzione140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-141/132",
+            "name": "Clawitzer",
+            "number": "141/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ClawitzerMegaevoluzione141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-142/132",
+            "name": "Inteleon",
+            "number": "142/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/InteleonMegaevoluzione142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-143/132",
+            "name": "Helioptile",
+            "number": "143/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/HelioptileMegaevoluzione143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-144/132",
+            "name": "Shedinja",
+            "number": "144/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ShedinjaMegaevoluzione144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-145/132",
+            "name": "Houndstone",
+            "number": "145/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/HoundstoneMegaevoluzione145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-146/132",
+            "name": "Marshadow",
+            "number": "146/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/MarshadowMegaevoluzione146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-147/132",
+            "name": "Garganacl",
+            "number": "147/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/GarganaclMegaevoluzione147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-148/132",
+            "name": "Spiritomb",
+            "number": "148/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SpiritombMegaevoluzione148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-149/132",
+            "name": "Shroodle",
+            "number": "149/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ShroodleMegaevoluzione149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-150/132",
+            "name": "Steelix",
+            "number": "150/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SteelixMegaevoluzione150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-151/132",
+            "name": "Spearow",
+            "number": "151/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/SpearowMegaevoluzione151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-152/132",
+            "name": "Delibird",
+            "number": "152/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/DelibirdMegaevoluzione152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-153/132",
+            "name": "Gumshoos",
+            "number": "153/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/GumshoosMegaevoluzione153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-154/132",
+            "name": "Stufful",
+            "number": "154/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/StuffulMegaevoluzione154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-155/132",
+            "name": "Mega Venusaur-ex",
+            "number": "155/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MegaVenusaur-exMegaevoluzione155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-156/132",
+            "name": "Mega Camerupt-ex",
+            "number": "156/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/MegaCamerupt-exMegaevoluzione156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-157/132",
+            "name": "Mega Abomasnow-ex",
+            "number": "157/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MegaAbomasnow-exMegaevoluzione157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-158/132",
+            "name": "Mega Manectric-ex",
+            "number": "158/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MegaManectric-exMegaevoluzione158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-159/132",
+            "name": "Mega Gardevoir-ex",
+            "number": "159/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/MegaGardevoir-exMegaevoluzione159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-160/132",
+            "name": "Mega Lucario-ex",
+            "number": "160/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MegaLucario-exMegaevoluzione160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-161/132",
+            "name": "Mega Absol-ex",
+            "number": "161/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/MegaAbsol-exMegaevoluzione161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-162/132",
+            "name": "Mega Mawile-ex",
+            "number": "162/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/MegaMawile-exMegaevoluzione162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-163/132",
+            "name": "Mega Latias-ex",
+            "number": "163/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/MegaLatias-exMegaevoluzione163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-164/132",
+            "name": "Mega Kangaskhan-ex",
+            "number": "164/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/MegaKangaskhan-exMegaevoluzione164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-165/132",
+            "name": "Birichinata di Malpi",
+            "number": "165/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/BirichinatadiMalpiMegaevoluzione165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-166/132",
+            "name": "Palloncino",
+            "number": "166/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/PalloncinoMegaevoluzione166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-167/132",
+            "name": "Poffin del Cuore",
+            "number": "167/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PoffindelCuoreMegaevoluzione167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-168/132",
+            "name": "Gong di Lotta",
+            "number": "168/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/GongdiLottaMegaevoluzione168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-169/132",
+            "name": "Determinazione di Lylia",
+            "number": "169/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/DeterminazionediLyliaMegaevoluzione169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-170/132",
+            "name": "Affare di Lt. Surge",
+            "number": "170/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/AffarediLtSurgeMegaevoluzione170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-171/132",
+            "name": "Megasegnale",
+            "number": "171/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MegasegnaleMegaevoluzione171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-172/132",
+            "name": "Giardino dei Misteri",
+            "number": "172/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GiardinodeiMisteriMegaevoluzione172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-173/132",
+            "name": "Barella Notturna",
+            "number": "173/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/BarellaNotturnaMegaevoluzione173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-174/132",
+            "name": "Potenza Premium Pro",
+            "number": "174/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/PotenzaPremiumProMegaevoluzione174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-175/132",
+            "name": "Caramella rara",
+            "number": "175/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/CaramellararaMegaevoluzione175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-176/132",
+            "name": "Compassione di Lino",
+            "number": "176/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CompassionediLinoMegaevoluzione176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-177/132",
+            "name": "Mega Venusaur-ex",
+            "number": "177/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MegaVenusaur-exMegaevoluzione177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-178/132",
+            "name": "Mega Gardevoir-ex",
+            "number": "178/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MegaGardevoir-exMegaevoluzione178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-179/132",
+            "name": "Mega Lucario-ex",
+            "number": "179/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/MegaLucario-exMegaevoluzione179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-180/132",
+            "name": "Mega Absol-ex",
+            "number": "180/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MegaAbsol-exMegaevoluzione180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-181/132",
+            "name": "Mega Latias-ex",
+            "number": "181/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MegaLatias-exMegaevoluzione181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-182/132",
+            "name": "Mega Kangaskhan-ex",
+            "number": "182/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MegaKangaskhan-exMegaevoluzione182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-183/132",
+            "name": "Birichinata di Malpi",
+            "number": "183/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/BirichinatadiMalpiMegaevoluzione183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-184/132",
+            "name": "Determinazione di Lylia",
+            "number": "184/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/DeterminazionediLyliaMegaevoluzione184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-185/132",
+            "name": "Affare di Lt. Surge",
+            "number": "185/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/AffarediLtSurgeMegaevoluzione185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-186/132",
+            "name": "Compassione di Lino",
+            "number": "186/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/CompassionediLinoMegaevoluzione186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-187/132",
+            "name": "Mega Gardevoir-ex",
+            "number": "187/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/MegaGardevoir-exMegaevoluzione187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEG-188/132",
+            "name": "Mega Lucario-ex",
+            "number": "188/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/MegaLucario-exMegaevoluzione188.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

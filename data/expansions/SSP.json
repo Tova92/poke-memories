@@ -1,0 +1,1787 @@
+{
+    "expansion": {
+        "id": "SSP",
+        "name": "Scarlatto e Violetto - Scintille Folgoranti",
+        "year": 2024,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetScintille_Folgoranti.png",
+        "cardCount": 252
+    },
+    "cards": [
+        {
+            "id": "SSP-001/191",
+            "name": "Exeggcute",
+            "number": "001/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ExeggcuteScintilleFolgoranti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-002/191",
+            "name": "Exeggcute",
+            "number": "002/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/ExeggcuteScintilleFolgoranti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-003/191",
+            "name": "Exeggutor",
+            "number": "003/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ExeggutorScintilleFolgoranti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-004/191",
+            "name": "Durant-ex",
+            "number": "004/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Durant-exScintilleFolgoranti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-005/191",
+            "name": "Scatterbug",
+            "number": "005/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ScatterbugScintilleFolgoranti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-006/191",
+            "name": "Spewpa",
+            "number": "006/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SpewpaScintilleFolgoranti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-007/191",
+            "name": "Vivillon",
+            "number": "007/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/VivillonScintilleFolgoranti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-008/191",
+            "name": "Morelull",
+            "number": "008/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/MorelullScintilleFolgoranti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-009/191",
+            "name": "Shiinotic",
+            "number": "009/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ShiinoticScintilleFolgoranti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-010/191",
+            "name": "Dhelmise",
+            "number": "010/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/DhelmiseScintilleFolgoranti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-011/191",
+            "name": "Zarude",
+            "number": "011/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ZarudeScintilleFolgoranti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-012/191",
+            "name": "Capsakid",
+            "number": "012/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/CapsakidScintilleFolgoranti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-013/191",
+            "name": "Rellor",
+            "number": "013/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/RellorScintilleFolgoranti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-014/191",
+            "name": "Rabsca",
+            "number": "014/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/RabscaScintilleFolgoranti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-015/191",
+            "name": "Wo-Chien",
+            "number": "015/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/Wo-ChienScintilleFolgoranti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-016/191",
+            "name": "Vulpix",
+            "number": "016/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/VulpixScintilleFolgoranti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-017/191",
+            "name": "Ninetales",
+            "number": "017/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/NinetalesScintilleFolgoranti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-018/191",
+            "name": "Tauros di Paldea",
+            "number": "018/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/TaurosdiPaldeaScintilleFolgoranti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-019/191",
+            "name": "Ho-Oh",
+            "number": "019/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Ho-OhScintilleFolgoranti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-020/191",
+            "name": "Castform Forma Sole",
+            "number": "020/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/CastformFormaSoleScintilleFolgoranti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-021/191",
+            "name": "Victini",
+            "number": "021/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/VictiniScintilleFolgoranti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-022/191",
+            "name": "Pansear",
+            "number": "022/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/PansearScintilleFolgoranti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-023/191",
+            "name": "Simisear",
+            "number": "023/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/SimisearScintilleFolgoranti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-024/191",
+            "name": "Larvesta",
+            "number": "024/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/LarvestaScintilleFolgoranti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-025/191",
+            "name": "Volcarona",
+            "number": "025/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/VolcaronaScintilleFolgoranti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-026/191",
+            "name": "Oricorio",
+            "number": "026/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/OricorioScintilleFolgoranti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-027/191",
+            "name": "Sizzlipede",
+            "number": "027/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/SizzlipedeScintilleFolgoranti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-028/191",
+            "name": "Centiskorch",
+            "number": "028/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/CentiskorchScintilleFolgoranti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-029/191",
+            "name": "Fuecoco",
+            "number": "029/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/FuecocoScintilleFolgoranti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-030/191",
+            "name": "Crocalor",
+            "number": "030/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/CrocalorScintilleFolgoranti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-031/191",
+            "name": "Skeledirge",
+            "number": "031/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SkeledirgeScintilleFolgoranti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-032/191",
+            "name": "Charcadet",
+            "number": "032/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/CharcadetScintilleFolgoranti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-033/191",
+            "name": "Charcadet",
+            "number": "033/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CharcadetScintilleFolgoranti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-034/191",
+            "name": "Armarouge",
+            "number": "034/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ArmarougeScintilleFolgoranti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-035/191",
+            "name": "Ceruledge",
+            "number": "035/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/CeruledgeScintilleFolgoranti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-036/191",
+            "name": "Ceruledge-ex",
+            "number": "036/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/Ceruledge-exScintilleFolgoranti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-037/191",
+            "name": "Scovillain-ex",
+            "number": "037/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Scovillain-exScintilleFolgoranti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-038/191",
+            "name": "Vampeaguzze",
+            "number": "038/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/VampeaguzzeScintilleFolgoranti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-039/191",
+            "name": "Tauros di Paldea",
+            "number": "039/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/TaurosdiPaldeaScintilleFolgoranti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-040/191",
+            "name": "Mantine",
+            "number": "040/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/MantineScintilleFolgoranti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-041/191",
+            "name": "Feebas",
+            "number": "041/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/FeebasScintilleFolgoranti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-042/191",
+            "name": "Milotic-ex",
+            "number": "042/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Milotic-exScintilleFolgoranti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-043/191",
+            "name": "Spheal",
+            "number": "043/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/SphealScintilleFolgoranti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-044/191",
+            "name": "Sealeo",
+            "number": "044/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SealeoScintilleFolgoranti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-045/191",
+            "name": "Walrein",
+            "number": "045/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/WalreinScintilleFolgoranti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-046/191",
+            "name": "Shellos",
+            "number": "046/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/ShellosScintilleFolgoranti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-047/191",
+            "name": "Cryogonal",
+            "number": "047/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/CryogonalScintilleFolgoranti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-048/191",
+            "name": "Kyurem Nero-ex",
+            "number": "048/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/KyuremNero-exScintilleFolgoranti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-049/191",
+            "name": "Bruxish",
+            "number": "049/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BruxishScintilleFolgoranti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-050/191",
+            "name": "Quaxly",
+            "number": "050/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/QuaxlyScintilleFolgoranti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-051/191",
+            "name": "Quaxwell",
+            "number": "051/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/QuaxwellScintilleFolgoranti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-052/191",
+            "name": "Quaquaval",
+            "number": "052/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/QuaquavalScintilleFolgoranti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-053/191",
+            "name": "Cetoddle",
+            "number": "053/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/CetoddleScintilleFolgoranti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-054/191",
+            "name": "Cetitan",
+            "number": "054/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/CetitanScintilleFolgoranti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-055/191",
+            "name": "Saccoferreo",
+            "number": "055/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SaccoferreoScintilleFolgoranti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-056/191",
+            "name": "Chien-Pao",
+            "number": "056/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Chien-PaoScintilleFolgoranti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-057/191",
+            "name": "Pikachu-ex",
+            "number": "057/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Pikachu-exScintilleFolgoranti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-058/191",
+            "name": "Magnemite",
+            "number": "058/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MagnemiteScintilleFolgoranti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-059/191",
+            "name": "Magneton",
+            "number": "059/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MagnetonScintilleFolgoranti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-060/191",
+            "name": "Magnezone",
+            "number": "060/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/MagnezoneScintilleFolgoranti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-061/191",
+            "name": "Rotom",
+            "number": "061/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/RotomScintilleFolgoranti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-062/191",
+            "name": "Blitzle",
+            "number": "062/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/BlitzleScintilleFolgoranti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-063/191",
+            "name": "Zebstrika",
+            "number": "063/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/ZebstrikaScintilleFolgoranti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-064/191",
+            "name": "Stunfisk",
+            "number": "064/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/StunfiskScintilleFolgoranti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-065/191",
+            "name": "Tapu Koko",
+            "number": "065/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/TapuKokoScintilleFolgoranti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-066/191",
+            "name": "Wattrel",
+            "number": "066/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/WattrelScintilleFolgoranti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-067/191",
+            "name": "Kilowattrel",
+            "number": "067/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/KilowattrelScintilleFolgoranti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-068/191",
+            "name": "Kilowattrel-ex",
+            "number": "068/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Kilowattrel-exScintilleFolgoranti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-069/191",
+            "name": "Miraidon",
+            "number": "069/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/MiraidonScintilleFolgoranti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-070/191",
+            "name": "Togepi",
+            "number": "070/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/TogepiScintilleFolgoranti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-071/191",
+            "name": "Togetic",
+            "number": "071/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/TogeticScintilleFolgoranti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-072/191",
+            "name": "Togekiss",
+            "number": "072/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/TogekissScintilleFolgoranti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-073/191",
+            "name": "Marill",
+            "number": "073/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/MarillScintilleFolgoranti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-074/191",
+            "name": "Azumarill",
+            "number": "074/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/AzumarillScintilleFolgoranti74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-075/191",
+            "name": "Smoochum",
+            "number": "075/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/SmoochumScintilleFolgoranti75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-076/191",
+            "name": "Latias-ex",
+            "number": "076/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Latias-exScintilleFolgoranti76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-077/191",
+            "name": "Latios",
+            "number": "077/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/LatiosScintilleFolgoranti77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-078/191",
+            "name": "Uxie",
+            "number": "078/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/UxieScintilleFolgoranti78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-079/191",
+            "name": "Mesprit",
+            "number": "079/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/MespritScintilleFolgoranti79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-080/191",
+            "name": "Azelf",
+            "number": "080/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/AzelfScintilleFolgoranti80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-081/191",
+            "name": "Sigilyph",
+            "number": "081/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SigilyphScintilleFolgoranti81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-082/191",
+            "name": "Yamask",
+            "number": "082/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/YamaskScintilleFolgoranti82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-083/191",
+            "name": "Cofagrigus",
+            "number": "083/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CofagrigusScintilleFolgoranti83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-084/191",
+            "name": "Espurr",
+            "number": "084/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/EspurrScintilleFolgoranti84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-085/191",
+            "name": "Meowstic",
+            "number": "085/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MeowsticScintilleFolgoranti85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-086/191",
+            "name": "Sylveon-ex",
+            "number": "086/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Sylveon-exScintilleFolgoranti86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-087/191",
+            "name": "Dedenne",
+            "number": "087/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/DedenneScintilleFolgoranti87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-088/191",
+            "name": "Xerneas",
+            "number": "088/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/XerneasScintilleFolgoranti88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-089/191",
+            "name": "Oricorio",
+            "number": "089/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/OricorioScintilleFolgoranti89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-090/191",
+            "name": "Sandygast",
+            "number": "090/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SandygastScintilleFolgoranti90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-091/191",
+            "name": "Palossand-ex",
+            "number": "091/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Palossand-exScintilleFolgoranti91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-092/191",
+            "name": "Tapu Lele",
+            "number": "092/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TapuLeleScintilleFolgoranti92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-093/191",
+            "name": "Indeedee",
+            "number": "093/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/IndeedeeScintilleFolgoranti93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-094/191",
+            "name": "Flittle",
+            "number": "094/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/FlittleScintilleFolgoranti94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-095/191",
+            "name": "Espathra",
+            "number": "095/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/EspathraScintilleFolgoranti95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-096/191",
+            "name": "Crinealato",
+            "number": "096/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CrinealatoScintilleFolgoranti96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-097/191",
+            "name": "Gimmighoul",
+            "number": "097/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/GimmighoulScintilleFolgoranti97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-098/191",
+            "name": "Mankey",
+            "number": "098/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/MankeyScintilleFolgoranti98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-099/191",
+            "name": "Primeape",
+            "number": "099/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/PrimeapeScintilleFolgoranti99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-100/191",
+            "name": "Annihilape",
+            "number": "100/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/AnnihilapeScintilleFolgoranti100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-101/191",
+            "name": "Tauros di Paldea",
+            "number": "101/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/TaurosdiPaldeaScintilleFolgoranti101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-102/191",
+            "name": "Phanpy",
+            "number": "102/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/PhanpyScintilleFolgoranti102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-103/191",
+            "name": "Donphan",
+            "number": "103/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/DonphanScintilleFolgoranti103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-104/191",
+            "name": "Trapinch",
+            "number": "104/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/TrapinchScintilleFolgoranti104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-105/191",
+            "name": "Vibrava",
+            "number": "105/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/VibravaScintilleFolgoranti105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-106/191",
+            "name": "Flygon-ex",
+            "number": "106/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Flygon-exScintilleFolgoranti106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-107/191",
+            "name": "Gastrodon",
+            "number": "107/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/GastrodonScintilleFolgoranti107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-108/191",
+            "name": "Drilbur",
+            "number": "108/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/DrilburScintilleFolgoranti108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-109/191",
+            "name": "Excadrill",
+            "number": "109/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ExcadrillScintilleFolgoranti109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-110/191",
+            "name": "Landorus",
+            "number": "110/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/LandorusScintilleFolgoranti110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-111/191",
+            "name": "Passimian",
+            "number": "111/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/PassimianScintilleFolgoranti111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-112/191",
+            "name": "Clobbopus",
+            "number": "112/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/ClobbopusScintilleFolgoranti112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-113/191",
+            "name": "Grapploct",
+            "number": "113/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/GrapploctScintilleFolgoranti113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-114/191",
+            "name": "Glimmet",
+            "number": "114/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/GlimmetScintilleFolgoranti114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-115/191",
+            "name": "Glimmora",
+            "number": "115/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GlimmoraScintilleFolgoranti115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-116/191",
+            "name": "Koraidon",
+            "number": "116/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/KoraidonScintilleFolgoranti116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-117/191",
+            "name": "Deino",
+            "number": "117/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DeinoScintilleFolgoranti117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-118/191",
+            "name": "Zweilous",
+            "number": "118/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/ZweilousScintilleFolgoranti118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-119/191",
+            "name": "Hydreigon-ex",
+            "number": "119/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/Hydreigon-exScintilleFolgoranti119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-120/191",
+            "name": "Shroodle",
+            "number": "120/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ShroodleScintilleFolgoranti120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-121/191",
+            "name": "Grafaiai",
+            "number": "121/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/GrafaiaiScintilleFolgoranti121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-122/191",
+            "name": "Diglett di Alola",
+            "number": "122/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/DiglettdiAlolaScintilleFolgoranti122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-123/191",
+            "name": "Dugtrio di Alola",
+            "number": "123/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/DugtriodiAlolaScintilleFolgoranti123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-124/191",
+            "name": "Skarmory",
+            "number": "124/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SkarmoryScintilleFolgoranti124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-125/191",
+            "name": "Registeel",
+            "number": "125/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RegisteelScintilleFolgoranti125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-126/191",
+            "name": "Bronzor",
+            "number": "126/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/BronzorScintilleFolgoranti126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-127/191",
+            "name": "Bronzong",
+            "number": "127/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/BronzongScintilleFolgoranti127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-128/191",
+            "name": "Klefki",
+            "number": "128/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/KlefkiScintilleFolgoranti128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-129/191",
+            "name": "Duraludon",
+            "number": "129/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/DuraludonScintilleFolgoranti129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-130/191",
+            "name": "Archaludon-ex",
+            "number": "130/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Archaludon-exScintilleFolgoranti130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-131/191",
+            "name": "Gholdengo",
+            "number": "131/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/GholdengoScintilleFolgoranti131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-132/191",
+            "name": "Capoferreo",
+            "number": "132/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CapoferreoScintilleFolgoranti132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-133/191",
+            "name": "Exeggutor di Alola-ex",
+            "number": "133/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/ExeggutordiAlola-exScintilleFolgoranti133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-134/191",
+            "name": "Altaria",
+            "number": "134/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/AltariaScintilleFolgoranti134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-135/191",
+            "name": "Dialga",
+            "number": "135/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/DialgaScintilleFolgoranti135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-136/191",
+            "name": "Palkia",
+            "number": "136/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/PalkiaScintilleFolgoranti136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-137/191",
+            "name": "Turtonator",
+            "number": "137/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/TurtonatorScintilleFolgoranti137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-138/191",
+            "name": "Applin",
+            "number": "138/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ApplinScintilleFolgoranti138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-139/191",
+            "name": "Flapple",
+            "number": "139/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/FlappleScintilleFolgoranti139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-140/191",
+            "name": "Appletun",
+            "number": "140/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/AppletunScintilleFolgoranti140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-141/191",
+            "name": "Eternatus",
+            "number": "141/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/EternatusScintilleFolgoranti141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-142/191",
+            "name": "Tatsugiri-ex",
+            "number": "142/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Tatsugiri-exScintilleFolgoranti142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-143/191",
+            "name": "Eevee",
+            "number": "143/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/EeveeScintilleFolgoranti143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-144/191",
+            "name": "Snorlax",
+            "number": "144/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SnorlaxScintilleFolgoranti144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-145/191",
+            "name": "Slakoth",
+            "number": "145/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/SlakothScintilleFolgoranti145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-146/191",
+            "name": "Vigoroth",
+            "number": "146/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/VigorothScintilleFolgoranti146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-147/191",
+            "name": "Slaking-ex",
+            "number": "147/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Slaking-exScintilleFolgoranti147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-148/191",
+            "name": "Swablu",
+            "number": "148/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SwabluScintilleFolgoranti148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-149/191",
+            "name": "Zangoose",
+            "number": "149/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ZangooseScintilleFolgoranti149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-150/191",
+            "name": "Kecleon",
+            "number": "150/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/KecleonScintilleFolgoranti150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-151/191",
+            "name": "Bouffalant",
+            "number": "151/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/BouffalantScintilleFolgoranti151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-152/191",
+            "name": "Rufflet",
+            "number": "152/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/RuffletScintilleFolgoranti152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-153/191",
+            "name": "Braviary",
+            "number": "153/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/BraviaryScintilleFolgoranti153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-154/191",
+            "name": "Helioptile",
+            "number": "154/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/HelioptileScintilleFolgoranti154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-155/191",
+            "name": "Heliolisk",
+            "number": "155/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/HelioliskScintilleFolgoranti155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-156/191",
+            "name": "Oranguru",
+            "number": "156/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/OranguruScintilleFolgoranti156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-157/191",
+            "name": "Tandemaus",
+            "number": "157/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/TandemausScintilleFolgoranti157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-158/191",
+            "name": "Maushold",
+            "number": "158/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/MausholdScintilleFolgoranti158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-159/191",
+            "name": "Cyclizar-ex",
+            "number": "159/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Cyclizar-exScintilleFolgoranti159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-160/191",
+            "name": "Flamigo-ex",
+            "number": "160/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/Flamigo-exScintilleFolgoranti160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-161/191",
+            "name": "Terapagos",
+            "number": "161/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/TerapagosScintilleFolgoranti161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-162/191",
+            "name": "Amuleto della Speranza",
+            "number": "162/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/AmuletodellaSperanzaScintilleFolgoranti162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-163/191",
+            "name": "Baccababiri",
+            "number": "163/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/BaccababiriScintilleFolgoranti163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-164/191",
+            "name": "Mixer Meraviglioso",
+            "number": "164/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MixerMeravigliosoScintilleFolgoranti164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-165/191",
+            "name": "Campanello di Servizio",
+            "number": "165/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/CampanellodiServizioScintilleFolgoranti165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-166/191",
+            "name": "Bacchetta Gioco Rilassante",
+            "number": "166/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/BacchettaGiocoRilassanteScintilleFolgoranti166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-167/191",
+            "name": "Arguzia di Lem",
+            "number": "167/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ArguziadiLemScintilleFolgoranti167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-168/191",
+            "name": "Baccaxan",
+            "number": "168/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BaccaxanScintilleFolgoranti168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-169/191",
+            "name": "Contrappeso",
+            "number": "169/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ContrappesoScintilleFolgoranti169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-170/191",
+            "name": "Bluebert",
+            "number": "170/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/BluebertScintilleFolgoranti170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-171/191",
+            "name": "Kit Deduttivo",
+            "number": "171/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/KitDeduttivoScintilleFolgoranti171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-172/191",
+            "name": "Elisir del Drago",
+            "number": "172/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ElisirdelDragoScintilleFolgoranti172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-173/191",
+            "name": "Lilia",
+            "number": "173/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/LiliaScintilleFolgoranti173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-174/191",
+            "name": "Aris",
+            "number": "174/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ArisScintilleFolgoranti174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-175/191",
+            "name": "Scuro Ball",
+            "number": "175/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/ScuroBallScintilleFolgoranti175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-176/191",
+            "name": "Ricerca di Energia Pro",
+            "number": "176/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/RicercadiEnergiaProScintilleFolgoranti176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-177/191",
+            "name": "Monte Gravità",
+            "number": "177/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/MonteGravit%C3%A0ScintilleFolgoranti177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-178/191",
+            "name": "Sguardo di Jasmine",
+            "number": "178/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SguardodiJasmineScintilleFolgoranti178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-179/191",
+            "name": "Fascino di Orthilla",
+            "number": "179/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/FascinodiOrthillaScintilleFolgoranti179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-180/191",
+            "name": "Stadio Gremito",
+            "number": "180/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/StadioGremitoScintilleFolgoranti180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-181/191",
+            "name": "Nota di Intromissione",
+            "number": "181/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/NotadiIntromissioneScintilleFolgoranti181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-182/191",
+            "name": "Ventilatore Megatonico",
+            "number": "182/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/VentilatoreMegatonicoScintilleFolgoranti182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-183/191",
+            "name": "Cuffie Prodigiose",
+            "number": "183/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/CuffieProdigioseScintilleFolgoranti183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-184/191",
+            "name": "Baccapasflo",
+            "number": "184/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/BaccapasfloScintilleFolgoranti184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-185/191",
+            "name": "Carrello Pregiato",
+            "number": "185/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CarrelloPregiatoScintilleFolgoranti185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-186/191",
+            "name": "Scambio Pazzo",
+            "number": "186/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ScambioPazzoScintilleFolgoranti186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-187/191",
+            "name": "Surfista",
+            "number": "187/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SurfistaScintilleFolgoranti187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-188/191",
+            "name": "Macchinario Tecnico: Fluorite",
+            "number": "188/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MacchinarioTecnicoFluoriteScintilleFolgoranti188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-189/191",
+            "name": "Terasfera",
+            "number": "189/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/TerasferaScintilleFolgoranti189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-190/191",
+            "name": "Thyma",
+            "number": "190/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/ThymaScintilleFolgoranti190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-191/191",
+            "name": "Energia Ricchezza",
+            "number": "191/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/EnergiaRicchezzaScintilleFolgoranti191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSP-192/191",
+            "name": "Exeggcute",
+            "number": "192/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ExeggcuteScintilleFolgoranti192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-193/191",
+            "name": "Vivillon",
+            "number": "193/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/VivillonScintilleFolgoranti193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-194/191",
+            "name": "Shiinotic",
+            "number": "194/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/ShiinoticScintilleFolgoranti194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-195/191",
+            "name": "Castform Forma Sole",
+            "number": "195/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/CastformFormaSoleScintilleFolgoranti195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-196/191",
+            "name": "Larvesta",
+            "number": "196/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/LarvestaScintilleFolgoranti196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-197/191",
+            "name": "Ceruledge",
+            "number": "197/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CeruledgeScintilleFolgoranti197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-198/191",
+            "name": "Feebas",
+            "number": "198/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/FeebasScintilleFolgoranti198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-199/191",
+            "name": "Spheal",
+            "number": "199/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SphealScintilleFolgoranti199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-200/191",
+            "name": "Bruxish",
+            "number": "200/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/BruxishScintilleFolgoranti200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-201/191",
+            "name": "Cetitan",
+            "number": "201/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/CetitanScintilleFolgoranti201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-202/191",
+            "name": "Stunfisk",
+            "number": "202/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/StunfiskScintilleFolgoranti202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-203/191",
+            "name": "Latios",
+            "number": "203/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/LatiosScintilleFolgoranti203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-204/191",
+            "name": "Mesprit",
+            "number": "204/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MespritScintilleFolgoranti204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-205/191",
+            "name": "Phanpy",
+            "number": "205/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/PhanpyScintilleFolgoranti205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-206/191",
+            "name": "Vibrava",
+            "number": "206/191",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/VibravaScintilleFolgoranti206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-207/191",
+            "name": "Clobbopus",
+            "number": "207/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/ClobbopusScintilleFolgoranti207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-208/191",
+            "name": "Dugtrio di Alola",
+            "number": "208/191",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/DugtriodiAlolaScintilleFolgoranti208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-209/191",
+            "name": "Skarmory",
+            "number": "209/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/SkarmoryScintilleFolgoranti209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-210/191",
+            "name": "Flapple",
+            "number": "210/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/FlappleScintilleFolgoranti210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-211/191",
+            "name": "Appletun",
+            "number": "211/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/AppletunScintilleFolgoranti211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-212/191",
+            "name": "Slakoth",
+            "number": "212/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/SlakothScintilleFolgoranti212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-213/191",
+            "name": "Kecleon",
+            "number": "213/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/KecleonScintilleFolgoranti213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-214/191",
+            "name": "Braviary",
+            "number": "214/191",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/BraviaryScintilleFolgoranti214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-215/191",
+            "name": "Durant-ex",
+            "number": "215/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Durant-exScintilleFolgoranti215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-216/191",
+            "name": "Scovillain-ex",
+            "number": "216/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Scovillain-exScintilleFolgoranti216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-217/191",
+            "name": "Milotic-ex",
+            "number": "217/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Milotic-exScintilleFolgoranti217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-218/191",
+            "name": "Kyurem Nero-ex",
+            "number": "218/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/KyuremNero-exScintilleFolgoranti218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-219/191",
+            "name": "Pikachu-ex",
+            "number": "219/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Pikachu-exScintilleFolgoranti219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-220/191",
+            "name": "Latias-ex",
+            "number": "220/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Latias-exScintilleFolgoranti220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-221/191",
+            "name": "Palossand-ex",
+            "number": "221/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Palossand-exScintilleFolgoranti221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-222/191",
+            "name": "Flygon-ex",
+            "number": "222/191",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Flygon-exScintilleFolgoranti222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-223/191",
+            "name": "Hydreigon-ex",
+            "number": "223/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Hydreigon-exScintilleFolgoranti223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-224/191",
+            "name": "Archaludon-ex",
+            "number": "224/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Archaludon-exScintilleFolgoranti224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-225/191",
+            "name": "Exeggutor di Alola-ex",
+            "number": "225/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/ExeggutordiAlola-exScintilleFolgoranti225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-226/191",
+            "name": "Tatsugiri-ex",
+            "number": "226/191",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Tatsugiri-exScintilleFolgoranti226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-227/191",
+            "name": "Slaking-ex",
+            "number": "227/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Slaking-exScintilleFolgoranti227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-228/191",
+            "name": "Cyclizar-ex",
+            "number": "228/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Cyclizar-exScintilleFolgoranti228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-229/191",
+            "name": "Arguzia di Lem",
+            "number": "229/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ArguziadiLemScintilleFolgoranti229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-230/191",
+            "name": "Bluebert",
+            "number": "230/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/BluebertScintilleFolgoranti230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-231/191",
+            "name": "Lilia",
+            "number": "231/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/LiliaScintilleFolgoranti231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-232/191",
+            "name": "Aris",
+            "number": "232/191",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/ArisScintilleFolgoranti232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-233/191",
+            "name": "Sguardo di Jasmine",
+            "number": "233/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/SguardodiJasmineScintilleFolgoranti233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-234/191",
+            "name": "Fascino di Orthilla",
+            "number": "234/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/FascinodiOrthillaScintilleFolgoranti234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-235/191",
+            "name": "Surfista",
+            "number": "235/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SurfistaScintilleFolgoranti235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-236/191",
+            "name": "Durant-ex",
+            "number": "236/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Durant-exScintilleFolgoranti236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-237/191",
+            "name": "Milotic-ex",
+            "number": "237/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Milotic-exScintilleFolgoranti237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-238/191",
+            "name": "Pikachu-ex",
+            "number": "238/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Pikachu-exScintilleFolgoranti238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-239/191",
+            "name": "Latias-ex",
+            "number": "239/191",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Latias-exScintilleFolgoranti239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-240/191",
+            "name": "Hydreigon-ex",
+            "number": "240/191",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Hydreigon-exScintilleFolgoranti240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-241/191",
+            "name": "Archaludon-ex",
+            "number": "241/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Archaludon-exScintilleFolgoranti241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-242/191",
+            "name": "Exeggutor di Alola-ex",
+            "number": "242/191",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ExeggutordiAlola-exScintilleFolgoranti242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-243/191",
+            "name": "Arguzia di Lem",
+            "number": "243/191",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ArguziadiLemScintilleFolgoranti243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-244/191",
+            "name": "Aris",
+            "number": "244/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ArisScintilleFolgoranti244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-245/191",
+            "name": "Sguardo di Jasmine",
+            "number": "245/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SguardodiJasmineScintilleFolgoranti245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-246/191",
+            "name": "Fascino di Orthilla",
+            "number": "246/191",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/FascinodiOrthillaScintilleFolgoranti246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-247/191",
+            "name": "Pikachu-ex",
+            "number": "247/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/Pikachu-exScintilleFolgoranti247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-248/191",
+            "name": "Exeggutor di Alola-ex",
+            "number": "248/191",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/ExeggutordiAlola-exScintilleFolgoranti248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-249/191",
+            "name": "Contrappeso",
+            "number": "249/191",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/ContrappesoScintilleFolgoranti249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-250/191",
+            "name": "Monte Gravità",
+            "number": "250/191",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MonteGravit%C3%A0ScintilleFolgoranti250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-251/191",
+            "name": "Barella Notturna",
+            "number": "251/191",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/BarellaNotturnaScintilleFolgoranti251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSP-252/191",
+            "name": "Energia Jet",
+            "number": "252/191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/EnergiaJetScintilleFolgoranti252.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-009",
+				"SVE-010",
+				"SVE-011",
+				"SVE-012",
+				"SVE-013",
+				"SVE-014",
+				"SVE-015",
+				"SVE-016"
+		]
+}

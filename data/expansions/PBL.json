@@ -1,0 +1,863 @@
+{
+    "expansion": {
+        "id": "PBL",
+        "name": "Megaevoluzione - Buio Pesto",
+        "year": 2026,
+        "month": 7,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/e/e7/SimboloSetBuio_Pesto.png",
+        "cardCount": 120
+    },
+    "cards": [
+        {
+            "id": "PBL-001/084",
+            "name": "Tropius",
+            "number": "001/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/TropiusBuioPesto1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-002/084",
+            "name": "Grubbin",
+            "number": "002/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/GrubbinBuioPesto2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-003/084",
+            "name": "Fomantis",
+            "number": "003/084",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/FomantisBuioPesto3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-004/084",
+            "name": "Lurantis-ex",
+            "number": "004/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/Lurantis-exBuioPesto4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-005/084",
+            "name": "Poltchageist",
+            "number": "005/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/PoltchageistBuioPesto5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-006/084",
+            "name": "Sinistcha",
+            "number": "006/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/SinistchaBuioPesto6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-007/084",
+            "name": "Heatran",
+            "number": "007/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/HeatranBuioPesto7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-008/084",
+            "name": "Mega Delphox-ex",
+            "number": "008/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/MegaDelphox-exBuioPesto8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-009/084",
+            "name": "Sizzlipede",
+            "number": "009/084",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SizzlipedeBuioPesto9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-010/084",
+            "name": "Centiskorch",
+            "number": "010/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/CentiskorchBuioPesto10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-011/084",
+            "name": "Charcadet",
+            "number": "011/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/CharcadetBuioPesto11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-012/084",
+            "name": "Armarouge",
+            "number": "012/084",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/ArmarougeBuioPesto12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-013/084",
+            "name": "Goldeen",
+            "number": "013/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/GoldeenBuioPesto13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-014/084",
+            "name": "Seaking",
+            "number": "014/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/SeakingBuioPesto14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-015/084",
+            "name": "Wailmer",
+            "number": "015/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/WailmerBuioPesto15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-016/084",
+            "name": "Wailord-ex",
+            "number": "016/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Wailord-exBuioPesto16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-017/084",
+            "name": "Relicanth",
+            "number": "017/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/RelicanthBuioPesto17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-018/084",
+            "name": "Popplio",
+            "number": "018/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/PopplioBuioPesto18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-019/084",
+            "name": "Brionne",
+            "number": "019/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/BrionneBuioPesto19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-020/084",
+            "name": "Primarina",
+            "number": "020/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/PrimarinaBuioPesto20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-021/084",
+            "name": "Finizen",
+            "number": "021/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/FinizenBuioPesto21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-022/084",
+            "name": "Palafin",
+            "number": "022/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/PalafinBuioPesto22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-023/084",
+            "name": "Electrike",
+            "number": "023/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ElectrikeBuioPesto23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-024/084",
+            "name": "Manectric",
+            "number": "024/084",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/ManectricBuioPesto24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-025/084",
+            "name": "Charjabug",
+            "number": "025/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/CharjabugBuioPesto25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-026/084",
+            "name": "Vikavolt",
+            "number": "026/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/VikavoltBuioPesto26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-027/084",
+            "name": "Mega Zeraora-ex",
+            "number": "027/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/MegaZeraora-exBuioPesto27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-028/084",
+            "name": "Miraidon",
+            "number": "028/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/MiraidonBuioPesto28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-029/084",
+            "name": "Slowpoke",
+            "number": "029/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/SlowpokeBuioPesto29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-030/084",
+            "name": "Slowbro",
+            "number": "030/084",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SlowbroBuioPesto30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-031/084",
+            "name": "Mega Slowbro-ex",
+            "number": "031/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/MegaSlowbro-exBuioPesto31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-032/084",
+            "name": "Jynx",
+            "number": "032/084",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/JynxBuioPesto32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-033/084",
+            "name": "Shuppet",
+            "number": "033/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ShuppetBuioPesto33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-034/084",
+            "name": "Banette",
+            "number": "034/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/BanetteBuioPesto34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-035/084",
+            "name": "Spiritomb",
+            "number": "035/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/SpiritombBuioPesto35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-036/084",
+            "name": "Litwick",
+            "number": "036/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/LitwickBuioPesto36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-037/084",
+            "name": "Lampent",
+            "number": "037/084",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/LampentBuioPesto37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-038/084",
+            "name": "Mega Chandelure-ex",
+            "number": "038/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MegaChandelure-exBuioPesto38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-039/084",
+            "name": "Dhelmise",
+            "number": "039/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/DhelmiseBuioPesto39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-040/084",
+            "name": "Marshadow",
+            "number": "040/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/MarshadowBuioPesto40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-041/084",
+            "name": "Annihilape",
+            "number": "041/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/AnnihilapeBuioPesto41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-042/084",
+            "name": "Mankey",
+            "number": "042/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MankeyBuioPesto42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-043/084",
+            "name": "Primeape",
+            "number": "043/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/PrimeapeBuioPesto43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-044/084",
+            "name": "Cranidos",
+            "number": "044/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/CranidosBuioPesto44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-045/084",
+            "name": "Rampardos-ex",
+            "number": "045/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/Rampardos-exBuioPesto45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-046/084",
+            "name": "Drilbur",
+            "number": "046/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DrilburBuioPesto46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-047/084",
+            "name": "Koraidon",
+            "number": "047/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/KoraidonBuioPesto47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-048/084",
+            "name": "Mega Darkrai-ex",
+            "number": "048/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MegaDarkrai-exBuioPesto48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-049/084",
+            "name": "Vullaby",
+            "number": "049/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/VullabyBuioPesto49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-050/084",
+            "name": "Mandibuzz",
+            "number": "050/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MandibuzzBuioPesto50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-051/084",
+            "name": "Inkay",
+            "number": "051/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/InkayBuioPesto51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-052/084",
+            "name": "Malamar",
+            "number": "052/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MalamarBuioPesto52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-053/084",
+            "name": "Nickit",
+            "number": "053/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/NickitBuioPesto53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-054/084",
+            "name": "Thievul",
+            "number": "054/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ThievulBuioPesto54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-055/084",
+            "name": "Morpeko-ex",
+            "number": "055/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Morpeko-exBuioPesto55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-056/084",
+            "name": "Zarude",
+            "number": "056/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ZarudeBuioPesto56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-057/084",
+            "name": "Maschiff",
+            "number": "057/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MaschiffBuioPesto57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-058/084",
+            "name": "Mabosstiff",
+            "number": "058/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/MabosstiffBuioPesto58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-059/084",
+            "name": "Chi-Yu",
+            "number": "059/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Chi-YuBuioPesto59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-060/084",
+            "name": "Skarmory",
+            "number": "060/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/SkarmoryBuioPesto60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-061/084",
+            "name": "Shieldon",
+            "number": "061/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ShieldonBuioPesto61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-062/084",
+            "name": "Bastiodon",
+            "number": "062/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/BastiodonBuioPesto62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-063/084",
+            "name": "Bronzor",
+            "number": "063/084",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/BronzorBuioPesto63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-064/084",
+            "name": "Bronzong",
+            "number": "064/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/BronzongBuioPesto64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-065/084",
+            "name": "Mega Excadrill-ex",
+            "number": "065/084",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/MegaExcadrill-exBuioPesto65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-066/084",
+            "name": "Pikipek",
+            "number": "066/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PikipekBuioPesto66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-067/084",
+            "name": "Trumbeak",
+            "number": "067/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/TrumbeakBuioPesto67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-068/084",
+            "name": "Toucannon",
+            "number": "068/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ToucannonBuioPesto68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-069/084",
+            "name": "Tipo Zero",
+            "number": "069/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/TipoZeroBuioPesto69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-070/084",
+            "name": "Silvally",
+            "number": "070/084",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SilvallyBuioPesto70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-071/084",
+            "name": "Bombirdier",
+            "number": "071/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/BombirdierBuioPesto71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-072/084",
+            "name": "Vecchio Fossilscudo",
+            "number": "072/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/VecchioFossilscudoBuioPesto72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-073/084",
+            "name": "Vecchio Fossilcranio",
+            "number": "073/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/VecchioFossilcranioBuioPesto73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-074/084",
+            "name": "Distintivo di Rettifica",
+            "number": "074/084",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/DistintivodiRettificaBuioPesto74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-075/084",
+            "name": "Campanella Oscura",
+            "number": "075/084",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CampanellaOscuraBuioPesto75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-076/084",
+            "name": "Cava di Fossili",
+            "number": "076/084",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/CavadiFossiliBuioPesto76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-077/084",
+            "name": "Lotta Finale di Iridio",
+            "number": "077/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/LottaFinalediIridioBuioPesto77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-078/084",
+            "name": "Imma",
+            "number": "078/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ImmaBuioPesto78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-079/084",
+            "name": "Aviona",
+            "number": "079/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/AvionaBuioPesto79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-080/084",
+            "name": "Vitalità di Misty",
+            "number": "080/084",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Vitalit%C3%A0diMistyBuioPesto80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-081/084",
+            "name": "Recluta del Clan Ruggine",
+            "number": "081/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ReclutadelClanRuggineBuioPesto81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-082/084",
+            "name": "Bomba Assurda",
+            "number": "082/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/BombaAssurdaBuioPesto82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-083/084",
+            "name": "Energia O Ombrosa",
+            "number": "083/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/EnergiaOOmbrosaBuioPesto83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-084/084",
+            "name": "Energia L Voltaica",
+            "number": "084/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/EnergiaLVoltaicaBuioPesto84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PBL-085/084",
+            "name": "Fomantis",
+            "number": "085/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/FomantisBuioPesto85.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-086/084",
+            "name": "Armarouge",
+            "number": "086/084",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ArmarougeBuioPesto86.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-087/084",
+            "name": "Goldeen",
+            "number": "087/084",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/GoldeenBuioPesto87.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-088/084",
+            "name": "Primarina",
+            "number": "088/084",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PrimarinaBuioPesto88.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-089/084",
+            "name": "Manectric",
+            "number": "089/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/ManectricBuioPesto89.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-090/084",
+            "name": "Slowbro",
+            "number": "090/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SlowbroBuioPesto90.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-091/084",
+            "name": "Dhelmise",
+            "number": "091/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/DhelmiseBuioPesto91.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-092/084",
+            "name": "Thievul",
+            "number": "092/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ThievulBuioPesto92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-093/084",
+            "name": "Bastiodon",
+            "number": "093/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/BastiodonBuioPesto93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-094/084",
+            "name": "Toucannon",
+            "number": "094/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/ToucannonBuioPesto94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-095/084",
+            "name": "Silvally",
+            "number": "095/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/SilvallyBuioPesto95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-096/084",
+            "name": "Lurantis-ex",
+            "number": "096/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Lurantis-exBuioPesto96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-097/084",
+            "name": "Wailord-ex",
+            "number": "097/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Wailord-exBuioPesto97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-098/084",
+            "name": "Mega Zeraora-ex",
+            "number": "098/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MegaZeraora-exBuioPesto98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-099/084",
+            "name": "Mega Chandelure-ex",
+            "number": "099/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/MegaChandelure-exBuioPesto99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-100/084",
+            "name": "Rampardos-ex",
+            "number": "100/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Rampardos-exBuioPesto100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-101/084",
+            "name": "Mega Darkrai-ex",
+            "number": "101/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MegaDarkrai-exBuioPesto101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-102/084",
+            "name": "Morpeko-ex",
+            "number": "102/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Morpeko-exBuioPesto102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-103/084",
+            "name": "Mega Excadrill-ex",
+            "number": "103/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MegaExcadrill-exBuioPesto103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-104/084",
+            "name": "Braccialcoraggio",
+            "number": "104/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/BraccialcoraggioBuioPesto104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-105/084",
+            "name": "Martello Dirompente",
+            "number": "105/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MartelloDirompenteBuioPesto105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-106/084",
+            "name": "Campanella Oscura",
+            "number": "106/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/CampanellaOscuraBuioPesto106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-107/084",
+            "name": "Scambio di Energia",
+            "number": "107/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ScambiodiEnergiaBuioPesto107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-108/084",
+            "name": "Lotta Finale di Iridio",
+            "number": "108/084",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/LottaFinalediIridioBuioPesto108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-109/084",
+            "name": "Imma",
+            "number": "109/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/ImmaBuioPesto109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-110/084",
+            "name": "Difensore Ferreo",
+            "number": "110/084",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/DifensoreFerreoBuioPesto110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-111/084",
+            "name": "Vitalità di Misty",
+            "number": "111/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Vitalit%C3%A0diMistyBuioPesto111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-112/084",
+            "name": "Recluta del Clan Ruggine",
+            "number": "112/084",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ReclutadelClanRuggineBuioPesto112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-113/084",
+            "name": "Bomba Assurda",
+            "number": "113/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/BombaAssurdaBuioPesto113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-114/084",
+            "name": "Mega Zeraora-ex",
+            "number": "114/084",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MegaZeraora-exBuioPesto114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-115/084",
+            "name": "Mega Chandelure-ex",
+            "number": "115/084",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MegaChandelure-exBuioPesto115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-116/084",
+            "name": "Mega Darkrai-ex",
+            "number": "116/084",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MegaDarkrai-exBuioPesto116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-117/084",
+            "name": "Morpeko-ex",
+            "number": "117/084",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Morpeko-exBuioPesto117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-118/084",
+            "name": "Lotta Finale di Iridio",
+            "number": "118/084",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/LottaFinalediIridioBuioPesto118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-119/084",
+            "name": "Imma",
+            "number": "119/084",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ImmaBuioPesto119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PBL-120/084",
+            "name": "Mega Darkrai-ex",
+            "number": "120/084",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MegaDarkrai-exBuioPesto120.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

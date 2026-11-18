@@ -1,0 +1,867 @@
+{
+    "expansion": {
+        "id": "PLF",
+        "name": "Nero e Bianco - Glaciazione Plasma",
+				"year": 2013,
+				"month": 7,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetGlaciazione_Plasma.png",
+        "cardCount": 122
+    },
+    "cards": [
+        {
+            "id": "PLF-1/116",
+            "name": "Weedle",
+            "number": "1/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/WeedleGlaciazionePlasma1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-2/116",
+            "name": "Kakuna",
+            "number": "2/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/KakunaGlaciazionePlasma2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-3/116",
+            "name": "Beedrill",
+            "number": "3/116",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/BeedrillGlaciazionePlasma3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-4/116",
+            "name": "Exeggcute",
+            "number": "4/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/ExeggcuteGlaciazionePlasma4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-5/116",
+            "name": "Exeggutor",
+            "number": "5/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ExeggutorGlaciazionePlasma5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-6/116",
+            "name": "Treecko",
+            "number": "6/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/TreeckoGlaciazionePlasma6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-7/116",
+            "name": "Grovyle",
+            "number": "7/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/GrovyleGlaciazionePlasma7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-8/116",
+            "name": "Sceptile",
+            "number": "8/116",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SceptileGlaciazionePlasma8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-9/116",
+            "name": "Cacnea",
+            "number": "9/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/CacneaGlaciazionePlasma9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-10/116",
+            "name": "Cacturne",
+            "number": "10/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/CacturneGlaciazionePlasma10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-11/116",
+            "name": "Leafeon",
+            "number": "11/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/LeafeonGlaciazionePlasma11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-12/116",
+            "name": "Flareon",
+            "number": "12/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/FlareonGlaciazionePlasma12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-13/116",
+            "name": "Heatran-EX",
+            "number": "13/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Heatran-EXGlaciazionePlasma13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-14/116",
+            "name": "Litwick",
+            "number": "14/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/LitwickGlaciazionePlasma14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-15/116",
+            "name": "Lampent",
+            "number": "15/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/LampentGlaciazionePlasma15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-16/116",
+            "name": "Chandelure",
+            "number": "16/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ChandelureGlaciazionePlasma16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-17/116",
+            "name": "Reshiram",
+            "number": "17/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/ReshiramGlaciazionePlasma17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-18/116",
+            "name": "Horsea",
+            "number": "18/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/HorseaGlaciazionePlasma18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-19/116",
+            "name": "Seadra",
+            "number": "19/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SeadraGlaciazionePlasma19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-20/116",
+            "name": "Vaporeon",
+            "number": "20/116",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/VaporeonGlaciazionePlasma20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-21/116",
+            "name": "Wooper",
+            "number": "21/116",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/WooperGlaciazionePlasma21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-22/116",
+            "name": "Quagsire",
+            "number": "22/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/QuagsireGlaciazionePlasma22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-23/116",
+            "name": "Glaceon",
+            "number": "23/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/GlaceonGlaciazionePlasma23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-24/116",
+            "name": "Tympole",
+            "number": "24/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/TympoleGlaciazionePlasma24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-25/116",
+            "name": "Palpitoad",
+            "number": "25/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/PalpitoadGlaciazionePlasma25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-26/116",
+            "name": "Seismitoad",
+            "number": "26/116",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/SeismitoadGlaciazionePlasma26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-27/116",
+            "name": "Vanillite",
+            "number": "27/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/VanilliteGlaciazionePlasma27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-28/116",
+            "name": "Vanillish",
+            "number": "28/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/VanillishGlaciazionePlasma28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-29/116",
+            "name": "Vanilluxe",
+            "number": "29/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/VanilluxeGlaciazionePlasma29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-30/116",
+            "name": "Cryogonal",
+            "number": "30/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/CryogonalGlaciazionePlasma30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-31/116",
+            "name": "Kyurem",
+            "number": "31/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/KyuremGlaciazionePlasma31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-32/116",
+            "name": "Voltorb",
+            "number": "32/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/VoltorbGlaciazionePlasma32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-33/116",
+            "name": "Electrode",
+            "number": "33/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ElectrodeGlaciazionePlasma33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-34/116",
+            "name": "Jolteon",
+            "number": "34/116",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/JolteonGlaciazionePlasma34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-35/116",
+            "name": "Chinchou",
+            "number": "35/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/ChinchouGlaciazionePlasma35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-36/116",
+            "name": "Lanturn",
+            "number": "36/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/LanturnGlaciazionePlasma36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-37/116",
+            "name": "Pachirisu",
+            "number": "37/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/PachirisuGlaciazionePlasma37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-38/116",
+            "name": "Thundurus-EX",
+            "number": "38/116",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Thundurus-EXGlaciazionePlasma38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-39/116",
+            "name": "Zekrom",
+            "number": "39/116",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/ZekromGlaciazionePlasma39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-40/116",
+            "name": "Nidoran♀",
+            "number": "40/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/NidoranGlaciazionePlasma40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-41/116",
+            "name": "Nidorina",
+            "number": "41/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/NidorinaGlaciazionePlasma41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-42/116",
+            "name": "Nidoqueen",
+            "number": "42/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/NidoqueenGlaciazionePlasma42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-43/116",
+            "name": "Nidoran♂",
+            "number": "43/116",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/NidoranGlaciazionePlasma43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-44/116",
+            "name": "Nidorino",
+            "number": "44/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/NidorinoGlaciazionePlasma44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-45/116",
+            "name": "Grimer",
+            "number": "45/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/GrimerGlaciazionePlasma45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-46/116",
+            "name": "Muk",
+            "number": "46/116",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/MukGlaciazionePlasma46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-47/116",
+            "name": "Mr. Mime",
+            "number": "47/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/MrMimeGlaciazionePlasma47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-48/116",
+            "name": "Espeon",
+            "number": "48/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/EspeonGlaciazionePlasma48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-49/116",
+            "name": "Sableye",
+            "number": "49/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SableyeGlaciazionePlasma49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-50/116",
+            "name": "Beldum",
+            "number": "50/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/BeldumGlaciazionePlasma50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-51/116",
+            "name": "Metang",
+            "number": "51/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MetangGlaciazionePlasma51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-52/116",
+            "name": "Metagross",
+            "number": "52/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/MetagrossGlaciazionePlasma52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-53/116",
+            "name": "Deoxys-EX",
+            "number": "53/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Deoxys-EXGlaciazionePlasma53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-54/116",
+            "name": "Yamask",
+            "number": "54/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/YamaskGlaciazionePlasma54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-55/116",
+            "name": "Yamask",
+            "number": "55/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/YamaskGlaciazionePlasma55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-56/116",
+            "name": "Cofagrigus",
+            "number": "56/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CofagrigusGlaciazionePlasma56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-57/116",
+            "name": "Cofagrigus",
+            "number": "57/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/CofagrigusGlaciazionePlasma57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-58/116",
+            "name": "Nidoking",
+            "number": "58/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/NidokingGlaciazionePlasma58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-59/116",
+            "name": "Mankey",
+            "number": "59/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MankeyGlaciazionePlasma59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-60/116",
+            "name": "Primeape",
+            "number": "60/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/PrimeapeGlaciazionePlasma60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-61/116",
+            "name": "Onix",
+            "number": "61/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/OnixGlaciazionePlasma61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-62/116",
+            "name": "Makuhita",
+            "number": "62/116",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/MakuhitaGlaciazionePlasma62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-63/116",
+            "name": "Hariyama",
+            "number": "63/116",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/HariyamaGlaciazionePlasma63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-64/116",
+            "name": "Umbreon",
+            "number": "64/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/UmbreonGlaciazionePlasma64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-65/116",
+            "name": "Sneasel",
+            "number": "65/116",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/SneaselGlaciazionePlasma65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-66/116",
+            "name": "Weavile",
+            "number": "66/116",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/WeavileGlaciazionePlasma66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-67/116",
+            "name": "Absol",
+            "number": "67/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/AbsolGlaciazionePlasma67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-68/116",
+            "name": "Sandile",
+            "number": "68/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SandileGlaciazionePlasma68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-69/116",
+            "name": "Krokorok",
+            "number": "69/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/KrokorokGlaciazionePlasma69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-70/116",
+            "name": "Krookodile",
+            "number": "70/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/KrookodileGlaciazionePlasma70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-71/116",
+            "name": "Pawniard",
+            "number": "71/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PawniardGlaciazionePlasma71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-72/116",
+            "name": "Pawniard",
+            "number": "72/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/PawniardGlaciazionePlasma72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-73/116",
+            "name": "Bisharp",
+            "number": "73/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BisharpGlaciazionePlasma73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-74/116",
+            "name": "Bisharp",
+            "number": "74/116",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/BisharpGlaciazionePlasma74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-75/116",
+            "name": "Deino",
+            "number": "75/116",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DeinoGlaciazionePlasma75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-76/116",
+            "name": "Deino",
+            "number": "76/116",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/DeinoGlaciazionePlasma76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-77/116",
+            "name": "Zweilous",
+            "number": "77/116",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/ZweilousGlaciazionePlasma77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-78/116",
+            "name": "Hydreigon",
+            "number": "78/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/HydreigonGlaciazionePlasma78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-79/116",
+            "name": "Steelix",
+            "number": "79/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SteelixGlaciazionePlasma79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-80/116",
+            "name": "Mawile",
+            "number": "80/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MawileGlaciazionePlasma80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-81/116",
+            "name": "Dratini",
+            "number": "81/116",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/DratiniGlaciazionePlasma81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-82/116",
+            "name": "Dragonair",
+            "number": "82/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/DragonairGlaciazionePlasma82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-83/116",
+            "name": "Dragonite",
+            "number": "83/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/DragoniteGlaciazionePlasma83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-84/116",
+            "name": "Kingdra",
+            "number": "84/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/KingdraGlaciazionePlasma84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-85/116",
+            "name": "Latias-EX",
+            "number": "85/116",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Latias-EXGlaciazionePlasma85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-86/116",
+            "name": "Latios-EX",
+            "number": "86/116",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Latios-EXGlaciazionePlasma86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-87/116",
+            "name": "Rattata",
+            "number": "87/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/RattataGlaciazionePlasma87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-88/116",
+            "name": "Raticate",
+            "number": "88/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/RaticateGlaciazionePlasma88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-89/116",
+            "name": "Eevee",
+            "number": "89/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/EeveeGlaciazionePlasma89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-90/116",
+            "name": "Eevee",
+            "number": "90/116",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/EeveeGlaciazionePlasma90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-91/116",
+            "name": "Hoothoot",
+            "number": "91/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/HoothootGlaciazionePlasma91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-92/116",
+            "name": "Noctowl",
+            "number": "92/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/NoctowlGlaciazionePlasma92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-93/116",
+            "name": "Miltank",
+            "number": "93/116",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MiltankGlaciazionePlasma93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-94/116",
+            "name": "Kecleon",
+            "number": "94/116",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/KecleonGlaciazionePlasma94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-95/116",
+            "name": "Starly",
+            "number": "95/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/StarlyGlaciazionePlasma95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-96/116",
+            "name": "Staravia",
+            "number": "96/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/StaraviaGlaciazionePlasma96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-97/116",
+            "name": "Staraptor",
+            "number": "97/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/StaraptorGlaciazionePlasma97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-98/116",
+            "name": "Tornadus-EX",
+            "number": "98/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Tornadus-EXGlaciazionePlasma98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-99/116",
+            "name": "Pietralieve",
+            "number": "99/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/PietralieveGlaciazionePlasma99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-100/116",
+            "name": "Città Congelata",
+            "number": "100/116",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Citt%C3%A0CongelataGlaciazionePlasma100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-101/116",
+            "name": "Ghecis",
+            "number": "101/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/GhecisGlaciazionePlasma101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-102/116",
+            "name": "Trio Oscuro",
+            "number": "102/116",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/TrioOscuroGlaciazionePlasma102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-103/116",
+            "name": "Recupero di Energia Plus",
+            "number": "103/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/RecuperodiEnergiaPlusGlaciazionePlasma103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-104/116",
+            "name": "Medaglia del Team Plasma",
+            "number": "104/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MedagliadelTeamPlasmaGlaciazionePlasma104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-105/116",
+            "name": "Team Plasma Ball",
+            "number": "105/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/TeamPlasmaBallGlaciazionePlasma105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-106/116",
+            "name": "Energia Plasma",
+            "number": "106/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EnergiaPlasmaGlaciazionePlasma106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-107/116",
+            "name": "Rugiada della Vita",
+            "number": "107/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/RugiadadellaVitaGlaciazionePlasma107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-108/116",
+            "name": "Rocciodifesa",
+            "number": "108/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/RocciodifesaGlaciazionePlasma108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-109/116",
+            "name": "Heatran-EX",
+            "number": "109/116",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Heatran-EXGlaciazionePlasma109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-110/116",
+            "name": "Thundurus-EX",
+            "number": "110/116",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Thundurus-EXGlaciazionePlasma110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-111/116",
+            "name": "Deoxys-EX",
+            "number": "111/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Deoxys-EXGlaciazionePlasma111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-112/116",
+            "name": "Latias-EX",
+            "number": "112/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Latias-EXGlaciazionePlasma112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-113/116",
+            "name": "Latios-EX",
+            "number": "113/116",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Latios-EXGlaciazionePlasma113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-114/116",
+            "name": "Tornadus-EX",
+            "number": "114/116",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Tornadus-EXGlaciazionePlasma114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-115/116",
+            "name": "Ghecis",
+            "number": "115/116",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/GhecisGlaciazionePlasma115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-116/116",
+            "name": "Prof.ssa Aralia",
+            "number": "116/116",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ProfssaAraliaGlaciazionePlasma116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PLF-117/116",
+            "name": "Empoleon",
+            "number": "117/116",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/EmpoleonGlaciazionePlasma117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLF-118/116",
+            "name": "Sigilyph",
+            "number": "118/116",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SigilyphGlaciazionePlasma118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLF-119/116",
+            "name": "Garbodor",
+            "number": "119/116",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/GarbodorGlaciazionePlasma119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLF-120/116",
+            "name": "Garchomp",
+            "number": "120/116",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/GarchompGlaciazionePlasma120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLF-121/116",
+            "name": "Pozione Max",
+            "number": "121/116",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/PozioneMaxGlaciazionePlasma121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PLF-122/116",
+            "name": "Ultra Ball",
+            "number": "122/116",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/UltraBallGlaciazionePlasma122.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

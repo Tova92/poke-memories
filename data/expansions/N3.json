@@ -1,0 +1,475 @@
+{
+    "expansion": {
+        "id": "N3",
+        "name": "Neo Revelation",
+				"year": 2001,
+				"month": 10,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2c/SimboloSetNeo_Revelation.svg",
+        "cardCount": 66
+    },
+    "cards": [
+        {
+            "id": "N3-1/64",
+            "name": "Ampharos",
+            "number": "1/64",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/AmpharosNeoRevelation1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-2/64",
+            "name": "Blissey",
+            "number": "2/64",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/BlisseyNeoRevelation2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-3/64",
+            "name": "Celebi",
+            "number": "3/64",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/CelebiNeoRevelation3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-4/64",
+            "name": "Crobat",
+            "number": "4/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CrobatNeoRevelation4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-5/64",
+            "name": "Delibird",
+            "number": "5/64",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/DelibirdNeoRevelation5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-6/64",
+            "name": "Entei",
+            "number": "6/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/EnteiNeoRevelation6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-7/64",
+            "name": "Ho-Oh",
+            "number": "7/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Ho-OhNeoRevelation7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-8/64",
+            "name": "Houndoom",
+            "number": "8/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/HoundoomNeoRevelation8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-9/64",
+            "name": "Jumpluff",
+            "number": "9/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/JumpluffNeoRevelation9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-10/64",
+            "name": "Magneton",
+            "number": "10/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/MagnetonNeoRevelation10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-11/64",
+            "name": "Misdreavus",
+            "number": "11/64",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/MisdreavusNeoRevelation11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-12/64",
+            "name": "Porygon2",
+            "number": "12/64",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Porygon2NeoRevelation12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-13/64",
+            "name": "Raikou",
+            "number": "13/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/RaikouNeoRevelation13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-14/64",
+            "name": "Suicune",
+            "number": "14/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SuicuneNeoRevelation14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-15/64",
+            "name": "Aerodactyl",
+            "number": "15/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/AerodactylNeoRevelation15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-16/64",
+            "name": "Celebi",
+            "number": "16/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CelebiNeoRevelation16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-17/64",
+            "name": "Entei",
+            "number": "17/64",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/EnteiNeoRevelation17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-18/64",
+            "name": "Ho-Oh",
+            "number": "18/64",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/Ho-OhNeoRevelation18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-19/64",
+            "name": "Kingdra",
+            "number": "19/64",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/KingdraNeoRevelation19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-20/64",
+            "name": "Lugia",
+            "number": "20/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LugiaNeoRevelation20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-21/64",
+            "name": "Raichu",
+            "number": "21/64",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/RaichuNeoRevelation21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-22/64",
+            "name": "Raikou",
+            "number": "22/64",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/RaikouNeoRevelation22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-23/64",
+            "name": "Skarmory",
+            "number": "23/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SkarmoryNeoRevelation23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-24/64",
+            "name": "Sneasel",
+            "number": "24/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/SneaselNeoRevelation24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-25/64",
+            "name": "Starmie",
+            "number": "25/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/StarmieNeoRevelation25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-26/64",
+            "name": "Sudowoodo",
+            "number": "26/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SudowoodoNeoRevelation26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-27/64",
+            "name": "Suicune",
+            "number": "27/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SuicuneNeoRevelation27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-28/64",
+            "name": "Flaaffy",
+            "number": "28/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/FlaaffyNeoRevelation28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-29/64",
+            "name": "Golbat",
+            "number": "29/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/GolbatNeoRevelation29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-30/64",
+            "name": "Graveler",
+            "number": "30/64",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GravelerNeoRevelation30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-31/64",
+            "name": "Jynx",
+            "number": "31/64",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/JynxNeoRevelation31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-32/64",
+            "name": "Lanturn",
+            "number": "32/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LanturnNeoRevelation32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-33/64",
+            "name": "Magcargo",
+            "number": "33/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/MagcargoNeoRevelation33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-34/64",
+            "name": "Octillery",
+            "number": "34/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/OctilleryNeoRevelation34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-35/64",
+            "name": "Parasect",
+            "number": "35/64",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/ParasectNeoRevelation35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-36/64",
+            "name": "Piloswine",
+            "number": "36/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PiloswineNeoRevelation36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-37/64",
+            "name": "Seaking",
+            "number": "37/64",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SeakingNeoRevelation37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-38/64",
+            "name": "Stantler",
+            "number": "38/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/StantlerNeoRevelation38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-39/64",
+            "name": "Unown B",
+            "number": "39/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/UnownBNeoRevelation39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-40/64",
+            "name": "Unown Y",
+            "number": "40/64",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/UnownYNeoRevelation40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-41/64",
+            "name": "Aipom",
+            "number": "41/64",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/AipomNeoRevelation41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-42/64",
+            "name": "Chinchou",
+            "number": "42/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ChinchouNeoRevelation42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-43/64",
+            "name": "Farfetch'd",
+            "number": "43/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Farfetch%27dNeoRevelation43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-44/64",
+            "name": "Geodude",
+            "number": "44/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/GeodudeNeoRevelation44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-45/64",
+            "name": "Goldeen",
+            "number": "45/64",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/GoldeenNeoRevelation45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-46/64",
+            "name": "Murkrow",
+            "number": "46/64",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/MurkrowNeoRevelation46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-47/64",
+            "name": "Paras",
+            "number": "47/64",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ParasNeoRevelation47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-48/64",
+            "name": "Quagsire",
+            "number": "48/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/QuagsireNeoRevelation48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-49/64",
+            "name": "Qwilfish",
+            "number": "49/64",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/QwilfishNeoRevelation49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-50/64",
+            "name": "Remoraid",
+            "number": "50/64",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/RemoraidNeoRevelation50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-51/64",
+            "name": "Shuckle",
+            "number": "51/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/ShuckleNeoRevelation51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-52/64",
+            "name": "Skiploom",
+            "number": "52/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SkiploomNeoRevelation52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-53/64",
+            "name": "Slugma",
+            "number": "53/64",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/SlugmaNeoRevelation53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-54/64",
+            "name": "Smoochum",
+            "number": "54/64",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/SmoochumNeoRevelation54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-55/64",
+            "name": "Snubbull",
+            "number": "55/64",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SnubbullNeoRevelation55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-56/64",
+            "name": "Staryu",
+            "number": "56/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/StaryuNeoRevelation56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-57/64",
+            "name": "Swinub",
+            "number": "57/64",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/SwinubNeoRevelation57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-58/64",
+            "name": "Unown K",
+            "number": "58/64",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/UnownKNeoRevelation58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-59/64",
+            "name": "Zubat",
+            "number": "59/64",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ZubatNeoRevelation59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-60/64",
+            "name": "Bacca Pallone",
+            "number": "60/64",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/BaccaPalloneNeoRevelation60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-61/64",
+            "name": "Campo di Cura",
+            "number": "61/64",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CampodiCuraNeoRevelation61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-62/64",
+            "name": "Campi di Allevamento Pokémon",
+            "number": "62/64",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/CampidiAllevamentoPok%C3%A9monNeoRevelation62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-63/64",
+            "name": "Rifugio Rocket",
+            "number": "63/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/RifugioRocketNeoRevelation63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-64/64",
+            "name": "Amo Vecchio",
+            "number": "64/64",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/AmoVecchioNeoRevelation64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "N3-65/64",
+            "name": "Shining Gyarados",
+            "number": "65/64",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ShiningGyaradosNeoRevelation65.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "N3-66/64",
+            "name": "Shining Magikarp",
+            "number": "66/64",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ShiningMagikarpNeoRevelation66.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

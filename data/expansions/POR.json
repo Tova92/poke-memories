@@ -1,0 +1,891 @@
+{
+    "expansion": {
+        "id": "POR",
+        "name": "Megaevoluzione - Equilibrio Perfetto",
+        "year": 2026,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/64/SimboloSetEquilibrio_Perfetto.png",
+        "cardCount": 124
+    },
+    "cards": [
+        {
+            "id": "POR-001/088",
+            "name": "Spinarak",
+            "number": "001/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SpinarakEquilibrioPerfetto1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-002/088",
+            "name": "Ariados",
+            "number": "002/088",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/AriadosEquilibrioPerfetto2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-003/088",
+            "name": "Shaymin",
+            "number": "003/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ShayminEquilibrioPerfetto3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-004/088",
+            "name": "Snivy",
+            "number": "004/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/SnivyEquilibrioPerfetto4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-005/088",
+            "name": "Servine",
+            "number": "005/088",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/ServineEquilibrioPerfetto5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-006/088",
+            "name": "Serperior",
+            "number": "006/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/SerperiorEquilibrioPerfetto6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-007/088",
+            "name": "Scatterbug",
+            "number": "007/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/ScatterbugEquilibrioPerfetto7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-008/088",
+            "name": "Spewpa",
+            "number": "008/088",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SpewpaEquilibrioPerfetto8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-009/088",
+            "name": "Vivillon",
+            "number": "009/088",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/VivillonEquilibrioPerfetto9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-010/088",
+            "name": "Rowlet",
+            "number": "010/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/RowletEquilibrioPerfetto10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-011/088",
+            "name": "Dartrix",
+            "number": "011/088",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/DartrixEquilibrioPerfetto11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-012/088",
+            "name": "Decidueye-ex",
+            "number": "012/088",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Decidueye-exEquilibrioPerfetto12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-013/088",
+            "name": "Fletchinder",
+            "number": "013/088",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/FletchinderEquilibrioPerfetto13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-014/088",
+            "name": "Talonflame",
+            "number": "014/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/TalonflameEquilibrioPerfetto14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-015/088",
+            "name": "Salandit",
+            "number": "015/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SalanditEquilibrioPerfetto15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-016/088",
+            "name": "Salazzle-ex",
+            "number": "016/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Salazzle-exEquilibrioPerfetto16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-017/088",
+            "name": "Turtonator",
+            "number": "017/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/TurtonatorEquilibrioPerfetto17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-018/088",
+            "name": "Seel",
+            "number": "018/088",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SeelEquilibrioPerfetto18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-019/088",
+            "name": "Dewgong",
+            "number": "019/088",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/DewgongEquilibrioPerfetto19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-020/088",
+            "name": "Staryu",
+            "number": "020/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/StaryuEquilibrioPerfetto20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-021/088",
+            "name": "Mega Starmie-ex",
+            "number": "021/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MegaStarmie-exEquilibrioPerfetto21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-022/088",
+            "name": "Lapras-ex",
+            "number": "022/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/Lapras-exEquilibrioPerfetto22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-023/088",
+            "name": "Amaura",
+            "number": "023/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/AmauraEquilibrioPerfetto23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-024/088",
+            "name": "Aurorus",
+            "number": "024/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/AurorusEquilibrioPerfetto24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-025/088",
+            "name": "Volcanion",
+            "number": "025/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/VolcanionEquilibrioPerfetto25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-026/088",
+            "name": "Shinx",
+            "number": "026/088",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ShinxEquilibrioPerfetto26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-027/088",
+            "name": "Luxio",
+            "number": "027/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/LuxioEquilibrioPerfetto27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-028/088",
+            "name": "Luxray",
+            "number": "028/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/LuxrayEquilibrioPerfetto28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-029/088",
+            "name": "Dedenne",
+            "number": "029/088",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/DedenneEquilibrioPerfetto29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-030/088",
+            "name": "Clefairy",
+            "number": "030/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/ClefairyEquilibrioPerfetto30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-031/088",
+            "name": "Mega Clefable-ex",
+            "number": "031/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/MegaClefable-exEquilibrioPerfetto31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-032/088",
+            "name": "Mawile",
+            "number": "032/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MawileEquilibrioPerfetto32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-033/088",
+            "name": "Espurr",
+            "number": "033/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/EspurrEquilibrioPerfetto33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-034/088",
+            "name": "Meowstic",
+            "number": "034/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MeowsticEquilibrioPerfetto34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-035/088",
+            "name": "Spritzee",
+            "number": "035/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/SpritzeeEquilibrioPerfetto35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-036/088",
+            "name": "Aromatisse",
+            "number": "036/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/AromatisseEquilibrioPerfetto36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-037/088",
+            "name": "Nosepass",
+            "number": "037/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/NosepassEquilibrioPerfetto37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-038/088",
+            "name": "Probopass",
+            "number": "038/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/ProbopassEquilibrioPerfetto38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-039/088",
+            "name": "Hippopotas",
+            "number": "039/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/HippopotasEquilibrioPerfetto39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-040/088",
+            "name": "Hippowdon",
+            "number": "040/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/HippowdonEquilibrioPerfetto40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-041/088",
+            "name": "Landorus",
+            "number": "041/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/LandorusEquilibrioPerfetto41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-042/088",
+            "name": "Binacle",
+            "number": "042/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/BinacleEquilibrioPerfetto42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-043/088",
+            "name": "Barbaracle",
+            "number": "043/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/BarbaracleEquilibrioPerfetto43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-044/088",
+            "name": "Tyrunt",
+            "number": "044/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/TyruntEquilibrioPerfetto44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-045/088",
+            "name": "Tyrantrum",
+            "number": "045/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/TyrantrumEquilibrioPerfetto45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-046/088",
+            "name": "Hawlucha",
+            "number": "046/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/HawluchaEquilibrioPerfetto46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-047/088",
+            "name": "Mega Zygarde-ex",
+            "number": "047/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MegaZygarde-exEquilibrioPerfetto47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-048/088",
+            "name": "Gastly",
+            "number": "048/088",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/GastlyEquilibrioPerfetto48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-049/088",
+            "name": "Haunter",
+            "number": "049/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/HaunterEquilibrioPerfetto49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-050/088",
+            "name": "Gengar",
+            "number": "050/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/GengarEquilibrioPerfetto50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-051/088",
+            "name": "Skorupi",
+            "number": "051/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/SkorupiEquilibrioPerfetto51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-052/088",
+            "name": "Drapion",
+            "number": "052/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/DrapionEquilibrioPerfetto52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-053/088",
+            "name": "Yveltal-ex",
+            "number": "053/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/Yveltal-exEquilibrioPerfetto53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-054/088",
+            "name": "Chien-Pao",
+            "number": "054/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Chien-PaoEquilibrioPerfetto54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-055/088",
+            "name": "Mega Skarmory-ex",
+            "number": "055/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MegaSkarmory-exEquilibrioPerfetto55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-056/088",
+            "name": "Honedge",
+            "number": "056/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/HonedgeEquilibrioPerfetto56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-057/088",
+            "name": "Doublade",
+            "number": "057/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/DoubladeEquilibrioPerfetto57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-058/088",
+            "name": "Aegislash",
+            "number": "058/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/AegislashEquilibrioPerfetto58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-059/088",
+            "name": "Klefki",
+            "number": "059/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/KlefkiEquilibrioPerfetto59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-060/088",
+            "name": "Rattata",
+            "number": "060/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/RattataEquilibrioPerfetto60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-061/088",
+            "name": "Raticate",
+            "number": "061/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/RaticateEquilibrioPerfetto61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-062/088",
+            "name": "Meowth-ex",
+            "number": "062/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Meowth-exEquilibrioPerfetto62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-063/088",
+            "name": "Snorlax",
+            "number": "063/088",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SnorlaxEquilibrioPerfetto63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-064/088",
+            "name": "Bunnelby",
+            "number": "064/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/BunnelbyEquilibrioPerfetto64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-065/088",
+            "name": "Diggersby",
+            "number": "065/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/DiggersbyEquilibrioPerfetto65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-066/088",
+            "name": "Fletchling",
+            "number": "066/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/FletchlingEquilibrioPerfetto66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-067/088",
+            "name": "Furfrou",
+            "number": "067/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/FurfrouEquilibrioPerfetto67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-068/088",
+            "name": "Vecchio Fossilmascella",
+            "number": "068/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/VecchioFossilmascellaEquilibrioPerfetto68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-069/088",
+            "name": "Vecchio Fossilpinna",
+            "number": "069/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/VecchioFossilpinnaEquilibrioPerfetto69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-070/088",
+            "name": "Memoria Nucleare",
+            "number": "070/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/MemoriaNucleareEquilibrioPerfetto70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-071/088",
+            "name": "Martello Dirompente",
+            "number": "071/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MartelloDirompenteEquilibrioPerfetto71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-072/088",
+            "name": "Ricerca di Energia",
+            "number": "072/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/RicercadiEnergiaEquilibrioPerfetto72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-073/088",
+            "name": "Scaccia Energie",
+            "number": "073/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/ScacciaEnergieEquilibrioPerfetto73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-074/088",
+            "name": "Pala Scavabuche",
+            "number": "074/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/PalaScavabucheEquilibrioPerfetto74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-075/088",
+            "name": "Viola",
+            "number": "075/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ViolaEquilibrioPerfetto75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-076/088",
+            "name": "Arbitro",
+            "number": "076/088",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/ArbitroEquilibrioPerfetto76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-077/088",
+            "name": "Luminopoli",
+            "number": "077/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/LuminopoliEquilibrioPerfetto77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-078/088",
+            "name": "Pan di Lumi",
+            "number": "078/088",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/PandiLumiEquilibrioPerfetto78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-079/088",
+            "name": "Virgil",
+            "number": "079/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/VirgilEquilibrioPerfetto79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-080/088",
+            "name": "Poké Ball",
+            "number": "080/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Pok%C3%A9BallEquilibrioPerfetto80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-081/088",
+            "name": "Poké Pad",
+            "number": "081/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/Pok%C3%A9PadEquilibrioPerfetto81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-082/088",
+            "name": "Acchiappa-Pokémon",
+            "number": "082/088",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Acchiappa-Pok%C3%A9monEquilibrioPerfetto82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-083/088",
+            "name": "Pozione",
+            "number": "083/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/PozioneEquilibrioPerfetto83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-084/088",
+            "name": "Incoraggiamento di Rina",
+            "number": "084/088",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/IncoraggiamentodiRinaEquilibrioPerfetto84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-085/088",
+            "name": "Tarragon",
+            "number": "085/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/TarragonEquilibrioPerfetto85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-086/088",
+            "name": "Energia E Rigogliosa",
+            "number": "086/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/EnergiaERigogliosaEquilibrioPerfetto86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-087/088",
+            "name": "Energia L Rocciosa",
+            "number": "087/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/EnergiaLRocciosaEquilibrioPerfetto87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-088/088",
+            "name": "Energia P Telepatica",
+            "number": "088/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/EnergiaPTelepaticaEquilibrioPerfetto88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POR-089/088",
+            "name": "Spewpa",
+            "number": "089/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SpewpaEquilibrioPerfetto89.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-090/088",
+            "name": "Rowlet",
+            "number": "090/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RowletEquilibrioPerfetto90.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-091/088",
+            "name": "Talonflame",
+            "number": "091/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/TalonflameEquilibrioPerfetto91.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-092/088",
+            "name": "Aurorus",
+            "number": "092/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/AurorusEquilibrioPerfetto92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-093/088",
+            "name": "Dedenne",
+            "number": "093/088",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/DedenneEquilibrioPerfetto93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-094/088",
+            "name": "Clefairy",
+            "number": "094/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ClefairyEquilibrioPerfetto94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-095/088",
+            "name": "Espurr",
+            "number": "095/088",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/EspurrEquilibrioPerfetto95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-096/088",
+            "name": "Probopass",
+            "number": "096/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ProbopassEquilibrioPerfetto96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-097/088",
+            "name": "Drapion",
+            "number": "097/088",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/DrapionEquilibrioPerfetto97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-098/088",
+            "name": "Doublade",
+            "number": "098/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/DoubladeEquilibrioPerfetto98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-099/088",
+            "name": "Raticate",
+            "number": "099/088",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/RaticateEquilibrioPerfetto99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-100/088",
+            "name": "Decidueye-ex",
+            "number": "100/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Decidueye-exEquilibrioPerfetto100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-101/088",
+            "name": "Salazzle-ex",
+            "number": "101/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Salazzle-exEquilibrioPerfetto101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-102/088",
+            "name": "Mega Starmie-ex",
+            "number": "102/088",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MegaStarmie-exEquilibrioPerfetto102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-103/088",
+            "name": "Mega Clefable-ex",
+            "number": "103/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MegaClefable-exEquilibrioPerfetto103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-104/088",
+            "name": "Mega Zygarde-ex",
+            "number": "104/088",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MegaZygarde-exEquilibrioPerfetto104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-105/088",
+            "name": "Yveltal-ex",
+            "number": "105/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Yveltal-exEquilibrioPerfetto105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-106/088",
+            "name": "Mega Skarmory-ex",
+            "number": "106/088",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MegaSkarmory-exEquilibrioPerfetto106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-107/088",
+            "name": "Meowth-ex",
+            "number": "107/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Meowth-exEquilibrioPerfetto107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-108/088",
+            "name": "Riciclaggio di Energia",
+            "number": "108/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RiciclaggiodiEnergiaEquilibrioPerfetto108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-109/088",
+            "name": "Bosco della Vitalità",
+            "number": "109/088",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/BoscodellaVitalit%C3%A0EquilibrioPerfetto109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-110/088",
+            "name": "Viola",
+            "number": "110/088",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ViolaEquilibrioPerfetto110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-111/088",
+            "name": "Luminopoli",
+            "number": "111/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/LuminopoliEquilibrioPerfetto111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-112/088",
+            "name": "Virgil",
+            "number": "112/088",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/VirgilEquilibrioPerfetto112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-113/088",
+            "name": "Poké Pad",
+            "number": "113/088",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Pok%C3%A9PadEquilibrioPerfetto113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-114/088",
+            "name": "Incoraggiamento di Rina",
+            "number": "114/088",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/IncoraggiamentodiRinaEquilibrioPerfetto114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-115/088",
+            "name": "Cenere magica",
+            "number": "115/088",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/CeneremagicaEquilibrioPerfetto115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-116/088",
+            "name": "Tarragon",
+            "number": "116/088",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/TarragonEquilibrioPerfetto116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-117/088",
+            "name": "Distintivo Meraviglioso",
+            "number": "117/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/DistintivoMeravigliosoEquilibrioPerfetto117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-118/088",
+            "name": "Mega Starmie-ex",
+            "number": "118/088",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MegaStarmie-exEquilibrioPerfetto118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-119/088",
+            "name": "Mega Clefable-ex",
+            "number": "119/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MegaClefable-exEquilibrioPerfetto119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-120/088",
+            "name": "Mega Zygarde-ex",
+            "number": "120/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/MegaZygarde-exEquilibrioPerfetto120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-121/088",
+            "name": "Meowth-ex",
+            "number": "121/088",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Meowth-exEquilibrioPerfetto121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-122/088",
+            "name": "Viola",
+            "number": "122/088",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ViolaEquilibrioPerfetto122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-123/088",
+            "name": "Incoraggiamento di Rina",
+            "number": "123/088",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/IncoraggiamentodiRinaEquilibrioPerfetto123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "POR-124/088",
+            "name": "Mega Zygarde-ex",
+            "number": "124/088",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/MegaZygarde-exEquilibrioPerfetto124.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

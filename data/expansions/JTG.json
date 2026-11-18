@@ -1,0 +1,1353 @@
+{
+    "expansion": {
+        "id": "JTG",
+        "name": "Scarlatto e Violetto - Avventure Insieme",
+        "year": 2025,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/92/SimboloSetAvventure_Insieme.png",
+        "cardCount": 190
+    },
+    "cards": [
+        {
+            "id": "JTG-001/159",
+            "name": "Caterpie",
+            "number": "001/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/CaterpieAvventureInsieme1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-002/159",
+            "name": "Metapod",
+            "number": "002/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/MetapodAvventureInsieme2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-003/159",
+            "name": "Butterfree",
+            "number": "003/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/ButterfreeAvventureInsieme3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-004/159",
+            "name": "Paras",
+            "number": "004/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/ParasAvventureInsieme4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-005/159",
+            "name": "Parasect",
+            "number": "005/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ParasectAvventureInsieme5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-006/159",
+            "name": "Petilil",
+            "number": "006/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PetililAvventureInsieme6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-007/159",
+            "name": "Lilligant",
+            "number": "007/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/LilligantAvventureInsieme7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-008/159",
+            "name": "Maractus",
+            "number": "008/159",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MaractusAvventureInsieme8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-009/159",
+            "name": "Karrablast",
+            "number": "009/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/KarrablastAvventureInsieme9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-010/159",
+            "name": "Foongus",
+            "number": "010/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/FoongusAvventureInsieme10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-011/159",
+            "name": "Amoonguss-ex",
+            "number": "011/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/Amoonguss-exAvventureInsieme11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-012/159",
+            "name": "Shelmet",
+            "number": "012/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ShelmetAvventureInsieme12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-013/159",
+            "name": "Accelgor",
+            "number": "013/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/AccelgorAvventureInsieme13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-014/159",
+            "name": "Durant",
+            "number": "014/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DurantAvventureInsieme14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-015/159",
+            "name": "Virizion",
+            "number": "015/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/VirizionAvventureInsieme15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-016/159",
+            "name": "Sprigatito",
+            "number": "016/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/SprigatitoAvventureInsieme16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-017/159",
+            "name": "Floragato",
+            "number": "017/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/FloragatoAvventureInsieme17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-018/159",
+            "name": "Meowscarada",
+            "number": "018/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/MeowscaradaAvventureInsieme18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-019/159",
+            "name": "Nymble",
+            "number": "019/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/NymbleAvventureInsieme19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-020/159",
+            "name": "Magmar",
+            "number": "020/159",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/MagmarAvventureInsieme20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-021/159",
+            "name": "Magmortar",
+            "number": "021/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MagmortarAvventureInsieme21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-022/159",
+            "name": "Torchic",
+            "number": "022/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/TorchicAvventureInsieme22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-023/159",
+            "name": "Combusken",
+            "number": "023/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/CombuskenAvventureInsieme23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-024/159",
+            "name": "Blaziken-ex",
+            "number": "024/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Blaziken-exAvventureInsieme24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-025/159",
+            "name": "Torkoal",
+            "number": "025/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TorkoalAvventureInsieme25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-026/159",
+            "name": "Darumaka di N",
+            "number": "026/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/DarumakadiNAvventureInsieme26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-027/159",
+            "name": "Darmanitan di N",
+            "number": "027/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/DarmanitandiNAvventureInsieme27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-028/159",
+            "name": "Larvesta",
+            "number": "028/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/LarvestaAvventureInsieme28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-029/159",
+            "name": "Volcarona",
+            "number": "029/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/VolcaronaAvventureInsieme29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-030/159",
+            "name": "Reshiram-ex",
+            "number": "030/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Reshiram-exAvventureInsieme30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-031/159",
+            "name": "Volcanion-ex",
+            "number": "031/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Volcanion-exAvventureInsieme31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-032/159",
+            "name": "Articuno",
+            "number": "032/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ArticunoAvventureInsieme32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-033/159",
+            "name": "Remoraid",
+            "number": "033/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/RemoraidAvventureInsieme33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-034/159",
+            "name": "Octillery",
+            "number": "034/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/OctilleryAvventureInsieme34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-035/159",
+            "name": "Lotad",
+            "number": "035/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/LotadAvventureInsieme35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-036/159",
+            "name": "Lombre",
+            "number": "036/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/LombreAvventureInsieme36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-037/159",
+            "name": "Ludicolo",
+            "number": "037/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/LudicoloAvventureInsieme37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-038/159",
+            "name": "Wingull",
+            "number": "038/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/WingullAvventureInsieme38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-039/159",
+            "name": "Pelipper",
+            "number": "039/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PelipperAvventureInsieme39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-040/159",
+            "name": "Wailmer",
+            "number": "040/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/WailmerAvventureInsieme40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-041/159",
+            "name": "Wailord",
+            "number": "041/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/WailordAvventureInsieme41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-042/159",
+            "name": "Regice",
+            "number": "042/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/RegiceAvventureInsieme42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-043/159",
+            "name": "Veluza-ex",
+            "number": "043/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Veluza-exAvventureInsieme43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-044/159",
+            "name": "Geodude di Alola",
+            "number": "044/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/GeodudediAlolaAvventureInsieme44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-045/159",
+            "name": "Graveler di Alola",
+            "number": "045/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/GravelerdiAlolaAvventureInsieme45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-046/159",
+            "name": "Golem di Alola",
+            "number": "046/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/GolemdiAlolaAvventureInsieme46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-047/159",
+            "name": "Voltorb di Kissara",
+            "number": "047/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/VoltorbdiKissaraAvventureInsieme47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-048/159",
+            "name": "Electrode di Kissara",
+            "number": "048/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/ElectrodediKissaraAvventureInsieme48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-049/159",
+            "name": "Joltik di N",
+            "number": "049/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/JoltikdiNAvventureInsieme49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-050/159",
+            "name": "Togedemaru",
+            "number": "050/159",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/TogedemaruAvventureInsieme50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-051/159",
+            "name": "Tapu Koko-ex",
+            "number": "051/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/TapuKoko-exAvventureInsieme51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-052/159",
+            "name": "Tadbulb di Kissara",
+            "number": "052/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/TadbulbdiKissaraAvventureInsieme52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-053/159",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "053/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Bellibolt-exdiKissaraAvventureInsieme53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-054/159",
+            "name": "Wattrel di Kissara",
+            "number": "054/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/WattreldiKissaraAvventureInsieme54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-055/159",
+            "name": "Kilowattrel di Kissara",
+            "number": "055/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/KilowattreldiKissaraAvventureInsieme55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-056/159",
+            "name": "Clefairy-ex di Lylia",
+            "number": "056/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Clefairy-exdiLyliaAvventureInsieme56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-057/159",
+            "name": "Marowak di Alola",
+            "number": "057/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MarowakdiAlolaAvventureInsieme57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-058/159",
+            "name": "Mr. Mime",
+            "number": "058/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MrMimeAvventureInsieme58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-059/159",
+            "name": "Shuppet",
+            "number": "059/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/ShuppetAvventureInsieme59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-060/159",
+            "name": "Banette",
+            "number": "060/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/BanetteAvventureInsieme60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-061/159",
+            "name": "Beldum",
+            "number": "061/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/BeldumAvventureInsieme61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-062/159",
+            "name": "Metang",
+            "number": "062/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MetangAvventureInsieme62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-063/159",
+            "name": "Metagross",
+            "number": "063/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MetagrossAvventureInsieme63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-064/159",
+            "name": "Sigilyph di N",
+            "number": "064/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/SigilyphdiNAvventureInsieme64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-065/159",
+            "name": "Oricorio",
+            "number": "065/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/OricorioAvventureInsieme65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-066/159",
+            "name": "Cutiefly di Lylia",
+            "number": "066/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/CutieflydiLyliaAvventureInsieme66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-067/159",
+            "name": "Ribombee di Lylia",
+            "number": "067/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/RibombeediLyliaAvventureInsieme67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-068/159",
+            "name": "Comfey di Lylia",
+            "number": "068/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ComfeydiLyliaAvventureInsieme68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-069/159",
+            "name": "Mimikyu-ex",
+            "number": "069/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Mimikyu-exAvventureInsieme69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-070/159",
+            "name": "Dhelmise",
+            "number": "070/159",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/DhelmiseAvventureInsieme70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-071/159",
+            "name": "Impidimp",
+            "number": "071/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ImpidimpAvventureInsieme71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-072/159",
+            "name": "Morgrem",
+            "number": "072/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MorgremAvventureInsieme72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-073/159",
+            "name": "Grimmsnarl",
+            "number": "073/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/GrimmsnarlAvventureInsieme73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-074/159",
+            "name": "Milcery",
+            "number": "074/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MilceryAvventureInsieme74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-075/159",
+            "name": "Alcremie-ex",
+            "number": "075/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Alcremie-exAvventureInsieme75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-076/159",
+            "name": "Cubone",
+            "number": "076/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CuboneAvventureInsieme76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-077/159",
+            "name": "Swinub",
+            "number": "077/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SwinubAvventureInsieme77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-078/159",
+            "name": "Piloswine",
+            "number": "078/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/PiloswineAvventureInsieme78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-079/159",
+            "name": "Mamoswine-ex",
+            "number": "079/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/Mamoswine-exAvventureInsieme79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-080/159",
+            "name": "Larvitar",
+            "number": "080/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/LarvitarAvventureInsieme80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-081/159",
+            "name": "Pupitar",
+            "number": "081/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/PupitarAvventureInsieme81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-082/159",
+            "name": "Regirock",
+            "number": "082/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/RegirockAvventureInsieme82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-083/159",
+            "name": "Pancham",
+            "number": "083/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/PanchamAvventureInsieme83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-084/159",
+            "name": "Rockruff",
+            "number": "084/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/RockruffAvventureInsieme84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-085/159",
+            "name": "Lycanroc",
+            "number": "085/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/LycanrocAvventureInsieme85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-086/159",
+            "name": "Silicobra di Hop",
+            "number": "086/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/SilicobradiHopAvventureInsieme86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-087/159",
+            "name": "Sandaconda di Hop",
+            "number": "087/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/SandacondadiHopAvventureInsieme87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-088/159",
+            "name": "Toedscool",
+            "number": "088/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ToedscoolAvventureInsieme88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-089/159",
+            "name": "Toedscruel",
+            "number": "089/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ToedscruelAvventureInsieme89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-090/159",
+            "name": "Klawf",
+            "number": "090/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/KlawfAvventureInsieme90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-091/159",
+            "name": "Koffing",
+            "number": "091/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/KoffingAvventureInsieme91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-092/159",
+            "name": "Weezing",
+            "number": "092/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/WeezingAvventureInsieme92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-093/159",
+            "name": "Wooper di Paldea",
+            "number": "093/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/WooperdiPaldeaAvventureInsieme93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-094/159",
+            "name": "Clodsire di Paldea-ex",
+            "number": "094/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ClodsirediPaldea-exAvventureInsieme94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-095/159",
+            "name": "Tyranitar",
+            "number": "095/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/TyranitarAvventureInsieme95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-096/159",
+            "name": "Purrloin di N",
+            "number": "096/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/PurrloindiNAvventureInsieme96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-097/159",
+            "name": "Zorua di N",
+            "number": "097/159",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/ZoruadiNAvventureInsieme97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-098/159",
+            "name": "Zoroark-ex di N",
+            "number": "098/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Zoroark-exdiNAvventureInsieme98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-099/159",
+            "name": "Pangoro",
+            "number": "099/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/PangoroAvventureInsieme99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-100/159",
+            "name": "Lokix",
+            "number": "100/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LokixAvventureInsieme100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-101/159",
+            "name": "Bombirdier",
+            "number": "101/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/BombirdierAvventureInsieme101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-102/159",
+            "name": "Escavalier",
+            "number": "102/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/EscavalierAvventureInsieme102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-103/159",
+            "name": "Klink di N",
+            "number": "103/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/KlinkdiNAvventureInsieme103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-104/159",
+            "name": "Klang di N",
+            "number": "104/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/KlangdiNAvventureInsieme104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-105/159",
+            "name": "Klinklang di N",
+            "number": "105/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/KlinklangdiNAvventureInsieme105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-106/159",
+            "name": "Stunfisk di Galar",
+            "number": "106/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/StunfiskdiGalarAvventureInsieme106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-107/159",
+            "name": "Magearna",
+            "number": "107/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/MagearnaAvventureInsieme107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-108/159",
+            "name": "Corviknight di Hop",
+            "number": "108/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/CorviknightdiHopAvventureInsieme108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-109/159",
+            "name": "Cufant",
+            "number": "109/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/CufantAvventureInsieme109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-110/159",
+            "name": "Copperajah",
+            "number": "110/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/CopperajahAvventureInsieme110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-111/159",
+            "name": "Zacian-ex di Hop",
+            "number": "111/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Zacian-exdiHopAvventureInsieme111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-112/159",
+            "name": "Bagon",
+            "number": "112/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BagonAvventureInsieme112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-113/159",
+            "name": "Shelgon",
+            "number": "113/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ShelgonAvventureInsieme113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-114/159",
+            "name": "Salamence-ex",
+            "number": "114/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Salamence-exAvventureInsieme114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-115/159",
+            "name": "Druddigon",
+            "number": "115/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/DruddigonAvventureInsieme115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-116/159",
+            "name": "Reshiram di N",
+            "number": "116/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ReshiramdiNAvventureInsieme116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-117/159",
+            "name": "Snorlax di Hop",
+            "number": "117/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SnorlaxdiHopAvventureInsieme117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-118/159",
+            "name": "Sentret",
+            "number": "118/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/SentretAvventureInsieme118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-119/159",
+            "name": "Furret",
+            "number": "119/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/FurretAvventureInsieme119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-120/159",
+            "name": "Dunsparce",
+            "number": "120/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/DunsparceAvventureInsieme120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-121/159",
+            "name": "Dudunsparce-ex",
+            "number": "121/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Dudunsparce-exAvventureInsieme121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-122/159",
+            "name": "Kecleon",
+            "number": "122/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/KecleonAvventureInsieme122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-123/159",
+            "name": "Tropius",
+            "number": "123/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/TropiusAvventureInsieme123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-124/159",
+            "name": "Audino",
+            "number": "124/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/AudinoAvventureInsieme124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-125/159",
+            "name": "Minccino",
+            "number": "125/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MinccinoAvventureInsieme125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-126/159",
+            "name": "Cinccino",
+            "number": "126/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/CinccinoAvventureInsieme126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-127/159",
+            "name": "Noibat",
+            "number": "127/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/NoibatAvventureInsieme127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-128/159",
+            "name": "Noivern",
+            "number": "128/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/NoivernAvventureInsieme128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-129/159",
+            "name": "Komala",
+            "number": "129/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/KomalaAvventureInsieme129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-130/159",
+            "name": "Drampa",
+            "number": "130/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/DrampaAvventureInsieme130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-131/159",
+            "name": "Skwovet",
+            "number": "131/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SkwovetAvventureInsieme131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-132/159",
+            "name": "Greedent",
+            "number": "132/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GreedentAvventureInsieme132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-133/159",
+            "name": "Rookidee di Hop",
+            "number": "133/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/RookideediHopAvventureInsieme133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-134/159",
+            "name": "Corvisquire di Hop",
+            "number": "134/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/CorvisquirediHopAvventureInsieme134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-135/159",
+            "name": "Wooloo di Hop",
+            "number": "135/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/WooloodiHopAvventureInsieme135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-136/159",
+            "name": "Dubwool di Hop",
+            "number": "136/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/DubwooldiHopAvventureInsieme136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-137/159",
+            "name": "Cramorant",
+            "number": "137/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/CramorantAvventureInsieme137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-138/159",
+            "name": "Cramorant di Hop",
+            "number": "138/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/CramorantdiHopAvventureInsieme138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-139/159",
+            "name": "Lechonk",
+            "number": "139/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/LechonkAvventureInsieme139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-140/159",
+            "name": "Oinkologne",
+            "number": "140/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/OinkologneAvventureInsieme140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-141/159",
+            "name": "Squawkabilly",
+            "number": "141/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/SquawkabillyAvventureInsieme141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-142/159",
+            "name": "Nab e Abby",
+            "number": "142/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/NabeAbbyAvventureInsieme142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-143/159",
+            "name": "Allenamento di Cinturanera",
+            "number": "143/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/AllenamentodiCinturaneraAvventureInsieme143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-144/159",
+            "name": "Allenamento di Cinturanera",
+            "number": "144/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/AllenamentodiCinturaneraAvventureInsieme144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-145/159",
+            "name": "Allenamento di Cinturanera",
+            "number": "145/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/AllenamentodiCinturaneraAvventureInsieme145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-146/159",
+            "name": "Ricerca di Brock",
+            "number": "146/159",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/RicercadiBrockAvventureInsieme146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-147/159",
+            "name": "Borsa di Hop",
+            "number": "147/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/BorsadiHopAvventureInsieme147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-148/159",
+            "name": "Bendascelta di Hop",
+            "number": "148/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/BendasceltadiHopAvventureInsieme148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-149/159",
+            "name": "Spirito Combattivo di Iris",
+            "number": "149/159",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SpiritoCombattivodiIrisAvventureInsieme149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-150/159",
+            "name": "Leudapoli",
+            "number": "150/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/LeudapoliAvventureInsieme150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-151/159",
+            "name": "Perla di Lylia",
+            "number": "151/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PerladiLyliaAvventureInsieme151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-152/159",
+            "name": "Palazzo di N",
+            "number": "152/159",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/PalazzodiNAvventureInsieme152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-153/159",
+            "name": "PP-su di N",
+            "number": "153/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/PP-sudiNAvventureInsieme153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-154/159",
+            "name": "Furlongham",
+            "number": "154/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/FurlonghamAvventureInsieme154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-155/159",
+            "name": "Ricerca Accademica [Prof.ssa Olim]",
+            "number": "155/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/RicercaAccademicaAvventureInsieme155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-156/159",
+            "name": "Biglietto Riscattabile",
+            "number": "156/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BigliettoRiscattabileAvventureInsieme156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-157/159",
+            "name": "Ragazzaccio",
+            "number": "157/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/RagazzaccioAvventureInsieme157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-158/159",
+            "name": "Superpozione",
+            "number": "158/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SuperpozioneAvventureInsieme158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-159/159",
+            "name": "Energia Appuntita",
+            "number": "159/159",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/EnergiaAppuntitaAvventureInsieme159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "JTG-160/159",
+            "name": "Maractus",
+            "number": "160/159",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MaractusAvventureInsieme160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-161/159",
+            "name": "Articuno",
+            "number": "161/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ArticunoAvventureInsieme161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-162/159",
+            "name": "Wailord",
+            "number": "162/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/WailordAvventureInsieme162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-163/159",
+            "name": "Kilowattrel di Kissara",
+            "number": "163/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/KilowattreldiKissaraAvventureInsieme163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-164/159",
+            "name": "Ribombee di Lylia",
+            "number": "164/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/RibombeediLyliaAvventureInsieme164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-165/159",
+            "name": "Swinub",
+            "number": "165/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SwinubAvventureInsieme165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-166/159",
+            "name": "Lycanroc",
+            "number": "166/159",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/LycanrocAvventureInsieme166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-167/159",
+            "name": "Reshiram di N",
+            "number": "167/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/ReshiramdiNAvventureInsieme167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-168/159",
+            "name": "Furret",
+            "number": "168/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/FurretAvventureInsieme168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-169/159",
+            "name": "Noibat",
+            "number": "169/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/NoibatAvventureInsieme169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-170/159",
+            "name": "Wooloo di Hop",
+            "number": "170/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/WooloodiHopAvventureInsieme170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-171/159",
+            "name": "Volcanion-ex",
+            "number": "171/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Volcanion-exAvventureInsieme171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-172/159",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "172/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Bellibolt-exdiKissaraAvventureInsieme172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-173/159",
+            "name": "Clefairy-ex di Lylia",
+            "number": "173/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/Clefairy-exdiLyliaAvventureInsieme173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-174/159",
+            "name": "Mamoswine-ex",
+            "number": "174/159",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Mamoswine-exAvventureInsieme174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-175/159",
+            "name": "Zoroark-ex di N",
+            "number": "175/159",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Zoroark-exdiNAvventureInsieme175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-176/159",
+            "name": "Zacian-ex di Hop",
+            "number": "176/159",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Zacian-exdiHopAvventureInsieme176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-177/159",
+            "name": "Salamence-ex",
+            "number": "177/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Salamence-exAvventureInsieme177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-178/159",
+            "name": "Dudunsparce-ex",
+            "number": "178/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Dudunsparce-exAvventureInsieme178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-179/159",
+            "name": "Ricerca di Brock",
+            "number": "179/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/RicercadiBrockAvventureInsieme179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-180/159",
+            "name": "Spirito Combattivo di Iris",
+            "number": "180/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SpiritoCombattivodiIrisAvventureInsieme180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-181/159",
+            "name": "Ragazzaccio",
+            "number": "181/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/RagazzaccioAvventureInsieme181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-182/159",
+            "name": "Volcanion-ex",
+            "number": "182/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/Volcanion-exAvventureInsieme182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-183/159",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "183/159",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Bellibolt-exdiKissaraAvventureInsieme183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-184/159",
+            "name": "Clefairy-ex di Lylia",
+            "number": "184/159",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Clefairy-exdiLyliaAvventureInsieme184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-185/159",
+            "name": "Zoroark-ex di N",
+            "number": "185/159",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Zoroark-exdiNAvventureInsieme185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-186/159",
+            "name": "Zacian-ex di Hop",
+            "number": "186/159",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Zacian-exdiHopAvventureInsieme186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-187/159",
+            "name": "Salamence-ex",
+            "number": "187/159",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Salamence-exAvventureInsieme187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-188/159",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "188/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Bellibolt-exdiKissaraAvventureInsieme188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-189/159",
+            "name": "Zoroark-ex di N",
+            "number": "189/159",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Zoroark-exdiNAvventureInsieme189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "JTG-190/159",
+            "name": "Energia Appuntita",
+            "number": "190/159",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaAppuntitaAvventureInsieme190.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-009",
+				"SVE-010",
+				"SVE-011",
+				"SVE-012",
+				"SVE-013",
+				"SVE-014",
+				"SVE-015",
+				"SVE-016"
+		]
+}

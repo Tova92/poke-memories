@@ -1,0 +1,769 @@
+{
+    "expansion": {
+        "id": "PK",
+        "name": "EX Power Keepers",
+				"year": 2007,
+				"month": 2,
+        "language": "en",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a6/SimboloSetEX_Power_Keepers.png",
+        "cardCount": 108
+    },
+    "cards": [
+        {
+            "id": "PK-1/108",
+            "name": "Aggron",
+            "number": "1/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/AggronEXPowerKeepers1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-2/108",
+            "name": "Altaria",
+            "number": "2/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/AltariaEXPowerKeepers2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-3/108",
+            "name": "Armaldo",
+            "number": "3/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/ArmaldoEXPowerKeepers3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-4/108",
+            "name": "Banette",
+            "number": "4/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/BanetteEXPowerKeepers4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-5/108",
+            "name": "Blaziken",
+            "number": "5/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/BlazikenEXPowerKeepers5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-6/108",
+            "name": "Charizard",
+            "number": "6/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/CharizardEXPowerKeepers6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-7/108",
+            "name": "Cradily",
+            "number": "7/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CradilyEXPowerKeepers7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-8/108",
+            "name": "Delcatty",
+            "number": "8/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/DelcattyEXPowerKeepers8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-9/108",
+            "name": "Gardevoir",
+            "number": "9/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/GardevoirEXPowerKeepers9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-10/108",
+            "name": "Kabutops",
+            "number": "10/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/KabutopsEXPowerKeepers10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-11/108",
+            "name": "Machamp",
+            "number": "11/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MachampEXPowerKeepers11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-12/108",
+            "name": "Raichu",
+            "number": "12/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/RaichuEXPowerKeepers12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-13/108",
+            "name": "Slaking",
+            "number": "13/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SlakingEXPowerKeepers13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-14/108",
+            "name": "Dusclops",
+            "number": "14/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/DusclopsEXPowerKeepers14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-15/108",
+            "name": "Lanturn",
+            "number": "15/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/LanturnEXPowerKeepers15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-16/108",
+            "name": "Magneton",
+            "number": "16/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MagnetonEXPowerKeepers16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-17/108",
+            "name": "Mawile",
+            "number": "17/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MawileEXPowerKeepers17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-18/108",
+            "name": "Mightyena",
+            "number": "18/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MightyenaEXPowerKeepers18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-19/108",
+            "name": "Ninetales",
+            "number": "19/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/NinetalesEXPowerKeepers19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-20/108",
+            "name": "Omastar",
+            "number": "20/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/OmastarEXPowerKeepers20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-21/108",
+            "name": "Pichu",
+            "number": "21/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/PichuEXPowerKeepers21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-22/108",
+            "name": "Sableye",
+            "number": "22/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SableyeEXPowerKeepers22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-23/108",
+            "name": "Seviper",
+            "number": "23/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SeviperEXPowerKeepers23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-24/108",
+            "name": "Wobbuffet",
+            "number": "24/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/WobbuffetEXPowerKeepers24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-25/108",
+            "name": "Zangoose",
+            "number": "25/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/ZangooseEXPowerKeepers25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-26/108",
+            "name": "Anorith",
+            "number": "26/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/AnorithEXPowerKeepers26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-27/108",
+            "name": "Cacturne",
+            "number": "27/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CacturneEXPowerKeepers27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-28/108",
+            "name": "Charmeleon",
+            "number": "28/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/CharmeleonEXPowerKeepers28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-29/108",
+            "name": "Combusken",
+            "number": "29/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CombuskenEXPowerKeepers29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-30/108",
+            "name": "Glalie",
+            "number": "30/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/GlalieEXPowerKeepers30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-31/108",
+            "name": "Kirlia",
+            "number": "31/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/KirliaEXPowerKeepers31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-32/108",
+            "name": "Lairon",
+            "number": "32/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/LaironEXPowerKeepers32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-33/108",
+            "name": "Machoke",
+            "number": "33/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/MachokeEXPowerKeepers33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-34/108",
+            "name": "Medicham",
+            "number": "34/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MedichamEXPowerKeepers34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-35/108",
+            "name": "Metang",
+            "number": "35/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/MetangEXPowerKeepers35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-36/108",
+            "name": "Nuzleaf",
+            "number": "36/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/NuzleafEXPowerKeepers36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-37/108",
+            "name": "Sealeo",
+            "number": "37/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SealeoEXPowerKeepers37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-38/108",
+            "name": "Sharpedo",
+            "number": "38/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/SharpedoEXPowerKeepers38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-39/108",
+            "name": "Shelgon",
+            "number": "39/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ShelgonEXPowerKeepers39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-40/108",
+            "name": "Vibrava",
+            "number": "40/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/VibravaEXPowerKeepers40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-41/108",
+            "name": "Vigoroth",
+            "number": "41/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/VigorothEXPowerKeepers41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-42/108",
+            "name": "Aron",
+            "number": "42/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/AronEXPowerKeepers42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-43/108",
+            "name": "Bagon",
+            "number": "43/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/BagonEXPowerKeepers43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-44/108",
+            "name": "Baltoy",
+            "number": "44/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/BaltoyEXPowerKeepers44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-45/108",
+            "name": "Beldum",
+            "number": "45/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/BeldumEXPowerKeepers45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-46/108",
+            "name": "Cacnea",
+            "number": "46/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/CacneaEXPowerKeepers46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-47/108",
+            "name": "Carvanha",
+            "number": "47/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/CarvanhaEXPowerKeepers47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-48/108",
+            "name": "Charmander",
+            "number": "48/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CharmanderEXPowerKeepers48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-49/108",
+            "name": "Chinchou",
+            "number": "49/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/ChinchouEXPowerKeepers49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-50/108",
+            "name": "Duskull",
+            "number": "50/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/DuskullEXPowerKeepers50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-51/108",
+            "name": "Kabuto",
+            "number": "51/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/KabutoEXPowerKeepers51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-52/108",
+            "name": "Lileep",
+            "number": "52/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/LileepEXPowerKeepers52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-53/108",
+            "name": "Machop",
+            "number": "53/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/MachopEXPowerKeepers53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-54/108",
+            "name": "Magnemite",
+            "number": "54/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/MagnemiteEXPowerKeepers54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-55/108",
+            "name": "Meditite",
+            "number": "55/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MedititeEXPowerKeepers55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-56/108",
+            "name": "Omanyte",
+            "number": "56/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/OmanyteEXPowerKeepers56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-57/108",
+            "name": "Pikachu",
+            "number": "57/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/PikachuEXPowerKeepers57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-58/108",
+            "name": "Poochyena",
+            "number": "58/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/PoochyenaEXPowerKeepers58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-59/108",
+            "name": "Ralts",
+            "number": "59/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/RaltsEXPowerKeepers59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-60/108",
+            "name": "Seedot",
+            "number": "60/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SeedotEXPowerKeepers60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-61/108",
+            "name": "Shuppet",
+            "number": "61/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/ShuppetEXPowerKeepers61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-62/108",
+            "name": "Skitty",
+            "number": "62/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/SkittyEXPowerKeepers62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-63/108",
+            "name": "Slakoth",
+            "number": "63/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/SlakothEXPowerKeepers63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-64/108",
+            "name": "Snorunt",
+            "number": "64/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/SnoruntEXPowerKeepers64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-65/108",
+            "name": "Spheal",
+            "number": "65/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/SphealEXPowerKeepers65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-66/108",
+            "name": "Swablu",
+            "number": "66/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SwabluEXPowerKeepers66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-67/108",
+            "name": "Torchic",
+            "number": "67/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/TorchicEXPowerKeepers67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-68/108",
+            "name": "Trapinch",
+            "number": "68/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/TrapinchEXPowerKeepers68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-69/108",
+            "name": "Vulpix",
+            "number": "69/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/VulpixEXPowerKeepers69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-70/108",
+            "name": "Wynaut",
+            "number": "70/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/WynautEXPowerKeepers70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-71/108",
+            "name": "Battle Frontier",
+            "number": "71/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/BattleFrontierEXPowerKeepers71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-72/108",
+            "name": "Drake's Stadium",
+            "number": "72/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/DrakeStadiumEXPowerKeepers72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-73/108",
+            "name": "Energy Recycle System",
+            "number": "73/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/EnergyRecycleSystemEXPowerKeepers73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-74/108",
+            "name": "Energy Removal 2",
+            "number": "74/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/EnergyRemoval2EXPowerKeepers74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-75/108",
+            "name": "Energy Switch",
+            "number": "75/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnergySwitchEXPowerKeepers75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-76/108",
+            "name": "Glacia's Stadium",
+            "number": "76/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/GlaciaStadiumEXPowerKeepers76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-77/108",
+            "name": "Great Ball",
+            "number": "77/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/GreatBallEXPowerKeepers77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-78/108",
+            "name": "Master Ball",
+            "number": "78/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MasterBallEXPowerKeepers78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-79/108",
+            "name": "Phoebe's Stadium",
+            "number": "79/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PhoebeStadiumEXPowerKeepers79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-80/108",
+            "name": "Professor Birch",
+            "number": "80/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ProfessorBirchEXPowerKeepers80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-81/108",
+            "name": "Scott",
+            "number": "81/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/ScottEXPowerKeepers81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-82/108",
+            "name": "Sidney's Stadium",
+            "number": "82/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/SidneyStadiumEXPowerKeepers82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-83/108",
+            "name": "Steven's Advice",
+            "number": "83/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/StevenAdviceEXPowerKeepers83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-84/108",
+            "name": "Claw Fossil",
+            "number": "84/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ClawFossilEXPowerKeepers84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-85/108",
+            "name": "Mysterious Fossil",
+            "number": "85/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/MysteriousFossilEXPowerKeepers85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-86/108",
+            "name": "Root Fossil",
+            "number": "86/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/RootFossilEXPowerKeepers86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-87/108",
+            "name": "Darkness Energy",
+            "number": "87/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/DarknessEnergyEXPowerKeepers87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-88/108",
+            "name": "Metal Energy",
+            "number": "88/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MetalEnergyEXPowerKeepers88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-89/108",
+            "name": "Multi Energy",
+            "number": "89/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MultiEnergyEXPowerKeepers89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-90/108",
+            "name": "Cyclone Energy",
+            "number": "90/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/CycloneEnergyEXPowerKeepers90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-91/108",
+            "name": "Warp Energy",
+            "number": "91/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/WarpEnergyEXPowerKeepers91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-92/108",
+            "name": "Absol ex",
+            "number": "92/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/AbsolexEXPowerKeepers92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-93/108",
+            "name": "Claydol ex",
+            "number": "93/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ClaydolexEXPowerKeepers93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-94/108",
+            "name": "Flygon ex",
+            "number": "94/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/FlygonexEXPowerKeepers94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-95/108",
+            "name": "Metagross ex",
+            "number": "95/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/MetagrossexEXPowerKeepers95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-96/108",
+            "name": "Salamence ex",
+            "number": "96/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SalamenceexEXPowerKeepers96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-97/108",
+            "name": "Shiftry ex",
+            "number": "97/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ShiftryexEXPowerKeepers97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-98/108",
+            "name": "Skarmory ex",
+            "number": "98/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/SkarmoryexEXPowerKeepers98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-99/108",
+            "name": "Walrein ex",
+            "number": "99/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/WalreinexEXPowerKeepers99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-100/108",
+            "name": "Flareon ☆",
+            "number": "100/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/FlareonEXPowerKeepers100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-101/108",
+            "name": "Jolteon ☆",
+            "number": "101/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/JolteonEXPowerKeepers101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-102/108",
+            "name": "Vaporeon ☆",
+            "number": "102/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/VaporeonEXPowerKeepers102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-103/108",
+            "name": "Grass Energy",
+            "number": "103/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/GrassEnergyEXPowerKeepers103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-104/108",
+            "name": "Fire Energy",
+            "number": "104/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/FireEnergyEXPowerKeepers104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-105/108",
+            "name": "Water Energy",
+            "number": "105/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/WaterEnergyEXPowerKeepers105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-106/108",
+            "name": "Lightning Energy",
+            "number": "106/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/LightningEnergyEXPowerKeepers106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-107/108",
+            "name": "Psychic Energy",
+            "number": "107/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/PsychicEnergyEXPowerKeepers107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "PK-108/108",
+            "name": "Fighting Energy",
+            "number": "108/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/FightingEnergyEXPowerKeepers108.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

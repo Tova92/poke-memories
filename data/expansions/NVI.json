@@ -1,0 +1,727 @@
+{
+    "expansion": {
+        "id": "NVI",
+        "name": "Nero e Bianco - Vittorie Regali",
+				"year": 2012,
+				"month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a7/SimboloSetVittorie_Regali.png",
+        "cardCount": 102
+    },
+    "cards": [
+        {
+            "id": "NVI-1/101",
+            "name": "Sewaddle",
+            "number": "1/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SewaddleVittorieRegali1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-2/101",
+            "name": "Swadloon",
+            "number": "2/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/SwadloonVittorieRegali2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-3/101",
+            "name": "Leavanny",
+            "number": "3/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/LeavannyVittorieRegali3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-4/101",
+            "name": "Petilil",
+            "number": "4/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/PetililVittorieRegali4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-5/101",
+            "name": "Lilligant",
+            "number": "5/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/LilligantVittorieRegali5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-6/101",
+            "name": "Dwebble",
+            "number": "6/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/DwebbleVittorieRegali6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-7/101",
+            "name": "Crustle",
+            "number": "7/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CrustleVittorieRegali7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-8/101",
+            "name": "Karrablast",
+            "number": "8/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/KarrablastVittorieRegali8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-9/101",
+            "name": "Foongus",
+            "number": "9/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/FoongusVittorieRegali9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-10/101",
+            "name": "Amoonguss",
+            "number": "10/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/AmoongussVittorieRegali10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-11/101",
+            "name": "Shelmet",
+            "number": "11/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/ShelmetVittorieRegali11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-12/101",
+            "name": "Accelgor",
+            "number": "12/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/AccelgorVittorieRegali12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-13/101",
+            "name": "Virizion",
+            "number": "13/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/VirizionVittorieRegali13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-14/101",
+            "name": "Victini",
+            "number": "14/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/VictiniVittorieRegali14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-15/101",
+            "name": "Victini",
+            "number": "15/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/VictiniVittorieRegali15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-16/101",
+            "name": "Pansear",
+            "number": "16/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PansearVittorieRegali16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-17/101",
+            "name": "Simisear",
+            "number": "17/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SimisearVittorieRegali17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-18/101",
+            "name": "Heatmor",
+            "number": "18/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/HeatmorVittorieRegali18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-19/101",
+            "name": "Larvesta",
+            "number": "19/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/LarvestaVittorieRegali19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-20/101",
+            "name": "Larvesta",
+            "number": "20/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/LarvestaVittorieRegali20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-21/101",
+            "name": "Volcarona",
+            "number": "21/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/VolcaronaVittorieRegali21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-22/101",
+            "name": "Tympole",
+            "number": "22/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/TympoleVittorieRegali22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-23/101",
+            "name": "Palpitoad",
+            "number": "23/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/PalpitoadVittorieRegali23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-24/101",
+            "name": "Seismitoad",
+            "number": "24/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SeismitoadVittorieRegali24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-25/101",
+            "name": "Tirtouga",
+            "number": "25/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/TirtougaVittorieRegali25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-26/101",
+            "name": "Carracosta",
+            "number": "26/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/CarracostaVittorieRegali26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-27/101",
+            "name": "Vanillite",
+            "number": "27/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/VanilliteVittorieRegali27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-28/101",
+            "name": "Vanillish",
+            "number": "28/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/VanillishVittorieRegali28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-29/101",
+            "name": "Vanilluxe",
+            "number": "29/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/VanilluxeVittorieRegali29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-30/101",
+            "name": "Frillish",
+            "number": "30/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/FrillishVittorieRegali30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-31/101",
+            "name": "Jellicent",
+            "number": "31/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/JellicentVittorieRegali31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-32/101",
+            "name": "Cryogonal",
+            "number": "32/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/CryogonalVittorieRegali32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-33/101",
+            "name": "Cryogonal",
+            "number": "33/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/CryogonalVittorieRegali33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-34/101",
+            "name": "Kyurem",
+            "number": "34/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/KyuremVittorieRegali34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-35/101",
+            "name": "Blitzle",
+            "number": "35/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/BlitzleVittorieRegali35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-36/101",
+            "name": "Zebstrika",
+            "number": "36/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/ZebstrikaVittorieRegali36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-37/101",
+            "name": "Emolga",
+            "number": "37/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/EmolgaVittorieRegali37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-38/101",
+            "name": "Tynamo",
+            "number": "38/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/TynamoVittorieRegali38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-39/101",
+            "name": "Tynamo",
+            "number": "39/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/TynamoVittorieRegali39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-40/101",
+            "name": "Eelektrik",
+            "number": "40/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/EelektrikVittorieRegali40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-41/101",
+            "name": "Eelektross",
+            "number": "41/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/EelektrossVittorieRegali41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-42/101",
+            "name": "Stunfisk",
+            "number": "42/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/StunfiskVittorieRegali42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-43/101",
+            "name": "Victini",
+            "number": "43/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/VictiniVittorieRegali43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-44/101",
+            "name": "Yamask",
+            "number": "44/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/YamaskVittorieRegali44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-45/101",
+            "name": "Yamask",
+            "number": "45/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/YamaskVittorieRegali45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-46/101",
+            "name": "Cofagrigus",
+            "number": "46/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/CofagrigusVittorieRegali46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-47/101",
+            "name": "Cofagrigus",
+            "number": "47/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/CofagrigusVittorieRegali47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-48/101",
+            "name": "Trubbish",
+            "number": "48/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/TrubbishVittorieRegali48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-49/101",
+            "name": "Garbodor",
+            "number": "49/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/GarbodorVittorieRegali49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-50/101",
+            "name": "Solosis",
+            "number": "50/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SolosisVittorieRegali50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-51/101",
+            "name": "Duosion",
+            "number": "51/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/DuosionVittorieRegali51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-52/101",
+            "name": "Reuniclus",
+            "number": "52/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ReuniclusVittorieRegali52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-53/101",
+            "name": "Reuniclus",
+            "number": "53/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ReuniclusVittorieRegali53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-54/101",
+            "name": "Elgyem",
+            "number": "54/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ElgyemVittorieRegali54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-55/101",
+            "name": "Elgyem",
+            "number": "55/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ElgyemVittorieRegali55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-56/101",
+            "name": "Beheeyem",
+            "number": "56/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/BeheeyemVittorieRegali56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-57/101",
+            "name": "Litwick",
+            "number": "57/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/LitwickVittorieRegali57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-58/101",
+            "name": "Litwick",
+            "number": "58/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/LitwickVittorieRegali58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-59/101",
+            "name": "Lampent",
+            "number": "59/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/LampentVittorieRegali59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-60/101",
+            "name": "Chandelure",
+            "number": "60/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ChandelureVittorieRegali60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-61/101",
+            "name": "Gigalith",
+            "number": "61/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/GigalithVittorieRegali61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-62/101",
+            "name": "Timburr",
+            "number": "62/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/TimburrVittorieRegali62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-63/101",
+            "name": "Gurdurr",
+            "number": "63/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/GurdurrVittorieRegali63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-64/101",
+            "name": "Conkeldurr",
+            "number": "64/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ConkeldurrVittorieRegali64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-65/101",
+            "name": "Conkeldurr",
+            "number": "65/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ConkeldurrVittorieRegali65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-66/101",
+            "name": "Archen",
+            "number": "66/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ArchenVittorieRegali66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-67/101",
+            "name": "Archeops",
+            "number": "67/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ArcheopsVittorieRegali67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-68/101",
+            "name": "Stunfisk",
+            "number": "68/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/StunfiskVittorieRegali68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-69/101",
+            "name": "Mienfoo",
+            "number": "69/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/MienfooVittorieRegali69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-70/101",
+            "name": "Mienshao",
+            "number": "70/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MienshaoVittorieRegali70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-71/101",
+            "name": "Golett",
+            "number": "71/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/GolettVittorieRegali71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-72/101",
+            "name": "Golurk",
+            "number": "72/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/GolurkVittorieRegali72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-73/101",
+            "name": "Terrakion",
+            "number": "73/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/TerrakionVittorieRegali73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-74/101",
+            "name": "Landorus",
+            "number": "74/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/LandorusVittorieRegali74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-75/101",
+            "name": "Pawniard",
+            "number": "75/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/PawniardVittorieRegali75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-76/101",
+            "name": "Bisharp",
+            "number": "76/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/BisharpVittorieRegali76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-77/101",
+            "name": "Deino",
+            "number": "77/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/DeinoVittorieRegali77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-78/101",
+            "name": "Zweilous",
+            "number": "78/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ZweilousVittorieRegali78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-79/101",
+            "name": "Hydreigon",
+            "number": "79/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/HydreigonVittorieRegali79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-80/101",
+            "name": "Escavalier",
+            "number": "80/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/EscavalierVittorieRegali80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-81/101",
+            "name": "Pawniard",
+            "number": "81/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/PawniardVittorieRegali81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-82/101",
+            "name": "Bisharp",
+            "number": "82/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/BisharpVittorieRegali82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-83/101",
+            "name": "Durant",
+            "number": "83/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/DurantVittorieRegali83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-84/101",
+            "name": "Cobalion",
+            "number": "84/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/CobalionVittorieRegali84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-85/101",
+            "name": "Audino",
+            "number": "85/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/AudinoVittorieRegali85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-86/101",
+            "name": "Axew",
+            "number": "86/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/AxewVittorieRegali86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-87/101",
+            "name": "Fraxure",
+            "number": "87/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/FraxureVittorieRegali87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-88/101",
+            "name": "Haxorus",
+            "number": "88/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/HaxorusVittorieRegali88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-89/101",
+            "name": "Druddigon",
+            "number": "89/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/DruddigonVittorieRegali89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-90/101",
+            "name": "Fossiltappo",
+            "number": "90/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/FossiltappoVittorieRegali90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-91/101",
+            "name": "Evolcondensa",
+            "number": "91/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/EvolcondensaVittorieRegali91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-92/101",
+            "name": "N",
+            "number": "92/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/NVittorieRegali92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-93/101",
+            "name": "Fossilpiuma",
+            "number": "93/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/FossilpiumaVittorieRegali93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-94/101",
+            "name": "Bitorzolelmo",
+            "number": "94/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/BitorzolelmoVittorieRegali94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-95/101",
+            "name": "Super Amo",
+            "number": "95/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/SuperAmoVittorieRegali95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-96/101",
+            "name": "Interpoké",
+            "number": "96/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Interpok%C3%A9VittorieRegali96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-97/101",
+            "name": "Virizion",
+            "number": "97/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/VirizionVittorieRegali97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-98/101",
+            "name": "Victini",
+            "number": "98/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/VictiniVittorieRegali98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-99/101",
+            "name": "Terrakion",
+            "number": "99/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/TerrakionVittorieRegali99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-100/101",
+            "name": "Cobalion",
+            "number": "100/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/CobalionVittorieRegali100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-101/101",
+            "name": "N",
+            "number": "101/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/NVittorieRegali101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "NVI-102/101",
+            "name": "Meowth",
+            "number": "102/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/MeowthVittorieRegali102.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

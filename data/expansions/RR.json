@@ -1,0 +1,853 @@
+{
+    "expansion": {
+        "id": "RR",
+        "name": "Platino - L'Ascesa dei Rivali",
+				"year": 2009,
+				"month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/8/8a/SimboloSetL%27Ascesa_dei_Rivali.png",
+        "cardCount": 120
+    },
+    "cards": [
+        {
+            "id": "RR-1/111",
+            "name": "Arcanine",
+            "number": "1/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ArcanineLAscesadeiRivali1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-2/111",
+            "name": "Bastiodon GL",
+            "number": "2/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/BastiodonGLLAscesadeiRivali2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-3/111",
+            "name": "Darkrai G",
+            "number": "3/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/DarkraiGLAscesadeiRivali3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-4/111",
+            "name": "Floatzel GL",
+            "number": "4/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/FloatzelGLLAscesadeiRivali4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-5/111",
+            "name": "Flygon",
+            "number": "5/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/FlygonLAscesadeiRivali5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-6/111",
+            "name": "Froslass GL",
+            "number": "6/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/FroslassGLLAscesadeiRivali6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-7/111",
+            "name": "Jirachi",
+            "number": "7/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/JirachiLAscesadeiRivali7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-8/111",
+            "name": "Lucario GL",
+            "number": "8/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/LucarioGLLAscesadeiRivali8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-9/111",
+            "name": "Luxray GL",
+            "number": "9/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/LuxrayGLLAscesadeiRivali9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-10/111",
+            "name": "Mismagius GL",
+            "number": "10/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/MismagiusGLLAscesadeiRivali10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-11/111",
+            "name": "Rampardos GL",
+            "number": "11/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/RampardosGLLAscesadeiRivali11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-12/111",
+            "name": "Roserade GL",
+            "number": "12/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/RoseradeGLLAscesadeiRivali12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-13/111",
+            "name": "Shiftry",
+            "number": "13/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ShiftryLAscesadeiRivali13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-14/111",
+            "name": "Aggron",
+            "number": "14/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AggronLAscesadeiRivali14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-15/111",
+            "name": "Beedrill",
+            "number": "15/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/BeedrillLAscesadeiRivali15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-16/111",
+            "name": "Bronzong E4",
+            "number": "16/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Bronzong4LAscesadeiRivali16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-17/111",
+            "name": "Drapion E4",
+            "number": "17/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Drapion4LAscesadeiRivali17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-18/111",
+            "name": "Espeon E4",
+            "number": "18/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Espeon4LAscesadeiRivali18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-19/111",
+            "name": "Flareon",
+            "number": "19/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FlareonLAscesadeiRivali19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-20/111",
+            "name": "Gallade E4",
+            "number": "20/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Gallade4LAscesadeiRivali20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-21/111",
+            "name": "Gastrodon Mare Est",
+            "number": "21/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/GastrodonLAscesadeiRivali21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-22/111",
+            "name": "Gastrodon Mare Ovest",
+            "number": "22/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/GastrodonLAscesadeiRivali22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-23/111",
+            "name": "Golem E4",
+            "number": "23/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Golem4LAscesadeiRivali23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-24/111",
+            "name": "Heracross E4",
+            "number": "24/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Heracross4LAscesadeiRivali24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-25/111",
+            "name": "Hippowdon",
+            "number": "25/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/HippowdonLAscesadeiRivali25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-26/111",
+            "name": "Jolteon",
+            "number": "26/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/JolteonLAscesadeiRivali26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-27/111",
+            "name": "Mamoswine GL",
+            "number": "27/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/MamoswineGLLAscesadeiRivali27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-28/111",
+            "name": "Mr. Mime E4",
+            "number": "28/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MrMime4LAscesadeiRivali28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-29/111",
+            "name": "Nidoking",
+            "number": "29/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/NidokingLAscesadeiRivali29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-30/111",
+            "name": "Nidoqueen",
+            "number": "30/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/NidoqueenLAscesadeiRivali30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-31/111",
+            "name": "Raichu GL",
+            "number": "31/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/RaichuGLLAscesadeiRivali31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-32/111",
+            "name": "Rhyperior E4",
+            "number": "32/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Rhyperior4LAscesadeiRivali32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-33/111",
+            "name": "Snorlax",
+            "number": "33/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SnorlaxLAscesadeiRivali33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-34/111",
+            "name": "Vaporeon",
+            "number": "34/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/VaporeonLAscesadeiRivali34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-35/111",
+            "name": "Vespiquen E4",
+            "number": "35/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Vespiquen4LAscesadeiRivali35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-36/111",
+            "name": "Walrein",
+            "number": "36/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/WalreinLAscesadeiRivali36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-37/111",
+            "name": "Yanmega E4",
+            "number": "37/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Yanmega4LAscesadeiRivali37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-38/111",
+            "name": "Alakazam E4",
+            "number": "38/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Alakazam4LAscesadeiRivali38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-39/111",
+            "name": "Electrode G",
+            "number": "39/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/ElectrodeGLAscesadeiRivali39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-40/111",
+            "name": "Gengar GL",
+            "number": "40/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/GengarGLLAscesadeiRivali40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-41/111",
+            "name": "Glaceon",
+            "number": "41/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/GlaceonLAscesadeiRivali41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-42/111",
+            "name": "Hippowdon E4",
+            "number": "42/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Hippowdon4LAscesadeiRivali42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-43/111",
+            "name": "Infernape E4",
+            "number": "43/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Infernape4LAscesadeiRivali43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-44/111",
+            "name": "Lairon",
+            "number": "44/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LaironLAscesadeiRivali44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-45/111",
+            "name": "Leafeon",
+            "number": "45/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/LeafeonLAscesadeiRivali45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-46/111",
+            "name": "Machamp GL",
+            "number": "46/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/MachampGLLAscesadeiRivali46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-47/111",
+            "name": "Rapidash E4",
+            "number": "47/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Rapidash4LAscesadeiRivali47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-48/111",
+            "name": "Scizor E4",
+            "number": "48/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Scizor4LAscesadeiRivali48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-49/111",
+            "name": "Sharpedo",
+            "number": "49/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/SharpedoLAscesadeiRivali49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-50/111",
+            "name": "Starmie",
+            "number": "50/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/StarmieLAscesadeiRivali50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-51/111",
+            "name": "Steelix GL",
+            "number": "51/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SteelixGLLAscesadeiRivali51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-52/111",
+            "name": "Tropius",
+            "number": "52/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/TropiusLAscesadeiRivali52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-53/111",
+            "name": "Vibrava",
+            "number": "53/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/VibravaLAscesadeiRivali53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-54/111",
+            "name": "Whiscash E4",
+            "number": "54/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Whiscash4LAscesadeiRivali54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-55/111",
+            "name": "Aerodactyl GL",
+            "number": "55/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/AerodactylGLLAscesadeiRivali55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-56/111",
+            "name": "Ambipom G",
+            "number": "56/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/AmbipomGLAscesadeiRivali56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-57/111",
+            "name": "Aron",
+            "number": "57/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/AronLAscesadeiRivali57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-58/111",
+            "name": "Carvanha",
+            "number": "58/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CarvanhaLAscesadeiRivali58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-59/111",
+            "name": "Eevee",
+            "number": "59/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/EeveeLAscesadeiRivali59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-60/111",
+            "name": "Flareon E4",
+            "number": "60/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Flareon4LAscesadeiRivali60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-61/111",
+            "name": "Forretress G",
+            "number": "61/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ForretressGLAscesadeiRivali61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-62/111",
+            "name": "Gliscor E4",
+            "number": "62/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Gliscor4LAscesadeiRivali62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-63/111",
+            "name": "Growlithe",
+            "number": "63/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/GrowlitheLAscesadeiRivali63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-64/111",
+            "name": "Hippopotas",
+            "number": "64/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/HippopotasLAscesadeiRivali64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-65/111",
+            "name": "Houndoom E4",
+            "number": "65/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Houndoom4LAscesadeiRivali65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-66/111",
+            "name": "Kakuna",
+            "number": "66/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/KakunaLAscesadeiRivali66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-67/111",
+            "name": "Kecleon",
+            "number": "67/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/KecleonLAscesadeiRivali67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-68/111",
+            "name": "Koffing",
+            "number": "68/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/KoffingLAscesadeiRivali68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-69/111",
+            "name": "Munchlax",
+            "number": "69/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/MunchlaxLAscesadeiRivali69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-70/111",
+            "name": "Munchlax",
+            "number": "70/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MunchlaxLAscesadeiRivali70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-71/111",
+            "name": "Nidoran♀",
+            "number": "71/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/NidoranLAscesadeiRivali71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-72/111",
+            "name": "Nidoran♂",
+            "number": "72/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/NidoranLAscesadeiRivali72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-73/111",
+            "name": "Nidorina",
+            "number": "73/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/NidorinaLAscesadeiRivali73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-74/111",
+            "name": "Nidorino",
+            "number": "74/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/NidorinoLAscesadeiRivali74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-75/111",
+            "name": "Nuzleaf",
+            "number": "75/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/NuzleafLAscesadeiRivali75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-76/111",
+            "name": "Quagsire GL",
+            "number": "76/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/QuagsireGLLAscesadeiRivali76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-77/111",
+            "name": "Sealeo",
+            "number": "77/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/SealeoGLAscesadeiRivali77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-78/111",
+            "name": "Seedot",
+            "number": "78/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SeedotLAscesadeiRivali78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-79/111",
+            "name": "Shellos Mare Est",
+            "number": "79/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ShellosLAscesadeiRivali79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-80/111",
+            "name": "Shellos Mare Ovest",
+            "number": "80/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ShellosLAscesadeiRivali80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-81/111",
+            "name": "Snorlax",
+            "number": "81/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/SnorlaxLAscesadeiRivali81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-82/111",
+            "name": "Spheal",
+            "number": "82/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/SphealLAscesadeiRivali82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-83/111",
+            "name": "Staryu",
+            "number": "83/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/StaryuLAscesadeiRivali83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-84/111",
+            "name": "Trapinch",
+            "number": "84/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/TrapinchLAscesadeiRivali84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-85/111",
+            "name": "Turtwig GL",
+            "number": "85/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/TurtwigGLLAscesadeiRivali85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-86/111",
+            "name": "Weedle",
+            "number": "86/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/WeedleLAscesadeiRivali86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-87/111",
+            "name": "Weezing",
+            "number": "87/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/WeezingLAscesadeiRivali87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-88/111",
+            "name": "Collezione di Aaron",
+            "number": "88/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/CollezionediAaronLAscesadeiRivali88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-89/111",
+            "name": "Ricerca di Bebe",
+            "number": "89/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/RicercadiBebeLAscesadeiRivali89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-90/111",
+            "name": "Affetto di Terrie",
+            "number": "90/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/AffettodiTerrieLAscesadeiRivali90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-91/111",
+            "name": "Determinazione di Vulcano",
+            "number": "91/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/DeterminazionediVulcanoLAscesadeiRivali91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-92/111",
+            "name": "Compito di Luciano",
+            "number": "92/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/CompitodiLucianoLAscesadeiRivali92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-93/111",
+            "name": "Arena Virtù Pokémon",
+            "number": "93/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/ArenaVirt%C3%B9Pok%C3%A9monLAscesadeiRivali93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-94/111",
+            "name": "Palestra di Arenipoli",
+            "number": "94/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/PalestradiArenipoliLAscesadeiRivali94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-95/111",
+            "name": "Invenzione Team Galassia G-107 Macchinario Tecnico G",
+            "number": "95/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MacchinarioTecnicoGLAscesadeiRivali95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-96/111",
+            "name": "Invenzione Team Galassia G-109 Radar SP",
+            "number": "96/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/RadarSPLAscesadeiRivali96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-97/111",
+            "name": "Spedizione Sotterranea",
+            "number": "97/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SpedizioneSotterraneaLAscesadeiRivali97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-98/111",
+            "name": "Filosofia di Corrado",
+            "number": "98/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/FilosofiadiCorradoLAscesadeiRivali98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-99/111",
+            "name": "Energia Oscurità",
+            "number": "99/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/EnergiaOscurit%C3%A0LAscesadeiRivali99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-100/111",
+            "name": "Energia Metallo",
+            "number": "100/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/EnergiaMetalloLAscesadeiRivali100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-101/111",
+            "name": "Energia SP",
+            "number": "101/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/EnergiaSPLAscesadeiRivali101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-102/111",
+            "name": "Energia Vantaggio",
+            "number": "102/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/EnergiaVantaggioLAscesadeiRivali102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-103/111",
+            "name": "Alakazam E4 LIV.X",
+            "number": "103/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/AlakazamGLLIVXLAscesadeiRivali103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-104/111",
+            "name": "Floatzel GL LIV.X",
+            "number": "104/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/FloatzelGLLIVXLAscesadeiRivali104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-105/111",
+            "name": "Flygon LIV.X",
+            "number": "105/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/FlygonLIVXLAscesadeiRivali105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-106/111",
+            "name": "Gallade E4 LIV.X",
+            "number": "106/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/GalladeGLLIVXLAscesadeiRivali106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-107/111",
+            "name": "Hippowdon LIV.X",
+            "number": "107/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/HippowdonLIVXLAscesadeiRivali107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-108/111",
+            "name": "Infernape E4 LIV.X",
+            "number": "108/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/InfernapeGLLIVXLAscesadeiRivali108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-109/111",
+            "name": "Luxray GL LIV.X",
+            "number": "109/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/LuxrayGLLIVXLAscesadeiRivali109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-110/111",
+            "name": "Mismagius GL LIV.X",
+            "number": "110/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/MismagiusGLLIVXLAscesadeiRivali110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-111/111",
+            "name": "Snorlax LIV.X",
+            "number": "111/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/SnorlaxLIVXLAscesadeiRivali111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RR-112/111",
+            "name": "Pikachu",
+            "number": "112/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/PikachuLAscesadeiRivali112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RR-113/111",
+            "name": "Flying Pikachu",
+            "number": "113/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/FlyingPikachuLAscesadeiRivali113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RR-114/111",
+            "name": "Surfing Pikachu",
+            "number": "114/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/SurfingPikachuLAscesadeiRivali114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "RR-RT1",
+            "name": "Rotom Vortice",
+            "number": "RT1",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/RotomVorticeLAscesadeiRivaliRT1.png",
+            "section": "Rotom"
+        },
+        {
+            "id": "RR-RT2",
+            "name": "Rotom Gelo",
+            "number": "RT2",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/RotomGeloLAscesadeiRivaliRT2.png",
+            "section": "Rotom"
+        },
+        {
+            "id": "RR-RT3",
+            "name": "Rotom Calore",
+            "number": "RT3",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/RotomCaloreLAscesadeiRivaliRT3.png",
+            "section": "Rotom"
+        },
+        {
+            "id": "RR-RT4",
+            "name": "Rotom Taglio",
+            "number": "RT4",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/RotomTaglioLAscesadeiRivaliRT4.png",
+            "section": "Rotom"
+        },
+        {
+            "id": "RR-RT5",
+            "name": "Rotom Lavaggio",
+            "number": "RT5",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/RotomLavaggioLAscesadeiRivaliRT5.png",
+            "section": "Rotom"
+        },
+        {
+            "id": "RR-RT6",
+            "name": "Scelta di Plutinio",
+            "number": "RT6",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/SceltadiPlutinioLAscesadeiRivaliRT6.png",
+            "section": "Rotom"
+        }
+    ]
+}

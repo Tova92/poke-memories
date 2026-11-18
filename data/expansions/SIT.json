@@ -1,0 +1,1728 @@
+{
+    "expansion": {
+        "id": "SIT",
+        "name": "Spada e Scudo - Tempesta Argentata",
+        "year": 2022,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/1/15/SimboloSetTempesta_Argentata.png",
+        "cardCount": 245
+    },
+    "cards": [
+        {
+            "id": "SIT-001/195",
+            "name": "Venonat",
+            "number": "001/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/VenonatTempestaArgentata1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-002/195",
+            "name": "Venomoth",
+            "number": "002/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/VenomothTempestaArgentata2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-003/195",
+            "name": "Spinarak",
+            "number": "003/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SpinarakTempestaArgentata3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-004/195",
+            "name": "Ariados",
+            "number": "004/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/AriadosTempestaArgentata4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-005/195",
+            "name": "Sunkern",
+            "number": "005/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SunkernTempestaArgentata5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-006/195",
+            "name": "Sunflora",
+            "number": "006/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SunfloraTempestaArgentata6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-007/195",
+            "name": "Serperior-V",
+            "number": "007/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Serperior-VTempestaArgentata7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-008/195",
+            "name": "Serperior-V ASTRO",
+            "number": "008/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Serperior-VASTROTempestaArgentata8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-009/195",
+            "name": "Petilil",
+            "number": "009/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/PetililTempestaArgentata9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-010/195",
+            "name": "Lilligant di Hisui",
+            "number": "010/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LilligantdiHisuiTempestaArgentata10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-011/195",
+            "name": "Foongus",
+            "number": "011/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/FoongusTempestaArgentata11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-012/195",
+            "name": "Amoonguss",
+            "number": "012/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AmoongussTempestaArgentata12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-013/195",
+            "name": "Durant",
+            "number": "013/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/DurantTempestaArgentata13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-014/195",
+            "name": "Virizion",
+            "number": "014/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/VirizionTempestaArgentata14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-015/195",
+            "name": "Chesnaught-V",
+            "number": "015/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Chesnaught-VTempestaArgentata15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-016/195",
+            "name": "Tsareena Lucente",
+            "number": "016/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/TsareenaLucenteTempestaArgentata16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-017/195",
+            "name": "Vulpix",
+            "number": "017/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/VulpixTempestaArgentata17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-018/195",
+            "name": "Ninetales",
+            "number": "018/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/NinetalesTempestaArgentata18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-019/195",
+            "name": "Growlithe",
+            "number": "019/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/GrowlitheTempestaArgentata19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-020/195",
+            "name": "Arcanine",
+            "number": "020/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/ArcanineTempestaArgentata20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-021/195",
+            "name": "Ponyta",
+            "number": "021/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/PonytaTempestaArgentata21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-022/195",
+            "name": "Rapidash",
+            "number": "022/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/RapidashTempestaArgentata22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-023/195",
+            "name": "Victini",
+            "number": "023/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/VictiniTempestaArgentata23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-024/195",
+            "name": "Reshiram-V",
+            "number": "024/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Reshiram-VTempestaArgentata24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-025/195",
+            "name": "Fennekin",
+            "number": "025/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/FennekinTempestaArgentata25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-026/195",
+            "name": "Braixen",
+            "number": "026/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/BraixenTempestaArgentata26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-027/195",
+            "name": "Delphox",
+            "number": "027/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DelphoxTempestaArgentata27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-028/195",
+            "name": "Fletchinder",
+            "number": "028/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/FletchinderTempestaArgentata28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-029/195",
+            "name": "Talonflame",
+            "number": "029/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/TalonflameTempestaArgentata29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-030/195",
+            "name": "Litten",
+            "number": "030/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/LittenTempestaArgentata30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-031/195",
+            "name": "Torracat",
+            "number": "031/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TorracatTempestaArgentata31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-032/195",
+            "name": "Incineroar",
+            "number": "032/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/IncineroarTempestaArgentata32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-033/195",
+            "name": "Vulpix di Alola-V",
+            "number": "033/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/VulpixdiAlola-VTempestaArgentata33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-034/195",
+            "name": "Vulpix di Alola-V ASTRO",
+            "number": "034/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/VulpixdiAlola-VASTROTempestaArgentata34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-035/195",
+            "name": "Omastar-V",
+            "number": "035/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Omastar-VTempestaArgentata35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-036/195",
+            "name": "Articuno",
+            "number": "036/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ArticunoTempestaArgentata36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-037/195",
+            "name": "Wailmer",
+            "number": "037/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/WailmerTempestaArgentata37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-038/195",
+            "name": "Wailord",
+            "number": "038/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/WailordTempestaArgentata38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-039/195",
+            "name": "Feebas",
+            "number": "039/195",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/FeebasTempestaArgentata39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-040/195",
+            "name": "Milotic",
+            "number": "040/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MiloticTempestaArgentata40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-041/195",
+            "name": "Snorunt",
+            "number": "041/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/SnoruntTempestaArgentata41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-042/195",
+            "name": "Glalie",
+            "number": "042/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/GlalieTempestaArgentata42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-043/195",
+            "name": "Froslass",
+            "number": "043/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/FroslassTempestaArgentata43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-044/195",
+            "name": "Relicanth",
+            "number": "044/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/RelicanthTempestaArgentata44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-045/195",
+            "name": "Phione",
+            "number": "045/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/PhioneTempestaArgentata45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-046/195",
+            "name": "Keldeo",
+            "number": "046/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/KeldeoTempestaArgentata46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-047/195",
+            "name": "Dewpider",
+            "number": "047/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/DewpiderTempestaArgentata47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-048/195",
+            "name": "Araquanid",
+            "number": "048/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/AraquanidTempestaArgentata48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-049/195",
+            "name": "Pikachu",
+            "number": "049/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/PikachuTempestaArgentata49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-050/195",
+            "name": "Raichu",
+            "number": "050/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/RaichuTempestaArgentata50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-051/195",
+            "name": "Chinchou",
+            "number": "051/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/ChinchouTempestaArgentata51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-052/195",
+            "name": "Lanturn",
+            "number": "052/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/LanturnTempestaArgentata52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-053/195",
+            "name": "Rotom",
+            "number": "053/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/RotomTempestaArgentata53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-054/195",
+            "name": "Emolga",
+            "number": "054/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/EmolgaTempestaArgentata54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-055/195",
+            "name": "Stunfisk",
+            "number": "055/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/StunfiskTempestaArgentata55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-056/195",
+            "name": "Zeraora",
+            "number": "056/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ZeraoraTempestaArgentata56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-057/195",
+            "name": "Regieleki-V",
+            "number": "057/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/Regieleki-VTempestaArgentata57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-058/195",
+            "name": "Regieleki-VMAX",
+            "number": "058/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Regieleki-VMAXTempestaArgentata58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-059/195",
+            "name": "Alakazam Lucente",
+            "number": "059/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/AlakazamLucenteTempestaArgentata59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-060/195",
+            "name": "Drowzee",
+            "number": "060/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/DrowzeeTempestaArgentata60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-061/195",
+            "name": "Hypno",
+            "number": "061/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/HypnoTempestaArgentata61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-062/195",
+            "name": "Jynx",
+            "number": "062/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/JynxTempestaArgentata62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-063/195",
+            "name": "Misdreavus",
+            "number": "063/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/MisdreavusTempestaArgentata63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-064/195",
+            "name": "Mismagius",
+            "number": "064/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/MismagiusTempestaArgentata64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-065/195",
+            "name": "Unown-V",
+            "number": "065/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Unown-VTempestaArgentata65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-066/195",
+            "name": "Unown-V ASTRO",
+            "number": "066/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/Unown-VASTROTempestaArgentata66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-067/195",
+            "name": "Ralts",
+            "number": "067/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/RaltsTempestaArgentata67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-068/195",
+            "name": "Kirlia",
+            "number": "068/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/KirliaTempestaArgentata68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-069/195",
+            "name": "Gardevoir",
+            "number": "069/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GardevoirTempestaArgentata69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-070/195",
+            "name": "Mawile-V",
+            "number": "070/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Mawile-VTempestaArgentata70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-071/195",
+            "name": "Mawile-V ASTRO",
+            "number": "071/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Mawile-VASTROTempestaArgentata71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-072/195",
+            "name": "Meditite",
+            "number": "072/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MedititeTempestaArgentata72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-073/195",
+            "name": "Medicham",
+            "number": "073/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MedichamTempestaArgentata73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-074/195",
+            "name": "Chimecho",
+            "number": "074/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/ChimechoTempestaArgentata74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-075/195",
+            "name": "Sigilyph",
+            "number": "075/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/SigilyphTempestaArgentata75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-076/195",
+            "name": "Solosis",
+            "number": "076/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SolosisTempestaArgentata76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-077/195",
+            "name": "Duosion",
+            "number": "077/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/DuosionTempestaArgentata77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-078/195",
+            "name": "Reuniclus",
+            "number": "078/195",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ReuniclusTempestaArgentata78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-079/195",
+            "name": "Elgyem",
+            "number": "079/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ElgyemTempestaArgentata79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-080/195",
+            "name": "Beheeyem",
+            "number": "080/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/BeheeyemTempestaArgentata80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-081/195",
+            "name": "Espurr",
+            "number": "081/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/EspurrTempestaArgentata81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-082/195",
+            "name": "Meowstic",
+            "number": "082/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MeowsticTempestaArgentata82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-083/195",
+            "name": "Swirlix",
+            "number": "083/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/SwirlixTempestaArgentata83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-084/195",
+            "name": "Slurpuff",
+            "number": "084/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/SlurpuffTempestaArgentata84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-085/195",
+            "name": "Dedenne",
+            "number": "085/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/DedenneTempestaArgentata85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-086/195",
+            "name": "Indeedee",
+            "number": "086/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/IndeedeeTempestaArgentata86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-087/195",
+            "name": "Dreepy",
+            "number": "087/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/DreepyTempestaArgentata87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-088/195",
+            "name": "Drakloak",
+            "number": "088/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/DrakloakTempestaArgentata88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-089/195",
+            "name": "Dragapult",
+            "number": "089/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/DragapultTempestaArgentata89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-090/195",
+            "name": "Arcanine di Hisui-V",
+            "number": "090/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ArcaninediHisui-VTempestaArgentata90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-091/195",
+            "name": "Phanpy",
+            "number": "091/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/PhanpyTempestaArgentata91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-092/195",
+            "name": "Donphan",
+            "number": "092/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/DonphanTempestaArgentata92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-093/195",
+            "name": "Baltoy",
+            "number": "093/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/BaltoyTempestaArgentata93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-094/195",
+            "name": "Claydol",
+            "number": "094/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ClaydolTempestaArgentata94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-095/195",
+            "name": "Anorith",
+            "number": "095/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/AnorithTempestaArgentata95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-096/195",
+            "name": "Armaldo",
+            "number": "096/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ArmaldoTempestaArgentata96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-097/195",
+            "name": "Terrakion",
+            "number": "097/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/TerrakionTempestaArgentata97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-098/195",
+            "name": "Hawlucha",
+            "number": "098/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/HawluchaTempestaArgentata98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-099/195",
+            "name": "Sandygast",
+            "number": "099/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/SandygastTempestaArgentata99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-100/195",
+            "name": "Palossand",
+            "number": "100/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PalossandTempestaArgentata100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-101/195",
+            "name": "Stonjourner",
+            "number": "101/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/StonjournerTempestaArgentata101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-102/195",
+            "name": "Ursaluna-V",
+            "number": "102/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Ursaluna-VTempestaArgentata102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-103/195",
+            "name": "Zubat",
+            "number": "103/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ZubatTempestaArgentata103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-104/195",
+            "name": "Golbat",
+            "number": "104/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/GolbatTempestaArgentata104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-105/195",
+            "name": "Crobat",
+            "number": "105/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CrobatTempestaArgentata105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-106/195",
+            "name": "Murkrow",
+            "number": "106/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MurkrowTempestaArgentata106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-107/195",
+            "name": "Honchkrow",
+            "number": "107/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/HonchkrowTempestaArgentata107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-108/195",
+            "name": "Skuntank-V",
+            "number": "108/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Skuntank-VTempestaArgentata108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-109/195",
+            "name": "Croagunk",
+            "number": "109/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CroagunkTempestaArgentata109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-110/195",
+            "name": "Toxicroak",
+            "number": "110/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ToxicroakTempestaArgentata110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-111/195",
+            "name": "Sandile",
+            "number": "111/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/SandileTempestaArgentata111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-112/195",
+            "name": "Krokorok",
+            "number": "112/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/KrokorokTempestaArgentata112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-113/195",
+            "name": "Krookodile",
+            "number": "113/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/KrookodileTempestaArgentata113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-114/195",
+            "name": "Mareanie",
+            "number": "114/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MareanieTempestaArgentata114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-115/195",
+            "name": "Toxapex",
+            "number": "115/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/ToxapexTempestaArgentata115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-116/195",
+            "name": "Morpeko",
+            "number": "116/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MorpekoTempestaArgentata116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-117/195",
+            "name": "Beldum",
+            "number": "117/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/BeldumTempestaArgentata117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-118/195",
+            "name": "Metang",
+            "number": "118/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MetangTempestaArgentata118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-119/195",
+            "name": "Metagross",
+            "number": "119/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MetagrossTempestaArgentata119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-120/195",
+            "name": "Jirachi Lucente",
+            "number": "120/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/JirachiLucenteTempestaArgentata120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-121/195",
+            "name": "Ferroseed",
+            "number": "121/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/FerroseedTempestaArgentata121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-122/195",
+            "name": "Ferrothorn",
+            "number": "122/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/FerrothornTempestaArgentata122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-123/195",
+            "name": "Klink",
+            "number": "123/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/KlinkTempestaArgentata123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-124/195",
+            "name": "Klang",
+            "number": "124/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/KlangTempestaArgentata124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-125/195",
+            "name": "Klinklang",
+            "number": "125/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/KlinklangTempestaArgentata125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-126/195",
+            "name": "Cobalion",
+            "number": "126/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/CobalionTempestaArgentata126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-127/195",
+            "name": "Togedemaru",
+            "number": "127/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/TogedemaruTempestaArgentata127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-128/195",
+            "name": "Magearna-V",
+            "number": "128/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Magearna-VTempestaArgentata128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-129/195",
+            "name": "Dratini",
+            "number": "129/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/DratiniTempestaArgentata129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-130/195",
+            "name": "Dragonair",
+            "number": "130/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/DragonairTempestaArgentata130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-131/195",
+            "name": "Dragonite",
+            "number": "131/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/DragoniteTempestaArgentata131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-132/195",
+            "name": "Noibat",
+            "number": "132/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/NoibatTempestaArgentata132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-133/195",
+            "name": "Noivern",
+            "number": "133/195",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/NoivernTempestaArgentata133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-134/195",
+            "name": "Zygarde",
+            "number": "134/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ZygardeTempestaArgentata134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-135/195",
+            "name": "Regidrago-V",
+            "number": "135/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Regidrago-VTempestaArgentata135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-136/195",
+            "name": "Regidrago-V ASTRO",
+            "number": "136/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Regidrago-VASTROTempestaArgentata136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-137/195",
+            "name": "Smeargle",
+            "number": "137/195",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/SmeargleTempestaArgentata137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-138/195",
+            "name": "Lugia-V",
+            "number": "138/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Lugia-VTempestaArgentata138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-139/195",
+            "name": "Lugia-V ASTRO",
+            "number": "139/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/Lugia-VASTROTempestaArgentata139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-140/195",
+            "name": "Ho-Oh-V",
+            "number": "140/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Ho-Oh-VTempestaArgentata140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-141/195",
+            "name": "Spinda",
+            "number": "141/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SpindaTempestaArgentata141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-142/195",
+            "name": "Swablu",
+            "number": "142/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/SwabluTempestaArgentata142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-143/195",
+            "name": "Altaria",
+            "number": "143/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/AltariaTempestaArgentata143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-144/195",
+            "name": "Buneary",
+            "number": "144/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/BunearyTempestaArgentata144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-145/195",
+            "name": "Lopunny",
+            "number": "145/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/LopunnyTempestaArgentata145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-146/195",
+            "name": "Archen",
+            "number": "146/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/ArchenTempestaArgentata146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-147/195",
+            "name": "Archeops",
+            "number": "147/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ArcheopsTempestaArgentata147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-148/195",
+            "name": "Rufflet",
+            "number": "148/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/RuffletTempestaArgentata148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-149/195",
+            "name": "Braviary di Hisui",
+            "number": "149/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/BraviarydiHisuiTempestaArgentata149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-150/195",
+            "name": "Fletchling",
+            "number": "150/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/FletchlingTempestaArgentata150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-151/195",
+            "name": "Baldo",
+            "number": "151/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/BaldoTempestaArgentata151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-152/195",
+            "name": "Bianca",
+            "number": "152/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/BiancaTempestaArgentata152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-153/195",
+            "name": "Catturaroma",
+            "number": "153/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CatturaromaTempestaArgentata153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-154/195",
+            "name": "Sigillo Terrestre",
+            "number": "154/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/SigilloTerrestreTempestaArgentata154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-155/195",
+            "name": "Spuntino di Emergenza",
+            "number": "155/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SpuntinodiEmergenzaTempestaArgentata155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-156/195",
+            "name": "Sigillo Forestale",
+            "number": "156/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/SigilloForestaleTempestaArgentata156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-157/195",
+            "name": "Ragazza in kimono",
+            "number": "157/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/RagazzainkimonoTempestaArgentata157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-158/195",
+            "name": "Allenatore della Palestra",
+            "number": "158/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/AllenatoredellaPalestraTempestaArgentata158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-159/195",
+            "name": "Lance",
+            "number": "159/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/LanceTempestaArgentata159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-160/195",
+            "name": "Fogliaponcho Mimetico",
+            "number": "160/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/FogliaponchoMimeticoTempestaArgentata160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-161/195",
+            "name": "Altare Primordiale",
+            "number": "161/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/AltarePrimordialeTempestaArgentata161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-162/195",
+            "name": "Professor Laven",
+            "number": "162/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ProfessorLavenTempestaArgentata162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-163/195",
+            "name": "Tetrapietra",
+            "number": "163/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/TetrapietraTempestaArgentata163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-164/195",
+            "name": "Serena",
+            "number": "164/195",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/SerenaTempestaArgentata164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-165/195",
+            "name": "Fossile Sconosciuto",
+            "number": "165/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/FossileSconosciutoTempestaArgentata165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-166/195",
+            "name": "Adriano",
+            "number": "166/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/AdrianoTempestaArgentata166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-167/195",
+            "name": "Lavoratrice",
+            "number": "167/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/LavoratriceTempestaArgentata167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-168/195",
+            "name": "Energia Rigenerante",
+            "number": "168/195",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/EnergiaRigeneranteTempestaArgentata168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-169/195",
+            "name": "Energia Difesa V",
+            "number": "169/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/EnergiaDifesaVTempestaArgentata169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-170/195",
+            "name": "Serperior-V",
+            "number": "170/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Serperior-VTempestaArgentata170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-171/195",
+            "name": "Chesnaught-V",
+            "number": "171/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/Chesnaught-VTempestaArgentata171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-172/195",
+            "name": "Reshiram-V",
+            "number": "172/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Reshiram-VTempestaArgentata172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-173/195",
+            "name": "Vulpix di Alola-V",
+            "number": "173/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/VulpixdiAlola-VTempestaArgentata173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-174/195",
+            "name": "Omastar-V",
+            "number": "174/195",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Omastar-VTempestaArgentata174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-175/195",
+            "name": "Regieleki-V",
+            "number": "175/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Regieleki-VTempestaArgentata175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-176/195",
+            "name": "Unown-V",
+            "number": "176/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Unown-VTempestaArgentata176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-177/195",
+            "name": "Unown-V",
+            "number": "177/195",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/Unown-VTempestaArgentata177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-178/195",
+            "name": "Mawile-V",
+            "number": "178/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Mawile-VTempestaArgentata178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-179/195",
+            "name": "Arcanine di Hisui-V",
+            "number": "179/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ArcaninediHisui-VTempestaArgentata179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-180/195",
+            "name": "Skuntank-V",
+            "number": "180/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Skuntank-VTempestaArgentata180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-181/195",
+            "name": "Skuntank-V",
+            "number": "181/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/Skuntank-VTempestaArgentata181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-182/195",
+            "name": "Magearna-V",
+            "number": "182/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/Magearna-VTempestaArgentata182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-183/195",
+            "name": "Regidrago-V",
+            "number": "183/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Regidrago-VTempestaArgentata183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-184/195",
+            "name": "Regidrago-V",
+            "number": "184/195",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/Regidrago-VTempestaArgentata184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-185/195",
+            "name": "Lugia-V",
+            "number": "185/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Lugia-VTempestaArgentata185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-186/195",
+            "name": "Lugia-V",
+            "number": "186/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Lugia-VTempestaArgentata186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-187/195",
+            "name": "Ho-Oh-V",
+            "number": "187/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Ho-Oh-VTempestaArgentata187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-188/195",
+            "name": "Baldo",
+            "number": "188/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BaldoTempestaArgentata188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-189/195",
+            "name": "Bianca",
+            "number": "189/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/BiancaTempestaArgentata189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-190/195",
+            "name": "Ragazza in kimono",
+            "number": "190/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/RagazzainkimonoTempestaArgentata190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-191/195",
+            "name": "Allenatore della Palestra",
+            "number": "191/195",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/AllenatoredellaPalestraTempestaArgentata191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-192/195",
+            "name": "Lance",
+            "number": "192/195",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/LanceTempestaArgentata192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-193/195",
+            "name": "Serena",
+            "number": "193/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/SerenaTempestaArgentata193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-194/195",
+            "name": "Adriano",
+            "number": "194/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/AdrianoTempestaArgentata194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-195/195",
+            "name": "Lavoratrice",
+            "number": "195/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/LavoratriceTempestaArgentata195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SIT-196/195",
+            "name": "Serperior-V ASTRO",
+            "number": "196/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Serperior-VASTROTempestaArgentata196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-197/195",
+            "name": "Vulpix di Alola-V ASTRO",
+            "number": "197/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/VulpixdiAlola-VASTROTempestaArgentata197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-198/195",
+            "name": "Regieleki-VMAX",
+            "number": "198/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Regieleki-VMAXTempestaArgentata198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-199/195",
+            "name": "Unown-V ASTRO",
+            "number": "199/195",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/Unown-VASTROTempestaArgentata199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-200/195",
+            "name": "Mawile-V ASTRO",
+            "number": "200/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Mawile-VASTROTempestaArgentata200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-201/195",
+            "name": "Regidrago-V ASTRO",
+            "number": "201/195",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Regidrago-VASTROTempestaArgentata201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-202/195",
+            "name": "Lugia-V ASTRO",
+            "number": "202/195",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Lugia-VASTROTempestaArgentata202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-203/195",
+            "name": "Baldo",
+            "number": "203/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/BaldoTempestaArgentata203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-204/195",
+            "name": "Bianca",
+            "number": "204/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BiancaTempestaArgentata204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-205/195",
+            "name": "Ragazza in kimono",
+            "number": "205/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/RagazzainkimonoTempestaArgentata205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-206/195",
+            "name": "Lance",
+            "number": "206/195",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/LanceTempestaArgentata206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-207/195",
+            "name": "Serena",
+            "number": "207/195",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SerenaTempestaArgentata207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-208/195",
+            "name": "Adriano",
+            "number": "208/195",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/AdrianoTempestaArgentata208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-209/195",
+            "name": "Lavoratrice",
+            "number": "209/195",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/LavoratriceTempestaArgentata209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-210/195",
+            "name": "Serperior-V ASTRO",
+            "number": "210/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Serperior-VASTROTempestaArgentata210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-211/195",
+            "name": "Lugia-V ASTRO",
+            "number": "211/195",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Lugia-VASTROTempestaArgentata211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-212/195",
+            "name": "Scambio di Energia",
+            "number": "212/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/ScambiodiEnergiaTempestaArgentata212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-213/195",
+            "name": "Palude Boccalarga",
+            "number": "213/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/PaludeBoccalargaTempestaArgentata213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-214/195",
+            "name": "Fogliaponcho Mimetico",
+            "number": "214/195",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/FogliaponchoMimeticoTempestaArgentata214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-215/195",
+            "name": "Energia Difesa V",
+            "number": "215/195",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/EnergiaDifesaVTempestaArgentata215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SIT-TG01/TG30",
+            "name": "Braixen",
+            "number": "TG01/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/BraixenTempestaArgentataTG1.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG02/TG30",
+            "name": "Milotic",
+            "number": "TG02/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MiloticTempestaArgentataTG2.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG03/TG30",
+            "name": "Flaaffy",
+            "number": "TG03/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/FlaaffyTempestaArgentataTG3.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG04/TG30",
+            "name": "Jynx",
+            "number": "TG04/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/JynxTempestaArgentataTG4.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG05/TG30",
+            "name": "Gardevoir",
+            "number": "TG05/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/GardevoirTempestaArgentataTG5.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG06/TG30",
+            "name": "Malamar",
+            "number": "TG06/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MalamarTempestaArgentataTG6.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG07/TG30",
+            "name": "Rockruff",
+            "number": "TG07/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/RockruffTempestaArgentataTG7.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG08/TG30",
+            "name": "Passimian",
+            "number": "TG08/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/PassimianTempestaArgentataTG8.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG09/TG30",
+            "name": "Druddigon",
+            "number": "TG09/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/DruddigonTempestaArgentataTG9.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG10/TG30",
+            "name": "Smeargle",
+            "number": "TG10/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/SmeargleTempestaArgentataTG10.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG11/TG30",
+            "name": "Altaria",
+            "number": "TG11/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/AltariaTempestaArgentataTG11.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG12/TG30",
+            "name": "Kricketune-V",
+            "number": "TG12/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Kricketune-VTempestaArgentataTG12.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG13/TG30",
+            "name": "Serperior-V",
+            "number": "TG13/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Serperior-VTempestaArgentataTG13.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG14/TG30",
+            "name": "Blaziken-V",
+            "number": "TG14/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Blaziken-VTempestaArgentataTG14.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG15/TG30",
+            "name": "Blaziken-VMAX",
+            "number": "TG15/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Blaziken-VMAXTempestaArgentataTG15.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG16/TG30",
+            "name": "Zeraora-V",
+            "number": "TG16/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Zeraora-VTempestaArgentataTG16.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG17/TG30",
+            "name": "Mawile-V",
+            "number": "TG17/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Mawile-VTempestaArgentataTG17.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG18/TG30",
+            "name": "Corviknight-V",
+            "number": "TG18/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Corviknight-VTempestaArgentataTG18.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG19/TG30",
+            "name": "Corviknight-VMAX",
+            "number": "TG19/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Corviknight-VMAXTempestaArgentataTG19.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG20/TG30",
+            "name": "Rayquaza-VMAX",
+            "number": "TG20/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Rayquaza-VMAXTempestaArgentataTG20.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG21/TG30",
+            "name": "Duraludon-VMAX",
+            "number": "TG21/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Duraludon-VMAXTempestaArgentataTG21.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG22/TG30",
+            "name": "Blissey-V",
+            "number": "TG22/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Blissey-VTempestaArgentataTG22.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG23/TG30",
+            "name": "Amici a Galar",
+            "number": "TG23/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/AmiciaGalarTempestaArgentataTG23.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG24/TG30",
+            "name": "Milo",
+            "number": "TG24/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/MiloTempestaArgentataTG24.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG25/TG30",
+            "name": "Arbitro",
+            "number": "TG25/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/ArbitroTempestaArgentataTG25.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG26/TG30",
+            "name": "Professoressa Magnolia",
+            "number": "TG26/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ProfessoressaMagnoliaTempestaArgentataTG26.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG27/TG30",
+            "name": "Laburno",
+            "number": "TG27/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/LaburnoTempestaArgentataTG27.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG28/TG30",
+            "name": "Brandobaldo e Scudobaldo",
+            "number": "TG28/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/BrandobaldoeScudobaldoTempestaArgentataTG28.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG29/TG30",
+            "name": "Rayquaza-VMAX",
+            "number": "TG29/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Rayquaza-VMAXTempestaArgentataTG29.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "SIT-TG30/TG30",
+            "name": "Duraludon-VMAX",
+            "number": "TG30/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Duraludon-VMAXTempestaArgentataTG30.png",
+            "section": "Galleria degli Allenatori"
+        }
+    ]
+}

@@ -1,0 +1,1694 @@
+{
+    "expansion": {
+        "id": "LOT",
+        "name": "Sole e Luna - Tuoni Perduti",
+        "year": 2018,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetTuoni_Perduti.png",
+        "cardCount": 236,
+				"yellowAAlternateCardCount": 4
+    },
+    "cards": [
+        {
+            "id": "LOT-1/214",
+            "name": "Tangela",
+            "number": "1/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/TangelaTuoniPerduti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-2/214",
+            "name": "Tangrowth",
+            "number": "2/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/TangrowthTuoniPerduti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-3/214",
+            "name": "Scyther",
+            "number": "3/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ScytherTuoniPerduti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-4/214",
+            "name": "Pinsir",
+            "number": "4/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/PinsirTuoniPerduti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-5/214",
+            "name": "Chikorita",
+            "number": "5/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ChikoritaTuoniPerduti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-6/214",
+            "name": "Chikorita",
+            "number": "6/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/ChikoritaTuoniPerduti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-7/214",
+            "name": "Bayleef",
+            "number": "7/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/BayleefTuoniPerduti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-8/214",
+            "name": "Meganium",
+            "number": "8/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MeganiumTuoniPerduti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-9/214",
+            "name": "Spinarak",
+            "number": "9/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SpinarakTuoniPerduti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-10/214",
+            "name": "Ariados",
+            "number": "10/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/AriadosTuoniPerduti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-11/214",
+            "name": "Hoppip",
+            "number": "11/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/HoppipTuoniPerduti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-12/214",
+            "name": "Hoppip",
+            "number": "12/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/HoppipTuoniPerduti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-13/214",
+            "name": "Skiploom",
+            "number": "13/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/SkiploomTuoniPerduti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-14/214",
+            "name": "Jumpluff",
+            "number": "14/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/JumpluffTuoniPerduti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-15/214",
+            "name": "Pineco",
+            "number": "15/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/PinecoTuoniPerduti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-16/214",
+            "name": "Shuckle",
+            "number": "16/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ShuckleTuoniPerduti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-17/214",
+            "name": "Shuckle-GX",
+            "number": "17/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Shuckle-GXTuoniPerduti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-18/214",
+            "name": "Heracross",
+            "number": "18/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/HeracrossTuoniPerduti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-19/214",
+            "name": "Celebi ◇",
+            "number": "19/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/CelebiTuoniPerduti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-20/214",
+            "name": "Treecko",
+            "number": "20/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/TreeckoTuoniPerduti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-21/214",
+            "name": "Grovyle",
+            "number": "21/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/GrovyleTuoniPerduti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-22/214",
+            "name": "Sceptile-GX",
+            "number": "22/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Sceptile-GXTuoniPerduti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-23/214",
+            "name": "Wurmple",
+            "number": "23/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/WurmpleTuoniPerduti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-24/214",
+            "name": "Wurmple",
+            "number": "24/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/WurmpleTuoniPerduti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-25/214",
+            "name": "Silcoon",
+            "number": "25/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/SilcoonTuoniPerduti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-26/214",
+            "name": "Beautifly",
+            "number": "26/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/BeautiflyTuoniPerduti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-27/214",
+            "name": "Cascoon",
+            "number": "27/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/CascoonTuoniPerduti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-28/214",
+            "name": "Dustox",
+            "number": "28/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/DustoxTuoniPerduti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-29/214",
+            "name": "Nincada",
+            "number": "29/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/NincadaTuoniPerduti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-30/214",
+            "name": "Ninjask",
+            "number": "30/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/NinjaskTuoniPerduti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-31/214",
+            "name": "Combee",
+            "number": "31/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/CombeeTuoniPerduti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-32/214",
+            "name": "Vespiquen",
+            "number": "32/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/VespiquenTuoniPerduti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-33/214",
+            "name": "Shaymin",
+            "number": "33/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/ShayminTuoniPerduti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-34/214",
+            "name": "Virizion-GX",
+            "number": "34/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Virizion-GXTuoniPerduti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-35/214",
+            "name": "Skiddo",
+            "number": "35/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/SkiddoTuoniPerduti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-36/214",
+            "name": "Gogoat",
+            "number": "36/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GogoatTuoniPerduti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-37/214",
+            "name": "Tapu Bulu",
+            "number": "37/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/TapuBuluTuoniPerduti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-38/214",
+            "name": "Moltres",
+            "number": "38/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/MoltresTuoniPerduti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-39/214",
+            "name": "Cyndaquil",
+            "number": "39/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/CyndaquilTuoniPerduti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-40/214",
+            "name": "Cyndaquil",
+            "number": "40/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/CyndaquilTuoniPerduti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-41/214",
+            "name": "Quilava",
+            "number": "41/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/QuilavaTuoniPerduti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-42/214",
+            "name": "Typhlosion",
+            "number": "42/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/TyphlosionTuoniPerduti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-43/214",
+            "name": "Slugma",
+            "number": "43/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SlugmaTuoniPerduti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-44/214",
+            "name": "Magcargo-GX",
+            "number": "44/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Magcargo-GXTuoniPerduti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-45/214",
+            "name": "Houndour",
+            "number": "45/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/HoundourTuoniPerduti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-46/214",
+            "name": "Houndoom",
+            "number": "46/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/HoundoomTuoniPerduti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-47/214",
+            "name": "Entei",
+            "number": "47/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/EnteiTuoniPerduti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-48/214",
+            "name": "Heatran",
+            "number": "48/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/HeatranTuoniPerduti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-49/214",
+            "name": "Victini",
+            "number": "49/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/VictiniTuoniPerduti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-50/214",
+            "name": "Litleo",
+            "number": "50/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/LitleoTuoniPerduti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-51/214",
+            "name": "Pyroar",
+            "number": "51/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/PyroarTuoniPerduti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-52/214",
+            "name": "Blacephalon-GX",
+            "number": "52/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/Blacephalon-GXTuoniPerduti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-53/214",
+            "name": "Vulpix di Alola",
+            "number": "53/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/VulpixdiAlolaTuoniPerduti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-54/214",
+            "name": "Slowpoke",
+            "number": "54/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/SlowpokeTuoniPerduti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-55/214",
+            "name": "Slowking",
+            "number": "55/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SlowkingTuoniPerduti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-56/214",
+            "name": "Lapras",
+            "number": "56/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/LaprasTuoniPerduti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-57/214",
+            "name": "Delibird",
+            "number": "57/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/DelibirdTuoniPerduti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-58/214",
+            "name": "Mantine",
+            "number": "58/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MantineTuoniPerduti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-59/214",
+            "name": "Suicune",
+            "number": "59/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/SuicuneTuoniPerduti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-60/214",
+            "name": "Suicune-GX",
+            "number": "60/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/Suicune-GXTuoniPerduti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-61/214",
+            "name": "Cubchoo",
+            "number": "61/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/CubchooTuoniPerduti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-62/214",
+            "name": "Beartic",
+            "number": "62/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/BearticTuoniPerduti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-63/214",
+            "name": "Kyurem Bianco",
+            "number": "63/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/KyuremBiancoTuoniPerduti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-64/214",
+            "name": "Popplio",
+            "number": "64/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/PopplioTuoniPerduti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-65/214",
+            "name": "Popplio",
+            "number": "65/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/PopplioTuoniPerduti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-66/214",
+            "name": "Brionne",
+            "number": "66/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/BrionneTuoniPerduti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-67/214",
+            "name": "Primarina",
+            "number": "67/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/PrimarinaTuoniPerduti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-68/214",
+            "name": "Mareanie",
+            "number": "68/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MareanieTuoniPerduti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-69/214",
+            "name": "Toxapex",
+            "number": "69/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ToxapexTuoniPerduti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-70/214",
+            "name": "Bruxish",
+            "number": "70/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/BruxishTuoniPerduti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-71/214",
+            "name": "Electabuzz",
+            "number": "71/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ElectabuzzTuoniPerduti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-72/214",
+            "name": "Electivire",
+            "number": "72/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ElectivireTuoniPerduti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-73/214",
+            "name": "Chinchou",
+            "number": "73/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ChinchouTuoniPerduti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-74/214",
+            "name": "Lanturn",
+            "number": "74/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LanturnTuoniPerduti74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-75/214",
+            "name": "Mareep",
+            "number": "75/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/MareepTuoniPerduti75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-76/214",
+            "name": "Mareep",
+            "number": "76/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/MareepTuoniPerduti76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-77/214",
+            "name": "Flaaffy",
+            "number": "77/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/FlaaffyTuoniPerduti77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-78/214",
+            "name": "Ampharos",
+            "number": "78/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/AmpharosTuoniPerduti78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-79/214",
+            "name": "Raikou",
+            "number": "79/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/RaikouTuoniPerduti79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-80/214",
+            "name": "Pachirisu",
+            "number": "80/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/PachirisuTuoniPerduti80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-81/214",
+            "name": "Blitzle",
+            "number": "81/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/BlitzleTuoniPerduti81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-82/214",
+            "name": "Zebstrika",
+            "number": "82/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ZebstrikaTuoniPerduti82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-83/214",
+            "name": "Stunfisk",
+            "number": "83/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/StunfiskTuoniPerduti83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-84/214",
+            "name": "Dedenne",
+            "number": "84/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DedenneTuoniPerduti84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-85/214",
+            "name": "Tapu Koko",
+            "number": "85/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/TapuKokoTuoniPerduti85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-86/214",
+            "name": "Zeraora-GX",
+            "number": "86/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Zeraora-GXTuoniPerduti86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-87/214",
+            "name": "Natu",
+            "number": "87/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/NatuTuoniPerduti87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-88/214",
+            "name": "Xatu",
+            "number": "88/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/XatuTuoniPerduti88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-89/214",
+            "name": "Espeon",
+            "number": "89/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/EspeonTuoniPerduti89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-90/214",
+            "name": "Unown",
+            "number": "90/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/UnownTuoniPerduti90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-91/214",
+            "name": "Unown",
+            "number": "91/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/UnownTuoniPerduti91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-92/214",
+            "name": "Unown",
+            "number": "92/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/UnownTuoniPerduti92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-93/214",
+            "name": "Wobbuffet",
+            "number": "93/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/WobbuffetTuoniPerduti93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-94/214",
+            "name": "Girafarig",
+            "number": "94/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/GirafarigTuoniPerduti94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-95/214",
+            "name": "Shedinja",
+            "number": "95/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/ShedinjaTuoniPerduti95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-96/214",
+            "name": "Sableye",
+            "number": "96/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/SableyeTuoniPerduti96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-97/214",
+            "name": "Giratina",
+            "number": "97/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/GiratinaTuoniPerduti97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-98/214",
+            "name": "Sigilyph-GX",
+            "number": "98/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/Sigilyph-GXTuoniPerduti98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-99/214",
+            "name": "Yamask",
+            "number": "99/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/YamaskTuoniPerduti99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-100/214",
+            "name": "Cofagrigus",
+            "number": "100/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/CofagrigusTuoniPerduti100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-101/214",
+            "name": "Litwick",
+            "number": "101/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/LitwickTuoniPerduti101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-102/214",
+            "name": "Lampent",
+            "number": "102/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LampentTuoniPerduti102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-103/214",
+            "name": "Chandelure",
+            "number": "103/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/ChandelureTuoniPerduti103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-104/214",
+            "name": "Meloetta",
+            "number": "104/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MeloettaTuoniPerduti104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-105/214",
+            "name": "Mareanie",
+            "number": "105/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/MareanieTuoniPerduti105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-106/214",
+            "name": "Nihilego",
+            "number": "106/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/NihilegoTuoniPerduti106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-107/214",
+            "name": "Poipole",
+            "number": "107/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PoipoleTuoniPerduti107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-108/214",
+            "name": "Naganadel",
+            "number": "108/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/NaganadelTuoniPerduti108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-109/214",
+            "name": "Onix",
+            "number": "109/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/OnixTuoniPerduti109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-110/214",
+            "name": "Sudowoodo",
+            "number": "110/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SudowoodoTuoniPerduti110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-111/214",
+            "name": "Phanpy",
+            "number": "111/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/PhanpyTuoniPerduti111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-112/214",
+            "name": "Donphan",
+            "number": "112/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/DonphanTuoniPerduti112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-113/214",
+            "name": "Hitmontop",
+            "number": "113/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/HitmontopTuoniPerduti113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-114/214",
+            "name": "Larvitar",
+            "number": "114/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/LarvitarTuoniPerduti114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-115/214",
+            "name": "Larvitar",
+            "number": "115/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/LarvitarTuoniPerduti115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-116/214",
+            "name": "Pupitar",
+            "number": "116/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/PupitarTuoniPerduti116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-117/214",
+            "name": "Carbink",
+            "number": "117/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/CarbinkTuoniPerduti117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-118/214",
+            "name": "Meowth di Alola",
+            "number": "118/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/MeowthdiAlolaTuoniPerduti118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-119/214",
+            "name": "Persian di Alola",
+            "number": "119/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/PersiandiAlolaTuoniPerduti119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-120/214",
+            "name": "Umbreon",
+            "number": "120/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/UmbreonTuoniPerduti120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-121/214",
+            "name": "Tyranitar-GX",
+            "number": "121/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Tyranitar-GXTuoniPerduti121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-122/214",
+            "name": "Diglett di Alola",
+            "number": "122/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/DiglettdiAlolaTuoniPerduti122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-123/214",
+            "name": "Dugtrio di Alola",
+            "number": "123/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/DugtriodiAlolaTuoniPerduti123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-124/214",
+            "name": "Forretress",
+            "number": "124/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ForretressTuoniPerduti124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-125/214",
+            "name": "Steelix",
+            "number": "125/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SteelixTuoniPerduti125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-126/214",
+            "name": "Scizor",
+            "number": "126/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ScizorTuoniPerduti126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-127/214",
+            "name": "Dialga",
+            "number": "127/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DialgaTuoniPerduti127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-128/214",
+            "name": "Durant",
+            "number": "128/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/DurantTuoniPerduti128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-129/214",
+            "name": "Cobalion",
+            "number": "129/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/CobalionTuoniPerduti129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-130/214",
+            "name": "Genesect-GX",
+            "number": "130/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Genesect-GXTuoniPerduti130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-131/214",
+            "name": "Magearna",
+            "number": "131/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/MagearnaTuoniPerduti131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-132/214",
+            "name": "Ninetales di Alola-GX",
+            "number": "132/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/NinetalesdiAlola-GXTuoniPerduti132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-133/214",
+            "name": "Jigglypuff",
+            "number": "133/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/JigglypuffTuoniPerduti133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-134/214",
+            "name": "Wigglytuff",
+            "number": "134/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/WigglytuffTuoniPerduti134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-135/214",
+            "name": "Marill",
+            "number": "135/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/MarillTuoniPerduti135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-136/214",
+            "name": "Azumarill",
+            "number": "136/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/AzumarillTuoniPerduti136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-137/214",
+            "name": "Snubbull",
+            "number": "137/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/SnubbullTuoniPerduti137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-138/214",
+            "name": "Granbull",
+            "number": "138/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/GranbullTuoniPerduti138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-139/214",
+            "name": "Ralts",
+            "number": "139/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/RaltsTuoniPerduti139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-140/214",
+            "name": "Kirlia",
+            "number": "140/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/KirliaTuoniPerduti140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-141/214",
+            "name": "Gardevoir",
+            "number": "141/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/GardevoirTuoniPerduti141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-142/214",
+            "name": "Dedenne",
+            "number": "142/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/DedenneTuoniPerduti142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-143/214",
+            "name": "Carbink",
+            "number": "143/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/CarbinkTuoniPerduti143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-144/214",
+            "name": "Xerneas ◇",
+            "number": "144/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/XerneasTuoniPerduti144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-145/214",
+            "name": "Cutiefly",
+            "number": "145/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/CutieflyTuoniPerduti145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-146/214",
+            "name": "Ribombee",
+            "number": "146/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RibombeeTuoniPerduti146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-147/214",
+            "name": "Morelull",
+            "number": "147/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MorelullTuoniPerduti147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-148/214",
+            "name": "Shiinotic",
+            "number": "148/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/ShiinoticTuoniPerduti148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-149/214",
+            "name": "Mimikyu-GX",
+            "number": "149/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/Mimikyu-GXTuoniPerduti149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-150/214",
+            "name": "Tapu Lele",
+            "number": "150/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/TapuLeleTuoniPerduti150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-151/214",
+            "name": "Tapu Fini",
+            "number": "151/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/TapuFiniTuoniPerduti151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-152/214",
+            "name": "Chansey",
+            "number": "152/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ChanseyTuoniPerduti152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-153/214",
+            "name": "Blissey",
+            "number": "153/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/BlisseyTuoniPerduti153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-154/214",
+            "name": "Ditto ◇",
+            "number": "154/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/DittoTuoniPerduti154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-155/214",
+            "name": "Eevee",
+            "number": "155/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/EeveeTuoniPerduti155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-156/214",
+            "name": "Stantler",
+            "number": "156/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/StantlerTuoniPerduti156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-157/214",
+            "name": "Smeargle",
+            "number": "157/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SmeargleTuoniPerduti157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-158/214",
+            "name": "Miltank",
+            "number": "158/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MiltankTuoniPerduti158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-159/214",
+            "name": "Lugia-GX",
+            "number": "159/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Lugia-GXTuoniPerduti159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-160/214",
+            "name": "Ho-Oh",
+            "number": "160/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Ho-OhTuoniPerduti160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-161/214",
+            "name": "Kecleon",
+            "number": "161/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/KecleonTuoniPerduti161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-162/214",
+            "name": "Kecleon",
+            "number": "162/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/KecleonTuoniPerduti162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-163/214",
+            "name": "Pikipek",
+            "number": "163/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/PikipekTuoniPerduti163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-164/214",
+            "name": "Pikipek",
+            "number": "164/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/PikipekTuoniPerduti164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-165/214",
+            "name": "Trumbeak",
+            "number": "165/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/TrumbeakTuoniPerduti165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-166/214",
+            "name": "Toucannon",
+            "number": "166/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/ToucannonTuoniPerduti166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-167/214",
+            "name": "Borsa Avventura",
+            "number": "167/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/BorsaAvventuraTuoniPerduti167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-168/214",
+            "name": "Dipendente della Fondazione Æther",
+            "number": "168/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/DipendentedellaFondazioneAetherTuoniPerduti168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-169/214",
+            "name": "Elmoscelta",
+            "number": "169/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ElmosceltaTuoniPerduti169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-170/214",
+            "name": "Contrappeso",
+            "number": "170/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ContrappesoTuoniPerduti170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-171/214",
+            "name": "Acchiappa-Pokémon Modificato",
+            "number": "171/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Acchiappa-Pok%C3%A9monModificatoTuoniPerduti171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-172/214",
+            "name": "Potenziatore Elettrico",
+            "number": "172/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PotenziatoreElettricoTuoniPerduti172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-173/214",
+            "name": "Vicio",
+            "number": "173/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/VicioTuoniPerduti173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-174/214",
+            "name": "Amuleto Folletto E",
+            "number": "174/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/AmuletoFollettoETuoniPerduti174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-175/214",
+            "name": "Amuleto Folletto P",
+            "number": "175/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/AmuletoFollettoPTuoniPerduti175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-176/214",
+            "name": "Amuleto Folletto L",
+            "number": "176/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/AmuletoFollettoLTuoniPerduti176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-177/214",
+            "name": "Amuleto Folletto D",
+            "number": "177/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/AmuletoFollettoDTuoniPerduti177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-178/214",
+            "name": "Fabbrica del Fuoco ◇",
+            "number": "178/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/FabbricadelFuocoTuoniPerduti178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-179/214",
+            "name": "Kahili",
+            "number": "179/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/KahiliTuoniPerduti179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-180/214",
+            "name": "Foresta della Vita ◇",
+            "number": "180/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/ForestadellaVitaTuoniPerduti180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-181/214",
+            "name": "Mixer Perduto",
+            "number": "181/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MixerPerdutoTuoniPerduti181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-182/214",
+            "name": "Samina ◇",
+            "number": "182/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SaminaTuoniPerduti182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-183/214",
+            "name": "Rika",
+            "number": "183/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/RikaTuoniPerduti183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-184/214",
+            "name": "Infuso di Erbe",
+            "number": "184/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/InfusodiErbeTuoniPerduti184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-185/214",
+            "name": "Latte Mumu",
+            "number": "185/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/LatteMumuTuoniPerduti185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-186/214",
+            "name": "Angelo",
+            "number": "186/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/AngeloTuoniPerduti186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-187/214",
+            "name": "Rete Ball",
+            "number": "187/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ReteBallTuoniPerduti187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-188/214",
+            "name": "Seminario del Professor Elm",
+            "number": "188/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SeminariodelProfessorElmTuoniPerduti188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-189/214",
+            "name": "Vacanziera",
+            "number": "189/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/VacanzieraTuoniPerduti189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-190/214",
+            "name": "Spettrotarga",
+            "number": "190/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/SpettrotargaTuoniPerduti190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-191/214",
+            "name": "Monte del Tuono ◇",
+            "number": "191/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/MontedelTuonoTuoniPerduti191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-192/214",
+            "name": "Martello Tattico",
+            "number": "192/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/MartelloTatticoTuoniPerduti192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-193/214",
+            "name": "Chiara",
+            "number": "193/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/ChiaraTuoniPerduti193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-194/214",
+            "name": "Energia Memoria",
+            "number": "194/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/EnergiaMemoriaTuoniPerduti194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-195/214",
+            "name": "Shuckle-GX",
+            "number": "195/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Shuckle-GXTuoniPerduti195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-196/214",
+            "name": "Sceptile-GX",
+            "number": "196/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Sceptile-GXTuoniPerduti196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-197/214",
+            "name": "Virizion-GX",
+            "number": "197/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Virizion-GXTuoniPerduti197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-198/214",
+            "name": "Magcargo-GX",
+            "number": "198/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/Magcargo-GXTuoniPerduti198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-199/214",
+            "name": "Blacephalon-GX",
+            "number": "199/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Blacephalon-GXTuoniPerduti199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-200/214",
+            "name": "Suicune-GX",
+            "number": "200/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Suicune-GXTuoniPerduti200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-201/214",
+            "name": "Zeraora-GX",
+            "number": "201/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Zeraora-GXTuoniPerduti201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-202/214",
+            "name": "Sigilyph-GX",
+            "number": "202/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Sigilyph-GXTuoniPerduti202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-203/214",
+            "name": "Tyranitar-GX",
+            "number": "203/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Tyranitar-GXTuoniPerduti203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-204/214",
+            "name": "Genesect-GX",
+            "number": "204/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Genesect-GXTuoniPerduti204.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-205/214",
+            "name": "Ninetales di Alola-GX",
+            "number": "205/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/NinetalesdiAlola-GXTuoniPerduti205.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-206/214",
+            "name": "Mimikyu-GX",
+            "number": "206/214",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Mimikyu-GXTuoniPerduti206.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-207/214",
+            "name": "Lugia-GX",
+            "number": "207/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Lugia-GXTuoniPerduti207.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-208/214",
+            "name": "Vicio",
+            "number": "208/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/VicioTuoniPerduti208.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-209/214",
+            "name": "Arbitro",
+            "number": "209/214",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ArbitroTuoniPerduti209.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-210/214",
+            "name": "Kahili",
+            "number": "210/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/KahiliTuoniPerduti210.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-211/214",
+            "name": "Rika",
+            "number": "211/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/RikaTuoniPerduti211.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-212/214",
+            "name": "Angelo",
+            "number": "212/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/AngeloTuoniPerduti212.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-213/214",
+            "name": "Seminario del Professor Elm",
+            "number": "213/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SeminariodelProfessorElmTuoniPerduti213.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-214/214",
+            "name": "Chiara",
+            "number": "214/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ChiaraTuoniPerduti214.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "LOT-215/214",
+            "name": "Shuckle-GX",
+            "number": "215/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Shuckle-GXTuoniPerduti215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-216/214",
+            "name": "Sceptile-GX",
+            "number": "216/214",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Sceptile-GXTuoniPerduti216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-217/214",
+            "name": "Virizion-GX",
+            "number": "217/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Virizion-GXTuoniPerduti217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-218/214",
+            "name": "Magcargo-GX",
+            "number": "218/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Magcargo-GXTuoniPerduti218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-219/214",
+            "name": "Blacephalon-GX",
+            "number": "219/214",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Blacephalon-GXTuoniPerduti219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-220/214",
+            "name": "Suicune-GX",
+            "number": "220/214",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Suicune-GXTuoniPerduti220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-221/214",
+            "name": "Zeraora-GX",
+            "number": "221/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Zeraora-GXTuoniPerduti221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-222/214",
+            "name": "Sigilyph-GX",
+            "number": "222/214",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Sigilyph-GXTuoniPerduti222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-223/214",
+            "name": "Tyranitar-GX",
+            "number": "223/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Tyranitar-GXTuoniPerduti223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-224/214",
+            "name": "Genesect-GX",
+            "number": "224/214",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Genesect-GXTuoniPerduti224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-225/214",
+            "name": "Ninetales di Alola-GX",
+            "number": "225/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/NinetalesdiAlola-GXTuoniPerduti225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-226/214",
+            "name": "Mimikyu-GX",
+            "number": "226/214",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/Mimikyu-GXTuoniPerduti226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-227/214",
+            "name": "Lugia-GX",
+            "number": "227/214",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Lugia-GXTuoniPerduti227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-228/214",
+            "name": "Borsa Avventura",
+            "number": "228/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BorsaAvventuraTuoniPerduti228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-229/214",
+            "name": "Elmoscelta",
+            "number": "229/214",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ElmosceltaTuoniPerduti229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-230/214",
+            "name": "Contrappeso",
+            "number": "230/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ContrappesoTuoniPerduti230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-231/214",
+            "name": "Acchiappa-Pokémon Modificato",
+            "number": "231/214",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/Acchiappa-Pok%C3%A9monModificatoTuoniPerduti231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-232/214",
+            "name": "Potenziatore Elettrico",
+            "number": "232/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/PotenziatoreElettricoTuoniPerduti232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-233/214",
+            "name": "Mixer Perduto",
+            "number": "233/214",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MixerPerdutoTuoniPerduti233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-234/214",
+            "name": "Rete Ball",
+            "number": "234/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/ReteBallTuoniPerduti234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-235/214",
+            "name": "Spettrotarga",
+            "number": "235/214",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/SpettrotargaTuoniPerduti235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-236/214",
+            "name": "Martello Tattico",
+            "number": "236/214",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/MartelloTatticoTuoniPerduti236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "LOT-172a/214",
+            "name": "Potenziatore Elettrico",
+            "number": "172a/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/PotenziatoreElettricoTuoniPerduti172a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "LOT-187a/214",
+            "name": "Rete Ball",
+            "number": "187a/214",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ReteBallTuoniPerduti187a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "LOT-188a/214",
+            "name": "Seminario del Professor Elm",
+            "number": "188a/214",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "LOT-189a/214",
+            "name": "Vacanziera",
+            "number": "189a/214",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/VacanzieraTuoniPerduti189a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

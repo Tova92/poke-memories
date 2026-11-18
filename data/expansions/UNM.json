@@ -1,0 +1,1841 @@
+{
+    "expansion": {
+        "id": "UNM",
+        "name": "Sole e Luna - Sintonia Mentale",
+        "year": 2019,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/3/33/SimboloSetSintonia_Mentale.png",
+        "cardCount": 258,
+				"yellowAAlternateCardCount": 3
+    },
+    "cards": [
+        {
+            "id": "UNM-1/236",
+            "name": "Rowlet e Exeggutor di Alola-GX",
+            "number": "1/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/RowleteExeggutordiAlola-GXSintoniaMentale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-2/236",
+            "name": "Yanma",
+            "number": "2/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/YanmaSintoniaMentale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-3/236",
+            "name": "Yanmega",
+            "number": "3/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/YanmegaSintoniaMentale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-4/236",
+            "name": "Celebi",
+            "number": "4/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/CelebiSintoniaMentale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-5/236",
+            "name": "Shroomish",
+            "number": "5/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/ShroomishSintoniaMentale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-6/236",
+            "name": "Sewaddle",
+            "number": "6/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/SewaddleSintoniaMentale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-7/236",
+            "name": "Sewaddle",
+            "number": "7/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/SewaddleSintoniaMentale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-8/236",
+            "name": "Swadloon",
+            "number": "8/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/SwadloonSintoniaMentale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-9/236",
+            "name": "Leavanny",
+            "number": "9/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/LeavannySintoniaMentale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-10/236",
+            "name": "Dwebble",
+            "number": "10/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/DwebbleSintoniaMentale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-11/236",
+            "name": "Crustle",
+            "number": "11/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CrustleSintoniaMentale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-12/236",
+            "name": "Karrablast",
+            "number": "12/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/KarrablastSintoniaMentale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-13/236",
+            "name": "Foongus",
+            "number": "13/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/FoongusSintoniaMentale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-14/236",
+            "name": "Amoonguss",
+            "number": "14/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/AmoongussSintoniaMentale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-15/236",
+            "name": "Fomantis",
+            "number": "15/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/FomantisSintoniaMentale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-16/236",
+            "name": "Lurantis",
+            "number": "16/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/LurantisSintoniaMentale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-17/236",
+            "name": "Bounsweet",
+            "number": "17/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/BounsweetSintoniaMentale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-18/236",
+            "name": "Steenee",
+            "number": "18/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/SteeneeSintoniaMentale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-19/236",
+            "name": "Tsareena",
+            "number": "19/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/TsareenaSintoniaMentale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-20/236",
+            "name": "Dhelmise",
+            "number": "20/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/DhelmiseSintoniaMentale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-21/236",
+            "name": "Magmar",
+            "number": "21/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MagmarSintoniaMentale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-22/236",
+            "name": "Magmortar",
+            "number": "22/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MagmortarSintoniaMentale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-23/236",
+            "name": "Numel",
+            "number": "23/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/NumelSintoniaMentale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-24/236",
+            "name": "Camerupt",
+            "number": "24/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/CameruptSintoniaMentale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-25/236",
+            "name": "Heatran-GX",
+            "number": "25/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Heatran-GXSintoniaMentale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-26/236",
+            "name": "Victini",
+            "number": "26/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/VictiniSintoniaMentale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-27/236",
+            "name": "Litwick",
+            "number": "27/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/LitwickSintoniaMentale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-28/236",
+            "name": "Litwick",
+            "number": "28/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/LitwickSintoniaMentale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-29/236",
+            "name": "Lampent",
+            "number": "29/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/LampentSintoniaMentale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-30/236",
+            "name": "Chandelure",
+            "number": "30/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/ChandelureSintoniaMentale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-31/236",
+            "name": "Fletchinder",
+            "number": "31/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/FletchinderSintoniaMentale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-32/236",
+            "name": "Talonflame",
+            "number": "32/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/TalonflameSintoniaMentale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-33/236",
+            "name": "Salandit",
+            "number": "33/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SalanditSintoniaMentale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-34/236",
+            "name": "Salazzle",
+            "number": "34/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/SalazzleSintoniaMentale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-35/236",
+            "name": "Slowpoke e Psyduck-GX",
+            "number": "35/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SlowpokeePsyduck-GXSintoniaMentale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-36/236",
+            "name": "Lapras",
+            "number": "36/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/LaprasSintoniaMentale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-37/236",
+            "name": "Snorunt",
+            "number": "37/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SnoruntSintoniaMentale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-38/236",
+            "name": "Froslass",
+            "number": "38/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/FroslassSintoniaMentale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-39/236",
+            "name": "Finneon",
+            "number": "39/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FinneonSintoniaMentale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-40/236",
+            "name": "Lumineon",
+            "number": "40/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/LumineonSintoniaMentale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-41/236",
+            "name": "Snover",
+            "number": "41/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/SnoverSintoniaMentale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-42/236",
+            "name": "Abomasnow",
+            "number": "42/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/AbomasnowSintoniaMentale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-43/236",
+            "name": "Basculin",
+            "number": "43/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/BasculinSintoniaMentale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-44/236",
+            "name": "Tirtouga",
+            "number": "44/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/TirtougaSintoniaMentale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-45/236",
+            "name": "Carracosta",
+            "number": "45/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/CarracostaSintoniaMentale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-46/236",
+            "name": "Cryogonal",
+            "number": "46/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/CryogonalSintoniaMentale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-47/236",
+            "name": "Keldeo-GX",
+            "number": "47/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Keldeo-GXSintoniaMentale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-48/236",
+            "name": "Dewpider",
+            "number": "48/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DewpiderSintoniaMentale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-49/236",
+            "name": "Araquanid",
+            "number": "49/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/AraquanidSintoniaMentale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-50/236",
+            "name": "Wimpod",
+            "number": "50/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/WimpodSintoniaMentale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-51/236",
+            "name": "Golisopod",
+            "number": "51/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GolisopodSintoniaMentale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-52/236",
+            "name": "Pyukumuku",
+            "number": "52/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/PyukumukuSintoniaMentale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-53/236",
+            "name": "Tapu Fini",
+            "number": "53/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/TapuFiniSintoniaMentale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-54/236",
+            "name": "Raichu e Raichu di Alola-GX",
+            "number": "54/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/RaichueRaichudiAlola-GXSintoniaMentale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-55/236",
+            "name": "Pikachu",
+            "number": "55/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/PikachuSintoniaMentale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-56/236",
+            "name": "Pikachu",
+            "number": "56/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PikachuSintoniaMentale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-57/236",
+            "name": "Raichu di Alola",
+            "number": "57/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/RaichudiAlolaSintoniaMentale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-58/236",
+            "name": "Magnemite",
+            "number": "58/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MagnemiteSintoniaMentale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-59/236",
+            "name": "Magneton",
+            "number": "59/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MagnetonSintoniaMentale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-60/236",
+            "name": "Magnezone",
+            "number": "60/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MagnezoneSintoniaMentale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-61/236",
+            "name": "Joltik",
+            "number": "61/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/JoltikSintoniaMentale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-62/236",
+            "name": "Galvantula",
+            "number": "62/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/GalvantulaSintoniaMentale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-63/236",
+            "name": "Tynamo",
+            "number": "63/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TynamoSintoniaMentale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-64/236",
+            "name": "Tynamo",
+            "number": "64/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/TynamoSintoniaMentale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-65/236",
+            "name": "Eelektrik",
+            "number": "65/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/EelektrikSintoniaMentale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-66/236",
+            "name": "Eelektross",
+            "number": "66/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/EelektrossSintoniaMentale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-67/236",
+            "name": "Stunfisk",
+            "number": "67/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/StunfiskSintoniaMentale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-68/236",
+            "name": "Thundurus",
+            "number": "68/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/ThundurusSintoniaMentale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-69/236",
+            "name": "Tapu Koko",
+            "number": "69/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TapuKokoSintoniaMentale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-70/236",
+            "name": "Xurkitree",
+            "number": "70/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/XurkitreeSintoniaMentale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-71/236",
+            "name": "Mewtwo e Mew-GX",
+            "number": "71/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MewtwoeMew-GXSintoniaMentale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-72/236",
+            "name": "Espeon e Deoxys-GX",
+            "number": "72/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/EspeoneDeoxys-GXSintoniaMentale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-73/236",
+            "name": "Exeggcute",
+            "number": "73/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ExeggcuteSintoniaMentale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-74/236",
+            "name": "Exeggutor",
+            "number": "74/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/ExeggutorSintoniaMentale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-75/236",
+            "name": "Marowak di Alola",
+            "number": "75/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MarowakdiAlolaSintoniaMentale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-76/236",
+            "name": "Jynx",
+            "number": "76/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/JynxSintoniaMentale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-77/236",
+            "name": "Wynaut",
+            "number": "77/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/WynautSintoniaMentale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-78/236",
+            "name": "Latios-GX",
+            "number": "78/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Latios-GXSintoniaMentale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-79/236",
+            "name": "Jirachi-GX",
+            "number": "79/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Jirachi-GXSintoniaMentale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-80/236",
+            "name": "Drifloon",
+            "number": "80/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/DrifloonSintoniaMentale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-81/236",
+            "name": "Drifblim",
+            "number": "81/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/DrifblimSintoniaMentale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-82/236",
+            "name": "Skorupi",
+            "number": "82/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/SkorupiSintoniaMentale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-83/236",
+            "name": "Uxie",
+            "number": "83/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/UxieSintoniaMentale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-84/236",
+            "name": "Mesprit",
+            "number": "84/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MespritSintoniaMentale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-85/236",
+            "name": "Azelf",
+            "number": "85/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/AzelfSintoniaMentale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-86/236",
+            "name": "Giratina",
+            "number": "86/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/GiratinaSintoniaMentale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-87/236",
+            "name": "Cresselia",
+            "number": "87/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/CresseliaSintoniaMentale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-88/236",
+            "name": "Munna",
+            "number": "88/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MunnaSintoniaMentale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-89/236",
+            "name": "Musharna",
+            "number": "89/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MusharnaSintoniaMentale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-90/236",
+            "name": "Elgyem",
+            "number": "90/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ElgyemSintoniaMentale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-91/236",
+            "name": "Beheeyem",
+            "number": "91/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BeheeyemSintoniaMentale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-92/236",
+            "name": "Honedge",
+            "number": "92/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/HonedgeSintoniaMentale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-93/236",
+            "name": "Honedge",
+            "number": "93/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/HonedgeSintoniaMentale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-94/236",
+            "name": "Doublade",
+            "number": "94/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/DoubladeSintoniaMentale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-95/236",
+            "name": "Aegislash",
+            "number": "95/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/AegislashSintoniaMentale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-96/236",
+            "name": "Mareanie",
+            "number": "96/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MareanieSintoniaMentale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-97/236",
+            "name": "Toxapex",
+            "number": "97/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ToxapexSintoniaMentale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-98/236",
+            "name": "Salandit",
+            "number": "98/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/SalanditSintoniaMentale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-99/236",
+            "name": "Salazzle",
+            "number": "99/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/SalazzleSintoniaMentale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-100/236",
+            "name": "Cosmog",
+            "number": "100/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/CosmogSintoniaMentale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-101/236",
+            "name": "Necrozma",
+            "number": "101/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/NecrozmaSintoniaMentale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-102/236",
+            "name": "Poipole",
+            "number": "102/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/PoipoleSintoniaMentale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-103/236",
+            "name": "Onix",
+            "number": "103/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/OnixSintoniaMentale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-104/236",
+            "name": "Steelix",
+            "number": "104/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SteelixSintoniaMentale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-105/236",
+            "name": "Cubone",
+            "number": "105/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/CuboneSintoniaMentale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-106/236",
+            "name": "Aerodactyl-GX",
+            "number": "106/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Aerodactyl-GXSintoniaMentale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-107/236",
+            "name": "Heracross",
+            "number": "107/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/HeracrossSintoniaMentale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-108/236",
+            "name": "Breloom",
+            "number": "108/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/BreloomSintoniaMentale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-109/236",
+            "name": "Meditite",
+            "number": "109/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MedititeSintoniaMentale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-110/236",
+            "name": "Medicham",
+            "number": "110/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/MedichamSintoniaMentale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-111/236",
+            "name": "Relicanth",
+            "number": "111/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/RelicanthSintoniaMentale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-112/236",
+            "name": "Gible",
+            "number": "112/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/GibleSintoniaMentale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-113/236",
+            "name": "Gabite",
+            "number": "113/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/GabiteSintoniaMentale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-114/236",
+            "name": "Garchomp",
+            "number": "114/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/GarchompSintoniaMentale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-115/236",
+            "name": "Riolu",
+            "number": "115/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/RioluSintoniaMentale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-116/236",
+            "name": "Riolu",
+            "number": "116/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/RioluSintoniaMentale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-117/236",
+            "name": "Lucario",
+            "number": "117/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/LucarioSintoniaMentale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-118/236",
+            "name": "Drilbur",
+            "number": "118/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/DrilburSintoniaMentale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-119/236",
+            "name": "Excadrill",
+            "number": "119/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/ExcadrillSintoniaMentale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-120/236",
+            "name": "Archen",
+            "number": "120/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ArchenSintoniaMentale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-121/236",
+            "name": "Archeops",
+            "number": "121/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ArcheopsSintoniaMentale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-122/236",
+            "name": "Terrakion",
+            "number": "122/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/TerrakionSintoniaMentale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-123/236",
+            "name": "Meloetta",
+            "number": "123/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MeloettaSintoniaMentale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-124/236",
+            "name": "Zygarde",
+            "number": "124/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ZygardeSintoniaMentale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-125/236",
+            "name": "Umbreon e Darkrai-GX",
+            "number": "125/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/UmbreoneDarkrai-GXSintoniaMentale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-126/236",
+            "name": "Mega Sableye e Tyranitar-GX",
+            "number": "126/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/MegaSableyeeTyranitar-GXSintoniaMentale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-127/236",
+            "name": "Grimer di Alola",
+            "number": "127/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/GrimerdiAlolaSintoniaMentale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-128/236",
+            "name": "Murkrow",
+            "number": "128/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MurkrowSintoniaMentale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-129/236",
+            "name": "Murkrow",
+            "number": "129/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MurkrowSintoniaMentale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-130/236",
+            "name": "Honchkrow",
+            "number": "130/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/HonchkrowSintoniaMentale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-131/236",
+            "name": "Sneasel",
+            "number": "131/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SneaselSintoniaMentale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-132/236",
+            "name": "Weavile-GX",
+            "number": "132/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Weavile-GXSintoniaMentale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-133/236",
+            "name": "Sableye",
+            "number": "133/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SableyeSintoniaMentale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-134/236",
+            "name": "Drapion",
+            "number": "134/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/DrapionSintoniaMentale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-135/236",
+            "name": "Purrloin",
+            "number": "135/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/PurrloinSintoniaMentale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-136/236",
+            "name": "Liepard",
+            "number": "136/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/LiepardSintoniaMentale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-137/236",
+            "name": "Scraggy",
+            "number": "137/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ScraggySintoniaMentale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-138/236",
+            "name": "Scrafty",
+            "number": "138/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/ScraftySintoniaMentale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-139/236",
+            "name": "Yveltal",
+            "number": "139/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/YveltalSintoniaMentale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-140/236",
+            "name": "Hoopa",
+            "number": "140/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/HoopaSintoniaMentale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-141/236",
+            "name": "Mawile-GX",
+            "number": "141/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Mawile-GXSintoniaMentale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-142/236",
+            "name": "Escavalier",
+            "number": "142/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/EscavalierSintoniaMentale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-143/236",
+            "name": "Cottonee",
+            "number": "143/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/CottoneeSintoniaMentale143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-144/236",
+            "name": "Whimsicott",
+            "number": "144/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/WhimsicottSintoniaMentale144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-145/236",
+            "name": "Dedenne",
+            "number": "145/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/DedenneSintoniaMentale145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-146/236",
+            "name": "Garchomp e Giratina-GX",
+            "number": "146/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/GarchompeGiratina-GXSintoniaMentale146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-147/236",
+            "name": "Dratini",
+            "number": "147/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/DratiniSintoniaMentale147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-148/236",
+            "name": "Dratini",
+            "number": "148/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/DratiniSintoniaMentale148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-149/236",
+            "name": "Dragonair",
+            "number": "149/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DragonairSintoniaMentale149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-150/236",
+            "name": "Dragonair",
+            "number": "150/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/DragonairSintoniaMentale150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-151/236",
+            "name": "Dragonite",
+            "number": "151/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/DragoniteSintoniaMentale151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-152/236",
+            "name": "Dragonite-GX",
+            "number": "152/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/Dragonite-GXSintoniaMentale152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-153/236",
+            "name": "Latias",
+            "number": "153/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/LatiasSintoniaMentale153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-154/236",
+            "name": "Axew",
+            "number": "154/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/AxewSintoniaMentale154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-155/236",
+            "name": "Fraxure",
+            "number": "155/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/FraxureSintoniaMentale155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-156/236",
+            "name": "Haxorus",
+            "number": "156/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/HaxorusSintoniaMentale156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-157/236",
+            "name": "Druddigon",
+            "number": "157/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/DruddigonSintoniaMentale157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-158/236",
+            "name": "Noibat",
+            "number": "158/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/NoibatSintoniaMentale158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-159/236",
+            "name": "Noivern",
+            "number": "159/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/NoivernSintoniaMentale159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-160/236",
+            "name": "Naganadel-GX",
+            "number": "160/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Naganadel-GXSintoniaMentale160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-161/236",
+            "name": "Lickitung",
+            "number": "161/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LickitungSintoniaMentale161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-162/236",
+            "name": "Lickilicky",
+            "number": "162/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/LickilickySintoniaMentale162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-163/236",
+            "name": "Kangaskhan",
+            "number": "163/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/KangaskhanSintoniaMentale163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-164/236",
+            "name": "Tauros",
+            "number": "164/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/TaurosSintoniaMentale164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-165/236",
+            "name": "Hoothoot",
+            "number": "165/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/HoothootSintoniaMentale165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-166/236",
+            "name": "Noctowl",
+            "number": "166/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/NoctowlSintoniaMentale166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-167/236",
+            "name": "Slakoth",
+            "number": "167/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/SlakothSintoniaMentale167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-168/236",
+            "name": "Slakoth",
+            "number": "168/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/SlakothSintoniaMentale168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-169/236",
+            "name": "Vigoroth",
+            "number": "169/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/VigorothSintoniaMentale169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-170/236",
+            "name": "Slaking",
+            "number": "170/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/SlakingSintoniaMentale170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-171/236",
+            "name": "Bidoof",
+            "number": "171/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/BidoofSintoniaMentale171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-172/236",
+            "name": "Bibarel",
+            "number": "172/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/BibarelSintoniaMentale172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-173/236",
+            "name": "Munchlax",
+            "number": "173/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MunchlaxSintoniaMentale173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-174/236",
+            "name": "Pidove",
+            "number": "174/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PidoveSintoniaMentale174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-175/236",
+            "name": "Tranquill",
+            "number": "175/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TranquillSintoniaMentale175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-176/236",
+            "name": "Unfezant",
+            "number": "176/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/UnfezantSintoniaMentale176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-177/236",
+            "name": "Audino",
+            "number": "177/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/AudinoSintoniaMentale177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-178/236",
+            "name": "Tornadus",
+            "number": "178/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/TornadusSintoniaMentale178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-179/236",
+            "name": "Fletchling",
+            "number": "179/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/FletchlingSintoniaMentale179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-180/236",
+            "name": "Yungoos",
+            "number": "180/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/YungoosSintoniaMentale180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-181/236",
+            "name": "Gumshoos",
+            "number": "181/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/GumshoosSintoniaMentale181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-182/236",
+            "name": "Oranguru",
+            "number": "182/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/OranguruSintoniaMentale182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-183/236",
+            "name": "Tipo Zero",
+            "number": "183/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/TipoZeroSintoniaMentale183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-184/236",
+            "name": "Silvally",
+            "number": "184/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/SilvallySintoniaMentale184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-185/236",
+            "name": "Komala",
+            "number": "185/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/KomalaSintoniaMentale185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-186/236",
+            "name": "Quiz di Blaine",
+            "number": "186/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/QuizdiBlaineSintoniaMentale186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-187/236",
+            "name": "Città Polare",
+            "number": "187/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Citt%C3%A0PolareSintoniaMentale187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-188/236",
+            "name": "Tattica di Blu",
+            "number": "188/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/TatticadiBluSintoniaMentale188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-189/236",
+            "name": "Pigliamosche",
+            "number": "189/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/PigliamoscheSintoniaMentale189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-190/236",
+            "name": "Medium",
+            "number": "190/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MediumSintoniaMentale190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-191/236",
+            "name": "Pregio Ball",
+            "number": "191/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/PregioBallSintoniaMentale191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-192/236",
+            "name": "Coach",
+            "number": "192/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CoachSintoniaMentale192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-193/236",
+            "name": "Città Oscura",
+            "number": "193/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Citt%C3%A0OscuraSintoniaMentale193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-194/236",
+            "name": "Campana Assordante",
+            "number": "194/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/CampanaAssordanteSintoniaMentale194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-195/236",
+            "name": "Volantium Z: Eterelama",
+            "number": "195/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/VolantiumZEterelamaSintoniaMentale195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-196/236",
+            "name": "Bomba Gigante",
+            "number": "196/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/BombaGiganteSintoniaMentale196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-197/236",
+            "name": "Focolare Gigante",
+            "number": "197/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/FocolareGiganteSintoniaMentale197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-198/236",
+            "name": "Gran Pozione",
+            "number": "198/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/GranPozioneSintoniaMentale198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-199/236",
+            "name": "Mirton",
+            "number": "199/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MirtonSintoniaMentale199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-200/236",
+            "name": "Hapi",
+            "number": "200/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/HapiSintoniaMentale200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-201/236",
+            "name": "Cintura da Karate",
+            "number": "201/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CinturadaKarateSintoniaMentale201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-202/236",
+            "name": "Cortesia di Misty",
+            "number": "202/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/CortesiadiMistySintoniaMentale202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-203/236",
+            "name": "Normium Z: Azione",
+            "number": "203/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/NormiumZAzioneSintoniaMentale203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-204/236",
+            "name": "Pokéfanatico",
+            "number": "204/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Pok%C3%A9fanaticoSintoniaMentale204.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-205/236",
+            "name": "Laboratorio Pokémon",
+            "number": "205/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LaboratorioPok%C3%A9monSintoniaMentale205.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-206/236",
+            "name": "Timbro Reset",
+            "number": "206/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/TimbroResetSintoniaMentale206.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-207/236",
+            "name": "Foresta Sonnecchiosa",
+            "number": "207/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/ForestaSonnecchiosaSintoniaMentale207.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-208/236",
+            "name": "Navigatore Stadio",
+            "number": "208/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/NavigatoreStadioSintoniaMentale208.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-209/236",
+            "name": "Scambio Alleato",
+            "number": "209/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ScambioAlleatoSintoniaMentale209.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-210/236",
+            "name": "Fossile Sconosciuto",
+            "number": "210/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/FossileSconosciutoSintoniaMentale210.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-211/236",
+            "name": "Tavola da Inversione",
+            "number": "211/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/TavoladaInversioneSintoniaMentale211.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-212/236",
+            "name": "Energia Riciclo",
+            "number": "212/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/EnergiaRicicloSintoniaMentale212.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-213/236",
+            "name": "Energia Blocco Debolezza",
+            "number": "213/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/EnergiaBloccoDebolezzaSintoniaMentale213.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-214/236",
+            "name": "Rowlet e Exeggutor di Alola-GX",
+            "number": "214/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/RowleteExeggutordiAlola-GXSintoniaMentale214.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-215/236",
+            "name": "Rowlet e Exeggutor di Alola-GX",
+            "number": "215/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/RowleteExeggutordiAlola-GXSintoniaMentale215.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-216/236",
+            "name": "Heatran-GX",
+            "number": "216/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Heatran-GXSintoniaMentale216.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-217/236",
+            "name": "Slowpoke e Psyduck-GX",
+            "number": "217/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/SlowpokeePsyduck-GXSintoniaMentale217.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-218/236",
+            "name": "Slowpoke e Psyduck-GX",
+            "number": "218/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/SlowpokeePsyduck-GXSintoniaMentale218.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-219/236",
+            "name": "Keldeo-GX",
+            "number": "219/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Keldeo-GXSintoniaMentale219.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-220/236",
+            "name": "Raichu e Raichu di Alola-GX",
+            "number": "220/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/RaichueRaichudiAlola-GXSintoniaMentale220.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-221/236",
+            "name": "Raichu e Raichu di Alola-GX",
+            "number": "221/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/RaichueRaichudiAlola-GXSintoniaMentale221.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-222/236",
+            "name": "Mewtwo e Mew-GX",
+            "number": "222/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/MewtwoeMew-GXSintoniaMentale222.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-223/236",
+            "name": "Latios-GX",
+            "number": "223/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Latios-GXSintoniaMentale223.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-224/236",
+            "name": "Aerodactyl-GX",
+            "number": "224/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Aerodactyl-GXSintoniaMentale224.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-225/236",
+            "name": "Mega Sableye e Tyranitar-GX",
+            "number": "225/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MegaSableyeeTyranitar-GXSintoniaMentale225.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-226/236",
+            "name": "Mega Sableye e Tyranitar-GX",
+            "number": "226/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/MegaSableyeeTyranitar-GXSintoniaMentale226.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-227/236",
+            "name": "Mawile-GX",
+            "number": "227/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Mawile-GXSintoniaMentale227.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-228/236",
+            "name": "Garchomp e Giratina-GX",
+            "number": "228/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/GarchompeGiratina-GXSintoniaMentale228.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-229/236",
+            "name": "Dragonite-GX",
+            "number": "229/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/Dragonite-GXSintoniaMentale229.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-230/236",
+            "name": "Naganadel-GX",
+            "number": "230/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/Naganadel-GXSintoniaMentale230.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-231/236",
+            "name": "Tattica di Blu",
+            "number": "231/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/TatticadiBluSintoniaMentale231.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-232/236",
+            "name": "Medium",
+            "number": "232/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/MediumSintoniaMentale232.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-233/236",
+            "name": "Coach",
+            "number": "233/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/CoachSintoniaMentale233.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-234/236",
+            "name": "Mirton",
+            "number": "234/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MirtonSintoniaMentale234.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-235/236",
+            "name": "Cortesia di Misty",
+            "number": "235/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/CortesiadiMistySintoniaMentale235.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-236/236",
+            "name": "Pokéfanatico",
+            "number": "236/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/Pok%C3%A9fanaticoSintoniaMentale236.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UNM-237/236",
+            "name": "Rowlet e Exeggutor di Alola-GX",
+            "number": "237/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/RowleteExeggutordiAlola-GXSintoniaMentale237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-238/236",
+            "name": "Heatran-GX",
+            "number": "238/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Heatran-GXSintoniaMentale238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-239/236",
+            "name": "Slowpoke e Psyduck-GX",
+            "number": "239/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/SlowpokeePsyduck-GXSintoniaMentale239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-240/236",
+            "name": "Keldeo-GX",
+            "number": "240/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/Keldeo-GXSintoniaMentale240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-241/236",
+            "name": "Raichu e Raichu di Alola-GX",
+            "number": "241/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/RaichueRaichudiAlola-GXSintoniaMentale241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-242/236",
+            "name": "Mewtwo e Mew-GX",
+            "number": "242/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MewtwoeMew-GXSintoniaMentale242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-243/236",
+            "name": "Latios-GX",
+            "number": "243/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Latios-GXSintoniaMentale243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-244/236",
+            "name": "Aerodactyl-GX",
+            "number": "244/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Aerodactyl-GXSintoniaMentale244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-245/236",
+            "name": "Mega Sableye e Tyranitar-GX",
+            "number": "245/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MegaSableyeeTyranitar-GXSintoniaMentale245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-246/236",
+            "name": "Mawile-GX",
+            "number": "246/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Mawile-GXSintoniaMentale246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-247/236",
+            "name": "Garchomp e Giratina-GX",
+            "number": "247/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/GarchompeGiratina-GXSintoniaMentale247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-248/236",
+            "name": "Dragonite-GX",
+            "number": "248/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Dragonite-GXSintoniaMentale248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-249/236",
+            "name": "Naganadel-GX",
+            "number": "249/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Naganadel-GXSintoniaMentale249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-250/236",
+            "name": "Pregio Ball",
+            "number": "250/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/PregioBallSintoniaMentale250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-251/236",
+            "name": "Bomba Gigante",
+            "number": "251/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/BombaGiganteSintoniaMentale251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-252/236",
+            "name": "Cintura da Karate",
+            "number": "252/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/CinturadaKarateSintoniaMentale252.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-253/236",
+            "name": "Timbro Reset",
+            "number": "253/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/TimbroResetSintoniaMentale253.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-254/236",
+            "name": "Scambio Alleato",
+            "number": "254/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ScambioAlleatoSintoniaMentale254.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-255/236",
+            "name": "Tavola da Inversione",
+            "number": "255/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/TavoladaInversioneSintoniaMentale255.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-256/236",
+            "name": "Bosco Smeraldo",
+            "number": "256/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/BoscoSmeraldoSintoniaMentale256.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-257/236",
+            "name": "Energia Riciclo",
+            "number": "257/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/EnergiaRicicloSintoniaMentale257.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-258/236",
+            "name": "Energia Blocco Debolezza",
+            "number": "258/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/EnergiaBloccoDebolezzaSintoniaMentale258.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "UNM-79a/236",
+            "name": "Jirachi-GX",
+            "number": "79a/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/Jirachi-GXSintoniaMentale79a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UNM-191a/236",
+            "name": "Pregio Ball",
+            "number": "191a/236",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "UNM-206a/236",
+            "name": "Timbro Reset",
+            "number": "206a/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/TimbroResetSintoniaMentale206a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

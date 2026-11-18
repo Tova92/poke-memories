@@ -1,0 +1,1885 @@
+{
+    "expansion": {
+        "id": "PAR",
+        "name": "Scarlatto e Violetto - Paradosso Temporale",
+        "year": 2023,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/54/SimboloSetParadosso_Temporale.png",
+        "cardCount": 266
+    },
+    "cards": [
+        {
+            "id": "PAR-001/182",
+            "name": "Surskit",
+            "number": "001/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SurskitParadossoTemporale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-002/182",
+            "name": "Masquerain",
+            "number": "002/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MasquerainParadossoTemporale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-003/182",
+            "name": "Froslass-ex",
+            "number": "003/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Froslass-exParadossoTemporale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-004/182",
+            "name": "Pansage",
+            "number": "004/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PansageParadossoTemporale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-005/182",
+            "name": "Simisage",
+            "number": "005/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/SimisageParadossoTemporale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-006/182",
+            "name": "Dwebble",
+            "number": "006/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/DwebbleParadossoTemporale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-007/182",
+            "name": "Crustle",
+            "number": "007/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CrustleParadossoTemporale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-008/182",
+            "name": "Bounsweet",
+            "number": "008/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/BounsweetParadossoTemporale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-009/182",
+            "name": "Steenee",
+            "number": "009/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SteeneeParadossoTemporale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-010/182",
+            "name": "Blipbug",
+            "number": "010/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/BlipbugParadossoTemporale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-011/182",
+            "name": "Dottler",
+            "number": "011/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/DottlerParadossoTemporale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-012/182",
+            "name": "Orbeetle",
+            "number": "012/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/OrbeetleParadossoTemporale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-013/182",
+            "name": "Nymble",
+            "number": "013/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/NymbleParadossoTemporale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-014/182",
+            "name": "Nymble",
+            "number": "014/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/NymbleParadossoTemporale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-015/182",
+            "name": "Toedscool",
+            "number": "015/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/ToedscoolParadossoTemporale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-016/182",
+            "name": "Toedscool",
+            "number": "016/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/ToedscoolParadossoTemporale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-017/182",
+            "name": "Toedscruel",
+            "number": "017/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/ToedscruelParadossoTemporale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-018/182",
+            "name": "Wo-Chien",
+            "number": "018/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Wo-ChienParadossoTemporale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-019/182",
+            "name": "Magby",
+            "number": "019/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/MagbyParadossoTemporale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-020/182",
+            "name": "Pansear",
+            "number": "020/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/PansearParadossoTemporale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-021/182",
+            "name": "Simisear",
+            "number": "021/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/SimisearParadossoTemporale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-022/182",
+            "name": "Volcanion",
+            "number": "022/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/VolcanionParadossoTemporale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-023/182",
+            "name": "Fuecoco",
+            "number": "023/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/FuecocoParadossoTemporale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-024/182",
+            "name": "Crocalor",
+            "number": "024/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/CrocalorParadossoTemporale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-025/182",
+            "name": "Charcadet",
+            "number": "025/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/CharcadetParadossoTemporale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-026/182",
+            "name": "Charcadet",
+            "number": "026/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/CharcadetParadossoTemporale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-027/182",
+            "name": "Armarouge-ex",
+            "number": "027/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Armarouge-exParadossoTemporale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-028/182",
+            "name": "Falenaferrea",
+            "number": "028/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/FalenaferreaParadossoTemporale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-029/182",
+            "name": "Chi-Yu",
+            "number": "029/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Chi-YuParadossoTemporale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-030/182",
+            "name": "Horsea",
+            "number": "030/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/HorseaParadossoTemporale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-031/182",
+            "name": "Seadra",
+            "number": "031/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/SeadraParadossoTemporale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-032/182",
+            "name": "Kingdra",
+            "number": "032/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/KingdraParadossoTemporale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-033/182",
+            "name": "Remoraid",
+            "number": "033/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/RemoraidParadossoTemporale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-034/182",
+            "name": "Octillery",
+            "number": "034/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/OctilleryParadossoTemporale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-035/182",
+            "name": "Feebas",
+            "number": "035/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/FeebasParadossoTemporale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-036/182",
+            "name": "Milotic",
+            "number": "036/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MiloticParadossoTemporale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-037/182",
+            "name": "Snorunt",
+            "number": "037/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/SnoruntParadossoTemporale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-038/182",
+            "name": "Garchomp-ex",
+            "number": "038/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Garchomp-exParadossoTemporale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-039/182",
+            "name": "Mantyke",
+            "number": "039/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MantykeParadossoTemporale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-040/182",
+            "name": "Palkia",
+            "number": "040/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/PalkiaParadossoTemporale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-041/182",
+            "name": "Panpour",
+            "number": "041/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/PanpourParadossoTemporale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-042/182",
+            "name": "Simipour",
+            "number": "042/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/SimipourParadossoTemporale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-043/182",
+            "name": "Vanillite",
+            "number": "043/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/VanilliteParadossoTemporale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-044/182",
+            "name": "Vanillish",
+            "number": "044/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/VanillishParadossoTemporale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-045/182",
+            "name": "Vanilluxe",
+            "number": "045/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/VanilluxeParadossoTemporale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-046/182",
+            "name": "Tsareena-ex",
+            "number": "046/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Tsareena-exParadossoTemporale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-047/182",
+            "name": "Wimpod",
+            "number": "047/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/WimpodParadossoTemporale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-048/182",
+            "name": "Wimpod",
+            "number": "048/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/WimpodParadossoTemporale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-049/182",
+            "name": "Golisopod",
+            "number": "049/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/GolisopodParadossoTemporale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-050/182",
+            "name": "Golisopod-ex",
+            "number": "050/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Golisopod-exParadossoTemporale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-051/182",
+            "name": "Wiglett",
+            "number": "051/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/WiglettParadossoTemporale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-052/182",
+            "name": "Wiglett",
+            "number": "052/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/WiglettParadossoTemporale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-053/182",
+            "name": "Wugtrio",
+            "number": "053/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/WugtrioParadossoTemporale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-054/182",
+            "name": "Veluza",
+            "number": "054/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/VeluzaParadossoTemporale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-055/182",
+            "name": "Dondozo",
+            "number": "055/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/DondozoParadossoTemporale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-056/182",
+            "name": "Saccoferreo",
+            "number": "056/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/SaccoferreoParadossoTemporale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-057/182",
+            "name": "Chien-Pao",
+            "number": "057/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Chien-PaoParadossoTemporale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-058/182",
+            "name": "Mewtwo-ex",
+            "number": "058/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Mewtwo-exParadossoTemporale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-059/182",
+            "name": "Elekid",
+            "number": "059/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ElekidParadossoTemporale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-060/182",
+            "name": "Plusle",
+            "number": "060/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/PlusleParadossoTemporale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-061/182",
+            "name": "Minun",
+            "number": "061/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MinunParadossoTemporale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-062/182",
+            "name": "Blitzle",
+            "number": "062/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/BlitzleParadossoTemporale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-063/182",
+            "name": "Zebstrika",
+            "number": "063/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ZebstrikaParadossoTemporale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-064/182",
+            "name": "Joltik",
+            "number": "064/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/JoltikParadossoTemporale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-065/182",
+            "name": "Galvantula",
+            "number": "065/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/GalvantulaParadossoTemporale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-066/182",
+            "name": "Zekrom",
+            "number": "066/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/ZekromParadossoTemporale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-067/182",
+            "name": "Oricorio",
+            "number": "067/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/OricorioParadossoTemporale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-068/182",
+            "name": "Tapu Koko-ex",
+            "number": "068/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/TapuKoko-exParadossoTemporale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-069/182",
+            "name": "Toxel",
+            "number": "069/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ToxelParadossoTemporale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-070/182",
+            "name": "Manoferrea-ex",
+            "number": "070/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Manoferrea-exParadossoTemporale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-071/182",
+            "name": "Natu",
+            "number": "071/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/NatuParadossoTemporale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-072/182",
+            "name": "Xatu",
+            "number": "072/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/XatuParadossoTemporale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-073/182",
+            "name": "Latios",
+            "number": "073/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/LatiosParadossoTemporale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-074/182",
+            "name": "Deoxys",
+            "number": "074/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/DeoxysParadossoTemporale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-075/182",
+            "name": "Yamask",
+            "number": "075/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/YamaskParadossoTemporale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-076/182",
+            "name": "Cofagrigus-ex",
+            "number": "076/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Cofagrigus-exParadossoTemporale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-077/182",
+            "name": "Pumpkaboo",
+            "number": "077/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/PumpkabooParadossoTemporale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-078/182",
+            "name": "Gourgeist",
+            "number": "078/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/GourgeistParadossoTemporale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-079/182",
+            "name": "Flittle",
+            "number": "079/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/FlittleParadossoTemporale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-080/182",
+            "name": "Flittle",
+            "number": "080/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/FlittleParadossoTemporale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-081/182",
+            "name": "Espathra",
+            "number": "081/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/EspathraParadossoTemporale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-082/182",
+            "name": "Tinkatink",
+            "number": "082/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/TinkatinkParadossoTemporale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-083/182",
+            "name": "Tinkatink",
+            "number": "083/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/TinkatinkParadossoTemporale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-084/182",
+            "name": "Tinkatuff",
+            "number": "084/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/TinkatuffParadossoTemporale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-085/182",
+            "name": "Tinkaton",
+            "number": "085/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/TinkatonParadossoTemporale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-086/182",
+            "name": "Codaurlante",
+            "number": "086/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/CodaurlanteParadossoTemporale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-087/182",
+            "name": "Gimmighoul",
+            "number": "087/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/GimmighoulParadossoTemporale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-088/182",
+            "name": "Gimmighoul",
+            "number": "088/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/GimmighoulParadossoTemporale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-089/182",
+            "name": "Eroeferreo-ex",
+            "number": "089/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Eroeferreo-exParadossoTemporale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-090/182",
+            "name": "Onix",
+            "number": "090/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/OnixParadossoTemporale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-091/182",
+            "name": "Gligar",
+            "number": "091/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/GligarParadossoTemporale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-092/182",
+            "name": "Gliscor",
+            "number": "092/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/GliscorParadossoTemporale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-093/182",
+            "name": "Groudon",
+            "number": "093/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/GroudonParadossoTemporale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-094/182",
+            "name": "Gible",
+            "number": "094/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/GibleParadossoTemporale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-095/182",
+            "name": "Gabite",
+            "number": "095/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GabiteParadossoTemporale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-096/182",
+            "name": "Mienfoo",
+            "number": "096/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MienfooParadossoTemporale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-097/182",
+            "name": "Mienshao",
+            "number": "097/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MienshaoParadossoTemporale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-098/182",
+            "name": "Hoopa-ex",
+            "number": "098/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Hoopa-exParadossoTemporale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-099/182",
+            "name": "Minior",
+            "number": "099/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/MiniorParadossoTemporale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-100/182",
+            "name": "Toxtricity-ex",
+            "number": "100/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Toxtricity-exParadossoTemporale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-101/182",
+            "name": "Nacli",
+            "number": "101/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/NacliParadossoTemporale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-102/182",
+            "name": "Nacli",
+            "number": "102/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/NacliParadossoTemporale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-103/182",
+            "name": "Naclstack",
+            "number": "103/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/NaclstackParadossoTemporale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-104/182",
+            "name": "Garganacl",
+            "number": "104/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/GarganaclParadossoTemporale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-105/182",
+            "name": "Klawf",
+            "number": "105/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/KlawfParadossoTemporale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-106/182",
+            "name": "Flamigo",
+            "number": "106/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/FlamigoParadossoTemporale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-107/182",
+            "name": "Alirasenti",
+            "number": "107/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/AlirasentiParadossoTemporale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-108/182",
+            "name": "Peldisabbia-ex",
+            "number": "108/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Peldisabbia-exParadossoTemporale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-109/182",
+            "name": "Ting-Lu",
+            "number": "109/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/Ting-LuParadossoTemporale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-110/182",
+            "name": "Zubat",
+            "number": "110/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ZubatParadossoTemporale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-111/182",
+            "name": "Golbat",
+            "number": "111/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/GolbatParadossoTemporale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-112/182",
+            "name": "Crobat",
+            "number": "112/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/CrobatParadossoTemporale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-113/182",
+            "name": "Absol",
+            "number": "113/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/AbsolParadossoTemporale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-114/182",
+            "name": "Purrloin",
+            "number": "114/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/PurrloinParadossoTemporale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-115/182",
+            "name": "Liepard",
+            "number": "115/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/LiepardParadossoTemporale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-116/182",
+            "name": "Trubbish",
+            "number": "116/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/TrubbishParadossoTemporale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-117/182",
+            "name": "Garbodor",
+            "number": "117/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/GarbodorParadossoTemporale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-118/182",
+            "name": "Yveltal",
+            "number": "118/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/YveltalParadossoTemporale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-119/182",
+            "name": "Nickit",
+            "number": "119/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/NickitParadossoTemporale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-120/182",
+            "name": "Thievul",
+            "number": "120/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ThievulParadossoTemporale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-121/182",
+            "name": "Morpeko",
+            "number": "121/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/MorpekoParadossoTemporale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-122/182",
+            "name": "Lokix",
+            "number": "122/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LokixParadossoTemporale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-123/182",
+            "name": "Fungofurioso",
+            "number": "123/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/FungofuriosoParadossoTemporale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-124/182",
+            "name": "Lunaruggente-ex",
+            "number": "124/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Lunaruggente-exParadossoTemporale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-125/182",
+            "name": "Steelix",
+            "number": "125/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SteelixParadossoTemporale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-126/182",
+            "name": "Jirachi",
+            "number": "126/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/JirachiParadossoTemporale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-127/182",
+            "name": "Ferroseed",
+            "number": "127/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/FerroseedParadossoTemporale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-128/182",
+            "name": "Ferrothorn",
+            "number": "128/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/FerrothornParadossoTemporale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-129/182",
+            "name": "Durant",
+            "number": "129/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/DurantParadossoTemporale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-130/182",
+            "name": "Honedge",
+            "number": "130/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/HonedgeParadossoTemporale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-131/182",
+            "name": "Honedge",
+            "number": "131/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/HonedgeParadossoTemporale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-132/182",
+            "name": "Doublade",
+            "number": "132/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/DoubladeParadossoTemporale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-133/182",
+            "name": "Doublade",
+            "number": "133/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/DoubladeParadossoTemporale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-134/182",
+            "name": "Aegislash",
+            "number": "134/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/AegislashParadossoTemporale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-135/182",
+            "name": "Aegislash-ex",
+            "number": "135/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Aegislash-exParadossoTemporale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-136/182",
+            "name": "Zacian",
+            "number": "136/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ZacianParadossoTemporale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-137/182",
+            "name": "Skeledirge-ex",
+            "number": "137/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/Skeledirge-exParadossoTemporale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-138/182",
+            "name": "Orthworm",
+            "number": "138/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/OrthwormParadossoTemporale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-139/182",
+            "name": "Gholdengo-ex",
+            "number": "139/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Gholdengo-exParadossoTemporale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-140/182",
+            "name": "Altaria-ex",
+            "number": "140/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Altaria-exParadossoTemporale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-141/182",
+            "name": "Tatsugiri",
+            "number": "141/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/TatsugiriParadossoTemporale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-142/182",
+            "name": "Porygon",
+            "number": "142/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/PorygonParadossoTemporale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-143/182",
+            "name": "Porygon2",
+            "number": "143/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Porygon2ParadossoTemporale143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-144/182",
+            "name": "Porygon-Z",
+            "number": "144/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Porygon-ZParadossoTemporale144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-145/182",
+            "name": "Aipom",
+            "number": "145/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/AipomParadossoTemporale145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-146/182",
+            "name": "Ambipom",
+            "number": "146/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/AmbipomParadossoTemporale146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-147/182",
+            "name": "Miltank",
+            "number": "147/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MiltankParadossoTemporale147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-148/182",
+            "name": "Whismur",
+            "number": "148/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/WhismurParadossoTemporale148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-149/182",
+            "name": "Loudred",
+            "number": "149/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/LoudredParadossoTemporale149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-150/182",
+            "name": "Exploud",
+            "number": "150/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ExploudParadossoTemporale150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-151/182",
+            "name": "Spinda",
+            "number": "151/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SpindaParadossoTemporale151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-152/182",
+            "name": "Swablu",
+            "number": "152/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SwabluParadossoTemporale152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-153/182",
+            "name": "Tandemaus",
+            "number": "153/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/TandemausParadossoTemporale153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-154/182",
+            "name": "Tandemaus",
+            "number": "154/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/TandemausParadossoTemporale154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-155/182",
+            "name": "Maushold-ex",
+            "number": "155/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Maushold-exParadossoTemporale155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-156/182",
+            "name": "Bombirdier-ex",
+            "number": "156/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Bombirdier-exParadossoTemporale156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-157/182",
+            "name": "Cyclizar",
+            "number": "157/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CyclizarParadossoTemporale157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-158/182",
+            "name": "Colloferreo",
+            "number": "158/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/ColloferreoParadossoTemporale158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-159/182",
+            "name": "Capsula energetica Tempo Passato",
+            "number": "159/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/CapsulaenergeticaTempoPassatoParadossoTemporale159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-160/182",
+            "name": "Contracchiappa-Pokémon",
+            "number": "160/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Contracchiappa-Pok%C3%A9monParadossoTemporale160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-161/182",
+            "name": "Spolverino Maledetto",
+            "number": "161/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SpolverinoMaledettoParadossoTemporale161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-162/182",
+            "name": "Corpettosfida",
+            "number": "162/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/CorpettosfidaParadossoTemporale162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-163/182",
+            "name": "Anfora Terrestre",
+            "number": "163/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/AnforaTerrestreParadossoTemporale163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-164/182",
+            "name": "Capsula energetica Tempo Futuro",
+            "number": "164/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CapsulaenergeticaTempoFuturoParadossoTemporale164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-165/182",
+            "name": "Ubaldo",
+            "number": "165/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/UbaldoParadossoTemporale165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-166/182",
+            "name": "Mantello Sfarzoso",
+            "number": "166/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/MantelloSfarzosoParadossoTemporale166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-167/182",
+            "name": "Pruna",
+            "number": "167/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/PrunaParadossoTemporale167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-168/182",
+            "name": "Norman",
+            "number": "168/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/NormanParadossoTemporale168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-169/182",
+            "name": "Ombrellina",
+            "number": "169/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/OmbrellinaParadossoTemporale169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-170/182",
+            "name": "Vitalità della Professoressa Olim",
+            "number": "170/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Vitalit%C3%A0dellaProfessoressaOlimParadossoTemporale170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-171/182",
+            "name": "Scenario del Professor Turum",
+            "number": "171/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/ScenariodelProfessorTurumParadossoTemporale171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-172/182",
+            "name": "Capsi",
+            "number": "172/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/CapsiParadossoTemporale172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-173/182",
+            "name": "Pedro",
+            "number": "173/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/PedroParadossoTemporale173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-174/182",
+            "name": "Antemia",
+            "number": "174/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/AntemiaParadossoTemporale174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-175/182",
+            "name": "Bambola Snorlax",
+            "number": "175/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/BambolaSnorlaxParadossoTemporale175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-176/182",
+            "name": "Macchinario Tecnico: Spiazzare",
+            "number": "176/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MacchinarioTecnicoSpiazzareParadossoTemporale176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-177/182",
+            "name": "Macchinario Tecnico: Involuzione",
+            "number": "177/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/MacchinarioTecnicoInvoluzioneParadossoTemporale177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-178/182",
+            "name": "Macchinario Tecnico: Evoluzione",
+            "number": "178/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/MacchinarioTecnicoEvoluzioneParadossoTemporale178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-179/182",
+            "name": "Macchinario Tecnico: Turboenergia",
+            "number": "179/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/MacchinarioTecnicoTurboenergiaParadossoTemporale179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-180/182",
+            "name": "Tecnoradar",
+            "number": "180/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/TecnoradarParadossoTemporale180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-181/182",
+            "name": "Tulipa",
+            "number": "181/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/TulipaParadossoTemporale181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-182/182",
+            "name": "Energia Medica",
+            "number": "182/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/EnergiaMedicaParadossoTemporale182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAR-183/182",
+            "name": "Crustle",
+            "number": "183/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/CrustleParadossoTemporale183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-184/182",
+            "name": "Dottler",
+            "number": "184/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/DottlerParadossoTemporale184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-185/182",
+            "name": "Toedscruel",
+            "number": "185/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ToedscruelParadossoTemporale185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-186/182",
+            "name": "Magby",
+            "number": "186/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/MagbyParadossoTemporale186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-187/182",
+            "name": "Falenaferrea",
+            "number": "187/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/FalenaferreaParadossoTemporale187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-188/182",
+            "name": "Snorunt",
+            "number": "188/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SnoruntParadossoTemporale188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-189/182",
+            "name": "Mantyke",
+            "number": "189/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/MantykeParadossoTemporale189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-190/182",
+            "name": "Vanillish",
+            "number": "190/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/VanillishParadossoTemporale190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-191/182",
+            "name": "Wimpod",
+            "number": "191/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/WimpodParadossoTemporale191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-192/182",
+            "name": "Veluza",
+            "number": "192/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/VeluzaParadossoTemporale192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-193/182",
+            "name": "Plusle",
+            "number": "193/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/PlusleParadossoTemporale193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-194/182",
+            "name": "Minun",
+            "number": "194/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MinunParadossoTemporale194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-195/182",
+            "name": "Blitzle",
+            "number": "195/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/BlitzleParadossoTemporale195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-196/182",
+            "name": "Joltik",
+            "number": "196/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/JoltikParadossoTemporale196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-197/182",
+            "name": "Espathra",
+            "number": "197/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/EspathraParadossoTemporale197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-198/182",
+            "name": "Gimmighoul",
+            "number": "198/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/GimmighoulParadossoTemporale198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-199/182",
+            "name": "Groudon",
+            "number": "199/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/GroudonParadossoTemporale199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-200/182",
+            "name": "Mienshao",
+            "number": "200/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MienshaoParadossoTemporale200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-201/182",
+            "name": "Minior",
+            "number": "201/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MiniorParadossoTemporale201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-202/182",
+            "name": "Garganacl",
+            "number": "202/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/GarganaclParadossoTemporale202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-203/182",
+            "name": "Alirasenti",
+            "number": "203/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/AlirasentiParadossoTemporale203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-204/182",
+            "name": "Garbodor",
+            "number": "204/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/GarbodorParadossoTemporale204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-205/182",
+            "name": "Yveltal",
+            "number": "205/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/YveltalParadossoTemporale205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-206/182",
+            "name": "Morpeko",
+            "number": "206/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MorpekoParadossoTemporale206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-207/182",
+            "name": "Fungofurioso",
+            "number": "207/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/FungofuriosoParadossoTemporale207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-208/182",
+            "name": "Steelix",
+            "number": "208/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SteelixParadossoTemporale208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-209/182",
+            "name": "Ferrothorn",
+            "number": "209/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/FerrothornParadossoTemporale209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-210/182",
+            "name": "Aegislash",
+            "number": "210/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/AegislashParadossoTemporale210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-211/182",
+            "name": "Aipom",
+            "number": "211/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/AipomParadossoTemporale211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-212/182",
+            "name": "Loudred",
+            "number": "212/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/LoudredParadossoTemporale212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-213/182",
+            "name": "Swablu",
+            "number": "213/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/SwabluParadossoTemporale213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-214/182",
+            "name": "Porygon-Z",
+            "number": "214/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Porygon-ZParadossoTemporale214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-215/182",
+            "name": "Cyclizar",
+            "number": "215/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CyclizarParadossoTemporale215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-216/182",
+            "name": "Colloferreo",
+            "number": "216/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/ColloferreoParadossoTemporale216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-217/182",
+            "name": "Froslass-ex",
+            "number": "217/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Froslass-exParadossoTemporale217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-218/182",
+            "name": "Armarouge-ex",
+            "number": "218/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Armarouge-exParadossoTemporale218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-219/182",
+            "name": "Garchomp-ex",
+            "number": "219/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Garchomp-exParadossoTemporale219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-220/182",
+            "name": "Tsareena-ex",
+            "number": "220/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Tsareena-exParadossoTemporale220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-221/182",
+            "name": "Golisopod-ex",
+            "number": "221/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Golisopod-exParadossoTemporale221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-222/182",
+            "name": "Tapu Koko-ex",
+            "number": "222/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/TapuKoko-exParadossoTemporale222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-223/182",
+            "name": "Manoferrea-ex",
+            "number": "223/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Manoferrea-exParadossoTemporale223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-224/182",
+            "name": "Cofagrigus-ex",
+            "number": "224/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Cofagrigus-exParadossoTemporale224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-225/182",
+            "name": "Eroeferreo-ex",
+            "number": "225/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Eroeferreo-exParadossoTemporale225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-226/182",
+            "name": "Hoopa-ex",
+            "number": "226/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Hoopa-exParadossoTemporale226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-227/182",
+            "name": "Toxtricity-ex",
+            "number": "227/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Toxtricity-exParadossoTemporale227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-228/182",
+            "name": "Peldisabbia-ex",
+            "number": "228/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Peldisabbia-exParadossoTemporale228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-229/182",
+            "name": "Lunaruggente-ex",
+            "number": "229/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Lunaruggente-exParadossoTemporale229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-230/182",
+            "name": "Aegislash-ex",
+            "number": "230/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/Aegislash-exParadossoTemporale230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-231/182",
+            "name": "Gholdengo-ex",
+            "number": "231/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Gholdengo-exParadossoTemporale231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-232/182",
+            "name": "Altaria-ex",
+            "number": "232/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/Altaria-exParadossoTemporale232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-233/182",
+            "name": "Maushold-ex",
+            "number": "233/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Maushold-exParadossoTemporale233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-234/182",
+            "name": "Bombirdier-ex",
+            "number": "234/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Bombirdier-exParadossoTemporale234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-235/182",
+            "name": "Ubaldo",
+            "number": "235/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/UbaldoParadossoTemporale235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-236/182",
+            "name": "Pruna",
+            "number": "236/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/PrunaParadossoTemporale236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-237/182",
+            "name": "Norman",
+            "number": "237/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/NormanParadossoTemporale237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-238/182",
+            "name": "Ombrellina",
+            "number": "238/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/OmbrellinaParadossoTemporale238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-239/182",
+            "name": "Vitalità della Professoressa Olim",
+            "number": "239/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Vitalit%C3%A0dellaProfessoressaOlimParadossoTemporale239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-240/182",
+            "name": "Scenario del Professor Turum",
+            "number": "240/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ScenariodelProfessorTurumParadossoTemporale240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-241/182",
+            "name": "Capsi",
+            "number": "241/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CapsiParadossoTemporale241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-242/182",
+            "name": "Pedro",
+            "number": "242/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/PedroParadossoTemporale242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-243/182",
+            "name": "Antemia",
+            "number": "243/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/AntemiaParadossoTemporale243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-244/182",
+            "name": "Tulipa",
+            "number": "244/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/TulipaParadossoTemporale244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-245/182",
+            "name": "Garchomp-ex",
+            "number": "245/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Garchomp-exParadossoTemporale245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-246/182",
+            "name": "Golisopod-ex",
+            "number": "246/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/Golisopod-exParadossoTemporale246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-247/182",
+            "name": "Tapu Koko-ex",
+            "number": "247/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/TapuKoko-exParadossoTemporale247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-248/182",
+            "name": "Manoferrea-ex",
+            "number": "248/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Manoferrea-exParadossoTemporale248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-249/182",
+            "name": "Eroeferreo-ex",
+            "number": "249/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Eroeferreo-exParadossoTemporale249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-250/182",
+            "name": "Peldisabbia-ex",
+            "number": "250/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Peldisabbia-exParadossoTemporale250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-251/182",
+            "name": "Lunaruggente-ex",
+            "number": "251/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Lunaruggente-exParadossoTemporale251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-252/182",
+            "name": "Gholdengo-ex",
+            "number": "252/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Gholdengo-exParadossoTemporale252.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-253/182",
+            "name": "Altaria-ex",
+            "number": "253/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Altaria-exParadossoTemporale253.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-254/182",
+            "name": "Pruna",
+            "number": "254/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/PrunaParadossoTemporale254.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-255/182",
+            "name": "Ombrellina",
+            "number": "255/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/OmbrellinaParadossoTemporale255.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-256/182",
+            "name": "Vitalità della Professoressa Olim",
+            "number": "256/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Vitalit%C3%A0dellaProfessoressaOlimParadossoTemporale256.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-257/182",
+            "name": "Scenario del Professor Turum",
+            "number": "257/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ScenariodelProfessorTurumParadossoTemporale257.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-258/182",
+            "name": "Capsi",
+            "number": "258/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/CapsiParadossoTemporale258.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-259/182",
+            "name": "Tulipa",
+            "number": "259/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/TulipaParadossoTemporale259.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-260/182",
+            "name": "Garchomp-ex",
+            "number": "260/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Garchomp-exParadossoTemporale260.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-261/182",
+            "name": "Eroeferreo-ex",
+            "number": "261/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/Eroeferreo-exParadossoTemporale261.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-262/182",
+            "name": "Lunaruggente-ex",
+            "number": "262/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Lunaruggente-exParadossoTemporale262.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-263/182",
+            "name": "Campo in Spiaggia",
+            "number": "263/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/CampoinSpiaggiaParadossoTemporale263.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-264/182",
+            "name": "Contracchiappa-Pokémon",
+            "number": "264/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Contracchiappa-Pok%C3%A9monParadossoTemporale264.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-265/182",
+            "name": "Mantello Sfarzoso",
+            "number": "265/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/MantelloSfarzosoParadossoTemporale265.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAR-266/182",
+            "name": "Energia Inversione",
+            "number": "266/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/EnergiaInversioneParadossoTemporale266.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

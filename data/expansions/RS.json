@@ -1,0 +1,776 @@
+{
+    "expansion": {
+        "id": "RS",
+        "name": "EX Rubino & Zaffiro",
+				"year": 2003,
+				"month": 7,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetEX_Rubino_%26_Zaffiro.png",
+        "cardCount": 109
+    },
+    "cards": [
+        {
+            "id": "RS-1/109",
+            "name": "Aggron",
+            "number": "1/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/AggronEXRubino%26Zaffiro1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-2/109",
+            "name": "Beautifly",
+            "number": "2/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/BeautiflyEXRubino%26Zaffiro2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-3/109",
+            "name": "Blaziken",
+            "number": "3/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/BlazikenEXRubino%26Zaffiro3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-4/109",
+            "name": "Camerupt",
+            "number": "4/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/CameruptEXRubino%26Zaffiro4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-5/109",
+            "name": "Delcatty",
+            "number": "5/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/DelcattyEXRubino%26Zaffiro5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-6/109",
+            "name": "Dustox",
+            "number": "6/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/DustoxEXRubino%26Zaffiro6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-7/109",
+            "name": "Gardevoir",
+            "number": "7/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/GardevoirEXRubino%26Zaffiro7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-8/109",
+            "name": "Hariyama",
+            "number": "8/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/HariyamaEXRubino%26Zaffiro8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-9/109",
+            "name": "Manectric",
+            "number": "9/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ManectricEXRubino%26Zaffiro9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-10/109",
+            "name": "Mightyena",
+            "number": "10/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MightyenaEXRubino%26Zaffiro10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-11/109",
+            "name": "Sceptile",
+            "number": "11/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SceptileEXRubino%26Zaffiro11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-12/109",
+            "name": "Slaking",
+            "number": "12/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/SlakingEXRubino%26Zaffiro12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-13/109",
+            "name": "Swampert",
+            "number": "13/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SwampertEXRubino%26Zaffiro13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-14/109",
+            "name": "Wailord",
+            "number": "14/109",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/WailordEXRubino%26Zaffiro14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-15/109",
+            "name": "Blaziken",
+            "number": "15/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/BlazikenEXRubino%26Zaffiro15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-16/109",
+            "name": "Breloom",
+            "number": "16/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BreloomEXRubino%26Zaffiro16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-17/109",
+            "name": "Donphan",
+            "number": "17/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DonphanEXRubino%26Zaffiro17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-18/109",
+            "name": "Nosepass",
+            "number": "18/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/NosepassEXRubino%26Zaffiro18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-19/109",
+            "name": "Pelipper",
+            "number": "19/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/PelipperEXRubino%26Zaffiro19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-20/109",
+            "name": "Sceptile",
+            "number": "20/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SceptileEXRubino%26Zaffiro20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-21/109",
+            "name": "Seaking",
+            "number": "21/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/SeakingEXRubino%26Zaffiro21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-22/109",
+            "name": "Sharpedo",
+            "number": "22/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/SharpedoEXRubino%26Zaffiro22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-23/109",
+            "name": "Swampert",
+            "number": "23/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SwampertEXRubino%26Zaffiro23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-24/109",
+            "name": "Weezing",
+            "number": "24/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/WeezingEXRubino%26Zaffiro24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-25/109",
+            "name": "Aron",
+            "number": "25/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/AronEXRubino%26Zaffiro25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-26/109",
+            "name": "Cascoon",
+            "number": "26/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CascoonEXRubino%26Zaffiro26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-27/109",
+            "name": "Combusken",
+            "number": "27/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CombuskenEXRubino%26Zaffiro27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-28/109",
+            "name": "Combusken",
+            "number": "28/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/CombuskenEXRubino%26Zaffiro28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-29/109",
+            "name": "Delcatty",
+            "number": "29/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/DelcattyEXRubino%26Zaffiro29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-30/109",
+            "name": "Electrike",
+            "number": "30/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ElectrikeEXRubino%26Zaffiro30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-31/109",
+            "name": "Grovyle",
+            "number": "31/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/GrovyleEXRubino%26Zaffiro31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-32/109",
+            "name": "Grovyle",
+            "number": "32/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/GrovyleEXRubino%26Zaffiro32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-33/109",
+            "name": "Hariyama",
+            "number": "33/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/HariyamaEXRubino%26Zaffiro33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-34/109",
+            "name": "Kirlia",
+            "number": "34/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/KirliaEXRubino%26Zaffiro34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-35/109",
+            "name": "Kirlia",
+            "number": "35/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/KirliaEXRubino%26Zaffiro35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-36/109",
+            "name": "Lairon",
+            "number": "36/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/LaironEXRubino%26Zaffiro36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-37/109",
+            "name": "Lairon",
+            "number": "37/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/LaironEXRubino%26Zaffiro37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-38/109",
+            "name": "Linoone",
+            "number": "38/109",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/LinooneEXRubino%26Zaffiro38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-39/109",
+            "name": "Manectric",
+            "number": "39/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ManectricEXRubino%26Zaffiro39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-40/109",
+            "name": "Marshtomp",
+            "number": "40/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MarshtompEXRubino%26Zaffiro40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-41/109",
+            "name": "Marshtomp",
+            "number": "41/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MarshtompEXRubino%26Zaffiro41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-42/109",
+            "name": "Mightyena",
+            "number": "42/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/MightyenaEXRubino%26Zaffiro42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-43/109",
+            "name": "Silcoon",
+            "number": "43/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SilcoonEXRubino%26Zaffiro43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-44/109",
+            "name": "Skitty",
+            "number": "44/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SkittyEXRubino%26Zaffiro44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-45/109",
+            "name": "Slakoth",
+            "number": "45/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SlakothEXRubino%26Zaffiro45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-46/109",
+            "name": "Swellow",
+            "number": "46/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SwellowEXRubino%26Zaffiro46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-47/109",
+            "name": "Vigoroth",
+            "number": "47/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/VigorothEXRubino%26Zaffiro47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-48/109",
+            "name": "Wailmer",
+            "number": "48/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/WailmerEXRubino%26Zaffiro48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-49/109",
+            "name": "Aron",
+            "number": "49/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/AronEXRubino%26Zaffiro49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-50/109",
+            "name": "Aron",
+            "number": "50/109",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/AronEXRubino%26Zaffiro50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-51/109",
+            "name": "Carvanha",
+            "number": "51/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/CarvanhaEXRubino%26Zaffiro51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-52/109",
+            "name": "Electrike",
+            "number": "52/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/ElectrikeEXRubino%26Zaffiro52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-53/109",
+            "name": "Electrike",
+            "number": "53/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/ElectrikeEXRubino%26Zaffiro53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-54/109",
+            "name": "Koffing",
+            "number": "54/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/KoffingEXRubino%26Zaffiro54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-55/109",
+            "name": "Goldeen",
+            "number": "55/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/GoldeenEXRubino%26Zaffiro55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-56/109",
+            "name": "Makuhita",
+            "number": "56/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/MakuhitaEXRubino%26Zaffiro56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-57/109",
+            "name": "Makuhita",
+            "number": "57/109",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/MakuhitaEXRubino%26Zaffiro57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-58/109",
+            "name": "Makuhita",
+            "number": "58/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/MakuhitaEXRubino%26Zaffiro58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-59/109",
+            "name": "Mudkip",
+            "number": "59/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MudkipEXRubino%26Zaffiro59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-60/109",
+            "name": "Mudkip",
+            "number": "60/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MudkipEXRubino%26Zaffiro60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-61/109",
+            "name": "Numel",
+            "number": "61/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/NumelEXRubino%26Zaffiro61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-62/109",
+            "name": "Phanpy",
+            "number": "62/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/PhanpyEXRubino%26Zaffiro62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-63/109",
+            "name": "Poochyena",
+            "number": "63/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/PoochyenaEXRubino%26Zaffiro63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-64/109",
+            "name": "Poochyena",
+            "number": "64/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/PoochyenaEXRubino%26Zaffiro64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-65/109",
+            "name": "Poochyena",
+            "number": "65/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/PoochyenaEXRubino%26Zaffiro65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-66/109",
+            "name": "Ralts",
+            "number": "66/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/RaltsEXRubino%26Zaffiro66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-67/109",
+            "name": "Ralts",
+            "number": "67/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/RaltsEXRubino%26Zaffiro67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-68/109",
+            "name": "Ralts",
+            "number": "68/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/RaltsEXRubino%26Zaffiro68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-69/109",
+            "name": "Shroomish",
+            "number": "69/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ShroomishEXRubino%26Zaffiro69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-70/109",
+            "name": "Skitty",
+            "number": "70/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/SkittyEXRubino%26Zaffiro70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-71/109",
+            "name": "Skitty",
+            "number": "71/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/SkittyEXRubino%26Zaffiro71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-72/109",
+            "name": "Taillow",
+            "number": "72/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TaillowEXRubino%26Zaffiro72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-73/109",
+            "name": "Torchic",
+            "number": "73/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/TorchicEXRubino%26Zaffiro73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-74/109",
+            "name": "Torchic",
+            "number": "74/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/TorchicEXRubino%26Zaffiro74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-75/109",
+            "name": "Treecko",
+            "number": "75/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/TreeckoEXRubino%26Zaffiro75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-76/109",
+            "name": "Treecko",
+            "number": "76/109",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/TreeckoEXRubino%26Zaffiro76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-77/109",
+            "name": "Wingull",
+            "number": "77/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/WingullEXRubino%26Zaffiro77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-78/109",
+            "name": "Wurmple",
+            "number": "78/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/WurmpleEXRubino%26Zaffiro78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-79/109",
+            "name": "Zigzagoon",
+            "number": "79/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ZigzagoonEXRubino%26Zaffiro79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-80/109",
+            "name": "Rimozione di Energia 2",
+            "number": "80/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/RimozionediEnergia2EXRubino%26Zaffiro80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-81/109",
+            "name": "Ripristina Energia",
+            "number": "81/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RipristinaEnergiaEXRubino%26Zaffiro81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-82/109",
+            "name": "Scambio di Energia",
+            "number": "82/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ScambiodiEnergiaEXRubino%26Zaffiro82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-83/109",
+            "name": "Lady Outing",
+            "number": "83/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/LadyOutingEXRubino%26Zaffiro83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-84/109",
+            "name": "Baccaprugna",
+            "number": "84/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/BaccaprugnaEXRubino%26Zaffiro84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-85/109",
+            "name": "Baccarancia",
+            "number": "85/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BaccaranciaEXRubino%26Zaffiro85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-86/109",
+            "name": "Poké Ball",
+            "number": "86/109",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Pok%C3%A9BallEXRubino%26Zaffiro86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-87/109",
+            "name": "Contropiede Pokémon",
+            "number": "87/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ContropiedePok%C3%A9monEXRubino%26Zaffiro87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-88/109",
+            "name": "PokéNav",
+            "number": "88/109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Pok%C3%A9NavEXRubino%26Zaffiro88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-89/109",
+            "name": "Prof. Birch",
+            "number": "89/109",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/ProfBirchEXRubino%26Zaffiro89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-90/109",
+            "name": "Ricerca di Energia",
+            "number": "90/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/RicercadiEnergiaEXRubino%26Zaffiro90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-91/109",
+            "name": "Pozione Magica",
+            "number": "91/109",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/PozioneMagicaEXRubino%26Zaffiro91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-92/109",
+            "name": "Scambio",
+            "number": "92/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/ScambioEXRubino%26Zaffiro92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-93/109",
+            "name": "Energia Oscurità",
+            "number": "93/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/EnergiaOscurit%C3%A0EXRubino%26Zaffiro93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-94/109",
+            "name": "Energia Metallo",
+            "number": "94/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaMetalloEXRubino%26Zaffiro94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-95/109",
+            "name": "Energia Arcobaleno",
+            "number": "95/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/EnergiaArcobalenoEXRubino%26Zaffiro95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-96/109",
+            "name": "Chansey ex",
+            "number": "96/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ChanseyexEXRubino%26Zaffiro96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-97/109",
+            "name": "Electabuzz ex",
+            "number": "97/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/ElectabuzzexEXRubino%26Zaffiro97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-98/109",
+            "name": "Hitmonchan ex",
+            "number": "98/109",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/HitmonchanexEXRubino%26Zaffiro98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-99/109",
+            "name": "Lapras ex",
+            "number": "99/109",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/LaprasexEXRubino%26Zaffiro99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-100/109",
+            "name": "Magmar ex",
+            "number": "100/109",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/MagmarexEXRubino%26Zaffiro100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-101/109",
+            "name": "Mewtwo ex",
+            "number": "101/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MewtwoexEXRubino%26Zaffiro101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-102/109",
+            "name": "Scyther ex",
+            "number": "102/109",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ScytherexEXRubino%26Zaffiro102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-103/109",
+            "name": "Sneasel ex",
+            "number": "103/109",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/SneaselexEXRubino%26Zaffiro103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-104/109",
+            "name": "Energia Erba",
+            "number": "104/109",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/EnergiaErbaEXRubino%26Zaffiro104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-105/109",
+            "name": "Energia Combattimento",
+            "number": "105/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/EnergiaCombattimentoEXRubino%26Zaffiro105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-106/109",
+            "name": "Energia Acqua",
+            "number": "106/109",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/EnergiaAcquaEXRubino%26Zaffiro106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-107/109",
+            "name": "Energia Psiche",
+            "number": "107/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/EnergiaPsicheEXRubino%26Zaffiro107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-108/109",
+            "name": "Energia Fuoco",
+            "number": "108/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/EnergiaFuocoEXRubino%26Zaffiro108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "RS-109/109",
+            "name": "Energia Lampo",
+            "number": "109/109",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/EnergiaLampoEXRubino%26Zaffiro109.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

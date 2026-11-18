@@ -1,0 +1,713 @@
+{
+    "expansion": {
+        "id": "SS",
+        "name": "EX Tempesta di Sabbia",
+				"year": 2003,
+				"month": 9,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetEX_Tempesta_di_Sabbia.png",
+        "cardCount": 100
+    },
+    "cards": [
+        {
+            "id": "SS-1/100",
+            "name": "Armaldo",
+            "number": "1/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/ArmaldoEXTempestadiSabbia1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-2/100",
+            "name": "Cacturne",
+            "number": "2/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/CacturneEXTempestadiSabbia2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-3/100",
+            "name": "Cradily",
+            "number": "3/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CradilyEXTempestadiSabbia3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-4/100",
+            "name": "Dusclops",
+            "number": "4/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/DusclopsEXTempestadiSabbia4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-5/100",
+            "name": "Flareon",
+            "number": "5/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/FlareonEXTempestadiSabbia5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-6/100",
+            "name": "Jolteon",
+            "number": "6/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/JolteonEXTempestadiSabbia6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-7/100",
+            "name": "Ludicolo",
+            "number": "7/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/LudicoloEXTempestadiSabbia7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-8/100",
+            "name": "Lunatone",
+            "number": "8/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LunatoneEXTempestadiSabbia8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-9/100",
+            "name": "Mawile",
+            "number": "9/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MawileEXTempestadiSabbia9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-10/100",
+            "name": "Sableye",
+            "number": "10/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/SableyeEXTempestadiSabbia10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-11/100",
+            "name": "Seviper",
+            "number": "11/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/SeviperEXTempestadiSabbia11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-12/100",
+            "name": "Shiftry",
+            "number": "12/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ShiftryEXTempestadiSabbia12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-13/100",
+            "name": "Solrock",
+            "number": "13/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SolrockEXTempestadiSabbia13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-14/100",
+            "name": "Zangoose",
+            "number": "14/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/ZangooseEXTempestadiSabbia14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-15/100",
+            "name": "Arcanine",
+            "number": "15/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ArcanineEXTempestadiSabbia15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-16/100",
+            "name": "Espeon",
+            "number": "16/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/EspeonEXTempestadiSabbia16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-17/100",
+            "name": "Golduck",
+            "number": "17/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/GolduckEXTempestadiSabbia17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-18/100",
+            "name": "Kecleon",
+            "number": "18/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/KecleonEXTempestadiSabbia18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-19/100",
+            "name": "Omastar",
+            "number": "19/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/OmastarEXTempestadiSabbia19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-20/100",
+            "name": "Pichu",
+            "number": "20/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/PichuEXTempestadiSabbia20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-21/100",
+            "name": "Sandslash",
+            "number": "21/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/SandslashEXTempestadiSabbia21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-22/100",
+            "name": "Shiftry",
+            "number": "22/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ShiftryEXTempestadiSabbia22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-23/100",
+            "name": "Steelix",
+            "number": "23/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/SteelixEXTempestadiSabbia23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-24/100",
+            "name": "Umbreon",
+            "number": "24/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/UmbreonEXTempestadiSabbia24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-25/100",
+            "name": "Vaporeon",
+            "number": "25/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/VaporeonEXTempestadiSabbia25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-26/100",
+            "name": "Wobbuffet",
+            "number": "26/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/WobbuffetEXTempestadiSabbia26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-27/100",
+            "name": "Anorith",
+            "number": "27/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/AnorithEXTempestadiSabbia27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-28/100",
+            "name": "Anorith",
+            "number": "28/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/AnorithEXTempestadiSabbia28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-29/100",
+            "name": "Arbok",
+            "number": "29/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ArbokEXTempestadiSabbia29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-30/100",
+            "name": "Azumarill",
+            "number": "30/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/AzumarillEXTempestadiSabbia30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-31/100",
+            "name": "Azurill",
+            "number": "31/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/AzurillEXTempestadiSabbia31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-32/100",
+            "name": "Baltoy",
+            "number": "32/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/BaltoyEXTempestadiSabbia32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-33/100",
+            "name": "Breloom",
+            "number": "33/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/BreloomEXTempestadiSabbia33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-34/100",
+            "name": "Delcatty",
+            "number": "34/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/DelcattyEXTempestadiSabbia34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-35/100",
+            "name": "Electabuzz",
+            "number": "35/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ElectabuzzEXTempestadiSabbia35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-36/100",
+            "name": "Elekid",
+            "number": "36/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ElekidEXTempestadiSabbia36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-37/100",
+            "name": "Fearow",
+            "number": "37/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/FearowEXTempestadiSabbia37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-38/100",
+            "name": "Illumise",
+            "number": "38/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/IllumiseEXTempestadiSabbia38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-39/100",
+            "name": "Kabuto",
+            "number": "39/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/KabutoEXTempestadiSabbia39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-40/100",
+            "name": "Kirlia",
+            "number": "40/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/KirliaEXTempestadiSabbia40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-41/100",
+            "name": "Lairon",
+            "number": "41/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/LaironEXTempestadiSabbia41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-42/100",
+            "name": "Lileep",
+            "number": "42/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LileepEXTempestadiSabbia42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-43/100",
+            "name": "Lileep",
+            "number": "43/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/LileepEXTempestadiSabbia43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-44/100",
+            "name": "Linoone",
+            "number": "44/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/LinooneEXTempestadiSabbia44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-45/100",
+            "name": "Lombre",
+            "number": "45/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/LombreEXTempestadiSabbia45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-46/100",
+            "name": "Lombre",
+            "number": "46/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/LombreEXTempestadiSabbia46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-47/100",
+            "name": "Murkrow",
+            "number": "47/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/MurkrowEXTempestadiSabbia47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-48/100",
+            "name": "Nuzleaf",
+            "number": "48/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/NuzleafEXTempestadiSabbia48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-49/100",
+            "name": "Nuzleaf",
+            "number": "49/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/NuzleafEXTempestadiSabbia49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-50/100",
+            "name": "Pelipper",
+            "number": "50/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/PelipperEXTempestadiSabbia50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-51/100",
+            "name": "Quilava",
+            "number": "51/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/QuilavaEXTempestadiSabbia51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-52/100",
+            "name": "Vigoroth",
+            "number": "52/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/VigorothEXTempestadiSabbia52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-53/100",
+            "name": "Volbeat",
+            "number": "53/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/VolbeatEXTempestadiSabbia53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-54/100",
+            "name": "Wynaut",
+            "number": "54/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/WynautEXTempestadiSabbia54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-55/100",
+            "name": "Xatu",
+            "number": "55/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/XatuEXTempestadiSabbia55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-56/100",
+            "name": "Aron",
+            "number": "56/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/AronEXTempestadiSabbia56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-57/100",
+            "name": "Cacnea",
+            "number": "57/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CacneaEXTempestadiSabbia57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-58/100",
+            "name": "Cacnea",
+            "number": "58/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/CacneaEXTempestadiSabbia58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-59/100",
+            "name": "Cyndaquil",
+            "number": "59/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/CyndaquilEXTempestadiSabbia59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-60/100",
+            "name": "Dunsparce",
+            "number": "60/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/DunsparceEXTempestadiSabbia60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-61/100",
+            "name": "Duskull",
+            "number": "61/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/DuskullEXTempestadiSabbia61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-62/100",
+            "name": "Duskull",
+            "number": "62/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/DuskullEXTempestadiSabbia62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-63/100",
+            "name": "Eevee",
+            "number": "63/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/EeveeEXTempestadiSabbia63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-64/100",
+            "name": "Ekans",
+            "number": "64/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/EkansEXTempestadiSabbia64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-65/100",
+            "name": "Growlithe",
+            "number": "65/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/GrowlitheEXTempestadiSabbia65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-66/100",
+            "name": "Lotad",
+            "number": "66/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/LotadEXTempestadiSabbia66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-67/100",
+            "name": "Lotad",
+            "number": "67/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/LotadEXTempestadiSabbia67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-68/100",
+            "name": "Marill",
+            "number": "68/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/MarillEXTempestadiSabbia68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-69/100",
+            "name": "Natu",
+            "number": "69/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/NatuEXTempestadiSabbia69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-70/100",
+            "name": "Omanyte",
+            "number": "70/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/OmanyteEXTempestadiSabbia70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-71/100",
+            "name": "Onix",
+            "number": "71/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/OnixEXTempestadiSabbia71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-72/100",
+            "name": "Pikachu",
+            "number": "72/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/PikachuEXTempestadiSabbia72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-73/100",
+            "name": "Psyduck",
+            "number": "73/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/PsyduckEXTempestadiSabbia73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-74/100",
+            "name": "Ralts",
+            "number": "74/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/RaltsEXTempestadiSabbia74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-75/100",
+            "name": "Sandshrew",
+            "number": "75/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SandshrewEXTempestadiSabbia75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-76/100",
+            "name": "Seedot",
+            "number": "76/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SeedotEXTempestadiSabbia76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-77/100",
+            "name": "Seedot",
+            "number": "77/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/SeedotEXTempestadiSabbia77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-78/100",
+            "name": "Shroomish",
+            "number": "78/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/ShroomishEXTempestadiSabbia78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-79/100",
+            "name": "Skitty",
+            "number": "79/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/SkittyEXTempestadiSabbia79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-80/100",
+            "name": "Slakoth",
+            "number": "80/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SlakothEXTempestadiSabbia80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-81/100",
+            "name": "Spearow",
+            "number": "81/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SpearowEXTempestadiSabbia81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-82/100",
+            "name": "Trapinch",
+            "number": "82/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/TrapinchEXTempestadiSabbia82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-83/100",
+            "name": "Wailmer",
+            "number": "83/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/WailmerEXTempestadiSabbia83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-84/100",
+            "name": "Wingull",
+            "number": "84/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/WingullEXTempestadiSabbia84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-85/100",
+            "name": "Zigzagoon",
+            "number": "85/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ZigzagoonEXTempestadiSabbia85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-86/100",
+            "name": "Doppio Recupero Totale",
+            "number": "86/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/DoppioRecuperoTotaleEXTempestadiSabbia86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-87/100",
+            "name": "Ricerca in Rete di Lanette",
+            "number": "87/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/RicercainRetediLanetteEXTempestadiSabbia87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-88/100",
+            "name": "Caramella Rara",
+            "number": "88/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/CaramellaRaraEXTempestadiSabbia88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-89/100",
+            "name": "Addestramento di Lino",
+            "number": "89/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/AddestramentodiLinoEXTempestadiSabbia89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-90/100",
+            "name": "Artiglio Fossile",
+            "number": "90/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ArtiglioFossileEXTempestadiSabbia90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-91/100",
+            "name": "Fossile Misterioso",
+            "number": "91/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/FossileMisteriosoEXTempestadiSabbia91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-92/100",
+            "name": "Radice Fossile",
+            "number": "92/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/RadiceFossileEXTempestadiSabbia92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-93/100",
+            "name": "Multienergia",
+            "number": "93/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/MultienergiaEXTempestadiSabbia93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-94/100",
+            "name": "Aerodactyl ex",
+            "number": "94/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/AerodactylexEXTempestadiSabbia94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-95/100",
+            "name": "Aggron ex",
+            "number": "95/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/AggronexEXTempestadiSabbia95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-96/100",
+            "name": "Gardevoir ex",
+            "number": "96/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GardevoirexEXTempestadiSabbia96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-97/100",
+            "name": "Kabutops ex",
+            "number": "97/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/KabutopsexEXTempestadiSabbia97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-98/100",
+            "name": "Raichu ex",
+            "number": "98/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/RaichuexEXTempestadiSabbia98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-99/100",
+            "name": "Typhlosion ex",
+            "number": "99/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/TyphlosionexEXTempestadiSabbia99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SS-100/100",
+            "name": "Wailord ex",
+            "number": "100/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/WailordexEXTempestadiSabbia100.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

@@ -1,0 +1,1976 @@
+{
+    "expansion": {
+        "id": "PAL",
+        "name": "Scarlatto e Violetto - Evoluzioni a Paldea",
+        "year": 2023,
+        "month": 6,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/8/86/SimboloSetEvoluzioni_a_Paldea.png",
+        "cardCount": 279
+    },
+    "cards": [
+        {
+            "id": "PAL-001/193",
+            "name": "Hoppip",
+            "number": "001/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/HoppipEvoluzioniaPaldea1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-002/193",
+            "name": "Skiploom",
+            "number": "002/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/SkiploomEvoluzioniaPaldea2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-003/193",
+            "name": "Jumpluff",
+            "number": "003/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/JumpluffEvoluzioniaPaldea3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-004/193",
+            "name": "Pineco",
+            "number": "004/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/PinecoEvoluzioniaPaldea4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-005/193",
+            "name": "Forretress-ex",
+            "number": "005/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Forretress-exEvoluzioniaPaldea5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-006/193",
+            "name": "Heracross",
+            "number": "006/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/HeracrossEvoluzioniaPaldea6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-007/193",
+            "name": "Tropius",
+            "number": "007/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TropiusEvoluzioniaPaldea7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-008/193",
+            "name": "Combee",
+            "number": "008/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/CombeeEvoluzioniaPaldea8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-009/193",
+            "name": "Vespiquen",
+            "number": "009/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/VespiquenEvoluzioniaPaldea9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-010/193",
+            "name": "Snover",
+            "number": "010/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SnoverEvoluzioniaPaldea10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-011/193",
+            "name": "Abomasnow",
+            "number": "011/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/AbomasnowEvoluzioniaPaldea11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-012/193",
+            "name": "Sprigatito",
+            "number": "012/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/SprigatitoEvoluzioniaPaldea12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-013/193",
+            "name": "Sprigatito",
+            "number": "013/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SprigatitoEvoluzioniaPaldea13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-014/193",
+            "name": "Floragato",
+            "number": "014/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/FloragatoEvoluzioniaPaldea14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-015/193",
+            "name": "Meowscarada-ex",
+            "number": "015/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Meowscarada-exEvoluzioniaPaldea15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-016/193",
+            "name": "Tarountula",
+            "number": "016/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TarountulaEvoluzioniaPaldea16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-017/193",
+            "name": "Tarountula",
+            "number": "017/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/TarountulaEvoluzioniaPaldea17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-018/193",
+            "name": "Spidops",
+            "number": "018/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/SpidopsEvoluzioniaPaldea18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-019/193",
+            "name": "Nymble",
+            "number": "019/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/NymbleEvoluzioniaPaldea19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-020/193",
+            "name": "Nymble",
+            "number": "020/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/NymbleEvoluzioniaPaldea20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-021/193",
+            "name": "Lokix",
+            "number": "021/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/LokixEvoluzioniaPaldea21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-022/193",
+            "name": "Bramblin",
+            "number": "022/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/BramblinEvoluzioniaPaldea22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-023/193",
+            "name": "Bramblin",
+            "number": "023/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/BramblinEvoluzioniaPaldea23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-024/193",
+            "name": "Brambleghast",
+            "number": "024/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/BrambleghastEvoluzioniaPaldea24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-025/193",
+            "name": "Rellor",
+            "number": "025/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/RellorEvoluzioniaPaldea25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-026/193",
+            "name": "Rellor",
+            "number": "026/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/RellorEvoluzioniaPaldea26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-027/193",
+            "name": "Wo-Chien-ex",
+            "number": "027/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Wo-Chien-exEvoluzioniaPaldea27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-028/193",
+            "name": "Tauros di Paldea",
+            "number": "028/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/TaurosdiPaldeaEvoluzioniaPaldea28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-029/193",
+            "name": "Fletchinder",
+            "number": "029/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/FletchinderEvoluzioniaPaldea29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-030/193",
+            "name": "Talonflame",
+            "number": "030/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/TalonflameEvoluzioniaPaldea30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-031/193",
+            "name": "Litleo",
+            "number": "031/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/LitleoEvoluzioniaPaldea31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-032/193",
+            "name": "Pyroar",
+            "number": "032/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/PyroarEvoluzioniaPaldea32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-033/193",
+            "name": "Oricorio",
+            "number": "033/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/OricorioEvoluzioniaPaldea33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-034/193",
+            "name": "Fuecoco",
+            "number": "034/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/FuecocoEvoluzioniaPaldea34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-035/193",
+            "name": "Fuecoco",
+            "number": "035/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/FuecocoEvoluzioniaPaldea35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-036/193",
+            "name": "Crocalor",
+            "number": "036/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/CrocalorEvoluzioniaPaldea36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-037/193",
+            "name": "Skeledirge-ex",
+            "number": "037/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Skeledirge-exEvoluzioniaPaldea37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-038/193",
+            "name": "Charcadet",
+            "number": "038/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/CharcadetEvoluzioniaPaldea38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-039/193",
+            "name": "Charcadet",
+            "number": "039/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CharcadetEvoluzioniaPaldea39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-040/193",
+            "name": "Chi-Yu-ex",
+            "number": "040/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Chi-Yu-exEvoluzioniaPaldea40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-041/193",
+            "name": "Tauros di Paldea",
+            "number": "041/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/TaurosdiPaldeaEvoluzioniaPaldea41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-042/193",
+            "name": "Magikarp",
+            "number": "042/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MagikarpEvoluzioniaPaldea42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-043/193",
+            "name": "Gyarados",
+            "number": "043/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/GyaradosEvoluzioniaPaldea43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-044/193",
+            "name": "Marill",
+            "number": "044/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MarillEvoluzioniaPaldea44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-045/193",
+            "name": "Azumarill",
+            "number": "045/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/AzumarillEvoluzioniaPaldea45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-046/193",
+            "name": "Delibird",
+            "number": "046/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/DelibirdEvoluzioniaPaldea46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-047/193",
+            "name": "Luvdisc",
+            "number": "047/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/LuvdiscEvoluzioniaPaldea47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-048/193",
+            "name": "Eiscue",
+            "number": "048/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/EiscueEvoluzioniaPaldea48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-049/193",
+            "name": "Quaxly",
+            "number": "049/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/QuaxlyEvoluzioniaPaldea49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-050/193",
+            "name": "Quaxly",
+            "number": "050/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/QuaxlyEvoluzioniaPaldea50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-051/193",
+            "name": "Quaxwell",
+            "number": "051/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/QuaxwellEvoluzioniaPaldea51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-052/193",
+            "name": "Quaquaval-ex",
+            "number": "052/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/Quaquaval-exEvoluzioniaPaldea52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-053/193",
+            "name": "Cetoddle",
+            "number": "053/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CetoddleEvoluzioniaPaldea53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-054/193",
+            "name": "Cetoddle",
+            "number": "054/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/CetoddleEvoluzioniaPaldea54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-055/193",
+            "name": "Cetitan",
+            "number": "055/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/CetitanEvoluzioniaPaldea55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-056/193",
+            "name": "Veluza",
+            "number": "056/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/VeluzaEvoluzioniaPaldea56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-057/193",
+            "name": "Frigibax",
+            "number": "057/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/FrigibaxEvoluzioniaPaldea57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-058/193",
+            "name": "Frigibax",
+            "number": "058/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/FrigibaxEvoluzioniaPaldea58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-059/193",
+            "name": "Arctibax",
+            "number": "059/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/ArctibaxEvoluzioniaPaldea59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-060/193",
+            "name": "Baxcalibur",
+            "number": "060/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/BaxcaliburEvoluzioniaPaldea60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-061/193",
+            "name": "Chien-Pao-ex",
+            "number": "061/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Chien-Pao-exEvoluzioniaPaldea61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-062/193",
+            "name": "Pikachu",
+            "number": "062/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/PikachuEvoluzioniaPaldea62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-063/193",
+            "name": "Pikachu-ex",
+            "number": "063/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/Pikachu-exEvoluzioniaPaldea63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-064/193",
+            "name": "Raichu",
+            "number": "064/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/RaichuEvoluzioniaPaldea64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-065/193",
+            "name": "Magnemite",
+            "number": "065/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MagnemiteEvoluzioniaPaldea65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-066/193",
+            "name": "Voltorb",
+            "number": "066/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/VoltorbEvoluzioniaPaldea66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-067/193",
+            "name": "Electrode",
+            "number": "067/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/ElectrodeEvoluzioniaPaldea67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-068/193",
+            "name": "Shinx",
+            "number": "068/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ShinxEvoluzioniaPaldea68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-069/193",
+            "name": "Shinx",
+            "number": "069/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/ShinxEvoluzioniaPaldea69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-070/193",
+            "name": "Luxio",
+            "number": "070/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/LuxioEvoluzioniaPaldea70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-071/193",
+            "name": "Luxray",
+            "number": "071/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/LuxrayEvoluzioniaPaldea71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-072/193",
+            "name": "Pincurchin",
+            "number": "072/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/PincurchinEvoluzioniaPaldea72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-073/193",
+            "name": "Pincurchin",
+            "number": "073/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PincurchinEvoluzioniaPaldea73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-074/193",
+            "name": "Pawmi",
+            "number": "074/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/PawmiEvoluzioniaPaldea74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-075/193",
+            "name": "Pawmo",
+            "number": "075/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/PawmoEvoluzioniaPaldea75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-076/193",
+            "name": "Pawmot",
+            "number": "076/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/PawmotEvoluzioniaPaldea76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-077/193",
+            "name": "Tadbulb",
+            "number": "077/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/TadbulbEvoluzioniaPaldea77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-078/193",
+            "name": "Tadbulb",
+            "number": "078/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/TadbulbEvoluzioniaPaldea78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-079/193",
+            "name": "Bellibolt-ex",
+            "number": "079/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Bellibolt-exEvoluzioniaPaldea79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-080/193",
+            "name": "Wattrel",
+            "number": "080/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/WattrelEvoluzioniaPaldea80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-081/193",
+            "name": "Wattrel",
+            "number": "081/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/WattrelEvoluzioniaPaldea81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-082/193",
+            "name": "Kilowattrel",
+            "number": "082/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/KilowattrelEvoluzioniaPaldea82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-083/193",
+            "name": "Jigglypuff",
+            "number": "083/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/JigglypuffEvoluzioniaPaldea83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-084/193",
+            "name": "Wigglytuff",
+            "number": "084/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/WigglytuffEvoluzioniaPaldea84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-085/193",
+            "name": "Slowpoke",
+            "number": "085/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/SlowpokeEvoluzioniaPaldea85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-086/193",
+            "name": "Slowking-ex",
+            "number": "086/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/Slowking-exEvoluzioniaPaldea86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-087/193",
+            "name": "Misdreavus",
+            "number": "087/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MisdreavusEvoluzioniaPaldea87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-088/193",
+            "name": "Mismagius",
+            "number": "088/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MismagiusEvoluzioniaPaldea88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-089/193",
+            "name": "Spiritomb",
+            "number": "089/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/SpiritombEvoluzioniaPaldea89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-090/193",
+            "name": "Gothita",
+            "number": "090/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/GothitaEvoluzioniaPaldea90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-091/193",
+            "name": "Gothorita",
+            "number": "091/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/GothoritaEvoluzioniaPaldea91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-092/193",
+            "name": "Gothitelle",
+            "number": "092/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GothitelleEvoluzioniaPaldea92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-093/193",
+            "name": "Dedenne-ex",
+            "number": "093/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Dedenne-exEvoluzioniaPaldea93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-094/193",
+            "name": "Oranguru",
+            "number": "094/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/OranguruEvoluzioniaPaldea94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-095/193",
+            "name": "Sandygast",
+            "number": "095/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/SandygastEvoluzioniaPaldea95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-096/193",
+            "name": "Palossand",
+            "number": "096/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/PalossandEvoluzioniaPaldea96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-097/193",
+            "name": "Mimikyu",
+            "number": "097/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/MimikyuEvoluzioniaPaldea97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-098/193",
+            "name": "Ceruledge",
+            "number": "098/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/CeruledgeEvoluzioniaPaldea98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-099/193",
+            "name": "Rabsca",
+            "number": "099/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/RabscaEvoluzioniaPaldea99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-100/193",
+            "name": "Tinkatink",
+            "number": "100/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/TinkatinkEvoluzioniaPaldea100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-101/193",
+            "name": "Tinkatink",
+            "number": "101/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/TinkatinkEvoluzioniaPaldea101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-102/193",
+            "name": "Tinkatink",
+            "number": "102/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TinkatinkEvoluzioniaPaldea102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-103/193",
+            "name": "Tinkatuff",
+            "number": "103/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/TinkatuffEvoluzioniaPaldea103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-104/193",
+            "name": "Tinkatuff",
+            "number": "104/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/TinkatuffEvoluzioniaPaldea104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-105/193",
+            "name": "Tinkaton",
+            "number": "105/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/TinkatonEvoluzioniaPaldea105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-106/193",
+            "name": "Mankey",
+            "number": "106/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MankeyEvoluzioniaPaldea106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-107/193",
+            "name": "Primeape",
+            "number": "107/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/PrimeapeEvoluzioniaPaldea107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-108/193",
+            "name": "Tauros di Paldea",
+            "number": "108/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/TaurosdiPaldeaEvoluzioniaPaldea108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-109/193",
+            "name": "Sudowoodo",
+            "number": "109/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SudowoodoEvoluzioniaPaldea109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-110/193",
+            "name": "Larvitar",
+            "number": "110/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/LarvitarEvoluzioniaPaldea110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-111/193",
+            "name": "Pupitar",
+            "number": "111/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/PupitarEvoluzioniaPaldea111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-112/193",
+            "name": "Makuhita",
+            "number": "112/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MakuhitaEvoluzioniaPaldea112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-113/193",
+            "name": "Hariyama",
+            "number": "113/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/HariyamaEvoluzioniaPaldea113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-114/193",
+            "name": "Croagunk",
+            "number": "114/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CroagunkEvoluzioniaPaldea114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-115/193",
+            "name": "Toxicroak",
+            "number": "115/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ToxicroakEvoluzioniaPaldea115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-116/193",
+            "name": "Rockruff",
+            "number": "116/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/RockruffEvoluzioniaPaldea116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-117/193",
+            "name": "Lycanroc-ex",
+            "number": "117/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Lycanroc-exEvoluzioniaPaldea117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-118/193",
+            "name": "Passimian",
+            "number": "118/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/PassimianEvoluzioniaPaldea118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-119/193",
+            "name": "Falinks",
+            "number": "119/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/FalinksEvoluzioniaPaldea119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-120/193",
+            "name": "Nacli",
+            "number": "120/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/NacliEvoluzioniaPaldea120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-121/193",
+            "name": "Nacli",
+            "number": "121/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/NacliEvoluzioniaPaldea121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-122/193",
+            "name": "Naclstack",
+            "number": "122/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/NaclstackEvoluzioniaPaldea122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-123/193",
+            "name": "Garganacl",
+            "number": "123/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/GarganaclEvoluzioniaPaldea123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-124/193",
+            "name": "Glimmet",
+            "number": "124/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GlimmetEvoluzioniaPaldea124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-125/193",
+            "name": "Glimmet",
+            "number": "125/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/GlimmetEvoluzioniaPaldea125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-126/193",
+            "name": "Glimmora",
+            "number": "126/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/GlimmoraEvoluzioniaPaldea126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-127/193",
+            "name": "Ting-Lu-ex",
+            "number": "127/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Ting-Lu-exEvoluzioniaPaldea127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-128/193",
+            "name": "Wooper di Paldea",
+            "number": "128/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/WooperdiPaldeaEvoluzioniaPaldea128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-129/193",
+            "name": "Wooper di Paldea",
+            "number": "129/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/WooperdiPaldeaEvoluzioniaPaldea129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-130/193",
+            "name": "Clodsire di Paldea-ex",
+            "number": "130/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ClodsirediPaldea-exEvoluzioniaPaldea130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-131/193",
+            "name": "Murkrow",
+            "number": "131/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MurkrowEvoluzioniaPaldea131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-132/193",
+            "name": "Honchkrow",
+            "number": "132/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/HonchkrowEvoluzioniaPaldea132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-133/193",
+            "name": "Sneasel",
+            "number": "133/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SneaselEvoluzioniaPaldea133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-134/193",
+            "name": "Weavile",
+            "number": "134/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/WeavileEvoluzioniaPaldea134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-135/193",
+            "name": "Tyranitar",
+            "number": "135/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/TyranitarEvoluzioniaPaldea135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-136/193",
+            "name": "Sableye",
+            "number": "136/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/SableyeEvoluzioniaPaldea136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-137/193",
+            "name": "Seviper",
+            "number": "137/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/SeviperEvoluzioniaPaldea137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-138/193",
+            "name": "Deino",
+            "number": "138/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DeinoEvoluzioniaPaldea138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-139/193",
+            "name": "Zweilous",
+            "number": "139/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/ZweilousEvoluzioniaPaldea139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-140/193",
+            "name": "Hydreigon",
+            "number": "140/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/HydreigonEvoluzioniaPaldea140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-141/193",
+            "name": "Maschiff",
+            "number": "141/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MaschiffEvoluzioniaPaldea141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-142/193",
+            "name": "Maschiff",
+            "number": "142/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/MaschiffEvoluzioniaPaldea142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-143/193",
+            "name": "Mabosstiff",
+            "number": "143/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MabosstiffEvoluzioniaPaldea143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-144/193",
+            "name": "Shroodle",
+            "number": "144/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/ShroodleEvoluzioniaPaldea144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-145/193",
+            "name": "Shroodle",
+            "number": "145/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ShroodleEvoluzioniaPaldea145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-146/193",
+            "name": "Grafaiai",
+            "number": "146/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/GrafaiaiEvoluzioniaPaldea146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-147/193",
+            "name": "Bombirdier",
+            "number": "147/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/BombirdierEvoluzioniaPaldea147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-148/193",
+            "name": "Corviknight",
+            "number": "148/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/CorviknightEvoluzioniaPaldea148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-149/193",
+            "name": "Cufant",
+            "number": "149/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/CufantEvoluzioniaPaldea149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-150/193",
+            "name": "Copperajah-ex",
+            "number": "150/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Copperajah-exEvoluzioniaPaldea150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-151/193",
+            "name": "Orthworm",
+            "number": "151/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/OrthwormEvoluzioniaPaldea151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-152/193",
+            "name": "Noibat",
+            "number": "152/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/NoibatEvoluzioniaPaldea152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-153/193",
+            "name": "Noivern-ex",
+            "number": "153/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Noivern-exEvoluzioniaPaldea153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-154/193",
+            "name": "Girafarig",
+            "number": "154/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/GirafarigEvoluzioniaPaldea154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-155/193",
+            "name": "Farigiraf",
+            "number": "155/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FarigirafEvoluzioniaPaldea155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-156/193",
+            "name": "Dunsparce",
+            "number": "156/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/DunsparceEvoluzioniaPaldea156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-157/193",
+            "name": "Dudunsparce",
+            "number": "157/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/DudunsparceEvoluzioniaPaldea157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-158/193",
+            "name": "Wingull",
+            "number": "158/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/WingullEvoluzioniaPaldea158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-159/193",
+            "name": "Pelipper",
+            "number": "159/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/PelipperEvoluzioniaPaldea159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-160/193",
+            "name": "Slakoth",
+            "number": "160/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SlakothEvoluzioniaPaldea160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-161/193",
+            "name": "Vigoroth",
+            "number": "161/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/VigorothEvoluzioniaPaldea161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-162/193",
+            "name": "Slaking",
+            "number": "162/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SlakingEvoluzioniaPaldea162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-163/193",
+            "name": "Fletchling",
+            "number": "163/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/FletchlingEvoluzioniaPaldea163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-164/193",
+            "name": "Rookidee",
+            "number": "164/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/RookideeEvoluzioniaPaldea164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-165/193",
+            "name": "Corvisquire",
+            "number": "165/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/CorvisquireEvoluzioniaPaldea165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-166/193",
+            "name": "Tandemaus",
+            "number": "166/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/TandemausEvoluzioniaPaldea166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-167/193",
+            "name": "Tandemaus",
+            "number": "167/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/TandemausEvoluzioniaPaldea167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-168/193",
+            "name": "Maushold",
+            "number": "168/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MausholdEvoluzioniaPaldea168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-169/193",
+            "name": "Squawkabilly-ex",
+            "number": "169/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Squawkabilly-exEvoluzioniaPaldea169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-170/193",
+            "name": "Flamigo",
+            "number": "170/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/FlamigoEvoluzioniaPaldea170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-171/193",
+            "name": "Los Tazones",
+            "number": "171/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/LosTazonesEvoluzioniaPaldea171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-172/193",
+            "name": "Ordini del Capo [Ghecis]",
+            "number": "172/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/OrdinidelCapoEvoluzioniaPaldea172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-173/193",
+            "name": "Amuleto del Coraggio",
+            "number": "173/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/AmuletodelCoraggioEvoluzioniaPaldea173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-174/193",
+            "name": "Monte Nevoso della Disgrazia",
+            "number": "174/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MonteNevosodellaDisgraziaEvoluzioniaPaldea174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-175/193",
+            "name": "Landa della Disgrazia",
+            "number": "175/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/LandadellaDisgraziaEvoluzioniaPaldea175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-176/193",
+            "name": "Cinturascelta",
+            "number": "176/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/CinturasceltaEvoluzioniaPaldea176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-177/193",
+            "name": "Clavel",
+            "number": "177/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/ClavelEvoluzioniaPaldea177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-178/193",
+            "name": "Drone da Consegna",
+            "number": "178/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/DronedaConsegnaEvoluzioniaPaldea178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-179/193",
+            "name": "Dendra",
+            "number": "179/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/DendraEvoluzioniaPaldea179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-180/193",
+            "name": "Valerio",
+            "number": "180/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/ValerioEvoluzioniaPaldea180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-181/193",
+            "name": "Latte di Lotta",
+            "number": "181/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/LattediLottaEvoluzioniaPaldea181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-182/193",
+            "name": "Romelio",
+            "number": "182/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/RomelioEvoluzioniaPaldea182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-183/193",
+            "name": "Mega Ball",
+            "number": "183/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/MegaBallEvoluzioniaPaldea183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-184/193",
+            "name": "Grusha",
+            "number": "184/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/GrushaEvoluzioniaPaldea184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-185/193",
+            "name": "Kissara",
+            "number": "185/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/KissaraEvoluzioniaPaldea185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-186/193",
+            "name": "Sala Attrezzi",
+            "number": "186/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SalaAttrezziEvoluzioniaPaldea186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-187/193",
+            "name": "Guaro",
+            "number": "187/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/GuaroEvoluzioniaPaldea187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-188/193",
+            "name": "Canna da pesca super",
+            "number": "188/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/CannadapescasuperEvoluzioniaPaldea188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-189/193",
+            "name": "Recupero di Energia Plus",
+            "number": "189/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/RecuperodiEnergiaPlusEvoluzioniaPaldea189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-190/193",
+            "name": "Energia Jet",
+            "number": "190/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/EnergiaJetEvoluzioniaPaldea190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-191/193",
+            "name": "Energia Luminosa",
+            "number": "191/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/EnergiaLuminosaEvoluzioniaPaldea191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-192/193",
+            "name": "Energia Inversione",
+            "number": "192/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/EnergiaInversioneEvoluzioniaPaldea192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-193/193",
+            "name": "Energia Terapeutica",
+            "number": "193/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/EnergiaTerapeuticaEvoluzioniaPaldea193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAL-194/193",
+            "name": "Heracross",
+            "number": "194/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/HeracrossEvoluzioniaPaldea194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-195/193",
+            "name": "Tropius",
+            "number": "195/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/TropiusEvoluzioniaPaldea195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-196/193",
+            "name": "Sprigatito",
+            "number": "196/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SprigatitoEvoluzioniaPaldea196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-197/193",
+            "name": "Floragato",
+            "number": "197/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/FloragatoEvoluzioniaPaldea197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-198/193",
+            "name": "Bramblin",
+            "number": "198/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/BramblinEvoluzioniaPaldea198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-199/193",
+            "name": "Fletchinder",
+            "number": "199/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/FletchinderEvoluzioniaPaldea199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-200/193",
+            "name": "Pyroar",
+            "number": "200/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/PyroarEvoluzioniaPaldea200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-201/193",
+            "name": "Fuecoco",
+            "number": "201/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/FuecocoEvoluzioniaPaldea201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-202/193",
+            "name": "Crocalor",
+            "number": "202/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CrocalorEvoluzioniaPaldea202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-203/193",
+            "name": "Magikarp",
+            "number": "203/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/MagikarpEvoluzioniaPaldea203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-204/193",
+            "name": "Marill",
+            "number": "204/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/MarillEvoluzioniaPaldea204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-205/193",
+            "name": "Eiscue",
+            "number": "205/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/EiscueEvoluzioniaPaldea205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-206/193",
+            "name": "Quaxly",
+            "number": "206/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/QuaxlyEvoluzioniaPaldea206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-207/193",
+            "name": "Quaxwell",
+            "number": "207/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/QuaxwellEvoluzioniaPaldea207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-208/193",
+            "name": "Frigibax",
+            "number": "208/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/FrigibaxEvoluzioniaPaldea208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-209/193",
+            "name": "Arctibax",
+            "number": "209/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ArctibaxEvoluzioniaPaldea209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-210/193",
+            "name": "Baxcalibur",
+            "number": "210/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/BaxcaliburEvoluzioniaPaldea210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-211/193",
+            "name": "Raichu",
+            "number": "211/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/RaichuEvoluzioniaPaldea211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-212/193",
+            "name": "Mismagius",
+            "number": "212/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MismagiusEvoluzioniaPaldea212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-213/193",
+            "name": "Gothorita",
+            "number": "213/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/GothoritaEvoluzioniaPaldea213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-214/193",
+            "name": "Sandygast",
+            "number": "214/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/SandygastEvoluzioniaPaldea214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-215/193",
+            "name": "Rabsca",
+            "number": "215/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/RabscaEvoluzioniaPaldea215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-216/193",
+            "name": "Tinkatink",
+            "number": "216/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/TinkatinkEvoluzioniaPaldea216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-217/193",
+            "name": "Tinkatuff",
+            "number": "217/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/TinkatuffEvoluzioniaPaldea217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-218/193",
+            "name": "Tauros di Paldea",
+            "number": "218/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/TaurosdiPaldeaEvoluzioniaPaldea218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-219/193",
+            "name": "Sudowoodo",
+            "number": "219/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SudowoodoEvoluzioniaPaldea219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-220/193",
+            "name": "Nacli",
+            "number": "220/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/NacliEvoluzioniaPaldea220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-221/193",
+            "name": "Wooper di Paldea",
+            "number": "221/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/WooperdiPaldeaEvoluzioniaPaldea221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-222/193",
+            "name": "Tyranitar",
+            "number": "222/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/TyranitarEvoluzioniaPaldea222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-223/193",
+            "name": "Grafaiai",
+            "number": "223/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/GrafaiaiEvoluzioniaPaldea223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-224/193",
+            "name": "Orthworm",
+            "number": "224/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/OrthwormEvoluzioniaPaldea224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-225/193",
+            "name": "Rookidee",
+            "number": "225/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/RookideeEvoluzioniaPaldea225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-226/193",
+            "name": "Maushold",
+            "number": "226/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MausholdEvoluzioniaPaldea226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-227/193",
+            "name": "Flamigo",
+            "number": "227/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/FlamigoEvoluzioniaPaldea227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-228/193",
+            "name": "Farigiraf",
+            "number": "228/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/FarigirafEvoluzioniaPaldea228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-229/193",
+            "name": "Dudunsparce",
+            "number": "229/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/DudunsparceEvoluzioniaPaldea229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-230/193",
+            "name": "Forretress",
+            "number": "230/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Forretress-exEvoluzioniaPaldea230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-231/193",
+            "name": "Meowscarada-ex",
+            "number": "231/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Meowscarada-exEvoluzioniaPaldea231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-232/193",
+            "name": "Wo-Chien-ex",
+            "number": "232/193",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Wo-Chien-exEvoluzioniaPaldea232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-233/193",
+            "name": "Skeledirge-ex",
+            "number": "233/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Skeledirge-exEvoluzioniaPaldea233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-234/193",
+            "name": "Chi-Yu-ex",
+            "number": "234/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Chi-Yu-exEvoluzioniaPaldea234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-235/193",
+            "name": "Quaquaval-ex",
+            "number": "235/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Quaquaval-exEvoluzioniaPaldea235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-236/193",
+            "name": "Chien-Pao-ex",
+            "number": "236/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Chien-Pao-exEvoluzioniaPaldea236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-237/193",
+            "name": "Bellibolt-ex",
+            "number": "237/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Bellibolt-exEvoluzioniaPaldea237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-238/193",
+            "name": "Slowking-ex",
+            "number": "238/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Slowking-exEvoluzioniaPaldea238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-239/193",
+            "name": "Dedenne-ex",
+            "number": "239/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Dedenne-exEvoluzioniaPaldea239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-240/193",
+            "name": "Tinkaton-ex",
+            "number": "240/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Tinkaton-exEvoluzioniaPaldea240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-241/193",
+            "name": "Lycanroc-ex",
+            "number": "241/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Lycanroc-exEvoluzioniaPaldea241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-242/193",
+            "name": "Annihilape-ex",
+            "number": "242/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Annihilape-exEvoluzioniaPaldea242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-243/193",
+            "name": "Ting-Lu-ex",
+            "number": "243/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Ting-Lu-exEvoluzioniaPaldea243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-244/193",
+            "name": "Clodsire di Paldea-ex",
+            "number": "244/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/ClodsirediPaldea-exEvoluzioniaPaldea244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-245/193",
+            "name": "Copperajah-ex",
+            "number": "245/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Copperajah-exEvoluzioniaPaldea245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-246/193",
+            "name": "Noivern-ex",
+            "number": "246/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Noivern-exEvoluzioniaPaldea246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-247/193",
+            "name": "Squawkabilly-ex",
+            "number": "247/193",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Squawkabilly-exEvoluzioniaPaldea247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-248/193",
+            "name": "Ordini del Capo [Ghecis]",
+            "number": "248/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/OrdinidelCapoEvoluzioniaPaldea248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-249/193",
+            "name": "Clavel",
+            "number": "249/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ClavelEvoluzioniaPaldea249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-250/193",
+            "name": "Dendra",
+            "number": "250/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/DendraEvoluzioniaPaldea250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-251/193",
+            "name": "Valerio",
+            "number": "251/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ValerioEvoluzioniaPaldea251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-252/193",
+            "name": "Romelio",
+            "number": "252/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/RomelioEvoluzioniaPaldea252.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-253/193",
+            "name": "Grusha",
+            "number": "253/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/GrushaEvoluzioniaPaldea253.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-254/193",
+            "name": "Kissara",
+            "number": "254/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/KissaraEvoluzioniaPaldea254.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-255/193",
+            "name": "Guaro",
+            "number": "255/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/GuaroEvoluzioniaPaldea255.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-256/193",
+            "name": "Meowscarada-ex",
+            "number": "256/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Meowscarada-exEvoluzioniaPaldea256.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-257/193",
+            "name": "Wo-Chien-ex",
+            "number": "257/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Wo-Chien-exEvoluzioniaPaldea257.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-258/193",
+            "name": "Skeledirge-ex",
+            "number": "258/193",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Skeledirge-exEvoluzioniaPaldea258.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-259/193",
+            "name": "Chi-Yu-ex",
+            "number": "259/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Chi-Yu-exEvoluzioniaPaldea259.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-260/193",
+            "name": "Quaquaval-ex",
+            "number": "260/193",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Quaquaval-exEvoluzioniaPaldea260.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-261/193",
+            "name": "Chien-Pao-ex",
+            "number": "261/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Chien-Pao-exEvoluzioniaPaldea261.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-262/193",
+            "name": "Tinkaton-ex",
+            "number": "262/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Tinkaton-exEvoluzioniaPaldea262.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-263/193",
+            "name": "Ting-Lu-ex",
+            "number": "263/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Ting-Lu-exEvoluzioniaPaldea263.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-264/193",
+            "name": "Squawkabilly-ex",
+            "number": "264/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Squawkabilly-exEvoluzioniaPaldea264.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-265/193",
+            "name": "Ordini del Capo [Ghecis]",
+            "number": "265/193",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/OrdinidelCapoEvoluzioniaPaldea265.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-266/193",
+            "name": "Dendra",
+            "number": "266/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/DendraEvoluzioniaPaldea266.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-267/193",
+            "name": "Romelio",
+            "number": "267/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RomelioEvoluzioniaPaldea267.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-268/193",
+            "name": "Grusha",
+            "number": "268/193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/GrushaEvoluzioniaPaldea268.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-269/193",
+            "name": "Kissara",
+            "number": "269/193",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/KissaraEvoluzioniaPaldea269.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-270/193",
+            "name": "Guaro",
+            "number": "270/193",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/GuaroEvoluzioniaPaldea270.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-271/193",
+            "name": "Meowscarada-ex",
+            "number": "271/193",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Meowscarada-exEvoluzioniaPaldea271.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-272/193",
+            "name": "Skeledirge-ex",
+            "number": "272/193",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Skeledirge-exEvoluzioniaPaldea272.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-273/193",
+            "name": "Quaquaval-ex",
+            "number": "273/193",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Quaquaval-exEvoluzioniaPaldea273.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-274/193",
+            "name": "Chien-Pao-ex",
+            "number": "274/193",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Chien-Pao-exEvoluzioniaPaldea274.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-275/193",
+            "name": "Ting-Lu-ex",
+            "number": "275/193",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Ting-Lu-exEvoluzioniaPaldea275.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-276/193",
+            "name": "Canna da pesca super",
+            "number": "276/193",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CannadapescasuperEvoluzioniaPaldea276.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-277/193",
+            "name": "Recupero di Energia Plus",
+            "number": "277/193",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/RecuperodiEnergiaPlusEvoluzioniaPaldea277.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-278/193",
+            "name": "Energia base Erba",
+            "number": "278/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/EnergiabaseErbaEvoluzioniaPaldea278.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAL-279/193",
+            "name": "Energia base Acqua",
+            "number": "279/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/EnergiabaseAcquaEvoluzioniaPaldea279.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

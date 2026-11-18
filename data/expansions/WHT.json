@@ -1,0 +1,1234 @@
+{
+    "expansion": {
+        "id": "WHT",
+        "name": "Scarlatto e Violetto - Fuoco Bianco",
+        "year": 2025,
+        "month": 7,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/b/bf/Logo_Fuoco_Bianco.png",
+        "cardCount": 173
+    },
+    "cards": [
+        {
+            "id": "WHT-001/086",
+            "name": "Sewaddle",
+            "number": "001/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/SewaddleFuocoBianco1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-002/086",
+            "name": "Swadloon",
+            "number": "002/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/SwadloonFuocoBianco2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-003/086",
+            "name": "Leavanny",
+            "number": "003/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/LeavannyFuocoBianco3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-004/086",
+            "name": "Cottonee",
+            "number": "004/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/CottoneeFuocoBianco4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-005/086",
+            "name": "Whimsicott-ex",
+            "number": "005/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Whimsicott-exFuocoBianco5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-006/086",
+            "name": "Deerling",
+            "number": "006/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/DeerlingFuocoBianco6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-007/086",
+            "name": "Sawsbuck",
+            "number": "007/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/SawsbuckFuocoBianco7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-008/086",
+            "name": "Shelmet",
+            "number": "008/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ShelmetFuocoBianco8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-009/086",
+            "name": "Accelgor",
+            "number": "009/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AccelgorFuocoBianco9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-010/086",
+            "name": "Virizion",
+            "number": "010/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/VirizionFuocoBianco10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-011/086",
+            "name": "Tepig",
+            "number": "011/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/TepigFuocoBianco11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-012/086",
+            "name": "Pignite",
+            "number": "012/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/PigniteFuocoBianco12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-013/086",
+            "name": "Emboar",
+            "number": "013/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/EmboarFuocoBianco13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-014/086",
+            "name": "Pansear",
+            "number": "014/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PansearFuocoBianco14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-015/086",
+            "name": "Simisear",
+            "number": "015/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SimisearFuocoBianco15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-016/086",
+            "name": "Litwick",
+            "number": "016/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/LitwickFuocoBianco16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-017/086",
+            "name": "Lampent",
+            "number": "017/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/LampentFuocoBianco17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-018/086",
+            "name": "Chandelure",
+            "number": "018/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ChandelureFuocoBianco18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-019/086",
+            "name": "Heatmor",
+            "number": "019/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/HeatmorFuocoBianco19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-020/086",
+            "name": "Reshiram-ex",
+            "number": "020/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Reshiram-exFuocoBianco20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-021/086",
+            "name": "Oshawott",
+            "number": "021/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/OshawottFuocoBianco21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-022/086",
+            "name": "Dewott",
+            "number": "022/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/DewottFuocoBianco22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-023/086",
+            "name": "Samurott",
+            "number": "023/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SamurottFuocoBianco23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-024/086",
+            "name": "Basculin",
+            "number": "024/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/BasculinFuocoBianco24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-025/086",
+            "name": "Ducklett",
+            "number": "025/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/DucklettFuocoBianco25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-026/086",
+            "name": "Swanna",
+            "number": "026/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/SwannaFuocoBianco26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-027/086",
+            "name": "Vanillite",
+            "number": "027/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/VanilliteFuocoBianco27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-028/086",
+            "name": "Vanillish",
+            "number": "028/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/VanillishFuocoBianco28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-029/086",
+            "name": "Vanilluxe",
+            "number": "029/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/VanilluxeFuocoBianco29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-030/086",
+            "name": "Keldeo-ex",
+            "number": "030/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Keldeo-exFuocoBianco30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-031/086",
+            "name": "Blitzle",
+            "number": "031/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/BlitzleFuocoBianco31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-032/086",
+            "name": "Zebstrika",
+            "number": "032/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ZebstrikaFuocoBianco32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-033/086",
+            "name": "Joltik",
+            "number": "033/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/JoltikFuocoBianco33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-034/086",
+            "name": "Galvantula",
+            "number": "034/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/GalvantulaFuocoBianco34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-035/086",
+            "name": "Stunfisk",
+            "number": "035/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/StunfiskFuocoBianco35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-036/086",
+            "name": "Woobat",
+            "number": "036/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/WoobatFuocoBianco36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-037/086",
+            "name": "Swoobat",
+            "number": "037/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/SwoobatFuocoBianco37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-038/086",
+            "name": "Sigilyph",
+            "number": "038/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SigilyphFuocoBianco38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-039/086",
+            "name": "Yamask",
+            "number": "039/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/YamaskFuocoBianco39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-040/086",
+            "name": "Cofagrigus",
+            "number": "040/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/CofagrigusFuocoBianco40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-041/086",
+            "name": "Gothita",
+            "number": "041/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/GothitaFuocoBianco41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-042/086",
+            "name": "Gothorita",
+            "number": "042/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/GothoritaFuocoBianco42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-043/086",
+            "name": "Gothitelle",
+            "number": "043/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/GothitelleFuocoBianco43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-044/086",
+            "name": "Frillish",
+            "number": "044/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/FrillishFuocoBianco44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-045/086",
+            "name": "Jellicent-ex",
+            "number": "045/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Jellicent-exFuocoBianco45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-046/086",
+            "name": "Roggenrola",
+            "number": "046/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RoggenrolaFuocoBianco46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-047/086",
+            "name": "Boldore",
+            "number": "047/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/BoldoreFuocoBianco47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-048/086",
+            "name": "Gigalith",
+            "number": "048/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/GigalithFuocoBianco48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-049/086",
+            "name": "Sawk",
+            "number": "049/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/SawkFuocoBianco49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-050/086",
+            "name": "Archen",
+            "number": "050/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ArchenFuocoBianco50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-051/086",
+            "name": "Archeops",
+            "number": "051/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/ArcheopsFuocoBianco51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-052/086",
+            "name": "Mienfoo",
+            "number": "052/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MienfooFuocoBianco52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-053/086",
+            "name": "Mienshao",
+            "number": "053/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MienshaoFuocoBianco53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-054/086",
+            "name": "Terrakion",
+            "number": "054/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/TerrakionFuocoBianco54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-055/086",
+            "name": "Purrloin",
+            "number": "055/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/PurrloinFuocoBianco55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-056/086",
+            "name": "Liepard",
+            "number": "056/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/LiepardFuocoBianco56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-057/086",
+            "name": "Scraggy",
+            "number": "057/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/ScraggyFuocoBianco57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-058/086",
+            "name": "Scrafty",
+            "number": "058/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ScraftyFuocoBianco58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-059/086",
+            "name": "Trubbish",
+            "number": "059/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/TrubbishFuocoBianco59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-060/086",
+            "name": "Garbodor",
+            "number": "060/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/GarbodorFuocoBianco60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-061/086",
+            "name": "Zorua",
+            "number": "061/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ZoruaFuocoBianco61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-062/086",
+            "name": "Zoroark",
+            "number": "062/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ZoroarkFuocoBianco62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-063/086",
+            "name": "Vullaby",
+            "number": "063/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/VullabyFuocoBianco63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-064/086",
+            "name": "Mandibuzz",
+            "number": "064/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/MandibuzzFuocoBianco64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-065/086",
+            "name": "Deino",
+            "number": "065/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DeinoFuocoBianco65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-066/086",
+            "name": "Zweilous",
+            "number": "066/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ZweilousFuocoBianco66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-067/086",
+            "name": "Hydreigon-ex",
+            "number": "067/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Hydreigon-exFuocoBianco67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-068/086",
+            "name": "Ferroseed",
+            "number": "068/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/FerroseedFuocoBianco68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-069/086",
+            "name": "Ferrothorn",
+            "number": "069/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/FerrothornFuocoBianco69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-070/086",
+            "name": "Durant",
+            "number": "070/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/DurantFuocoBianco70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-071/086",
+            "name": "Druddigon",
+            "number": "071/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/DruddigonFuocoBianco71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-072/086",
+            "name": "Patrat",
+            "number": "072/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/PatratFuocoBianco72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-073/086",
+            "name": "Watchog",
+            "number": "073/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/WatchogFuocoBianco73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-074/086",
+            "name": "Lillipup",
+            "number": "074/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/LillipupFuocoBianco74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-075/086",
+            "name": "Herdier",
+            "number": "075/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/HerdierFuocoBianco75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-076/086",
+            "name": "Stoutland",
+            "number": "076/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/StoutlandFuocoBianco76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-077/086",
+            "name": "Bouffalant-ex",
+            "number": "077/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Bouffalant-exFuocoBianco77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-078/086",
+            "name": "Tornadus",
+            "number": "078/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/TornadusFuocoBianco78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-079/086",
+            "name": "Vecchio Fossilpiuma",
+            "number": "079/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/VecchioFossilpiumaFuocoBianco79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-080/086",
+            "name": "Braccialcoraggio",
+            "number": "080/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/BraccialcoraggioFuocoBianco80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-081/086",
+            "name": "Komor",
+            "number": "081/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/KomorFuocoBianco81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-082/086",
+            "name": "Recupero di Energia",
+            "number": "082/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/RecuperodiEnergiaFuocoBianco82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-083/086",
+            "name": "Buffone",
+            "number": "083/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BuffoneFuocoBianco83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-084/086",
+            "name": "Anita",
+            "number": "084/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/AnitaFuocoBianco84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-085/086",
+            "name": "Scartaoggetti",
+            "number": "085/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ScartaoggettiFuocoBianco85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-086/086",
+            "name": "Energia Deflagrazione",
+            "number": "086/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/EnergiaDeflagrazioneFuocoBianco86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "WHT-087/086",
+            "name": "Sewaddle",
+            "number": "087/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SewaddleFuocoBianco87.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-088/086",
+            "name": "Swadloon",
+            "number": "088/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/SwadloonFuocoBianco88.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-089/086",
+            "name": "Leavanny",
+            "number": "089/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/LeavannyFuocoBianco89.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-090/086",
+            "name": "Cottonee",
+            "number": "090/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/CottoneeFuocoBianco90.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-091/086",
+            "name": "Deerling",
+            "number": "091/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DeerlingFuocoBianco91.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-092/086",
+            "name": "Sawsbuck",
+            "number": "092/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/SawsbuckFuocoBianco92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-093/086",
+            "name": "Shelmet",
+            "number": "093/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/ShelmetFuocoBianco93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-094/086",
+            "name": "Accelgor",
+            "number": "094/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/AccelgorFuocoBianco94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-095/086",
+            "name": "Virizion",
+            "number": "095/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/VirizionFuocoBianco95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-096/086",
+            "name": "Tepig",
+            "number": "096/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/TepigFuocoBianco96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-097/086",
+            "name": "Pignite",
+            "number": "097/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PigniteFuocoBianco97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-098/086",
+            "name": "Emboar",
+            "number": "098/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/EmboarFuocoBianco98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-099/086",
+            "name": "Pansear",
+            "number": "099/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PansearFuocoBianco99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-100/086",
+            "name": "Simisear",
+            "number": "100/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SimisearFuocoBianco100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-101/086",
+            "name": "Litwick",
+            "number": "101/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/LitwickFuocoBianco101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-102/086",
+            "name": "Lampent",
+            "number": "102/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/LampentFuocoBianco102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-103/086",
+            "name": "Chandelure",
+            "number": "103/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/ChandelureFuocoBianco103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-104/086",
+            "name": "Heatmor",
+            "number": "104/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/HeatmorFuocoBianco104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-105/086",
+            "name": "Oshawott",
+            "number": "105/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/OshawottFuocoBianco105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-106/086",
+            "name": "Dewott",
+            "number": "106/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/DewottFuocoBianco106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-107/086",
+            "name": "Samurott",
+            "number": "107/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SamurottFuocoBianco107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-108/086",
+            "name": "Basculin",
+            "number": "108/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/BasculinFuocoBianco108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-109/086",
+            "name": "Ducklett",
+            "number": "109/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/DucklettFuocoBianco109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-110/086",
+            "name": "Swanna",
+            "number": "110/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/SwannaFuocoBianco110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-111/086",
+            "name": "Vanillite",
+            "number": "111/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/VanilliteFuocoBianco111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-112/086",
+            "name": "Vanillish",
+            "number": "112/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/VanillishFuocoBianco112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-113/086",
+            "name": "Vanilluxe",
+            "number": "113/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/VanilluxeFuocoBianco113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-114/086",
+            "name": "Blitzle",
+            "number": "114/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/BlitzleFuocoBianco114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-115/086",
+            "name": "Zebstrika",
+            "number": "115/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ZebstrikaFuocoBianco115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-116/086",
+            "name": "Joltik",
+            "number": "116/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/JoltikFuocoBianco116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-117/086",
+            "name": "Galvantula",
+            "number": "117/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/GalvantulaFuocoBianco117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-118/086",
+            "name": "Stunfisk",
+            "number": "118/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/StunfiskFuocoBianco118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-119/086",
+            "name": "Woobat",
+            "number": "119/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/WoobatFuocoBianco119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-120/086",
+            "name": "Swoobat",
+            "number": "120/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SwoobatFuocoBianco120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-121/086",
+            "name": "Sigilyph",
+            "number": "121/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SigilyphFuocoBianco121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-122/086",
+            "name": "Yamask",
+            "number": "122/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/YamaskFuocoBianco122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-123/086",
+            "name": "Cofagrigus",
+            "number": "123/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CofagrigusFuocoBianco123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-124/086",
+            "name": "Gothita",
+            "number": "124/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/GothitaFuocoBianco124.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-125/086",
+            "name": "Gothorita",
+            "number": "125/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/GothoritaFuocoBianco125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-126/086",
+            "name": "Frillish",
+            "number": "126/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/FrillishFuocoBianco126.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-127/086",
+            "name": "Roggenrola",
+            "number": "127/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/RoggenrolaFuocoBianco127.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-128/086",
+            "name": "Boldore",
+            "number": "128/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/BoldoreFuocoBianco128.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-129/086",
+            "name": "Gigalith",
+            "number": "129/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/GigalithFuocoBianco129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-130/086",
+            "name": "Sawk",
+            "number": "130/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/SawkFuocoBianco130.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-131/086",
+            "name": "Archen",
+            "number": "131/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ArchenFuocoBianco131.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-132/086",
+            "name": "Archeops",
+            "number": "132/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/ArcheopsFuocoBianco132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-133/086",
+            "name": "Mienfoo",
+            "number": "133/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/MienfooFuocoBianco133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-134/086",
+            "name": "Mienshao",
+            "number": "134/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MienshaoFuocoBianco134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-135/086",
+            "name": "Terrakion",
+            "number": "135/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TerrakionFuocoBianco135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-136/086",
+            "name": "Purrloin",
+            "number": "136/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PurrloinFuocoBianco136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-137/086",
+            "name": "Liepard",
+            "number": "137/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/LiepardFuocoBianco137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-138/086",
+            "name": "Scraggy",
+            "number": "138/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/ScraggyFuocoBianco138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-139/086",
+            "name": "Scrafty",
+            "number": "139/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ScraftyFuocoBianco139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-140/086",
+            "name": "Trubbish",
+            "number": "140/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/TrubbishFuocoBianco140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-141/086",
+            "name": "Garbodor",
+            "number": "141/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/GarbodorFuocoBianco141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-142/086",
+            "name": "Zorua",
+            "number": "142/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ZoruaFuocoBianco142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-143/086",
+            "name": "Zoroark",
+            "number": "143/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/ZoroarkFuocoBianco143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-144/086",
+            "name": "Vullaby",
+            "number": "144/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/VullabyFuocoBianco144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-145/086",
+            "name": "Mandibuzz",
+            "number": "145/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/MandibuzzFuocoBianco145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-146/086",
+            "name": "Deino",
+            "number": "146/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/DeinoFuocoBianco146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-147/086",
+            "name": "Zweilous",
+            "number": "147/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ZweilousFuocoBianco147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-148/086",
+            "name": "Ferroseed",
+            "number": "148/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/FerroseedFuocoBianco148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-149/086",
+            "name": "Ferrothorn",
+            "number": "149/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/FerrothornFuocoBianco149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-150/086",
+            "name": "Durant",
+            "number": "150/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DurantFuocoBianco150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-151/086",
+            "name": "Druddigon",
+            "number": "151/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/DruddigonFuocoBianco151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-152/086",
+            "name": "Patrat",
+            "number": "152/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/PatratFuocoBianco152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-153/086",
+            "name": "Watchog",
+            "number": "153/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/WatchogFuocoBianco153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-154/086",
+            "name": "Lillipup",
+            "number": "154/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/LillipupFuocoBianco154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-155/086",
+            "name": "Herdier",
+            "number": "155/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/HerdierFuocoBianco155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-156/086",
+            "name": "Stoutland",
+            "number": "156/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/StoutlandFuocoBianco156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-157/086",
+            "name": "Whimsicott-ex",
+            "number": "157/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Whimsicott-exFuocoBianco157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-158/086",
+            "name": "Reshiram-ex",
+            "number": "158/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Reshiram-exFuocoBianco158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-159/086",
+            "name": "Keldeo-ex",
+            "number": "159/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Keldeo-exFuocoBianco159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-160/086",
+            "name": "Jellicent-ex",
+            "number": "160/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Jellicent-exFuocoBianco160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-161/086",
+            "name": "Hydreigon-ex",
+            "number": "161/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Hydreigon-exFuocoBianco161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-162/086",
+            "name": "Bouffalant-ex",
+            "number": "162/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Bouffalant-exFuocoBianco162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-163/086",
+            "name": "Buffone",
+            "number": "163/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/BuffoneFuocoBianco163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-164/086",
+            "name": "Anita",
+            "number": "164/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/AnitaFuocoBianco164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-165/086",
+            "name": "Whimsicott-ex",
+            "number": "165/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Whimsicott-exFuocoBianco165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-166/086",
+            "name": "Reshiram-ex",
+            "number": "166/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Reshiram-exFuocoBianco166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-167/086",
+            "name": "Keldeo-ex",
+            "number": "167/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Keldeo-exFuocoBianco167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-168/086",
+            "name": "Jellicent-ex",
+            "number": "168/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Jellicent-exFuocoBianco168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-169/086",
+            "name": "Hydreigon-ex",
+            "number": "169/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Hydreigon-exFuocoBianco169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-170/086",
+            "name": "Bouffalant-ex",
+            "number": "170/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Bouffalant-exFuocoBianco170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-171/086",
+            "name": "Anita",
+            "number": "171/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/AnitaFuocoBianco171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-172/086",
+            "name": "Victini",
+            "number": "172/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/VictiniFuocoBianco172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "WHT-173/086",
+            "name": "Reshiram-ex",
+            "number": "173/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Reshiram-exFuocoBianco173.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-017",
+				"SVE-018",
+				"SVE-019",
+				"SVE-020",
+				"SVE-021",
+				"SVE-022",
+				"SVE-023",
+				"SVE-024"
+		]
+}

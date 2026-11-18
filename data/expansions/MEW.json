@@ -1,0 +1,1472 @@
+{
+    "expansion": {
+        "id": "MEW",
+        "name": "Scarlatto e Violetto - 151",
+        "year": 2023,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/9e/SimboloSet151.png",
+        "cardCount": 207
+    },
+    "cards": [
+        {
+            "id": "MEW-001/165",
+            "name": "Bulbasaur",
+            "number": "001/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Bulbasaur151-1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-002/165",
+            "name": "Ivysaur",
+            "number": "002/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Ivysaur151-2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-003/165",
+            "name": "Venusaur-ex",
+            "number": "003/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Venusaur-ex151-3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-004/165",
+            "name": "Charmander",
+            "number": "004/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Charmander151-4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-005/165",
+            "name": "Charmeleon",
+            "number": "005/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Charmeleon151-5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-006/165",
+            "name": "Charizard-ex",
+            "number": "006/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Charizard-ex151-6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-007/165",
+            "name": "Squirtle",
+            "number": "007/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Squirtle151-7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-008/165",
+            "name": "Wartortle",
+            "number": "008/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Wartortle151-8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-009/165",
+            "name": "Blastoise-ex",
+            "number": "009/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Blastoise-ex151-9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-010/165",
+            "name": "Caterpie",
+            "number": "010/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Caterpie151-10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-011/165",
+            "name": "Metapod",
+            "number": "011/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Metapod151-11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-012/165",
+            "name": "Butterfree",
+            "number": "012/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Butterfree151-12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-013/165",
+            "name": "Weedle",
+            "number": "013/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Weedle151-13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-014/165",
+            "name": "Kakuna",
+            "number": "014/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Kakuna151-14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-015/165",
+            "name": "Beedrill",
+            "number": "015/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Beedrill151-15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-016/165",
+            "name": "Pidgey",
+            "number": "016/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Pidgey151-16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-017/165",
+            "name": "Pidgeotto",
+            "number": "017/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Pidgeotto151-17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-018/165",
+            "name": "Pidgeot",
+            "number": "018/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Pidgeot151-18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-019/165",
+            "name": "Rattata",
+            "number": "019/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Rattata151-19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-020/165",
+            "name": "Raticate",
+            "number": "020/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Raticate151-20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-021/165",
+            "name": "Spearow",
+            "number": "021/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Spearow151-21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-022/165",
+            "name": "Fearow",
+            "number": "022/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Fearow151-22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-023/165",
+            "name": "Ekans",
+            "number": "023/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Ekans151-23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-024/165",
+            "name": "Arbok-ex",
+            "number": "024/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Arbok-ex151-24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-025/165",
+            "name": "Pikachu",
+            "number": "025/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Pikachu151-25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-026/165",
+            "name": "Raichu",
+            "number": "026/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Raichu151-26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-027/165",
+            "name": "Sandshrew",
+            "number": "027/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Sandshrew151-27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-028/165",
+            "name": "Sandslash",
+            "number": "028/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Sandslash151-28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-029/165",
+            "name": "Nidoran♀",
+            "number": "029/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Nidoran151-29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-030/165",
+            "name": "Nidorina",
+            "number": "030/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/Nidorina151-30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-031/165",
+            "name": "Nidoqueen",
+            "number": "031/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Nidoqueen151-31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-032/165",
+            "name": "Nidoran♂",
+            "number": "032/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/Nidoran151-32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-033/165",
+            "name": "Nidorino",
+            "number": "033/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Nidorino151-33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-034/165",
+            "name": "Nidoking",
+            "number": "034/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Nidoking151-34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-035/165",
+            "name": "Clefairy",
+            "number": "035/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Clefairy151-35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-036/165",
+            "name": "Clefable",
+            "number": "036/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Clefable151-36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-037/165",
+            "name": "Vulpix",
+            "number": "037/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/Vulpix151-37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-038/165",
+            "name": "Ninetales-ex",
+            "number": "038/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Ninetales-ex151-38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-039/165",
+            "name": "Jigglypuff",
+            "number": "039/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Jigglypuff151-39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-040/165",
+            "name": "Wigglytuff-ex",
+            "number": "040/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/Wigglytuff-ex151-40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-041/165",
+            "name": "Zubat",
+            "number": "041/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Zubat151-41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-042/165",
+            "name": "Golbat",
+            "number": "042/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Golbat151-42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-043/165",
+            "name": "Oddish",
+            "number": "043/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Oddish151-43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-044/165",
+            "name": "Gloom",
+            "number": "044/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Gloom151-44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-045/165",
+            "name": "Vileplume",
+            "number": "045/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Vileplume151-45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-046/165",
+            "name": "Paras",
+            "number": "046/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Paras151-46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-047/165",
+            "name": "Parasect",
+            "number": "047/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/Parasect151-47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-048/165",
+            "name": "Venonat",
+            "number": "048/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Venonat151-48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-049/165",
+            "name": "Venomoth",
+            "number": "049/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Venomoth151-49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-050/165",
+            "name": "Diglett",
+            "number": "050/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Diglett151-50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-051/165",
+            "name": "Dugtrio",
+            "number": "051/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Dugtrio151-51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-052/165",
+            "name": "Meowth",
+            "number": "052/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Meowth151-52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-053/165",
+            "name": "Persian",
+            "number": "053/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Persian151-53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-054/165",
+            "name": "Psyduck",
+            "number": "054/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Psyduck151-54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-055/165",
+            "name": "Golduck",
+            "number": "055/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Golduck151-55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-056/165",
+            "name": "Mankey",
+            "number": "056/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Mankey151-56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-057/165",
+            "name": "Primeape",
+            "number": "057/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Primeape151-57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-058/165",
+            "name": "Growlithe",
+            "number": "058/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Growlithe151-58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-059/165",
+            "name": "Arcanine",
+            "number": "059/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Arcanine151-59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-060/165",
+            "name": "Poliwag",
+            "number": "060/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Poliwag151-60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-061/165",
+            "name": "Poliwhirl",
+            "number": "061/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Poliwhirl151-61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-062/165",
+            "name": "Poliwrath",
+            "number": "062/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Poliwrath151-62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-063/165",
+            "name": "Abra",
+            "number": "063/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Abra151-63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-064/165",
+            "name": "Kadabra",
+            "number": "064/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Kadabra151-64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-065/165",
+            "name": "Alakazam-ex",
+            "number": "065/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Alakazam-ex151-65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-066/165",
+            "name": "Machop",
+            "number": "066/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Machop151-66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-067/165",
+            "name": "Machoke",
+            "number": "067/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Machoke151-67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-068/165",
+            "name": "Machamp",
+            "number": "068/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Machamp151-68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-069/165",
+            "name": "Bellsprout",
+            "number": "069/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Bellsprout151-69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-070/165",
+            "name": "Weepinbell",
+            "number": "070/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/Weepinbell151-70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-071/165",
+            "name": "Victreebel",
+            "number": "071/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Victreebel151-71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-072/165",
+            "name": "Tentacool",
+            "number": "072/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Tentacool151-72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-073/165",
+            "name": "Tentacruel",
+            "number": "073/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Tentacruel151-73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-074/165",
+            "name": "Geodude",
+            "number": "074/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Geodude151-74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-075/165",
+            "name": "Graveler",
+            "number": "075/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Graveler151-75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-076/165",
+            "name": "Golem-ex",
+            "number": "076/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/Golem-ex151-76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-077/165",
+            "name": "Ponyta",
+            "number": "077/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Ponyta151-77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-078/165",
+            "name": "Rapidash",
+            "number": "078/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Rapidash151-78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-079/165",
+            "name": "Slowpoke",
+            "number": "079/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Slowpoke151-79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-080/165",
+            "name": "Slowbro",
+            "number": "080/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Slowbro151-80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-081/165",
+            "name": "Magnemite",
+            "number": "081/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Magnemite151-81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-082/165",
+            "name": "Magneton",
+            "number": "082/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Magneton151-82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-083/165",
+            "name": "Farfetch'd",
+            "number": "083/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Farfetchd151-83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-084/165",
+            "name": "Doduo",
+            "number": "084/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Doduo151-84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-085/165",
+            "name": "Dodrio",
+            "number": "085/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Dodrio151-85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-086/165",
+            "name": "Seel",
+            "number": "086/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/Seel151-86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-087/165",
+            "name": "Dewgong",
+            "number": "087/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Dewgong151-87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-088/165",
+            "name": "Grimer",
+            "number": "088/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Grimer151-88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-089/165",
+            "name": "Muk",
+            "number": "089/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Muk151-89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-090/165",
+            "name": "Shellder",
+            "number": "090/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Shellder151-90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-091/165",
+            "name": "Cloyster",
+            "number": "091/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Cloyster151-91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-092/165",
+            "name": "Gastly",
+            "number": "092/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Gastly151-92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-093/165",
+            "name": "Haunter",
+            "number": "093/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Haunter151-93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-094/165",
+            "name": "Gengar",
+            "number": "094/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Gengar151-94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-095/165",
+            "name": "Onix",
+            "number": "095/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Onix151-95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-096/165",
+            "name": "Drowzee",
+            "number": "096/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Drowzee151-96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-097/165",
+            "name": "Hypno",
+            "number": "097/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Hypno151-97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-098/165",
+            "name": "Krabby",
+            "number": "098/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/Krabby151-98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-099/165",
+            "name": "Kingler",
+            "number": "099/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Kingler151-99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-100/165",
+            "name": "Voltorb",
+            "number": "100/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Voltorb151-100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-101/165",
+            "name": "Electrode",
+            "number": "101/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Electrode151-101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-102/165",
+            "name": "Exeggcute",
+            "number": "102/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/Exeggcute151-102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-103/165",
+            "name": "Exeggutor",
+            "number": "103/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Exeggutor151-103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-104/165",
+            "name": "Cubone",
+            "number": "104/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Cubone151-104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-105/165",
+            "name": "Marowak",
+            "number": "105/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Marowak151-105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-106/165",
+            "name": "Hitmonlee",
+            "number": "106/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Hitmonlee151-106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-107/165",
+            "name": "Hitmonchan",
+            "number": "107/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Hitmonchan151-107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-108/165",
+            "name": "Lickitung",
+            "number": "108/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Lickitung151-108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-109/165",
+            "name": "Koffing",
+            "number": "109/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Koffing151-109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-110/165",
+            "name": "Weezing",
+            "number": "110/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Weezing151-110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-111/165",
+            "name": "Rhyhorn",
+            "number": "111/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Rhyhorn151-111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-112/165",
+            "name": "Rhydon",
+            "number": "112/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Rhydon151-112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-113/165",
+            "name": "Chansey",
+            "number": "113/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Chansey151-113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-114/165",
+            "name": "Tangela",
+            "number": "114/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Tangela151-114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-115/165",
+            "name": "Kangaskhan-ex",
+            "number": "115/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Kangaskhan-ex151-115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-116/165",
+            "name": "Horsea",
+            "number": "116/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Horsea151-116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-117/165",
+            "name": "Seadra",
+            "number": "117/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Seadra151-117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-118/165",
+            "name": "Goldeen",
+            "number": "118/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Goldeen151-118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-119/165",
+            "name": "Seaking",
+            "number": "119/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Seaking151-119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-120/165",
+            "name": "Staryu",
+            "number": "120/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Staryu151-120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-121/165",
+            "name": "Starmie",
+            "number": "121/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Starmie151-121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-122/165",
+            "name": "Mr. Mime",
+            "number": "122/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MrMime151-122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-123/165",
+            "name": "Scyther",
+            "number": "123/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Scyther151-123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-124/165",
+            "name": "Jynx-ex",
+            "number": "124/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Jynx-ex151-124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-125/165",
+            "name": "Electabuzz",
+            "number": "125/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Electabuzz151-125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-126/165",
+            "name": "Magmar",
+            "number": "126/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Magmar151-126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-127/165",
+            "name": "Pinsir",
+            "number": "127/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Pinsir151-127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-128/165",
+            "name": "Tauros",
+            "number": "128/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/Tauros151-128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-129/165",
+            "name": "Magikarp",
+            "number": "129/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Magikarp151-129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-130/165",
+            "name": "Gyarados",
+            "number": "130/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Gyarados151-130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-131/165",
+            "name": "Lapras",
+            "number": "131/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Lapras151-131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-132/165",
+            "name": "Ditto",
+            "number": "132/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Ditto151-132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-133/165",
+            "name": "Eevee",
+            "number": "133/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Eevee151-133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-134/165",
+            "name": "Vaporeon",
+            "number": "134/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Vaporeon151-134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-135/165",
+            "name": "Jolteon",
+            "number": "135/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/Jolteon151-135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-136/165",
+            "name": "Flareon",
+            "number": "136/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Flareon151-136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-137/165",
+            "name": "Porygon",
+            "number": "137/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Porygon151-137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-138/165",
+            "name": "Omanyte",
+            "number": "138/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Omanyte151-138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-139/165",
+            "name": "Omastar",
+            "number": "139/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Omastar151-139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-140/165",
+            "name": "Kabuto",
+            "number": "140/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Kabuto151-140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-141/165",
+            "name": "Kabutops",
+            "number": "141/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Kabutops151-141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-142/165",
+            "name": "Aerodactyl",
+            "number": "142/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Aerodactyl151-142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-143/165",
+            "name": "Snorlax",
+            "number": "143/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Snorlax151-143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-144/165",
+            "name": "Articuno",
+            "number": "144/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Articuno151-144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-145/165",
+            "name": "Zapdos-ex",
+            "number": "145/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/Zapdos-ex151-145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-146/165",
+            "name": "Moltres",
+            "number": "146/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Moltres151-146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-147/165",
+            "name": "Dratini",
+            "number": "147/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Dratini151-147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-148/165",
+            "name": "Dragonair",
+            "number": "148/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Dragonair151-148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-149/165",
+            "name": "Dragonite",
+            "number": "149/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/Dragonite151-149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-150/165",
+            "name": "Mewtwo",
+            "number": "150/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Mewtwo151-150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-151/165",
+            "name": "Mew-ex",
+            "number": "151/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Mew-ex151-151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-152/165",
+            "name": "Vecchio Domofossile",
+            "number": "152/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/VecchioDomofossile151-152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-153/165",
+            "name": "Vecchio Helixfossile",
+            "number": "153/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/VecchioHelixfossile151-153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-154/165",
+            "name": "Vecchia Ambra Antica",
+            "number": "154/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/VecchiaAmbraAntica151-154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-155/165",
+            "name": "Palloncino Gigante",
+            "number": "155/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/PalloncinoGigante151-155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-156/165",
+            "name": "Trasferimento di Bill",
+            "number": "156/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/TrasferimentodiBill151-156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-157/165",
+            "name": "Pista ciclabile",
+            "number": "157/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Pistaciclabile151-157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-158/165",
+            "name": "Aiuto di Margi",
+            "number": "158/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/AiutodiMargi151-158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-159/165",
+            "name": "Adesivo Energia",
+            "number": "159/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/AdesivoEnergia151-159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-160/165",
+            "name": "Invito di Erika",
+            "number": "160/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/InvitodiErika151-160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-161/165",
+            "name": "Carisma di Giovanni",
+            "number": "161/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/CarismadiGiovanni151-161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-162/165",
+            "name": "Pinza Afferra-Pokémon",
+            "number": "162/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/PinzaAfferra-Pok%C3%A9mon151-162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-163/165",
+            "name": "Avanzi",
+            "number": "163/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Avanzi151-163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-164/165",
+            "name": "Visieraprotettiva",
+            "number": "164/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Visieraprotettiva151-164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-165/165",
+            "name": "Bendarigida",
+            "number": "165/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Bendarigida151-165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "MEW-166/165",
+            "name": "Bulbasaur",
+            "number": "166/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Bulbasaur151-166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-167/165",
+            "name": "Ivysaur",
+            "number": "167/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Ivysaur151-167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-168/165",
+            "name": "Charmander",
+            "number": "168/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Charmander151-168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-169/165",
+            "name": "Charmeleon",
+            "number": "169/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Charmeleon151-169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-170/165",
+            "name": "Squirtle",
+            "number": "170/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Squirtle151-170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-171/165",
+            "name": "Wartortle",
+            "number": "171/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Wartortle151-171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-172/165",
+            "name": "Caterpie",
+            "number": "172/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Caterpie151-172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-173/165",
+            "name": "Pikachu",
+            "number": "173/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Pikachu151-173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-174/165",
+            "name": "Nidoking",
+            "number": "174/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Nidoking151-174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-175/165",
+            "name": "Psyduck",
+            "number": "175/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Psyduck151-175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-176/165",
+            "name": "Poliwhirl",
+            "number": "176/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Poliwhirl151-176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-177/165",
+            "name": "Machoke",
+            "number": "177/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Machoke151-177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-178/165",
+            "name": "Tangela",
+            "number": "178/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Tangela151-178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-179/165",
+            "name": "Mr. Mime",
+            "number": "179/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MrMime151-179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-180/165",
+            "name": "Omanyte",
+            "number": "180/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Omanyte151-180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-181/165",
+            "name": "Dragonair",
+            "number": "181/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Dragonair151-181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-182/165",
+            "name": "Venusaur-ex",
+            "number": "182/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Venusaur-ex151-182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-183/165",
+            "name": "Charizard-ex",
+            "number": "183/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Charizard-ex151-183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-184/165",
+            "name": "Blastoise-ex",
+            "number": "184/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Blastoise-ex151-184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-185/165",
+            "name": "Arbok-ex",
+            "number": "185/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Arbok-ex151-185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-186/165",
+            "name": "Ninetales-ex",
+            "number": "186/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Ninetales-ex151-186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-187/165",
+            "name": "Wigglytuff-ex",
+            "number": "187/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Wigglytuff-ex151-187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-188/165",
+            "name": "Alakazam-ex",
+            "number": "188/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Alakazam-ex151-188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-189/165",
+            "name": "Golem-ex",
+            "number": "189/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Golem-ex151-189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-190/165",
+            "name": "Kangaskhan-ex",
+            "number": "190/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Kangaskhan-ex151-190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-191/165",
+            "name": "Jynx-ex",
+            "number": "191/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Jynx-ex151-191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-192/165",
+            "name": "Zapdos-ex",
+            "number": "192/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Zapdos-ex151-192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-193/165",
+            "name": "Mew-ex",
+            "number": "193/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Mew-ex151-193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-194/165",
+            "name": "Trasferimento di Bill",
+            "number": "194/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/TrasferimentodiBill151-194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-195/165",
+            "name": "Aiuto di Margi",
+            "number": "195/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/AiutodiMargi151-195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-196/165",
+            "name": "Invito di Erika",
+            "number": "196/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/InvitodiErika151-196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-197/165",
+            "name": "Carisma di Giovanni",
+            "number": "197/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/CarismadiGiovanni151-197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-198/165",
+            "name": "Venusaur-ex",
+            "number": "198/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Venusaur-ex151-198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-199/165",
+            "name": "Charizard-ex",
+            "number": "199/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/Charizard-ex151-199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-200/165",
+            "name": "Blastoise-ex",
+            "number": "200/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Blastoise-ex151-200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-201/165",
+            "name": "Alakazam-ex",
+            "number": "201/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Alakazam-ex151-201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-202/165",
+            "name": "Zapdos-ex",
+            "number": "202/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Zapdos-ex151-202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-203/165",
+            "name": "Invito di Erika",
+            "number": "203/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/InvitodiErika151-203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-204/165",
+            "name": "Carisma di Giovanni",
+            "number": "204/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/CarismadiGiovanni151-204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-205/165",
+            "name": "Mew-ex",
+            "number": "205/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Mew-ex151-205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-206/165",
+            "name": "Scambio",
+            "number": "206/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Scambio151-206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "MEW-207/165",
+            "name": "Energia base Psico",
+            "number": "207/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/EnergiabasePsico151-207.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

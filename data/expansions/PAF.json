@@ -1,0 +1,1738 @@
+{
+    "expansion": {
+        "id": "PAF",
+        "name": "Scarlatto e Violetto - Destino di Paldea",
+        "year": 2024,
+        "month": 1,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4f/SimboloSetDestino_di_Paldea.png",
+        "cardCount": 245
+    },
+    "cards": [
+        {
+            "id": "PAF-001/091",
+            "name": "Pineco",
+            "number": "001/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PinecoDestinodiPaldea1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-002/091",
+            "name": "Forretress-ex",
+            "number": "002/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Forretress-exDestinodiPaldea2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-003/091",
+            "name": "Maractus",
+            "number": "003/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MaractusDestinodiPaldea3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-004/091",
+            "name": "Toedscool",
+            "number": "004/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ToedscoolDestinodiPaldea4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-005/091",
+            "name": "Toedscruel-ex",
+            "number": "005/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Toedscruel-exDestinodiPaldea5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-006/091",
+            "name": "Espathra-ex",
+            "number": "006/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Espathra-exDestinodiPaldea6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-007/091",
+            "name": "Charmander",
+            "number": "007/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/CharmanderDestinodiPaldea7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-008/091",
+            "name": "Charmeleon",
+            "number": "008/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CharmeleonDestinodiPaldea8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-009/091",
+            "name": "Magmar",
+            "number": "009/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/MagmarDestinodiPaldea9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-010/091",
+            "name": "Magmortar",
+            "number": "010/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MagmortarDestinodiPaldea10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-011/091",
+            "name": "Numel",
+            "number": "011/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/NumelDestinodiPaldea11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-012/091",
+            "name": "Camerupt",
+            "number": "012/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/CameruptDestinodiPaldea12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-013/091",
+            "name": "Rotom Calore",
+            "number": "013/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/RotomCaloreDestinodiPaldea13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-014/091",
+            "name": "Charcadet",
+            "number": "014/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/CharcadetDestinodiPaldea14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-015/091",
+            "name": "Armarouge",
+            "number": "015/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ArmarougeDestinodiPaldea15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-016/091",
+            "name": "Lapras",
+            "number": "016/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/LaprasDestinodiPaldea16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-017/091",
+            "name": "Frigibax",
+            "number": "017/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/FrigibaxDestinodiPaldea17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-018/091",
+            "name": "Pikachu",
+            "number": "018/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/PikachuDestinodiPaldea18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-019/091",
+            "name": "Raichu",
+            "number": "019/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/RaichuDestinodiPaldea19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-020/091",
+            "name": "Chinchou",
+            "number": "020/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/ChinchouDestinodiPaldea20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-021/091",
+            "name": "Lanturn",
+            "number": "021/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/LanturnDestinodiPaldea21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-022/091",
+            "name": "Kilowattrel",
+            "number": "022/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/KilowattrelDestinodiPaldea22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-023/091",
+            "name": "Exeggcute",
+            "number": "023/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/ExeggcuteDestinodiPaldea23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-024/091",
+            "name": "Exeggutor",
+            "number": "024/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ExeggutorDestinodiPaldea24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-025/091",
+            "name": "Natu",
+            "number": "025/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/NatuDestinodiPaldea25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-026/091",
+            "name": "Xatu",
+            "number": "026/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/XatuDestinodiPaldea26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-027/091",
+            "name": "Ralts",
+            "number": "027/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/RaltsDestinodiPaldea27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-028/091",
+            "name": "Kirlia",
+            "number": "028/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/KirliaDestinodiPaldea28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-029/091",
+            "name": "Gardevoir-ex",
+            "number": "029/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Gardevoir-exDestinodiPaldea29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-030/091",
+            "name": "Chimecho",
+            "number": "030/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ChimechoDestinodiPaldea30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-031/091",
+            "name": "Mime Jr.",
+            "number": "031/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/MimeJrDestinodiPaldea31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-032/091",
+            "name": "Woobat",
+            "number": "032/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/WoobatDestinodiPaldea32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-033/091",
+            "name": "Swoobat",
+            "number": "033/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SwoobatDestinodiPaldea33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-034/091",
+            "name": "Cottonee",
+            "number": "034/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CottoneeDestinodiPaldea34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-035/091",
+            "name": "Whimsicott",
+            "number": "035/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/WhimsicottDestinodiPaldea35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-036/091",
+            "name": "Dedenne",
+            "number": "036/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/DedenneDestinodiPaldea36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-037/091",
+            "name": "Mimikyu",
+            "number": "037/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MimikyuDestinodiPaldea37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-038/091",
+            "name": "Fidough",
+            "number": "038/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/FidoughDestinodiPaldea38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-039/091",
+            "name": "Dachsbun",
+            "number": "039/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/DachsbunDestinodiPaldea39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-040/091",
+            "name": "Ceruledge",
+            "number": "040/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/CeruledgeDestinodiPaldea40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-041/091",
+            "name": "Flittle",
+            "number": "041/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/FlittleDestinodiPaldea41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-042/091",
+            "name": "Greavard",
+            "number": "042/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/GreavardDestinodiPaldea42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-043/091",
+            "name": "Houndstone",
+            "number": "043/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/HoundstoneDestinodiPaldea43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-044/091",
+            "name": "Gimmighoul",
+            "number": "044/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GimmighoulDestinodiPaldea44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-045/091",
+            "name": "Mankey",
+            "number": "045/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/MankeyDestinodiPaldea45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-046/091",
+            "name": "Primeape",
+            "number": "046/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/PrimeapeDestinodiPaldea46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-047/091",
+            "name": "Annihilape",
+            "number": "047/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/AnnihilapeDestinodiPaldea47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-048/091",
+            "name": "Phanpy",
+            "number": "048/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/PhanpyDestinodiPaldea48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-049/091",
+            "name": "Donphan",
+            "number": "049/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/DonphanDestinodiPaldea49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-050/091",
+            "name": "Barboach",
+            "number": "050/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/BarboachDestinodiPaldea50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-051/091",
+            "name": "Clobbopus",
+            "number": "051/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/ClobbopusDestinodiPaldea51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-052/091",
+            "name": "Grapploct",
+            "number": "052/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/GrapploctDestinodiPaldea52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-053/091",
+            "name": "Grandizanne-ex",
+            "number": "053/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/Grandizanne-exDestinodiPaldea53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-054/091",
+            "name": "Charizard-ex",
+            "number": "054/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Charizard-exDestinodiPaldea54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-055/091",
+            "name": "Gastly",
+            "number": "055/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/GastlyDestinodiPaldea55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-056/091",
+            "name": "Haunter",
+            "number": "056/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/HaunterDestinodiPaldea56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-057/091",
+            "name": "Gengar",
+            "number": "057/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/GengarDestinodiPaldea57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-058/091",
+            "name": "Wooper di Paldea",
+            "number": "058/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/WooperdiPaldeaDestinodiPaldea58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-059/091",
+            "name": "Clodsire di Paldea-ex",
+            "number": "059/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/ClodsirediPaldea-exDestinodiPaldea59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-060/091",
+            "name": "Scraggy",
+            "number": "060/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ScraggyDestinodiPaldea60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-061/091",
+            "name": "Scrafty",
+            "number": "061/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ScraftyDestinodiPaldea61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-062/091",
+            "name": "Maschiff",
+            "number": "062/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MaschiffDestinodiPaldea62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-063/091",
+            "name": "Mabosstiff",
+            "number": "063/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MabosstiffDestinodiPaldea63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-064/091",
+            "name": "Varoom",
+            "number": "064/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/VaroomDestinodiPaldea64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-065/091",
+            "name": "Revavroom",
+            "number": "065/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/RevavroomDestinodiPaldea65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-066/091",
+            "name": "Solcoferreo-ex",
+            "number": "066/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Solcoferreo-exDestinodiPaldea66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-067/091",
+            "name": "Gholdengo",
+            "number": "067/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/GholdengoDestinodiPaldea67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-068/091",
+            "name": "Noibat",
+            "number": "068/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/NoibatDestinodiPaldea68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-069/091",
+            "name": "Noivern-ex",
+            "number": "069/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Noivern-exDestinodiPaldea69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-070/091",
+            "name": "Cyclizar",
+            "number": "070/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/CyclizarDestinodiPaldea70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-071/091",
+            "name": "Lechonk",
+            "number": "071/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/LechonkDestinodiPaldea71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-072/091",
+            "name": "Oinkologne",
+            "number": "072/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/OinkologneDestinodiPaldea72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-073/091",
+            "name": "Tandemaus",
+            "number": "073/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/TandemausDestinodiPaldea73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-074/091",
+            "name": "Maushold",
+            "number": "074/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/MausholdDestinodiPaldea74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-075/091",
+            "name": "Squawkabilly-ex",
+            "number": "075/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Squawkabilly-exDestinodiPaldea75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-076/091",
+            "name": "Los Tazones",
+            "number": "076/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/LosTazonesDestinodiPaldea76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-077/091",
+            "name": "Henzo",
+            "number": "077/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/HenzoDestinodiPaldea77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-078/091",
+            "name": "Garoff",
+            "number": "078/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/GaroffDestinodiPaldea78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-079/091",
+            "name": "Generatore di Elettricità",
+            "number": "079/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/GeneratorediElettricit%C3%A0DestinodiPaldea79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-080/091",
+            "name": "Kissara",
+            "number": "080/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/KissaraDestinodiPaldea80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-081/091",
+            "name": "Collina Chiarodiluna",
+            "number": "081/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/CollinaChiarodilunaDestinodiPaldea81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-082/091",
+            "name": "Nemi",
+            "number": "082/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/NemiDestinodiPaldea82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-083/091",
+            "name": "Zaino di Nemi",
+            "number": "083/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ZainodiNemiDestinodiPaldea83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-084/091",
+            "name": "Minor Ball",
+            "number": "084/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MinorBallDestinodiPaldea84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-085/091",
+            "name": "Studenti di Paldea",
+            "number": "085/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/StudentidiPaldeaDestinodiPaldea85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-086/091",
+            "name": "Studenti di Paldea",
+            "number": "086/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/StudentidiPaldeaDestinodiPaldea86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-087/091",
+            "name": "Ricerca Accademica [Prof.ssa Olim]",
+            "number": "087/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RicercaAccademicaDestinodiPaldea87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-088/091",
+            "name": "Ricerca Accademica [Professor Turum]",
+            "number": "088/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/RicercaAccademicaDestinodiPaldea88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-089/091",
+            "name": "Caramella Rara",
+            "number": "089/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/CaramellaRaraDestinodiPaldea89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-090/091",
+            "name": "Macchinario Tecnico: Pugno Disperato",
+            "number": "090/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MacchinarioTecnicoPugnoDisperatoDestinodiPaldea90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-091/091",
+            "name": "Ultra Ball",
+            "number": "091/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/UltraBallDestinodiPaldea91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "PAF-092/091",
+            "name": "Oddish",
+            "number": "092/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/OddishDestinodiPaldea92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-093/091",
+            "name": "Gloom",
+            "number": "093/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/GloomDestinodiPaldea93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-094/091",
+            "name": "Vileplume",
+            "number": "094/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/VileplumeDestinodiPaldea94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-095/091",
+            "name": "Scyther",
+            "number": "095/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ScytherDestinodiPaldea95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-096/091",
+            "name": "Hoppip",
+            "number": "096/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/HoppipDestinodiPaldea96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-097/091",
+            "name": "Skiploom",
+            "number": "097/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SkiploomDestinodiPaldea97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-098/091",
+            "name": "Jumpluff",
+            "number": "098/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/JumpluffDestinodiPaldea98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-099/091",
+            "name": "Pineco",
+            "number": "099/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PinecoDestinodiPaldea99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-100/091",
+            "name": "Snover",
+            "number": "100/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SnoverDestinodiPaldea100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-101/091",
+            "name": "Abomasnow",
+            "number": "101/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/AbomasnowDestinodiPaldea101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-102/091",
+            "name": "Smoliv",
+            "number": "102/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/SmolivDestinodiPaldea102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-103/091",
+            "name": "Dolliv",
+            "number": "103/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DollivDestinodiPaldea103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-104/091",
+            "name": "Arboliva",
+            "number": "104/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ArbolivaDestinodiPaldea104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-105/091",
+            "name": "Toedscool",
+            "number": "105/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/ToedscoolDestinodiPaldea105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-106/091",
+            "name": "Capsakid",
+            "number": "106/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/CapsakidDestinodiPaldea106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-107/091",
+            "name": "Scovillain",
+            "number": "107/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ScovillainDestinodiPaldea107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-108/091",
+            "name": "Rellor",
+            "number": "108/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/RellorDestinodiPaldea108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-109/091",
+            "name": "Charmander",
+            "number": "109/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CharmanderDestinodiPaldea109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-110/091",
+            "name": "Charmeleon",
+            "number": "110/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/CharmeleonDestinodiPaldea110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-111/091",
+            "name": "Tauros di Paldea",
+            "number": "111/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/TaurosdiPaldeaDestinodiPaldea111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-112/091",
+            "name": "Entei",
+            "number": "112/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/EnteiDestinodiPaldea112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-113/091",
+            "name": "Oricorio",
+            "number": "113/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/OricorioDestinodiPaldea113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-114/091",
+            "name": "Charcadet",
+            "number": "114/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/CharcadetDestinodiPaldea114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-115/091",
+            "name": "Armarouge",
+            "number": "115/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/ArmarougeDestinodiPaldea115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-116/091",
+            "name": "Slowpoke",
+            "number": "116/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/SlowpokeDestinodiPaldea116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-117/091",
+            "name": "Slowbro",
+            "number": "117/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/SlowbroDestinodiPaldea117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-118/091",
+            "name": "Staryu",
+            "number": "118/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/StaryuDestinodiPaldea118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-119/091",
+            "name": "Starmie",
+            "number": "119/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/StarmieDestinodiPaldea119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-120/091",
+            "name": "Tauros di Paldea",
+            "number": "120/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/TaurosdiPaldeaDestinodiPaldea120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-121/091",
+            "name": "Wiglett",
+            "number": "121/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/WiglettDestinodiPaldea121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-122/091",
+            "name": "Wugtrio",
+            "number": "122/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/WugtrioDestinodiPaldea122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-123/091",
+            "name": "Finizen",
+            "number": "123/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/FinizenDestinodiPaldea123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-124/091",
+            "name": "Palafin",
+            "number": "124/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/PalafinDestinodiPaldea124.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-125/091",
+            "name": "Veluza",
+            "number": "125/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/VeluzaDestinodiPaldea125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-126/091",
+            "name": "Dondozo",
+            "number": "126/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/DondozoDestinodiPaldea126.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-127/091",
+            "name": "Tatsugiri",
+            "number": "127/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/TatsugiriDestinodiPaldea127.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-128/091",
+            "name": "Frigibax",
+            "number": "128/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/FrigibaxDestinodiPaldea128.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-129/091",
+            "name": "Arctibax",
+            "number": "129/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/ArctibaxDestinodiPaldea129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-130/091",
+            "name": "Baxcalibur",
+            "number": "130/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BaxcaliburDestinodiPaldea130.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-131/091",
+            "name": "Pikachu",
+            "number": "131/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/PikachuDestinodiPaldea131.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-132/091",
+            "name": "Raichu",
+            "number": "132/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/RaichuDestinodiPaldea132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-133/091",
+            "name": "Voltorb",
+            "number": "133/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/VoltorbDestinodiPaldea133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-134/091",
+            "name": "Electrode",
+            "number": "134/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ElectrodeDestinodiPaldea134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-135/091",
+            "name": "Shinx",
+            "number": "135/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/ShinxDestinodiPaldea135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-136/091",
+            "name": "Luxio",
+            "number": "136/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/LuxioDestinodiPaldea136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-137/091",
+            "name": "Luxray",
+            "number": "137/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/LuxrayDestinodiPaldea137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-138/091",
+            "name": "Pachirisu",
+            "number": "138/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/PachirisuDestinodiPaldea138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-139/091",
+            "name": "Thundurus",
+            "number": "139/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/ThundurusDestinodiPaldea139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-140/091",
+            "name": "Toxel",
+            "number": "140/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ToxelDestinodiPaldea140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-141/091",
+            "name": "Toxtricity",
+            "number": "141/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ToxtricityDestinodiPaldea141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-142/091",
+            "name": "Pawmi",
+            "number": "142/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/PawmiDestinodiPaldea142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-143/091",
+            "name": "Pawmo",
+            "number": "143/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/PawmoDestinodiPaldea143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-144/091",
+            "name": "Pawmot",
+            "number": "144/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/PawmotDestinodiPaldea144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-145/091",
+            "name": "Wattrel",
+            "number": "145/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/WattrelDestinodiPaldea145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-146/091",
+            "name": "Kilowattrel",
+            "number": "146/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/KilowattrelDestinodiPaldea146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-147/091",
+            "name": "Wigglytuff",
+            "number": "147/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/WigglytuffDestinodiPaldea147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-148/091",
+            "name": "Abra",
+            "number": "148/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/AbraDestinodiPaldea148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-149/091",
+            "name": "Kadabra",
+            "number": "149/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KadabraDestinodiPaldea149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-150/091",
+            "name": "Cleffa",
+            "number": "150/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/CleffaDestinodiPaldea150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-151/091",
+            "name": "Natu",
+            "number": "151/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/NatuDestinodiPaldea151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-152/091",
+            "name": "Xatu",
+            "number": "152/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/XatuDestinodiPaldea152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-153/091",
+            "name": "Ralts",
+            "number": "153/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/RaltsDestinodiPaldea153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-154/091",
+            "name": "Kirlia",
+            "number": "154/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/KirliaDestinodiPaldea154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-155/091",
+            "name": "Drifloon",
+            "number": "155/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DrifloonDestinodiPaldea155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-156/091",
+            "name": "Drifblim",
+            "number": "156/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/DrifblimDestinodiPaldea156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-157/091",
+            "name": "Mime Jr.",
+            "number": "157/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MimeJrDestinodiPaldea157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-158/091",
+            "name": "Spiritomb",
+            "number": "158/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/SpiritombDestinodiPaldea158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-159/091",
+            "name": "Klefki",
+            "number": "159/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/KlefkiDestinodiPaldea159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-160/091",
+            "name": "Mimikyu",
+            "number": "160/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MimikyuDestinodiPaldea160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-161/091",
+            "name": "Dachsbun",
+            "number": "161/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/DachsbunDestinodiPaldea161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-162/091",
+            "name": "Ceruledge",
+            "number": "162/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/CeruledgeDestinodiPaldea162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-163/091",
+            "name": "Rabsca",
+            "number": "163/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/RabscaDestinodiPaldea163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-164/091",
+            "name": "Flittle",
+            "number": "164/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/FlittleDestinodiPaldea164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-165/091",
+            "name": "Tinkatink",
+            "number": "165/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/TinkatinkDestinodiPaldea165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-166/091",
+            "name": "Tinkatuff",
+            "number": "166/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TinkatuffDestinodiPaldea166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-167/091",
+            "name": "Tinkaton",
+            "number": "167/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/TinkatonDestinodiPaldea167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-168/091",
+            "name": "Houndstone",
+            "number": "168/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/HoundstoneDestinodiPaldea168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-169/091",
+            "name": "Mankey",
+            "number": "169/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MankeyDestinodiPaldea169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-170/091",
+            "name": "Primeape",
+            "number": "170/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/PrimeapeDestinodiPaldea170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-171/091",
+            "name": "Annihilape",
+            "number": "171/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/AnnihilapeDestinodiPaldea171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-172/091",
+            "name": "Tauros di Paldea",
+            "number": "172/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/TaurosdiPaldeaDestinodiPaldea172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-173/091",
+            "name": "Riolu",
+            "number": "173/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/RioluDestinodiPaldea173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-174/091",
+            "name": "Lucario",
+            "number": "174/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/LucarioDestinodiPaldea174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-175/091",
+            "name": "Hawlucha",
+            "number": "175/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/HawluchaDestinodiPaldea175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-176/091",
+            "name": "Nacli",
+            "number": "176/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/NacliDestinodiPaldea176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-177/091",
+            "name": "Naclstack",
+            "number": "177/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/NaclstackDestinodiPaldea177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-178/091",
+            "name": "Garganacl",
+            "number": "178/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/GarganaclDestinodiPaldea178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-179/091",
+            "name": "Glimmet",
+            "number": "179/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/GlimmetDestinodiPaldea179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-180/091",
+            "name": "Wooper di Paldea",
+            "number": "180/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/WooperdiPaldeaDestinodiPaldea180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-181/091",
+            "name": "Murkrow",
+            "number": "181/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MurkrowDestinodiPaldea181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-182/091",
+            "name": "Sneasel",
+            "number": "182/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/SneaselDestinodiPaldea182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-183/091",
+            "name": "Weavile",
+            "number": "183/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/WeavileDestinodiPaldea183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-184/091",
+            "name": "Sableye",
+            "number": "184/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SableyeDestinodiPaldea184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-185/091",
+            "name": "Pawniard",
+            "number": "185/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/PawniardDestinodiPaldea185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-186/091",
+            "name": "Bisharp",
+            "number": "186/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/BisharpDestinodiPaldea186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-187/091",
+            "name": "Kingambit",
+            "number": "187/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/KingambitDestinodiPaldea187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-188/091",
+            "name": "Mabosstiff",
+            "number": "188/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MabosstiffDestinodiPaldea188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-189/091",
+            "name": "Shroodle",
+            "number": "189/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ShroodleDestinodiPaldea189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-190/091",
+            "name": "Grafaiai",
+            "number": "190/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/GrafaiaiDestinodiPaldea190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-191/091",
+            "name": "Scizor",
+            "number": "191/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ScizorDestinodiPaldea191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-192/091",
+            "name": "Varoom",
+            "number": "192/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/VaroomDestinodiPaldea192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-193/091",
+            "name": "Revavroom",
+            "number": "193/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/RevavroomDestinodiPaldea193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-194/091",
+            "name": "Noibat",
+            "number": "194/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/NoibatDestinodiPaldea194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-195/091",
+            "name": "Cyclizar",
+            "number": "195/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/CyclizarDestinodiPaldea195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-196/091",
+            "name": "Pidgey",
+            "number": "196/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/PidgeyDestinodiPaldea196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-197/091",
+            "name": "Pidgeotto",
+            "number": "197/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/PidgeottoDestinodiPaldea197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-198/091",
+            "name": "Jigglypuff",
+            "number": "198/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/JigglypuffDestinodiPaldea198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-199/091",
+            "name": "Doduo",
+            "number": "199/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/DoduoDestinodiPaldea199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-200/091",
+            "name": "Dodrio",
+            "number": "200/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/DodrioDestinodiPaldea200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-201/091",
+            "name": "Ditto",
+            "number": "201/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/DittoDestinodiPaldea201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-202/091",
+            "name": "Snorlax",
+            "number": "202/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/SnorlaxDestinodiPaldea202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-203/091",
+            "name": "Wingull",
+            "number": "203/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/WingullDestinodiPaldea203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-204/091",
+            "name": "Pelipper",
+            "number": "204/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PelipperDestinodiPaldea204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-205/091",
+            "name": "Skwovet",
+            "number": "205/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/SkwovetDestinodiPaldea205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-206/091",
+            "name": "Greedent",
+            "number": "206/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/GreedentDestinodiPaldea206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-207/091",
+            "name": "Lechonk",
+            "number": "207/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/LechonkDestinodiPaldea207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-208/091",
+            "name": "Oinkologne",
+            "number": "208/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/OinkologneDestinodiPaldea208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-209/091",
+            "name": "Tandemaus",
+            "number": "209/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/TandemausDestinodiPaldea209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-210/091",
+            "name": "Maushold",
+            "number": "210/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MausholdDestinodiPaldea210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-211/091",
+            "name": "Flamigo",
+            "number": "211/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/FlamigoDestinodiPaldea211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-212/091",
+            "name": "Forretress-ex",
+            "number": "212/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Forretress-exDestinodiPaldea212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-213/091",
+            "name": "Toedscruel-ex",
+            "number": "213/091",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Toedscruel-exDestinodiPaldea213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-214/091",
+            "name": "Espathra-ex",
+            "number": "214/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Espathra-exDestinodiPaldea214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-215/091",
+            "name": "Alakazam-ex",
+            "number": "215/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Alakazam-exDestinodiPaldea215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-216/091",
+            "name": "Mew-ex",
+            "number": "216/091",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Mew-exDestinodiPaldea216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-217/091",
+            "name": "Gardevoir-ex",
+            "number": "217/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Gardevoir-exDestinodiPaldea217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-218/091",
+            "name": "Glimmora-ex",
+            "number": "218/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Glimmora-exDestinodiPaldea218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-219/091",
+            "name": "Clodsire di Paldea-ex",
+            "number": "219/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ClodsirediPaldea-exDestinodiPaldea219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-220/091",
+            "name": "Noivern-ex",
+            "number": "220/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Noivern-exDestinodiPaldea220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-221/091",
+            "name": "Pidgeot-ex",
+            "number": "221/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Pidgeot-exDestinodiPaldea221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-222/091",
+            "name": "Wigglytuff-ex",
+            "number": "222/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Wigglytuff-exDestinodiPaldea222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-223/091",
+            "name": "Squawkabilly-ex",
+            "number": "223/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Squawkabilly-exDestinodiPaldea223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-224/091",
+            "name": "Wugtrio",
+            "number": "224/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/WugtrioDestinodiPaldea224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-225/091",
+            "name": "Palafin",
+            "number": "225/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PalafinDestinodiPaldea225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-226/091",
+            "name": "Pawmi",
+            "number": "226/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/PawmiDestinodiPaldea226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-227/091",
+            "name": "Garoff",
+            "number": "227/091",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/GaroffDestinodiPaldea227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-228/091",
+            "name": "Arbitro",
+            "number": "228/091",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/ArbitroDestinodiPaldea228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-229/091",
+            "name": "Nemi",
+            "number": "229/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/NemiDestinodiPaldea229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-230/091",
+            "name": "Studenti di Paldea",
+            "number": "230/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/StudentidiPaldeaDestinodiPaldea230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-231/091",
+            "name": "Studenti di Paldea",
+            "number": "231/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/StudentidiPaldeaDestinodiPaldea231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-232/091",
+            "name": "Mew-ex",
+            "number": "232/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Mew-exDestinodiPaldea232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-233/091",
+            "name": "Gardevoir-ex",
+            "number": "233/091",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/Gardevoir-exDestinodiPaldea233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-234/091",
+            "name": "Charizard-ex",
+            "number": "234/091",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Charizard-exDestinodiPaldea234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-235/091",
+            "name": "Pepe",
+            "number": "235/091",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PepeDestinodiPaldea235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-236/091",
+            "name": "Garoff",
+            "number": "236/091",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/GaroffDestinodiPaldea236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-237/091",
+            "name": "Kissara",
+            "number": "237/091",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/KissaraDestinodiPaldea237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-238/091",
+            "name": "Nemi",
+            "number": "238/091",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/NemiDestinodiPaldea238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-239/091",
+            "name": "Penny",
+            "number": "239/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/PennyDestinodiPaldea239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-240/091",
+            "name": "Wo-Chien-ex",
+            "number": "240/091",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/Wo-Chien-exDestinodiPaldea240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-241/091",
+            "name": "Chi-Yu-ex",
+            "number": "241/091",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Chi-Yu-exDestinodiPaldea241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-242/091",
+            "name": "Chien-Pao-ex",
+            "number": "242/091",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Chien-Pao-exDestinodiPaldea242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-243/091",
+            "name": "Miraidon-ex",
+            "number": "243/091",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Miraidon-exDestinodiPaldea243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-244/091",
+            "name": "Ting-Lu-ex",
+            "number": "244/091",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Ting-Lu-exDestinodiPaldea244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "PAF-245/091",
+            "name": "Koraidon-ex",
+            "number": "245/091",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Koraidon-exDestinodiPaldea245.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

@@ -1,0 +1,1287 @@
+{
+    "expansion": {
+        "id": "SK",
+        "name": "Skyridge",
+				"year": 2003,
+				"month": 6,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a4/Logo_Skyridge.png",
+        "cardCount": 182
+    },
+    "cards": [
+        {
+            "id": "SK-1/144",
+            "name": "Aerodactyl",
+            "number": "1/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/AerodactylSkyridge1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-2/144",
+            "name": "Alakazam",
+            "number": "2/144",
+            "image": null",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-3/144",
+            "name": "Arcanine",
+            "number": "3/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ArcanineSkyridge3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-4/144",
+            "name": "Articuno",
+            "number": "4/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ArticunoSkyridge4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-5/144",
+            "name": "Beedrill",
+            "number": "5/144",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BeedrillSkyridge5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-6/144",
+            "name": "Crobat",
+            "number": "6/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/CrobatSkyridge6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-7/144",
+            "name": "Dewgong",
+            "number": "7/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/DewgongSkyridge7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-8/144",
+            "name": "Flareon",
+            "number": "8/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/FlareonSkyridge8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-9/144",
+            "name": "Forretress",
+            "number": "9/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/ForretressSkyridge9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-10/144",
+            "name": "Gengar",
+            "number": "10/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/GengarSkyridge10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-11/144",
+            "name": "Gyarados",
+            "number": "11/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/GyaradosSkyridge11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-12/144",
+            "name": "Houndoom",
+            "number": "12/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundoomSkyridge12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-13/144",
+            "name": "Jolteon",
+            "number": "13/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/JolteonSkyridge13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-14/144",
+            "name": "Kabutops",
+            "number": "14/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/KabutopsSkyridge14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-15/144",
+            "name": "Ledian",
+            "number": "15/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/LedianSkyridge15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-16/144",
+            "name": "Machamp",
+            "number": "16/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MachampSkyridge16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-17/144",
+            "name": "Magcargo",
+            "number": "17/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MagcargoSkyridge17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-18/144",
+            "name": "Magcargo",
+            "number": "18/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MagcargoSkyridge18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-19/144",
+            "name": "Magneton",
+            "number": "19/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MagnetonSkyridge19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-20/144",
+            "name": "Magneton",
+            "number": "20/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MagnetonSkyridge20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-21/144",
+            "name": "Moltres",
+            "number": "21/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MoltresSkyridge21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-22/144",
+            "name": "Nidoqueen",
+            "number": "22/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/NidoqueenSkyridge22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-23/144",
+            "name": "Omastar",
+            "number": "23/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/OmastarSkyridge23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-24/144",
+            "name": "Piloswine",
+            "number": "24/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/PiloswineSkyridge24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-25/144",
+            "name": "Politoed",
+            "number": "25/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/PolitoedSkyridge25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-26/144",
+            "name": "Poliwrath",
+            "number": "26/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/PoliwrathSkyridge26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-27/144",
+            "name": "Raichu",
+            "number": "27/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/RaichuSkyridge27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-28/144",
+            "name": "Raikou",
+            "number": "28/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/RaikouSkyridge28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-29/144",
+            "name": "Rhydon",
+            "number": "29/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/RhydonSkyridge29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-30/144",
+            "name": "Starmie",
+            "number": "30/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/StarmieSkyridge30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-31/144",
+            "name": "Steelix",
+            "number": "31/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/SteelixSkyridge31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-32/144",
+            "name": "Umbreon",
+            "number": "32/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/UmbreonSkyridge32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-33/144",
+            "name": "Vaporeon",
+            "number": "33/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/VaporeonSkyridge33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-34/144",
+            "name": "Wigglytuff",
+            "number": "34/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/WigglytuffSkyridge34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-35/144",
+            "name": "Xatu",
+            "number": "35/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/XatuSkyridge35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-36/144",
+            "name": "Electrode",
+            "number": "36/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/ElectrodeSkyridge36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-37/144",
+            "name": "Kabuto",
+            "number": "37/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/KabutoSkyridge37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-38/144",
+            "name": "Machoke",
+            "number": "38/144",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MachokeSkyridge38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-39/144",
+            "name": "Misdreavus",
+            "number": "39/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MisdreavusSkyridge39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-40/144",
+            "name": "Noctowl",
+            "number": "40/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/NoctowlSkyridge40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-41/144",
+            "name": "Omanyte",
+            "number": "41/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/OmanyteSkyridge41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-42/144",
+            "name": "Persian",
+            "number": "42/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PersianSkyridge42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-43/144",
+            "name": "Piloswine",
+            "number": "43/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/PiloswineSkyridge43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-44/144",
+            "name": "Starmie",
+            "number": "44/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/StarmieSkyridge44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-45/144",
+            "name": "Wobbuffet",
+            "number": "45/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/WobbuffetSkyridge45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-46/144",
+            "name": "Abra",
+            "number": "46/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/AbraSkyridge46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-47/144",
+            "name": "Buried Fossil",
+            "number": "47/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/BuriedFossilSkyridge47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-48/144",
+            "name": "Cleffa",
+            "number": "48/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CleffaSkyridge48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-49/144",
+            "name": "Delibird",
+            "number": "49/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/DelibirdSkyridge49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-50/144",
+            "name": "Diglett",
+            "number": "50/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/DiglettSkyridge50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-51/144",
+            "name": "Ditto",
+            "number": "51/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/DittoSkyridge51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-52/144",
+            "name": "Dugtrio",
+            "number": "52/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/DugtrioSkyridge52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-53/144",
+            "name": "Dunsparce",
+            "number": "53/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/DunsparceSkyridge53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-54/144",
+            "name": "Eevee",
+            "number": "54/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/EeveeSkyridge54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-55/144",
+            "name": "Farfetch'd",
+            "number": "55/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Farfetch%27dSkyridge55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-56/144",
+            "name": "Forretress",
+            "number": "56/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/ForretressSkyridge56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-57/144",
+            "name": "Gastly",
+            "number": "57/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/GastlySkyridge57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-58/144",
+            "name": "Girafarig",
+            "number": "58/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/GirafarigSkyridge58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-59/144",
+            "name": "Gligar",
+            "number": "59/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/GligarSkyridge59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-60/144",
+            "name": "Golbat",
+            "number": "60/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/GolbatSkyridge60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-61/144",
+            "name": "Granbull",
+            "number": "61/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/GranbullSkyridge61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-62/144",
+            "name": "Growlithe",
+            "number": "62/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GrowlitheSkyridge62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-63/144",
+            "name": "Haunter",
+            "number": "63/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/HaunterSkyridge63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-64/144",
+            "name": "Heracross",
+            "number": "64/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/HeracrossSkyridge64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-65/144",
+            "name": "Hoothoot",
+            "number": "65/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/HoothootSkyridge65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-66/144",
+            "name": "Houndour",
+            "number": "66/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/HoundourSkyridge66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-67/144",
+            "name": "Igglybuff",
+            "number": "67/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/IgglybuffSkyridge67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-68/144",
+            "name": "Jigglypuff",
+            "number": "68/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/JigglypuffSkyridge68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-69/144",
+            "name": "Kadabra",
+            "number": "69/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/KadabraSkyridge69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-70/144",
+            "name": "Kakuna",
+            "number": "70/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/KakunaSkyridge70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-71/144",
+            "name": "Lapras",
+            "number": "71/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/LaprasSkyridge71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-72/144",
+            "name": "Ledyba",
+            "number": "72/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LedybaSkyridge72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-73/144",
+            "name": "Ledyba",
+            "number": "73/144",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/LedybaSkyridge73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-74/144",
+            "name": "Machop",
+            "number": "74/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MachopSkyridge74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-75/144",
+            "name": "Magikarp",
+            "number": "75/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MagikarpSkyridge75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-76/144",
+            "name": "Magnemite",
+            "number": "76/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/MagnemiteSkyridge76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-77/144",
+            "name": "Mantine",
+            "number": "77/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/MantineSkyridge77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-78/144",
+            "name": "Meowth",
+            "number": "78/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/MeowthSkyridge78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-79/144",
+            "name": "Murkrow",
+            "number": "79/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MurkrowSkyridge79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-80/144",
+            "name": "Natu",
+            "number": "80/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/NatuSkyridge80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-81/144",
+            "name": "Nidoran♀",
+            "number": "81/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/NidoranSkyridge81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-82/144",
+            "name": "Nidoran♀",
+            "number": "82/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/NidoranSkyridge82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-83/144",
+            "name": "Nidorina",
+            "number": "83/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/NidorinaSkyridge83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-84/144",
+            "name": "Pikachu",
+            "number": "84/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/PikachuSkyridge84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-85/144",
+            "name": "Pineco",
+            "number": "85/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/PinecoSkyridge85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-86/144",
+            "name": "Pineco",
+            "number": "86/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/PinecoSkyridge86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-87/144",
+            "name": "Poliwag",
+            "number": "87/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/PoliwagSkyridge87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-88/144",
+            "name": "Poliwhirl",
+            "number": "88/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/PoliwhirlSkyridge88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-89/144",
+            "name": "Raticate",
+            "number": "89/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/RaticateSkyridge89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-90/144",
+            "name": "Rattata",
+            "number": "90/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/RattataSkyridge90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-91/144",
+            "name": "Rhyhorn",
+            "number": "91/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/RhyhornSkyridge91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-92/144",
+            "name": "Sandshrew",
+            "number": "92/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/SandshrewSkyridge92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-93/144",
+            "name": "Sandslash",
+            "number": "93/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/SandslashSkyridge93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-94/144",
+            "name": "Seel",
+            "number": "94/144",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/SeelSkyridge94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-95/144",
+            "name": "Seel",
+            "number": "95/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SeelSkyridge95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-96/144",
+            "name": "Shuckle",
+            "number": "96/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ShuckleSkyridge96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-97/144",
+            "name": "Skarmory",
+            "number": "97/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/SkarmorySkyridge97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-98/144",
+            "name": "Slugma",
+            "number": "98/144",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SlugmaSkyridge98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-99/144",
+            "name": "Slugma",
+            "number": "99/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SlugmaSkyridge99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-100/144",
+            "name": "Snorlax",
+            "number": "100/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/SnorlaxSkyridge100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-101/144",
+            "name": "Snubbull",
+            "number": "101/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SnubbullSkyridge101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-102/144",
+            "name": "Stantler",
+            "number": "102/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/StantlerSkyridge102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-103/144",
+            "name": "Staryu",
+            "number": "103/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/StaryuSkyridge103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-104/144",
+            "name": "Staryu",
+            "number": "104/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/StaryuSkyridge104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-105/144",
+            "name": "Sunflora",
+            "number": "105/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SunfloraSkyridge105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-106/144",
+            "name": "Sunkern",
+            "number": "106/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/SunkernSkyridge106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-107/144",
+            "name": "Swinub",
+            "number": "107/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SwinubSkyridge107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-108/144",
+            "name": "Swinub",
+            "number": "108/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/SwinubSkyridge108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-109/144",
+            "name": "Teddiursa",
+            "number": "109/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/TeddiursaSkyridge109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-110/144",
+            "name": "Ursaring",
+            "number": "110/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/UrsaringSkyridge110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-111/144",
+            "name": "Venomoth",
+            "number": "111/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/VenomothSkyridge111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-112/144",
+            "name": "Venonat",
+            "number": "112/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/VenonatSkyridge112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-113/144",
+            "name": "Voltorb",
+            "number": "113/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/VoltorbSkyridge113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-114/144",
+            "name": "Weedle",
+            "number": "114/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/WeedleSkyridge114.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-115/144",
+            "name": "Weedle",
+            "number": "115/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/WeedleSkyridge115.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-116/144",
+            "name": "Yanma",
+            "number": "116/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/YanmaSkyridge116.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-117/144",
+            "name": "Zubat",
+            "number": "117/144",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/ZubatSkyridge117.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-118/144",
+            "name": "Zubat",
+            "number": "118/144",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/ZubatSkyridge118.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-119/144",
+            "name": "Rovine Antiche",
+            "number": "119/144",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RovineAnticheSkyridge119.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-120/144",
+            "name": "Cacciatore di Reliquie",
+            "number": "120/144",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/CacciatorediReliquieSkyridge120.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-121/144",
+            "name": "Costruttore di Apricorn",
+            "number": "121/144",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/CostruttorediApricornSkyridge121.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-122/144",
+            "name": "Frammento Cristallino",
+            "number": "122/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/FrammentoCristallinoSkyridge122.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-123/144",
+            "name": "Shamano del Deserto",
+            "number": "123/144",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ShamanodelDesertoSkyridge123.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-124/144",
+            "name": "Palla Rapida",
+            "number": "124/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/PallaRapidaSkyridge124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-125/144",
+            "name": "Pescatore",
+            "number": "125/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/PescatoreSkyridge125.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-126/144",
+            "name": "Palla Amica",
+            "number": "126/144",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/PallaAmicaSkyridge126.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-127/144",
+            "name": "Iper Pozione Magica",
+            "number": "127/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/IperPozioneMagicaSkyridge127.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-128/144",
+            "name": "Palla Esca",
+            "number": "128/144",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/PallaEscaSkyridge128.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-129/144",
+            "name": "Sfera Miracolosa α",
+            "number": "129/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/SferaMiracolosa%CE%B1Skyridge129.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-130/144",
+            "name": "Sfera Miracolosa β",
+            "number": "130/144",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/SferaMiracolosa%CE%B2Skyridge130.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-131/144",
+            "name": "Sfera Miracolosa γ",
+            "number": "131/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SferaMiracolosa%CE%B3Skyridge131.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-132/144",
+            "name": "Stadio Miraggio",
+            "number": "132/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/StadioMiraggioSkyridge132.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-133/144",
+            "name": "Piatto Misterioso α",
+            "number": "133/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/PiattoMisterioso%CE%B1Skyridge133.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-134/144",
+            "name": "Piatto Misterioso β",
+            "number": "134/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-135/144",
+            "name": "Piatto Misterioso γ",
+            "number": "135/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/PiattoMisterioso%CE%B3Skyridge135.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-136/144",
+            "name": "Piatto Misterioso δ",
+            "number": "136/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/PiattoMisterioso%CE%B4Skyridge136.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-137/144",
+            "name": "Zona del Mistero",
+            "number": "137/144",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/ZonadelMisteroSkyridge137.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-138/144",
+            "name": "Oracolo",
+            "number": "138/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/OracoloSkyridge138.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-139/144",
+            "name": "Pezzo di Stella",
+            "number": "139/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PezzodiStellaSkyridge139.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-140/144",
+            "name": "Spedizione Sotterranea",
+            "number": "140/144",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SpedizioneSotterraneaSkyridge140.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-141/144",
+            "name": "Lago Sotterraneo",
+            "number": "141/144",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/LagoSotterraneoSkyridge141.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-142/144",
+            "name": "Energia Rimbalzo",
+            "number": "142/144",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/EnergiaRimbalzoSkyridge142.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-143/144",
+            "name": "Energia Ciclone",
+            "number": "143/144",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaCicloneSkyridge143.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-144/144",
+            "name": "Energia Retro",
+            "number": "144/144",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/EnergiaRetroSkyridge144.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "SK-145/144",
+            "name": "Celebi",
+            "number": "145/144",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/CelebiSkyridge145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SK-146/144",
+            "name": "Charizard",
+            "number": "146/144",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/CharizardSkyridge146.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SK-147/144",
+            "name": "Crobat",
+            "number": "147/144",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/CrobatSkyridge147.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SK-148/144",
+            "name": "Golem",
+            "number": "148/144",
+            "image": null,
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SK-149/144",
+            "name": "Ho-Oh",
+            "number": "149/144",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Ho-OhSkyridge149.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SK-150/144",
+            "name": "Kabutops",
+            "number": "150/144",
+            "image": null,
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SK-H1/H32",
+            "name": "Alakazam",
+            "number": "H1/H32",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/AlakazamSkyridge2.jpg,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H2/H32",
+            "name": "Arcanine",
+            "number": "H2/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H3/H32",
+            "name": "Articuno",
+            "number": "H3/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H4/H32",
+            "name": "Beedrill",
+            "number": "H4/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H5/H32",
+            "name": "Crobat",
+            "number": "H5/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H6/H32",
+            "name": "Dewgong",
+            "number": "H6/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H7/H32",
+            "name": "Flareon",
+            "number": "H7/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H8/H32",
+            "name": "Forretress",
+            "number": "H8/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H9/H32",
+            "name": "Gengar",
+            "number": "H9/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H10/H32",
+            "name": "Gyarados",
+            "number": "H10/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H11/H32",
+            "name": "Houndoom",
+            "number": "H11/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H12/H32",
+            "name": "Jolteon",
+            "number": "H12/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H13/H32",
+            "name": "Kabutops",
+            "number": "H13/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H14/H32",
+            "name": "Ledian",
+            "number": "H14/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H15/H32",
+            "name": "Machamp",
+            "number": "H15/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H16/H32",
+            "name": "Magcargo",
+            "number": "H16/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H17/H32",
+            "name": "Magcargo",
+            "number": "H17/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H18/H32",
+            "name": "Magneton",
+            "number": "H18/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H19/H32",
+            "name": "Magneton",
+            "number": "H19/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H20/H32",
+            "name": "Moltres",
+            "number": "H20/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H21/H32",
+            "name": "Nidoqueen",
+            "number": "H21/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H22/H32",
+            "name": "Piloswine",
+            "number": "H22/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H23/H32",
+            "name": "Politoed",
+            "number": "H23/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H24/H32",
+            "name": "Poliwrath",
+            "number": "H24/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H25/H32",
+            "name": "Raichu",
+            "number": "H25/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H26/H32",
+            "name": "Raikou",
+            "number": "H26/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H27/H32",
+            "name": "Rhydon",
+            "number": "H27/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H28/H32",
+            "name": "Starmie",
+            "number": "H28/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H29/H32",
+            "name": "Steelix",
+            "number": "H29/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H30/H32",
+            "name": "Umbreon",
+            "number": "H30/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H31/H32",
+            "name": "Vaporeon",
+            "number": "H31/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "SK-H32/H32",
+            "name": "Xatu",
+            "number": "H32/H32",
+            "image": null,
+            "section": "Olografiche"
+        }
+    ]
+}

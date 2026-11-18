@@ -1,0 +1,594 @@
+{
+    "expansion": {
+        "id": "TR",
+        "name": "Team Rocket",
+				"year": 2001,
+				"month": 2,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0d/Logo_Team_Rocket.png",
+        "cardCount": 83
+    },
+    "cards": [
+        {
+            "id": "TR-1/82",
+            "name": "Dark Alakazam",
+            "number": "1/82",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/DarkAlakazamTeamRocket1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-2/82",
+            "name": "Dark Arbok",
+            "number": "2/82",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/DarkArbokTeamRocket2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-3/82",
+            "name": "Dark Blastoise",
+            "number": "3/82",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DarkBlastoiseTeamRocket3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-4/82",
+            "name": "Dark Charizard",
+            "number": "4/82",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/DarkCharizardTeamRocket4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-5/82",
+            "name": "Dark Dragonite",
+            "number": "5/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DarkDragoniteTeamRocket5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-6/82",
+            "name": "Dark Dugtrio",
+            "number": "6/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DarkDugtrioTeamRocket6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-7/82",
+            "name": "Dark Golbat",
+            "number": "7/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-8/82",
+            "name": "Dark Gyarados",
+            "number": "8/82",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/DarkGyaradosTeamRocket8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-9/82",
+            "name": "Dark Hypno",
+            "number": "9/82",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DarkHypnoTeamRocket9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-10/82",
+            "name": "Dark Machamp",
+            "number": "10/82",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DarkMachampTeamRocket10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-11/82",
+            "name": "Dark Magneton",
+            "number": "11/82",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/DarkMagnetonTeamRocket11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-12/82",
+            "name": "Dark Slowbro",
+            "number": "12/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-13/82",
+            "name": "Dark Vileplume",
+            "number": "13/82",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/DarkVileplumeTeamRocket13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-14/82",
+            "name": "Dark Weezing",
+            "number": "14/82",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DarkWeezingTeamRocket14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-15/82",
+            "name": "Arriva il Team Rocket!",
+            "number": "15/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-16/82",
+            "name": "Attacco a Sorpresa del Team Rocket",
+            "number": "16/82",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/AttaccoaSorpresadelTeamRocketTeamRocket16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-17/82",
+            "name": "Energia Arcobaleno",
+            "number": "17/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-18/82",
+            "name": "Dark Alakazam",
+            "number": "18/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-19/82",
+            "name": "Dark Arbok",
+            "number": "19/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-20/82",
+            "name": "Dark Blastoise",
+            "number": "20/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-21/82",
+            "name": "Dark Charizard",
+            "number": "21/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-22/82",
+            "name": "Dark Dragonite",
+            "number": "22/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-23/82",
+            "name": "Dark Dugtrio",
+            "number": "23/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-24/82",
+            "name": "Dark Golbat",
+            "number": "24/82",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/DarkGolbatTeamRocket24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-25/82",
+            "name": "Dark Gyarados",
+            "number": "25/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-26/82",
+            "name": "Dark Hypno",
+            "number": "26/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-27/82",
+            "name": "Dark Machamp",
+            "number": "27/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-28/82",
+            "name": "Dark Magneton",
+            "number": "28/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-29/82",
+            "name": "Dark Slowbro",
+            "number": "29/82",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/DarkSlowbroTeamRocket29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-30/82",
+            "name": "Dark Vileplume",
+            "number": "30/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-31/82",
+            "name": "Dark Weezing",
+            "number": "31/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-32/82",
+            "name": "Dark Charmeleon",
+            "number": "32/82",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DarkCharmeleonTeamRocket32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-33/82",
+            "name": "Dark Dragonair",
+            "number": "33/82",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/DarkDragonairTeamRocket33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-34/82",
+            "name": "Dark Electrode",
+            "number": "34/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/DarkElectrodeTeamRocket34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-35/82",
+            "name": "Dark Flareon",
+            "number": "35/82",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/DarkFlareonTeamRocket35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-36/82",
+            "name": "Dark Gloom",
+            "number": "36/82",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/DarkGloomTeamRocket36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-37/82",
+            "name": "Dark Golduck",
+            "number": "37/82",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/DarkGolduckTeamRocket37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-38/82",
+            "name": "Dark Jolteon",
+            "number": "38/82",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/DarkJolteonTeamRocket38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-39/82",
+            "name": "Dark Kadabra",
+            "number": "39/82",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/DarkKadabraTeamRocket39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-40/82",
+            "name": "Dark Machoke",
+            "number": "40/82",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/DarkMachokeTeamRocket40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-41/82",
+            "name": "Dark Muk",
+            "number": "41/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DarkMukTeamRocket41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-42/82",
+            "name": "Dark Persian",
+            "number": "42/82",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DarkPersianTeamRocket42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-43/82",
+            "name": "Dark Primeape",
+            "number": "43/82",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/DarkPrimeapeTeamRocket43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-44/82",
+            "name": "Dark Rapidash",
+            "number": "44/82",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/DarkRapidashTeamRocket44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-45/82",
+            "name": "Dark Vaporeon",
+            "number": "45/82",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/DarkVaporeonTeamRocket45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-46/82",
+            "name": "Dark Wartortle",
+            "number": "46/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/DarkWartortleTeamRocket46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-47/82",
+            "name": "Magikarp",
+            "number": "47/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MagikarpTeamRocket47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-48/82",
+            "name": "Porygon",
+            "number": "48/82",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/PorygonTeamRocket48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-49/82",
+            "name": "Abra",
+            "number": "49/82",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/AbraTeamRocket49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-50/82",
+            "name": "Charmander",
+            "number": "50/82",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/CharmanderTeamRocket50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-51/82",
+            "name": "Dark Raticate",
+            "number": "51/82",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/DarkRaticateTeamRocket51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-52/82",
+            "name": "Diglett",
+            "number": "52/82",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DiglettTeamRocket52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-53/82",
+            "name": "Dratini",
+            "number": "53/82",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/DratiniTeamRocket53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-54/82",
+            "name": "Drowzee",
+            "number": "54/82",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DrowzeeTeamRocket54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-55/82",
+            "name": "Eevee",
+            "number": "55/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/EeveeTeamRocket55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-56/82",
+            "name": "Ekans",
+            "number": "56/82",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/EkansTeamRocket56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-57/82",
+            "name": "Grimer",
+            "number": "57/82",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/GrimerTeamRocket57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-58/82",
+            "name": "Koffing",
+            "number": "58/82",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/KoffingTeamRocket58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-59/82",
+            "name": "Machop",
+            "number": "59/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MachopTeamRocket59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-60/82",
+            "name": "Magnemite",
+            "number": "60/82",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/MagnemiteTeamRocket60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-61/82",
+            "name": "Mankey",
+            "number": "61/82",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/MankeyTeamRocket61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-62/82",
+            "name": "Meowth",
+            "number": "62/82",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MeowthTeamRocket62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-63/82",
+            "name": "Oddish",
+            "number": "63/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/OddishTeamRocket63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-64/82",
+            "name": "Ponyta",
+            "number": "64/82",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/PonytaTeamRocket64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-65/82",
+            "name": "Psyduck",
+            "number": "65/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/PsyduckTeamRocket65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-66/82",
+            "name": "Rattata",
+            "number": "66/82",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/RattataTeamRocket66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-67/82",
+            "name": "Slowpoke",
+            "number": "67/82",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SlowpokeTeamRocket67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-68/82",
+            "name": "Squirtle",
+            "number": "68/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SquirtleTeamRocket68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-69/82",
+            "name": "Voltorb",
+            "number": "69/82",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/VoltorbTeamRocket69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-70/82",
+            "name": "Zubat",
+            "number": "70/82",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ZubatTeamRocket70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-71/82",
+            "name": "Arriva il Team Rocket!",
+            "number": "71/82",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ArrivaIlTeamRocketTeamRocket71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-72/82",
+            "name": "Attacco a Sorpresa del Team Rocket",
+            "number": "72/82",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-73/82",
+            "name": "Alla Maniera del Capo",
+            "number": "73/82",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/AllaManieradelCapoTeamRocket73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-74/82",
+            "name": "Sfida!",
+            "number": "74/82",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/SfidaTeamRocket74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-75/82",
+            "name": "Scavatrappole",
+            "number": "75/82",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/ScavatrappoleTeamRocket75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-76/82",
+            "name": "La Vendetta del Professor Oak, l'Impostore",
+            "number": "76/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/LaVendettaDelProfessorOakLImpostoreTeamRocket76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-77/82",
+            "name": "Raccolta Notturna della Spazzatura",
+            "number": "77/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/RaccoltaNotturnaDellaSpazzaturaTeamRocket77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-78/82",
+            "name": "Gas stupidifero",
+            "number": "78/82",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/GasStupidiferoTeamRocket78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-79/82",
+            "name": "Dormi!",
+            "number": "79/82",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DormiTeamRocket79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-80/82",
+            "name": "Energia Arcobaleno",
+            "number": "80/82",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/EnergiaArcobalenoTeamRocket80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-81/82",
+            "name": "Energia Recupero Totale",
+            "number": "81/82",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/EnergiaRecuperoTotaleTeamRocket81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-82/82",
+            "name": "Energia Pozione Magica",
+            "number": "82/82",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/EnergiaPozioneMagicaTeamRocket82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "TR-83/82",
+            "name": "Dark Raichu",
+            "number": "83/82",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/DarkRaichuTeamRocket83.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

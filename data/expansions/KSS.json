@@ -1,0 +1,286 @@
+{
+    "expansion": {
+        "id": "KSS",
+        "name": "XY - Benvenuti a Kalos",
+				"year": 2013,
+				"month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/b/bc/SimboloSetBenvenuti_a_Kalos.png",
+        "cardCount": 39
+    },
+    "cards": [
+        {
+            "id": "KSS-1/39",
+            "name": "Weedle",
+            "number": "1/39",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/WeedleBenvenutiaKalos1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-2/39",
+            "name": "Pansage",
+            "number": "2/39",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/PansageBenvenutiaKalos2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-3/39",
+            "name": "Chespin",
+            "number": "3/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ChespinBenvenutiaKalos3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-4/39",
+            "name": "Quilladin",
+            "number": "4/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/QuilladinBenvenutiaKalos4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-5/39",
+            "name": "Chesnaught",
+            "number": "5/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ChesnaughtBenvenutiaKalos5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-6/39",
+            "name": "Slugma",
+            "number": "6/39",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SlugmaBenvenutiaKalos6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-7/39",
+            "name": "Pansear",
+            "number": "7/39",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/PansearBenvenutiaKalos7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-8/39",
+            "name": "Fennekin",
+            "number": "8/39",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/FennekinBenvenutiaKalos8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-9/39",
+            "name": "Braixen",
+            "number": "9/39",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/BraixenBenvenutiaKalos9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-10/39",
+            "name": "Delphox",
+            "number": "10/39",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/DelphoxBenvenutiaKalos10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-11/39",
+            "name": "Panpour",
+            "number": "11/39",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PanpourBenvenutiaKalos11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-12/39",
+            "name": "Froakie",
+            "number": "12/39",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/FroakieBenvenutiaKalos12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-13/39",
+            "name": "Frogadier",
+            "number": "13/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/FrogadierBenvenutiaKalos13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-14/39",
+            "name": "Greninja",
+            "number": "14/39",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/GreninjaBenvenutiaKalos14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-15/39",
+            "name": "Clauncher",
+            "number": "15/39",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ClauncherBenvenutiaKalos15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-16/39",
+            "name": "Poochyena",
+            "number": "16/39",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PoochyenaBenvenutiaKalos16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-17/39",
+            "name": "Mightyena",
+            "number": "17/39",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MightyenaBenvenutiaKalos17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-18/39",
+            "name": "Inkay",
+            "number": "18/39",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/InkayBenvenutiaKalos18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-19/39",
+            "name": "Pawniard",
+            "number": "19/39",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/PawniardBenvenutiaKalos19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-20/39",
+            "name": "Bisharp",
+            "number": "20/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/BisharpBenvenutiaKalos20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-21/39",
+            "name": "Honedge",
+            "number": "21/39",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/HonedgeBenvenutiaKalos21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-22/39",
+            "name": "Snubbull",
+            "number": "22/39",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SnubbullBenvenutiaKalos22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-23/39",
+            "name": "Granbull",
+            "number": "23/39",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/GranbullBenvenutiaKalos23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-24/39",
+            "name": "Swirlix",
+            "number": "24/39",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SwirlixBenvenutiaKalos24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-25/39",
+            "name": "Farfetch'd",
+            "number": "25/39",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/FarfetchdBenvenutiaKalos25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-26/39",
+            "name": "Snorlax",
+            "number": "26/39",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SnorlaxBenvenutiaKalos26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-27/39",
+            "name": "Miltank",
+            "number": "27/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MiltankBenvenutiaKalos27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-28/39",
+            "name": "Skitty",
+            "number": "28/39",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SkittyBenvenutiaKalos28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-29/39",
+            "name": "Bidoof",
+            "number": "29/39",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/BidoofBenvenutiaKalos29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-30/39",
+            "name": "Bunnelby",
+            "number": "30/39",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/BunnelbyBenvenutiaKalos30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-31/39",
+            "name": "Fletchling",
+            "number": "31/39",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/FletchlingBenvenutiaKalos31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-32/39",
+            "name": "Furfrou",
+            "number": "32/39",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FurfrouBenvenutiaKalos32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-33/39",
+            "name": "Furfrou",
+            "number": "33/39",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/FurfrouBenvenutiaKalos33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-34/39",
+            "name": "Martello Dirompente",
+            "number": "34/39",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MartelloDirompenteBenvenutiaKalos34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-35/39",
+            "name": "Poké Ball",
+            "number": "35/39",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/Pok%C3%A9BallBenvenutiaKalos35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-36/39",
+            "name": "Acchiappa-Pokémon",
+            "number": "36/39",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Acchiappa-Pok%C3%A9monBenvenutiaKalos36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-37/39",
+            "name": "Pozione",
+            "number": "37/39",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/PozioneBenvenutiaKalos37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-38/39",
+            "name": "Scambio",
+            "number": "38/39",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ScambioBenvenutiaKalos38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "KSS-39/39",
+            "name": "Tierno",
+            "number": "39/39",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/TiernoBenvenutiaKalos39.png",
+            "section": "Set principale"
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "expansion": {
+        "id": "SLG",
+        "name": "Leggende Iridescenti",
+        "year": 2017,
+        "month": 10,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetLeggende_Iridescenti.png",
+        "cardCount": 78,
+				"yellowAAlternateCardCount": 3
+    },
+    "cards": [
+        {
+            "id": "SLG-1/73",
+            "name": "Bulbasaur",
+            "number": "1/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/BulbasaurLeggendeIridescenti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-2/73",
+            "name": "Ivysaur",
+            "number": "2/73",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/IvysaurLeggendeIridescenti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-3/73",
+            "name": "Venusaur",
+            "number": "3/73",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/VenusaurLeggendeIridescenti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-4/73",
+            "name": "Shroomish",
+            "number": "4/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ShroomishLeggendeIridescenti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-5/73",
+            "name": "Breloom",
+            "number": "5/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/BreloomLeggendeIridescenti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-6/73",
+            "name": "Carnivine",
+            "number": "6/73",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/CarnivineLeggendeIridescenti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-7/73",
+            "name": "Shaymin",
+            "number": "7/73",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/ShayminLeggendeIridescenti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-8/73",
+            "name": "Virizion",
+            "number": "8/73",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/VirizionLeggendeIridescenti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-9/73",
+            "name": "Genesect iridescente",
+            "number": "9/73",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/GenesectiridescenteLeggendeIridescenti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-10/73",
+            "name": "Entei-GX",
+            "number": "10/73",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Entei-GXLeggendeIridescenti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-11/73",
+            "name": "Torkoal",
+            "number": "11/73",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/TorkoalLeggendeIridescenti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-12/73",
+            "name": "Larvesta",
+            "number": "12/73",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/LarvestaLeggendeIridescenti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-13/73",
+            "name": "Volcarona",
+            "number": "13/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/VolcaronaLeggendeIridescenti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-14/73",
+            "name": "Reshiram",
+            "number": "14/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/ReshiramLeggendeIridescenti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-15/73",
+            "name": "Litten",
+            "number": "15/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/LittenLeggendeIridescenti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-16/73",
+            "name": "Torracat",
+            "number": "16/73",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/TorracatLeggendeIridescenti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-17/73",
+            "name": "Incineroar",
+            "number": "17/73",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/IncineroarLeggendeIridescenti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-18/73",
+            "name": "Totodile",
+            "number": "18/73",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/TotodileLeggendeIridescenti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-19/73",
+            "name": "Croconaw",
+            "number": "19/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/CroconawLeggendeIridescenti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-20/73",
+            "name": "Feraligatr",
+            "number": "20/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/FeraligatrLeggendeIridescenti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-21/73",
+            "name": "Qwilfish",
+            "number": "21/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/QwilfishLeggendeIridescenti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-22/73",
+            "name": "Buizel",
+            "number": "22/73",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/BuizelLeggendeIridescenti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-23/73",
+            "name": "Floatzel",
+            "number": "23/73",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/FloatzelLeggendeIridescenti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-24/73",
+            "name": "Palkia",
+            "number": "24/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/PalkiaLeggendeIridescenti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-25/73",
+            "name": "Manaphy",
+            "number": "25/73",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/ManaphyLeggendeIridescenti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-26/73",
+            "name": "Keldeo",
+            "number": "26/73",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/KeldeoLeggendeIridescenti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-27/73",
+            "name": "Volcanion iridescente",
+            "number": "27/73",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/VolcanioniridescenteLeggendeIridescenti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-28/73",
+            "name": "Pikachu",
+            "number": "28/73",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/PikachuLeggendeIridescenti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-29/73",
+            "name": "Raichu-GX",
+            "number": "29/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/Raichu-GXLeggendeIridescenti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-30/73",
+            "name": "Voltorb",
+            "number": "30/73",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/VoltorbLeggendeIridescenti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-31/73",
+            "name": "Electrode",
+            "number": "31/73",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ElectrodeLeggendeIridescenti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-32/73",
+            "name": "Raikou",
+            "number": "32/73",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RaikouLeggendeIridescenti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-33/73",
+            "name": "Plusle",
+            "number": "33/73",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/PlusleLeggendeIridescenti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-34/73",
+            "name": "Minun",
+            "number": "34/73",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/MinunLeggendeIridescenti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-35/73",
+            "name": "Zekrom",
+            "number": "35/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/ZekromLeggendeIridescenti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-36/73",
+            "name": "Ekans",
+            "number": "36/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/EkansLeggendeIridescenti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-37/73",
+            "name": "Arbok",
+            "number": "37/73",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ArbokLeggendeIridescenti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-38/73",
+            "name": "Jynx",
+            "number": "38/73",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/JynxLeggendeIridescenti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-39/73",
+            "name": "Mewtwo-GX",
+            "number": "39/73",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Mewtwo-GXLeggendeIridescenti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-40/73",
+            "name": "Mew iridescente",
+            "number": "40/73",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MewiridescenteLeggendeIridescenti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-41/73",
+            "name": "Latios",
+            "number": "41/73",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/LatiosLeggendeIridescenti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-42/73",
+            "name": "Jirachi iridescente",
+            "number": "42/73",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/JirachiiridescenteLeggendeIridescenti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-43/73",
+            "name": "Golett",
+            "number": "43/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/GolettLeggendeIridescenti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-44/73",
+            "name": "Golurk",
+            "number": "44/73",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/GolurkLeggendeIridescenti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-45/73",
+            "name": "Marshadow",
+            "number": "45/73",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/MarshadowLeggendeIridescenti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-46/73",
+            "name": "Stunfisk",
+            "number": "46/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/StunfiskLeggendeIridescenti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-47/73",
+            "name": "Spiritomb",
+            "number": "47/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/SpiritombLeggendeIridescenti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-48/73",
+            "name": "Purrloin",
+            "number": "48/73",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/PurrloinLeggendeIridescenti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-49/73",
+            "name": "Liepard",
+            "number": "49/73",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/LiepardLeggendeIridescenti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-50/73",
+            "name": "Scraggy",
+            "number": "50/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ScraggyLeggendeIridescenti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-51/73",
+            "name": "Scrafty",
+            "number": "51/73",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ScraftyLeggendeIridescenti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-52/73",
+            "name": "Zorua",
+            "number": "52/73",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ZoruaLeggendeIridescenti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-53/73",
+            "name": "Zoroark-GX",
+            "number": "53/73",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Zoroark-GXLeggendeIridescenti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-54/73",
+            "name": "Yveltal",
+            "number": "54/73",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/YveltalLeggendeIridescenti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-55/73",
+            "name": "Hoopa",
+            "number": "55/73",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/HoopaLeggendeIridescenti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-56/73",
+            "name": "Rayquaza iridescente",
+            "number": "56/73",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/RayquazairidescenteLeggendeIridescenti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-57/73",
+            "name": "Arceus iridescente",
+            "number": "57/73",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ArceusiridescenteLeggendeIridescenti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-58/73",
+            "name": "Iniettore Danni",
+            "number": "58/73",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/IniettoreDanniLeggendeIridescenti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-59/73",
+            "name": "Recupero di Energia",
+            "number": "59/73",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/RecuperodiEnergiaLeggendeIridescenti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-60/73",
+            "name": "Mega Ball",
+            "number": "60/73",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/MegaBallLeggendeIridescenti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-61/73",
+            "name": "Hau",
+            "number": "61/73",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/HauLeggendeIridescenti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-62/73",
+            "name": "Lylia",
+            "number": "62/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/LyliaLeggendeIridescenti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-63/73",
+            "name": "Allevapokémon",
+            "number": "63/73",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Allevapok%C3%A9monLeggendeIridescenti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-64/73",
+            "name": "Acchiappa-Pokémon",
+            "number": "64/73",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Acchiappa-Pok%C3%A9monLeggendeIridescenti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-65/73",
+            "name": "Chrys",
+            "number": "65/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ChrysLeggendeIridescenti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-66/73",
+            "name": "Super Recupero",
+            "number": "66/73",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/SuperRecuperoLeggendeIridescenti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-67/73",
+            "name": "Scambio",
+            "number": "67/73",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/ScambioLeggendeIridescenti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-68/73",
+            "name": "Ultra Ball",
+            "number": "68/73",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/UltraBallLeggendeIridescenti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-69/73",
+            "name": "Energia Incolore doppia",
+            "number": "69/73",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/EnergiaIncoloredoppiaLeggendeIridescenti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-70/73",
+            "name": "Energia Curvatura",
+            "number": "70/73",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EnergiaCurvaturaLeggendeIridescenti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-71/73",
+            "name": "Entei-GX",
+            "number": "71/73",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Entei-GXLeggendeIridescenti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-72/73",
+            "name": "Mewtwo-GX",
+            "number": "72/73",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Mewtwo-GXLeggendeIridescenti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-73/73",
+            "name": "Allevapokémon",
+            "number": "73/73",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Allevapok%C3%A9monLeggendeIridescenti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SLG-74/73",
+            "name": "Entei-GX",
+            "number": "74/73",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Entei-GXLeggendeIridescenti74.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SLG-75/73",
+            "name": "Raichu-GX",
+            "number": "75/73",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Raichu-GXLeggendeIridescenti75.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SLG-76/73",
+            "name": "Mewtwo-GX",
+            "number": "76/73",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Mewtwo-GXLeggendeIridescenti76.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SLG-77/73",
+            "name": "Zoroark-GX",
+            "number": "77/73",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Zoroark-GXLeggendeIridescenti77.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SLG-78/73",
+            "name": "Mewtwo-GX",
+            "number": "78/73",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Mewtwo-GXLeggendeIridescenti78.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SLG-10a/73",
+            "name": "Entei-GX",
+            "number": "10a/73",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Entei-GXLeggendeIridescenti10a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "SLG-6a8/73",
+            "name": "Ultra Ball",
+            "number": "68a/73",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "SLG-77a/73",
+            "name": "Zoroark-GX",
+            "number": "77a/73",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Zoroark-GXLeggendeIridescenti77a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

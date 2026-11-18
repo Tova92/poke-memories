@@ -1,0 +1,1549 @@
+{
+    "expansion": {
+        "id": "TEF",
+        "name": "Scarlatto e Violetto - Cronoforze",
+        "year": 2024,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetCronoforze.png",
+        "cardCount": 218
+    },
+    "cards": [
+        {
+            "id": "TEF-001/162",
+            "name": "Scyther",
+            "number": "001/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/ScytherCronoforze1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-002/162",
+            "name": "Pineco",
+            "number": "002/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PinecoCronoforze2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-003/162",
+            "name": "Seedot",
+            "number": "003/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/SeedotCronoforze3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-004/162",
+            "name": "Nuzleaf",
+            "number": "004/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/NuzleafCronoforze4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-005/162",
+            "name": "Shiftry",
+            "number": "005/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/ShiftryCronoforze5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-006/162",
+            "name": "Shroomish",
+            "number": "006/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/ShroomishCronoforze6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-007/162",
+            "name": "Breloom",
+            "number": "007/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/BreloomCronoforze7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-008/162",
+            "name": "Roselia",
+            "number": "008/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/RoseliaCronoforze8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-009/162",
+            "name": "Roserade",
+            "number": "009/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/RoseradeCronoforze9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-010/162",
+            "name": "Turtwig",
+            "number": "010/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/TurtwigCronoforze10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-011/162",
+            "name": "Grotle",
+            "number": "011/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GrotleCronoforze11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-012/162",
+            "name": "Torterra-ex",
+            "number": "012/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Torterra-exCronoforze12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-013/162",
+            "name": "Shaymin",
+            "number": "013/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ShayminCronoforze13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-014/162",
+            "name": "Cottonee",
+            "number": "014/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/CottoneeCronoforze14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-015/162",
+            "name": "Whimsicott",
+            "number": "015/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/WhimsicottCronoforze15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-016/162",
+            "name": "Deerling",
+            "number": "016/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/DeerlingCronoforze16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-017/162",
+            "name": "Sawsbuck",
+            "number": "017/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SawsbuckCronoforze17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-018/162",
+            "name": "Grubbin",
+            "number": "018/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/GrubbinCronoforze18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-019/162",
+            "name": "Dhelmise",
+            "number": "019/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/DhelmiseCronoforze19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-020/162",
+            "name": "Bramblin",
+            "number": "020/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/BramblinCronoforze20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-021/162",
+            "name": "Brambleghast",
+            "number": "021/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/BrambleghastCronoforze21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-022/162",
+            "name": "Scovillain-ex",
+            "number": "022/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Scovillain-exCronoforze22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-023/162",
+            "name": "Rellor",
+            "number": "023/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/RellorCronoforze23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-024/162",
+            "name": "Rabsca",
+            "number": "024/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/RabscaCronoforze24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-025/162",
+            "name": "Fogliaferrea-ex",
+            "number": "025/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Fogliaferrea-exCronoforze25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-026/162",
+            "name": "Ponyta",
+            "number": "026/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/PonytaCronoforze26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-027/162",
+            "name": "Rapidash",
+            "number": "027/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/RapidashCronoforze27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-028/162",
+            "name": "Slugma",
+            "number": "028/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SlugmaCronoforze28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-029/162",
+            "name": "Magcargo",
+            "number": "029/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MagcargoCronoforze29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-030/162",
+            "name": "Victini",
+            "number": "030/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/VictiniCronoforze30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-031/162",
+            "name": "Heatmor",
+            "number": "031/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/HeatmorCronoforze31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-032/162",
+            "name": "Litten",
+            "number": "032/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/LittenCronoforze32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-033/162",
+            "name": "Torracat",
+            "number": "033/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/TorracatCronoforze33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-034/162",
+            "name": "Incineroar-ex",
+            "number": "034/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Incineroar-exCronoforze34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-035/162",
+            "name": "Turtonator",
+            "number": "035/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/TurtonatorCronoforze35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-036/162",
+            "name": "Sizzlipede",
+            "number": "036/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SizzlipedeCronoforze36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-037/162",
+            "name": "Centiskorch",
+            "number": "037/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/CentiskorchCronoforze37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-038/162",
+            "name": "Vampeaguzze-ex",
+            "number": "038/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Vampeaguzze-exCronoforze38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-039/162",
+            "name": "Totodile",
+            "number": "039/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/TotodileCronoforze39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-040/162",
+            "name": "Croconaw",
+            "number": "040/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/CroconawCronoforze40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-041/162",
+            "name": "Feraligatr",
+            "number": "041/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/FeraligatrCronoforze41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-042/162",
+            "name": "Carvanha",
+            "number": "042/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/CarvanhaCronoforze42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-043/162",
+            "name": "Sharpedo",
+            "number": "043/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SharpedoCronoforze43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-044/162",
+            "name": "Keldeo",
+            "number": "044/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/KeldeoCronoforze44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-045/162",
+            "name": "Snom",
+            "number": "045/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SnomCronoforze45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-046/162",
+            "name": "Frosmoth",
+            "number": "046/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/FrosmothCronoforze46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-047/162",
+            "name": "Wiglett",
+            "number": "047/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/WiglettCronoforze47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-048/162",
+            "name": "Finizen",
+            "number": "048/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/FinizenCronoforze48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-049/162",
+            "name": "Palafin",
+            "number": "049/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/PalafinCronoforze49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-050/162",
+            "name": "Acquecrespe-ex",
+            "number": "050/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Acquecrespe-exCronoforze50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-051/162",
+            "name": "Pikachu",
+            "number": "051/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/PikachuCronoforze51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-052/162",
+            "name": "Raichu",
+            "number": "052/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/RaichuCronoforze52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-053/162",
+            "name": "Electabuzz",
+            "number": "053/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ElectabuzzCronoforze53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-054/162",
+            "name": "Electivire",
+            "number": "054/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/ElectivireCronoforze54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-055/162",
+            "name": "Charjabug",
+            "number": "055/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/CharjabugCronoforze55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-056/162",
+            "name": "Vikavolt",
+            "number": "056/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/VikavoltCronoforze56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-057/162",
+            "name": "Zeraora",
+            "number": "057/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ZeraoraCronoforze57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-058/162",
+            "name": "Yamper",
+            "number": "058/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/YamperCronoforze58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-059/162",
+            "name": "Boltund",
+            "number": "059/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/BoltundCronoforze59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-060/162",
+            "name": "Wugtrio-ex",
+            "number": "060/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Wugtrio-exCronoforze60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-061/162",
+            "name": "Manoferrea",
+            "number": "061/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ManoferreaCronoforze61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-062/162",
+            "name": "Spineferree",
+            "number": "062/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SpineferreeCronoforze62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-063/162",
+            "name": "Mr. Mime",
+            "number": "063/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/MrMimeCronoforze63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-064/162",
+            "name": "Marill",
+            "number": "064/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MarillCronoforze64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-065/162",
+            "name": "Azumarill",
+            "number": "065/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/AzumarillCronoforze65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-066/162",
+            "name": "Girafarig",
+            "number": "066/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/GirafarigCronoforze66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-067/162",
+            "name": "Latias",
+            "number": "067/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/LatiasCronoforze67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-068/162",
+            "name": "Bronzor",
+            "number": "068/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BronzorCronoforze68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-069/162",
+            "name": "Bronzong",
+            "number": "069/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/BronzongCronoforze69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-070/162",
+            "name": "Solosis",
+            "number": "070/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SolosisCronoforze70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-071/162",
+            "name": "Duosion",
+            "number": "071/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/DuosionCronoforze71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-072/162",
+            "name": "Reuniclus",
+            "number": "072/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ReuniclusCronoforze72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-073/162",
+            "name": "Elgyem",
+            "number": "073/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ElgyemCronoforze73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-074/162",
+            "name": "Beheeyem",
+            "number": "074/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/BeheeyemCronoforze74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-075/162",
+            "name": "Cutiefly",
+            "number": "075/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CutieflyCronoforze75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-076/162",
+            "name": "Ribombee",
+            "number": "076/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/RibombeeCronoforze76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-077/162",
+            "name": "Codaurlante",
+            "number": "077/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CodaurlanteCronoforze77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-078/162",
+            "name": "Crinealato",
+            "number": "078/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CrinealatoCronoforze78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-079/162",
+            "name": "Eroeferreo",
+            "number": "079/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/EroeferreoCronoforze79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-080/162",
+            "name": "Eroeferreo",
+            "number": "080/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/EroeferreoCronoforze80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-081/162",
+            "name": "Capoferreo-ex",
+            "number": "081/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Capoferreo-exCronoforze81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-082/162",
+            "name": "Meditite",
+            "number": "082/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MedititeCronoforze82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-083/162",
+            "name": "Medicham",
+            "number": "083/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MedichamCronoforze83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-084/162",
+            "name": "Relicanth",
+            "number": "084/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/RelicanthCronoforze84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-085/162",
+            "name": "Drilbur",
+            "number": "085/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/DrilburCronoforze85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-086/162",
+            "name": "Excadrill",
+            "number": "086/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ExcadrillCronoforze86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-087/162",
+            "name": "Golett",
+            "number": "087/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/GolettCronoforze87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-088/162",
+            "name": "Golurk",
+            "number": "088/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/GolurkCronoforze88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-089/162",
+            "name": "Rockruff",
+            "number": "089/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RockruffCronoforze89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-090/162",
+            "name": "Lycanroc",
+            "number": "090/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LycanrocCronoforze90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-091/162",
+            "name": "Mudbray",
+            "number": "091/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MudbrayCronoforze91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-092/162",
+            "name": "Mudsdale",
+            "number": "092/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MudsdaleCronoforze92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-093/162",
+            "name": "Rolycoly",
+            "number": "093/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/RolycolyCronoforze93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-094/162",
+            "name": "Carkol",
+            "number": "094/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/CarkolCronoforze94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-095/162",
+            "name": "Coalossal",
+            "number": "095/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/CoalossalCronoforze95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-096/162",
+            "name": "Grandizanne",
+            "number": "096/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/GrandizanneCronoforze96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-097/162",
+            "name": "Grandizanne",
+            "number": "097/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/GrandizanneCronoforze97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-098/162",
+            "name": "Peldisabbia",
+            "number": "098/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/PeldisabbiaCronoforze98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-099/162",
+            "name": "Massoferreo-ex",
+            "number": "099/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Massoferreo-exCronoforze99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-100/162",
+            "name": "Ekans",
+            "number": "100/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/EkansCronoforze100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-101/162",
+            "name": "Arbok",
+            "number": "101/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ArbokCronoforze101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-102/162",
+            "name": "Gastly",
+            "number": "102/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/GastlyCronoforze102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-103/162",
+            "name": "Haunter",
+            "number": "103/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/HaunterCronoforze103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-104/162",
+            "name": "Gengar-ex",
+            "number": "104/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Gengar-exCronoforze104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-105/162",
+            "name": "Poochyena",
+            "number": "105/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/PoochyenaCronoforze105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-106/162",
+            "name": "Mightyena",
+            "number": "106/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/MightyenaCronoforze106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-107/162",
+            "name": "Sableye",
+            "number": "107/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/SableyeCronoforze107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-108/162",
+            "name": "Farigiraf-ex",
+            "number": "108/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Farigiraf-exCronoforze108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-109/162",
+            "name": "Lunaruggente",
+            "number": "109/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/LunaruggenteCronoforze109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-110/162",
+            "name": "Forretress",
+            "number": "110/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/ForretressCronoforze110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-111/162",
+            "name": "Scizor-ex",
+            "number": "111/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Scizor-exCronoforze111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-112/162",
+            "name": "Mawile",
+            "number": "112/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MawileCronoforze112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-113/162",
+            "name": "Beldum",
+            "number": "113/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/BeldumCronoforze113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-114/162",
+            "name": "Metang",
+            "number": "114/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/MetangCronoforze114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-115/162",
+            "name": "Metagross",
+            "number": "115/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MetagrossCronoforze115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-116/162",
+            "name": "Meltan",
+            "number": "116/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MeltanCronoforze116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-117/162",
+            "name": "Melmetal",
+            "number": "117/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/MelmetalCronoforze117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-118/162",
+            "name": "Solcoferreo",
+            "number": "118/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/SolcoferreoCronoforze118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-119/162",
+            "name": "Koraidon",
+            "number": "119/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/KoraidonCronoforze119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-120/162",
+            "name": "Koraidon-ex",
+            "number": "120/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Koraidon-exCronoforze120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-121/162",
+            "name": "Miraidon",
+            "number": "121/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MiraidonCronoforze121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-122/162",
+            "name": "Miraidon-ex",
+            "number": "122/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Miraidon-exCronoforze122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-123/162",
+            "name": "Furiatonante-ex",
+            "number": "123/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Furiatonante-exCronoforze123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-124/162",
+            "name": "Lickitung",
+            "number": "124/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/LickitungCronoforze124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-125/162",
+            "name": "Lickilicky",
+            "number": "125/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/LickilickyCronoforze125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-126/162",
+            "name": "Hoothoot",
+            "number": "126/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/HoothootCronoforze126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-127/162",
+            "name": "Noctowl",
+            "number": "127/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/NoctowlCronoforze127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-128/162",
+            "name": "Dunsparce",
+            "number": "128/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/DunsparceCronoforze128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-129/162",
+            "name": "Dudunsparce",
+            "number": "129/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DudunsparceCronoforze129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-130/162",
+            "name": "Skitty",
+            "number": "130/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/SkittyCronoforze130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-131/162",
+            "name": "Delcatty",
+            "number": "131/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DelcattyCronoforze131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-132/162",
+            "name": "Chatot",
+            "number": "132/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ChatotCronoforze132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-133/162",
+            "name": "Pidove",
+            "number": "133/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/PidoveCronoforze133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-134/162",
+            "name": "Tranquill",
+            "number": "134/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/TranquillCronoforze134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-135/162",
+            "name": "Unfezant",
+            "number": "135/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/UnfezantCronoforze135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-136/162",
+            "name": "Minccino",
+            "number": "136/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/MinccinoCronoforze136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-137/162",
+            "name": "Cinccino",
+            "number": "137/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/CinccinoCronoforze137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-138/162",
+            "name": "Drampa",
+            "number": "138/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/DrampaCronoforze138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-139/162",
+            "name": "Colloferreo",
+            "number": "139/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ColloferreoCronoforze139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-140/162",
+            "name": "Capsula energetica Tempo Passato",
+            "number": "140/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CapsulaenergeticaTempoPassatoCronoforze140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-141/162",
+            "name": "Tamburosveglia",
+            "number": "141/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/TamburosvegliaCronoforze141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-142/162",
+            "name": "Dedizione di Belle",
+            "number": "142/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/DedizionediBelleCronoforze142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-143/162",
+            "name": "Ordinazione Speciale",
+            "number": "143/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/OrdinazioneSpecialeCronoforze143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-144/162",
+            "name": "Poffin del Cuore",
+            "number": "144/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PoffindelCuoreCronoforze144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-145/162",
+            "name": "Decrittazione Esperta",
+            "number": "145/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/DecrittazioneEspertaCronoforze145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-146/162",
+            "name": "Nespera",
+            "number": "146/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/NesperaCronoforze146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-147/162",
+            "name": "Guida dell'Esploratore",
+            "number": "147/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/GuidadellEsploratoreCronoforze147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-148/162",
+            "name": "Laboratorio di Metallo",
+            "number": "148/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/LaboratoriodiMetalloCronoforze148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-149/162",
+            "name": "Capsula energetica Tempo Futuro",
+            "number": "149/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/CapsulaenergeticaTempoFuturoCronoforze149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-150/162",
+            "name": "Rasamano",
+            "number": "150/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/RasamanoCronoforze150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-151/162",
+            "name": "Peso Testimone",
+            "number": "151/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PesoTestimoneCronoforze151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-152/162",
+            "name": "Mantello dell'Eroe",
+            "number": "152/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MantellodellEroeCronoforze152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-153/162",
+            "name": "Master Ball",
+            "number": "153/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MasterBallCronoforze153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-154/162",
+            "name": "Maxicintura",
+            "number": "154/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MaxicinturaCronoforze154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-155/162",
+            "name": "Fermezza di Angelo",
+            "number": "155/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/FermezzadiAngeloCronoforze155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-156/162",
+            "name": "Giungla Pericolosa",
+            "number": "156/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/GiunglaPericolosaCronoforze156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-157/162",
+            "name": "Acchiappa-Pokémon Eccellente",
+            "number": "157/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Acchiappa-Pok%C3%A9monEccellenteCronoforze157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-158/162",
+            "name": "Navicella di Riavvio",
+            "number": "158/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/NavicelladiRiavvioCronoforze158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-159/162",
+            "name": "Skateboard di Salvataggio",
+            "number": "159/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SkateboarddiSalvataggioCronoforze159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-160/162",
+            "name": "Salvis",
+            "number": "160/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SalvisCronoforze160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-161/162",
+            "name": "Energia Nebbia",
+            "number": "161/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaNebbiaCronoforze161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-162/162",
+            "name": "Neoenergia Vantaggio",
+            "number": "162/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/NeoenergiaVantaggioCronoforze162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "TEF-163/162",
+            "name": "Shiftry",
+            "number": "163/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ShiftryCronoforze163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-164/162",
+            "name": "Grotle",
+            "number": "164/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/GrotleCronoforze164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-165/162",
+            "name": "Deerling",
+            "number": "165/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/DeerlingCronoforze165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-166/162",
+            "name": "Sawsbuck",
+            "number": "166/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/SawsbuckCronoforze166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-167/162",
+            "name": "Litten",
+            "number": "167/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/LittenCronoforze167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-168/162",
+            "name": "Snom",
+            "number": "168/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SnomCronoforze168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-169/162",
+            "name": "Charjabug",
+            "number": "169/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/CharjabugCronoforze169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-170/162",
+            "name": "Bronzor",
+            "number": "170/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/BronzorCronoforze170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-171/162",
+            "name": "Reuniclus",
+            "number": "171/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/ReuniclusCronoforze171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-172/162",
+            "name": "Cutiefly",
+            "number": "172/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CutieflyCronoforze172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-173/162",
+            "name": "Relicanth",
+            "number": "173/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/RelicanthCronoforze173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-174/162",
+            "name": "Excadrill",
+            "number": "174/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/ExcadrillCronoforze174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-175/162",
+            "name": "Mudsdale",
+            "number": "175/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MudsdaleCronoforze175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-176/162",
+            "name": "Arbok",
+            "number": "176/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/ArbokCronoforze176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-177/162",
+            "name": "Gastly",
+            "number": "177/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/GastlyCronoforze177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-178/162",
+            "name": "Metagross",
+            "number": "178/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MetagrossCronoforze178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-179/162",
+            "name": "Meltan",
+            "number": "179/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/MeltanCronoforze179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-180/162",
+            "name": "Lickitung",
+            "number": "180/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/LickitungCronoforze180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-181/162",
+            "name": "Chatot",
+            "number": "181/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/ChatotCronoforze181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-182/162",
+            "name": "Minccino",
+            "number": "182/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/MinccinoCronoforze182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-183/162",
+            "name": "Cinccino",
+            "number": "183/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/CinccinoCronoforze183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-184/162",
+            "name": "Drampa",
+            "number": "184/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/DrampaCronoforze184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-185/162",
+            "name": "Torterra-ex",
+            "number": "185/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Torterra-exCronoforze185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-186/162",
+            "name": "Fogliaferrea-ex",
+            "number": "186/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Fogliaferrea-exCronoforze186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-187/162",
+            "name": "Incineroar-ex",
+            "number": "187/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/Incineroar-exCronoforze187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-188/162",
+            "name": "Vampeaguzze-ex",
+            "number": "188/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Vampeaguzze-exCronoforze188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-189/162",
+            "name": "Acquecrespe-ex",
+            "number": "189/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Acquecrespe-exCronoforze189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-190/162",
+            "name": "Wugtrio-ex",
+            "number": "190/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Wugtrio-exCronoforze190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-191/162",
+            "name": "Capoferreo-ex",
+            "number": "191/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Capoferreo-exCronoforze191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-192/162",
+            "name": "Massoferreo-ex",
+            "number": "192/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Massoferreo-exCronoforze192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-193/162",
+            "name": "Gengar-ex",
+            "number": "193/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Gengar-exCronoforze193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-194/162",
+            "name": "Farigiraf-ex",
+            "number": "194/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Farigiraf-exCronoforze194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-195/162",
+            "name": "Scizor-ex",
+            "number": "195/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Scizor-exCronoforze195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-196/162",
+            "name": "Furiatonante-ex",
+            "number": "196/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Furiatonante-exCronoforze196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-197/162",
+            "name": "Dedizione di Belle",
+            "number": "197/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/DedizionediBelleCronoforze197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-198/162",
+            "name": "Decrittazione Esperta",
+            "number": "198/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/DecrittazioneEspertaCronoforze198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-199/162",
+            "name": "Nespera",
+            "number": "199/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/NesperaCronoforze199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-200/162",
+            "name": "Guida dell'Esploratore",
+            "number": "200/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/GuidadellEsploratoreCronoforze200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-201/162",
+            "name": "Fermezza di Angelo",
+            "number": "201/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/FermezzadiAngeloCronoforze201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-202/162",
+            "name": "Salvis",
+            "number": "202/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/SalvisCronoforze202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-203/162",
+            "name": "Fogliaferrea-ex",
+            "number": "203/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Fogliaferrea-exCronoforze203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-204/162",
+            "name": "Vampeaguzze-ex",
+            "number": "204/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Vampeaguzze-exCronoforze204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-205/162",
+            "name": "Acquecrespe-ex",
+            "number": "205/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Acquecrespe-exCronoforze205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-206/162",
+            "name": "Capoferreo-ex",
+            "number": "206/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/Capoferreo-exCronoforze206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-207/162",
+            "name": "Massoferreo-ex",
+            "number": "207/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Massoferreo-exCronoforze207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-208/162",
+            "name": "Furiatonante-ex",
+            "number": "208/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Furiatonante-exCronoforze208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-209/162",
+            "name": "Dedizione di Belle",
+            "number": "209/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/DedizionediBelleCronoforze209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-210/162",
+            "name": "Nespera",
+            "number": "210/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/NesperaCronoforze210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-211/162",
+            "name": "Fermezza di Angelo",
+            "number": "211/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/FermezzadiAngeloCronoforze211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-212/162",
+            "name": "Salvis",
+            "number": "212/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SalvisCronoforze212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-213/162",
+            "name": "Fogliaferrea-ex",
+            "number": "213/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Fogliaferrea-exCronoforze213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-214/162",
+            "name": "Vampeaguzze-ex",
+            "number": "214/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Vampeaguzze-exCronoforze214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-215/162",
+            "name": "Acquecrespe-ex",
+            "number": "215/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Acquecrespe-exCronoforze215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-216/162",
+            "name": "Capoferreo-ex",
+            "number": "216/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Capoferreo-exCronoforze216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-217/162",
+            "name": "Massoferreo-ex",
+            "number": "217/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Massoferreo-exCronoforze217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "TEF-218/162",
+            "name": "Furiatonante-ex",
+            "number": "218/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Furiatonante-exCronoforze218.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-001",
+				"SVE-002",
+				"SVE-003",
+				"SVE-004",
+				"SVE-005",
+				"SVE-006",
+				"SVE-007",
+				"SVE-008"
+		]
+}

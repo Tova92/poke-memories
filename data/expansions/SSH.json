@@ -1,0 +1,1525 @@
+{
+    "expansion": {
+        "id": "SSH",
+        "name": "Spada e Scudo",
+        "year": 2020,
+        "month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cb/SimboloSetSpada_e_Scudo.png",
+        "cardCount": 216
+    },
+    "cards": [
+        {
+            "id": "SSH-001/202",
+            "name": "Celebi-V",
+            "number": "001/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Celebi-VSpadaeScudo1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-002/202",
+            "name": "Roselia",
+            "number": "002/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/RoseliaSpadaeScudo2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-003/202",
+            "name": "Roselia",
+            "number": "003/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/RoseliaSpadaeScudo3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-004/202",
+            "name": "Roserade",
+            "number": "004/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/RoseradeSpadaeScudo4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-005/202",
+            "name": "Cottonee",
+            "number": "005/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/CottoneeSpadaeScudo5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-006/202",
+            "name": "Whimsicott",
+            "number": "006/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/WhimsicottSpadaeScudo6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-007/202",
+            "name": "Maractus",
+            "number": "007/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/MaractusSpadaeScudo7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-008/202",
+            "name": "Durant",
+            "number": "008/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/DurantSpadaeScudo8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-009/202",
+            "name": "Dhelmise-V",
+            "number": "009/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Dhelmise-VSpadaeScudo9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-010/202",
+            "name": "Grookey",
+            "number": "010/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/GrookeySpadaeScudo10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-011/202",
+            "name": "Grookey",
+            "number": "011/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/GrookeySpadaeScudo11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-012/202",
+            "name": "Thwackey",
+            "number": "012/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/ThwackeySpadaeScudo12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-013/202",
+            "name": "Thwackey",
+            "number": "013/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ThwackeySpadaeScudo13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-014/202",
+            "name": "Rillaboom",
+            "number": "014/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/RillaboomSpadaeScudo14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-015/202",
+            "name": "Rillaboom",
+            "number": "015/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/RillaboomSpadaeScudo15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-016/202",
+            "name": "Blipbug",
+            "number": "016/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/BlipbugSpadaeScudo16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-017/202",
+            "name": "Blipbug",
+            "number": "017/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/BlipbugSpadaeScudo17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-018/202",
+            "name": "Dottler",
+            "number": "018/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/DottlerSpadaeScudo18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-019/202",
+            "name": "Orbeetle",
+            "number": "019/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/OrbeetleSpadaeScudo19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-020/202",
+            "name": "Gossifleur",
+            "number": "020/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/GossifleurSpadaeScudo20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-021/202",
+            "name": "Eldegoss",
+            "number": "021/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/EldegossSpadaeScudo21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-022/202",
+            "name": "Vulpix",
+            "number": "022/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/VulpixSpadaeScudo22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-023/202",
+            "name": "Ninetales",
+            "number": "023/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/NinetalesSpadaeScudo23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-024/202",
+            "name": "Torkoal-V",
+            "number": "024/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Torkoal-VSpadaeScudo24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-025/202",
+            "name": "Victini-V",
+            "number": "025/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Victini-VSpadaeScudo25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-026/202",
+            "name": "Heatmor",
+            "number": "026/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/HeatmorSpadaeScudo26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-027/202",
+            "name": "Salandit",
+            "number": "027/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/SalanditSpadaeScudo27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-028/202",
+            "name": "Salazzle",
+            "number": "028/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SalazzleSpadaeScudo28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-029/202",
+            "name": "Turtonator",
+            "number": "029/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/TurtonatorSpadaeScudo29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-030/202",
+            "name": "Scorbunny",
+            "number": "030/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ScorbunnySpadaeScudo30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-031/202",
+            "name": "Scorbunny",
+            "number": "031/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/ScorbunnySpadaeScudo31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-032/202",
+            "name": "Raboot",
+            "number": "032/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/RabootSpadaeScudo32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-033/202",
+            "name": "Raboot",
+            "number": "033/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/RabootSpadaeScudo33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-034/202",
+            "name": "Cinderace",
+            "number": "034/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/CinderaceSpadaeScudo34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-035/202",
+            "name": "Cinderace",
+            "number": "035/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/CinderaceSpadaeScudo35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-036/202",
+            "name": "Cinderace",
+            "number": "036/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CinderaceSpadaeScudo36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-037/202",
+            "name": "Sizzlipede",
+            "number": "037/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/SizzlipedeSpadaeScudo37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-038/202",
+            "name": "Sizzlipede",
+            "number": "038/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/SizzlipedeSpadaeScudo38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-039/202",
+            "name": "Centiskorch",
+            "number": "039/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/CentiskorchSpadaeScudo39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-040/202",
+            "name": "Shellder",
+            "number": "040/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ShellderSpadaeScudo40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-041/202",
+            "name": "Cloyster",
+            "number": "041/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/CloysterSpadaeScudo41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-042/202",
+            "name": "Krabby",
+            "number": "042/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/KrabbySpadaeScudo42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-043/202",
+            "name": "Krabby",
+            "number": "043/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/KrabbySpadaeScudo43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-044/202",
+            "name": "Kingler",
+            "number": "044/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/KinglerSpadaeScudo44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-045/202",
+            "name": "Goldeen",
+            "number": "045/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GoldeenSpadaeScudo45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-046/202",
+            "name": "Goldeen",
+            "number": "046/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/GoldeenSpadaeScudo46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-047/202",
+            "name": "Seaking",
+            "number": "047/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SeakingSpadaeScudo47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-048/202",
+            "name": "Lapras",
+            "number": "048/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/LaprasSpadaeScudo48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-049/202",
+            "name": "Lapras-V",
+            "number": "049/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Lapras-VSpadaeScudo49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-050/202",
+            "name": "Lapras-VMAX",
+            "number": "050/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Lapras-VMAXSpadaeScudo50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-051/202",
+            "name": "Qwilfish",
+            "number": "051/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/QwilfishSpadaeScudo51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-052/202",
+            "name": "Mantine",
+            "number": "052/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/MantineSpadaeScudo52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-053/202",
+            "name": "Keldeo-V",
+            "number": "053/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Keldeo-VSpadaeScudo53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-054/202",
+            "name": "Sobble",
+            "number": "054/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SobbleSpadaeScudo54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-055/202",
+            "name": "Sobble",
+            "number": "055/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/SobbleSpadaeScudo55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-056/202",
+            "name": "Drizzile",
+            "number": "056/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/DrizzileSpadaeScudo56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-057/202",
+            "name": "Drizzile",
+            "number": "057/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/DrizzileSpadaeScudo57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-058/202",
+            "name": "Inteleon",
+            "number": "058/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/InteleonSpadaeScudo58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-059/202",
+            "name": "Inteleon",
+            "number": "059/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/InteleonSpadaeScudo59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-060/202",
+            "name": "Chewtle",
+            "number": "060/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ChewtleSpadaeScudo60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-061/202",
+            "name": "Drednaw",
+            "number": "061/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/DrednawSpadaeScudo61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-062/202",
+            "name": "Cramorant",
+            "number": "062/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/CramorantSpadaeScudo62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-063/202",
+            "name": "Snom",
+            "number": "063/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/SnomSpadaeScudo63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-064/202",
+            "name": "Frosmoth",
+            "number": "064/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/FrosmothSpadaeScudo64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-065/202",
+            "name": "Pikachu",
+            "number": "065/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/PikachuSpadaeScudo65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-066/202",
+            "name": "Raichu",
+            "number": "066/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/RaichuSpadaeScudo66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-067/202",
+            "name": "Chinchou",
+            "number": "067/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ChinchouSpadaeScudo67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-068/202",
+            "name": "Chinchou",
+            "number": "068/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/ChinchouSpadaeScudo68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-069/202",
+            "name": "Lanturn",
+            "number": "069/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/LanturnSpadaeScudo69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-070/202",
+            "name": "Joltik",
+            "number": "070/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/JoltikSpadaeScudo70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-071/202",
+            "name": "Galvantula",
+            "number": "071/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/GalvantulaSpadaeScudo71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-072/202",
+            "name": "Tapu Koko-V",
+            "number": "072/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/TapuKoko-VSpadaeScudo72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-073/202",
+            "name": "Yamper",
+            "number": "073/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/YamperSpadaeScudo73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-074/202",
+            "name": "Yamper",
+            "number": "074/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/YamperSpadaeScudo74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-075/202",
+            "name": "Boltund",
+            "number": "075/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/BoltundSpadaeScudo75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-076/202",
+            "name": "Boltund",
+            "number": "076/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/BoltundSpadaeScudo76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-077/202",
+            "name": "Pincurchin",
+            "number": "077/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/PincurchinSpadaeScudo77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-078/202",
+            "name": "Morpeko",
+            "number": "078/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MorpekoSpadaeScudo78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-079/202",
+            "name": "Morpeko-V",
+            "number": "079/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Morpeko-VSpadaeScudo79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-080/202",
+            "name": "Morpeko-VMAX",
+            "number": "080/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Morpeko-VMAXSpadaeScudo80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-081/202",
+            "name": "Ponyta di Galar",
+            "number": "081/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/PonytadiGalarSpadaeScudo81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-082/202",
+            "name": "Rapidash di Galar",
+            "number": "082/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/RapidashdiGalarSpadaeScudo82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-083/202",
+            "name": "Gastly",
+            "number": "083/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/GastlySpadaeScudo83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-084/202",
+            "name": "Haunter",
+            "number": "084/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/HaunterSpadaeScudo84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-085/202",
+            "name": "Gengar",
+            "number": "085/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/GengarSpadaeScudo85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-086/202",
+            "name": "Wobbuffet-V",
+            "number": "086/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Wobbuffet-VSpadaeScudo86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-087/202",
+            "name": "Munna",
+            "number": "087/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/MunnaSpadaeScudo87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-088/202",
+            "name": "Musharna",
+            "number": "088/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/MusharnaSpadaeScudo88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-089/202",
+            "name": "Sinistea",
+            "number": "089/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SinisteaSpadaeScudo89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-090/202",
+            "name": "Polteageist",
+            "number": "090/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/PolteageistSpadaeScudo90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-091/202",
+            "name": "Indeedee-V",
+            "number": "091/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Indeedee-VSpadaeScudo91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-092/202",
+            "name": "Diglett",
+            "number": "092/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/DiglettSpadaeScudo92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-093/202",
+            "name": "Dugtrio",
+            "number": "093/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/DugtrioSpadaeScudo93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-094/202",
+            "name": "Hitmonlee",
+            "number": "094/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/HitmonleeSpadaeScudo94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-095/202",
+            "name": "Hitmonchan",
+            "number": "095/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/HitmonchanSpadaeScudo95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-096/202",
+            "name": "Rhyhorn",
+            "number": "096/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/RhyhornSpadaeScudo96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-097/202",
+            "name": "Rhyhorn",
+            "number": "097/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/RhyhornSpadaeScudo97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-098/202",
+            "name": "Rhydon",
+            "number": "098/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/RhydonSpadaeScudo98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-099/202",
+            "name": "Rhyperior",
+            "number": "099/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/RhyperiorSpadaeScudo99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-100/202",
+            "name": "Sudowoodo",
+            "number": "100/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/SudowoodoSpadaeScudo100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-101/202",
+            "name": "Baltoy",
+            "number": "101/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/BaltoySpadaeScudo101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-102/202",
+            "name": "Baltoy",
+            "number": "102/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/BaltoySpadaeScudo102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-103/202",
+            "name": "Claydol",
+            "number": "103/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ClaydolSpadaeScudo103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-104/202",
+            "name": "Regirock-V",
+            "number": "104/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Regirock-VSpadaeScudo104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-105/202",
+            "name": "Mudbray",
+            "number": "105/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/MudbraySpadaeScudo105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-106/202",
+            "name": "Mudsdale",
+            "number": "106/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/MudsdaleSpadaeScudo106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-107/202",
+            "name": "Silicobra",
+            "number": "107/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/SilicobraSpadaeScudo107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-108/202",
+            "name": "Silicobra",
+            "number": "108/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SilicobraSpadaeScudo108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-109/202",
+            "name": "Sandaconda",
+            "number": "109/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SandacondaSpadaeScudo109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-110/202",
+            "name": "Sandaconda",
+            "number": "110/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SandacondaSpadaeScudo110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-111/202",
+            "name": "Clobbopus",
+            "number": "111/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ClobbopusSpadaeScudo111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-112/202",
+            "name": "Clobbopus",
+            "number": "112/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/ClobbopusSpadaeScudo112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-113/202",
+            "name": "Grapploct",
+            "number": "113/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/GrapploctSpadaeScudo113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-114/202",
+            "name": "Stonjourner",
+            "number": "114/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/StonjournerSpadaeScudo114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-115/202",
+            "name": "Stonjourner-V",
+            "number": "115/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Stonjourner-VSpadaeScudo115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-116/202",
+            "name": "Stonjourner-VMAX",
+            "number": "116/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Stonjourner-VMAXSpadaeScudo116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-117/202",
+            "name": "Zigzagoon di Galar",
+            "number": "117/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/ZigzagoondiGalarSpadaeScudo117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-118/202",
+            "name": "Linoone di Galar",
+            "number": "118/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/LinoonediGalarSpadaeScudo118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-119/202",
+            "name": "Obstagoon di Galar",
+            "number": "119/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/ObstagoondiGalarSpadaeScudo119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-120/202",
+            "name": "Sableye-V",
+            "number": "120/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Sableye-VSpadaeScudo120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-121/202",
+            "name": "Skorupi",
+            "number": "121/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SkorupiSpadaeScudo121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-122/202",
+            "name": "Drapion",
+            "number": "122/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/DrapionSpadaeScudo122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-123/202",
+            "name": "Croagunk",
+            "number": "123/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/CroagunkSpadaeScudo123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-124/202",
+            "name": "Toxicroak",
+            "number": "124/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ToxicroakSpadaeScudo124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-125/202",
+            "name": "Nickit",
+            "number": "125/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/NickitSpadaeScudo125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-126/202",
+            "name": "Thievul",
+            "number": "126/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ThievulSpadaeScudo126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-127/202",
+            "name": "Meowth di Galar",
+            "number": "127/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/MeowthdiGalarSpadaeScudo127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-128/202",
+            "name": "Perrserker di Galar",
+            "number": "128/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/PerrserkerdiGalarSpadaeScudo128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-129/202",
+            "name": "Mawile",
+            "number": "129/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/MawileSpadaeScudo129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-130/202",
+            "name": "Ferroseed",
+            "number": "130/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/FerroseedSpadaeScudo130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-131/202",
+            "name": "Ferrothorn",
+            "number": "131/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/FerrothornSpadaeScudo131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-132/202",
+            "name": "Stunfisk di Galar",
+            "number": "132/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/StunfiskdiGalarSpadaeScudo132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-133/202",
+            "name": "Pawniard",
+            "number": "133/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/PawniardSpadaeScudo133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-134/202",
+            "name": "Bisharp",
+            "number": "134/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/BisharpSpadaeScudo134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-135/202",
+            "name": "Corviknight",
+            "number": "135/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/CorviknightSpadaeScudo135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-136/202",
+            "name": "Cufant",
+            "number": "136/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/CufantSpadaeScudo136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-137/202",
+            "name": "Copperajah",
+            "number": "137/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/CopperajahSpadaeScudo137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-138/202",
+            "name": "Zacian-V",
+            "number": "138/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Zacian-VSpadaeScudo138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-139/202",
+            "name": "Zamazenta-V",
+            "number": "139/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/Zamazenta-VSpadaeScudo139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-140/202",
+            "name": "Snorlax",
+            "number": "140/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SnorlaxSpadaeScudo140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-141/202",
+            "name": "Snorlax-V",
+            "number": "141/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Snorlax-VSpadaeScudo141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-142/202",
+            "name": "Snorlax-VMAX",
+            "number": "142/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/Snorlax-VMAXSpadaeScudo142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-143/202",
+            "name": "Hoothoot",
+            "number": "143/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/HoothootSpadaeScudo143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-144/202",
+            "name": "Noctowl",
+            "number": "144/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/NoctowlSpadaeScudo144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-145/202",
+            "name": "Minccino",
+            "number": "145/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/MinccinoSpadaeScudo145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-146/202",
+            "name": "Minccino",
+            "number": "146/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/MinccinoSpadaeScudo146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-147/202",
+            "name": "Cinccino",
+            "number": "147/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/CinccinoSpadaeScudo147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-148/202",
+            "name": "Oranguru",
+            "number": "148/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/OranguruSpadaeScudo148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-149/202",
+            "name": "Drampa",
+            "number": "149/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/DrampaSpadaeScudo149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-150/202",
+            "name": "Rookidee",
+            "number": "150/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/RookideeSpadaeScudo150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-151/202",
+            "name": "Corvisquire",
+            "number": "151/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/CorvisquireSpadaeScudo151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-152/202",
+            "name": "Wooloo",
+            "number": "152/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/WoolooSpadaeScudo152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-153/202",
+            "name": "Wooloo",
+            "number": "153/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/WoolooSpadaeScudo153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-154/202",
+            "name": "Dubwool",
+            "number": "154/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DubwoolSpadaeScudo154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-155/202",
+            "name": "Cramorant-V",
+            "number": "155/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Cramorant-VSpadaeScudo155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-156/202",
+            "name": "Palloncino",
+            "number": "156/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/PalloncinoSpadaeScudo156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-157/202",
+            "name": "Beet",
+            "number": "157/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/BeetSpadaeScudo157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-158/202",
+            "name": "Amuleto Grande",
+            "number": "158/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/AmuletoGrandeSpadaeScudo158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-159/202",
+            "name": "Martello Dirompente",
+            "number": "159/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MartelloDirompenteSpadaeScudo159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-160/202",
+            "name": "Recupero di Energia",
+            "number": "160/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/RecuperodiEnergiaSpadaeScudo160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-161/202",
+            "name": "Ricerca di Energia",
+            "number": "161/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/RicercadiEnergiaSpadaeScudo161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-162/202",
+            "name": "Scambio di Energia",
+            "number": "162/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/ScambiodiEnergiaSpadaeScudo162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-163/202",
+            "name": "Evoaroma",
+            "number": "163/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/EvoaromaSpadaeScudo163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-164/202",
+            "name": "Mega Ball",
+            "number": "164/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MegaBallSpadaeScudo164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-165/202",
+            "name": "Hop",
+            "number": "165/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/HopSpadaeScudo165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-166/202",
+            "name": "Iperpozione",
+            "number": "166/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/IperpozioneSpadaeScudo166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-167/202",
+            "name": "Fortunuovo",
+            "number": "167/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/FortunuovoSpadaeScudo167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-168/202",
+            "name": "Baccaprugna",
+            "number": "168/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/BaccaprugnaSpadaeScudo168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-169/202",
+            "name": "Mary",
+            "number": "169/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/MarySpadaeScudo169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-170/202",
+            "name": "Piatto di Metallo",
+            "number": "170/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/PiattodiMetalloSpadaeScudo170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-171/202",
+            "name": "Amo Normale",
+            "number": "171/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/AmoNormaleSpadaeScudo171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-172/202",
+            "name": "Blocco Amici",
+            "number": "172/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/BloccoAmiciSpadaeScudo172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-173/202",
+            "name": "Poké Bimbo",
+            "number": "173/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Pok%C3%A9BimboSpadaeScudo173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-174/202",
+            "name": "Pokégear 3.0",
+            "number": "174/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Pok%C3%A9gear30SpadaeScudo174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-175/202",
+            "name": "Acchiappa-Pokémon",
+            "number": "175/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Acchiappa-Pok%C3%A9monSpadaeScudo175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-176/202",
+            "name": "Addetta del Centro Pokémon",
+            "number": "176/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/AddettadelCentroPok%C3%A9monSpadaeScudo176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-177/202",
+            "name": "Pozione",
+            "number": "177/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/PozioneSpadaeScudo177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-178/202",
+            "name": "Ricerca Accademica [Prof.ssa Flora]",
+            "number": "178/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/RicercaAccademicaSpadaeScudo178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-179/202",
+            "name": "Velox Ball",
+            "number": "179/202",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/VeloxBallSpadaeScudo179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-180/202",
+            "name": "Caramella Rara",
+            "number": "180/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/CaramellaRaraSpadaeScudo180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-181/202",
+            "name": "Bici Rotom",
+            "number": "181/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/BiciRotomSpadaeScudo181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-182/202",
+            "name": "Baccacedro",
+            "number": "182/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/BaccacedroSpadaeScudo182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-183/202",
+            "name": "Scambio",
+            "number": "183/202",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ScambioSpadaeScudo183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-184/202",
+            "name": "Recluta del Team Yell",
+            "number": "184/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ReclutadelTeamYellSpadaeScudo184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-185/202",
+            "name": "Bendavitale",
+            "number": "185/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/BendavitaleSpadaeScudo185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-186/202",
+            "name": "Energia Aurora",
+            "number": "186/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/EnergiaAuroraSpadaeScudo186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-187/202",
+            "name": "Dhelmise-V",
+            "number": "187/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Dhelmise-VSpadaeScudo187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-188/202",
+            "name": "Torkoal-V",
+            "number": "188/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Torkoal-VSpadaeScudo188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-189/202",
+            "name": "Lapras-V",
+            "number": "189/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Lapras-VSpadaeScudo189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-190/202",
+            "name": "Morpeko-V",
+            "number": "190/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Morpeko-VSpadaeScudo190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-191/202",
+            "name": "Wobbuffet-V",
+            "number": "191/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/Wobbuffet-VSpadaeScudo191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-192/202",
+            "name": "Indeedee-V",
+            "number": "192/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Indeedee-VSpadaeScudo192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-193/202",
+            "name": "Stonjourner-V",
+            "number": "193/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Stonjourner-VSpadaeScudo193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-194/202",
+            "name": "Sableye-V",
+            "number": "194/202",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Sableye-VSpadaeScudo194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-195/202",
+            "name": "Zacian-V",
+            "number": "195/202",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Zacian-VSpadaeScudo195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-196/202",
+            "name": "Zamazenta-V",
+            "number": "196/202",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Zamazenta-VSpadaeScudo196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-197/202",
+            "name": "Snorlax-V",
+            "number": "197/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Snorlax-VSpadaeScudo197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-198/202",
+            "name": "Cramorant-V",
+            "number": "198/202",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Cramorant-VSpadaeScudo198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-199/202",
+            "name": "Beet",
+            "number": "199/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BeetSpadaeScudo199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-200/202",
+            "name": "Mary",
+            "number": "200/202",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MarySpadaeScudo200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-201/202",
+            "name": "Ricerca Accademica [Prof.ssa Flora]",
+            "number": "201/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/RicercaAccademicaSpadaeScudo201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-202/202",
+            "name": "Recluta del Team Yell",
+            "number": "202/202",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ReclutadelTeamYellSpadaeScudo202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "SSH-203/202",
+            "name": "Lapras-VMAX",
+            "number": "203/202",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Lapras-VMAXSpadaeScudo203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-204/202",
+            "name": "Morpeko-VMAX",
+            "number": "204/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Morpeko-VMAXSpadaeScudo204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-205/202",
+            "name": "Stonjourner-VMAX",
+            "number": "205/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Stonjourner-VMAXSpadaeScudo205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-206/202",
+            "name": "Snorlax-VMAX",
+            "number": "206/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Snorlax-VMAXSpadaeScudo206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-207/202",
+            "name": "Beet",
+            "number": "207/202",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/BeetSpadaeScudo207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-208/202",
+            "name": "Mary",
+            "number": "208/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MarySpadaeScudo208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-209/202",
+            "name": "Ricerca Accademica [Prof.ssa Flora]",
+            "number": "209/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/RicercaAccademicaSpadaeScudo209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-210/202",
+            "name": "Recluta del Team Yell",
+            "number": "210/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ReclutadelTeamYellSpadaeScudo210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-211/202",
+            "name": "Zacian-V",
+            "number": "211/202",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Zacian-VSpadaeScudo211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-212/202",
+            "name": "Zamazenta-V",
+            "number": "212/202",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Zamazenta-VSpadaeScudo212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-213/202",
+            "name": "Palloncino",
+            "number": "213/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PalloncinoSpadaeScudo213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-214/202",
+            "name": "Piatto di Metallo",
+            "number": "214/202",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/PiattodiMetalloSpadaeScudo214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-215/202",
+            "name": "Amo Normale",
+            "number": "215/202",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/AmoNormaleSpadaeScudo215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "SSH-216/202",
+            "name": "Velox Ball",
+            "number": "216/202",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/VeloxBallSpadaeScudo216.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

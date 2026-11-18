@@ -1,0 +1,685 @@
+{
+    "expansion": {
+        "id": "UL",
+        "name": "HS - Forze Scatenate",
+				"year": 2010,
+				"month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetForze_Scatenate.png",
+        "cardCount": 96
+    },
+    "cards": [
+        {
+            "id": "UL-1/95",
+            "name": "Jirachi",
+            "number": "1/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/JirachiForzeScatenate1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-2/95",
+            "name": "Magmortar",
+            "number": "2/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MagmortarForzeScatenate2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-3/95",
+            "name": "Manaphy",
+            "number": "3/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ManaphyForzeScatenate3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-4/95",
+            "name": "Metagross",
+            "number": "4/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MetagrossForzeScatenate4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-5/95",
+            "name": "Mismagius",
+            "number": "5/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MismagiusForzeScatenate5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-6/95",
+            "name": "Octillery",
+            "number": "6/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/OctilleryForzeScatenate6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-7/95",
+            "name": "Politoed",
+            "number": "7/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/PolitoedForzeScatenate7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-8/95",
+            "name": "Shaymin",
+            "number": "8/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ShayminForzeScatenate8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-9/95",
+            "name": "Sudowoodo",
+            "number": "9/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SudowoodoForzeScatenate9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-10/95",
+            "name": "Torterra",
+            "number": "10/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/TorterraForzeScatenate10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-11/95",
+            "name": "Xatu",
+            "number": "11/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/XatuForzeScatenate11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-12/95",
+            "name": "Beedrill",
+            "number": "12/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/BeedrillForzeScatenate12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-13/95",
+            "name": "Blastoise",
+            "number": "13/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/BlastoiseForzeScatenate13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-14/95",
+            "name": "Crobat",
+            "number": "14/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/CrobatForzeScatenate14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-15/95",
+            "name": "Fearow",
+            "number": "15/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/FearowForzeScatenate15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-16/95",
+            "name": "Floatzel",
+            "number": "16/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/FloatzelForzeScatenate16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-17/95",
+            "name": "Kingdra",
+            "number": "17/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/KingdraForzeScatenate17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-18/95",
+            "name": "Lanturn",
+            "number": "18/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LanturnForzeScatenate18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-19/95",
+            "name": "Lucario",
+            "number": "19/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/LucarioForzeScatenate19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-20/95",
+            "name": "Ninetales",
+            "number": "20/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/NinetalesForzeScatenate20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-21/95",
+            "name": "Poliwrath",
+            "number": "21/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/PoliwrathForzeScatenate21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-22/95",
+            "name": "Primeape",
+            "number": "22/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PrimeapeForzeScatenate22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-23/95",
+            "name": "Roserade",
+            "number": "23/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/RoseradeForzeScatenate23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-24/95",
+            "name": "Steelix",
+            "number": "24/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/SteelixForzeScatenate24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-25/95",
+            "name": "Torkoal",
+            "number": "25/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TorkoalForzeScatenate25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-26/95",
+            "name": "Tyranitar",
+            "number": "26/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/TyranitarForzeScatenate26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-27/95",
+            "name": "Ursaring",
+            "number": "27/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/UrsaringForzeScatenate27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-28/95",
+            "name": "Cherrim",
+            "number": "28/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/CherrimForzeScatenate28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-29/95",
+            "name": "Dunsparce",
+            "number": "29/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/DunsparceForzeScatenate29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-30/95",
+            "name": "Golbat",
+            "number": "30/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/GolbatForzeScatenate30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-31/95",
+            "name": "Grotle",
+            "number": "31/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/GrotleForzeScatenate31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-32/95",
+            "name": "Kakuna",
+            "number": "32/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/KakunaForzeScatenate32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-33/95",
+            "name": "Metang",
+            "number": "33/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MetangForzeScatenate33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-34/95",
+            "name": "Minun",
+            "number": "34/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/MinunForzeScatenate34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-35/95",
+            "name": "Numel",
+            "number": "35/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/NumelForzeScatenate35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-36/95",
+            "name": "Plusle",
+            "number": "36/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/PlusleForzeScatenate36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-37/95",
+            "name": "Poliwhirl",
+            "number": "37/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/PoliwhirlForzeScatenate37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-38/95",
+            "name": "Pupitar",
+            "number": "38/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PupitarForzeScatenate38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-39/95",
+            "name": "Pupitar",
+            "number": "39/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/PupitarForzeScatenate39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-40/95",
+            "name": "Seadra",
+            "number": "40/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SeadraForzeScatenate40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-41/95",
+            "name": "Tauros",
+            "number": "41/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/TaurosForzeScatenate41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-42/95",
+            "name": "Wartortle",
+            "number": "42/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/WartortleForzeScatenate42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-43/95",
+            "name": "Aipom",
+            "number": "43/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/AipomForzeScatenate43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-44/95",
+            "name": "Beldum",
+            "number": "44/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/BeldumForzeScatenate44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-45/95",
+            "name": "Buizel",
+            "number": "45/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/BuizelForzeScatenate45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-46/95",
+            "name": "Carnivine",
+            "number": "46/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/CarnivineForzeScatenate46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-47/95",
+            "name": "Cherubi",
+            "number": "47/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/CherubiForzeScatenate47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-48/95",
+            "name": "Chinchou",
+            "number": "48/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ChinchouForzeScatenate48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-49/95",
+            "name": "Horsea",
+            "number": "49/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/HorseaForzeScatenate49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-50/95",
+            "name": "Larvitar",
+            "number": "50/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/LarvitarForzeScatenate50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-51/95",
+            "name": "Larvitar",
+            "number": "51/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/LarvitarForzeScatenate51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-52/95",
+            "name": "Magmar",
+            "number": "52/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/MagmarForzeScatenate52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-53/95",
+            "name": "Mankey",
+            "number": "53/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MankeyForzeScatenate53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-54/95",
+            "name": "Misdreavus",
+            "number": "54/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MisdreavusForzeScatenate54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-55/95",
+            "name": "Natu",
+            "number": "55/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/NatuForzeScatenate55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-56/95",
+            "name": "Onix",
+            "number": "56/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/OnixForzeScatenate56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-57/95",
+            "name": "Onix",
+            "number": "57/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/OnixForzeScatenate57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-58/95",
+            "name": "Poliwag",
+            "number": "58/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/PoliwagForzeScatenate58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-59/95",
+            "name": "Remoraid",
+            "number": "59/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/RemoraidForzeScatenate59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-60/95",
+            "name": "Riolu",
+            "number": "60/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/RioluForzeScatenate60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-61/95",
+            "name": "Roselia",
+            "number": "61/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/RoseliaForzeScatenate61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-62/95",
+            "name": "Spearow",
+            "number": "62/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SpearowForzeScatenate62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-63/95",
+            "name": "Squirtle",
+            "number": "63/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/SquirtleForzeScatenate63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-64/95",
+            "name": "Stantler",
+            "number": "64/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/StantlerForzeScatenate64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-65/95",
+            "name": "Teddiursa",
+            "number": "65/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/TeddiursaForzeScatenate65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-66/95",
+            "name": "Tropius",
+            "number": "66/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/TropiusForzeScatenate66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-67/95",
+            "name": "Turtwig",
+            "number": "67/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/TurtwigForzeScatenate67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-68/95",
+            "name": "Vulpix",
+            "number": "68/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/VulpixForzeScatenate68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-69/95",
+            "name": "Weedle",
+            "number": "69/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/WeedleForzeScatenate69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-70/95",
+            "name": "Zubat",
+            "number": "70/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ZubatForzeScatenate70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-71/95",
+            "name": "Incoraggiamento della Cheerleader",
+            "number": "71/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/IncoraggiamentodellaCheerleaderForzeScatenate71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-72/95",
+            "name": "Palla Doppia",
+            "number": "72/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/PallaDoppiaForzeScatenate72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-73/95",
+            "name": "Schiamazzo di Emcee",
+            "number": "73/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SchiamazzodiEmceeForzeScatenate73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-74/95",
+            "name": "Ritorno di Energia",
+            "number": "74/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/RitornodiEnergiaForzeScatenate74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-75/95",
+            "name": "Regolazioni dell'Ingegnere",
+            "number": "75/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/RegolazionidellIngegnereForzeScatenate75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-76/95",
+            "name": "Amo Buono",
+            "number": "76/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/AmoBuonoForzeScatenate76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-77/95",
+            "name": "Domande dell'Intervistatrice",
+            "number": "77/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/DomandedellIntervistatriceForzeScatenate77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-78/95",
+            "name": "Arbitro",
+            "number": "78/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/ArbitroForzeScatenate78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-79/95",
+            "name": "Erba Vita",
+            "number": "79/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ErbaVitaForzeScatenate79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-80/95",
+            "name": "PlusPotenza",
+            "number": "80/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/PlusPotenzaForzeScatenate80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-81/95",
+            "name": "Circolatore di Pokémon",
+            "number": "81/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/CircolatorediPok%C3%A9monForzeScatenate81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-82/95",
+            "name": "Caramella Rara",
+            "number": "82/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/CaramellaRaraForzeScatenate82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-83/95",
+            "name": "Super Recupero",
+            "number": "83/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/SuperRecuperoForzeScatenate83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-84/95",
+            "name": "Crobat",
+            "number": "84/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CrobatForzeScatenate84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-85/95",
+            "name": "Kingdra",
+            "number": "85/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/KingdraForzeScatenate85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-86/95",
+            "name": "Lanturn",
+            "number": "86/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LanturnForzeScatenate86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-87/95",
+            "name": "Steelix",
+            "number": "87/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/SteelixForzeScatenate87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-88/95",
+            "name": "Tyranitar",
+            "number": "88/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/TyranitarForzeScatenate88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-89/95",
+            "name": "Ursaring",
+            "number": "89/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/UrsaringForzeScatenate89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-90/95",
+            "name": "Entei & Raikou LEGGENDA",
+            "number": "90/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/EnteieRaikouLEGGENDAForzeScatenate90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-91/95",
+            "name": "Entei & Raikou LEGGENDA",
+            "number": "91/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/EnteieRaikouLEGGENDAForzeScatenate91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-92/95",
+            "name": "Raikou & Suicune LEGGENDA",
+            "number": "92/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/RaikoueSuicuneLEGGENDAForzeScatenate92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-93/95",
+            "name": "Raikou & Suicune LEGGENDA",
+            "number": "93/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/RaikoueSuicuneLEGGENDAForzeScatenate93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-94/95",
+            "name": "Suicune & Entei LEGGENDA",
+            "number": "94/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/SuicuneeEnteiLEGGENDAForzeScatenate94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-95/95",
+            "name": "Suicune & Entei LEGGENDA",
+            "number": "95/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/SuicuneeEnteiLEGGENDAForzeScatenate95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "UL-DUE",
+            "name": "Litografia d'Alfa",
+            "number": "DUE",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/LitografiadAlfaForzeScatenateDUE.png",
+            "section": "Litografia d'Alfa"
+        }
+    ]
+}
