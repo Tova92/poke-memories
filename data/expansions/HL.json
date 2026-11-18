@@ -1,0 +1,727 @@
+{
+    "expansion": {
+        "id": "HL",
+        "name": "EX Leggende Nascoste",
+				"year": 2004,
+				"month": 6,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/0/08/SimboloSetEX_Leggende_Nascoste.png",
+        "cardCount": 102
+    },
+    "cards": [
+        {
+            "id": "HL-1/101",
+            "name": "Banette",
+            "number": "1/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/BanetteEXLeggendeNascoste1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-2/101",
+            "name": "Claydol",
+            "number": "2/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ClaydolEXLeggendeNascoste2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-3/101",
+            "name": "Crobat",
+            "number": "3/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/CrobatEXLeggendeNascoste3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-4/101",
+            "name": "Dark Celebi",
+            "number": "4/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/DarkCelebiEXLeggendeNascoste4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-5/101",
+            "name": "Electrode",
+            "number": "5/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ElectrodeEXLeggendeNascoste5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-6/101",
+            "name": "Exploud",
+            "number": "6/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/ExploudEXLeggendeNascoste6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-7/101",
+            "name": "Heracross",
+            "number": "7/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/HeracrossEXLeggendeNascoste7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-8/101",
+            "name": "Jirachi",
+            "number": "8/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/JirachiEXLeggendeNascoste8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-9/101",
+            "name": "Machamp",
+            "number": "9/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MachampEXLeggendeNascoste9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-10/101",
+            "name": "Medicham",
+            "number": "10/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/MedichamEXLeggendeNascoste10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-11/101",
+            "name": "Metagross",
+            "number": "11/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/MetagrossEXLeggendeNascoste11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-12/101",
+            "name": "Milotic",
+            "number": "12/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/MiloticEXLeggendeNascoste12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-13/101",
+            "name": "Pinsir",
+            "number": "13/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/PinsirEXLeggendeNascoste13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-14/101",
+            "name": "Shiftry",
+            "number": "14/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ShiftryEXLeggendeNascoste14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-15/101",
+            "name": "Walrein",
+            "number": "15/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/WalreinEXLeggendeNascoste15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-16/101",
+            "name": "Bellossom",
+            "number": "16/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/BellossomEXLeggendeNascoste16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-17/101",
+            "name": "Chimecho",
+            "number": "17/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ChimechoEXLeggendeNascoste17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-18/101",
+            "name": "Gorebyss",
+            "number": "18/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/GorebyssEXLeggendeNascoste18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-19/101",
+            "name": "Huntail",
+            "number": "19/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/HuntailEXLeggendeNascoste19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-20/101",
+            "name": "Masquerain",
+            "number": "20/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MasquerainEXLeggendeNascoste20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-21/101",
+            "name": "Metang",
+            "number": "21/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/MetangEXLeggendeNascoste21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-22/101",
+            "name": "Ninetales",
+            "number": "22/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/NinetalesEXLeggendeNascoste22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-23/101",
+            "name": "Castform Pioggia",
+            "number": "23/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CastformPioggiaEXLeggendeNascoste23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-24/101",
+            "name": "Relicanth",
+            "number": "24/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/RelicanthEXLeggendeNascoste24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-25/101",
+            "name": "Castform Neve",
+            "number": "25/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/CastformNeveEXLeggendeNascoste25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-26/101",
+            "name": "Castform Sole",
+            "number": "26/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/CastformSoleEXLeggendeNascoste26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-27/101",
+            "name": "Tropius",
+            "number": "27/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/TropiusEXLeggendeNascoste27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-28/101",
+            "name": "Beldum",
+            "number": "28/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/BeldumEXLeggendeNascoste28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-29/101",
+            "name": "Beldum",
+            "number": "29/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/BeldumEXLeggendeNascoste29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-30/101",
+            "name": "Castform",
+            "number": "30/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CastformEXLeggendeNascoste30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-31/101",
+            "name": "Claydol",
+            "number": "31/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/ClaydolEXLeggendeNascoste31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-32/101",
+            "name": "Corsola",
+            "number": "32/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/CorsolaEXLeggendeNascoste32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-33/101",
+            "name": "Dodrio",
+            "number": "33/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/DodrioEXLeggendeNascoste33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-34/101",
+            "name": "Glalie",
+            "number": "34/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/GlalieEXLeggendeNascoste34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-35/101",
+            "name": "Gloom",
+            "number": "35/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/GloomEXLeggendeNascoste35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-36/101",
+            "name": "Golbat",
+            "number": "36/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/GolbatEXLeggendeNascoste36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-37/101",
+            "name": "Igglybuff",
+            "number": "37/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/IgglybuffEXLeggendeNascoste37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-38/101",
+            "name": "Lanturn",
+            "number": "38/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/LanturnEXLeggendeNascoste38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-39/101",
+            "name": "Loudred",
+            "number": "39/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/LoudredEXLeggendeNascoste39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-40/101",
+            "name": "Luvdisc",
+            "number": "40/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/LuvdiscEXLeggendeNascoste40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-41/101",
+            "name": "Machoke",
+            "number": "41/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MachokeEXLeggendeNascoste41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-42/101",
+            "name": "Medicham",
+            "number": "42/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MedichamEXLeggendeNascoste42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-43/101",
+            "name": "Metang",
+            "number": "43/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MetangEXLeggendeNascoste43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-44/101",
+            "name": "Metang",
+            "number": "44/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/MetangEXLeggendeNascoste44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-45/101",
+            "name": "Nuzleaf",
+            "number": "45/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/NuzleafEXLeggendeNascoste45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-46/101",
+            "name": "Rhydon",
+            "number": "46/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/RhydonEXLeggendeNascoste46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-47/101",
+            "name": "Sealeo",
+            "number": "47/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/SealeoEXLeggendeNascoste47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-48/101",
+            "name": "Spinda",
+            "number": "48/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SpindaEXLeggendeNascoste48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-49/101",
+            "name": "Starmie",
+            "number": "49/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/StarmieEXLeggendeNascoste49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-50/101",
+            "name": "Swalot",
+            "number": "50/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SwalotEXLeggendeNascoste50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-51/101",
+            "name": "Tentacruel",
+            "number": "51/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/TentacruelEXLeggendeNascoste51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-52/101",
+            "name": "Baltoy",
+            "number": "52/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BaltoyEXLeggendeNascoste52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-53/101",
+            "name": "Baltoy",
+            "number": "53/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/BaltoyEXLeggendeNascoste53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-54/101",
+            "name": "Beldum",
+            "number": "54/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/BeldumEXLeggendeNascoste54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-55/101",
+            "name": "Chikorita",
+            "number": "55/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/ChikoritaEXLeggendeNascoste55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-56/101",
+            "name": "Chinchou",
+            "number": "56/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/ChinchouEXLeggendeNascoste56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-57/101",
+            "name": "Chinchou",
+            "number": "57/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ChinchouEXLeggendeNascoste57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-58/101",
+            "name": "Clamperl",
+            "number": "58/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ClamperlEXLeggendeNascoste58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-59/101",
+            "name": "Cyndaquil",
+            "number": "59/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/CyndaquilEXLeggendeNascoste59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-60/101",
+            "name": "Doduo",
+            "number": "60/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/DoduoEXLeggendeNascoste60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-61/101",
+            "name": "Feebas",
+            "number": "61/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/FeebasEXLeggendeNascoste61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-62/101",
+            "name": "Gulpin",
+            "number": "62/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/GulpinEXLeggendeNascoste62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-63/101",
+            "name": "Jigglypuff",
+            "number": "63/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/JigglypuffEXLeggendeNascoste63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-64/101",
+            "name": "Machop",
+            "number": "64/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/MachopEXLeggendeNascoste64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-65/101",
+            "name": "Meditite",
+            "number": "65/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/MedititeEXLeggendeNascoste65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-66/101",
+            "name": "Meditite",
+            "number": "66/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/MedititeEXLeggendeNascoste66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-67/101",
+            "name": "Minun",
+            "number": "67/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/MinunEXLeggendeNascoste67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-68/101",
+            "name": "Oddish",
+            "number": "68/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/OddishEXLeggendeNascoste68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-69/101",
+            "name": "Plusle",
+            "number": "69/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/PlusleEXLeggendeNascoste69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-70/101",
+            "name": "Rhyhorn",
+            "number": "70/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/RhyhornEXLeggendeNascoste70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-71/101",
+            "name": "Seedot",
+            "number": "71/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SeedotEXLeggendeNascoste71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-72/101",
+            "name": "Shuppet",
+            "number": "72/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ShuppetEXLeggendeNascoste72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-73/101",
+            "name": "Snorunt",
+            "number": "73/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/SnoruntEXLeggendeNascoste73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-74/101",
+            "name": "Spheal",
+            "number": "74/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/SphealEXLeggendeNascoste74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-75/101",
+            "name": "Staryu",
+            "number": "75/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/StaryuEXLeggendeNascoste75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-76/101",
+            "name": "Surskit",
+            "number": "76/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SurskitEXLeggendeNascoste76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-77/101",
+            "name": "Tentacool",
+            "number": "77/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/TentacoolEXLeggendeNascoste77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-78/101",
+            "name": "Togepi",
+            "number": "78/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/TogepiEXLeggendeNascoste78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-79/101",
+            "name": "Totodile",
+            "number": "79/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/TotodileEXLeggendeNascoste79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-80/101",
+            "name": "Voltorb",
+            "number": "80/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/VoltorbEXLeggendeNascoste80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-81/101",
+            "name": "Vulpix",
+            "number": "81/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/VulpixEXLeggendeNascoste81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-82/101",
+            "name": "Whismur",
+            "number": "82/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/WhismurEXLeggendeNascoste82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-83/101",
+            "name": "Zubat",
+            "number": "83/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/ZubatEXLeggendeNascoste83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-84/101",
+            "name": "Antico Macchinario Tecnico [Ghiaccio]",
+            "number": "84/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/AnticoMacchinarioTecnicoGhiaccioEXLeggendeNascoste84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-85/101",
+            "name": "Antico Macchinario Tecnico [Roccia]",
+            "number": "85/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/AnticoMacchinarioTecnicoRocciaEXLeggendeNascoste85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-86/101",
+            "name": "Antico Macchinario Tecnico [Acciaio]",
+            "number": "86/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/AnticoMacchinarioTecnicoAcciaioEXLeggendeNascoste86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-87/101",
+            "name": "Tomba Antica",
+            "number": "87/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/TombaAnticaEXLeggendeNascoste87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-88/101",
+            "name": "Rovine Desertiche",
+            "number": "88/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/RovineDeserticheEXLeggendeNascoste88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-89/101",
+            "name": "Isola Caverna",
+            "number": "89/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/IsolaCavernaEXLeggendeNascoste89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-90/101",
+            "name": "Erba Vita",
+            "number": "90/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/ErbaVitaEXLeggendeNascoste90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-91/101",
+            "name": "Tempesta Magnetica",
+            "number": "91/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/TempestaMagneticaEXLeggendeNascoste91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-92/101",
+            "name": "Consiglio di Rocco",
+            "number": "92/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/ConsigliodiRoccoEXLeggendeNascoste92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-93/101",
+            "name": "Groudon ex",
+            "number": "93/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/GroudonexEXLeggendeNascoste93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-94/101",
+            "name": "Kyogre ex",
+            "number": "94/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/KyogreexEXLeggendeNascoste94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-95/101",
+            "name": "Metagross ex",
+            "number": "95/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MetagrossexEXLeggendeNascoste95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-96/101",
+            "name": "Ninetales ex",
+            "number": "96/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/NinetalesexEXLeggendeNascoste96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-97/101",
+            "name": "Regice ex",
+            "number": "97/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/RegiceexEXLeggendeNascoste97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-98/101",
+            "name": "Regirock ex",
+            "number": "98/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/RegirockexEXLeggendeNascoste98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-99/101",
+            "name": "Registeel ex",
+            "number": "99/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/RegisteelexEXLeggendeNascoste99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-100/101",
+            "name": "Vileplume ex",
+            "number": "100/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/VileplumeexEXLeggendeNascoste100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-101/101",
+            "name": "Wigglytuff ex",
+            "number": "101/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/WigglytuffexEXLeggendeNascoste101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HL-102/101",
+            "name": "Groudon",
+            "number": "102/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/GroudonEXLeggendeNascoste102.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

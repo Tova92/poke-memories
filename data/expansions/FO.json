@@ -1,0 +1,447 @@
+{
+    "expansion": {
+        "id": "FO",
+        "name": "Fossil",
+				"year": 2000,
+				"month": 11,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d8/Logo_Fossil.png",
+        "cardCount": 62
+    },
+    "cards": [
+        {
+            "id": "FO-1/62",
+            "name": "Aerodactyl",
+            "number": "1/62",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/AerodactylFossil1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-2/62",
+            "name": "Articuno",
+            "number": "2/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-3/62",
+            "name": "Ditto",
+            "number": "3/62",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/DittoFossil3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-4/62",
+            "name": "Dragonite",
+            "number": "4/62",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/DragoniteFossil4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-5/62",
+            "name": "Gengar",
+            "number": "5/62",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/GengarFossil5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-6/62",
+            "name": "Haunter",
+            "number": "6/62",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/HaunterFossil6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-7/62",
+            "name": "Hitmonlee",
+            "number": "7/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-8/62",
+            "name": "Hypno",
+            "number": "8/62",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/HypnoFossil8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-9/62",
+            "name": "Kabutops",
+            "number": "9/62",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/KabutopsFossil9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-10/62",
+            "name": "Lapras",
+            "number": "10/62",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/LaprasFossil10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-11/62",
+            "name": "Magneton",
+            "number": "11/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-12/62",
+            "name": "Moltres",
+            "number": "12/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-13/62",
+            "name": "Muk",
+            "number": "13/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-14/62",
+            "name": "Raichu",
+            "number": "14/62",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/RaichuFossil14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-15/62",
+            "name": "Zapdos",
+            "number": "15/62",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ZapdosFossil15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-16/62",
+            "name": "Aerodactyl",
+            "number": "16/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-17/62",
+            "name": "Articuno",
+            "number": "17/62",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/ArticunoFossil17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-18/62",
+            "name": "Ditto",
+            "number": "18/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-19/62",
+            "name": "Dragonite",
+            "number": "19/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-20/62",
+            "name": "Gengar",
+            "number": "20/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-21/62",
+            "name": "Haunter",
+            "number": "21/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-22/62",
+            "name": "Hitmonlee",
+            "number": "22/62",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/HitmonleeFossil22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-23/62",
+            "name": "Hypno",
+            "number": "23/62",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/HypnoFossil23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-24/62",
+            "name": "Kabutops",
+            "number": "24/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-25/62",
+            "name": "Lapras",
+            "number": "25/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-26/62",
+            "name": "Magneton",
+            "number": "26/62",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/MagnetonFossil26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-27/62",
+            "name": "Moltres",
+            "number": "27/62",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/MoltresFossil27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-28/62",
+            "name": "Muk",
+            "number": "28/62",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/MukFossil28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-29/62",
+            "name": "Raichu",
+            "number": "29/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-30/62",
+            "name": "Zapdos",
+            "number": "30/62",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-31/62",
+            "name": "Arbok",
+            "number": "31/62",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ArbokFossil31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-32/62",
+            "name": "Cloyster",
+            "number": "32/62",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/CloysterFossil32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-33/62",
+            "name": "Gastly",
+            "number": "33/62",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/GastlyFossil33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-34/62",
+            "name": "Golbat",
+            "number": "34/62",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/GolbatFossil34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-35/62",
+            "name": "Golduck",
+            "number": "35/62",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/GolduckFossil35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-36/62",
+            "name": "Golem",
+            "number": "36/62",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/GolemFossil36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-37/62",
+            "name": "Graveler",
+            "number": "37/62",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/GravelerFossil37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-38/62",
+            "name": "Kingler",
+            "number": "38/62",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/KinglerFossil38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-39/62",
+            "name": "Magmar",
+            "number": "39/62",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MagmarFossil39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-40/62",
+            "name": "Omastar",
+            "number": "40/62",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/OmastarFossil40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-41/62",
+            "name": "Sandslash",
+            "number": "41/62",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SandslashFossil41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-42/62",
+            "name": "Seadra",
+            "number": "42/62",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SeadraFossil42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-43/62",
+            "name": "Slowbro",
+            "number": "43/62",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SlowbroFossil43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-44/62",
+            "name": "Tentacruel",
+            "number": "44/62",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/TentacruelFossil44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-45/62",
+            "name": "Weezing",
+            "number": "45/62",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/WeezingFossil45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-46/62",
+            "name": "Ekans",
+            "number": "46/62",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/EkansFossil46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-47/62",
+            "name": "Geodude",
+            "number": "47/62",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/GeodudeFossil47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-48/62",
+            "name": "Grimer",
+            "number": "48/62",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/GrimerFossil48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-49/62",
+            "name": "Horsea",
+            "number": "49/62",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/HorseaFossil49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-50/62",
+            "name": "Kabuto",
+            "number": "50/62",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/KabutoFossil50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-51/62",
+            "name": "Krabby",
+            "number": "51/62",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/KrabbyFossil51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-52/62",
+            "name": "Omanyte",
+            "number": "52/62",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/OmanyteFossil52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-53/62",
+            "name": "Psyduck",
+            "number": "53/62",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/PsyduckFossil53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-54/62",
+            "name": "Shellder",
+            "number": "54/62",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/ShellderFossil54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-55/62",
+            "name": "Slowpoke",
+            "number": "55/62",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/SlowpokeFossil55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-56/62",
+            "name": "Tentacool",
+            "number": "56/62",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/TentacoolFossil56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-57/62",
+            "name": "Zubat",
+            "number": "57/62",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ZubatFossil57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-58/62",
+            "name": "Mr. Fuji",
+            "number": "58/62",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MrFujiFossil58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-59/62",
+            "name": "Ricerca di Energia",
+            "number": "59/62",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/RicercadiEnergiaFossil59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-60/62",
+            "name": "Gioco d'Azzardo",
+            "number": "60/62",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/GiocodAzzardoFossil60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-61/62",
+            "name": "Riciclo",
+            "number": "61/62",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/RicicloFossil61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FO-62/62",
+            "name": "Fossile Misterioso",
+            "number": "62/62",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/FossileMisteriosoFossil62.png",
+            "section": "Set principale"
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "expansion": {
+        "id": "CEL",
+        "name": "Gran Festa",
+        "year": 2021,
+        "month": 10,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/8/83/SimboloSetGran_Festa.png",
+        "cardCount": 50
+    },
+    "cards": [
+        {
+            "id": "CEL-001/025",
+            "name": "Ho-Oh",
+            "number": "001/025",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Ho-OhGranFesta1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-002/025",
+            "name": "Reshiram",
+            "number": "002/025",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/ReshiramGranFesta2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-003/025",
+            "name": "Kyogre",
+            "number": "003/025",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/KyogreGranFesta3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-004/025",
+            "name": "Palkia",
+            "number": "004/025",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PalkiaGranFesta4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-005/025",
+            "name": "Pikachu",
+            "number": "005/025",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/PikachuGranFesta5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-006/025",
+            "name": "Pikachu Volo-V",
+            "number": "006/025",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PikachuVolo-VGranFesta6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-007/025",
+            "name": "Pikachu Volo-VMAX",
+            "number": "007/025",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/PikachuVolo-VMAXGranFesta7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-008/025",
+            "name": "Pikachu Surf-V",
+            "number": "008/025",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/PikachuSurf-VGranFesta8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-009/025",
+            "name": "Pikachu Surf-VMAX",
+            "number": "009/025",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/PikachuSurf-VMAXGranFesta9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-010/025",
+            "name": "Zekrom",
+            "number": "010/025",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/ZekromGranFesta10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-011/025",
+            "name": "Mew",
+            "number": "011/025",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/MewGranFesta11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-012/025",
+            "name": "Xerneas",
+            "number": "012/025",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/XerneasGranFesta12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-013/025",
+            "name": "Cosmog",
+            "number": "013/025",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CosmogGranFesta13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-014/025",
+            "name": "Cosmoem",
+            "number": "014/025",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/CosmoemGranFesta14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-015/025",
+            "name": "Lunala",
+            "number": "015/025",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/LunalaGranFesta15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-016/025",
+            "name": "Zacian-V",
+            "number": "016/025",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/Zacian-VGranFesta16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-017/025",
+            "name": "Groudon",
+            "number": "017/025",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/GroudonGranFesta17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-018/025",
+            "name": "Zamazenta-V",
+            "number": "018/025",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Zamazenta-VGranFesta18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-019/025",
+            "name": "Yveltal",
+            "number": "019/025",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/YveltalGranFesta19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-020/025",
+            "name": "Dialga",
+            "number": "020/025",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/DialgaGranFesta20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-021/025",
+            "name": "Solgaleo",
+            "number": "021/025",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SolgaleoGranFesta21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-022/025",
+            "name": "Lugia",
+            "number": "022/025",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/LugiaGranFesta22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-023/025",
+            "name": "Ricerca Accademica [Professor Oak]",
+            "number": "023/025",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/RicercaAccademicaGranFesta23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-024/025",
+            "name": "Ricerca Accademica [Professor Oak]",
+            "number": "024/025",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/RicercaAccademicaGranFesta24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-025/025",
+            "name": "Mew",
+            "number": "025/025",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MewGranFesta25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEL-2/102",
+            "name": "Blastoise [Set Base]",
+            "number": "2/102",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/BlastoiseGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-4/102",
+            "name": "Charizard [Set Base]",
+            "number": "4/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/CharizardGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-15/102",
+            "name": "Venusaur [Set Base]",
+            "number": "15/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/VenusaurGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-73/102",
+            "name": "Professor Oak, l'impostore [Set Base]",
+            "number": "73/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ProfessorOaklimpostoreGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-8/82",
+            "name": "Dark Gyarados [Team Rocket]",
+            "number": "8/82",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/DarkGyaradosGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-15/82",
+            "name": "Arriva il Team Rocket! [Team Rocket]",
+            "number": "15/82",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ArrivailTeamRocketGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-15/132",
+            "name": "Rocket Zapdos [Gym Challenge]",
+            "number": "15/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/RocketZapdosGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-24",
+            "name": "Pikachu di_____ [Wizards Black Star Promos]",
+            "number": "24",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PikachudiGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-20/111",
+            "name": "Cleffa [Neo Genesis]",
+            "number": "20/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/CleffaGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-66/64",
+            "name": "Shining Magikarp [Neo Revelation]",
+            "number": "66/64",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/ShiningMagikarpGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-9/95",
+            "name": "Team Magma Groudon [EX Team Magma vs Team Idro]",
+            "number": "9/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/TeamMagmaGroudonGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-86/109",
+            "name": "Tenente del Rocket [EX Team Rocket Returns]",
+            "number": "86/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TenentedelRocketGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-88/92",
+            "name": "Mew ex [EX La Leggenda di Mew]",
+            "number": "88/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/MewexGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-93/101",
+            "name": "Gardevoir ex δ [EX L'Isola dei Draghi]",
+            "number": "93/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/GardevoirexGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-17/17",
+            "name": "Umbreon ☆ [POP Serie 5]",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/UmbreonGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-15/106",
+            "name": "Claydol [Incontri Leggendari]",
+            "number": "15/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ClaydolGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-109/111",
+            "name": "Luxray GL [L'Ascesa dei Rivali]",
+            "number": "109/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/LuxrayGLLIVXGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-145/147",
+            "name": "Garchomp C [Supreme Victors]",
+            "number": "145/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/GarchompCLIVXGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-107/123",
+            "name": "Donphan [HeartGold & SoulSilver]",
+            "number": "107/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/DonphanGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-113/114",
+            "name": "Reshiram [Nero e Bianco]",
+            "number": "113/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ReshiramGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-114/114",
+            "name": "Zekrom [Nero e Bianco]",
+            "number": "114/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ZekromGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-54/99",
+            "name": "Mewtwo-EX [Destini Futuri]",
+            "number": "54/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Mewtwo-EXGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-97/146",
+            "name": "Xerneas-EX [XY]",
+            "number": "97/146",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/Xerneas-EXGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-76/108",
+            "name": "M Rayquaza-EX [Furie Volanti]",
+            "number": "76/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MRayquaza-EXGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "CEL-60/145",
+            "name": "Tapu Lele-GX [Guardiani Nascenti]",
+            "number": "60/145",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/TapuLele-GXGranFestaCollezioneClassica.png",
+            "section": "Collezione Classica"
+        }
+    ]
+}

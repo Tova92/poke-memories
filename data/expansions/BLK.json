@@ -1,0 +1,1227 @@
+{
+    "expansion": {
+        "id": "BLK",
+        "name": "Scarlatto e Violetto - Luce Nera",
+        "year": 2025,
+        "month": 7,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/51/Logo_Luce_Nera.png",
+        "cardCount": 172
+    },
+    "cards": [
+        {
+            "id": "BLK-001/086",
+            "name": "Snivy",
+            "number": "001/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/SnivyLuceNera1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-002/086",
+            "name": "Servine",
+            "number": "002/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ServineLuceNera2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-003/086",
+            "name": "Serperior-ex",
+            "number": "003/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Serperior-exLuceNera3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-004/086",
+            "name": "Pansage",
+            "number": "004/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/PansageLuceNera4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-005/086",
+            "name": "Simisage",
+            "number": "005/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SimisageLuceNera5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-006/086",
+            "name": "Petilil",
+            "number": "006/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/PetililLuceNera6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-007/086",
+            "name": "Lilligant",
+            "number": "007/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/LilligantLuceNera7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-008/086",
+            "name": "Maractus",
+            "number": "008/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/MaractusLuceNera8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-009/086",
+            "name": "Karrablast",
+            "number": "009/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/KarrablastLuceNera9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-010/086",
+            "name": "Foongus",
+            "number": "010/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/FoongusLuceNera10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-011/086",
+            "name": "Amoonguss",
+            "number": "011/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/AmoongussLuceNera11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-012/086",
+            "name": "Victini",
+            "number": "012/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/VictiniLuceNera12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-013/086",
+            "name": "Darumaka",
+            "number": "013/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/DarumakaLuceNera13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-014/086",
+            "name": "Darmanitan",
+            "number": "014/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/DarmanitanLuceNera14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-015/086",
+            "name": "Larvesta",
+            "number": "015/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/LarvestaLuceNera15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-016/086",
+            "name": "Volcarona",
+            "number": "016/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/VolcaronaLuceNera16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-017/086",
+            "name": "Panpour",
+            "number": "017/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/PanpourLuceNera17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-018/086",
+            "name": "Simipour",
+            "number": "018/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SimipourLuceNera18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-019/086",
+            "name": "Tympole",
+            "number": "019/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/TympoleLuceNera19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-020/086",
+            "name": "Palpitoad",
+            "number": "020/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/PalpitoadLuceNera20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-021/086",
+            "name": "Seismitoad",
+            "number": "021/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/SeismitoadLuceNera21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-022/086",
+            "name": "Tirtouga",
+            "number": "022/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/TirtougaLuceNera22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-023/086",
+            "name": "Carracosta",
+            "number": "023/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CarracostaLuceNera23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-024/086",
+            "name": "Alomomola",
+            "number": "024/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/AlomomolaLuceNera24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-025/086",
+            "name": "Cubchoo",
+            "number": "025/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CubchooLuceNera25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-026/086",
+            "name": "Beartic",
+            "number": "026/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/BearticLuceNera26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-027/086",
+            "name": "Cryogonal",
+            "number": "027/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/CryogonalLuceNera27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-028/086",
+            "name": "Kyurem-ex",
+            "number": "028/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Kyurem-exLuceNera28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-029/086",
+            "name": "Emolga",
+            "number": "029/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/EmolgaLuceNera29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-030/086",
+            "name": "Tynamo",
+            "number": "030/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TynamoLuceNera30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-031/086",
+            "name": "Eelektrik",
+            "number": "031/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/EelektrikLuceNera31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-032/086",
+            "name": "Eelektross",
+            "number": "032/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/EelektrossLuceNera32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-033/086",
+            "name": "Thundurus",
+            "number": "033/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ThundurusLuceNera33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-034/086",
+            "name": "Zekrom-ex",
+            "number": "034/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Zekrom-exLuceNera34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-035/086",
+            "name": "Munna",
+            "number": "035/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MunnaLuceNera35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-036/086",
+            "name": "Musharna",
+            "number": "036/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MusharnaLuceNera36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-037/086",
+            "name": "Solosis",
+            "number": "037/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SolosisLuceNera37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-038/086",
+            "name": "Duosion",
+            "number": "038/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DuosionLuceNera38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-039/086",
+            "name": "Reuniclus",
+            "number": "039/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/ReuniclusLuceNera39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-040/086",
+            "name": "Elgyem",
+            "number": "040/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ElgyemLuceNera40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-041/086",
+            "name": "Beheeyem",
+            "number": "041/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/BeheeyemLuceNera41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-042/086",
+            "name": "Golett",
+            "number": "042/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/GolettLuceNera42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-043/086",
+            "name": "Golurk",
+            "number": "043/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/GolurkLuceNera43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-044/086",
+            "name": "Meloetta-ex",
+            "number": "044/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Meloetta-exLuceNera44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-045/086",
+            "name": "Drilbur",
+            "number": "045/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/DrilburLuceNera45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-046/086",
+            "name": "Excadrill-ex",
+            "number": "046/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Excadrill-exLuceNera46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-047/086",
+            "name": "Timburr",
+            "number": "047/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/TimburrLuceNera47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-048/086",
+            "name": "Gurdurr",
+            "number": "048/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/GurdurrLuceNera48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-049/086",
+            "name": "Conkeldurr",
+            "number": "049/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/ConkeldurrLuceNera49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-050/086",
+            "name": "Throh",
+            "number": "050/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ThrohLuceNera50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-051/086",
+            "name": "Dwebble",
+            "number": "051/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/DwebbleLuceNera51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-052/086",
+            "name": "Crustle",
+            "number": "052/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/CrustleLuceNera52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-053/086",
+            "name": "Landorus",
+            "number": "053/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/LandorusLuceNera53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-054/086",
+            "name": "Venipede",
+            "number": "054/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/VenipedeLuceNera54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-055/086",
+            "name": "Whirlipede",
+            "number": "055/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/WhirlipedeLuceNera55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-056/086",
+            "name": "Scolipede",
+            "number": "056/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ScolipedeLuceNera56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-057/086",
+            "name": "Sandile",
+            "number": "057/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SandileLuceNera57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-058/086",
+            "name": "Krokorok",
+            "number": "058/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/KrokorokLuceNera58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-059/086",
+            "name": "Krookodile",
+            "number": "059/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/KrookodileLuceNera59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-060/086",
+            "name": "Escavalier",
+            "number": "060/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/EscavalierLuceNera60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-061/086",
+            "name": "Klink",
+            "number": "061/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/KlinkLuceNera61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-062/086",
+            "name": "Klang",
+            "number": "062/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/KlangLuceNera62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-063/086",
+            "name": "Klinklang",
+            "number": "063/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/KlinklangLuceNera63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-064/086",
+            "name": "Pawniard",
+            "number": "064/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/PawniardLuceNera64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-065/086",
+            "name": "Bisharp",
+            "number": "065/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/BisharpLuceNera65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-066/086",
+            "name": "Cobalion",
+            "number": "066/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/CobalionLuceNera66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-067/086",
+            "name": "Genesect-ex",
+            "number": "067/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Genesect-exLuceNera67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-068/086",
+            "name": "Axew",
+            "number": "068/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/AxewLuceNera68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-069/086",
+            "name": "Fraxure",
+            "number": "069/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/FraxureLuceNera69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-070/086",
+            "name": "Haxorus",
+            "number": "070/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/HaxorusLuceNera70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-071/086",
+            "name": "Pidove",
+            "number": "071/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/PidoveLuceNera71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-072/086",
+            "name": "Tranquill",
+            "number": "072/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/TranquillLuceNera72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-073/086",
+            "name": "Unfezant",
+            "number": "073/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/UnfezantLuceNera73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-074/086",
+            "name": "Audino",
+            "number": "074/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/AudinoLuceNera74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-075/086",
+            "name": "Minccino",
+            "number": "075/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MinccinoLuceNera75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-076/086",
+            "name": "Cinccino",
+            "number": "076/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/CinccinoLuceNera76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-077/086",
+            "name": "Rufflet",
+            "number": "077/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/RuffletLuceNera77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-078/086",
+            "name": "Braviary",
+            "number": "078/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/BraviaryLuceNera78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-079/086",
+            "name": "Palloncino",
+            "number": "079/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/PalloncinoLuceNera79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-080/086",
+            "name": "Vecchio Fossiltappo",
+            "number": "080/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/VecchioFossiltappoLuceNera80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-081/086",
+            "name": "Moneta Energetica",
+            "number": "081/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/MonetaEnergeticaLuceNera81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-082/086",
+            "name": "Zania",
+            "number": "082/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ZaniaLuceNera82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-083/086",
+            "name": "Piano di N",
+            "number": "083/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/PianodiNLuceNera83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-084/086",
+            "name": "Pokégear 3.0",
+            "number": "084/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Pok%C3%A9gear30LuceNera84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-085/086",
+            "name": "Ricerca Accademica [Prof.ssa Aralia]",
+            "number": "085/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RicercaAccademicaLuceNera85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-086/086",
+            "name": "Energia Prisma",
+            "number": "086/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/EnergiaPrismaLuceNera86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLK-087/086",
+            "name": "Snivy",
+            "number": "087/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SnivyLuceNera87.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-088/086",
+            "name": "Servine",
+            "number": "088/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/ServineLuceNera88.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-089/086",
+            "name": "Pansage",
+            "number": "089/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/PansageLuceNera89.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-090/086",
+            "name": "Simisage",
+            "number": "090/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SimisageLuceNera90.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-091/086",
+            "name": "Petilil",
+            "number": "091/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/PetililLuceNera91.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-092/086",
+            "name": "Lilligant",
+            "number": "092/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/LilligantLuceNera92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-093/086",
+            "name": "Maractus",
+            "number": "093/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MaractusLuceNera93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-094/086",
+            "name": "Karrablast",
+            "number": "094/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/KarrablastLuceNera94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-095/086",
+            "name": "Foongus",
+            "number": "095/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/FoongusLuceNera95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-096/086",
+            "name": "Amoonguss",
+            "number": "096/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/AmoongussLuceNera96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-097/086",
+            "name": "Darumaka",
+            "number": "097/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/DarumakaLuceNera97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-098/086",
+            "name": "Darmanitan",
+            "number": "098/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/DarmanitanLuceNera98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-099/086",
+            "name": "Larvesta",
+            "number": "099/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/LarvestaLuceNera99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-100/086",
+            "name": "Volcarona",
+            "number": "100/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/VolcaronaLuceNera100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-101/086",
+            "name": "Panpour",
+            "number": "101/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/PanpourLuceNera101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-102/086",
+            "name": "Simipour",
+            "number": "102/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/SimipourLuceNera102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-103/086",
+            "name": "Tympole",
+            "number": "103/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/TympoleLuceNera103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-104/086",
+            "name": "Palpitoad",
+            "number": "104/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/PalpitoadLuceNera104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-105/086",
+            "name": "Seismitoad",
+            "number": "105/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SeismitoadLuceNera105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-106/086",
+            "name": "Tirtouga",
+            "number": "106/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/TirtougaLuceNera106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-107/086",
+            "name": "Carracosta",
+            "number": "107/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/CarracostaLuceNera107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-108/086",
+            "name": "Alomomola",
+            "number": "108/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/AlomomolaLuceNera108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-109/086",
+            "name": "Cubchoo",
+            "number": "109/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/CubchooLuceNera109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-110/086",
+            "name": "Beartic",
+            "number": "110/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/BearticLuceNera110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-111/086",
+            "name": "Cryogonal",
+            "number": "111/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/CryogonalLuceNera111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-112/086",
+            "name": "Emolga",
+            "number": "112/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/EmolgaLuceNera112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-113/086",
+            "name": "Tynamo",
+            "number": "113/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/TynamoLuceNera113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-114/086",
+            "name": "Eelektrik",
+            "number": "114/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/EelektrikLuceNera114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-115/086",
+            "name": "Eelektross",
+            "number": "115/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/EelektrossLuceNera115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-116/086",
+            "name": "Munna",
+            "number": "116/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MunnaLuceNera116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-117/086",
+            "name": "Musharna",
+            "number": "117/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MusharnaLuceNera117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-118/086",
+            "name": "Solosis",
+            "number": "118/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/SolosisLuceNera118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-119/086",
+            "name": "Duosion",
+            "number": "119/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/DuosionLuceNera119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-120/086",
+            "name": "Elgyem",
+            "number": "120/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ElgyemLuceNera120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-121/086",
+            "name": "Beheeyem",
+            "number": "121/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/BeheeyemLuceNera121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-122/086",
+            "name": "Golett",
+            "number": "122/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/GolettLuceNera122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-123/086",
+            "name": "Golurk",
+            "number": "123/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/GolurkLuceNera123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-124/086",
+            "name": "Drilbur",
+            "number": "124/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/DrilburLuceNera124.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-125/086",
+            "name": "Timburr",
+            "number": "125/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/TimburrLuceNera125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-126/086",
+            "name": "Gurdurr",
+            "number": "126/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/GurdurrLuceNera126.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-127/086",
+            "name": "Conkeldurr",
+            "number": "127/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/ConkeldurrLuceNera127.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-128/086",
+            "name": "Throh",
+            "number": "128/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/ThrohLuceNera128.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-129/086",
+            "name": "Dwebble",
+            "number": "129/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/DwebbleLuceNera129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-130/086",
+            "name": "Crustle",
+            "number": "130/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/CrustleLuceNera130.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-131/086",
+            "name": "Landorus",
+            "number": "131/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/LandorusLuceNera131.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-132/086",
+            "name": "Venipede",
+            "number": "132/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/VenipedeLuceNera132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-133/086",
+            "name": "Whirlipede",
+            "number": "133/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/WhirlipedeLuceNera133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-134/086",
+            "name": "Scolipede",
+            "number": "134/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/ScolipedeLuceNera134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-135/086",
+            "name": "Sandile",
+            "number": "135/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/SandileLuceNera135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-136/086",
+            "name": "Krokorok",
+            "number": "136/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/KrokorokLuceNera136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-137/086",
+            "name": "Krookodile",
+            "number": "137/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/KrookodileLuceNera137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-138/086",
+            "name": "Escavalier",
+            "number": "138/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/EscavalierLuceNera138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-139/086",
+            "name": "Klink",
+            "number": "139/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/KlinkLuceNera139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-140/086",
+            "name": "Klang",
+            "number": "140/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/KlangLuceNera140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-141/086",
+            "name": "Klinklang",
+            "number": "141/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/KlinklangLuceNera141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-142/086",
+            "name": "Pawniard",
+            "number": "142/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/PawniardLuceNera142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-143/086",
+            "name": "Bisharp",
+            "number": "143/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/BisharpLuceNera143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-144/086",
+            "name": "Cobalion",
+            "number": "144/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CobalionLuceNera144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-145/086",
+            "name": "Axew",
+            "number": "145/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/AxewLuceNera145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-146/086",
+            "name": "Fraxure",
+            "number": "146/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/FraxureLuceNera146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-147/086",
+            "name": "Haxorus",
+            "number": "147/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/HaxorusLuceNera147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-148/086",
+            "name": "Pidove",
+            "number": "148/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/PidoveLuceNera148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-149/086",
+            "name": "Tranquill",
+            "number": "149/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/TranquillLuceNera149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-150/086",
+            "name": "Unfezant",
+            "number": "150/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/UnfezantLuceNera150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-151/086",
+            "name": "Audino",
+            "number": "151/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/AudinoLuceNera151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-152/086",
+            "name": "Minccino",
+            "number": "152/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MinccinoLuceNera152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-153/086",
+            "name": "Cinccino",
+            "number": "153/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/CinccinoLuceNera153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-154/086",
+            "name": "Rufflet",
+            "number": "154/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/RuffletLuceNera154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-155/086",
+            "name": "Braviary",
+            "number": "155/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/BraviaryLuceNera155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-156/086",
+            "name": "Serperior-ex",
+            "number": "156/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Serperior-exLuceNera156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-157/086",
+            "name": "Kyurem-ex",
+            "number": "157/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Kyurem-exLuceNera157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-158/086",
+            "name": "Zekrom-ex",
+            "number": "158/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Zekrom-exLuceNera158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-159/086",
+            "name": "Meloetta-ex",
+            "number": "159/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Meloetta-exLuceNera159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-160/086",
+            "name": "Excadrill-ex",
+            "number": "160/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Excadrill-exLuceNera160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-161/086",
+            "name": "Genesect-ex",
+            "number": "161/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/Genesect-exLuceNera161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-162/086",
+            "name": "Zania",
+            "number": "162/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/ZaniaLuceNera162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-163/086",
+            "name": "Piano di N",
+            "number": "163/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/PianodiNLuceNera163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-164/086",
+            "name": "Serperior-ex",
+            "number": "164/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Serperior-exLuceNera164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-165/086",
+            "name": "Kyurem-ex",
+            "number": "165/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Kyurem-exLuceNera165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-166/086",
+            "name": "Zekrom-ex",
+            "number": "166/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Zekrom-exLuceNera166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-167/086",
+            "name": "Meloetta-ex",
+            "number": "167/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Meloetta-exLuceNera167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-168/086",
+            "name": "Excadrill-ex",
+            "number": "168/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Excadrill-exLuceNera168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-169/086",
+            "name": "Genesect-ex",
+            "number": "169/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Genesect-exLuceNera169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-170/086",
+            "name": "Piano di N",
+            "number": "170/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/PianodiNLuceNera170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-171/086",
+            "name": "Victini",
+            "number": "171/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/VictiniLuceNera171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BLK-172/086",
+            "name": "Zekrom-ex",
+            "number": "172/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Zekrom-exLuceNera172.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-017",
+				"SVE-018",
+				"SVE-019",
+				"SVE-020",
+				"SVE-021",
+				"SVE-022",
+				"SVE-023",
+				"SVE-024"
+		]
+}

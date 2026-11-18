@@ -1,0 +1,937 @@
+{
+    "expansion": {
+        "id": "G2",
+        "name": "Gym Challenge",
+				"year": 2000,
+				"month": 10,
+				"language": "en",
+        "logo": "https://media.pokemoncentral.it/wiki/f/f7/SimboloSetGym_Challenge.svg",
+        "cardCount": 132
+    },
+    "cards": [
+        {
+            "id": "G2-1/132",
+            "name": "Blaine's Arcanine",
+            "number": "1/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BlaineArcanineGymChallenge1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-2/132",
+            "name": "Blaine's Charizard",
+            "number": "2/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/BlaineCharizardGymChallenge2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-3/132",
+            "name": "Brock's Ninetales",
+            "number": "3/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/BrockNinetalesGymChallenge3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-4/132",
+            "name": "Erika's Venusaur",
+            "number": "4/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ErikaVenusaurGymChallenge4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-5/132",
+            "name": "Giovanni's Gyarados",
+            "number": "5/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/GiovanniGyaradosGymChallenge5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-6/132",
+            "name": "Giovanni's Machamp",
+            "number": "6/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GiovanniMachampGymChallenge6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-7/132",
+            "name": "Giovanni's Nidoking",
+            "number": "7/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/GiovanniNidokingGymChallenge7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-8/132",
+            "name": "Giovanni's Persian",
+            "number": "8/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GiovanniPersianGymChallenge8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-9/132",
+            "name": "Koga's Beedrill",
+            "number": "9/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/KogaBeedrillGymChallenge9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-10/132",
+            "name": "Koga's Ditto",
+            "number": "10/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/KogaDittoGymChallenge10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-11/132",
+            "name": "Lt. Surge's Raichu",
+            "number": "11/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LtSurgeRaichuGymChallenge11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-12/132",
+            "name": "Misty's Golduck",
+            "number": "12/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/MistyGolduckGymChallenge12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-13/132",
+            "name": "Misty's Gyarados",
+            "number": "13/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/MistyGyaradosGymChallenge13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-14/132",
+            "name": "Rocket's Mewtwo",
+            "number": "14/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/RocketMewtwoGymChallenge14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-15/132",
+            "name": "Rocket's Zapdos",
+            "number": "15/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/RocketZapdosGymChallenge15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-16/132",
+            "name": "Sabrina's Alakazam",
+            "number": "16/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SabrinaAlakazamGymChallenge16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-17/132",
+            "name": "Blaine",
+            "number": "17/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/BlaineGymChallenge17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-18/132",
+            "name": "Giovanni",
+            "number": "18/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/GiovanniGymChallenge18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-19/132",
+            "name": "Koga",
+            "number": "19/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/KogaGymChallenge19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-20/132",
+            "name": "Sabrina",
+            "number": "20/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/SabrinaGymChallenge20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-21/132",
+            "name": "Blaine's Ninetales",
+            "number": "21/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/BlaineNinetalesGymChallenge21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-22/132",
+            "name": "Brock's Dugtrio",
+            "number": "22/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/BrockDugtrioGymChallenge22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-23/132",
+            "name": "Giovanni's Nidoqueen",
+            "number": "23/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/GiovanniNidoqueenGymChallenge23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-24/132",
+            "name": "Giovanni's Pinsir",
+            "number": "24/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/GiovanniPinsirGymChallenge24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-25/132",
+            "name": "Koga's Arbok",
+            "number": "25/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/KogaArbokGymChallenge25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-26/132",
+            "name": "Koga's Muk",
+            "number": "26/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/KogaMukGymChallenge26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-27/132",
+            "name": "Koga's Pidgeotto",
+            "number": "27/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/KogaPidgeottoGymChallenge27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-28/132",
+            "name": "Lt. Surge's Jolteon",
+            "number": "28/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/LtSurgeJolteonGymChallenge28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-29/132",
+            "name": "Sabrina's Gengar",
+            "number": "29/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/SabrinaGengarGymChallenge29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-30/132",
+            "name": "Sabrina's Golduck",
+            "number": "30/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/SabrinaGolduckGymChallenge30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-31/132",
+            "name": "Blaine's Charmeleon",
+            "number": "31/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/BlaineCharmeleonGymChallenge31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-32/132",
+            "name": "Blaine's Dodrio",
+            "number": "32/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/BlaineDodrioGymChallenge32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-33/132",
+            "name": "Blaine's Rapidash",
+            "number": "33/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/BlaineRapidashGymChallenge33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-34/132",
+            "name": "Brock's Graveler",
+            "number": "34/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/BrockGravelerGymChallenge34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-35/132",
+            "name": "Brock's Primeape",
+            "number": "35/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/BrockPrimeapeGymChallenge35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-36/132",
+            "name": "Brock's Sandslash",
+            "number": "36/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/BrockSandslashGymChallenge36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-37/132",
+            "name": "Brock's Vulpix",
+            "number": "37/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/BrockVulpixGymChallenge37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-38/132",
+            "name": "Erika's Bellsprout",
+            "number": "38/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/ErikaBellsproutGymChallenge38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-39/132",
+            "name": "Erika's Bulbasaur",
+            "number": "39/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ErikaBulbasaurGymChallenge39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-40/132",
+            "name": "Erika's Clefairy",
+            "number": "40/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ErikaClefairyGymChallenge40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-41/132",
+            "name": "Erika's Ivysaur",
+            "number": "41/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ErikaIvysaurGymChallenge41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-42/132",
+            "name": "Giovanni's Machoke",
+            "number": "42/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/GiovanniMachokeGymChallenge42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-43/132",
+            "name": "Giovanni's Meowth",
+            "number": "43/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/GiovanniMeowthGymChallenge43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-44/132",
+            "name": "Giovanni's Nidorina",
+            "number": "44/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/GiovanniNidorinaGymChallenge44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-45/132",
+            "name": "Giovanni's Nidorino",
+            "number": "45/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GiovanniNidorinoGymChallenge45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-46/132",
+            "name": "Koga's Golbat",
+            "number": "46/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/KogaGolbatGymChallenge46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-47/132",
+            "name": "Koga's Kakuna",
+            "number": "47/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/KogaKakunaGymChallenge47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-48/132",
+            "name": "Koga's Koffing",
+            "number": "48/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/KogaKoffingGymChallenge48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-49/132",
+            "name": "Koga's Pidgey",
+            "number": "49/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/KogaPidgeyGymChallenge49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-50/132",
+            "name": "Koga's Weezing",
+            "number": "50/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/KogaWeezingGymChallenge50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-51/132",
+            "name": "Lt. Surge's Eevee",
+            "number": "51/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/LtSurgeEeveeGymChallenge51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-52/132",
+            "name": "Lt. Surge's Electrode",
+            "number": "52/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/LtSurgeElectrodeGymChallenge52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-53/132",
+            "name": "Lt. Surge's Raticate",
+            "number": "53/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/LtSurgeRaticateGymChallenge53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-54/132",
+            "name": "Misty's Dewgong",
+            "number": "54/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/MistyDewgongGymChallenge54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-55/132",
+            "name": "Sabrina's Haunter",
+            "number": "55/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/SabrinaHaunterGymChallenge55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-56/132",
+            "name": "Sabrina's Hypno",
+            "number": "56/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SabrinaHypnoGymChallenge56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-57/132",
+            "name": "Sabrina's Jynx",
+            "number": "57/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/SabrinaJynxGymChallenge57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-58/132",
+            "name": "Sabrina's Kadabra",
+            "number": "58/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/SabrinaKadabraGymChallenge58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-59/132",
+            "name": "Sabrina's Mr. Mime",
+            "number": "59/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SabrinaMrMimeGymChallenge59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-60/132",
+            "name": "Blaine's Charmander",
+            "number": "60/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/BlaineCharmanderGymChallenge60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-61/132",
+            "name": "Blaine's Doduo",
+            "number": "61/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/BlaineDoduoGymChallenge61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-62/132",
+            "name": "Blaine's Growlithe",
+            "number": "62/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/BlaineGrowlitheGymChallenge62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-63/132",
+            "name": "Blaine's Mankey",
+            "number": "63/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/BlaineMankeyGymChallenge63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-64/132",
+            "name": "Blaine's Ponyta",
+            "number": "64/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/BlainePonytaGymChallenge64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-65/132",
+            "name": "Blaine's Rhyhorn",
+            "number": "65/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/BlaineRhyhornGymChallenge65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-66/132",
+            "name": "Blaine's Vulpix",
+            "number": "66/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/BlaineVulpixGymChallenge66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-67/132",
+            "name": "Brock's Diglett",
+            "number": "67/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/BrockDiglettGymChallenge67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-68/132",
+            "name": "Brock's Geodude",
+            "number": "68/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/BrockGeodudeGymChallenge68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-69/132",
+            "name": "Erika's Jigglypuff",
+            "number": "69/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/ErikaJigglypuffGymChallenge69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-70/132",
+            "name": "Erika's Oddish",
+            "number": "70/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/ErikaOddishGymChallenge70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-71/132",
+            "name": "Erika's Paras",
+            "number": "71/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ErikaParasGymChallenge71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-72/132",
+            "name": "Giovanni's Machop",
+            "number": "72/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GiovanniMachopGymChallenge72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-73/132",
+            "name": "Giovanni's Magikarp",
+            "number": "73/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/GiovanniMagikarpGymChallenge73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-74/132",
+            "name": "Giovanni's Meowth",
+            "number": "74/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/GiovanniMeowthGymChallenge74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-75/132",
+            "name": "Giovanni's Nidoran♀",
+            "number": "75/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GiovanniNidoranGymChallenge75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-76/132",
+            "name": "Giovanni's Nidoran♂",
+            "number": "76/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/GiovanniNidoranGymChallenge76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-77/132",
+            "name": "Koga's Ekans",
+            "number": "77/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/KogaEkansGymChallenge77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-78/132",
+            "name": "Koga's Grimer",
+            "number": "78/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/KogaGrimerGymChallenge78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-79/132",
+            "name": "Koga's Koffing",
+            "number": "79/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/KogaKoffingGymChallenge79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-80/132",
+            "name": "Koga's Pidgey",
+            "number": "80/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/KogaPidgeyGymChallenge80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-81/132",
+            "name": "Koga's Tangela",
+            "number": "81/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/KogaTangelaGymChallenge81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-82/132",
+            "name": "Koga's Weedle",
+            "number": "82/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/KogaWeedleGymChallenge82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-83/132",
+            "name": "Koga's Zubat",
+            "number": "83/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/KogaZubatGymChallenge83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-84/132",
+            "name": "Lt. Surge's Pikachu",
+            "number": "84/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/LtSurgePikachuGymChallenge84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-85/132",
+            "name": "Lt. Surge's Rattata",
+            "number": "85/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/LtSurgeRattataGymChallenge85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-86/132",
+            "name": "Lt. Surge's Voltorb",
+            "number": "86/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/LtSurgeVoltorbGymChallenge86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-87/132",
+            "name": "Misty's Horsea",
+            "number": "87/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MistyHorseaGymChallenge87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-88/132",
+            "name": "Misty's Magikarp",
+            "number": "88/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/MistyMagikarpGymChallenge88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-89/132",
+            "name": "Misty's Poliwag",
+            "number": "89/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MistyPoliwagGymChallenge89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-90/132",
+            "name": "Misty's Psyduck",
+            "number": "90/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MistyPsyduckGymChallenge90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-91/132",
+            "name": "Misty's Seel",
+            "number": "91/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/MistySeelGymChallenge91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-92/132",
+            "name": "Misty's Staryu",
+            "number": "92/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/MistyStaryuGymChallenge92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-93/132",
+            "name": "Sabrina's Abra",
+            "number": "93/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/SabrinaAbraGymChallenge93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-94/132",
+            "name": "Sabrina's Abra",
+            "number": "94/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SabrinaAbraGymChallenge94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-95/132",
+            "name": "Sabrina's Drowzee",
+            "number": "95/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SabrinaDrowzeeGymChallenge95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-96/132",
+            "name": "Sabrina's Gastly",
+            "number": "96/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/SabrinaGastlyGymChallenge96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-97/132",
+            "name": "Sabrina's Gastly",
+            "number": "97/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SabrinaGastlyGymChallenge97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-98/132",
+            "name": "Sabrina's Porygon",
+            "number": "98/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/SabrinaPorygonGymChallenge98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-99/132",
+            "name": "Sabrina's Psyduck",
+            "number": "99/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SabrinaPsyduckGymChallenge99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-100/132",
+            "name": "Blaine",
+            "number": "100/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/BlaineGymChallenge17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-101/132",
+            "name": "Brock's Protection",
+            "number": "101/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/BrockProtectionGymChallenge101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-102/132",
+            "name": "Chaos Gym",
+            "number": "102/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ChaosGymGymChallenge102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-103/132",
+            "name": "Erika's Kindness",
+            "number": "103/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/ErikaKindnessGymChallenge103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-104/132",
+            "name": "Giovanni",
+            "number": "104/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/GiovanniGymChallenge18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-105/132",
+            "name": "Giovanni's Last Resort",
+            "number": "105/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/GiovanniLastResortGymChallenge105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-106/132",
+            "name": "Koga",
+            "number": "106/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/KogaGymChallenge19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-107/132",
+            "name": "Lt. Surge's Secret Plan",
+            "number": "107/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/LtSurgeSecretPlanGymChallenge107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-108/132",
+            "name": "Misty's Wish",
+            "number": "108/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/MistyWishGymChallenge108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-109/132",
+            "name": "Resistance Gym",
+            "number": "109/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ResistanceGymGymChallenge109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-110/132",
+            "name": "Sabrina",
+            "number": "110/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/SabrinaGymChallenge20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-111/132",
+            "name": "Blaine's Quiz #2",
+            "number": "111/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/BlaineQuiz2GymChallenge111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-112/132",
+            "name": "Blaine's Quiz #3",
+            "number": "112/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/BlaineQuiz3GymChallenge112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-113/132",
+            "name": "Cinnabar City Gym",
+            "number": "113/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/CinnabarCityGymGymChallenge113.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-114/132",
+            "name": "Fuchsia City Gym",
+            "number": "114/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/FuchsiaCityGymGymChallenge114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-115/132",
+            "name": "Koga's Ninja Trick",
+            "number": "115/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/KogaNinjaTrickGymChallenge115.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-116/132",
+            "name": "Master Ball",
+            "number": "116/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/MasterBallGymChallenge116.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-117/132",
+            "name": "Max Revive",
+            "number": "117/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MaxReviveGymChallenge117.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-118/132",
+            "name": "Misty's Tears",
+            "number": "118/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/MistyTearsGymChallenge118.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-119/132",
+            "name": "Rocket's Minefield Gym",
+            "number": "119/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/RocketMinefieldGymGymChallenge119.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-120/132",
+            "name": "Rocket's Secret Experiment",
+            "number": "120/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/RocketSecretExperimentGymChallenge120.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-121/132",
+            "name": "Sabrina's Psychic Control",
+            "number": "121/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/SabrinaPsychicControlGymChallenge121.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-122/132",
+            "name": "Saffron City Gym",
+            "number": "122/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SaffronCityGymGymChallenge122.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-123/132",
+            "name": "Viridian City Gym",
+            "number": "123/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ViridianCityGymGymChallenge123.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-124/132",
+            "name": "Fervor",
+            "number": "124/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/FervorGymChallenge124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-125/132",
+            "name": "Transparent Walls",
+            "number": "125/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/TransparentWallsGymChallenge125.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-126/132",
+            "name": "Warp Point",
+            "number": "126/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/WarpPointGymChallenge126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-127/132",
+            "name": "Fighting Energy",
+            "number": "127/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-128/132",
+            "name": "Fire Energy",
+            "number": "128/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-129/132",
+            "name": "Grass Energy",
+            "number": "129/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-130/132",
+            "name": "Lightning Energy",
+            "number": "130/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-131/132",
+            "name": "Psychic Energy",
+            "number": "131/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/EnergiaPsicheGymChallenge131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G2-132/132",
+            "name": "Water Energy",
+            "number": "132/132",
+            "image": null,
+            "section": "Set principale"
+        }
+    ]
+}

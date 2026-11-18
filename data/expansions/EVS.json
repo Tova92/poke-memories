@@ -1,0 +1,1672 @@
+{
+    "expansion": {
+        "id": "EVS",
+        "name": "Spada e Scudo - Evoluzioni Eteree",
+        "year": 2021,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetEvoluzioni_Eteree.png",
+        "cardCount": 237
+    },
+    "cards": [
+        {
+            "id": "EVS-001/203",
+            "name": "Pinsir",
+            "number": "001/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/PinsirEvoluzioniEteree1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-002/203",
+            "name": "Hoppip",
+            "number": "002/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/HoppipEvoluzioniEteree2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-003/203",
+            "name": "Skiploom",
+            "number": "003/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/SkiploomEvoluzioniEteree3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-004/203",
+            "name": "Jumpluff",
+            "number": "004/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/JumpluffEvoluzioniEteree4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-005/203",
+            "name": "Seedot",
+            "number": "005/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SeedotEvoluzioniEteree5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-006/203",
+            "name": "Tropius",
+            "number": "006/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/TropiusEvoluzioniEteree6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-007/203",
+            "name": "Leafeon-V",
+            "number": "007/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Leafeon-VEvoluzioniEteree7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-008/203",
+            "name": "Leafeon-VMAX",
+            "number": "008/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Leafeon-VMAXEvoluzioniEteree8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-009/203",
+            "name": "Petilil",
+            "number": "009/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/PetililEvoluzioniEteree9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-010/203",
+            "name": "Lilligant",
+            "number": "010/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/LilligantEvoluzioniEteree10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-011/203",
+            "name": "Dwebble",
+            "number": "011/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/DwebbleEvoluzioniEteree11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-012/203",
+            "name": "Crustle",
+            "number": "012/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/CrustleEvoluzioniEteree12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-013/203",
+            "name": "Trevenant-V",
+            "number": "013/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Trevenant-VEvoluzioniEteree13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-014/203",
+            "name": "Trevenant-VMAX",
+            "number": "014/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Trevenant-VMAXEvoluzioniEteree14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-015/203",
+            "name": "Gossifleur",
+            "number": "015/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/GossifleurEvoluzioniEteree15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-016/203",
+            "name": "Eldegoss",
+            "number": "016/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EldegossEvoluzioniEteree16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-017/203",
+            "name": "Applin",
+            "number": "017/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/ApplinEvoluzioniEteree17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-018/203",
+            "name": "Flareon-VMAX",
+            "number": "018/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Flareon-VMAXEvoluzioniEteree18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-019/203",
+            "name": "Entei",
+            "number": "019/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/EnteiEvoluzioniEteree19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-020/203",
+            "name": "Victini",
+            "number": "020/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/VictiniEvoluzioniEteree20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-021/203",
+            "name": "Volcarona-V",
+            "number": "021/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Volcarona-VEvoluzioniEteree21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-022/203",
+            "name": "Litleo",
+            "number": "022/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/LitleoEvoluzioniEteree22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-023/203",
+            "name": "Pyroar",
+            "number": "023/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/PyroarEvoluzioniEteree23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-024/203",
+            "name": "Psyduck",
+            "number": "024/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/PsyduckEvoluzioniEteree24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-025/203",
+            "name": "Golduck",
+            "number": "025/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/GolduckEvoluzioniEteree25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-026/203",
+            "name": "Tentacool",
+            "number": "026/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/TentacoolEvoluzioniEteree26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-027/203",
+            "name": "Tentacruel",
+            "number": "027/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/TentacruelEvoluzioniEteree27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-028/203",
+            "name": "Gyarados-V",
+            "number": "028/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/Gyarados-VEvoluzioniEteree28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-029/203",
+            "name": "Gyarados-VMAX",
+            "number": "029/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Gyarados-VMAXEvoluzioniEteree29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-030/203",
+            "name": "Vaporeon-VMAX",
+            "number": "030/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Vaporeon-VMAXEvoluzioniEteree30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-031/203",
+            "name": "Suicune-V",
+            "number": "031/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/Suicune-VEvoluzioniEteree31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-032/203",
+            "name": "Lotad",
+            "number": "032/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/LotadEvoluzioniEteree32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-033/203",
+            "name": "Lombre",
+            "number": "033/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/LombreEvoluzioniEteree33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-034/203",
+            "name": "Ludicolo",
+            "number": "034/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/LudicoloEvoluzioniEteree34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-035/203",
+            "name": "Carvanha",
+            "number": "035/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/CarvanhaEvoluzioniEteree35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-036/203",
+            "name": "Sharpedo",
+            "number": "036/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/SharpedoEvoluzioniEteree36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-037/203",
+            "name": "Feebas",
+            "number": "037/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/FeebasEvoluzioniEteree37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-038/203",
+            "name": "Milotic",
+            "number": "038/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MiloticEvoluzioniEteree38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-039/203",
+            "name": "Luvdisc",
+            "number": "039/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/LuvdiscEvoluzioniEteree39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-040/203",
+            "name": "Glaceon-V",
+            "number": "040/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Glaceon-VEvoluzioniEteree40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-041/203",
+            "name": "Glaceon-VMAX",
+            "number": "041/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Glaceon-VMAXEvoluzioniEteree41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-042/203",
+            "name": "Tympole",
+            "number": "042/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/TympoleEvoluzioniEteree42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-043/203",
+            "name": "Cryogonal",
+            "number": "043/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CryogonalEvoluzioniEteree43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-044/203",
+            "name": "Bergmite",
+            "number": "044/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/BergmiteEvoluzioniEteree44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-045/203",
+            "name": "Avalugg",
+            "number": "045/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/AvaluggEvoluzioniEteree45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-046/203",
+            "name": "Wishiwashi",
+            "number": "046/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/WishiwashiEvoluzioniEteree46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-047/203",
+            "name": "Eiscue",
+            "number": "047/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/EiscueEvoluzioniEteree47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-048/203",
+            "name": "Arctovish-V",
+            "number": "048/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Arctovish-VEvoluzioniEteree48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-049/203",
+            "name": "Pikachu",
+            "number": "049/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/PikachuEvoluzioniEteree49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-050/203",
+            "name": "Raichu",
+            "number": "050/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/RaichuEvoluzioniEteree50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-051/203",
+            "name": "Jolteon-VMAX",
+            "number": "051/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Jolteon-VMAXEvoluzioniEteree51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-052/203",
+            "name": "Chinchou",
+            "number": "052/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ChinchouEvoluzioniEteree52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-053/203",
+            "name": "Lanturn",
+            "number": "053/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/LanturnEvoluzioniEteree53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-054/203",
+            "name": "Mareep",
+            "number": "054/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/MareepEvoluzioniEteree54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-055/203",
+            "name": "Flaaffy",
+            "number": "055/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/FlaaffyEvoluzioniEteree55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-056/203",
+            "name": "Ampharos",
+            "number": "056/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/AmpharosEvoluzioniEteree56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-057/203",
+            "name": "Emolga",
+            "number": "057/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/EmolgaEvoluzioniEteree57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-058/203",
+            "name": "Dracozolt-V",
+            "number": "058/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Dracozolt-VEvoluzioniEteree58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-059/203",
+            "name": "Dracozolt-VMAX",
+            "number": "059/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Dracozolt-VMAXEvoluzioniEteree59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-060/203",
+            "name": "Regieleki",
+            "number": "060/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/RegielekiEvoluzioniEteree60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-061/203",
+            "name": "Drowzee",
+            "number": "061/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/DrowzeeEvoluzioniEteree61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-062/203",
+            "name": "Hypno",
+            "number": "062/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/HypnoEvoluzioniEteree62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-063/203",
+            "name": "Articuno di Galar",
+            "number": "063/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ArticunodiGalarEvoluzioniEteree63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-064/203",
+            "name": "Espeon-V",
+            "number": "064/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Espeon-VEvoluzioniEteree64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-065/203",
+            "name": "Espeon-VMAX",
+            "number": "065/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/Espeon-VMAXEvoluzioniEteree65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-066/203",
+            "name": "Wobbuffet",
+            "number": "066/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/WobbuffetEvoluzioniEteree66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-067/203",
+            "name": "Sableye",
+            "number": "067/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/SableyeEvoluzioniEteree67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-068/203",
+            "name": "Woobat",
+            "number": "068/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/WoobatEvoluzioniEteree68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-069/203",
+            "name": "Swoobat",
+            "number": "069/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SwoobatEvoluzioniEteree69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-070/203",
+            "name": "Golurk-V",
+            "number": "070/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Golurk-VEvoluzioniEteree70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-071/203",
+            "name": "Flabébé",
+            "number": "071/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Flab%C3%A9b%C3%A9EvoluzioniEteree71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-072/203",
+            "name": "Floette",
+            "number": "072/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/FloetteEvoluzioniEteree72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-073/203",
+            "name": "Florges",
+            "number": "073/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/FlorgesEvoluzioniEteree73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-074/203",
+            "name": "Sylveon-V",
+            "number": "074/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Sylveon-VEvoluzioniEteree74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-075/203",
+            "name": "Sylveon-VMAX",
+            "number": "075/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Sylveon-VMAXEvoluzioniEteree75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-076/203",
+            "name": "Pumpkaboo",
+            "number": "076/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/PumpkabooEvoluzioniEteree76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-077/203",
+            "name": "Gourgeist",
+            "number": "077/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/GourgeistEvoluzioniEteree77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-078/203",
+            "name": "Cutiefly",
+            "number": "078/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/CutieflyEvoluzioniEteree78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-079/203",
+            "name": "Ribombee",
+            "number": "079/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/RibombeeEvoluzioniEteree79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-080/203",
+            "name": "Marshadow",
+            "number": "080/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/MarshadowEvoluzioniEteree80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-081/203",
+            "name": "Hitmonchan",
+            "number": "081/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/HitmonchanEvoluzioniEteree81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-082/203",
+            "name": "Zapdos di Galar",
+            "number": "082/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/ZapdosdiGalarEvoluzioniEteree82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-083/203",
+            "name": "Medicham-V",
+            "number": "083/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Medicham-VEvoluzioniEteree83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-084/203",
+            "name": "Hippopotas",
+            "number": "084/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/HippopotasEvoluzioniEteree84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-085/203",
+            "name": "Hippowdon",
+            "number": "085/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/HippowdonEvoluzioniEteree85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-086/203",
+            "name": "Roggenrola",
+            "number": "086/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/RoggenrolaEvoluzioniEteree86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-087/203",
+            "name": "Boldore",
+            "number": "087/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/BoldoreEvoluzioniEteree87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-088/203",
+            "name": "Gigalith",
+            "number": "088/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/GigalithEvoluzioniEteree88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-089/203",
+            "name": "Palpitoad",
+            "number": "089/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PalpitoadEvoluzioniEteree89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-090/203",
+            "name": "Seismitoad",
+            "number": "090/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SeismitoadEvoluzioniEteree90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-091/203",
+            "name": "Lycanroc-V",
+            "number": "091/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Lycanroc-VEvoluzioniEteree91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-092/203",
+            "name": "Lycanroc-VMAX",
+            "number": "092/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Lycanroc-VMAXEvoluzioniEteree92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-093/203",
+            "name": "Moltres di Galar",
+            "number": "093/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/MoltresdiGalarEvoluzioniEteree93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-094/203",
+            "name": "Umbreon-V",
+            "number": "094/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Umbreon-VEvoluzioniEteree94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-095/203",
+            "name": "Umbreon-VMAX",
+            "number": "095/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Umbreon-VMAXEvoluzioniEteree95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-096/203",
+            "name": "Nuzleaf",
+            "number": "096/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/NuzleafEvoluzioniEteree96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-097/203",
+            "name": "Shiftry",
+            "number": "097/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ShiftryEvoluzioniEteree97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-098/203",
+            "name": "Scraggy",
+            "number": "098/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/ScraggyEvoluzioniEteree98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-099/203",
+            "name": "Scrafty",
+            "number": "099/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/ScraftyEvoluzioniEteree99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-100/203",
+            "name": "Garbodor-V",
+            "number": "100/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Garbodor-VEvoluzioniEteree100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-101/203",
+            "name": "Garbodor-VMAX",
+            "number": "101/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Garbodor-VMAXEvoluzioniEteree101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-102/203",
+            "name": "Zorua",
+            "number": "102/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ZoruaEvoluzioniEteree102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-103/203",
+            "name": "Zoroark",
+            "number": "103/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/ZoroarkEvoluzioniEteree103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-104/203",
+            "name": "Nickit",
+            "number": "104/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/NickitEvoluzioniEteree104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-105/203",
+            "name": "Thievul",
+            "number": "105/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ThievulEvoluzioniEteree105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-106/203",
+            "name": "Altaria",
+            "number": "106/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/AltariaEvoluzioniEteree106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-107/203",
+            "name": "Bagon",
+            "number": "107/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/BagonEvoluzioniEteree107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-108/203",
+            "name": "Shelgon",
+            "number": "108/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ShelgonEvoluzioniEteree108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-109/203",
+            "name": "Salamence",
+            "number": "109/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/SalamenceEvoluzioniEteree109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-110/203",
+            "name": "Rayquaza-V",
+            "number": "110/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Rayquaza-VEvoluzioniEteree110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-111/203",
+            "name": "Rayquaza-VMAX",
+            "number": "111/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Rayquaza-VMAXEvoluzioniEteree111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-112/203",
+            "name": "Dialga",
+            "number": "112/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/DialgaEvoluzioniEteree112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-113/203",
+            "name": "Deino",
+            "number": "113/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/DeinoEvoluzioniEteree113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-114/203",
+            "name": "Zweilous",
+            "number": "114/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ZweilousEvoluzioniEteree114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-115/203",
+            "name": "Hydreigon",
+            "number": "115/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/HydreigonEvoluzioniEteree115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-116/203",
+            "name": "Kyurem",
+            "number": "116/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/KyuremEvoluzioniEteree116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-117/203",
+            "name": "Noivern-V",
+            "number": "117/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Noivern-VEvoluzioniEteree117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-118/203",
+            "name": "Zygarde",
+            "number": "118/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ZygardeEvoluzioniEteree118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-119/203",
+            "name": "Drampa",
+            "number": "119/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/DrampaEvoluzioniEteree119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-120/203",
+            "name": "Flapple",
+            "number": "120/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/FlappleEvoluzioniEteree120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-121/203",
+            "name": "Appletun",
+            "number": "121/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/AppletunEvoluzioniEteree121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-122/203",
+            "name": "Duraludon-V",
+            "number": "122/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Duraludon-VEvoluzioniEteree122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-123/203",
+            "name": "Duraludon-VMAX",
+            "number": "123/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Duraludon-VMAXEvoluzioniEteree123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-124/203",
+            "name": "Regidrago",
+            "number": "124/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/RegidragoEvoluzioniEteree124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-125/203",
+            "name": "Eevee",
+            "number": "125/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/EeveeEvoluzioniEteree125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-126/203",
+            "name": "Teddiursa",
+            "number": "126/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/TeddiursaEvoluzioniEteree126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-127/203",
+            "name": "Ursaring",
+            "number": "127/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/UrsaringEvoluzioniEteree127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-128/203",
+            "name": "Smeargle",
+            "number": "128/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/SmeargleEvoluzioniEteree128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-129/203",
+            "name": "Slakoth",
+            "number": "129/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SlakothEvoluzioniEteree129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-130/203",
+            "name": "Vigoroth",
+            "number": "130/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/VigorothEvoluzioniEteree130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-131/203",
+            "name": "Slaking",
+            "number": "131/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SlakingEvoluzioniEteree131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-132/203",
+            "name": "Swablu",
+            "number": "132/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SwabluEvoluzioniEteree132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-133/203",
+            "name": "Lillipup",
+            "number": "133/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/LillipupEvoluzioniEteree133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-134/203",
+            "name": "Herdier",
+            "number": "134/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/HerdierEvoluzioniEteree134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-135/203",
+            "name": "Stoutland",
+            "number": "135/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/StoutlandEvoluzioniEteree135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-136/203",
+            "name": "Rufflet",
+            "number": "136/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/RuffletEvoluzioniEteree136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-137/203",
+            "name": "Braviary",
+            "number": "137/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/BraviaryEvoluzioniEteree137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-138/203",
+            "name": "Fletchling",
+            "number": "138/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/FletchlingEvoluzioniEteree138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-139/203",
+            "name": "Fletchinder",
+            "number": "139/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/FletchinderEvoluzioniEteree139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-140/203",
+            "name": "Talonflame",
+            "number": "140/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/TalonflameEvoluzioniEteree140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-141/203",
+            "name": "Profumina",
+            "number": "141/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/ProfuminaEvoluzioniEteree141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-142/203",
+            "name": "Frullato Energizzante",
+            "number": "142/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/FrullatoEnergizzanteEvoluzioniEteree142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-143/203",
+            "name": "Copiona",
+            "number": "143/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/CopionaEvoluzioniEteree143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-144/203",
+            "name": "Caverna dei Cristalli",
+            "number": "144/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/CavernadeiCristalliEvoluzioniEteree144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-145/203",
+            "name": "Guanti da Scavo",
+            "number": "145/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/GuantidaScavoEvoluzioniEteree145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-146/203",
+            "name": "Dream Ball",
+            "number": "146/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/DreamBallEvoluzioniEteree146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-147/203",
+            "name": "Medaglia degli Elementi",
+            "number": "147/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MedagliadegliElementiEvoluzioniEteree147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-148/203",
+            "name": "Difesa Integrale",
+            "number": "148/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/DifesaIntegraleEvoluzioniEteree148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-149/203",
+            "name": "Milo",
+            "number": "149/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MiloEvoluzioniEteree149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-150/203",
+            "name": "Ghiacciolo della Fortuna",
+            "number": "150/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/GhiacciolodellaFortunaEvoluzioniEteree150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-151/203",
+            "name": "Medaglia Luna e Sole",
+            "number": "151/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MedagliaLunaeSoleEvoluzioniEteree151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-152/203",
+            "name": "Laburno",
+            "number": "152/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/LaburnoEvoluzioniEteree152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-153/203",
+            "name": "Rotolo del Drago Volante Colpo Rapido",
+            "number": "153/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/RotolodelDragoVolanteColpoRapidoEvoluzioniEteree153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-154/203",
+            "name": "Trolley di Salvataggio",
+            "number": "154/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/TrolleydiSalvataggioEvoluzioniEteree154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-155/203",
+            "name": "Medaglia Fiocco",
+            "number": "155/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MedagliaFioccoEvoluzioniEteree155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-156/203",
+            "name": "Guanti di Gomma",
+            "number": "156/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/GuantidiGommaEvoluzioniEteree156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-157/203",
+            "name": "Galleria Commerciale",
+            "number": "157/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/GalleriaCommercialeEvoluzioniEteree157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-158/203",
+            "name": "Rotolo del Drago Dentuto Colpo Singolo",
+            "number": "158/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/RotolodelDragoDentutoColpoSingoloEvoluzioniEteree158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-159/203",
+            "name": "Medaglia Nevefoglia",
+            "number": "159/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MedagliaNevefogliaEvoluzioniEteree159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-160/203",
+            "name": "Maschera degli Spiriti",
+            "number": "160/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/MascheradegliSpiritiEvoluzioniEteree160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-161/203",
+            "name": "Montagne Tempestose",
+            "number": "161/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MontagneTempestoseEvoluzioniEteree161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-162/203",
+            "name": "Bicchieri di Scambio",
+            "number": "162/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/BicchieridiScambioEvoluzioniEteree162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-163/203",
+            "name": "Acchiappa-Pokémon Giocattolo",
+            "number": "163/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Acchiappa-Pok%C3%A9monGiocattoloEvoluzioniEteree163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-164/203",
+            "name": "Grinta di Lyris",
+            "number": "164/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/GrintadiLyrisEvoluzioniEteree164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-165/203",
+            "name": "Energia Tesoro",
+            "number": "165/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/EnergiaTesoroEvoluzioniEteree165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-166/203",
+            "name": "Leafeon-V",
+            "number": "166/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Leafeon-VEvoluzioniEteree166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-167/203",
+            "name": "Leafeon-V",
+            "number": "167/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/Leafeon-VEvoluzioniEteree167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-168/203",
+            "name": "Trevenant-V",
+            "number": "168/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Trevenant-VEvoluzioniEteree168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-169/203",
+            "name": "Flareon-V",
+            "number": "169/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/Flareon-VEvoluzioniEteree169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-170/203",
+            "name": "Volcarona-V",
+            "number": "170/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Volcarona-VEvoluzioniEteree170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-171/203",
+            "name": "Gyarados-V",
+            "number": "171/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Gyarados-VEvoluzioniEteree171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-172/203",
+            "name": "Vaporeon-V",
+            "number": "172/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Vaporeon-VEvoluzioniEteree172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-173/203",
+            "name": "Suicune-V",
+            "number": "173/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Suicune-VEvoluzioniEteree173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-174/203",
+            "name": "Glaceon-V",
+            "number": "174/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Glaceon-VEvoluzioniEteree174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-175/203",
+            "name": "Glaceon-V",
+            "number": "175/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Glaceon-VEvoluzioniEteree175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-176/203",
+            "name": "Arctovish-V",
+            "number": "176/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Arctovish-VEvoluzioniEteree176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-177/203",
+            "name": "Jolteon-V",
+            "number": "177/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Jolteon-VEvoluzioniEteree177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-178/203",
+            "name": "Dracozolt-V",
+            "number": "178/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Dracozolt-VEvoluzioniEteree178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-179/203",
+            "name": "Espeon-V",
+            "number": "179/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Espeon-VEvoluzioniEteree179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-180/203",
+            "name": "Espeon-V",
+            "number": "180/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Espeon-VEvoluzioniEteree180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-181/203",
+            "name": "Golurk-V",
+            "number": "181/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Golurk-VEvoluzioniEteree181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-182/203",
+            "name": "Golurk-V",
+            "number": "182/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Golurk-VEvoluzioniEteree182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-183/203",
+            "name": "Sylveon-V",
+            "number": "183/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Sylveon-VEvoluzioniEteree183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-184/203",
+            "name": "Sylveon-V",
+            "number": "184/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Sylveon-VEvoluzioniEteree184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-185/203",
+            "name": "Medicham-V",
+            "number": "185/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Medicham-VEvoluzioniEteree185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-186/203",
+            "name": "Medicham-V",
+            "number": "186/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Medicham-VEvoluzioniEteree186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-187/203",
+            "name": "Lycanroc-V",
+            "number": "187/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Lycanroc-VEvoluzioniEteree187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-188/203",
+            "name": "Umbreon-V",
+            "number": "188/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Umbreon-VEvoluzioniEteree188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-189/203",
+            "name": "Umbreon-V",
+            "number": "189/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Umbreon-VEvoluzioniEteree189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-190/203",
+            "name": "Garbodor-V",
+            "number": "190/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Garbodor-VEvoluzioniEteree190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-191/203",
+            "name": "Dragonite-V",
+            "number": "191/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Dragonite-VEvoluzioniEteree191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-192/203",
+            "name": "Dragonite-V",
+            "number": "192/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Dragonite-VEvoluzioniEteree192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-193/203",
+            "name": "Rayquaza-V",
+            "number": "193/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Rayquaza-VEvoluzioniEteree193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-194/203",
+            "name": "Rayquaza-V",
+            "number": "194/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Rayquaza-VEvoluzioniEteree194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-195/203",
+            "name": "Noivern-V",
+            "number": "195/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Noivern-VEvoluzioniEteree195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-196/203",
+            "name": "Noivern-V",
+            "number": "196/203",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Noivern-VEvoluzioniEteree196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-197/203",
+            "name": "Duraludon-V",
+            "number": "197/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Duraludon-VEvoluzioniEteree197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-198/203",
+            "name": "Duraludon-V",
+            "number": "198/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Duraludon-VEvoluzioniEteree198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-199/203",
+            "name": "Profumina",
+            "number": "199/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ProfuminaEvoluzioniEteree199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-200/203",
+            "name": "Copiona",
+            "number": "200/203",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/CopionaEvoluzioniEteree200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-201/203",
+            "name": "Milo",
+            "number": "201/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/MiloEvoluzioniEteree201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-202/203",
+            "name": "Laburno",
+            "number": "202/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/LaburnoEvoluzioniEteree202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-203/203",
+            "name": "Grinta di Lyris",
+            "number": "203/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/GrintadiLyrisEvoluzioniEteree203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVS-204/203",
+            "name": "Leafeon-VMAX",
+            "number": "204/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Leafeon-VMAXEvoluzioniEteree204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-205/203",
+            "name": "Leafeon-VMAX",
+            "number": "205/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Leafeon-VMAXEvoluzioniEteree205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-206/203",
+            "name": "Trevenant-VMAX",
+            "number": "206/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Trevenant-VMAXEvoluzioniEteree206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-207/203",
+            "name": "Gyarados-VMAX",
+            "number": "207/203",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Gyarados-VMAXEvoluzioniEteree207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-208/203",
+            "name": "Glaceon-VMAX",
+            "number": "208/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Glaceon-VMAXEvoluzioniEteree208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-209/203",
+            "name": "Glaceon-VMAX",
+            "number": "209/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Glaceon-VMAXEvoluzioniEteree209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-210/203",
+            "name": "Dracozolt-VMAX",
+            "number": "210/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Dracozolt-VMAXEvoluzioniEteree210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-211/203",
+            "name": "Sylveon-VMAX",
+            "number": "211/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Sylveon-VMAXEvoluzioniEteree211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-212/203",
+            "name": "Sylveon-VMAX",
+            "number": "212/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Sylveon-VMAXEvoluzioniEteree212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-213/203",
+            "name": "Lycanroc-VMAX",
+            "number": "213/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Lycanroc-VMAXEvoluzioniEteree213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-214/203",
+            "name": "Umbreon-VMAX",
+            "number": "214/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Umbreon-VMAXEvoluzioniEteree214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-215/203",
+            "name": "Umbreon-VMAX",
+            "number": "215/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Umbreon-VMAXEvoluzioniEteree215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-216/203",
+            "name": "Garbodor-VMAX",
+            "number": "216/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Garbodor-VMAXEvoluzioniEteree216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-217/203",
+            "name": "Rayquaza-VMAX",
+            "number": "217/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Rayquaza-VMAXEvoluzioniEteree217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-218/203",
+            "name": "Rayquaza-VMAX",
+            "number": "218/203",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Rayquaza-VMAXEvoluzioniEteree218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-219/203",
+            "name": "Duraludon-VMAX",
+            "number": "219/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Duraludon-VMAXEvoluzioniEteree219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-220/203",
+            "name": "Duraludon-VMAX",
+            "number": "220/203",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Duraludon-VMAXEvoluzioniEteree220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-221/203",
+            "name": "Profumina",
+            "number": "221/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ProfuminaEvoluzioniEteree221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-222/203",
+            "name": "Copiona",
+            "number": "222/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/CopionaEvoluzioniEteree222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-223/203",
+            "name": "Milo",
+            "number": "223/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/MiloEvoluzioniEteree223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-224/203",
+            "name": "Laburno",
+            "number": "224/203",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/LaburnoEvoluzioniEteree224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-225/203",
+            "name": "Grinta di Lyris",
+            "number": "225/203",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/GrintadiLyrisEvoluzioniEteree225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-226/203",
+            "name": "Froslass",
+            "number": "226/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/FroslassEvoluzioniEteree226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-227/203",
+            "name": "Inteleon",
+            "number": "227/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/InteleonEvoluzioniEteree227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-228/203",
+            "name": "Cresselia",
+            "number": "228/203",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/CresseliaEvoluzioniEteree228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-229/203",
+            "name": "Frullato Energizzante",
+            "number": "229/203",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/FrullatoEnergizzanteEvoluzioniEteree229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-230/203",
+            "name": "Caverna dei Cristalli",
+            "number": "230/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/CavernadeiCristalliEvoluzioniEteree230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-231/203",
+            "name": "Difesa Integrale",
+            "number": "231/203",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/DifesaIntegraleEvoluzioniEteree231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-232/203",
+            "name": "Montagne Tempestose",
+            "number": "232/203",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MontagneTempestoseEvoluzioniEteree232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-233/203",
+            "name": "Acchiappa-Pokémon Giocattolo",
+            "number": "233/203",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Acchiappa-Pok%C3%A9monGiocattoloEvoluzioniEteree233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-234/203",
+            "name": "Stadio di Turffield",
+            "number": "234/203",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/StadiodiTurffieldEvoluzioniEteree234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-235/203",
+            "name": "Energia Lampo",
+            "number": "235/203",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/EnergiaLampoEvoluzioniEteree235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-236/203",
+            "name": "Energia Oscurità",
+            "number": "236/203",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/EnergiaOscurit%C3%A0EvoluzioniEteree236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVS-237/203",
+            "name": "Energia Metallo",
+            "number": "237/203",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/EnergiaMetalloEvoluzioniEteree237.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

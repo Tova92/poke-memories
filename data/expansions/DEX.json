@@ -1,0 +1,790 @@
+{
+    "expansion": {
+        "id": "DEX",
+        "name": "Nero e Bianco - Esploratori delle Tenebre",
+				"year": 2012,
+				"month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4a/SimboloSetEsploratori_delle_Tenebre.png",
+        "cardCount": 111
+    },
+    "cards": [
+        {
+            "id": "DEX-1/108",
+            "name": "Bulbasaur",
+            "number": "1/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/BulbasaurEsploratoridelleTenebre1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-2/108",
+            "name": "Ivysaur",
+            "number": "2/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/IvysaurEsploratoridelleTenebre2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-3/108",
+            "name": "Venusaur",
+            "number": "3/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/VenusaurEsploratoridelleTenebre3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-4/108",
+            "name": "Scyther",
+            "number": "4/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ScytherEsploratoridelleTenebre4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-5/108",
+            "name": "Carnivine",
+            "number": "5/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CarnivineEsploratoridelleTenebre5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-6/108",
+            "name": "Leafeon",
+            "number": "6/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/LeafeonEsploratoridelleTenebre6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-7/108",
+            "name": "Dwebble",
+            "number": "7/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/DwebbleEsploratoridelleTenebre7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-8/108",
+            "name": "Crustle",
+            "number": "8/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/CrustleEsploratoridelleTenebre8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-9/108",
+            "name": "Karrablast",
+            "number": "9/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/KarrablastEsploratoridelleTenebre9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-10/108",
+            "name": "Shelmet",
+            "number": "10/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ShelmetEsploratoridelleTenebre10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-11/108",
+            "name": "Accelgor",
+            "number": "11/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/AccelgorEsploratoridelleTenebre11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-12/108",
+            "name": "Flareon",
+            "number": "12/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/FlareonEsploratoridelleTenebre12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-13/108",
+            "name": "Entei-EX",
+            "number": "13/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Entei-EXEsploratoridelleTenebre13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-14/108",
+            "name": "Torchic",
+            "number": "14/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/TorchicEsploratoridelleTenebre14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-15/108",
+            "name": "Torchic",
+            "number": "15/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/TorchicEsploratoridelleTenebre15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-16/108",
+            "name": "Combusken",
+            "number": "16/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/CombuskenEsploratoridelleTenebre16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-17/108",
+            "name": "Blaziken",
+            "number": "17/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/BlazikenEsploratoridelleTenebre17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-18/108",
+            "name": "Torkoal",
+            "number": "18/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/TorkoalEsploratoridelleTenebre18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-19/108",
+            "name": "Heatmor",
+            "number": "19/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/HeatmorEsploratoridelleTenebre19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-20/108",
+            "name": "Larvesta",
+            "number": "20/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/LarvestaEsploratoridelleTenebre20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-21/108",
+            "name": "Larvesta",
+            "number": "21/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/LarvestaEsploratoridelleTenebre21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-22/108",
+            "name": "Volcarona",
+            "number": "22/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/VolcaronaEsploratoridelleTenebre22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-23/108",
+            "name": "Slowpoke",
+            "number": "23/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SlowpokeEsploratoridelleTenebre23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-24/108",
+            "name": "Slowbro",
+            "number": "24/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/SlowbroEsploratoridelleTenebre24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-25/108",
+            "name": "Vaporeon",
+            "number": "25/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/VaporeonEsploratoridelleTenebre25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-26/108",
+            "name": "Kyogre-EX",
+            "number": "26/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Kyogre-EXEsploratoridelleTenebre26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-27/108",
+            "name": "Piplup",
+            "number": "27/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/PiplupEsploratoridelleTenebre27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-28/108",
+            "name": "Prinplup",
+            "number": "28/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/PrinplupEsploratoridelleTenebre28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-29/108",
+            "name": "Empoleon",
+            "number": "29/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/EmpoleonEsploratoridelleTenebre29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-30/108",
+            "name": "Glaceon",
+            "number": "30/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/GlaceonEsploratoridelleTenebre30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-31/108",
+            "name": "Tympole",
+            "number": "31/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/TympoleEsploratoridelleTenebre31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-32/108",
+            "name": "Palpitoad",
+            "number": "32/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/PalpitoadEsploratoridelleTenebre32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-33/108",
+            "name": "Vanillite",
+            "number": "33/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/VanilliteEsploratoridelleTenebre33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-34/108",
+            "name": "Vanillish",
+            "number": "34/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/VanillishEsploratoridelleTenebre34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-35/108",
+            "name": "Ducklett",
+            "number": "35/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/DucklettEsploratoridelleTenebre35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-36/108",
+            "name": "Swanna",
+            "number": "36/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/SwannaEsploratoridelleTenebre36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-37/108",
+            "name": "Jolteon",
+            "number": "37/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/JolteonEsploratoridelleTenebre37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-38/108",
+            "name": "Raikou-EX",
+            "number": "38/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Raikou-EXEsploratoridelleTenebre38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-39/108",
+            "name": "Plusle",
+            "number": "39/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/PlusleEsploratoridelleTenebre39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-40/108",
+            "name": "Minun",
+            "number": "40/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/MinunEsploratoridelleTenebre40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-41/108",
+            "name": "Joltik",
+            "number": "41/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/JoltikEsploratoridelleTenebre41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-42/108",
+            "name": "Joltik",
+            "number": "42/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/JoltikEsploratoridelleTenebre42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-43/108",
+            "name": "Galvantula",
+            "number": "43/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/GalvantulaEsploratoridelleTenebre43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-44/108",
+            "name": "Tynamo",
+            "number": "44/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/TynamoEsploratoridelleTenebre44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-45/108",
+            "name": "Tynamo",
+            "number": "45/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/TynamoEsploratoridelleTenebre45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-46/108",
+            "name": "Eelektrik",
+            "number": "46/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/EelektrikEsploratoridelleTenebre46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-47/108",
+            "name": "Eelektross",
+            "number": "47/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/EelektrossEsploratoridelleTenebre47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-48/108",
+            "name": "Espeon",
+            "number": "48/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/EspeonEsploratoridelleTenebre48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-49/108",
+            "name": "Slowking",
+            "number": "49/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/SlowkingEsploratoridelleTenebre49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-50/108",
+            "name": "Woobat",
+            "number": "50/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/WoobatEsploratoridelleTenebre50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-51/108",
+            "name": "Yamask",
+            "number": "51/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/YamaskEsploratoridelleTenebre51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-52/108",
+            "name": "Cofagrigus",
+            "number": "52/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/CofagrigusEsploratoridelleTenebre52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-53/108",
+            "name": "Aerodactyl",
+            "number": "53/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/AerodactylEsploratoridelleTenebre53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-54/108",
+            "name": "Groudon-EX",
+            "number": "54/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Groudon-EXEsploratoridelleTenebre54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-55/108",
+            "name": "Drilbur",
+            "number": "55/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DrilburEsploratoridelleTenebre55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-56/108",
+            "name": "Excadrill",
+            "number": "56/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ExcadrillEsploratoridelleTenebre56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-57/108",
+            "name": "Excadrill",
+            "number": "57/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/ExcadrillEsploratoridelleTenebre57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-58/108",
+            "name": "Timburr",
+            "number": "58/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/TimburrEsploratoridelleTenebre58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-59/108",
+            "name": "Gurdurr",
+            "number": "59/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/GurdurrEsploratoridelleTenebre59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-60/108",
+            "name": "Umbreon",
+            "number": "60/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/UmbreonEsploratoridelleTenebre60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-61/108",
+            "name": "Umbreon",
+            "number": "61/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/UmbreonEsploratoridelleTenebre61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-62/108",
+            "name": "Sableye",
+            "number": "62/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SableyeEsploratoridelleTenebre62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-63/108",
+            "name": "Darkrai-EX",
+            "number": "63/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/Darkrai-EXEsploratoridelleTenebre63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-64/108",
+            "name": "Sandile",
+            "number": "64/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SandileEsploratoridelleTenebre64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-65/108",
+            "name": "Krokorok",
+            "number": "65/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/KrokorokEsploratoridelleTenebre65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-66/108",
+            "name": "Krookodile",
+            "number": "66/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/KrookodileEsploratoridelleTenebre66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-67/108",
+            "name": "Scraggy",
+            "number": "67/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ScraggyEsploratoridelleTenebre67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-68/108",
+            "name": "Scrafty",
+            "number": "68/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/ScraftyEsploratoridelleTenebre68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-69/108",
+            "name": "Zorua",
+            "number": "69/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ZoruaEsploratoridelleTenebre69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-70/108",
+            "name": "Zorua",
+            "number": "70/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ZoruaEsploratoridelleTenebre70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-71/108",
+            "name": "Zoroark",
+            "number": "71/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ZoroarkEsploratoridelleTenebre71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-72/108",
+            "name": "Bisharp",
+            "number": "72/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/BisharpEsploratoridelleTenebre72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-73/108",
+            "name": "Vullaby",
+            "number": "73/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/VullabyEsploratoridelleTenebre73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-74/108",
+            "name": "Escavalier",
+            "number": "74/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/EscavalierEsploratoridelleTenebre74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-75/108",
+            "name": "Klink",
+            "number": "75/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/KlinkEsploratoridelleTenebre75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-76/108",
+            "name": "Klang",
+            "number": "76/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/KlangEsploratoridelleTenebre76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-77/108",
+            "name": "Klinklang",
+            "number": "77/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/KlinklangEsploratoridelleTenebre77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-78/108",
+            "name": "Pawniard",
+            "number": "78/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/PawniardEsploratoridelleTenebre78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-79/108",
+            "name": "Bisharp",
+            "number": "79/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/BisharpEsploratoridelleTenebre79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-80/108",
+            "name": "Chansey",
+            "number": "80/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ChanseyEsploratoridelleTenebre80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-81/108",
+            "name": "Chansey",
+            "number": "81/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/ChanseyEsploratoridelleTenebre81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-82/108",
+            "name": "Blissey",
+            "number": "82/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/BlisseyEsploratoridelleTenebre82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-83/108",
+            "name": "Eevee",
+            "number": "83/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/EeveeEsploratoridelleTenebre83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-84/108",
+            "name": "Eevee",
+            "number": "84/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/EeveeEsploratoridelleTenebre84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-85/108",
+            "name": "Chatot",
+            "number": "85/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ChatotEsploratoridelleTenebre85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-86/108",
+            "name": "Lillipup",
+            "number": "86/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/LillipupEsploratoridelleTenebre86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-87/108",
+            "name": "Herdier",
+            "number": "87/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/HerdierEsploratoridelleTenebre87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-88/108",
+            "name": "Stoutland",
+            "number": "88/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/StoutlandEsploratoridelleTenebre88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-89/108",
+            "name": "Haxorus",
+            "number": "89/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/HaxorusEsploratoridelleTenebre89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-90/108",
+            "name": "Tornadus-EX",
+            "number": "90/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Tornadus-EXEsploratoridelleTenebre90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-91/108",
+            "name": "Komor",
+            "number": "91/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/KomorEsploratoridelleTenebre91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-92/108",
+            "name": "Scurartigli",
+            "number": "92/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ScurartigliEsploratoridelleTenebre92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-93/108",
+            "name": "Rinvigoscuro",
+            "number": "93/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/RinvigoscuroEsploratoridelleTenebre93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-94/108",
+            "name": "Supermartello",
+            "number": "94/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SupermartelloEsploratoridelleTenebre94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-95/108",
+            "name": "Teppisti Bo & Brian",
+            "number": "95/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/TeppistiBoeBrianEsploratoridelleTenebre95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-96/108",
+            "name": "N",
+            "number": "96/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/NEsploratoridelleTenebre96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-97/108",
+            "name": "Ambra Antica di Aerodactyl",
+            "number": "97/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/AmbraAnticadiAerodactylEsploratoridelleTenebre97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-98/108",
+            "name": "Prof.ssa Aralia",
+            "number": "98/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ProfssaAraliaEsploratoridelleTenebre98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-99/108",
+            "name": "Destinatario Casuale",
+            "number": "99/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/DestinatarioCasualeEsploratoridelleTenebre99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-100/108",
+            "name": "Caramella Rara",
+            "number": "100/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/CaramellaRaraEsploratoridelleTenebre100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-101/108",
+            "name": "Monte Vite",
+            "number": "101/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MonteViteEsploratoridelleTenebre101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-102/108",
+            "name": "Ultra Ball",
+            "number": "102/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/UltraBallEsploratoridelleTenebre102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-103/108",
+            "name": "Entei-EX",
+            "number": "103/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Entei-EXEsploratoridelleTenebre103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-104/108",
+            "name": "Kyogre-EX",
+            "number": "104/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Kyogre-EXEsploratoridelleTenebre104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-105/108",
+            "name": "Raikou-EX",
+            "number": "105/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Raikou-EXEsploratoridelleTenebre105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-106/108",
+            "name": "Groudon-EX",
+            "number": "106/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Groudon-EXEsploratoridelleTenebre106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-107/108",
+            "name": "Darkrai-EX",
+            "number": "107/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Darkrai-EXEsploratoridelleTenebre107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-108/108",
+            "name": "Tornadus-EX",
+            "number": "108/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Tornadus-EXEsploratoridelleTenebre108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DEX-109/108",
+            "name": "Gardevoir",
+            "number": "109/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/GardevoirEsploratoridelleTenebre109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DEX-110/108",
+            "name": "Archeops",
+            "number": "110/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/ArcheopsEsploratoridelleTenebre110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DEX-111/108",
+            "name": "Acchiappa-Pokémon",
+            "number": "111/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Acchiappa-Pok%C3%A9monEsploratoridelleTenebre111.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

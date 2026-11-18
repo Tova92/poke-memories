@@ -1,0 +1,1168 @@
+{
+    "expansion": {
+        "id": "EX",
+        "name": "Expedition",
+				"year": 2002,
+				"month": 9,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetExpedition.svg",
+        "cardCount": 165
+    },
+    "cards": [
+        {
+            "id": "EX-1/165",
+            "name": "Alakazam",
+            "number": "1/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/AlakazamExpedition1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-2/165",
+            "name": "Ampharos",
+            "number": "2/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/AmpharosExpedition2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-3/165",
+            "name": "Arbok",
+            "number": "3/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ArbokExpedition3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-4/165",
+            "name": "Blastoise",
+            "number": "4/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/BlastoiseExpedition4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-5/165",
+            "name": "Butterfree",
+            "number": "5/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ButterfreeExpedition5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-6/165",
+            "name": "Charizard",
+            "number": "6/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CharizardExpedition6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-7/165",
+            "name": "Clefable",
+            "number": "7/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ClefableExpedition7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-8/165",
+            "name": "Cloyster",
+            "number": "8/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/CloysterExpedition8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-9/165",
+            "name": "Dragonite",
+            "number": "9/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/DragoniteExpedition9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-10/165",
+            "name": "Dugtrio",
+            "number": "10/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/DugtrioExpedition10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-11/165",
+            "name": "Fearow",
+            "number": "11/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FearowExpedition11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-12/165",
+            "name": "Feraligatr",
+            "number": "12/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/FeraligatrExpedition12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-13/165",
+            "name": "Gengar",
+            "number": "13/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/GengarExpedition13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-14/165",
+            "name": "Golem",
+            "number": "14/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/GolemExpedition14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-15/165",
+            "name": "Kingler",
+            "number": "15/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/KinglerExpedition15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-16/165",
+            "name": "Machamp",
+            "number": "16/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MachampExpedition16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-17/165",
+            "name": "Magby",
+            "number": "17/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MagbyExpedition17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-18/165",
+            "name": "Meganium",
+            "number": "18/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MeganiumExpedition18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-19/165",
+            "name": "Mew",
+            "number": "19/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MewExpedition19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-20/165",
+            "name": "Mewtwo",
+            "number": "20/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MewtwoExpedition20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-21/165",
+            "name": "Ninetales",
+            "number": "21/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/NinetalesExpedition21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-22/165",
+            "name": "Pichu",
+            "number": "22/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PichuExpedition22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-23/165",
+            "name": "Pidgeot",
+            "number": "23/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/PidgeotExpedition23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-24/165",
+            "name": "Poliwrath",
+            "number": "24/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PoliwrathExpedition24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-25/165",
+            "name": "Raichu",
+            "number": "25/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/RaichuExpedition25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-26/165",
+            "name": "Rapidash",
+            "number": "26/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RapidashExpedition26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-27/165",
+            "name": "Skarmory",
+            "number": "27/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SkarmoryExpedition27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-28/165",
+            "name": "Typhlosion",
+            "number": "28/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TyphlosionExpedition28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-29/165",
+            "name": "Tyranitar",
+            "number": "29/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/TyranitarExpedition29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-30/165",
+            "name": "Venusaur",
+            "number": "30/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/VenusaurExpedition30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-31/165",
+            "name": "Vileplume",
+            "number": "31/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/VileplumeExpedition31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-32/165",
+            "name": "Weezing",
+            "number": "32/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/WeezingExpedition32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-33/165",
+            "name": "Alakazam",
+            "number": "33/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/AlakazamExpedition1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-34/165",
+            "name": "Ampharos",
+            "number": "34/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/AmpharosExpedition2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-35/165",
+            "name": "Arbok",
+            "number": "35/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ArbokExpedition3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-36/165",
+            "name": "Blastoise",
+            "number": "36/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/BlastoiseExpedition36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-37/165",
+            "name": "Blastoise",
+            "number": "37/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/BlastoiseExpedition4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-38/165",
+            "name": "Butterfree",
+            "number": "38/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ButterfreeExpedition5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-39/165",
+            "name": "Charizard",
+            "number": "39/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/CharizardExpedition39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-40/165",
+            "name": "Charizard",
+            "number": "40/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CharizardExpedition6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-41/165",
+            "name": "Clefable",
+            "number": "41/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ClefableExpedition7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-42/165",
+            "name": "Cloyster",
+            "number": "42/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/CloysterExpedition8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-43/165",
+            "name": "Dragonite",
+            "number": "43/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/DragoniteExpedition9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-44/165",
+            "name": "Dugtrio",
+            "number": "44/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/DugtrioExpedition10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-45/165",
+            "name": "Fearow",
+            "number": "45/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FearowExpedition11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-46/165",
+            "name": "Feraligatr",
+            "number": "46/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/FeraligatrExpedition46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-47/165",
+            "name": "Feraligatr",
+            "number": "47/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/FeraligatrExpedition12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-48/165",
+            "name": "Gengar",
+            "number": "48/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/GengarExpedition13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-49/165",
+            "name": "Golem",
+            "number": "49/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/GolemExpedition14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-50/165",
+            "name": "Kingler",
+            "number": "50/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/KinglerExpedition15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-51/165",
+            "name": "Machamp",
+            "number": "51/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MachampExpedition16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-52/165",
+            "name": "Magby",
+            "number": "52/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MagbyExpedition17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-53/165",
+            "name": "Meganium",
+            "number": "53/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MeganiumExpedition53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-54/165",
+            "name": "Meganium",
+            "number": "54/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MeganiumExpedition18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-55/165",
+            "name": "Mew",
+            "number": "55/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MewExpedition19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-56/165",
+            "name": "Mewtwo",
+            "number": "56/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MewtwoExpedition20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-57/165",
+            "name": "Ninetales",
+            "number": "57/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/NinetalesExpedition21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-58/165",
+            "name": "Pichu",
+            "number": "58/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PichuExpedition22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-59/165",
+            "name": "Pidgeot",
+            "number": "59/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/PidgeotExpedition23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-60/165",
+            "name": "Poliwrath",
+            "number": "60/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PoliwrathExpedition24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-61/165",
+            "name": "Raichu",
+            "number": "61/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/RaichuExpedition25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-62/165",
+            "name": "Rapidash",
+            "number": "62/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RapidashExpedition26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-63/165",
+            "name": "Skarmory",
+            "number": "63/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SkarmoryExpedition27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-64/165",
+            "name": "Typhlosion",
+            "number": "64/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/TyphlosionExpedition64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-65/165",
+            "name": "Typhlosion",
+            "number": "65/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TyphlosionExpedition28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-66/165",
+            "name": "Tyranitar",
+            "number": "66/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/TyranitarExpedition29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-67/165",
+            "name": "Venusaur",
+            "number": "67/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/VenusaurExpedition67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-68/165",
+            "name": "Venusaur",
+            "number": "68/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/VenusaurExpedition30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-69/165",
+            "name": "Vileplume",
+            "number": "69/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/VileplumeExpedition31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-70/165",
+            "name": "Weezing",
+            "number": "70/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/WeezingExpedition32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-71/165",
+            "name": "Bayleef",
+            "number": "71/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/BayleefExpedition71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-72/165",
+            "name": "Chansey",
+            "number": "72/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/ChanseyExpedition72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-73/165",
+            "name": "Charmeleon",
+            "number": "73/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/CharmeleonExpedition73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-74/165",
+            "name": "Croconaw",
+            "number": "74/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/CroconawExpedition74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-75/165",
+            "name": "Dragonair",
+            "number": "75/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/DragonairExpedition75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-76/165",
+            "name": "Electabuzz",
+            "number": "76/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ElectabuzzExpedition76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-77/165",
+            "name": "Flaaffy",
+            "number": "77/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/FlaaffyExpedition77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-78/165",
+            "name": "Gloom",
+            "number": "78/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/GloomExpedition78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-79/165",
+            "name": "Graveler",
+            "number": "79/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/GravelerExpedition79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-80/165",
+            "name": "Haunter",
+            "number": "80/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/HaunterExpedition80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-81/165",
+            "name": "Hitmonlee",
+            "number": "81/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/HitmonleeExpedition81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-82/165",
+            "name": "Ivysaur",
+            "number": "82/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/IvysaurExpedition82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-83/165",
+            "name": "Jynx",
+            "number": "83/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/JynxExpedition83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-84/165",
+            "name": "Kadabra",
+            "number": "84/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/KadabraExpedition84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-85/165",
+            "name": "Machoke",
+            "number": "85/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/MachokeExpedition85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-86/165",
+            "name": "Magmar",
+            "number": "86/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/MagmarExpedition86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-87/165",
+            "name": "Metapod",
+            "number": "87/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MetapodExpedition87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-88/165",
+            "name": "Pidgeotto",
+            "number": "88/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/PidgeottoExpedition88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-89/165",
+            "name": "Poliwhirl",
+            "number": "89/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/PoliwhirlExpedition89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-90/165",
+            "name": "Pupitar",
+            "number": "90/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/PupitarExpedition90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-91/165",
+            "name": "Quilava",
+            "number": "91/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/QuilavaExpedition91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-92/165",
+            "name": "Wartortle",
+            "number": "92/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/WartortleExpedition92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-93/165",
+            "name": "Abra",
+            "number": "93/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/AbraExpedition93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-94/165",
+            "name": "Bulbasaur",
+            "number": "94/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/BulbasaurExpedition94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-95/165",
+            "name": "Bulbasaur",
+            "number": "95/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/BulbasaurExpedition95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-96/165",
+            "name": "Caterpie",
+            "number": "96/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CaterpieExpedition96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-97/165",
+            "name": "Charmander",
+            "number": "97/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/CharmanderExpedition97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-98/165",
+            "name": "Charmander",
+            "number": "98/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/CharmanderExpedition98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-99/165",
+            "name": "Chikorita",
+            "number": "99/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ChikoritaExpedition99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-100/165",
+            "name": "Chikorita",
+            "number": "100/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ChikoritaExpedition100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-101/165",
+            "name": "Clefairy",
+            "number": "101/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/ClefairyExpedition101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-102/165",
+            "name": "Corsola",
+            "number": "102/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/CorsolaExpedition102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-103/165",
+            "name": "Cubone",
+            "number": "103/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/CuboneExpedition103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-104/165",
+            "name": "Cyndaquil",
+            "number": "104/165",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/CyndaquilExpedition104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-105/165",
+            "name": "Cyndaquil",
+            "number": "105/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CyndaquilExpedition105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-106/165",
+            "name": "Diglett",
+            "number": "106/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/DiglettExpedition106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-107/165",
+            "name": "Dratini",
+            "number": "107/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/DratiniExpedition107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-108/165",
+            "name": "Ekans",
+            "number": "108/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/EkansExpedition108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-109/165",
+            "name": "Gastly",
+            "number": "109/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/GastlyExpedition109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-110/165",
+            "name": "Geodude",
+            "number": "110/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/GeodudeExpedition110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-111/165",
+            "name": "Goldeen",
+            "number": "111/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GoldeenExpedition111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-112/165",
+            "name": "Hoppip",
+            "number": "112/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/HoppipExpedition112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-113/165",
+            "name": "Houndour",
+            "number": "113/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/HoundourExpedition113.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-114/165",
+            "name": "Koffing",
+            "number": "114/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/KoffingExpedition114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-115/165",
+            "name": "Krabby",
+            "number": "115/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/KrabbyExpedition115.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-116/165",
+            "name": "Larvitar",
+            "number": "116/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/LarvitarExpedition116.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-117/165",
+            "name": "Machop",
+            "number": "117/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/MachopExpedition117.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-118/165",
+            "name": "Magikarp",
+            "number": "118/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MagikarpExpedition118.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-119/165",
+            "name": "Mareep",
+            "number": "119/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MareepExpedition119.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-120/165",
+            "name": "Marill",
+            "number": "120/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MarillExpedition120.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-121/165",
+            "name": "Meowth",
+            "number": "121/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MeowthExpedition121.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-122/165",
+            "name": "Oddish",
+            "number": "122/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/OddishExpedition122.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-123/165",
+            "name": "Pidgey",
+            "number": "123/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PidgeyExpedition123.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-124/165",
+            "name": "Pikachu",
+            "number": "124/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/PikachuExpedition124.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-125/165",
+            "name": "Poliwag",
+            "number": "125/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/PoliwagExpedition125.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-126/165",
+            "name": "Ponyta",
+            "number": "126/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/PonytaExpedition126.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-127/165",
+            "name": "Qwilfish",
+            "number": "127/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/QwilfishExpedition127.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-128/165",
+            "name": "Rattata",
+            "number": "128/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/RattataExpedition128.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-129/165",
+            "name": "Shellder",
+            "number": "129/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ShellderExpedition129.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-130/165",
+            "name": "Spearow",
+            "number": "130/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SpearowExpedition130.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-131/165",
+            "name": "Squirtle",
+            "number": "131/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/SquirtleExpedition131.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-132/165",
+            "name": "Squirtle",
+            "number": "132/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/SquirtleExpedition132.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-133/165",
+            "name": "Tauros",
+            "number": "133/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/TaurosExpedition133.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-134/165",
+            "name": "Totodile",
+            "number": "134/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/TotodileExpedition134.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-135/165",
+            "name": "Totodile",
+            "number": "135/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TotodileExpedition135.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-136/165",
+            "name": "Vulpix",
+            "number": "136/165",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/VulpixExpedition136.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-137/165",
+            "name": "Sostegno di Bill",
+            "number": "137/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/SostegnodiBillExpedition137.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-138/165",
+            "name": "Copiona",
+            "number": "138/165",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/CopionaExpedition138.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-139/165",
+            "name": "Palla Doppia",
+            "number": "139/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/PallaDoppiaExpedition139.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-140/165",
+            "name": "Distruzione di Energia 2",
+            "number": "140/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/DistruzionediEnergia2Expedition140.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-141/165",
+            "name": "Ripristina Energia",
+            "number": "141/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/RipristinaEnergiaExpedition141.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-142/165",
+            "name": "L'incitamento di Lory",
+            "number": "142/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/L%27incitamentodiLoryExpedition142.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-143/165",
+            "name": "Master Ball",
+            "number": "143/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MasterBallExpedition143.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-144/165",
+            "name": "Macchinario Multi-tecnico 01",
+            "number": "144/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MacchinarioMulti-tecnico01Expedition144.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-145/165",
+            "name": "Pokémon Infermiera",
+            "number": "145/165",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/Pok%C3%A9monInfermieraExpedition145.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-146/165",
+            "name": "Contropiede Pokémon",
+            "number": "146/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/ContropiedePok%C3%A9monExpedition146.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-147/165",
+            "name": "Carica Energetica",
+            "number": "147/165",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CaricaEnergeticaExpedition147.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-148/165",
+            "name": "Metodo d'addestramento del Professor Elm",
+            "number": "148/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Metodod%27addestramentodelProfessorElmExpedition148.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-149/165",
+            "name": "La ricerca del Professor Oak",
+            "number": "149/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LaricercadelProfessorOakExpedition149.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-150/165",
+            "name": "Frammento della Forza",
+            "number": "150/165",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/FrammentodellaForzaExpedition150.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-151/165",
+            "name": "Super Recupero",
+            "number": "151/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SuperRecuperoExpedition98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-152/165",
+            "name": "Punto di Curvatura",
+            "number": "152/165",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/PuntodiCurvaturaExpedition152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-153/165",
+            "name": "Ricerca di Energia",
+            "number": "153/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/RicercadiEnergiaExpedition153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-154/165",
+            "name": "Recupero Totale",
+            "number": "154/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/RecuperoTotaleExpedition154.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-155/165",
+            "name": "Latte Mumu",
+            "number": "155/165",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/LatteMumuExpedition155.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-156/165",
+            "name": "Pozione Magica",
+            "number": "156/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PozioneMagicaExpedition156.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-157/165",
+            "name": "Scambio",
+            "number": "157/165",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ScambioExpedition157.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-158/165",
+            "name": "Energia Oscurità",
+            "number": "158/165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/EnergiaOscurit%C3%A0Expedition158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-159/165",
+            "name": "Energia Metallo",
+            "number": "159/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/EnergiaMetalloExpedition159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-160/165",
+            "name": "Energia Combattimento",
+            "number": "160/165",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/EnergiaCombattimentoExpedition160.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-161/165",
+            "name": "Energia Fuoco",
+            "number": "161/165",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EnergiaFuocoExpedition161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-162/165",
+            "name": "Energia Erba",
+            "number": "162/165",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaErbaExpedition162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-163/165",
+            "name": "Energia Lampo",
+            "number": "163/165",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/EnergiaLampoExpedition163.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-164/165",
+            "name": "Energia Psiche",
+            "number": "164/165",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaPsicheExpedition164.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EX-165/165",
+            "name": "Energia Acqua",
+            "number": "165/165",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/EnergiaAcquaExpedition165.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

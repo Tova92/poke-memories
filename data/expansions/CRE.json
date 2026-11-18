@@ -1,0 +1,1644 @@
+{
+    "expansion": {
+        "id": "CRE",
+        "name": "Spada e Scudo - Regno Glaciale",
+        "year": 2021,
+        "month": 6,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/90/SimboloSetRegno_Glaciale.png",
+        "cardCount": 233
+    },
+    "cards": [
+        {
+            "id": "CRE-001/198",
+            "name": "Weedle",
+            "number": "001/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/WeedleRegnoGlaciale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-002/198",
+            "name": "Kakuna",
+            "number": "002/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/KakunaRegnoGlaciale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-003/198",
+            "name": "Beedrill",
+            "number": "003/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/BeedrillRegnoGlaciale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-004/198",
+            "name": "Ledyba",
+            "number": "004/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/LedybaRegnoGlaciale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-005/198",
+            "name": "Ledian",
+            "number": "005/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/LedianRegnoGlaciale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-006/198",
+            "name": "Heracross",
+            "number": "006/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/HeracrossRegnoGlaciale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-007/198",
+            "name": "Celebi-V",
+            "number": "007/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/Celebi-VRegnoGlaciale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-008/198",
+            "name": "Celebi-VMAX",
+            "number": "008/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Celebi-VMAXRegnoGlaciale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-009/198",
+            "name": "Snover",
+            "number": "009/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/SnoverRegnoGlaciale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-010/198",
+            "name": "Abomasnow",
+            "number": "010/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/AbomasnowRegnoGlaciale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-011/198",
+            "name": "Deerling",
+            "number": "011/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/DeerlingRegnoGlaciale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-012/198",
+            "name": "Sawsbuck",
+            "number": "012/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/SawsbuckRegnoGlaciale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-013/198",
+            "name": "Bounsweet",
+            "number": "013/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/BounsweetRegnoGlaciale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-014/198",
+            "name": "Steenee",
+            "number": "014/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/SteeneeRegnoGlaciale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-015/198",
+            "name": "Tsareena",
+            "number": "015/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/TsareenaRegnoGlaciale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-016/198",
+            "name": "Grookey",
+            "number": "016/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/GrookeyRegnoGlaciale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-017/198",
+            "name": "Thwackey",
+            "number": "017/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ThwackeyRegnoGlaciale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-018/198",
+            "name": "Rillaboom",
+            "number": "018/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/RillaboomRegnoGlaciale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-019/198",
+            "name": "Zarude",
+            "number": "019/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ZarudeRegnoGlaciale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-020/198",
+            "name": "Blaziken-V",
+            "number": "020/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Blaziken-VRegnoGlaciale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-021/198",
+            "name": "Blaziken-VMAX",
+            "number": "021/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Blaziken-VMAXRegnoGlaciale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-022/198",
+            "name": "Castform Forma Sole",
+            "number": "022/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/CastformFormaSoleRegnoGlaciale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-023/198",
+            "name": "Larvesta",
+            "number": "023/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/LarvestaRegnoGlaciale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-024/198",
+            "name": "Volcarona",
+            "number": "024/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/VolcaronaRegnoGlaciale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-025/198",
+            "name": "Volcanion-V",
+            "number": "025/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Volcanion-VRegnoGlaciale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-026/198",
+            "name": "Scorbunny",
+            "number": "026/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ScorbunnyRegnoGlaciale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-027/198",
+            "name": "Raboot",
+            "number": "027/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/RabootRegnoGlaciale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-028/198",
+            "name": "Cinderace",
+            "number": "028/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/CinderaceRegnoGlaciale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-029/198",
+            "name": "Lapras",
+            "number": "029/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/LaprasRegnoGlaciale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-030/198",
+            "name": "Sneasel",
+            "number": "030/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SneaselRegnoGlaciale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-031/198",
+            "name": "Weavile",
+            "number": "031/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/WeavileRegnoGlaciale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-032/198",
+            "name": "Delibird",
+            "number": "032/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/DelibirdRegnoGlaciale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-033/198",
+            "name": "Castform Forma Pioggia",
+            "number": "033/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/CastformFormaPioggiaRegnoGlaciale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-034/198",
+            "name": "Castform Forma Nuvola di Neve",
+            "number": "034/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/CastformFormaNuvoladiNeveRegnoGlaciale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-035/198",
+            "name": "Snorunt",
+            "number": "035/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/SnoruntRegnoGlaciale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-036/198",
+            "name": "Froslass",
+            "number": "036/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/FroslassRegnoGlaciale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-037/198",
+            "name": "Spheal",
+            "number": "037/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SphealRegnoGlaciale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-038/198",
+            "name": "Sealeo",
+            "number": "038/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/SealeoRegnoGlaciale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-039/198",
+            "name": "Walrein",
+            "number": "039/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/WalreinRegnoGlaciale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-040/198",
+            "name": "Tapu Fini",
+            "number": "040/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/TapuFiniRegnoGlaciale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-041/198",
+            "name": "Sobble",
+            "number": "041/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SobbleRegnoGlaciale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-042/198",
+            "name": "Drizzile",
+            "number": "042/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DrizzileRegnoGlaciale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-043/198",
+            "name": "Inteleon",
+            "number": "043/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/InteleonRegnoGlaciale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-044/198",
+            "name": "Urshifu Pluricolpo",
+            "number": "044/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/UrshifuPluricolpoRegnoGlaciale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-045/198",
+            "name": "Calyrex Cavaliere Glaciale-V",
+            "number": "045/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/CalyrexCavaliereGlaciale-VRegnoGlaciale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-046/198",
+            "name": "Calyrex Cavaliere Glaciale-VMAX",
+            "number": "046/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CalyrexCavaliereGlaciale-VMAXRegnoGlaciale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-047/198",
+            "name": "Mareep",
+            "number": "047/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/MareepRegnoGlaciale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-048/198",
+            "name": "Flaaffy",
+            "number": "048/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/FlaaffyRegnoGlaciale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-049/198",
+            "name": "Ampharos",
+            "number": "049/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/AmpharosRegnoGlaciale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-050/198",
+            "name": "Blitzle",
+            "number": "050/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/BlitzleRegnoGlaciale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-051/198",
+            "name": "Zebstrika",
+            "number": "051/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/ZebstrikaRegnoGlaciale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-052/198",
+            "name": "Thundurus",
+            "number": "052/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ThundurusRegnoGlaciale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-053/198",
+            "name": "Zeraora-V",
+            "number": "053/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/Zeraora-VRegnoGlaciale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-054/198",
+            "name": "Slowpoke di Galar",
+            "number": "054/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/SlowpokediGalarRegnoGlaciale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-055/198",
+            "name": "Gastly",
+            "number": "055/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/GastlyRegnoGlaciale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-056/198",
+            "name": "Haunter",
+            "number": "056/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/HaunterRegnoGlaciale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-057/198",
+            "name": "Gengar",
+            "number": "057/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/GengarRegnoGlaciale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-058/198",
+            "name": "Articuno di Galar-V",
+            "number": "058/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/ArticunodiGalar-VRegnoGlaciale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-059/198",
+            "name": "Ralts",
+            "number": "059/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RaltsRegnoGlaciale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-060/198",
+            "name": "Kirlia",
+            "number": "060/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/KirliaRegnoGlaciale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-061/198",
+            "name": "Gardevoir",
+            "number": "061/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/GardevoirRegnoGlaciale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-062/198",
+            "name": "Shuppet",
+            "number": "062/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ShuppetRegnoGlaciale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-063/198",
+            "name": "Banette",
+            "number": "063/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/BanetteRegnoGlaciale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-064/198",
+            "name": "Cresselia",
+            "number": "064/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CresseliaRegnoGlaciale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-065/198",
+            "name": "Golett",
+            "number": "065/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/GolettRegnoGlaciale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-066/198",
+            "name": "Golurk",
+            "number": "066/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GolurkRegnoGlaciale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-067/198",
+            "name": "Swirlix",
+            "number": "067/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/SwirlixRegnoGlaciale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-068/198",
+            "name": "Slurpuff",
+            "number": "068/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SlurpuffRegnoGlaciale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-069/198",
+            "name": "Inkay",
+            "number": "069/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/InkayRegnoGlaciale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-070/198",
+            "name": "Malamar",
+            "number": "070/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/MalamarRegnoGlaciale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-071/198",
+            "name": "Hatenna",
+            "number": "071/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/HatennaRegnoGlaciale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-072/198",
+            "name": "Hattrem",
+            "number": "072/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/HattremRegnoGlaciale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-073/198",
+            "name": "Hatterene",
+            "number": "073/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/HattereneRegnoGlaciale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-074/198",
+            "name": "Calyrex Cavaliere Spettrale-V",
+            "number": "074/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CalyrexCavaliereSpettrale-VRegnoGlaciale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-075/198",
+            "name": "Calyrex Cavaliere Spettrale-VMAX",
+            "number": "075/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/CalyrexCavaliereSpettrale-VMAXRegnoGlaciale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-076/198",
+            "name": "Diglett",
+            "number": "076/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/DiglettRegnoGlaciale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-077/198",
+            "name": "Dugtrio",
+            "number": "077/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/DugtrioRegnoGlaciale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-078/198",
+            "name": "Farfetch'd di Galar",
+            "number": "078/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/FarfetchddiGalarRegnoGlaciale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-079/198",
+            "name": "Sirfetch'd di Galar",
+            "number": "079/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/SirfetchddiGalarRegnoGlaciale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-080/198",
+            "name": "Zapdos di Galar-V",
+            "number": "080/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ZapdosdiGalar-VRegnoGlaciale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-081/198",
+            "name": "Gallade",
+            "number": "081/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/GalladeRegnoGlaciale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-082/198",
+            "name": "Yamask di Galar",
+            "number": "082/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/YamaskdiGalarRegnoGlaciale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-083/198",
+            "name": "Runerigus di Galar",
+            "number": "083/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/RunerigusdiGalarRegnoGlaciale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-084/198",
+            "name": "Crabrawler",
+            "number": "084/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/CrabrawlerRegnoGlaciale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-085/198",
+            "name": "Crabominable",
+            "number": "085/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/CrabominableRegnoGlaciale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-086/198",
+            "name": "Rockruff",
+            "number": "086/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/RockruffRegnoGlaciale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-087/198",
+            "name": "Lycanroc",
+            "number": "087/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/LycanrocRegnoGlaciale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-088/198",
+            "name": "Passimian",
+            "number": "088/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/PassimianRegnoGlaciale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-089/198",
+            "name": "Sandaconda-V",
+            "number": "089/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Sandaconda-VRegnoGlaciale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-090/198",
+            "name": "Sandaconda-VMAX",
+            "number": "090/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Sandaconda-VMAXRegnoGlaciale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-091/198",
+            "name": "Clobbopus",
+            "number": "091/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ClobbopusRegnoGlaciale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-092/198",
+            "name": "Grapploct",
+            "number": "092/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/GrapploctRegnoGlaciale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-093/198",
+            "name": "Kubfu",
+            "number": "093/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/KubfuRegnoGlaciale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-094/198",
+            "name": "Koffing",
+            "number": "094/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/KoffingRegnoGlaciale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-095/198",
+            "name": "Weezing",
+            "number": "095/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/WeezingRegnoGlaciale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-096/198",
+            "name": "Weezing di Galar",
+            "number": "096/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/WeezingdiGalarRegnoGlaciale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-097/198",
+            "name": "Moltres di Galar-V",
+            "number": "097/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MoltresdiGalar-VRegnoGlaciale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-098/198",
+            "name": "Slowking di Galar",
+            "number": "098/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/SlowkingdiGalarRegnoGlaciale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-099/198",
+            "name": "Slowking di Galar-V",
+            "number": "099/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SlowkingdiGalar-VRegnoGlaciale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-100/198",
+            "name": "Slowking di Galar-VMAX",
+            "number": "100/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SlowkingdiGalar-VMAXRegnoGlaciale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-101/198",
+            "name": "Qwilfish",
+            "number": "101/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/QwilfishRegnoGlaciale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-102/198",
+            "name": "Seviper",
+            "number": "102/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/SeviperRegnoGlaciale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-103/198",
+            "name": "Spiritomb",
+            "number": "103/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/SpiritombRegnoGlaciale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-104/198",
+            "name": "Liepard-V",
+            "number": "104/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/Liepard-VRegnoGlaciale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-105/198",
+            "name": "Venipede",
+            "number": "105/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/VenipedeRegnoGlaciale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-106/198",
+            "name": "Whirlipede",
+            "number": "106/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/WhirlipedeRegnoGlaciale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-107/198",
+            "name": "Scolipede",
+            "number": "107/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/ScolipedeRegnoGlaciale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-108/198",
+            "name": "Urshifu Singolcolpo",
+            "number": "108/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/UrshifuSingolcolpoRegnoGlaciale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-109/198",
+            "name": "Aron",
+            "number": "109/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/AronRegnoGlaciale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-110/198",
+            "name": "Lairon",
+            "number": "110/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/LaironRegnoGlaciale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-111/198",
+            "name": "Aggron",
+            "number": "111/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/AggronRegnoGlaciale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-112/198",
+            "name": "Metagross-V",
+            "number": "112/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Metagross-VRegnoGlaciale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-113/198",
+            "name": "Metagross-VMAX",
+            "number": "113/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Metagross-VMAXRegnoGlaciale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-114/198",
+            "name": "Cobalion",
+            "number": "114/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CobalionRegnoGlaciale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-115/198",
+            "name": "Tauros",
+            "number": "115/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/TaurosRegnoGlaciale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-116/198",
+            "name": "Porygon",
+            "number": "116/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PorygonRegnoGlaciale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-117/198",
+            "name": "Porygon2",
+            "number": "117/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Porygon2RegnoGlaciale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-118/198",
+            "name": "Porygon-Z",
+            "number": "118/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Porygon-ZRegnoGlaciale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-119/198",
+            "name": "Blissey-V",
+            "number": "119/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Blissey-VRegnoGlaciale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-120/198",
+            "name": "Zangoose",
+            "number": "120/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ZangooseRegnoGlaciale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-121/198",
+            "name": "Castform",
+            "number": "121/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/CastformRegnoGlaciale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-122/198",
+            "name": "Kecleon",
+            "number": "122/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/KecleonRegnoGlaciale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-123/198",
+            "name": "Shaymin",
+            "number": "123/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ShayminRegnoGlaciale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-124/198",
+            "name": "Tornadus-V",
+            "number": "124/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Tornadus-VRegnoGlaciale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-125/198",
+            "name": "Tornadus-VMAX",
+            "number": "125/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Tornadus-VMAXRegnoGlaciale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-126/198",
+            "name": "Furfrou",
+            "number": "126/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/FurfrouRegnoGlaciale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-127/198",
+            "name": "Skwovet",
+            "number": "127/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/SkwovetRegnoGlaciale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-128/198",
+            "name": "Greedent",
+            "number": "128/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/GreedentRegnoGlaciale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-129/198",
+            "name": "Agatha",
+            "number": "129/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/AgathaRegnoGlaciale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-130/198",
+            "name": "Savory",
+            "number": "130/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SavoryRegnoGlaciale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-131/198",
+            "name": "Rudi",
+            "number": "131/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/RudiRegnoGlaciale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-132/198",
+            "name": "Catlina",
+            "number": "132/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/CatlinaRegnoGlaciale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-133/198",
+            "name": "Guanti Spaccatutto",
+            "number": "133/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/GuantiSpaccatuttoRegnoGlaciale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-134/198",
+            "name": "Medico",
+            "number": "134/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/MedicoRegnoGlaciale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-135/198",
+            "name": "Collina Dynalbero",
+            "number": "135/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/CollinaDynalberoRegnoGlaciale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-136/198",
+            "name": "Corno Echeggiante",
+            "number": "136/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/CornoEcheggianteRegnoGlaciale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-137/198",
+            "name": "Completo da esplorazione",
+            "number": "137/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/CompletodaesplorazioneRegnoGlaciale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-138/198",
+            "name": "Guanti Ignifughi",
+            "number": "138/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/GuantiIgnifughiRegnoGlaciale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-139/198",
+            "name": "Fiammetta",
+            "number": "139/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FiammettaRegnoGlaciale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-140/198",
+            "name": "Cristallo di Bruma",
+            "number": "140/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/CristallodiBrumaRegnoGlaciale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-141/198",
+            "name": "Pettorale di Galar",
+            "number": "141/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/PettoralediGalarRegnoGlaciale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-142/198",
+            "name": "Tania",
+            "number": "142/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/TaniaRegnoGlaciale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-143/198",
+            "name": "Guanti della Giustizia",
+            "number": "143/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/GuantidellaGiustiziaRegnoGlaciale143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-144/198",
+            "name": "Fermezza di Karen",
+            "number": "144/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/FermezzadiKarenRegnoGlaciale144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-145/198",
+            "name": "Sofora",
+            "number": "145/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/SoforaRegnoGlaciale145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-146/198",
+            "name": "Melania",
+            "number": "146/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/MelaniaRegnoGlaciale146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-147/198",
+            "name": "Cimitero Antico",
+            "number": "147/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/CimiteroAnticoRegnoGlaciale147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-148/198",
+            "name": "Sentiero Biancacima",
+            "number": "148/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SentieroBiancacimaRegnoGlaciale148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-149/198",
+            "name": "Nia",
+            "number": "149/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/NiaRegnoGlaciale149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-150/198",
+            "name": "Peony",
+            "number": "150/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/PeonyRegnoGlaciale150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-151/198",
+            "name": "Rotolo dei Cieli Colpo Rapido",
+            "number": "151/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/RotolodeiCieliColpoRapidoRegnoGlaciale151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-152/198",
+            "name": "Robustelmo",
+            "number": "152/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/RobustelmoRegnoGlaciale152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-153/198",
+            "name": "Narciso",
+            "number": "153/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/NarcisoRegnoGlaciale153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-154/198",
+            "name": "Rotolo della Perforazione Colpo Singolo",
+            "number": "154/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RotolodellaPerforazioneColpoSingoloRegnoGlaciale154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-155/198",
+            "name": "Guanti da Giardinaggio",
+            "number": "155/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/GuantidaGiardinaggioRegnoGlaciale155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-156/198",
+            "name": "Lanterna di Benvenuto",
+            "number": "156/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/LanternadiBenvenutoRegnoGlaciale156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-157/198",
+            "name": "Energia Impatto",
+            "number": "157/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/EnergiaImpattoRegnoGlaciale157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-158/198",
+            "name": "Energia Fortuna",
+            "number": "158/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/EnergiaFortunaRegnoGlaciale158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-159/198",
+            "name": "Energia Spirale",
+            "number": "159/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/EnergiaSpiraleRegnoGlaciale159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-160/198",
+            "name": "Celebi-V",
+            "number": "160/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Celebi-VRegnoGlaciale160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-161/198",
+            "name": "Blaziken-V",
+            "number": "161/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/Blaziken-VRegnoGlaciale161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-162/198",
+            "name": "Volcanion-V",
+            "number": "162/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Volcanion-VRegnoGlaciale162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-163/198",
+            "name": "Calyrex Cavaliere Glaciale-V",
+            "number": "163/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/CalyrexCavaliereGlaciale-VRegnoGlaciale163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-164/198",
+            "name": "Calyrex Cavaliere Glaciale-V",
+            "number": "164/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CalyrexCavaliereGlaciale-VRegnoGlaciale164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-165/198",
+            "name": "Zeraora-V",
+            "number": "165/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Zeraora-VRegnoGlaciale165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-166/198",
+            "name": "Zeraora-V",
+            "number": "166/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Zeraora-VRegnoGlaciale166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-167/198",
+            "name": "Rapidash di Galar-V",
+            "number": "167/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/RapidashdiGalar-VRegnoGlaciale167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-168/198",
+            "name": "Rapidash di Galar-V",
+            "number": "168/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/RapidashdiGalar-VRegnoGlaciale168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-169/198",
+            "name": "Articuno di Galar-V",
+            "number": "169/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ArticunodiGalar-VRegnoGlaciale169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-170/198",
+            "name": "Articuno di Galar-V",
+            "number": "170/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/ArticunodiGalar-VRegnoGlaciale170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-171/198",
+            "name": "Calyrex Cavaliere Spettrale-V",
+            "number": "171/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/CalyrexCavaliereSpettrale-VRegnoGlaciale171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-172/198",
+            "name": "Calyrex Cavaliere Spettrale-V",
+            "number": "172/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CalyrexCavaliereSpettrale-VRegnoGlaciale172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-173/198",
+            "name": "Zapdos di Galar-V",
+            "number": "173/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ZapdosdiGalar-VRegnoGlaciale173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-174/198",
+            "name": "Zapdos di Galar-V",
+            "number": "174/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/ZapdosdiGalar-VRegnoGlaciale174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-175/198",
+            "name": "Sandaconda-V",
+            "number": "175/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Sandaconda-VRegnoGlaciale175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-176/198",
+            "name": "Moltres di Galar-V",
+            "number": "176/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MoltresdiGalar-VRegnoGlaciale176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-177/198",
+            "name": "Moltres di Galar-V",
+            "number": "177/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MoltresdiGalar-VRegnoGlaciale177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-178/198",
+            "name": "Slowking di Galar-V",
+            "number": "178/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SlowkingdiGalar-VRegnoGlaciale178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-179/198",
+            "name": "Slowking di Galar-V",
+            "number": "179/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/SlowkingdiGalar-VRegnoGlaciale179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-180/198",
+            "name": "Liepard-V",
+            "number": "180/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Liepard-VRegnoGlaciale180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-181/198",
+            "name": "Metagross-V",
+            "number": "181/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Metagross-VRegnoGlaciale181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-182/198",
+            "name": "Blissey-V",
+            "number": "182/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Blissey-VRegnoGlaciale182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-183/198",
+            "name": "Blissey-V",
+            "number": "183/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Blissey-VRegnoGlaciale183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-184/198",
+            "name": "Tornadus-V",
+            "number": "184/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Tornadus-VRegnoGlaciale184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-185/198",
+            "name": "Tornadus-V",
+            "number": "185/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Tornadus-VRegnoGlaciale185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-186/198",
+            "name": "Agatha",
+            "number": "186/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/AgathaRegnoGlaciale186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-187/198",
+            "name": "Savory",
+            "number": "187/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/SavoryRegnoGlaciale187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-188/198",
+            "name": "Rudi",
+            "number": "188/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/RudiRegnoGlaciale188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-189/198",
+            "name": "Catlina",
+            "number": "189/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/CatlinaRegnoGlaciale189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-190/198",
+            "name": "Medico",
+            "number": "190/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/MedicoRegnoGlaciale190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-191/198",
+            "name": "Fiammetta",
+            "number": "191/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/FiammettaRegnoGlaciale191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-192/198",
+            "name": "Tania",
+            "number": "192/198",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/TaniaRegnoGlaciale192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-193/198",
+            "name": "Fermezza di Karen",
+            "number": "193/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/FermezzadiKarenRegnoGlaciale193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-194/198",
+            "name": "Sofora",
+            "number": "194/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SoforaRegnoGlaciale194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-195/198",
+            "name": "Melania",
+            "number": "195/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/MelaniaRegnoGlaciale195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-196/198",
+            "name": "Nia",
+            "number": "196/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/NiaRegnoGlaciale196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-197/198",
+            "name": "Peony",
+            "number": "197/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/PeonyRegnoGlaciale197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-198/198",
+            "name": "Narciso",
+            "number": "198/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/NarcisoRegnoGlaciale198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRE-199/198",
+            "name": "Celebi-VMAX",
+            "number": "199/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Celebi-VMAXRegnoGlaciale199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-200/198",
+            "name": "Blaziken-VMAX",
+            "number": "200/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Blaziken-VMAXRegnoGlaciale200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-201/198",
+            "name": "Blaziken-VMAX",
+            "number": "201/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Blaziken-VMAXRegnoGlaciale201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-202/198",
+            "name": "Calyrex Cavaliere Glaciale-VMAX",
+            "number": "202/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/CalyrexCavaliereGlaciale-VMAXRegnoGlaciale202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-203/198",
+            "name": "Calyrex Cavaliere Glaciale-VMAX",
+            "number": "203/198",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/CalyrexCavaliereGlaciale-VMAXRegnoGlaciale203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-204/198",
+            "name": "Calyrex Cavaliere Spettrale-VMAX",
+            "number": "204/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CalyrexCavaliereSpettrale-VMAXRegnoGlaciale204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-205/198",
+            "name": "Calyrex Cavaliere Spettrale-VMAX",
+            "number": "205/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/CalyrexCavaliereSpettrale-VMAXRegnoGlaciale205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-206/198",
+            "name": "Sandaconda-VMAX",
+            "number": "206/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/Sandaconda-VMAXRegnoGlaciale206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-207/198",
+            "name": "Slowking di Galar-VMAX",
+            "number": "207/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SlowkingdiGalar-VMAXRegnoGlaciale207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-208/198",
+            "name": "Metagross-VMAX",
+            "number": "208/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Metagross-VMAXRegnoGlaciale208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-209/198",
+            "name": "Tornadus-VMAX",
+            "number": "209/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Tornadus-VMAXRegnoGlaciale209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-210/198",
+            "name": "Agatha",
+            "number": "210/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/AgathaRegnoGlaciale210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-211/198",
+            "name": "Savory",
+            "number": "211/198",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/SavoryRegnoGlaciale211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-212/198",
+            "name": "Rudi",
+            "number": "212/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/RudiRegnoGlaciale212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-213/198",
+            "name": "Catlina",
+            "number": "213/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/CatlinaRegnoGlaciale213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-214/198",
+            "name": "Medico",
+            "number": "214/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MedicoRegnoGlaciale214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-215/198",
+            "name": "Fiammetta",
+            "number": "215/198",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/FiammettaRegnoGlaciale215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-216/198",
+            "name": "Fermezza di Karen",
+            "number": "216/198",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/FermezzadiKarenRegnoGlaciale216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-217/198",
+            "name": "Sofora",
+            "number": "217/198",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SoforaRegnoGlaciale217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-218/198",
+            "name": "Melania",
+            "number": "218/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MelaniaRegnoGlaciale218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-219/198",
+            "name": "Nia",
+            "number": "219/198",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/NiaRegnoGlaciale219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-220/198",
+            "name": "Peony",
+            "number": "220/198",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PeonyRegnoGlaciale220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-221/198",
+            "name": "Narciso",
+            "number": "221/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/NarcisoRegnoGlaciale221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-222/198",
+            "name": "Electrode",
+            "number": "222/198",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/ElectrodeRegnoGlaciale222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-223/198",
+            "name": "Bronzong",
+            "number": "223/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/BronzongRegnoGlaciale223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-224/198",
+            "name": "Snorlax",
+            "number": "224/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SnorlaxRegnoGlaciale224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-225/198",
+            "name": "Corno Echeggiante",
+            "number": "225/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/CornoEcheggianteRegnoGlaciale225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-226/198",
+            "name": "Ventaglio delle Onde",
+            "number": "226/198",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/VentagliodelleOndeRegnoGlaciale226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-227/198",
+            "name": "Cristallo di Bruma",
+            "number": "227/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CristallodiBrumaRegnoGlaciale227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-228/198",
+            "name": "Robustelmo",
+            "number": "228/198",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/RobustelmoRegnoGlaciale228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-229/198",
+            "name": "Urna del Vigore",
+            "number": "229/198",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/UrnadelVigoreRegnoGlaciale229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-230/198",
+            "name": "Lanterna di Benvenuto",
+            "number": "230/198",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LanternadiBenvenutoRegnoGlaciale230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-231/198",
+            "name": "Energia Acqua",
+            "number": "231/198",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/EnergiaAcquaRegnoGlaciale231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-232/198",
+            "name": "Energia Psico",
+            "number": "232/198",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/EnergiaPsicoRegnoGlaciale232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRE-233/198",
+            "name": "Energia Lotta",
+            "number": "233/198",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaLottaRegnoGlaciale233.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

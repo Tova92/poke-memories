@@ -1,0 +1,790 @@
+{
+    "expansion": {
+        "id": "AR",
+        "name": "Platino - Arceus",
+				"year": 2009,
+				"month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetArceus.png",
+        "cardCount": 111
+    },
+    "cards": [
+        {
+            "id": "AR-1/99",
+            "name": "Charizard",
+            "number": "1/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/CharizardArceus1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-2/99",
+            "name": "Froslass",
+            "number": "2/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/FroslassArceus2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-3/99",
+            "name": "Heatran",
+            "number": "3/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/HeatranArceus3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-4/99",
+            "name": "Kabutops",
+            "number": "4/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/KabutopsArceus4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-5/99",
+            "name": "Luxray",
+            "number": "5/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/LuxrayArceus5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-6/99",
+            "name": "Mothim",
+            "number": "6/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/MothimArceus6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-7/99",
+            "name": "Probopass",
+            "number": "7/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/ProbopassArceus7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-8/99",
+            "name": "Salamence",
+            "number": "8/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/SalamenceArceus8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-9/99",
+            "name": "Swalot",
+            "number": "9/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/SwalotArceus9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-10/99",
+            "name": "Tangrowth",
+            "number": "10/99",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/TangrowthArceus10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-11/99",
+            "name": "Toxicroak",
+            "number": "11/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ToxicroakArceus11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-12/99",
+            "name": "Zapdos G",
+            "number": "12/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ZapdosGArceus12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-13/99",
+            "name": "Aerodactyl",
+            "number": "13/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/AerodactylArceus13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-14/99",
+            "name": "Bronzong",
+            "number": "14/99",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/BronzongArceus14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-15/99",
+            "name": "Cherrim",
+            "number": "15/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/CherrimArceus15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-16/99",
+            "name": "Gengar",
+            "number": "16/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GengarArceus16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-17/99",
+            "name": "Gengar",
+            "number": "17/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/GengarArceus17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-18/99",
+            "name": "Glalie",
+            "number": "18/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/GlalieArceus18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-19/99",
+            "name": "Golem",
+            "number": "19/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/GolemArceus19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-20/99",
+            "name": "Hariyama",
+            "number": "20/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/HariyamaArceus20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-21/99",
+            "name": "Lopunny",
+            "number": "21/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/LopunnyArceus21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-22/99",
+            "name": "Manectric",
+            "number": "22/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/ManectricArceus22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-23/99",
+            "name": "Omastar",
+            "number": "23/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/OmastarArceus23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-24/99",
+            "name": "Pelipper",
+            "number": "24/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PelipperArceus24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-25/99",
+            "name": "Pichu",
+            "number": "25/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/PichuArceus25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-26/99",
+            "name": "Porygon-Z G",
+            "number": "26/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Porygon-ZGArceus26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-27/99",
+            "name": "Raichu",
+            "number": "27/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/RaichuArceus27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-28/99",
+            "name": "Rapidash",
+            "number": "28/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/RapidashArceus28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-29/99",
+            "name": "Raticate",
+            "number": "29/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/RaticateArceus29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-30/99",
+            "name": "Sceptile",
+            "number": "30/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SceptileArceus30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-31/99",
+            "name": "Sceptile",
+            "number": "31/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SceptileArceus31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-32/99",
+            "name": "Spiritomb",
+            "number": "32/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/SpiritombArceus32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-33/99",
+            "name": "Bronzong",
+            "number": "33/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/BronzongArceus33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-34/99",
+            "name": "Bronzor",
+            "number": "34/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/BronzorArceus34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-35/99",
+            "name": "Charmeleon",
+            "number": "35/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/CharmeleonArceus35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-36/99",
+            "name": "Gastly",
+            "number": "36/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/GastlyArceus36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-37/99",
+            "name": "Graveler",
+            "number": "37/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/GravelerArceus37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-38/99",
+            "name": "Grovyle",
+            "number": "38/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/GrovyleArceus38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-39/99",
+            "name": "Grovyle",
+            "number": "39/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/GrovyleArceus39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-40/99",
+            "name": "Gulpin",
+            "number": "40/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/GulpinArceus40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-41/99",
+            "name": "Haunter",
+            "number": "41/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/HaunterArceus41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-42/99",
+            "name": "Haunter",
+            "number": "42/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/HaunterArceus42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-43/99",
+            "name": "Luxio",
+            "number": "43/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/LuxioArceus43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-44/99",
+            "name": "Manectric",
+            "number": "44/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/ManectricArceus44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-45/99",
+            "name": "Pelipper",
+            "number": "45/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/PelipperArceus45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-46/99",
+            "name": "Ponyta",
+            "number": "46/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/PonytaArceus46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-47/99",
+            "name": "Rapidash",
+            "number": "47/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/RapidashArceus47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-48/99",
+            "name": "Shelgon",
+            "number": "48/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/ShelgonArceus48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-49/99",
+            "name": "Wormadam Manto Pianta",
+            "number": "49/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/WormadamArceus49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-50/99",
+            "name": "Wormadam Manto Sabbia",
+            "number": "50/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/WormadamArceus50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-51/99",
+            "name": "Wormadam Manto Scarti",
+            "number": "51/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/WormadamArceus51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-52/99",
+            "name": "Bagon",
+            "number": "52/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/BagonArceus52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-53/99",
+            "name": "Beedrill G",
+            "number": "53/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/BeedrillGArceus53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-54/99",
+            "name": "Bronzor",
+            "number": "54/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/BronzorArceus54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-55/99",
+            "name": "Buneary",
+            "number": "55/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/BunearyArceus55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-56/99",
+            "name": "Burmy Manto Pianta",
+            "number": "56/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/BurmyArceus56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-57/99",
+            "name": "Burmy Manto Sabbia",
+            "number": "57/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/BurmyArceus57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-58/99",
+            "name": "Burmy Manto Scarti",
+            "number": "58/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/BurmyArceus58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-59/99",
+            "name": "Charmander",
+            "number": "59/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/CharmanderArceus59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-60/99",
+            "name": "Cherubi",
+            "number": "60/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/CherubiArceus60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-61/99",
+            "name": "Croagunk",
+            "number": "61/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/CroagunkArceus61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-62/99",
+            "name": "Electrike",
+            "number": "62/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/ElectrikeArceus62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-63/99",
+            "name": "Electrike",
+            "number": "63/99",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ElectrikeArceus63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-64/99",
+            "name": "Gastly",
+            "number": "64/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/GastlyArceus64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-65/99",
+            "name": "Geodude",
+            "number": "65/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/GeodudeArceus65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-66/99",
+            "name": "Gulpin",
+            "number": "66/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/GulpinArceus66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-67/99",
+            "name": "Kabuto",
+            "number": "67/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/KabutoArceus67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-68/99",
+            "name": "Makuhita",
+            "number": "68/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MakuhitaArceus68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-69/99",
+            "name": "Nosepass",
+            "number": "69/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/NosepassArceus69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-70/99",
+            "name": "Omanyte",
+            "number": "70/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/OmanyteArceus70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-71/99",
+            "name": "Pikachu",
+            "number": "71/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/PikachuArceus71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-72/99",
+            "name": "Ponyta",
+            "number": "72/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/PonytaArceus72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-73/99",
+            "name": "Rattata",
+            "number": "73/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/RattataArceus73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-74/99",
+            "name": "Shinx",
+            "number": "74/99",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ShinxArceus74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-75/99",
+            "name": "Snorunt",
+            "number": "75/99",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/SnoruntArceus75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-76/99",
+            "name": "Tangela",
+            "number": "76/99",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/TangelaArceus76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-77/99",
+            "name": "Tangela",
+            "number": "77/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/TangelaArceus77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-78/99",
+            "name": "Treecko",
+            "number": "78/99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/TreeckoArceus78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-79/99",
+            "name": "Treecko",
+            "number": "79/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/TreeckoArceus79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-80/99",
+            "name": "Wingull",
+            "number": "80/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/WingullArceus80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-81/99",
+            "name": "Wingull",
+            "number": "81/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/WingullArceus81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-82/99",
+            "name": "Portale d'Inizio",
+            "number": "82/99",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/PortaledInizioArceus82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-83/99",
+            "name": "Scudo Panchina",
+            "number": "83/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ScudoPanchinaArceus83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-84/99",
+            "name": "Paracolpi",
+            "number": "84/99",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ParacolpiArceus84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-85/99",
+            "name": "Ragazza del Centro Commerciale",
+            "number": "85/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/RagazzadelCentroCommercialeArceus85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-86/99",
+            "name": "Ripristina Energia",
+            "number": "86/99",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/RipristinaEnergiaArceus86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-87/99",
+            "name": "Abilcintura",
+            "number": "87/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/AbilcinturaArceus87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-88/99",
+            "name": "Fortunuovo",
+            "number": "88/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/FortunuovoArceus88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-89/99",
+            "name": "Ambra Antica",
+            "number": "89/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/AmbraAnticaArceus89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-90/99",
+            "name": "Visita del Professor Oak",
+            "number": "90/99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/VisitadelProfessorOakArceus90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-91/99",
+            "name": "Area Finale",
+            "number": "91/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/AreaFinaleArceus91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-92/99",
+            "name": "Domofossile",
+            "number": "92/99",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DomofossileArceus92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-93/99",
+            "name": "Helixfossile",
+            "number": "93/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/HelixfossileArceus93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-94/99",
+            "name": "Arceus LIV.X",
+            "number": "94/99",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/ArceusLIVXArceus94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-95/99",
+            "name": "Arceus LIV.X",
+            "number": "95/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ArceusLIVXArceus95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-96/99",
+            "name": "Arceus LIV.X",
+            "number": "96/99",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/ArceusLIVXArceus96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-97/99",
+            "name": "Gengar LIV.X",
+            "number": "97/99",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GengarLIVXArceus97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-98/99",
+            "name": "Salamence LIV.X",
+            "number": "98/99",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SalamenceLIVXArceus98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-99/99",
+            "name": "Tangrowth LIV.X",
+            "number": "99/99",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/TangrowthLIVXArceus99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AR-SH10",
+            "name": "Bagon",
+            "number": "SH10",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/BagonArceusSH10.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "AR-SH11",
+            "name": "Ponyta",
+            "number": "SH11",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PonytaArceusSH11.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "AR-SH12",
+            "name": "Shinx",
+            "number": "SH12",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ShinxArceusSH12.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "AR-AR1",
+            "name": "Arceus",
+            "number": "AR1",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/ArceusArceusAR1.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR2",
+            "name": "Arceus",
+            "number": "AR2",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ArceusArceusAR2.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR3",
+            "name": "Arceus",
+            "number": "AR3",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/ArceusArceusAR3.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR4",
+            "name": "Arceus",
+            "number": "AR4",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/ArceusArceusAR4.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR5",
+            "name": "Arceus",
+            "number": "AR5",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ArceusArceusAR5.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR6",
+            "name": "Arceus",
+            "number": "AR6",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ArceusArceusAR6.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR7",
+            "name": "Arceus",
+            "number": "AR7",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ArceusArceusAR7.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR8",
+            "name": "Arceus",
+            "number": "AR8",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/ArceusArceusAR8.png",
+            "section": "Arceus"
+        },
+        {
+            "id": "AR-AR9",
+            "name": "Arceus",
+            "number": "AR9",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/ArceusArceusAR9.png",
+            "section": "Arceus"
+        }
+    ]
+}

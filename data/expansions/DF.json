@@ -1,0 +1,720 @@
+{
+    "expansion": {
+        "id": "DF",
+        "name": "EX L'Isola dei Draghi",
+				"year": 2006,
+				"month": 11,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetEX_L%27Isola_dei_Draghi.png",
+        "cardCount": 101
+    },
+    "cards": [
+        {
+            "id": "DF-1/101",
+            "name": "Ampharos δ",
+            "number": "1/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/AmpharosEXL%27IsoladeiDraghi1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-2/101",
+            "name": "Feraligatr δ",
+            "number": "2/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/FeraligatrEXL%27IsoladeiDraghi2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-3/101",
+            "name": "Heracross δ",
+            "number": "3/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/HeracrossEXL%27IsoladeiDraghi3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-4/101",
+            "name": "Meganium δ",
+            "number": "4/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/MeganiumEXL%27IsoladeiDraghi4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-5/101",
+            "name": "Milotic δ",
+            "number": "5/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MiloticEXL%27IsoladeiDraghi5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-6/101",
+            "name": "Nidoking δ",
+            "number": "6/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/NidokingEXL%27IsoladeiDraghi6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-7/101",
+            "name": "Nidoqueen δ",
+            "number": "7/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/NidoqueenEXL%27IsoladeiDraghi7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-8/101",
+            "name": "Ninetales δ",
+            "number": "8/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/NinetalesEXL%27IsoladeiDraghi8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-9/101",
+            "name": "Pinsir δ",
+            "number": "9/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PinsirEXL%27IsoladeiDraghi9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-10/101",
+            "name": "Snorlax δ",
+            "number": "10/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/SnorlaxEXL%27IsoladeiDraghi10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-11/101",
+            "name": "Togetic δ",
+            "number": "11/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/TogeticEXL%27IsoladeiDraghi11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-12/101",
+            "name": "Typhlosion δ",
+            "number": "12/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/TyphlosionEXL%27IsoladeiDraghi12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-13/101",
+            "name": "Arbok δ",
+            "number": "13/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ArbokEXL%27IsoladeiDraghi13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-14/101",
+            "name": "Cloyster δ",
+            "number": "14/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/CloysterEXL%27IsoladeiDraghi14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-15/101",
+            "name": "Dewgong δ",
+            "number": "15/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/DewgongEXL%27IsoladeiDraghi15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-16/101",
+            "name": "Gligar δ",
+            "number": "16/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GligarEXL%27IsoladeiDraghi16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-17/101",
+            "name": "Jynx δ",
+            "number": "17/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/JynxEXL%27IsoladeiDraghi17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-18/101",
+            "name": "Ledian δ",
+            "number": "18/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LedianEXL%27IsoladeiDraghi18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-19/101",
+            "name": "Lickitung δ",
+            "number": "19/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/LickitungEXL%27IsoladeiDraghi19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-20/101",
+            "name": "Mantine δ",
+            "number": "20/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MantineEXL%27IsoladeiDraghi20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-21/101",
+            "name": "Quagsire δ",
+            "number": "21/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/QuagsireEXL%27IsoladeiDraghi21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-22/101",
+            "name": "Seadra δ",
+            "number": "22/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SeadraEXL%27IsoladeiDraghi22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-23/101",
+            "name": "Tropius δ",
+            "number": "23/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/TropiusEXL%27IsoladeiDraghi23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-24/101",
+            "name": "Vibrava δ",
+            "number": "24/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/VibravaEXL%27IsoladeiDraghi24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-25/101",
+            "name": "Xatu δ",
+            "number": "25/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/XatuEXL%27IsoladeiDraghi25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-26/101",
+            "name": "Bayleef δ",
+            "number": "26/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/BayleefEXL%27IsoladeiDraghi26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-27/101",
+            "name": "Croconaw δ",
+            "number": "27/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/CroconawEXL%27IsoladeiDraghi27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-28/101",
+            "name": "Dragonair δ",
+            "number": "28/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/DragonairEXL%27IsoladeiDraghi28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-29/101",
+            "name": "Electabuzz δ",
+            "number": "29/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ElectabuzzEXL%27IsoladeiDraghi29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-30/101",
+            "name": "Flaaffy δ",
+            "number": "30/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/FlaaffyEXL%27IsoladeiDraghi30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-31/101",
+            "name": "Horsea δ",
+            "number": "31/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/HorseaEXL%27IsoladeiDraghi31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-32/101",
+            "name": "Kirlia",
+            "number": "32/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/KirliaEXL%27IsoladeiDraghi32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-33/101",
+            "name": "Kirlia δ",
+            "number": "33/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/KirliaEXL%27IsoladeiDraghi33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-34/101",
+            "name": "Nidorina δ",
+            "number": "34/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/NidorinaEXL%27IsoladeiDraghi34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-35/101",
+            "name": "Nidorino δ",
+            "number": "35/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/NidorinoEXL%27IsoladeiDraghi35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-36/101",
+            "name": "Quilava δ",
+            "number": "36/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/QuilavaEXL%27IsoladeiDraghi36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-37/101",
+            "name": "Seadra δ",
+            "number": "37/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/SeadraEXL%27IsoladeiDraghi37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-38/101",
+            "name": "Shelgon δ",
+            "number": "38/101",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ShelgonEXL%27IsoladeiDraghi38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-39/101",
+            "name": "Smeargle δ",
+            "number": "39/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/SmeargleEXL%27IsoladeiDraghi39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-40/101",
+            "name": "Swellow δ",
+            "number": "40/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SwellowEXL%27IsoladeiDraghi40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-41/101",
+            "name": "Togepi δ",
+            "number": "41/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/TogepiEXL%27IsoladeiDraghi41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-42/101",
+            "name": "Vibrava δ",
+            "number": "42/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/VibravaEXL%27IsoladeiDraghi42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-43/101",
+            "name": "Bagon δ",
+            "number": "43/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/BagonEXL%27IsoladeiDraghi43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-44/101",
+            "name": "Chikorita δ",
+            "number": "44/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ChikoritaEXL%27IsoladeiDraghi44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-45/101",
+            "name": "Cyndaquil δ",
+            "number": "45/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CyndaquilEXL%27IsoladeiDraghi45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-46/101",
+            "name": "Dratini δ",
+            "number": "46/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/DratiniEXL%27IsoladeiDraghi46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-47/101",
+            "name": "Ekans δ",
+            "number": "47/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/EkansEXL%27IsoladeiDraghi47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-48/101",
+            "name": "Elekid δ",
+            "number": "48/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ElekidEXL%27IsoladeiDraghi48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-49/101",
+            "name": "Feebas δ",
+            "number": "49/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/FeebasEXL%27IsoladeiDraghi49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-50/101",
+            "name": "Horsea δ",
+            "number": "50/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/HorseaEXL%27IsoladeiDraghi50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-51/101",
+            "name": "Larvitar",
+            "number": "51/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/LarvitarEXL%27IsoladeiDraghi51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-52/101",
+            "name": "Larvitar δ",
+            "number": "52/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/LarvitarEXL%27IsoladeiDraghi52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-53/101",
+            "name": "Ledyba δ",
+            "number": "53/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/LedybaEXL%27IsoladeiDraghi53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-54/101",
+            "name": "Mareep δ",
+            "number": "54/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MareepEXL%27IsoladeiDraghi54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-55/101",
+            "name": "Natu δ",
+            "number": "55/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/NatuEXL%27IsoladeiDraghi55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-56/101",
+            "name": "Nidoran♀ δ",
+            "number": "56/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/NidoranEXL%27IsoladeiDraghi56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-57/101",
+            "name": "Nidoran♂ δ",
+            "number": "57/101",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/NidoranEXL%27IsoladeiDraghi57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-58/101",
+            "name": "Pupitar",
+            "number": "58/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PupitarEXL%27IsoladeiDraghi58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-59/101",
+            "name": "Pupitar δ",
+            "number": "59/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/PupitarEXL%27IsoladeiDraghi59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-60/101",
+            "name": "Ralts",
+            "number": "60/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/RaltsEXL%27IsoladeiDraghi60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-61/101",
+            "name": "Ralts δ",
+            "number": "61/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RaltsEXL%27IsoladeiDraghi61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-62/101",
+            "name": "Seel δ",
+            "number": "62/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SeelEXL%27IsoladeiDraghi62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-63/101",
+            "name": "Shellder δ",
+            "number": "63/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/ShellderEXL%27IsoladeiDraghi63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-64/101",
+            "name": "Smoochum δ",
+            "number": "64/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SmoochumEXL%27IsoladeiDraghi64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-65/101",
+            "name": "Swablu δ",
+            "number": "65/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/SwabluEXL%27IsoladeiDraghi65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-66/101",
+            "name": "Taillow δ",
+            "number": "66/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/TaillowEXL%27IsoladeiDraghi66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-67/101",
+            "name": "Totodile δ",
+            "number": "67/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/TotodileEXL%27IsoladeiDraghi67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-68/101",
+            "name": "Trapinch δ",
+            "number": "68/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/TrapinchEXL%27IsoladeiDraghi68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-69/101",
+            "name": "Trapinch δ",
+            "number": "69/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/TrapinchEXL%27IsoladeiDraghi69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-70/101",
+            "name": "Vulpix δ",
+            "number": "70/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/VulpixEXL%27IsoladeiDraghi70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-71/101",
+            "name": "Wooper δ",
+            "number": "71/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/WooperEXL%27IsoladeiDraghi71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-72/101",
+            "name": "Paracolpi",
+            "number": "72/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/ParacolpiEXL%27IsoladeiDraghi72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-73/101",
+            "name": "Copiona",
+            "number": "73/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CopionaEXL%27IsoladeiDraghi73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-74/101",
+            "name": "Lascito di Holon",
+            "number": "74/101",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LascitodiHolonEXL%27IsoladeiDraghi74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-75/101",
+            "name": "Mentore di Holon",
+            "number": "75/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/MentorediHolonEXL%27IsoladeiDraghi75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-76/101",
+            "name": "Eremita dell'Isola",
+            "number": "76/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/EremitadellIsolaEXL%27IsoladeiDraghi76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-77/101",
+            "name": "Progetto del Sig. Petri",
+            "number": "77/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ProgettodelSigPetriEXL%27IsoladeiDraghi77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-78/101",
+            "name": "Amo Vecchio",
+            "number": "78/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/AmoVecchioEXL%27IsoladeiDraghi78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-79/101",
+            "name": "Sistema d'Allenamento del Prof. Elm",
+            "number": "79/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SistemadAllenamentodelProfElmEXL%27IsoladeiDraghi79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-80/101",
+            "name": "La Ricerca del Professor Oak",
+            "number": "80/101",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/LaRicercadelProfessorOakEXL%27IsoladeiDraghi80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-81/101",
+            "name": "Malia della Forza",
+            "number": "81/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/MaliadellaForzaEXL%27IsoladeiDraghi81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-82/101",
+            "name": "Reporter Televisivo",
+            "number": "82/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/ReporterTelevisivoEXL%27IsoladeiDraghi82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-83/101",
+            "name": "Scambio",
+            "number": "83/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/ScambioEXL%27IsoladeiDraghi83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-84/101",
+            "name": "Energia Holon FL",
+            "number": "84/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/EnergiaHolonFLEXL%27IsoladeiDraghi84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-85/101",
+            "name": "Energia Holon EL",
+            "number": "85/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/EnergiaHolonELEXL%27IsoladeiDraghi85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-86/101",
+            "name": "Energia Holon AP",
+            "number": "86/101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/EnergiaHolonAPEXL%27IsoladeiDraghi86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-87/101",
+            "name": "Energia Extra",
+            "number": "87/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/EnergiaExtraEXL%27IsoladeiDraghi87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-88/101",
+            "name": "Energia Arcobaleno δ",
+            "number": "88/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/EnergiaArcobaleno%CE%B4EXL%27IsoladeiDraghi88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-89/101",
+            "name": "Energia Caotica",
+            "number": "89/101",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/EnergiaCaoticaEXL%27IsoladeiDraghi89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-90/101",
+            "name": "Altaria ex δ",
+            "number": "90/101",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/AltariaexEXL%27IsoladeiDraghi90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-91/101",
+            "name": "Dragonite ex δ",
+            "number": "91/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/DragoniteexEXL%27IsoladeiDraghi91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-92/101",
+            "name": "Flygon ex δ",
+            "number": "92/101",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/FlygonexEXL%27IsoladeiDraghi92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-93/101",
+            "name": "Gardevoir ex δ",
+            "number": "93/101",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/GardevoirexEXL%27IsoladeiDraghi93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-94/101",
+            "name": "Kingdra ex δ",
+            "number": "94/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/KingdraexEXL%27IsoladeiDraghi94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-95/101",
+            "name": "Latias ex δ",
+            "number": "95/101",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/LatiasexEXL%27IsoladeiDraghi95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-96/101",
+            "name": "Latios ex δ",
+            "number": "96/101",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/LatiosexEXL%27IsoladeiDraghi96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-97/101",
+            "name": "Rayquaza ex δ",
+            "number": "97/101",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/RayquazaexEXL%27IsoladeiDraghi97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-98/101",
+            "name": "Salamence ex δ",
+            "number": "98/101",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/SalamenceexEXL%27IsoladeiDraghi98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-99/101",
+            "name": "Tyranitar ex δ",
+            "number": "99/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/TyranitarexEXL%27IsoladeiDraghi99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-100/101",
+            "name": "Charizard ☆ δ",
+            "number": "100/101",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/CharizardEXL%27IsoladeiDraghi100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DF-101/101",
+            "name": "Mew ☆ δ",
+            "number": "101/101",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/MewEXL%27IsoladeiDraghi101.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

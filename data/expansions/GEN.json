@@ -1,0 +1,833 @@
+{
+    "expansion": {
+        "id": "GEN",
+        "name": "Generazioni",
+        "year": 2016,
+        "month": 4,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a3/SimboloSetGenerazioni.png",
+        "cardCount": 115,
+				"yellowAAlternateCardCount": 2
+    },
+    "cards": [
+        {
+            "id": "GEN-1/83",
+            "name": "Venusaur-EX",
+            "number": "1/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Venusaur-EXGenerazioni1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-2/83",
+            "name": "M Venusaur-EX",
+            "number": "2/83",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/MVenusaur-EXGenerazioni2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-3/83",
+            "name": "Caterpie",
+            "number": "3/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/CaterpieGenerazioni3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-4/83",
+            "name": "Metapod",
+            "number": "4/83",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MetapodGenerazioni4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-5/83",
+            "name": "Butterfree",
+            "number": "5/83",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ButterfreeGenerazioni5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-6/83",
+            "name": "Paras",
+            "number": "6/83",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ParasGenerazioni6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-7/83",
+            "name": "Parasect",
+            "number": "7/83",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ParasectGenerazioni7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-8/83",
+            "name": "Tangela",
+            "number": "8/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/TangelaGenerazioni8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-9/83",
+            "name": "Pinsir",
+            "number": "9/83",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/PinsirGenerazioni9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-10/83",
+            "name": "Leafeon-EX",
+            "number": "10/83",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Leafeon-EXGenerazioni10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-11/83",
+            "name": "Charizard-EX",
+            "number": "11/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/Charizard-EXGenerazioni11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-12/83",
+            "name": "M Charizard-EX",
+            "number": "12/83",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MCharizard-EXGenerazioni12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-13/83",
+            "name": "Ninetales-EX",
+            "number": "13/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Ninetales-EXGenerazioni13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-14/83",
+            "name": "Ponyta",
+            "number": "14/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/PonytaGenerazioni14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-15/83",
+            "name": "Rapidash",
+            "number": "15/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/RapidashGenerazioni15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-16/83",
+            "name": "Magmar",
+            "number": "16/83",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/MagmarGenerazioni16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-17/83",
+            "name": "Blastoise-EX",
+            "number": "17/83",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Blastoise-EXGenerazioni17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-18/83",
+            "name": "M Blastoise-EX",
+            "number": "18/83",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MBlastoise-EXGenerazioni18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-19/83",
+            "name": "Shellder",
+            "number": "19/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/ShellderGenerazioni19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-20/83",
+            "name": "Cloyster",
+            "number": "20/83",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CloysterGenerazioni20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-21/83",
+            "name": "Krabby",
+            "number": "21/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/KrabbyGenerazioni21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-22/83",
+            "name": "Magikarp",
+            "number": "22/83",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MagikarpGenerazioni22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-23/83",
+            "name": "Gyarados",
+            "number": "23/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/GyaradosGenerazioni23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-24/83",
+            "name": "Vaporeon-EX",
+            "number": "24/83",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Vaporeon-EXGenerazioni24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-25/83",
+            "name": "Articuno",
+            "number": "25/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/ArticunoGenerazioni25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-26/83",
+            "name": "Pikachu",
+            "number": "26/83",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/PikachuGenerazioni26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-27/83",
+            "name": "Raichu",
+            "number": "27/83",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/RaichuGenerazioni27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-28/83",
+            "name": "Jolteon-EX",
+            "number": "28/83",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Jolteon-EXGenerazioni28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-29/83",
+            "name": "Zapdos",
+            "number": "29/83",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ZapdosGenerazioni29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-30/83",
+            "name": "Zubat",
+            "number": "30/83",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ZubatGenerazioni30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-31/83",
+            "name": "Golbat",
+            "number": "31/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/GolbatGenerazioni31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-32/83",
+            "name": "Slowpoke",
+            "number": "32/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/SlowpokeGenerazioni32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-33/83",
+            "name": "Gastly",
+            "number": "33/83",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/GastlyGenerazioni33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-34/83",
+            "name": "Haunter",
+            "number": "34/83",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/HaunterGenerazioni34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-35/83",
+            "name": "Gengar",
+            "number": "35/83",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/GengarGenerazioni35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-36/83",
+            "name": "Jynx",
+            "number": "36/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/JynxGenerazioni36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-37/83",
+            "name": "Meowstic-EX",
+            "number": "37/83",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/Meowstic-EXGenerazioni37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-38/83",
+            "name": "Diglett",
+            "number": "38/83",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/DiglettGenerazioni38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-39/83",
+            "name": "Dugtrio",
+            "number": "39/83",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/DugtrioGenerazioni39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-40/83",
+            "name": "Machop",
+            "number": "40/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/MachopGenerazioni40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-41/83",
+            "name": "Machoke",
+            "number": "41/83",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MachokeGenerazioni41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-42/83",
+            "name": "Machamp",
+            "number": "42/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/MachampGenerazioni42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-43/83",
+            "name": "Geodude",
+            "number": "43/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GeodudeGenerazioni43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-44/83",
+            "name": "Graveler",
+            "number": "44/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/GravelerGenerazioni44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-45/83",
+            "name": "Golem",
+            "number": "45/83",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/GolemGenerazioni45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-46/83",
+            "name": "Golem-EX",
+            "number": "46/83",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Golem-EXGenerazioni46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-47/83",
+            "name": "Hitmonlee",
+            "number": "47/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/HitmonleeGenerazioni47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-48/83",
+            "name": "Hitmonchan",
+            "number": "48/83",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/HitmonchanGenerazioni48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-49/83",
+            "name": "Rhyhorn",
+            "number": "49/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/RhyhornGenerazioni49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-50/83",
+            "name": "Clefairy",
+            "number": "50/83",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/ClefairyGenerazioni50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-51/83",
+            "name": "Clefable",
+            "number": "51/83",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ClefableGenerazioni51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-52/83",
+            "name": "Mr. Mime",
+            "number": "52/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/MrMimeGenerazioni52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-53/83",
+            "name": "Meowth",
+            "number": "53/83",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/MeowthGenerazioni53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-54/83",
+            "name": "Persian",
+            "number": "54/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/PersianGenerazioni54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-55/83",
+            "name": "Doduo",
+            "number": "55/83",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/DoduoGenerazioni55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-56/83",
+            "name": "Dodrio",
+            "number": "56/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/DodrioGenerazioni56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-57/83",
+            "name": "Tauros",
+            "number": "57/83",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/TaurosGenerazioni57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-58/83",
+            "name": "Snorlax",
+            "number": "58/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/SnorlaxGenerazioni58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-59/83",
+            "name": "Lem",
+            "number": "59/83",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LemGenerazioni59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-60/83",
+            "name": "Martello Dirompente",
+            "number": "60/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/MartelloDirompenteGenerazioni60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-61/83",
+            "name": "Scambio di Energia",
+            "number": "61/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/ScambiodiEnergiaGenerazioni61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-62/83",
+            "name": "Tonico Evolutivo",
+            "number": "62/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TonicoEvolutivoGenerazioni62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-63/83",
+            "name": "Imakuni?",
+            "number": "63/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ImakuniGenerazioni63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-64/83",
+            "name": "Manutenzione",
+            "number": "64/83",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/ManutenzioneGenerazioni64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-65/83",
+            "name": "Revitalizzante Max",
+            "number": "65/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/RevitalizzanteMaxGenerazioni65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-66/83",
+            "name": "Astra",
+            "number": "66/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/AstraGenerazioni66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-67/83",
+            "name": "Poké Ball",
+            "number": "67/83",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Pok%C3%A9BallGenerazioni67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-68/83",
+            "name": "Addetta del Centro Pokémon",
+            "number": "68/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/AddettadelCentroPok%C3%A9monGenerazioni68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-69/83",
+            "name": "Pokémon Fan Club",
+            "number": "69/83",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Pok%C3%A9monFanClubGenerazioni69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-70/83",
+            "name": "Ricostituente",
+            "number": "70/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/RicostituenteGenerazioni70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-71/83",
+            "name": "Cartelrosso",
+            "number": "71/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CartelrossoGenerazioni71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-72/83",
+            "name": "Shana",
+            "number": "72/83",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/ShanaGenerazioni72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-73/83",
+            "name": "Recluta del Team Flare",
+            "number": "73/83",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ReclutadelTeamFlareGenerazioni73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-74/83",
+            "name": "Energia Incolore doppia",
+            "number": "74/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/EnergiaIncoloredoppiaGenerazioni74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-75/83",
+            "name": "Energia Erba",
+            "number": "75/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/EnergiaErbaGenerazioni75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-76/83",
+            "name": "Energia Fuoco",
+            "number": "76/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/EnergiaFuocoGenerazioni76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-77/83",
+            "name": "Energia Acqua",
+            "number": "77/83",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/EnergiaAcquaGenerazioni77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-78/83",
+            "name": "Energia Lampo",
+            "number": "78/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/EnergiaLampoGenerazioni78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-79/83",
+            "name": "Energia Psico",
+            "number": "79/83",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/EnergiaPsicoGenerazioni79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-80/83",
+            "name": "Energia Lotta",
+            "number": "80/83",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/EnergiaLottaGenerazioni80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-81/83",
+            "name": "Energia Oscurità",
+            "number": "81/83",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/EnergiaOscurit%C3%A0Generazioni81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-82/83",
+            "name": "Energia Metallo",
+            "number": "82/83",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/EnergiaMetalloGenerazioni82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-83/83",
+            "name": "Energia Folletto",
+            "number": "83/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/EnergiaFollettoGenerazioni83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GEN-RC1/RC32",
+            "name": "Chikorita",
+            "number": "RC1/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ChikoritaGenerazioniRC1.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC2/RC32",
+            "name": "Shroomish",
+            "number": "RC2/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ShroomishGenerazioniRC2.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC3/RC32",
+            "name": "Charmander",
+            "number": "RC3/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/CharmanderGenerazioniRC3.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC4/RC32",
+            "name": "Charmeleon",
+            "number": "RC4/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/CharmeleonGenerazioniRC4.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC5/RC32",
+            "name": "Charizard",
+            "number": "RC5/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/CharizardGenerazioniRC5.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC6/RC32",
+            "name": "Flareon-EX",
+            "number": "RC6/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/Flareon-EXGenerazioniRC6.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC7/RC32",
+            "name": "Snorunt",
+            "number": "RC7/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/SnoruntGenerazioniRC7.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC8/RC32",
+            "name": "Froslass",
+            "number": "RC8/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/FroslassGenerazioniRC8.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC9/RC32",
+            "name": "Raichu",
+            "number": "RC9/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/RaichuGenerazioniRC9.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC10/RC32",
+            "name": "Dedenne",
+            "number": "RC10/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DedenneGenerazioniRC10.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC11/RC32",
+            "name": "Wobbuffet",
+            "number": "RC11/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/WobbuffetGenerazioniRC11.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC12/RC32",
+            "name": "Gulpin",
+            "number": "RC12/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GulpinGenerazioniRC12.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC13/RC32",
+            "name": "Jirachi",
+            "number": "RC13/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/JirachiGenerazioniRC13.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC14/RC32",
+            "name": "Espurr",
+            "number": "RC14/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/EspurrGenerazioniRC14.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC15/RC32",
+            "name": "Meowstic",
+            "number": "RC15/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MeowsticGenerazioniRC15.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC16/RC32",
+            "name": "Yveltal",
+            "number": "RC16/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/YveltalGenerazioniRC16.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC17/RC32",
+            "name": "Flabébé",
+            "number": "RC17/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Flab%C3%A9b%C3%A9GenerazioniRC17.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC18/RC32",
+            "name": "Floette",
+            "number": "RC18/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/FloetteGenerazioniRC18.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC19/RC32",
+            "name": "Swirlix",
+            "number": "RC19/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SwirlixGenerazioniRC19.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC20/RC32",
+            "name": "Slurpuff",
+            "number": "RC20/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/SlurpuffGenerazioniRC20.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC21/RC32",
+            "name": "Sylveon-EX",
+            "number": "RC21/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Sylveon-EXGenerazioniRC21.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC22/RC32",
+            "name": "Diancie",
+            "number": "RC22/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/DiancieGenerazioniRC22.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC23/RC32",
+            "name": "Swablu",
+            "number": "RC23/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SwabluGenerazioniRC23.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC24/RC32",
+            "name": "Altaria",
+            "number": "RC24/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/AltariaGenerazioniRC24.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC25/RC32",
+            "name": "Fletchling",
+            "number": "RC25/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/FletchlingGenerazioniRC25.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC26/RC32",
+            "name": "Composizione Floreale",
+            "number": "RC26/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ComposizioneFlorealeGenerazioniRC26.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC27/RC32",
+            "name": "Lino",
+            "number": "RC27/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LinoGenerazioniRC27.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC28/RC32",
+            "name": "Flareon-EX",
+            "number": "RC28/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Flareon-EXGenerazioniRC28.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC29/RC32",
+            "name": "Pikachu",
+            "number": "RC29/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/PikachuGenerazioniRC29.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC30/RC32",
+            "name": "Gardevoir-EX",
+            "number": "RC30/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Gardevoir-EXGenerazioniRC30.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC31/RC32",
+            "name": "M Gardevoir-EX",
+            "number": "RC31/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MGardevoir-EXGenerazioniRC31.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-RC32/RC32",
+            "name": "Sylveon-EX",
+            "number": "RC32/RC32",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Sylveon-EXGenerazioniRC32.png",
+            "section": "Raccolta Cangiante"
+        },
+        {
+            "id": "GEN-28a/83",
+            "name": "Jolteon-EX",
+            "number": "28a/83",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Jolteon-EXGenerazioni28a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "GEN-73a/83",
+            "name": "Recluta del Team Flare",
+            "number": "73a/83",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ReclutadelTeamFlareGenerazioni73a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

@@ -1,0 +1,1735 @@
+{
+    "expansion": {
+        "id": "ASR",
+        "name": "Spada e Scudo - Lucentezza Siderale",
+        "year": 2022,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetLucentezza_Siderale.png",
+        "cardCount": 246
+    },
+    "cards": [
+        {
+            "id": "ASR-001/189",
+            "name": "Beedrill-V",
+            "number": "001/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Beedrill-VLucentezzaSiderale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-002/189",
+            "name": "Voltorb di Hisui",
+            "number": "002/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/VoltorbdiHisuiLucentezzaSiderale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-003/189",
+            "name": "Electrode di Hisui",
+            "number": "003/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ElectrodediHisuiLucentezzaSiderale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-004/189",
+            "name": "Scyther",
+            "number": "004/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ScytherLucentezzaSiderale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-005/189",
+            "name": "Scyther",
+            "number": "005/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ScytherLucentezzaSiderale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-006/189",
+            "name": "Yanma",
+            "number": "006/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/YanmaLucentezzaSiderale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-007/189",
+            "name": "Yanmega",
+            "number": "007/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/YanmegaLucentezzaSiderale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-008/189",
+            "name": "Heracross",
+            "number": "008/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/HeracrossLucentezzaSiderale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-009/189",
+            "name": "Kricketot",
+            "number": "009/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/KricketotLucentezzaSiderale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-010/189",
+            "name": "Kricketune",
+            "number": "010/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/KricketuneLucentezzaSiderale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-011/189",
+            "name": "Combee",
+            "number": "011/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/CombeeLucentezzaSiderale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-012/189",
+            "name": "Vespiquen",
+            "number": "012/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/VespiquenLucentezzaSiderale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-013/189",
+            "name": "Leafeon",
+            "number": "013/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/LeafeonLucentezzaSiderale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-014/189",
+            "name": "Shaymin",
+            "number": "014/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ShayminLucentezzaSiderale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-015/189",
+            "name": "Petilil",
+            "number": "015/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/PetililLucentezzaSiderale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-016/189",
+            "name": "Lilligant di Hisui",
+            "number": "016/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/LilligantdiHisuiLucentezzaSiderale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-017/189",
+            "name": "Lilligant di Hisui-V",
+            "number": "017/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/LilligantdiHisui-VLucentezzaSiderale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-018/189",
+            "name": "Lilligant di Hisui-V ASTRO",
+            "number": "018/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/LilligantdiHisui-VASTROLucentezzaSiderale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-019/189",
+            "name": "Rowlet",
+            "number": "019/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/RowletLucentezzaSiderale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-020/189",
+            "name": "Dartrix",
+            "number": "020/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/DartrixLucentezzaSiderale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-021/189",
+            "name": "Ponyta",
+            "number": "021/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/PonytaLucentezzaSiderale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-022/189",
+            "name": "Rapidash",
+            "number": "022/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/RapidashLucentezzaSiderale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-023/189",
+            "name": "Cyndaquil",
+            "number": "023/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/CyndaquilLucentezzaSiderale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-024/189",
+            "name": "Quilava",
+            "number": "024/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/QuilavaLucentezzaSiderale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-025/189",
+            "name": "Heatran-V",
+            "number": "025/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Heatran-VLucentezzaSiderale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-026/189",
+            "name": "Heatran-VMAX",
+            "number": "026/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Heatran-VMAXLucentezzaSiderale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-027/189",
+            "name": "Heatran Lucente",
+            "number": "027/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/HeatranLucenteLucentezzaSiderale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-028/067",
+            "name": "Psyduck",
+            "number": "028/067",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PsyduckLucentezzaSiderale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-029/067",
+            "name": "Golduck",
+            "number": "029/067",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/GolduckLucentezzaSiderale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-030/189",
+            "name": "Starmie-V",
+            "number": "030/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Starmie-VLucentezzaSiderale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-031/067",
+            "name": "Swinub",
+            "number": "031/067",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/SwinubLucentezzaSiderale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-032/067",
+            "name": "Piloswine",
+            "number": "032/067",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/PiloswineLucentezzaSiderale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-033/067",
+            "name": "Mamoswine",
+            "number": "033/067",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MamoswineLucentezzaSiderale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-034/067",
+            "name": "Mantine",
+            "number": "034/067",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/MantineLucentezzaSiderale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-035/067",
+            "name": "Barboach",
+            "number": "035/067",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/BarboachLucentezzaSiderale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-036/067",
+            "name": "Whiscash",
+            "number": "036/067",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/WhiscashLucentezzaSiderale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-037/189",
+            "name": "Regice",
+            "number": "037/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/RegiceLucentezzaSiderale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-038/189",
+            "name": "Glaceon",
+            "number": "038/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GlaceonLucentezzaSiderale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-039/189",
+            "name": "Palkia Originale-V",
+            "number": "039/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PalkiaOriginale-VLucentezzaSiderale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-040/189",
+            "name": "Palkia Originale-V ASTRO",
+            "number": "040/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/PalkiaOriginale-VASTROLucentezzaSiderale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-041/067",
+            "name": "Oshawott",
+            "number": "041/067",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/OshawottLucentezzaSiderale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-042/067",
+            "name": "Dewott",
+            "number": "042/067",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DewottLucentezzaSiderale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-043/189",
+            "name": "Basculin di Hisui",
+            "number": "043/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/BasculindiHisuiLucentezzaSiderale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-044/189",
+            "name": "Basculegion di Hisui",
+            "number": "044/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/BasculegiondiHisuiLucentezzaSiderale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-045/189",
+            "name": "Keldeo",
+            "number": "045/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/KeldeoLucentezzaSiderale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-046/189",
+            "name": "Greninja Lucente",
+            "number": "046/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/GreninjaLucenteLucentezzaSiderale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-047/189",
+            "name": "Bergmite",
+            "number": "047/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/BergmiteLucentezzaSiderale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-048/189",
+            "name": "Avalugg di Hisui",
+            "number": "048/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/AvaluggdiHisuiLucentezzaSiderale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-049/189",
+            "name": "Mr. Rime di Galar-V",
+            "number": "049/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/MrRimediGalar-VLucentezzaSiderale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-050/189",
+            "name": "Luxray-V",
+            "number": "050/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Luxray-VLucentezzaSiderale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-051/189",
+            "name": "Regieleki",
+            "number": "051/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/RegielekiLucentezzaSiderale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-052/189",
+            "name": "Typhlosion di Hisui",
+            "number": "052/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/TyphlosiondiHisuiLucentezzaSiderale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-053/189",
+            "name": "Typhlosion di Hisui-V",
+            "number": "053/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/TyphlosiondiHisui-VLucentezzaSiderale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-054/189",
+            "name": "Typhlosion di Hisui-V ASTRO",
+            "number": "054/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/TyphlosiondiHisui-VASTROLucentezzaSiderale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-055/189",
+            "name": "Togepi",
+            "number": "055/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/TogepiLucentezzaSiderale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-056/189",
+            "name": "Togetic",
+            "number": "056/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/TogeticLucentezzaSiderale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-057/189",
+            "name": "Togekiss",
+            "number": "057/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/TogekissLucentezzaSiderale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-058/189",
+            "name": "Misdreavus",
+            "number": "058/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MisdreavusLucentezzaSiderale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-059/189",
+            "name": "Mismagius",
+            "number": "059/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MismagiusLucentezzaSiderale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-060/189",
+            "name": "Ralts",
+            "number": "060/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/RaltsLucentezzaSiderale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-061/189",
+            "name": "Kirlia",
+            "number": "061/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/KirliaLucentezzaSiderale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-062/189",
+            "name": "Gallade",
+            "number": "062/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/GalladeLucentezzaSiderale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-063/189",
+            "name": "Drifloon",
+            "number": "063/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/DrifloonLucentezzaSiderale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-064/189",
+            "name": "Drifblim",
+            "number": "064/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DrifblimLucentezzaSiderale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-065/189",
+            "name": "Uxie",
+            "number": "065/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/UxieLucentezzaSiderale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-066/189",
+            "name": "Mesprit",
+            "number": "066/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/MespritLucentezzaSiderale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-067/189",
+            "name": "Azelf",
+            "number": "067/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/AzelfLucentezzaSiderale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-068/189",
+            "name": "Diancie",
+            "number": "068/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/DiancieLucentezzaSiderale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-069/189",
+            "name": "Wyrdeer",
+            "number": "069/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/WyrdeerLucentezzaSiderale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-070/189",
+            "name": "Growlithe di Hisui",
+            "number": "070/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/GrowlithediHisuiLucentezzaSiderale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-071/189",
+            "name": "Arcanine di Hisui",
+            "number": "071/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ArcaninediHisuiLucentezzaSiderale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-072/189",
+            "name": "Machamp-V",
+            "number": "072/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/Machamp-VLucentezzaSiderale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-073/189",
+            "name": "Machamp-VMAX",
+            "number": "073/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Machamp-VMAXLucentezzaSiderale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-074/189",
+            "name": "Sudowoodo",
+            "number": "074/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SudowoodoLucentezzaSiderale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-075/189",
+            "name": "Regirock",
+            "number": "075/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/RegirockLucentezzaSiderale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-076/189",
+            "name": "Cranidos",
+            "number": "076/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/CranidosLucentezzaSiderale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-077/189",
+            "name": "Rampardos",
+            "number": "077/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/RampardosLucentezzaSiderale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-078/189",
+            "name": "Lucario-V",
+            "number": "078/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Lucario-VLucentezzaSiderale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-079/189",
+            "name": "Hippopotas",
+            "number": "079/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/HippopotasLucentezzaSiderale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-080/189",
+            "name": "Hippowdon",
+            "number": "080/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/HippowdonLucentezzaSiderale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-081/189",
+            "name": "Hawlucha Lucente",
+            "number": "081/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/HawluchaLucenteLucentezzaSiderale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-082/189",
+            "name": "Decidueye di Hisui",
+            "number": "082/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DecidueyediHisuiLucentezzaSiderale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-083/189",
+            "name": "Decidueye di Hisui-V",
+            "number": "083/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/DecidueyediHisui-VLucentezzaSiderale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-084/189",
+            "name": "Decidueye di Hisui-V ASTRO",
+            "number": "084/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DecidueyediHisui-VASTROLucentezzaSiderale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-085/189",
+            "name": "Kleavor",
+            "number": "085/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/KleavorLucentezzaSiderale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-086/189",
+            "name": "Kleavor",
+            "number": "086/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/KleavorLucentezzaSiderale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-087/189",
+            "name": "Kleavor-V",
+            "number": "087/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Kleavor-VLucentezzaSiderale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-088/189",
+            "name": "Qwilfish di Hisui",
+            "number": "088/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/QwilfishdiHisuiLucentezzaSiderale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-089/189",
+            "name": "Qwilfish di Hisui",
+            "number": "089/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/QwilfishdiHisuiLucentezzaSiderale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-090/189",
+            "name": "Overqwil di Hisui",
+            "number": "090/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/OverqwildiHisuiLucentezzaSiderale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-091/189",
+            "name": "Overqwil di Hisui",
+            "number": "091/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/OverqwildiHisuiLucentezzaSiderale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-092/189",
+            "name": "Sneasel di Hisui",
+            "number": "092/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/SneaseldiHisuiLucentezzaSiderale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-093/189",
+            "name": "Sneasler di Hisui",
+            "number": "093/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/SneaslerdiHisuiLucentezzaSiderale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-094/189",
+            "name": "Sneasler di Hisui-V",
+            "number": "094/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SneaslerdiHisui-VLucentezzaSiderale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-095/189",
+            "name": "Poochyena",
+            "number": "095/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PoochyenaLucentezzaSiderale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-096/189",
+            "name": "Mightyena",
+            "number": "096/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MightyenaLucentezzaSiderale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-097/189",
+            "name": "Absol",
+            "number": "097/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/AbsolLucentezzaSiderale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-098/189",
+            "name": "Darkrai-V",
+            "number": "098/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/Darkrai-VLucentezzaSiderale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-099/189",
+            "name": "Darkrai-V ASTRO",
+            "number": "099/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Darkrai-VASTROLucentezzaSiderale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-100/189",
+            "name": "Samurott di Hisui",
+            "number": "100/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SamurottdiHisuiLucentezzaSiderale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-101/189",
+            "name": "Samurott di Hisui-V",
+            "number": "101/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/SamurottdiHisui-VLucentezzaSiderale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-102/189",
+            "name": "Samurott di Hisui-V ASTRO",
+            "number": "102/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/SamurottdiHisui-VASTROLucentezzaSiderale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-103/189",
+            "name": "Nickit",
+            "number": "103/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/NickitLucentezzaSiderale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-104/189",
+            "name": "Thievul",
+            "number": "104/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/ThievulLucentezzaSiderale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-105/189",
+            "name": "Magnemite",
+            "number": "105/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/MagnemiteLucentezzaSiderale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-106/189",
+            "name": "Magneton",
+            "number": "106/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MagnetonLucentezzaSiderale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-107/189",
+            "name": "Magnezone",
+            "number": "107/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MagnezoneLucentezzaSiderale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-108/189",
+            "name": "Registeel",
+            "number": "108/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/RegisteelLucentezzaSiderale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-109/189",
+            "name": "Shieldon",
+            "number": "109/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ShieldonLucentezzaSiderale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-110/189",
+            "name": "Bastiodon",
+            "number": "110/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/BastiodonLucentezzaSiderale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-111/189",
+            "name": "Bronzor",
+            "number": "111/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/BronzorLucentezzaSiderale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-112/189",
+            "name": "Bronzong",
+            "number": "112/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/BronzongLucentezzaSiderale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-113/189",
+            "name": "Dialga Originale-V",
+            "number": "113/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DialgaOriginale-VLucentezzaSiderale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-114/189",
+            "name": "Dialga Originale-V ASTRO",
+            "number": "114/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/DialgaOriginale-VASTROLucentezzaSiderale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-115/189",
+            "name": "Pawniard",
+            "number": "115/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PawniardLucentezzaSiderale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-116/189",
+            "name": "Bisharp",
+            "number": "116/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/BisharpLucentezzaSiderale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-117/189",
+            "name": "Garchomp-V",
+            "number": "117/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Garchomp-VLucentezzaSiderale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-118/189",
+            "name": "Regidrago",
+            "number": "118/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/RegidragoLucentezzaSiderale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-119/189",
+            "name": "Eevee",
+            "number": "119/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/EeveeLucentezzaSiderale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-120/189",
+            "name": "Hoothoot",
+            "number": "120/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/HoothootLucentezzaSiderale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-121/189",
+            "name": "Noctowl",
+            "number": "121/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/NoctowlLucentezzaSiderale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-122/189",
+            "name": "Teddiursa",
+            "number": "122/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TeddiursaLucentezzaSiderale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-123/189",
+            "name": "Ursaring",
+            "number": "123/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/UrsaringLucentezzaSiderale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-124/189",
+            "name": "Ursaluna",
+            "number": "124/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/UrsalunaLucentezzaSiderale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-125/189",
+            "name": "Stantler",
+            "number": "125/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/StantlerLucentezzaSiderale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-126/189",
+            "name": "Miltank",
+            "number": "126/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/MiltankLucentezzaSiderale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-127/189",
+            "name": "Glameow",
+            "number": "127/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/GlameowLucentezzaSiderale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-128/189",
+            "name": "Purugly",
+            "number": "128/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PuruglyLucentezzaSiderale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-129/189",
+            "name": "Chatot",
+            "number": "129/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/ChatotLucentezzaSiderale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-130/189",
+            "name": "Regigigas",
+            "number": "130/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/RegigigasLucentezzaSiderale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-131/189",
+            "name": "Rufflet",
+            "number": "131/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/RuffletLucentezzaSiderale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-132/189",
+            "name": "Braviary di Hisui",
+            "number": "132/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/BraviarydiHisuiLucentezzaSiderale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-133/189",
+            "name": "Oranguru-V",
+            "number": "133/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Oranguru-VLucentezzaSiderale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-134/189",
+            "name": "Wyrdeer-V",
+            "number": "134/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Wyrdeer-VLucentezzaSiderale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-135/189",
+            "name": "Damon",
+            "number": "135/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/DamonLucentezzaSiderale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-136/189",
+            "name": "Colonia di Annullamento",
+            "number": "136/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/ColoniadiAnnullamentoLucentezzaSiderale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-137/189",
+            "name": "Choi",
+            "number": "137/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ChoiLucentezzaSiderale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-138/189",
+            "name": "Selina",
+            "number": "138/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SelinaLucentezzaSiderale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-139/189",
+            "name": "Distintivo Oscuro",
+            "number": "139/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/DistintivoOscuroLucentezzaSiderale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-140/189",
+            "name": "Lotteria Energia",
+            "number": "140/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/LotteriaEnergiaLucentezzaSiderale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-141/189",
+            "name": "Piuma Ball",
+            "number": "141/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PiumaBallLucentezzaSiderale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-142/189",
+            "name": "Palude Boccalarga",
+            "number": "142/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/PaludeBoccalargaLucentezzaSiderale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-143/189",
+            "name": "Vigore di Gardenia",
+            "number": "143/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/VigorediGardeniaLucentezzaSiderale143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-144/189",
+            "name": "Lino",
+            "number": "144/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/LinoLucentezzaSiderale144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-145/189",
+            "name": "Piccone Baldo",
+            "number": "145/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/PicconeBaldoLucentezzaSiderale145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-146/189",
+            "name": "Peso Ball di Hisui",
+            "number": "146/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/PesoBalldiHisuiLucentezzaSiderale146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-147/189",
+            "name": "Perula",
+            "number": "147/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/PerulaLucentezzaSiderale147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-148/189",
+            "name": "Villaggio Giubilo",
+            "number": "148/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/VillaggioGiubiloLucentezzaSiderale148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-149/189",
+            "name": "Soruan",
+            "number": "149/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SoruanLucentezzaSiderale149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-150/189",
+            "name": "Petra",
+            "number": "150/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/PetraLucentezzaSiderale150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-151/189",
+            "name": "Curry piccante alle spezie",
+            "number": "151/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CurrypiccanteallespezieLucentezzaSiderale151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-152/189",
+            "name": "Occhiali Superefficaci",
+            "number": "152/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/OcchialiSuperefficaciLucentezzaSiderale152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-153/189",
+            "name": "Miele",
+            "number": "153/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MieleLucentezzaSiderale153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-154/189",
+            "name": "Carretto di Scambio",
+            "number": "154/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/CarrettodiScambioLucentezzaSiderale154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-155/189",
+            "name": "Tempio di Sinnoh",
+            "number": "155/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/TempiodiSinnohLucentezzaSiderale155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-156/189",
+            "name": "Scarpe da trekking",
+            "number": "156/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/ScarpedatrekkingLucentezzaSiderale156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-157/189",
+            "name": "Fossile Sconosciuto",
+            "number": "157/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/FossileSconosciutoLucentezzaSiderale157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-158/189",
+            "name": "Turbo Tattico",
+            "number": "158/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/TurboTatticoLucentezzaSiderale158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-159/189",
+            "name": "Lapilla",
+            "number": "159/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/LapillaLucentezzaSiderale159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-160/189",
+            "name": "Beedrill-V",
+            "number": "160/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Beedrill-VLucentezzaSiderale160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-161/189",
+            "name": "Beedrill-V",
+            "number": "161/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/Beedrill-VLucentezzaSiderale161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-162/189",
+            "name": "Lilligant di Hisui-V",
+            "number": "162/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/LilligantdiHisui-VLucentezzaSiderale162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-163/189",
+            "name": "Lilligant di Hisui-V",
+            "number": "163/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/LilligantdiHisui-VLucentezzaSiderale163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-164/189",
+            "name": "Virizion-V",
+            "number": "164/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Virizion-VLucentezzaSiderale164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-165/189",
+            "name": "Heatran-V",
+            "number": "165/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Heatran-VLucentezzaSiderale165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-166/189",
+            "name": "Starmie-V",
+            "number": "166/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Starmie-VLucentezzaSiderale166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-167/189",
+            "name": "Palkia Originale-V",
+            "number": "167/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/PalkiaOriginale-VLucentezzaSiderale167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-168/189",
+            "name": "Luxray-V",
+            "number": "168/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Luxray-VLucentezzaSiderale168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-169/189",
+            "name": "Typhlosion di Hisui-V",
+            "number": "169/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/TyphlosiondiHisui-VLucentezzaSiderale169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-170/189",
+            "name": "Jirachi-V",
+            "number": "170/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Jirachi-VLucentezzaSiderale170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-171/189",
+            "name": "Machamp-V",
+            "number": "171/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Machamp-VLucentezzaSiderale171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-172/189",
+            "name": "Machamp-V",
+            "number": "172/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Machamp-VLucentezzaSiderale172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-173/189",
+            "name": "Decidueye di Hisui-V",
+            "number": "173/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/DecidueyediHisui-VLucentezzaSiderale173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-174/189",
+            "name": "Sneasler di Hisui-V",
+            "number": "174/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/SneaslerdiHisui-VLucentezzaSiderale174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-175/189",
+            "name": "Sneasler di Hisui-V",
+            "number": "175/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/SneaslerdiHisui-VLucentezzaSiderale175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-176/189",
+            "name": "Samurott di Hisui-V",
+            "number": "176/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/SamurottdiHisui-VLucentezzaSiderale176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-177/189",
+            "name": "Dialga Originale-V",
+            "number": "177/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/DialgaOriginale-VLucentezzaSiderale177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-178/189",
+            "name": "Garchomp-V",
+            "number": "178/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Garchomp-VLucentezzaSiderale178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-179/189",
+            "name": "Oranguru-V",
+            "number": "179/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Oranguru-VLucentezzaSiderale179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-180/189",
+            "name": "Wyrdeer-V",
+            "number": "180/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Wyrdeer-VLucentezzaSiderale180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-181/189",
+            "name": "Damon",
+            "number": "181/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DamonLucentezzaSiderale181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-182/189",
+            "name": "Choi",
+            "number": "182/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ChoiLucentezzaSiderale182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-183/189",
+            "name": "Selina",
+            "number": "183/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SelinaLucentezzaSiderale183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-184/189",
+            "name": "Vigore di Gardenia",
+            "number": "184/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/VigorediGardeniaLucentezzaSiderale184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-185/189",
+            "name": "Lino",
+            "number": "185/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/LinoLucentezzaSiderale185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-186/189",
+            "name": "Perula",
+            "number": "186/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/PerulaLucentezzaSiderale186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-187/189",
+            "name": "Soruan",
+            "number": "187/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/SoruanLucentezzaSiderale187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-188/189",
+            "name": "Petra",
+            "number": "188/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/PetraLucentezzaSiderale188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-189/189",
+            "name": "Lapilla",
+            "number": "189/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/LapillaLucentezzaSiderale189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASR-190/189",
+            "name": "Lilligant di Hisui-V ASTRO",
+            "number": "190/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/LilligantdiHisui-VASTROLucentezzaSiderale190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-191/189",
+            "name": "Heatran-VMAX",
+            "number": "191/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Heatran-VMAXLucentezzaSiderale191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-192/189",
+            "name": "Palkia Originale-V ASTRO",
+            "number": "192/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/PalkiaOriginale-VASTROLucentezzaSiderale192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-193/189",
+            "name": "Typhlosion di Hisui-V ASTRO",
+            "number": "193/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/TyphlosiondiHisui-VASTROLucentezzaSiderale193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-194/189",
+            "name": "Machamp-VMAX",
+            "number": "194/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Machamp-VMAXLucentezzaSiderale194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-195/189",
+            "name": "Decidueye di Hisui-V ASTRO",
+            "number": "195/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/DecidueyediHisui-VASTROLucentezzaSiderale195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-196/189",
+            "name": "Kleavor-V ASTRO",
+            "number": "196/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Kleavor-VASTROLucentezzaSiderale196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-197/189",
+            "name": "Samurott di Hisui-V ASTRO",
+            "number": "197/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SamurottdiHisui-VASTROLucentezzaSiderale197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-198/189",
+            "name": "Dialga Originale-V ASTRO",
+            "number": "198/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/DialgaOriginale-VASTROLucentezzaSiderale198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-199/189",
+            "name": "Damon",
+            "number": "199/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DamonLucentezzaSiderale199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-200/189",
+            "name": "Choi",
+            "number": "200/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ChoiLucentezzaSiderale200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-201/189",
+            "name": "Selina",
+            "number": "201/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/SelinaLucentezzaSiderale201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-202/189",
+            "name": "Vigore di Gardenia",
+            "number": "202/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/VigorediGardeniaLucentezzaSiderale202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-203/189",
+            "name": "Lino",
+            "number": "203/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/LinoLucentezzaSiderale203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-204/189",
+            "name": "Perula",
+            "number": "204/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/PerulaLucentezzaSiderale204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-205/189",
+            "name": "Soruan",
+            "number": "205/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/SoruanLucentezzaSiderale205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-206/189",
+            "name": "Petra",
+            "number": "206/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/PetraLucentezzaSiderale206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-207/189",
+            "name": "Lapilla",
+            "number": "207/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/LapillaLucentezzaSiderale207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-208/189",
+            "name": "Palkia Originale-V ASTRO",
+            "number": "208/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/PalkiaOriginale-VASTROLucentezzaSiderale208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-209/189",
+            "name": "Samurott di Hisui-V ASTRO",
+            "number": "209/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/SamurottdiHisui-VASTROLucentezzaSiderale209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-210/189",
+            "name": "Dialga Originale-V ASTRO",
+            "number": "210/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/DialgaOriginale-VASTROLucentezzaSiderale210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-211/189",
+            "name": "Cinturascelta",
+            "number": "211/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CinturasceltaLucentezzaSiderale211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-212/189",
+            "name": "Villaggio Giubilo",
+            "number": "212/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/VillaggioGiubiloLucentezzaSiderale212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-213/189",
+            "name": "Sentiero Biancacima",
+            "number": "213/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SentieroBiancacimaLucentezzaSiderale213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-214/189",
+            "name": "Tempio di Sinnoh",
+            "number": "214/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/TempiodiSinnohLucentezzaSiderale214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-215/189",
+            "name": "Scarpe da trekking",
+            "number": "215/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ScarpedatrekkingLucentezzaSiderale215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-216/189",
+            "name": "Energia Turbo Doppia",
+            "number": "216/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/EnergiaTurboDoppiaLucentezzaSiderale216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASR-TG01/TG30",
+            "name": "Abomasnow",
+            "number": "TG01/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/AbomasnowLucentezzaSideraleTG1.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG02/TG30",
+            "name": "Flapple",
+            "number": "TG02/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/FlappleLucentezzaSideraleTG2.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG03/TG30",
+            "name": "Kingdra",
+            "number": "TG03/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/KingdraLucentezzaSideraleTG3.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG04/TG30",
+            "name": "Frosmoth",
+            "number": "TG04/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/FrosmothLucentezzaSideraleTG4.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG05/TG30",
+            "name": "Gardevoir",
+            "number": "TG05/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/GardevoirLucentezzaSideraleTG5.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG06/TG30",
+            "name": "Wyrdeer",
+            "number": "TG06/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/WyrdeerLucentezzaSideraleTG6.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG07/TG30",
+            "name": "Falinks",
+            "number": "TG07/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/FalinksLucentezzaSideraleTG7.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG08/TG30",
+            "name": "Kleavor",
+            "number": "TG08/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/KleavorLucentezzaSideraleTG8.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG09/TG30",
+            "name": "Mightyena",
+            "number": "TG09/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MightyenaLucentezzaSideraleTG9.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG10/TG30",
+            "name": "Obstagoon di Galar",
+            "number": "TG10/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/ObstagoondiGalarLucentezzaSideraleTG10.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG11/TG30",
+            "name": "Bronzong",
+            "number": "TG11/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/BronzongLucentezzaSideraleTG11.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG12/TG30",
+            "name": "Hoothoot",
+            "number": "TG12/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/HoothootLucentezzaSideraleTG12.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG13/TG30",
+            "name": "Starmie-V",
+            "number": "TG13/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Starmie-VLucentezzaSideraleTG13.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG14/TG30",
+            "name": "Calyrex Cavaliere Glaciale-V",
+            "number": "TG14/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/CalyrexCavaliereGlaciale-VLucentezzaSideraleTG14.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG15/TG30",
+            "name": "Calyrex Cavaliere Glaciale-VMAX",
+            "number": "TG15/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/CalyrexCavaliereGlaciale-VMAXLucentezzaSideraleTG15.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG16/TG30",
+            "name": "Articuno di Galar-V",
+            "number": "TG16/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/ArticunodiGalar-VLucentezzaSideraleTG16.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG17/TG30",
+            "name": "Calyrex Cavaliere Spettrale-V",
+            "number": "TG17/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/CalyrexCavaliereSpettrale-VLucentezzaSideraleTG17.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG18/TG30",
+            "name": "Calyrex Cavaliere Spettrale-VMAX",
+            "number": "TG18/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/CalyrexCavaliereSpettrale-VMAXLucentezzaSideraleTG18.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG19/TG30",
+            "name": "Zapdos di Galar-V",
+            "number": "TG19/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/ZapdosdiGalar-VLucentezzaSideraleTG19.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG20/TG30",
+            "name": "Moltres di Galar-V",
+            "number": "TG20/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/MoltresdiGalar-VLucentezzaSideraleTG20.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG21/TG30",
+            "name": "Zacian-V",
+            "number": "TG21/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Zacian-VLucentezzaSideraleTG21.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG22/TG30",
+            "name": "Zamazenta-V",
+            "number": "TG22/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Zamazenta-VLucentezzaSideraleTG22.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG23/TG30",
+            "name": "Garchomp-V",
+            "number": "TG23/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Garchomp-VLucentezzaSideraleTG23.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG24/TG30",
+            "name": "Onion",
+            "number": "TG24/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/OnionLucentezzaSideraleTG24.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG25/TG30",
+            "name": "Fabia",
+            "number": "TG25/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/FabiaLucentezzaSideraleTG25.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG26/TG30",
+            "name": "Melania",
+            "number": "TG26/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MelaniaLucentezzaSideraleTG26.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG27/TG30",
+            "name": "Yarrow",
+            "number": "TG27/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/YarrowLucentezzaSideraleTG27.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG28/TG30",
+            "name": "Ginepro",
+            "number": "TG28/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/GineproLucentezzaSideraleTG28.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG29/TG30",
+            "name": "Calyrex Cavaliere Glaciale-VMAX",
+            "number": "TG29/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/CalyrexCavaliereGlaciale-VMAXLucentezzaSideraleTG29.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "ASR-TG30/TG30",
+            "name": "Calyrex Cavaliere Spettrale-VMAX",
+            "number": "TG30/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CalyrexCavaliereSpettrale-VMAXLucentezzaSideraleTG30.png",
+            "section": "Galleria degli Allenatori"
+        }
+    ]
+}

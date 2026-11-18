@@ -1,0 +1,755 @@
+{
+    "expansion": {
+        "id": "GE",
+        "name": "Diamante & Perla - Incontri Leggendari",
+				"year": 2008,
+				"month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetIncontri_Leggendari.png",
+        "cardCount": 106
+    },
+    "cards": [
+        {
+            "id": "GE-1/106",
+            "name": "Blaziken",
+            "number": "1/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/BlazikenIncontriLeggendari1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-2/106",
+            "name": "Cresselia",
+            "number": "2/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/CresseliaIncontriLeggendari2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-3/106",
+            "name": "Darkrai",
+            "number": "3/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/DarkraiIncontriLeggendari3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-4/106",
+            "name": "Darkrai",
+            "number": "4/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DarkraiIncontriLeggendari4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-5/106",
+            "name": "Pachirisu",
+            "number": "5/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/PachirisuIncontriLeggendari5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-6/106",
+            "name": "Porygon-Z",
+            "number": "6/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Porygon-ZIncontriLeggendari6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-7/106",
+            "name": "Rotom",
+            "number": "7/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RotomIncontriLeggendari7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-8/106",
+            "name": "Sceptile",
+            "number": "8/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SceptileIncontriLeggendari8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-9/106",
+            "name": "Swampert",
+            "number": "9/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SwampertIncontriLeggendari9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-10/106",
+            "name": "Tangrowth",
+            "number": "10/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/TangrowthIncontriLeggendari10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-11/106",
+            "name": "Togekiss",
+            "number": "11/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/TogekissIncontriLeggendari11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-12/106",
+            "name": "Altaria",
+            "number": "12/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/AltariaIncontriLeggendari12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-13/106",
+            "name": "Beedrill",
+            "number": "13/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/BeedrillIncontriLeggendari13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-14/106",
+            "name": "Butterfree",
+            "number": "14/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ButterfreeIncontriLeggendari14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-15/106",
+            "name": "Claydol",
+            "number": "15/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ClaydolIncontriLeggendari15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-16/106",
+            "name": "Dialga",
+            "number": "16/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/DialgaIncontriLeggendari16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-17/106",
+            "name": "Exploud",
+            "number": "17/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/ExploudIncontriLeggendari17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-18/106",
+            "name": "Houndoom",
+            "number": "18/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/HoundoomIncontriLeggendari18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-19/106",
+            "name": "Hypno",
+            "number": "19/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/HypnoIncontriLeggendari19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-20/106",
+            "name": "Kingler",
+            "number": "20/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/KinglerIncontriLeggendari20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-21/106",
+            "name": "Lapras",
+            "number": "21/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/LaprasIncontriLeggendari21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-22/106",
+            "name": "Latias",
+            "number": "22/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/LatiasIncontriLeggendari22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-23/106",
+            "name": "Latios",
+            "number": "23/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/LatiosIncontriLeggendari23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-24/106",
+            "name": "Mawile",
+            "number": "24/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/MawileIncontriLeggendari24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-25/106",
+            "name": "Milotic",
+            "number": "25/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/MiloticIncontriLeggendari25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-26/106",
+            "name": "Palkia",
+            "number": "26/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/PalkiaIncontriLeggendari26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-27/106",
+            "name": "Primeape",
+            "number": "27/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/PrimeapeIncontriLeggendari27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-28/106",
+            "name": "Slowking",
+            "number": "28/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SlowkingIncontriLeggendari28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-29/106",
+            "name": "Unown H",
+            "number": "29/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/UnownHIncontriLeggendari29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-30/106",
+            "name": "Wailord",
+            "number": "30/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/WailordIncontriLeggendari30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-31/106",
+            "name": "Weezing",
+            "number": "31/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/WeezingIncontriLeggendari31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-32/106",
+            "name": "Wigglytuff",
+            "number": "32/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/WigglytuffIncontriLeggendari32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-33/106",
+            "name": "Arbok",
+            "number": "33/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/ArbokIncontriLeggendari33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-34/106",
+            "name": "Cacturne",
+            "number": "34/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/CacturneIncontriLeggendari34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-35/106",
+            "name": "Combusken",
+            "number": "35/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/CombuskenIncontriLeggendari35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-36/106",
+            "name": "Delibird",
+            "number": "36/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/DelibirdIncontriLeggendari36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-37/106",
+            "name": "Floatzel",
+            "number": "37/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/FloatzelIncontriLeggendari37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-38/106",
+            "name": "Gorebyss",
+            "number": "38/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/GorebyssIncontriLeggendari38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-39/106",
+            "name": "Granbull",
+            "number": "39/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/GranbullIncontriLeggendari39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-40/106",
+            "name": "Grovyle",
+            "number": "40/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/GrovyleIncontriLeggendari40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-41/106",
+            "name": "Hariyama",
+            "number": "41/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/HariyamaIncontriLeggendari41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-42/106",
+            "name": "Huntail",
+            "number": "42/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/HuntailIncontriLeggendari42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-43/106",
+            "name": "Linoone",
+            "number": "43/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/LinooneIncontriLeggendari43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-44/106",
+            "name": "Loudred",
+            "number": "44/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/LoudredIncontriLeggendari44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-45/106",
+            "name": "Magcargo",
+            "number": "45/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MagcargoIncontriLeggendari45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-46/106",
+            "name": "Marshtomp",
+            "number": "46/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MarshtompIncontriLeggendari46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-47/106",
+            "name": "Metapod",
+            "number": "47/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MetapodIncontriLeggendari47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-48/106",
+            "name": "Pelipper",
+            "number": "48/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/PelipperIncontriLeggendari48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-49/106",
+            "name": "Porygon2",
+            "number": "49/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Porygon2IncontriLeggendari49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-50/106",
+            "name": "Purugly",
+            "number": "50/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/PuruglyIncontriLeggendari50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-51/106",
+            "name": "Relicanth",
+            "number": "51/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/RelicanthIncontriLeggendari51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-52/106",
+            "name": "Seviper",
+            "number": "52/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/SeviperIncontriLeggendari52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-53/106",
+            "name": "Skarmory",
+            "number": "53/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/SkarmoryIncontriLeggendari53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-54/106",
+            "name": "Slowbro",
+            "number": "54/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SlowbroIncontriLeggendari54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-55/106",
+            "name": "Togetic",
+            "number": "55/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/TogeticIncontriLeggendari55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-56/106",
+            "name": "Unown F",
+            "number": "56/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/UnownFIncontriLeggendari56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-57/106",
+            "name": "Unown G",
+            "number": "57/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/UnownGIncontriLeggendari57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-58/106",
+            "name": "Wailmer",
+            "number": "58/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/WailmerIncontriLeggendari58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-59/106",
+            "name": "Zangoose",
+            "number": "59/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/ZangooseIncontriLeggendari59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-60/106",
+            "name": "Baltoy",
+            "number": "60/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/BaltoyIncontriLeggendari60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-61/106",
+            "name": "Buizel",
+            "number": "61/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/BuizelIncontriLeggendari61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-62/106",
+            "name": "Cacnea",
+            "number": "62/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CacneaIncontriLeggendari62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-63/106",
+            "name": "Caterpie",
+            "number": "63/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/CaterpieIncontriLeggendari63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-64/106",
+            "name": "Clamperl",
+            "number": "64/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ClamperlIncontriLeggendari64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-65/106",
+            "name": "Drowzee",
+            "number": "65/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/DrowzeeIncontriLeggendari65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-66/106",
+            "name": "Ekans",
+            "number": "66/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/EkansIncontriLeggendari66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-67/106",
+            "name": "Feebas",
+            "number": "67/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/FeebasIncontriLeggendari67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-68/106",
+            "name": "Glameow",
+            "number": "68/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/GlameowIncontriLeggendari68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-69/106",
+            "name": "Houndour",
+            "number": "69/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/HoundourIncontriLeggendari69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-70/106",
+            "name": "Igglybuff",
+            "number": "70/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/IgglybuffIncontriLeggendari70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-71/106",
+            "name": "Illumise",
+            "number": "71/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/IllumiseIncontriLeggendari71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-72/106",
+            "name": "Jigglypuff",
+            "number": "72/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/JigglypuffIncontriLeggendari72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-73/106",
+            "name": "Kakuna",
+            "number": "73/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/KakunaIncontriLeggendari73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-74/106",
+            "name": "Koffing",
+            "number": "74/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/KoffingIncontriLeggendari74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-75/106",
+            "name": "Krabby",
+            "number": "75/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/KrabbyIncontriLeggendari75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-76/106",
+            "name": "Lunatone",
+            "number": "76/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/LunatoneIncontriLeggendari76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-77/106",
+            "name": "Luvdisc",
+            "number": "77/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/LuvdiscIncontriLeggendari77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-78/106",
+            "name": "Makuhita",
+            "number": "78/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MakuhitaIncontriLeggendari78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-79/106",
+            "name": "Mankey",
+            "number": "79/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MankeyIncontriLeggendari79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-80/106",
+            "name": "Mudkip",
+            "number": "80/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/MudkipIncontriLeggendari80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-81/106",
+            "name": "Porygon",
+            "number": "81/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/PorygonIncontriLeggendari81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-82/106",
+            "name": "Slowpoke",
+            "number": "82/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/SlowpokeIncontriLeggendari82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-83/106",
+            "name": "Slugma",
+            "number": "83/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/SlugmaIncontriLeggendari83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-84/106",
+            "name": "Snubbull",
+            "number": "84/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/SnubbullIncontriLeggendari84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-85/106",
+            "name": "Solrock",
+            "number": "85/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SolrockIncontriLeggendari85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-86/106",
+            "name": "Swablu",
+            "number": "86/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/SwabluIncontriLeggendari86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-87/106",
+            "name": "Tangela",
+            "number": "87/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/TangelaIncontriLeggendari87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-88/106",
+            "name": "Togepi",
+            "number": "88/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/TogepiIncontriLeggendari88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-89/106",
+            "name": "Torchic",
+            "number": "89/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/TorchicIncontriLeggendari89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-90/106",
+            "name": "Treecko",
+            "number": "90/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/TreeckoIncontriLeggendari90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-91/106",
+            "name": "Unown L",
+            "number": "91/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/UnownLIncontriLeggendari91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-92/106",
+            "name": "Volbeat",
+            "number": "92/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/VolbeatIncontriLeggendari92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-93/106",
+            "name": "Weedle",
+            "number": "93/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/WeedleIncontriLeggendari93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-94/106",
+            "name": "Whismur",
+            "number": "94/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/WhismurIncontriLeggendari94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-95/106",
+            "name": "Wingull",
+            "number": "95/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/WingullIncontriLeggendari95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-96/106",
+            "name": "Zigzagoon",
+            "number": "96/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/ZigzagoonIncontriLeggendari96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-97/106",
+            "name": "Monetamuleto",
+            "number": "97/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/MonetamuletoIncontriLeggendari97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-98/106",
+            "name": "Estrazione di Felicity",
+            "number": "98/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/EstrazionediFelicityIncontriLeggendari98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-99/106",
+            "name": "Avanzi",
+            "number": "99/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/AvanziIncontriLeggendari99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-100/106",
+            "name": "Stadio della Luce Lunare",
+            "number": "100/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/StadiodellaLuceLunareIncontriLeggendari100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-101/106",
+            "name": "Premier Ball",
+            "number": "101/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/PremierBallIncontriLeggendari101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-102/106",
+            "name": "Caramella Rara",
+            "number": "102/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/CaramellaRaraIncontriLeggendari102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-103/106",
+            "name": "Cresselia LIV.X",
+            "number": "103/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/CresseliaLIVXIncontriLeggendari103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-104/106",
+            "name": "Darkrai LIV.X",
+            "number": "104/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/DarkraiLIVXIncontriLeggendari104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-105/106",
+            "name": "Dialga LIV.X",
+            "number": "105/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/DialgaLIVXIncontriLeggendari105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "GE-106/106",
+            "name": "Palkia LIV.X",
+            "number": "106/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PalkiaLIVXIncontriLeggendari106.png",
+            "section": "Set principale"
+        }
+    ]
+}

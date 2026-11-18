@@ -1,0 +1,755 @@
+{
+    "expansion": {
+        "id": "CL",
+        "name": "Richiamo delle Leggende",
+				"year": 2011,
+				"month": 4,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/49/SimboloSetRichiamo_delle_Leggende.png",
+        "cardCount": 106
+    },
+    "cards": [
+        {
+            "id": "CL-1/95",
+            "name": "Clefable",
+            "number": "1/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ClefableRichiamodelleLeggende1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-2/95",
+            "name": "Deoxys",
+            "number": "2/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/DeoxysRichiamodelleLeggende2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-3/95",
+            "name": "Dialga",
+            "number": "3/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/DialgaRichiamodelleLeggende3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-4/95",
+            "name": "Espeon",
+            "number": "4/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/EspeonRichiamodelleLeggende4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-5/95",
+            "name": "Forretress",
+            "number": "5/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ForretressRichiamodelleLeggende5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-6/95",
+            "name": "Groudon",
+            "number": "6/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GroudonRichiamodelleLeggende6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-7/95",
+            "name": "Gyarados",
+            "number": "7/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/GyaradosRichiamodelleLeggende7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-8/95",
+            "name": "Hitmontop",
+            "number": "8/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/HitmontopRichiamodelleLeggende8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-9/95",
+            "name": "Ho-Oh",
+            "number": "9/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Ho-OhRichiamodelleLeggende9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-10/95",
+            "name": "Houndoom",
+            "number": "10/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/HoundoomRichiamodelleLeggende10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-11/95",
+            "name": "Jirachi",
+            "number": "11/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/JirachiRichiamodelleLeggende11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-12/95",
+            "name": "Kyogre",
+            "number": "12/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KyogreRichiamodelleLeggende12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-13/95",
+            "name": "Leafeon",
+            "number": "13/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/LeafeonRichiamodelleLeggende13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-14/95",
+            "name": "Lucario",
+            "number": "14/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/LucarioRichiamodelleLeggende14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-15/95",
+            "name": "Lugia",
+            "number": "15/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LugiaRichiamodelleLeggende15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-16/95",
+            "name": "Magmortar",
+            "number": "16/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MagmortarRichiamodelleLeggende16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-17/95",
+            "name": "Ninetales",
+            "number": "17/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/NinetalesRichiamodelleLeggende17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-18/95",
+            "name": "Pachirisu",
+            "number": "18/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/PachirisuRichiamodelleLeggende18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-19/95",
+            "name": "Palkia",
+            "number": "19/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/PalkiaRichiamodelleLeggende19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-20/95",
+            "name": "Rayquaza",
+            "number": "20/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/RayquazaRichiamodelleLeggende20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-21/95",
+            "name": "Smeargle",
+            "number": "21/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SmeargleRichiamodelleLeggende21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-22/95",
+            "name": "Umbreon",
+            "number": "22/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/UmbreonRichiamodelleLeggende22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-23/95",
+            "name": "Ampharos",
+            "number": "23/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/AmpharosRichiamodelleLeggende23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-24/95",
+            "name": "Cleffa",
+            "number": "24/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/CleffaRichiamodelleLeggende24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-25/95",
+            "name": "Feraligatr",
+            "number": "25/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/FeraligatrRichiamodelleLeggende25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-26/95",
+            "name": "Granbull",
+            "number": "26/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/GranbullRichiamodelleLeggende26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-27/95",
+            "name": "Meganium",
+            "number": "27/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MeganiumRichiamodelleLeggende27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-28/95",
+            "name": "Mismagius",
+            "number": "28/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MismagiusRichiamodelleLeggende28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-29/95",
+            "name": "Mr. Mime",
+            "number": "29/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MrMimeRichiamodelleLeggende29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-30/95",
+            "name": "Pidgeot",
+            "number": "30/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/PidgeotRichiamodelleLeggende30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-31/95",
+            "name": "Skarmory",
+            "number": "31/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SkarmoryRichiamodelleLeggende31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-32/95",
+            "name": "Slowking",
+            "number": "32/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SlowkingRichiamodelleLeggende32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-33/95",
+            "name": "Snorlax",
+            "number": "33/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SnorlaxRichiamodelleLeggende33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-34/95",
+            "name": "Tangrowth",
+            "number": "34/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/TangrowthRichiamodelleLeggende34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-35/95",
+            "name": "Typhlosion",
+            "number": "35/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/TyphlosionRichiamodelleLeggende35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-36/95",
+            "name": "Tyrogue",
+            "number": "36/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/TyrogueRichiamodelleLeggende36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-37/95",
+            "name": "Ursaring",
+            "number": "37/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/UrsaringRichiamodelleLeggende37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-38/95",
+            "name": "Weezing",
+            "number": "38/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/WeezingRichiamodelleLeggende38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-39/95",
+            "name": "Zangoose",
+            "number": "39/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/ZangooseRichiamodelleLeggende39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-40/95",
+            "name": "Bayleef",
+            "number": "40/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/BayleefRichiamodelleLeggende40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-41/95",
+            "name": "Croconaw",
+            "number": "41/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CroconawRichiamodelleLeggende41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-42/95",
+            "name": "Donphan",
+            "number": "42/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/DonphanRichiamodelleLeggende42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-43/95",
+            "name": "Flaaffy",
+            "number": "43/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/FlaaffyRichiamodelleLeggende43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-44/95",
+            "name": "Flareon",
+            "number": "44/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/FlareonRichiamodelleLeggende44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-45/95",
+            "name": "Jolteon",
+            "number": "45/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/JolteonRichiamodelleLeggende45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-46/95",
+            "name": "Magby",
+            "number": "46/95",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MagbyRichiamodelleLeggende46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-47/95",
+            "name": "Mime Jr.",
+            "number": "47/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MimeJrRichiamodelleLeggende47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-48/95",
+            "name": "Pidgeotto",
+            "number": "48/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/PidgeottoRichiamodelleLeggende48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-49/95",
+            "name": "Quilava",
+            "number": "49/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/QuilavaRichiamodelleLeggende49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-50/95",
+            "name": "Riolu",
+            "number": "50/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/RioluRichiamodelleLeggende50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-51/95",
+            "name": "Seviper",
+            "number": "51/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SeviperRichiamodelleLeggende51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-52/95",
+            "name": "Vaporeon",
+            "number": "52/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/VaporeonRichiamodelleLeggende52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-53/95",
+            "name": "Chikorita",
+            "number": "53/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ChikoritaRichiamodelleLeggende53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-54/95",
+            "name": "Clefairy",
+            "number": "54/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ClefairyRichiamodelleLeggende54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-55/95",
+            "name": "Cyndaquil",
+            "number": "55/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/CyndaquilRichiamodelleLeggende55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-56/95",
+            "name": "Eevee",
+            "number": "56/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/EeveeRichiamodelleLeggende56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-57/95",
+            "name": "Hitmonchan",
+            "number": "57/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/HitmonchanRichiamodelleLeggende57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-58/95",
+            "name": "Hitmonlee",
+            "number": "58/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/HitmonleeRichiamodelleLeggende58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-59/95",
+            "name": "Houndour",
+            "number": "59/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/HoundourRichiamodelleLeggende59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-60/95",
+            "name": "Koffing",
+            "number": "60/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/KoffingRichiamodelleLeggende60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-61/95",
+            "name": "Magikarp",
+            "number": "61/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MagikarpRichiamodelleLeggende61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-62/95",
+            "name": "Magmar",
+            "number": "62/95",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MagmarRichiamodelleLeggende62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-63/95",
+            "name": "Mareep",
+            "number": "63/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/MareepRichiamodelleLeggende63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-64/95",
+            "name": "Mawile",
+            "number": "64/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/MawileRichiamodelleLeggende64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-65/95",
+            "name": "Misdreavus",
+            "number": "65/95",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/MisdreavusRichiamodelleLeggende65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-66/95",
+            "name": "Phanpy",
+            "number": "66/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/PhanpyRichiamodelleLeggende66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-67/95",
+            "name": "Pidgey",
+            "number": "67/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PidgeyRichiamodelleLeggende67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-68/95",
+            "name": "Pineco",
+            "number": "68/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/PinecoRichiamodelleLeggende68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-69/95",
+            "name": "Relicanth",
+            "number": "69/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/RelicanthRichiamodelleLeggende69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-70/95",
+            "name": "Slowpoke",
+            "number": "70/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SlowpokeRichiamodelleLeggende70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-71/95",
+            "name": "Snubbull",
+            "number": "71/95",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SnubbullRichiamodelleLeggende71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-72/95",
+            "name": "Tangela",
+            "number": "72/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/TangelaRichiamodelleLeggende72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-73/95",
+            "name": "Teddiursa",
+            "number": "73/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/TeddiursaRichiamodelleLeggende73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-74/95",
+            "name": "Totodile",
+            "number": "74/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TotodileRichiamodelleLeggende74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-75/95",
+            "name": "Vulpix",
+            "number": "75/95",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/VulpixRichiamodelleLeggende75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-76/95",
+            "name": "Incoraggiamento della Cheerleader",
+            "number": "76/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/IncoraggiamentodellaCheerleaderRichiamodelleLeggende76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-77/95",
+            "name": "Copiona",
+            "number": "77/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/CopionaRichiamodelleLeggende77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-78/95",
+            "name": "Palla Doppia",
+            "number": "78/95",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/PallaDoppiaRichiamodelleLeggende78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-79/95",
+            "name": "Domande dell'Intervistatrice",
+            "number": "79/95",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/DomandedellIntervistatriceRichiamodelleLeggende79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-80/95",
+            "name": "Rimozione Perduta",
+            "number": "80/95",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/RimozionePerdutaRichiamodelleLeggende80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-81/95",
+            "name": "Mondo Perduto",
+            "number": "81/95",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/MondoPerdutoRichiamodelleLeggende81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-82/95",
+            "name": "Sistema d'Allenamento del Prof. Elm",
+            "number": "82/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/SistemadAllenamentodelProfElmRichiamodelleLeggende82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-83/95",
+            "name": "Nuova Teoria del Professor Oak",
+            "number": "83/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/NuovaTeoriadelProfessorOakRichiamodelleLeggende83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-84/95",
+            "name": "Registro delle Ricerche",
+            "number": "84/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/RegistrodelleRicercheRichiamodelleLeggende84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-85/95",
+            "name": "Addestramento del Saggio",
+            "number": "85/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/AddestramentodelSaggioRichiamodelleLeggende85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-86/95",
+            "name": "Energia Oscurità",
+            "number": "86/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/EnergiaOscurit%C3%A0RichiamodelleLeggende86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-87/95",
+            "name": "Energia Metallo",
+            "number": "87/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/EnergiaMetalloRichiamodelleLeggende87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-88/95",
+            "name": "Energia Erba",
+            "number": "88/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/EnergiaErbaRichiamodelleLeggende88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-89/95",
+            "name": "Energia Fuoco",
+            "number": "89/95",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/EnergiaFuocoRichiamodelleLeggende89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-90/95",
+            "name": "Energia Acqua",
+            "number": "90/95",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/EnergiaAcquaRichiamodelleLeggende90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-91/95",
+            "name": "Energia Lampo",
+            "number": "91/95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/EnergiaLampoRichiamodelleLeggende91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-92/95",
+            "name": "Energia Psiche",
+            "number": "92/95",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/EnergiaPsicheRichiamodelleLeggende92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-93/95",
+            "name": "Energia Combattimento",
+            "number": "93/95",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/EnergiaCombattimentoRichiamodelleLeggende93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-94/95",
+            "name": "Energia Oscurità",
+            "number": "94/95",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/EnergiaOscurit%C3%A0RichiamodelleLeggende94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-95/95",
+            "name": "Energia Metallo",
+            "number": "95/95",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/EnergiaMetalloRichiamodelleLeggende95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CL-SL1",
+            "name": "Deoxys",
+            "number": "SL1",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/DeoxysRichiamodelleLeggendeSL1.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL2",
+            "name": "Dialga",
+            "number": "SL2",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/DialgaRichiamodelleLeggendeSL2.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL3",
+            "name": "Entei",
+            "number": "SL3",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/EnteiRichiamodelleLeggendeSL3.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL4",
+            "name": "Groudon",
+            "number": "SL4",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/GroudonRichiamodelleLeggendeSL4.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL5",
+            "name": "Ho-Oh",
+            "number": "SL5",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Ho-OhRichiamodelleLeggendeSL5.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL6",
+            "name": "Kyogre",
+            "number": "SL6",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/KyogreRichiamodelleLeggendeSL6.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL7",
+            "name": "Lugia",
+            "number": "SL7",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/LugiaRichiamodelleLeggendeSL7.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL8",
+            "name": "Palkia",
+            "number": "SL8",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/PalkiaRichiamodelleLeggendeSL8.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL9",
+            "name": "Raikou",
+            "number": "SL9",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/RaikouRichiamodelleLeggendeSL9.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL10",
+            "name": "Rayquaza",
+            "number": "SL10",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/RayquazaRichiamodelleLeggendeSL10.png",
+            "section": "Cromatiche"
+        },
+        {
+            "id": "CL-SL11",
+            "name": "Suicune",
+            "number": "SL11",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SuicuneRichiamodelleLeggendeSL11.png",
+            "section": "Cromatiche"
+        }
+    ]
+}

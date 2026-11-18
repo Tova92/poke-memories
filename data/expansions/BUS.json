@@ -1,0 +1,1253 @@
+{
+    "expansion": {
+        "id": "BUS",
+        "name": "Sole e Luna - Ombre Infuocate",
+        "year": 2017,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4b/SimboloSetOmbre_Infuocate.png",
+        "cardCount": 169,
+				"yellowAAlternateCardCount": 8
+    },
+    "cards": [
+        {
+            "id": "BUS-1/147",
+            "name": "Caterpie",
+            "number": "1/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/CaterpieOmbreInfuocate1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-2/147",
+            "name": "Metapod",
+            "number": "2/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/MetapodOmbreInfuocate2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-3/147",
+            "name": "Butterfree",
+            "number": "3/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/ButterfreeOmbreInfuocate3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-4/147",
+            "name": "Oddish",
+            "number": "4/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/OddishOmbreInfuocate4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-5/147",
+            "name": "Gloom",
+            "number": "5/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/GloomOmbreInfuocate5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-6/147",
+            "name": "Vileplume",
+            "number": "6/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/VileplumeOmbreInfuocate6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-7/147",
+            "name": "Tangela",
+            "number": "7/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/TangelaOmbreInfuocate7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-8/147",
+            "name": "Tangrowth",
+            "number": "8/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/TangrowthOmbreInfuocate8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-9/147",
+            "name": "Ledyba",
+            "number": "9/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/LedybaOmbreInfuocate9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-10/147",
+            "name": "Ledian",
+            "number": "10/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/LedianOmbreInfuocate10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-11/147",
+            "name": "Heracross",
+            "number": "11/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/HeracrossOmbreInfuocate11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-12/147",
+            "name": "Pansage",
+            "number": "12/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PansageOmbreInfuocate12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-13/147",
+            "name": "Simisage",
+            "number": "13/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SimisageOmbreInfuocate13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-14/147",
+            "name": "Dewpider",
+            "number": "14/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/DewpiderOmbreInfuocate14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-15/147",
+            "name": "Araquanid",
+            "number": "15/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/AraquanidOmbreInfuocate15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-16/147",
+            "name": "Wimpod",
+            "number": "16/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/WimpodOmbreInfuocate16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-17/147",
+            "name": "Golisopod-GX",
+            "number": "17/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Golisopod-GXOmbreInfuocate17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-18/147",
+            "name": "Charmander",
+            "number": "18/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CharmanderOmbreInfuocate18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-19/147",
+            "name": "Charmeleon",
+            "number": "19/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/CharmeleonOmbreInfuocate19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-20/147",
+            "name": "Charizard-GX",
+            "number": "20/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Charizard-GXOmbreInfuocate20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-21/147",
+            "name": "Ho-Oh-GX",
+            "number": "21/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Ho-Oh-GXOmbreInfuocate21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-22/147",
+            "name": "Pansear",
+            "number": "22/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/PansearOmbreInfuocate22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-23/147",
+            "name": "Simisear",
+            "number": "23/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SimisearOmbreInfuocate23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-24/147",
+            "name": "Heatmor",
+            "number": "24/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/HeatmorOmbreInfuocate24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-25/147",
+            "name": "Salazzle-GX",
+            "number": "25/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Salazzle-GXOmbreInfuocate25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-26/147",
+            "name": "Turtonator",
+            "number": "26/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/TurtonatorOmbreInfuocate26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-27/147",
+            "name": "Vulpix di Alola",
+            "number": "27/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/VulpixdiAlolaOmbreInfuocate27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-28/147",
+            "name": "Ninetales di Alola",
+            "number": "28/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/NinetalesdiAlolaOmbreInfuocate28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-29/147",
+            "name": "Horsea",
+            "number": "29/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/HorseaOmbreInfuocate29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-30/147",
+            "name": "Seadra",
+            "number": "30/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/SeadraOmbreInfuocate30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-31/147",
+            "name": "Kingdra",
+            "number": "31/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/KingdraOmbreInfuocate31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-32/147",
+            "name": "Magikarp",
+            "number": "32/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MagikarpOmbreInfuocate32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-33/147",
+            "name": "Gyarados",
+            "number": "33/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/GyaradosOmbreInfuocate33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-34/147",
+            "name": "Marill",
+            "number": "34/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/MarillOmbreInfuocate34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-35/147",
+            "name": "Azumarill",
+            "number": "35/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/AzumarillOmbreInfuocate35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-36/147",
+            "name": "Panpour",
+            "number": "36/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/PanpourOmbreInfuocate36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-37/147",
+            "name": "Simipour",
+            "number": "37/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SimipourOmbreInfuocate37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-38/147",
+            "name": "Bruxish",
+            "number": "38/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/BruxishOmbreInfuocate38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-39/147",
+            "name": "Tapu Fini-GX",
+            "number": "39/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/TapuFini-GXOmbreInfuocate39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-40/147",
+            "name": "Pikachu",
+            "number": "40/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PikachuOmbreInfuocate40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-41/147",
+            "name": "Raichu",
+            "number": "41/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/RaichuOmbreInfuocate41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-42/147",
+            "name": "Electabuzz",
+            "number": "42/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ElectabuzzOmbreInfuocate42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-43/147",
+            "name": "Electivire",
+            "number": "43/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/ElectivireOmbreInfuocate43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-44/147",
+            "name": "Tynamo",
+            "number": "44/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TynamoOmbreInfuocate44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-45/147",
+            "name": "Eelektrik",
+            "number": "45/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/EelektrikOmbreInfuocate45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-46/147",
+            "name": "Eelektross",
+            "number": "46/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/EelektrossOmbreInfuocate46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-47/147",
+            "name": "Togedemaru",
+            "number": "47/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/TogedemaruOmbreInfuocate47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-48/147",
+            "name": "Slowking",
+            "number": "48/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SlowkingOmbreInfuocate48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-49/147",
+            "name": "Wobbuffet",
+            "number": "49/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/WobbuffetOmbreInfuocate49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-50/147",
+            "name": "Seviper",
+            "number": "50/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/SeviperOmbreInfuocate50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-51/147",
+            "name": "Duskull",
+            "number": "51/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/DuskullOmbreInfuocate51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-52/147",
+            "name": "Dusclops",
+            "number": "52/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/DusclopsOmbreInfuocate52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-53/147",
+            "name": "Dusknoir",
+            "number": "53/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/DusknoirOmbreInfuocate53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-54/147",
+            "name": "Croagunk",
+            "number": "54/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/CroagunkOmbreInfuocate54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-55/147",
+            "name": "Toxicroak",
+            "number": "55/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/ToxicroakOmbreInfuocate55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-56/147",
+            "name": "Venipede",
+            "number": "56/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/VenipedeOmbreInfuocate56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-57/147",
+            "name": "Whirlipede",
+            "number": "57/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/WhirlipedeOmbreInfuocate57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-58/147",
+            "name": "Scolipede",
+            "number": "58/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ScolipedeOmbreInfuocate58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-59/147",
+            "name": "Espurr",
+            "number": "59/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/EspurrOmbreInfuocate59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-60/147",
+            "name": "Meowstic",
+            "number": "60/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/MeowsticOmbreInfuocate60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-61/147",
+            "name": "Sandygast",
+            "number": "61/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/SandygastOmbreInfuocate61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-62/147",
+            "name": "Palossand",
+            "number": "62/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/PalossandOmbreInfuocate62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-63/147",
+            "name": "Necrozma-GX",
+            "number": "63/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Necrozma-GXOmbreInfuocate63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-64/147",
+            "name": "Machamp-GX",
+            "number": "64/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/Machamp-GXOmbreInfuocate64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-65/147",
+            "name": "Rhyhorn",
+            "number": "65/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RhyhornOmbreInfuocate65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-66/147",
+            "name": "Rhydon",
+            "number": "66/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/RhydonOmbreInfuocate66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-67/147",
+            "name": "Rhyperior",
+            "number": "67/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/RhyperiorOmbreInfuocate67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-68/147",
+            "name": "Lunatone",
+            "number": "68/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LunatoneOmbreInfuocate68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-69/147",
+            "name": "Solrock",
+            "number": "69/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/SolrockOmbreInfuocate69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-70/147",
+            "name": "Riolu",
+            "number": "70/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/RioluOmbreInfuocate70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-71/147",
+            "name": "Lucario",
+            "number": "71/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/LucarioOmbreInfuocate71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-72/147",
+            "name": "Sawk",
+            "number": "72/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/SawkOmbreInfuocate72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-73/147",
+            "name": "Crabrawler",
+            "number": "73/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/CrabrawlerOmbreInfuocate73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-74/147",
+            "name": "Crabominable",
+            "number": "74/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/CrabominableOmbreInfuocate74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-75/147",
+            "name": "Lycanroc",
+            "number": "75/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/LycanrocOmbreInfuocate75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-76/147",
+            "name": "Lycanroc",
+            "number": "76/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/LycanrocOmbreInfuocate76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-77/147",
+            "name": "Mudbray",
+            "number": "77/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MudbrayOmbreInfuocate77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-78/147",
+            "name": "Mudsdale",
+            "number": "78/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MudsdaleOmbreInfuocate78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-79/147",
+            "name": "Passimian",
+            "number": "79/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/PassimianOmbreInfuocate79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-80/147",
+            "name": "Marshadow-GX",
+            "number": "80/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Marshadow-GXOmbreInfuocate80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-81/147",
+            "name": "Rattata di Alola",
+            "number": "81/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/RattatadiAlolaOmbreInfuocate81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-82/147",
+            "name": "Raticate di Alola",
+            "number": "82/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/RaticatediAlolaOmbreInfuocate82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-83/147",
+            "name": "Grimer di Alola",
+            "number": "83/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/GrimerdiAlolaOmbreInfuocate83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-84/147",
+            "name": "Muk di Alola-GX",
+            "number": "84/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MukdiAlola-GXOmbreInfuocate84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-85/147",
+            "name": "Sneasel",
+            "number": "85/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/SneaselOmbreInfuocate85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-86/147",
+            "name": "Weavile",
+            "number": "86/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/WeavileOmbreInfuocate86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-87/147",
+            "name": "Darkrai",
+            "number": "87/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/DarkraiOmbreInfuocate87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-88/147",
+            "name": "Darkrai-GX",
+            "number": "88/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/Darkrai-GXOmbreInfuocate88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-89/147",
+            "name": "Inkay",
+            "number": "89/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/InkayOmbreInfuocate89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-90/147",
+            "name": "Malamar",
+            "number": "90/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/MalamarOmbreInfuocate90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-91/147",
+            "name": "Ralts",
+            "number": "91/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/RaltsOmbreInfuocate91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-92/147",
+            "name": "Kirlia",
+            "number": "92/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/KirliaOmbreInfuocate92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-93/147",
+            "name": "Gardevoir-GX",
+            "number": "93/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Gardevoir-GXOmbreInfuocate93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-94/147",
+            "name": "Diancie",
+            "number": "94/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/DiancieOmbreInfuocate94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-95/147",
+            "name": "Cutiefly",
+            "number": "95/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/CutieflyOmbreInfuocate95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-96/147",
+            "name": "Ribombee",
+            "number": "96/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/RibombeeOmbreInfuocate96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-97/147",
+            "name": "Morelull",
+            "number": "97/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MorelullOmbreInfuocate97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-98/147",
+            "name": "Shiinotic",
+            "number": "98/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ShiinoticOmbreInfuocate98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-99/147",
+            "name": "Noivern-GX",
+            "number": "99/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Noivern-GXOmbreInfuocate99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-100/147",
+            "name": "Zygarde",
+            "number": "100/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ZygardeOmbreInfuocate100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-101/147",
+            "name": "Meowth",
+            "number": "101/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MeowthOmbreInfuocate101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-102/147",
+            "name": "Persian",
+            "number": "102/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/PersianOmbreInfuocate102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-103/147",
+            "name": "Porygon",
+            "number": "103/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/PorygonOmbreInfuocate103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-104/147",
+            "name": "Porygon2",
+            "number": "104/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/Porygon2OmbreInfuocate104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-105/147",
+            "name": "Porygon-Z",
+            "number": "105/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Porygon-ZOmbreInfuocate105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-106/147",
+            "name": "Hoothoot",
+            "number": "106/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/HoothootOmbreInfuocate106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-107/147",
+            "name": "Noctowl",
+            "number": "107/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/NoctowlOmbreInfuocate107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-108/147",
+            "name": "Bouffalant",
+            "number": "108/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/BouffalantOmbreInfuocate108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-109/147",
+            "name": "Noibat",
+            "number": "109/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/NoibatOmbreInfuocate109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-110/147",
+            "name": "Stufful",
+            "number": "110/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/StuffulOmbreInfuocate110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-111/147",
+            "name": "Bewear",
+            "number": "111/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/BewearOmbreInfuocate111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-112/147",
+            "name": "Malpi",
+            "number": "112/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MalpiOmbreInfuocate112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-113/147",
+            "name": "Manubri del Culturista",
+            "number": "113/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ManubridelCulturistaOmbreInfuocate113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-114/147",
+            "name": "Fune di Fuga",
+            "number": "114/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/FunediFugaOmbreInfuocate114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-115/147",
+            "name": "Guzman",
+            "number": "115/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/GuzmanOmbreInfuocate115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-116/147",
+            "name": "Kawe",
+            "number": "116/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/KaweOmbreInfuocate116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-117/147",
+            "name": "Suiren",
+            "number": "117/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/SuirenOmbreInfuocate117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-118/147",
+            "name": "Monte Lanakila",
+            "number": "118/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MonteLanakilaOmbreInfuocate118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-119/147",
+            "name": "Alyxia",
+            "number": "119/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/AlyxiaOmbreInfuocate119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-120/147",
+            "name": "Plumeria",
+            "number": "120/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/PlumeriaOmbreInfuocate120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-121/147",
+            "name": "Poh",
+            "number": "121/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/PohOmbreInfuocate121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-122/147",
+            "name": "Pokédex Rotom - Modalità Pokévisore",
+            "number": "122/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/Pok%C3%A9dexRotom-Modalit%C3%A0Pok%C3%A9visoreOmbreInfuocate122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-123/147",
+            "name": "Chrys",
+            "number": "123/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/ChrysOmbreInfuocate123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-124/147",
+            "name": "Super Recupero",
+            "number": "124/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SuperRecuperoOmbreInfuocate124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-125/147",
+            "name": "Spray Attaccabrighe",
+            "number": "125/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SprayAttaccabrigheOmbreInfuocate125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-126/147",
+            "name": "Vulneropolizza",
+            "number": "126/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/VulneropolizzaOmbreInfuocate126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-127/147",
+            "name": "Ciceria",
+            "number": "127/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/CiceriaOmbreInfuocate127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-128/147",
+            "name": "Testimone della Speranza",
+            "number": "128/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/TestimonedellaSperanzaOmbreInfuocate128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-129/147",
+            "name": "Golisopod-GX",
+            "number": "129/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Golisopod-GXOmbreInfuocate129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-130/147",
+            "name": "Tapu Bulu-GX",
+            "number": "130/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/TapuBulu-GXOmbreInfuocate130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-131/147",
+            "name": "Ho-Oh-GX",
+            "number": "131/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Ho-Oh-GXOmbreInfuocate131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-132/147",
+            "name": "Salazzle-GX",
+            "number": "132/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Salazzle-GXOmbreInfuocate132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-133/147",
+            "name": "Tapu Fini-GX",
+            "number": "133/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/TapuFini-GXOmbreInfuocate133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-134/147",
+            "name": "Necrozma-GX",
+            "number": "134/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Necrozma-GXOmbreInfuocate134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-135/147",
+            "name": "Machamp-GX",
+            "number": "135/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Machamp-GXOmbreInfuocate135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-136/147",
+            "name": "Lycanroc-GX",
+            "number": "136/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Lycanroc-GXOmbreInfuocate136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-137/147",
+            "name": "Marshadow-GX",
+            "number": "137/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Marshadow-GXOmbreInfuocate137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-138/147",
+            "name": "Muk di Alola-GX",
+            "number": "138/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/MukdiAlola-GXOmbreInfuocate138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-139/147",
+            "name": "Darkrai-GX",
+            "number": "139/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Darkrai-GXOmbreInfuocate139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-140/147",
+            "name": "Gardevoir-GX",
+            "number": "140/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Gardevoir-GXOmbreInfuocate140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-141/147",
+            "name": "Noivern-GX",
+            "number": "141/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Noivern-GXOmbreInfuocate141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-142/147",
+            "name": "Malpi",
+            "number": "142/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/MalpiOmbreInfuocate142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-143/147",
+            "name": "Guzman",
+            "number": "143/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/GuzmanOmbreInfuocate143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-144/147",
+            "name": "Kawe",
+            "number": "144/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/KaweOmbreInfuocate144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-145/147",
+            "name": "Plumeria",
+            "number": "145/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/PlumeriaOmbreInfuocate145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-146/147",
+            "name": "Chrys",
+            "number": "146/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ChrysOmbreInfuocate146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-147/147",
+            "name": "Ciceria",
+            "number": "147/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/CiceriaOmbreInfuocate147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BUS-148/147",
+            "name": "Golisopod-GX",
+            "number": "148/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Golisopod-GXOmbreInfuocate148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-149/147",
+            "name": "Tapu Bulu-GX",
+            "number": "149/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/TapuBulu-GXOmbreInfuocate149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-150/147",
+            "name": "Charizard-GX",
+            "number": "150/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Charizard-GXOmbreInfuocate150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-151/147",
+            "name": "Salazzle-GX",
+            "number": "151/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Salazzle-GXOmbreInfuocate151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-152/147",
+            "name": "Tapu Fini-GX",
+            "number": "152/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TapuFini-GXOmbreInfuocate152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-153/147",
+            "name": "Necrozma-GX",
+            "number": "153/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Necrozma-GXOmbreInfuocate153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-154/147",
+            "name": "Machamp-GX",
+            "number": "154/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/Machamp-GXOmbreInfuocate154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-155/147",
+            "name": "Lycanroc-GX",
+            "number": "155/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Lycanroc-GXOmbreInfuocate155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-156/147",
+            "name": "Marshadow-GX",
+            "number": "156/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Marshadow-GXOmbreInfuocate156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-157/147",
+            "name": "Muk di Alola-GX",
+            "number": "157/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MukdiAlola-GXOmbreInfuocate157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-158/147",
+            "name": "Darkrai-GX",
+            "number": "158/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Darkrai-GXOmbreInfuocate158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-159/147",
+            "name": "Gardevoir-GX",
+            "number": "159/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Gardevoir-GXOmbreInfuocate159.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-160/147",
+            "name": "Noivern-GX",
+            "number": "160/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Noivern-GXOmbreInfuocate160.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-161/147",
+            "name": "Manubri del Culturista",
+            "number": "161/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ManubridelCulturistaOmbreInfuocate161.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-162/147",
+            "name": "Bendascelta",
+            "number": "162/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/BendasceltaOmbreInfuocate162.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-163/147",
+            "name": "Fune di Fuga",
+            "number": "163/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/FunediFugaOmbreInfuocate163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-164/147",
+            "name": "Scambio Multiplo",
+            "number": "164/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ScambioMultiploOmbreInfuocate164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-165/147",
+            "name": "Barella",
+            "number": "165/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/BarellaOmbreInfuocate165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-166/147",
+            "name": "Super Recupero",
+            "number": "166/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SuperRecuperoOmbreInfuocate166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-167/147",
+            "name": "Energia Fuoco",
+            "number": "167/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EnergiaFuocoOmbreInfuocate167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-168/147",
+            "name": "Energia Oscurità",
+            "number": "168/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/EnergiaOscurit%C3%A0OmbreInfuocate168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-169/147",
+            "name": "Energia Folletto",
+            "number": "169/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/EnergiaFollettoOmbreInfuocate169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BUS-18a/147",
+            "name": "Charmander",
+            "number": "18a/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/CharmanderOmbreInfuocate18a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-39a/147",
+            "name": "Tapu Fini-GX",
+            "number": "39a/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/TapuFini-GXOmbreInfuocate39a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-88a/147",
+            "name": "Darkrai-GX",
+            "number": "88a/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Darkrai-GXOmbreInfuocate88a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-92a/147",
+            "name": "Kirlia",
+            "number": "92a/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/KirliaOmbreInfuocate92a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-105a/147",
+            "name": "Porygon-Z",
+            "number": "105a/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Porygon-ZOmbreInfuocate105a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-112a/147",
+            "name": "Malpi",
+            "number": "112a/147",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-115a/147",
+            "name": "Guzman",
+            "number": "115a/147",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BUS-116a/147",
+            "name": "Kawe",
+            "number": "116a/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/KaweOmbreInfuocate116a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

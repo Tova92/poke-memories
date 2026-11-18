@@ -1,0 +1,727 @@
+{
+    "expansion": {
+        "id": "BS",
+        "name": "Set Base",
+				"year": 2000,
+				"month": 3,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cb/Logo_Set_Base.png",
+        "cardCount": 102
+    },
+    "cards": [
+        {
+            "id": "BS-1/102",
+            "name": "Alakazam",
+            "number": "1/102",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/AlakazamSetBase1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-2/102",
+            "name": "Blastoise",
+            "number": "2/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/BlastoiseSetBase2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-3/102",
+            "name": "Chansey",
+            "number": "3/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ChanseySetBase3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-4/102",
+            "name": "Charizard",
+            "number": "4/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/CharizardSetBase4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-5/102",
+            "name": "Clefairy",
+            "number": "5/102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ClefairySetBase5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-6/102",
+            "name": "Gyarados",
+            "number": "6/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/GyaradosSetBase6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-7/102",
+            "name": "Hitmonchan",
+            "number": "7/102",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/HitmonchanSetBase7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-8/102",
+            "name": "Machamp",
+            "number": "8/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MachampSetBase8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-9/102",
+            "name": "Magneton",
+            "number": "9/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MagnetonSetBase9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-10/102",
+            "name": "Mewtwo",
+            "number": "10/102",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/MewtwoSetBase10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-11/102",
+            "name": "Nidoking",
+            "number": "11/102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/NidokingSetBase11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-12/102",
+            "name": "Ninetales",
+            "number": "12/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/NinetalesSetBase12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-13/102",
+            "name": "Poliwrath",
+            "number": "13/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/PoliwrathSetBase13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-14/102",
+            "name": "Raichu",
+            "number": "14/102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/RaichuSetBase14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-15/102",
+            "name": "Venusaur",
+            "number": "15/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/VenusaurSetBase15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-16/102",
+            "name": "Zapdos",
+            "number": "16/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ZapdosSetBase16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-17/102",
+            "name": "Beedrill",
+            "number": "17/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/BeedrillSetBase17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-18/102",
+            "name": "Dragonair",
+            "number": "18/102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/DragonairSetBase18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-19/102",
+            "name": "Dugtrio",
+            "number": "19/102",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/DugtrioSetBase19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-20/102",
+            "name": "Electabuzz",
+            "number": "20/102",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/ElectabuzzSetBase20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-21/102",
+            "name": "Electrode",
+            "number": "21/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/ElectrodeSetBase21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-22/102",
+            "name": "Pidgeotto",
+            "number": "22/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/PidgeottoSetBase22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-23/102",
+            "name": "Arcanine",
+            "number": "23/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/ArcanineSetBase23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-24/102",
+            "name": "Charmeleon",
+            "number": "24/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/CharmeleonSetBase24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-25/102",
+            "name": "Dewgong",
+            "number": "25/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/DewgongSetBase25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-26/102",
+            "name": "Dratini",
+            "number": "26/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DratiniSetBase26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-27/102",
+            "name": "Farfetch'd",
+            "number": "27/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/FarfetchdSetBase27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-28/102",
+            "name": "Growlithe",
+            "number": "28/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/GrowlitheSetBase28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-29/102",
+            "name": "Haunter",
+            "number": "29/102",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/HaunterSetBase29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-30/102",
+            "name": "Ivysaur",
+            "number": "30/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/IvysaurSetBase30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-31/102",
+            "name": "Jynx",
+            "number": "31/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/JynxSetBase31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-32/102",
+            "name": "Kadabra",
+            "number": "32/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/KadabraSetBase32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-33/102",
+            "name": "Kakuna",
+            "number": "33/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/KakunaSetBase33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-34/102",
+            "name": "Machoke",
+            "number": "34/102",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MachokeSetBase34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-35/102",
+            "name": "Magikarp",
+            "number": "35/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/MagikarpSetBase35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-36/102",
+            "name": "Magmar",
+            "number": "36/102",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MagmarSetBase36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-37/102",
+            "name": "Nidorino",
+            "number": "37/102",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/NidorinoSetBase37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-38/102",
+            "name": "Poliwhirl",
+            "number": "38/102",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/PoliwhirlSetBase38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-39/102",
+            "name": "Porygon",
+            "number": "39/102",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/PorygonSetBase39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-40/102",
+            "name": "Raticate",
+            "number": "40/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/RaticateSetBase40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-41/102",
+            "name": "Seel",
+            "number": "41/102",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SeelSetBase41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-42/102",
+            "name": "Wartortle",
+            "number": "42/102",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/WartortleSetBase42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-43/102",
+            "name": "Abra",
+            "number": "43/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/AbraSetBase43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-44/102",
+            "name": "Bulbasaur",
+            "number": "44/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/BulbasaurSetBase44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-45/102",
+            "name": "Caterpie",
+            "number": "45/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/CaterpieSetBase45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-46/102",
+            "name": "Charmander",
+            "number": "46/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/CharmanderSetBase46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-47/102",
+            "name": "Diglett",
+            "number": "47/102",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/DiglettSetBase47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-48/102",
+            "name": "Doduo",
+            "number": "48/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/DoduoSetBase48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-49/102",
+            "name": "Drowzee",
+            "number": "49/102",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/DrowzeeSetBase49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-50/102",
+            "name": "Gastly",
+            "number": "50/102",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/GastlySetBase50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-51/102",
+            "name": "Koffing",
+            "number": "51/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/KoffingSetBase51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-52/102",
+            "name": "Machop",
+            "number": "52/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MachopSetBase52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-53/102",
+            "name": "Magnemite",
+            "number": "53/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MagnemiteSetBase53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-54/102",
+            "name": "Metapod",
+            "number": "54/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/MetapodSetBase54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-55/102",
+            "name": "Nidoran♂",
+            "number": "55/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/NidoranSetBase55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-56/102",
+            "name": "Onix",
+            "number": "56/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/OnixSetBase56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-57/102",
+            "name": "Pidgey",
+            "number": "57/102",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PidgeySetBase57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-58/102",
+            "name": "Pikachu",
+            "number": "58/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/PikachuSetBase58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-59/102",
+            "name": "Poliwag",
+            "number": "59/102",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/PoliwagSetBase59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-60/102",
+            "name": "Ponyta",
+            "number": "60/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PonytaSetBase60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-61/102",
+            "name": "Rattata",
+            "number": "61/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/RattataSetBase61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-62/102",
+            "name": "Sandshrew",
+            "number": "62/102",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/SandshrewSetBase62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-63/102",
+            "name": "Squirtle",
+            "number": "63/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SquirtleSetBase63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-64/102",
+            "name": "Starmie",
+            "number": "64/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/StarmieSetBase64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-65/102",
+            "name": "Staryu",
+            "number": "65/102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/StaryuSetBase65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-66/102",
+            "name": "Tangela",
+            "number": "66/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/TangelaSetBase66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-67/102",
+            "name": "Voltorb",
+            "number": "67/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/VoltorbSetBase67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-68/102",
+            "name": "Vulpix",
+            "number": "68/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/VulpixSetBase68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-69/102",
+            "name": "Weedle",
+            "number": "69/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/WeedleSetBase69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-70/102",
+            "name": "Clefairy Doll",
+            "number": "70/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/ClefairyDollSetBase70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-71/102",
+            "name": "Ricerca Computerizzata",
+            "number": "71/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/RicercaComputerizzataSetBase71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-72/102",
+            "name": "Getto di Involuzione",
+            "number": "72/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/GettodiInvoluzioneSetBase72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-73/102",
+            "name": "Professor Oak, l'impostore",
+            "number": "73/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ProfessorOakLImpostoreSetBase73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-74/102",
+            "name": "Oggetti Smarriti",
+            "number": "74/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/OggettiSmarritiSetBase74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-75/102",
+            "name": "Pupa",
+            "number": "75/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/PupaSetBase75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-76/102",
+            "name": "Allevatore di Pokémon",
+            "number": "76/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/AllevatoreDiPok%C3%A9monSetBase76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-77/102",
+            "name": "Scambio di Pokémon",
+            "number": "77/102",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/ScambioDiPok%C3%A9monSetBase77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-78/102",
+            "name": "Recupero",
+            "number": "78/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/RecuperoSetBase78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-79/102",
+            "name": "Super-Rimozione di Energia",
+            "number": "79/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/SuperRimozioneDiEnergiaSetBase79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-80/102",
+            "name": "Difensore",
+            "number": "80/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/DifensoreSetBase80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-81/102",
+            "name": "Recupero di Energia",
+            "number": "81/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/RecuperodiEnergiaSetBase81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-82/102",
+            "name": "Recupero Totale",
+            "number": "82/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/RecuperoTotaleSetBase82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-83/102",
+            "name": "Manutenzione",
+            "number": "83/102",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ManutenzioneSetBase83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-84/102",
+            "name": "PlusPotenza",
+            "number": "84/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PlusPotenzaSetBase84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-85/102",
+            "name": "Centro Pokémon",
+            "number": "85/102",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CentroPok%C3%A9monSetBase85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-86/102",
+            "name": "Poké Flauto",
+            "number": "86/102",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/Pok%C3%A9FlautoSetBase86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-87/102",
+            "name": "Pokédex",
+            "number": "87/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Pok%C3%A9dexSetBase87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-88/102",
+            "name": "Professor Oak",
+            "number": "88/102",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/ProfessorOakSetBase88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-89/102",
+            "name": "Revitalizzazione",
+            "number": "89/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/RevitalizzazioneSetBase89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-90/102",
+            "name": "Super Pozione Magica",
+            "number": "90/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SuperPozioneMagicaSetBase90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-91/102",
+            "name": "Bill",
+            "number": "91/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/BillSetBase91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-92/102",
+            "name": "Distruzione di Energia",
+            "number": "92/102",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/DistruzionediEnergiaSetBase92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-93/102",
+            "name": "Ventata",
+            "number": "93/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/VentataSetBase93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-94/102",
+            "name": "Pozione Magica",
+            "number": "94/102",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/PozioneMagicaSetBase94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-95/102",
+            "name": "Scambio",
+            "number": "95/102",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ScambioSetBase95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-96/102",
+            "name": "Energia Incolore Doppia",
+            "number": "96/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/EnergiaIncoloreDoppiaSetBase96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-97/102",
+            "name": "Energia Combattimento",
+            "number": "97/102",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/EnergiaCombattimentoSetBase97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-98/102",
+            "name": "Energia Fuoco",
+            "number": "98/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/EnergiaFuocoSetBase98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-99/102",
+            "name": "Energia Erba",
+            "number": "99/102",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/EnergiaErbaSetBase99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-100/102",
+            "name": "Energia Lampo",
+            "number": "100/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/EnergiaLampoSetBase100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-101/102",
+            "name": "Energia Psiche",
+            "number": "101/102",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaPsicheSetBase101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "BS-102/102",
+            "name": "Energia Acqua",
+            "number": "102/102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/EnergiaAcquaSetBase102.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

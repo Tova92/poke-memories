@@ -1,0 +1,762 @@
+{
+    "expansion": {
+        "id": "EM",
+        "name": "EX Smeraldo",
+				"year": 2005,
+				"month": 5,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d6/SimboloSetEX_Smeraldo.png",
+        "cardCount": 107
+    },
+    "cards": [
+        {
+            "id": "EM-1/106",
+            "name": "Blaziken",
+            "number": "1/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/BlazikenEXSmeraldo1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-2/106",
+            "name": "Deoxys",
+            "number": "2/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/DeoxysEXSmeraldo2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-3/106",
+            "name": "Exploud",
+            "number": "3/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/ExploudEXSmeraldo3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-4/106",
+            "name": "Gardevoir",
+            "number": "4/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/GardevoirEXSmeraldo4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-5/106",
+            "name": "Groudon",
+            "number": "5/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/GroudonEXSmeraldo5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-6/106",
+            "name": "Kyogre",
+            "number": "6/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/KyogreEXSmeraldo6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-7/106",
+            "name": "Manectric",
+            "number": "7/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ManectricEXSmeraldo7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-8/106",
+            "name": "Milotic",
+            "number": "8/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MiloticEXSmeraldo8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-9/106",
+            "name": "Rayquaza",
+            "number": "9/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/RayquazaEXSmeraldo9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-10/106",
+            "name": "Sceptile",
+            "number": "10/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SceptileEXSmeraldo10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-11/106",
+            "name": "Swampert",
+            "number": "11/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/SwampertEXSmeraldo11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-12/106",
+            "name": "Chimecho",
+            "number": "12/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ChimechoEXSmeraldo12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-13/106",
+            "name": "Glalie",
+            "number": "13/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/GlalieEXSmeraldo13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-14/106",
+            "name": "Groudon",
+            "number": "14/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/GroudonEXSmeraldo14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-15/106",
+            "name": "Kyogre",
+            "number": "15/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/KyogreEXSmeraldo15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-16/106",
+            "name": "Manectric",
+            "number": "16/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/ManectricEXSmeraldo16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-17/106",
+            "name": "Nosepass",
+            "number": "17/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/NosepassEXSmeraldo17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-18/106",
+            "name": "Relicanth",
+            "number": "18/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/RelicanthEXSmeraldo18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-19/106",
+            "name": "Rhydon",
+            "number": "19/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/RhydonEXSmeraldo19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-20/106",
+            "name": "Seviper",
+            "number": "20/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/SeviperEXSmeraldo20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-21/106",
+            "name": "Zangoose",
+            "number": "21/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/ZangooseEXSmeraldo21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-22/106",
+            "name": "Breloom",
+            "number": "22/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/BreloomEXSmeraldo22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-23/106",
+            "name": "Camerupt",
+            "number": "23/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/CameruptEXSmeraldo23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-24/106",
+            "name": "Claydol",
+            "number": "24/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ClaydolEXSmeraldo24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-25/106",
+            "name": "Combusken",
+            "number": "25/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CombuskenEXSmeraldo25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-26/106",
+            "name": "Dodrio",
+            "number": "26/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/DodrioEXSmeraldo26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-27/106",
+            "name": "Electrode",
+            "number": "27/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/ElectrodeEXSmeraldo27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-28/106",
+            "name": "Grovyle",
+            "number": "28/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/GrovyleEXSmeraldo28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-29/106",
+            "name": "Grumpig",
+            "number": "29/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/GrumpigEXSmeraldo29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-30/106",
+            "name": "Grumpig",
+            "number": "30/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/GrumpigEXSmeraldo30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-31/106",
+            "name": "Hariyama",
+            "number": "31/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/HariyamaEXSmeraldo31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-32/106",
+            "name": "Illumise",
+            "number": "32/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/IllumiseEXSmeraldo32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-33/106",
+            "name": "Kirlia",
+            "number": "33/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/KirliaEXSmeraldo33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-34/106",
+            "name": "Linoone",
+            "number": "34/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/LinooneEXSmeraldo34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-35/106",
+            "name": "Loudred",
+            "number": "35/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/LoudredEXSmeraldo35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-36/106",
+            "name": "Marshtomp",
+            "number": "36/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/MarshtompEXSmeraldo36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-37/106",
+            "name": "Minun",
+            "number": "37/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/MinunEXSmeraldo37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-38/106",
+            "name": "Ninetales",
+            "number": "38/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/NinetalesEXSmeraldo38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-39/106",
+            "name": "Plusle",
+            "number": "39/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/PlusleEXSmeraldo39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-40/106",
+            "name": "Swalot",
+            "number": "40/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/SwalotEXSmeraldo40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-41/106",
+            "name": "Swellow",
+            "number": "41/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/SwellowEXSmeraldo41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-42/106",
+            "name": "Volbeat",
+            "number": "42/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/VolbeatEXSmeraldo42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-43/106",
+            "name": "Baltoy",
+            "number": "43/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BaltoyEXSmeraldo43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-44/106",
+            "name": "Cacnea",
+            "number": "44/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/CacneaEXSmeraldo44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-45/106",
+            "name": "Doduo",
+            "number": "45/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/DoduoEXSmeraldo45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-46/106",
+            "name": "Duskull",
+            "number": "46/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/DuskullEXSmeraldo46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-47/106",
+            "name": "Electrike",
+            "number": "47/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ElectrikeEXSmeraldo47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-48/106",
+            "name": "Electrike",
+            "number": "48/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ElectrikeEXSmeraldo48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-49/106",
+            "name": "Feebas",
+            "number": "49/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/FeebasEXSmeraldo49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-50/106",
+            "name": "Feebas",
+            "number": "50/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/FeebasEXSmeraldo50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-51/106",
+            "name": "Gulpin",
+            "number": "51/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GulpinEXSmeraldo51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-52/106",
+            "name": "Larvitar",
+            "number": "52/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/LarvitarEXSmeraldo52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-53/106",
+            "name": "Luvdisc",
+            "number": "53/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/LuvdiscEXSmeraldo53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-54/106",
+            "name": "Makuhita",
+            "number": "54/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/MakuhitaEXSmeraldo54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-55/106",
+            "name": "Meditite",
+            "number": "55/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MedititeEXSmeraldo55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-56/106",
+            "name": "Mudkip",
+            "number": "56/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/MudkipEXSmeraldo56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-57/106",
+            "name": "Numel",
+            "number": "57/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/NumelEXSmeraldo57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-58/106",
+            "name": "Numel",
+            "number": "58/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/NumelEXSmeraldo58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-59/106",
+            "name": "Pichu",
+            "number": "59/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/PichuEXSmeraldo59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-60/106",
+            "name": "Pikachu",
+            "number": "60/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/PikachuEXSmeraldo60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-61/106",
+            "name": "Ralts",
+            "number": "61/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/RaltsEXSmeraldo61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-62/106",
+            "name": "Rhyhorn",
+            "number": "62/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/RhyhornEXSmeraldo62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-63/106",
+            "name": "Shroomish",
+            "number": "63/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ShroomishEXSmeraldo63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-64/106",
+            "name": "Snorunt",
+            "number": "64/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SnoruntEXSmeraldo64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-65/106",
+            "name": "Spoink",
+            "number": "65/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SpoinkEXSmeraldo65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-66/106",
+            "name": "Spoink",
+            "number": "66/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/SpoinkEXSmeraldo66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-67/106",
+            "name": "Swablu",
+            "number": "67/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/SwabluEXSmeraldo67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-68/106",
+            "name": "Taillow",
+            "number": "68/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/TaillowEXSmeraldo68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-69/106",
+            "name": "Torchic",
+            "number": "69/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/TorchicEXSmeraldo69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-70/106",
+            "name": "Treecko",
+            "number": "70/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/TreeckoEXSmeraldo70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-71/106",
+            "name": "Voltorb",
+            "number": "71/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/VoltorbEXSmeraldo71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-72/106",
+            "name": "Vulpix",
+            "number": "72/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/VulpixEXSmeraldo72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-73/106",
+            "name": "Whismur",
+            "number": "73/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/WhismurEXSmeraldo73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-74/106",
+            "name": "Zigzagoon",
+            "number": "74/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ZigzagoonEXSmeraldo74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-75/106",
+            "name": "Battle Frontier",
+            "number": "75/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BattleFrontierEXSmeraldo75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-76/106",
+            "name": "Doppio Recupero Totale",
+            "number": "76/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/DoppioRecuperoTotaleEXSmeraldo76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-77/106",
+            "name": "Ricerca in Rete di Lanette",
+            "number": "77/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/RicercainRetediLanetteEXSmeraldo77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-78/106",
+            "name": "Baccaprugna",
+            "number": "78/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BaccaprugnaEXSmeraldo78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-79/106",
+            "name": "Progetto del Sig. Petri",
+            "number": "79/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ProgettodelSigPetriEXSmeraldo79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-80/106",
+            "name": "Baccarancia",
+            "number": "80/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/BaccaranciaEXSmeraldo80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-81/106",
+            "name": "PokéNav",
+            "number": "81/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Pok%C3%A9NavEXSmeraldo81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-82/106",
+            "name": "Prof. Birch",
+            "number": "82/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/ProfBirchEXSmeraldo82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-83/106",
+            "name": "Caramella Rara",
+            "number": "83/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/CaramellaRaraEXSmeraldo83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-84/106",
+            "name": "Scott",
+            "number": "84/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ScottEXSmeraldo84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-85/106",
+            "name": "Addestramento di Lino",
+            "number": "85/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/AddestramentodiLinoEXSmeraldo85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-86/106",
+            "name": "Energia Oscurità",
+            "number": "86/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/EnergiaOscurit%C3%A0EXSmeraldo86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-87/106",
+            "name": "Duplice Energia Arcobaleno",
+            "number": "87/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/DupliceEnergiaArcobalenoEXSmeraldo87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-88/106",
+            "name": "Energia Metallo",
+            "number": "88/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/EnergiaMetalloEXSmeraldo88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-89/106",
+            "name": "Multienergia",
+            "number": "89/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/MultienergiaEXSmeraldo89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-90/106",
+            "name": "Altaria ex",
+            "number": "90/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/AltariaexEXSmeraldo90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-91/106",
+            "name": "Cacturne ex",
+            "number": "91/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/CacturneexEXSmeraldo91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-92/106",
+            "name": "Camerupt ex",
+            "number": "92/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/CameruptexEXSmeraldo92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-93/106",
+            "name": "Deoxys ex",
+            "number": "93/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/DeoxysexEXSmeraldo93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-94/106",
+            "name": "Dusclops ex",
+            "number": "94/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/DusclopsexEXSmeraldo94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-95/106",
+            "name": "Medicham ex",
+            "number": "95/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/MedichamexEXSmeraldo95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-96/106",
+            "name": "Milotic ex",
+            "number": "96/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/MiloticexEXSmeraldo96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-97/106",
+            "name": "Raichu ex",
+            "number": "97/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/RaichuexEXSmeraldo97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-98/106",
+            "name": "Regice ex",
+            "number": "98/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/RegiceexEXSmeraldo98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-99/106",
+            "name": "Regirock ex",
+            "number": "99/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/RegirockexEXSmeraldo99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-100/106",
+            "name": "Registeel ex",
+            "number": "100/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/RegisteelexEXSmeraldo100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-101/106",
+            "name": "Energia Erba",
+            "number": "101/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/EnergiaErbaEXSmeraldo101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-102/106",
+            "name": "Energia Fuoco",
+            "number": "102/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EnergiaFuocoEXSmeraldo102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-103/106",
+            "name": "Energia Acqua",
+            "number": "103/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/EnergiaAcquaEXSmeraldo103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-104/106",
+            "name": "Energia Lampo",
+            "number": "104/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/EnergiaLampoEXSmeraldo104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-105/106",
+            "name": "Energia Psiche",
+            "number": "105/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/EnergiaPsicheEXSmeraldo105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-106/106",
+            "name": "Energia Combattimento",
+            "number": "106/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/EnergiaCombattimentoEXSmeraldo106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "EM-107/106",
+            "name": "Farfetch'd",
+            "number": "107/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/FarfetchdEXSmeraldo107.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

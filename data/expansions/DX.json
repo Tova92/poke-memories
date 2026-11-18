@@ -1,0 +1,769 @@
+{
+    "expansion": {
+        "id": "DX",
+        "name": "EX Deoxys",
+				"year": 2005,
+				"month": 2,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetEX_Deoxys.png",
+        "cardCount": 108
+    },
+    "cards": [
+        {
+            "id": "DX-1/107",
+            "name": "Altaria",
+            "number": "1/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/AltariaEXDeoxys1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-2/107",
+            "name": "Beautifly",
+            "number": "2/107",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/BeautiflyEXDeoxys2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-3/107",
+            "name": "Breloom",
+            "number": "3/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/BreloomEXDeoxys3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-4/107",
+            "name": "Camerupt",
+            "number": "4/107",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/CameruptEXDeoxys4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-5/107",
+            "name": "Claydol",
+            "number": "5/107",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/ClaydolEXDeoxys5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-6/107",
+            "name": "Crawdaunt",
+            "number": "6/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CrawdauntEXDeoxys6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-7/107",
+            "name": "Dusclops",
+            "number": "7/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/DusclopsEXDeoxys7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-8/107",
+            "name": "Gyarados",
+            "number": "8/107",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/GyaradosEXDeoxys8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-9/107",
+            "name": "Jirachi",
+            "number": "9/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/JirachiEXDeoxys9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-10/107",
+            "name": "Ludicolo",
+            "number": "10/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/LudicoloEXDeoxys10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-11/107",
+            "name": "Metagross",
+            "number": "11/107",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/MetagrossEXDeoxys11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-12/107",
+            "name": "Mightyena",
+            "number": "12/107",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MightyenaEXDeoxys12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-13/107",
+            "name": "Ninjask",
+            "number": "13/107",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/NinjaskEXDeoxys13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-14/107",
+            "name": "Shedinja",
+            "number": "14/107",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/ShedinjaEXDeoxys14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-15/107",
+            "name": "Slaking",
+            "number": "15/107",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/SlakingEXDeoxys15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-16/107",
+            "name": "Deoxys",
+            "number": "16/107",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/DeoxysEXDeoxys16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-17/107",
+            "name": "Deoxys",
+            "number": "17/107",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/DeoxysEXDeoxys17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-18/107",
+            "name": "Deoxys",
+            "number": "18/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/DeoxysEXDeoxys18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-19/107",
+            "name": "Ludicolo",
+            "number": "19/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/LudicoloEXDeoxys19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-20/107",
+            "name": "Magcargo",
+            "number": "20/107",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MagcargoEXDeoxys20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-21/107",
+            "name": "Pelipper",
+            "number": "21/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/PelipperEXDeoxys21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-22/107",
+            "name": "Rayquaza",
+            "number": "22/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RayquazaEXDeoxys22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-23/107",
+            "name": "Sableye",
+            "number": "23/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SableyeEXDeoxys23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-24/107",
+            "name": "Seaking",
+            "number": "24/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/SeakingEXDeoxys24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-25/107",
+            "name": "Shiftry",
+            "number": "25/107",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ShiftryEXDeoxys25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-26/107",
+            "name": "Skarmory",
+            "number": "26/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/SkarmoryEXDeoxys26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-27/107",
+            "name": "Tropius",
+            "number": "27/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/TropiusEXDeoxys27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-28/107",
+            "name": "Whiscash",
+            "number": "28/107",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/WhiscashEXDeoxys28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-29/107",
+            "name": "Xatu",
+            "number": "29/107",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/XatuEXDeoxys29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-30/107",
+            "name": "Donphan",
+            "number": "30/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/DonphanEXDeoxys30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-31/107",
+            "name": "Golbat",
+            "number": "31/107",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/GolbatEXDeoxys31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-32/107",
+            "name": "Grumpig",
+            "number": "32/107",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/GrumpigEXDeoxys32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-33/107",
+            "name": "Lombre",
+            "number": "33/107",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/LombreEXDeoxys33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-34/107",
+            "name": "Lombre",
+            "number": "34/107",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/LombreEXDeoxys34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-35/107",
+            "name": "Lotad",
+            "number": "35/107",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/LotadEXDeoxys35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-36/107",
+            "name": "Lunatone",
+            "number": "36/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/LunatoneEXDeoxys36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-37/107",
+            "name": "Magcargo",
+            "number": "37/107",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/MagcargoEXDeoxys37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-38/107",
+            "name": "Manectric",
+            "number": "38/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/ManectricEXDeoxys38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-39/107",
+            "name": "Masquerain",
+            "number": "39/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MasquerainEXDeoxys39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-40/107",
+            "name": "Metang",
+            "number": "40/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/MetangEXDeoxys40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-41/107",
+            "name": "Minun",
+            "number": "41/107",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MinunEXDeoxys41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-42/107",
+            "name": "Nosepass",
+            "number": "42/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/NosepassEXDeoxys42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-43/107",
+            "name": "Nuzleaf",
+            "number": "43/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/NuzleafEXDeoxys43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-44/107",
+            "name": "Plusle",
+            "number": "44/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/PlusleEXDeoxys44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-45/107",
+            "name": "Shelgon",
+            "number": "45/107",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/ShelgonEXDeoxys45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-46/107",
+            "name": "Silcoon",
+            "number": "46/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/SilcoonEXDeoxys46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-47/107",
+            "name": "Solrock",
+            "number": "47/107",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SolrockEXDeoxys47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-48/107",
+            "name": "Starmie",
+            "number": "48/107",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/StarmieEXDeoxys48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-49/107",
+            "name": "Swellow",
+            "number": "49/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/SwellowEXDeoxys49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-50/107",
+            "name": "Vigoroth",
+            "number": "50/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/VigorothEXDeoxys50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-51/107",
+            "name": "Weezing",
+            "number": "51/107",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/WeezingEXDeoxys51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-52/107",
+            "name": "Bagon",
+            "number": "52/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/BagonEXDeoxys52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-53/107",
+            "name": "Baltoy",
+            "number": "53/107",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/BaltoyEXDeoxys53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-54/107",
+            "name": "Barboach",
+            "number": "54/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/BarboachEXDeoxys54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-55/107",
+            "name": "Beldum",
+            "number": "55/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/BeldumEXDeoxys55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-56/107",
+            "name": "Carvanha",
+            "number": "56/107",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/CarvanhaEXDeoxys56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-57/107",
+            "name": "Corphish",
+            "number": "57/107",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/CorphishEXDeoxys57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-58/107",
+            "name": "Duskull",
+            "number": "58/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/DuskullEXDeoxys58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-59/107",
+            "name": "Electrike",
+            "number": "59/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/ElectrikeEXDeoxys59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-60/107",
+            "name": "Electrike",
+            "number": "60/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ElectrikeEXDeoxys60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-61/107",
+            "name": "Goldeen",
+            "number": "61/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/GoldeenEXDeoxys61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-62/107",
+            "name": "Koffing",
+            "number": "62/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/KoffingEXDeoxys62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-63/107",
+            "name": "Lotad",
+            "number": "63/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/LotadEXDeoxys63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-64/107",
+            "name": "Magikarp",
+            "number": "64/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/MagikarpEXDeoxys64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-65/107",
+            "name": "Makuhita",
+            "number": "65/107",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MakuhitaEXDeoxys65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-66/107",
+            "name": "Natu",
+            "number": "66/107",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/NatuEXDeoxys66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-67/107",
+            "name": "Nincada",
+            "number": "67/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/NincadaEXDeoxys67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-68/107",
+            "name": "Numel",
+            "number": "68/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/NumelEXDeoxys68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-69/107",
+            "name": "Phanpy",
+            "number": "69/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/PhanpyEXDeoxys69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-70/107",
+            "name": "Poochyena",
+            "number": "70/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PoochyenaEXDeoxys70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-71/107",
+            "name": "Seedot",
+            "number": "71/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/SeedotEXDeoxys71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-72/107",
+            "name": "Shroomish",
+            "number": "72/107",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ShroomishEXDeoxys72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-73/107",
+            "name": "Slakoth",
+            "number": "73/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/SlakothEXDeoxys73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-74/107",
+            "name": "Slugma",
+            "number": "74/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SlugmaEXDeoxys74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-75/107",
+            "name": "Slugma",
+            "number": "75/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/SlugmaEXDeoxys75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-76/107",
+            "name": "Spoink",
+            "number": "76/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/SpoinkEXDeoxys76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-77/107",
+            "name": "Staryu",
+            "number": "77/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/StaryuEXDeoxys77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-78/107",
+            "name": "Surskit",
+            "number": "78/107",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/SurskitEXDeoxys78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-79/107",
+            "name": "Swablu",
+            "number": "79/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/SwabluEXDeoxys79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-80/107",
+            "name": "Taillow",
+            "number": "80/107",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/TaillowEXDeoxys80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-81/107",
+            "name": "Wingull",
+            "number": "81/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/WingullEXDeoxys81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-82/107",
+            "name": "Wurmple",
+            "number": "82/107",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/WurmpleEXDeoxys82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-83/107",
+            "name": "Zubat",
+            "number": "83/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/ZubatEXDeoxys83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-84/107",
+            "name": "Bacca Pallone",
+            "number": "84/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/BaccaPalloneEXDeoxys84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-85/107",
+            "name": "Frammento Cristallino",
+            "number": "85/107",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/FrammentoCristallinoEXDeoxys85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-86/107",
+            "name": "Carica Energetica",
+            "number": "86/107",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/CaricaEnergeticaEXDeoxys86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-87/107",
+            "name": "Lady Outing",
+            "number": "87/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/LadyOutingEXDeoxys87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-88/107",
+            "name": "Master Ball",
+            "number": "88/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/MasterBallEXDeoxys88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-89/107",
+            "name": "Cascate Meteora",
+            "number": "89/107",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CascateMeteoraEXDeoxys89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-90/107",
+            "name": "Scoperta del Professor Cosmi",
+            "number": "90/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ScopertadelProfessorCosmiEXDeoxys90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-91/107",
+            "name": "Centro Spaziale",
+            "number": "91/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/CentroSpazialeEXDeoxys91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-92/107",
+            "name": "Malia della Forza",
+            "number": "92/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/MaliadellaForzaEXDeoxys92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-93/107",
+            "name": "Energia Extra",
+            "number": "93/107",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/EnergiaExtraEXDeoxys93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-94/107",
+            "name": "Energia Recupero",
+            "number": "94/107",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/EnergiaRecuperoEXDeoxys94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-95/107",
+            "name": "Energia Caotica",
+            "number": "95/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/EnergiaCaoticaEXDeoxys95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-96/107",
+            "name": "Crobat ex",
+            "number": "96/107",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/CrobatexEXDeoxys96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-97/107",
+            "name": "Deoxys ex",
+            "number": "97/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/DeoxysexEXDeoxys97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-98/107",
+            "name": "Deoxys ex",
+            "number": "98/107",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/DeoxysexEXDeoxys98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-99/107",
+            "name": "Deoxys ex",
+            "number": "99/107",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/DeoxysexEXDeoxys99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-100/107",
+            "name": "Hariyama ex",
+            "number": "100/107",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/HariyamaexEXDeoxys100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-101/107",
+            "name": "Manectric ex",
+            "number": "101/107",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ManectricexEXDeoxys101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-102/107",
+            "name": "Rayquaza ex",
+            "number": "102/107",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RayquazaexEXDeoxys102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-103/107",
+            "name": "Salamence ex",
+            "number": "103/107",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/SalamenceexEXDeoxys103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-104/107",
+            "name": "Sharpedo ex",
+            "number": "104/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/SharpedoexEXDeoxys104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-105/107",
+            "name": "Latias ☆",
+            "number": "105/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/LatiasEXDeoxys105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-106/107",
+            "name": "Latios ☆",
+            "number": "106/107",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/LatiosEXDeoxys106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-107/107",
+            "name": "Rayquaza ☆",
+            "number": "107/107",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/RayquazaEXDeoxys107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DX-108/107",
+            "name": "Rocket Raikou ex",
+            "number": "108/107",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/RocketRaikouexEXDeoxys108.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

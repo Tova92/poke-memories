@@ -1,0 +1,2088 @@
+{
+    "expansion": {
+        "id": "ASC",
+        "name": "Megaevoluzione - Ascesa Eroica",
+        "year": 2026,
+        "month": 1,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/97/SimboloSetAscesa_Eroica.png",
+        "cardCount": 295
+    },
+    "cards": [
+        {
+            "id": "ASC-001/217",
+            "name": "Oddish di Erika",
+            "number": "001/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/OddishdiErikaAscesaEroica1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-002/217",
+            "name": "Gloom di Erika",
+            "number": "002/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/GloomdiErikaAscesaEroica2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-003/217",
+            "name": "Vileplume-ex di Erika",
+            "number": "003/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Vileplume-exdiErikaAscesaEroica3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-004/217",
+            "name": "Bellsprout di Erika",
+            "number": "004/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/BellsproutdiErikaAscesaEroica4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-005/217",
+            "name": "Weepinbell di Erika",
+            "number": "005/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/WeepinbelldiErikaAscesaEroica5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-006/217",
+            "name": "Victreebel di Erika",
+            "number": "006/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/VictreebeldiErikaAscesaEroica6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-007/217",
+            "name": "Tangela di Erika",
+            "number": "007/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/TangeladiErikaAscesaEroica7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-008/217",
+            "name": "Chikorita",
+            "number": "008/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/ChikoritaAscesaEroica8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-009/217",
+            "name": "Bayleef",
+            "number": "009/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BayleefAscesaEroica9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-010/217",
+            "name": "Mega Meganium-ex",
+            "number": "010/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MegaMeganium-exAscesaEroica10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-011/217",
+            "name": "Wurmple",
+            "number": "011/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/WurmpleAscesaEroica11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-012/217",
+            "name": "Silcoon",
+            "number": "012/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/SilcoonAscesaEroica12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-013/217",
+            "name": "Beautifly",
+            "number": "013/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BeautiflyAscesaEroica13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-014/217",
+            "name": "Cascoon",
+            "number": "014/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/CascoonAscesaEroica14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-015/217",
+            "name": "Dustox",
+            "number": "015/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/DustoxAscesaEroica15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-016/217",
+            "name": "Budew",
+            "number": "016/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/BudewAscesaEroica16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-017/217",
+            "name": "Grubbin",
+            "number": "017/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GrubbinAscesaEroica17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-018/217",
+            "name": "Tarountula del Team Rocket",
+            "number": "018/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/TarountuladelTeamRocketAscesaEroica18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-019/217",
+            "name": "Spidops del Team Rocket",
+            "number": "019/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/SpidopsdelTeamRocketAscesaEroica19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-020/217",
+            "name": "Charmander",
+            "number": "020/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/CharmanderAscesaEroica20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-021/217",
+            "name": "Charmeleon",
+            "number": "021/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/CharmeleonAscesaEroica21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-022/217",
+            "name": "Mega Charizard Y-ex",
+            "number": "022/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MegaCharizardY-exAscesaEroica22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-023/217",
+            "name": "Slugma di Armonio",
+            "number": "023/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/SlugmadiArmonioAscesaEroica23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-024/217",
+            "name": "Magcargo di Armonio",
+            "number": "024/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MagcargodiArmonioAscesaEroica24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-025/217",
+            "name": "Entei",
+            "number": "025/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/EnteiAscesaEroica25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-026/217",
+            "name": "Ho-Oh-ex di Armonio",
+            "number": "026/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Ho-Oh-exdiArmonioAscesaEroica26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-027/217",
+            "name": "Numel",
+            "number": "027/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/NumelAscesaEroica27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-028/217",
+            "name": "Camerupt",
+            "number": "028/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/CameruptAscesaEroica28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-029/217",
+            "name": "Tepig",
+            "number": "029/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TepigAscesaEroica29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-030/217",
+            "name": "Pignite",
+            "number": "030/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/PigniteAscesaEroica30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-031/217",
+            "name": "Mega Emboar-ex",
+            "number": "031/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/MegaEmboar-exAscesaEroica31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-032/217",
+            "name": "Darumaka di N",
+            "number": "032/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/DarumakadiNAscesaEroica32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-033/217",
+            "name": "Darmanitan di N",
+            "number": "033/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/DarmanitandiNAscesaEroica33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-034/217",
+            "name": "Salandit",
+            "number": "034/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/SalanditAscesaEroica34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-035/217",
+            "name": "Salazzle",
+            "number": "035/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/SalazzleAscesaEroica35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-036/217",
+            "name": "Scorbunny",
+            "number": "036/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ScorbunnyAscesaEroica36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-037/217",
+            "name": "Raboot",
+            "number": "037/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/RabootAscesaEroica37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-038/217",
+            "name": "Cinderace-ex",
+            "number": "038/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Cinderace-exAscesaEroica38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-039/217",
+            "name": "Psyduck",
+            "number": "039/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/PsyduckAscesaEroica39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-040/217",
+            "name": "Golduck",
+            "number": "040/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GolduckAscesaEroica40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-041/217",
+            "name": "Totodile",
+            "number": "041/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/TotodileAscesaEroica41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-042/217",
+            "name": "Croconaw",
+            "number": "042/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/CroconawAscesaEroica42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-043/217",
+            "name": "Mega Feraligatr-ex",
+            "number": "043/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/MegaFeraligatr-exAscesaEroica43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-044/217",
+            "name": "Sneasel",
+            "number": "044/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SneaselAscesaEroica44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-045/217",
+            "name": "Weavile",
+            "number": "045/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/WeavileAscesaEroica45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-046/217",
+            "name": "Snorunt",
+            "number": "046/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SnoruntAscesaEroica46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-047/217",
+            "name": "Mega Froslass-ex",
+            "number": "047/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MegaFroslass-exAscesaEroica47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-048/217",
+            "name": "Regice-ex",
+            "number": "048/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Regice-exAscesaEroica48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-049/217",
+            "name": "Vanillite di N",
+            "number": "049/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/VanillitediNAscesaEroica49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-050/217",
+            "name": "Vanillish di N",
+            "number": "050/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/VanillishdiNAscesaEroica50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-051/217",
+            "name": "Vanilluxe di N",
+            "number": "051/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/VanilluxediNAscesaEroica51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-052/217",
+            "name": "Snom",
+            "number": "052/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SnomAscesaEroica52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-053/217",
+            "name": "Frosmoth",
+            "number": "053/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/FrosmothAscesaEroica53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-054/217",
+            "name": "Glastrier",
+            "number": "054/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/GlastrierAscesaEroica54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-055/217",
+            "name": "Pikachu",
+            "number": "055/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/PikachuAscesaEroica55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-056/217",
+            "name": "Raichu",
+            "number": "056/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/RaichuAscesaEroica56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-057/217",
+            "name": "Pikachu-ex",
+            "number": "057/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Pikachu-exAscesaEroica57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-058/217",
+            "name": "Voltorb-ex",
+            "number": "058/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Voltorb-exAscesaEroica58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-059/217",
+            "name": "Tynamo",
+            "number": "059/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/TynamoAscesaEroica59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-060/217",
+            "name": "Eelektrik",
+            "number": "060/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/EelektrikAscesaEroica60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-061/217",
+            "name": "Mega Eelektross-ex",
+            "number": "061/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MegaEelektross-exAscesaEroica61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-062/217",
+            "name": "Stunfisk",
+            "number": "062/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/StunfiskAscesaEroica62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-063/217",
+            "name": "Helioptile",
+            "number": "063/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/HelioptileAscesaEroica63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-064/217",
+            "name": "Heliolisk",
+            "number": "064/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/HelioliskAscesaEroica64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-065/217",
+            "name": "Charjabug",
+            "number": "065/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/CharjabugAscesaEroica65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-066/217",
+            "name": "Vikavolt",
+            "number": "066/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/VikavoltAscesaEroica66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-067/217",
+            "name": "Tapu Koko",
+            "number": "067/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/TapuKokoAscesaEroica67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-068/217",
+            "name": "Pincurchin-ex di Hop",
+            "number": "068/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Pincurchin-exdiHopAscesaEroica68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-069/217",
+            "name": "Tadbulb di Kissara",
+            "number": "069/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/TadbulbdiKissaraAscesaEroica69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-070/217",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "070/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Bellibolt-exdiKissaraAscesaEroica70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-071/217",
+            "name": "Wattrel di Kissara",
+            "number": "071/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/WattreldiKissaraAscesaEroica71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-072/217",
+            "name": "Kilowattrel di Kissara",
+            "number": "072/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/KilowattreldiKissaraAscesaEroica72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-073/217",
+            "name": "Miraidon-ex",
+            "number": "073/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Miraidon-exAscesaEroica73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-074/217",
+            "name": "Clefairy",
+            "number": "074/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ClefairyAscesaEroica74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-075/217",
+            "name": "Clefable",
+            "number": "075/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ClefableAscesaEroica75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-076/217",
+            "name": "Clefairy-ex di Lylia",
+            "number": "076/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Clefairy-exdiLyliaAscesaEroica76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-077/217",
+            "name": "Exeggcute del Team Rocket",
+            "number": "077/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ExeggcutedelTeamRocketAscesaEroica77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-078/217",
+            "name": "Exeggutor del Team Rocket",
+            "number": "078/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ExeggutordelTeamRocketAscesaEroica78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-079/217",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "079/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Mewtwo-exdelTeamRocketAscesaEroica79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-080/217",
+            "name": "Togepi",
+            "number": "080/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/TogepiAscesaEroica80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-081/217",
+            "name": "Togetic",
+            "number": "081/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/TogeticAscesaEroica81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-082/217",
+            "name": "Togekiss",
+            "number": "082/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/TogekissAscesaEroica82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-083/217",
+            "name": "Marill",
+            "number": "083/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/MarillAscesaEroica83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-084/217",
+            "name": "Azumarill-ex",
+            "number": "084/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Azumarill-exAscesaEroica84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-085/217",
+            "name": "Misdreavus",
+            "number": "085/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/MisdreavusAscesaEroica85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-086/217",
+            "name": "Mismagius",
+            "number": "086/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/MismagiusAscesaEroica86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-087/217",
+            "name": "Ralts",
+            "number": "087/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/RaltsAscesaEroica87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-088/217",
+            "name": "Kirlia",
+            "number": "088/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/KirliaAscesaEroica88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-089/217",
+            "name": "Mega Gardevoir-ex",
+            "number": "089/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/MegaGardevoir-exAscesaEroica89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-090/217",
+            "name": "Shuppet",
+            "number": "090/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ShuppetAscesaEroica90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-091/217",
+            "name": "Banette",
+            "number": "091/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/BanetteAscesaEroica91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-092/217",
+            "name": "Rotom",
+            "number": "092/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/RotomAscesaEroica92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-093/217",
+            "name": "Swirlix",
+            "number": "093/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/SwirlixAscesaEroica93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-094/217",
+            "name": "Slurpuff",
+            "number": "094/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SlurpuffAscesaEroica94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-095/217",
+            "name": "Phantump di Hop",
+            "number": "095/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/PhantumpdiHopAscesaEroica95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-096/217",
+            "name": "Trevenant di Hop",
+            "number": "096/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/TrevenantdiHopAscesaEroica96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-097/217",
+            "name": "Mimikyu del Team Rocket",
+            "number": "097/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MimikyudelTeamRocketAscesaEroica97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-098/217",
+            "name": "Spectrier",
+            "number": "098/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SpectrierAscesaEroica98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-099/217",
+            "name": "Munkidori",
+            "number": "099/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MunkidoriAscesaEroica99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-100/217",
+            "name": "Diglett del Team Rocket",
+            "number": "100/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/DiglettdelTeamRocketAscesaEroica100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-101/217",
+            "name": "Dugtrio del Team Rocket",
+            "number": "101/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/DugtriodelTeamRocketAscesaEroica101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-102/217",
+            "name": "Hitmontop",
+            "number": "102/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/HitmontopAscesaEroica102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-103/217",
+            "name": "Meditite",
+            "number": "103/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/MedititeAscesaEroica103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-104/217",
+            "name": "Medicham",
+            "number": "104/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/MedichamAscesaEroica104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-105/217",
+            "name": "Lunatone",
+            "number": "105/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/LunatoneAscesaEroica105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-106/217",
+            "name": "Solrock",
+            "number": "106/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SolrockAscesaEroica106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-107/217",
+            "name": "Regirock-ex",
+            "number": "107/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Regirock-exAscesaEroica107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-108/217",
+            "name": "Groudon",
+            "number": "108/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/GroudonAscesaEroica108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-109/217",
+            "name": "Gible di Camilla",
+            "number": "109/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/GiblediCamillaAscesaEroica109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-110/217",
+            "name": "Gabite di Camilla",
+            "number": "110/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GabitediCamillaAscesaEroica110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-111/217",
+            "name": "Garchomp-ex di Camilla",
+            "number": "111/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Garchomp-exdiCamillaAscesaEroica111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-112/217",
+            "name": "Riolu",
+            "number": "112/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/RioluAscesaEroica112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-113/217",
+            "name": "Mega Lucario-ex",
+            "number": "113/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MegaLucario-exAscesaEroica113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-114/217",
+            "name": "Stunfisk-ex",
+            "number": "114/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Stunfisk-exAscesaEroica114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-115/217",
+            "name": "Pancham",
+            "number": "115/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/PanchamAscesaEroica115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-116/217",
+            "name": "Mega Hawlucha-ex",
+            "number": "116/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/MegaHawlucha-exAscesaEroica116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-117/217",
+            "name": "Carbink",
+            "number": "117/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/CarbinkAscesaEroica117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-118/217",
+            "name": "Rolycoly",
+            "number": "118/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/RolycolyAscesaEroica118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-119/217",
+            "name": "Carkol",
+            "number": "119/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/CarkolAscesaEroica119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-120/217",
+            "name": "Coalossal",
+            "number": "120/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/CoalossalAscesaEroica120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-121/217",
+            "name": "Koraidon-ex",
+            "number": "121/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Koraidon-exAscesaEroica121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-122/217",
+            "name": "Okidogi",
+            "number": "122/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/OkidogiAscesaEroica122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-123/217",
+            "name": "Gastly",
+            "number": "123/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/GastlyAscesaEroica123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-124/217",
+            "name": "Haunter",
+            "number": "124/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/HaunterAscesaEroica124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-125/217",
+            "name": "Mega Gengar-ex",
+            "number": "125/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/MegaGengar-exAscesaEroica125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-126/217",
+            "name": "Murkrow del Team Rocket",
+            "number": "126/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MurkrowdelTeamRocketAscesaEroica126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-127/217",
+            "name": "Honchkrow del Team Rocket",
+            "number": "127/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/HonchkrowdelTeamRocketAscesaEroica127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-128/217",
+            "name": "Poochyena",
+            "number": "128/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/PoochyenaAscesaEroica128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-129/217",
+            "name": "Mightyena",
+            "number": "129/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/MightyenaAscesaEroica129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-130/217",
+            "name": "Zigzagoon di Galar",
+            "number": "130/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/ZigzagoondiGalarAscesaEroica130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-131/217",
+            "name": "Linoone di Galar",
+            "number": "131/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/LinoonediGalarAscesaEroica131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-132/217",
+            "name": "Obstagoon di Galar",
+            "number": "132/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/ObstagoondiGalarAscesaEroica132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-133/217",
+            "name": "Spiritomb di Camilla",
+            "number": "133/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SpiritombdiCamillaAscesaEroica133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-134/217",
+            "name": "Scraggy",
+            "number": "134/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ScraggyAscesaEroica134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-135/217",
+            "name": "Mega Scrafty-ex",
+            "number": "135/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MegaScrafty-exAscesaEroica135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-136/217",
+            "name": "Zorua di N",
+            "number": "136/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/ZoruadiNAscesaEroica136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-137/217",
+            "name": "Zoroark-ex di N",
+            "number": "137/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Zoroark-exdiNAscesaEroica137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-138/217",
+            "name": "Vullaby",
+            "number": "138/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/VullabyAscesaEroica138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-139/217",
+            "name": "Mandibuzz-ex",
+            "number": "139/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Mandibuzz-exAscesaEroica139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-140/217",
+            "name": "Pangoro",
+            "number": "140/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/PangoroAscesaEroica140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-141/217",
+            "name": "Hoopa",
+            "number": "141/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/HoopaAscesaEroica141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-142/217",
+            "name": "Fezandipiti-ex",
+            "number": "142/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Fezandipiti-exAscesaEroica142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-143/217",
+            "name": "Pecharunt",
+            "number": "143/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/PecharuntAscesaEroica143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-144/217",
+            "name": "Mawile",
+            "number": "144/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/MawileAscesaEroica144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-145/217",
+            "name": "Registeel-ex",
+            "number": "145/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Registeel-exAscesaEroica145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-146/217",
+            "name": "Pawniard",
+            "number": "146/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/PawniardAscesaEroica146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-147/217",
+            "name": "Bisharp",
+            "number": "147/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/BisharpAscesaEroica147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-148/217",
+            "name": "Kingambit",
+            "number": "148/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/KingambitAscesaEroica148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-149/217",
+            "name": "Togedemaru-ex",
+            "number": "149/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Togedemaru-exAscesaEroica149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-150/217",
+            "name": "Dratini",
+            "number": "150/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/DratiniAscesaEroica150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-151/217",
+            "name": "Dragonair",
+            "number": "151/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/DragonairAscesaEroica151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-152/217",
+            "name": "Mega Dragonite-ex",
+            "number": "152/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MegaDragonite-exAscesaEroica152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-153/217",
+            "name": "Rayquaza",
+            "number": "153/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/RayquazaAscesaEroica153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-154/217",
+            "name": "Reshiram di N",
+            "number": "154/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ReshiramdiNAscesaEroica154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-155/217",
+            "name": "Zekrom di N",
+            "number": "155/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ZekromdiNAscesaEroica155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-156/217",
+            "name": "Noibat",
+            "number": "156/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/NoibatAscesaEroica156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-157/217",
+            "name": "Noivern",
+            "number": "157/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/NoivernAscesaEroica157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-158/217",
+            "name": "Dreepy",
+            "number": "158/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DreepyAscesaEroica158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-159/217",
+            "name": "Drakloak",
+            "number": "159/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/DrakloakAscesaEroica159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-160/217",
+            "name": "Dragapult-ex",
+            "number": "160/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/Dragapult-exAscesaEroica160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-161/217",
+            "name": "Meowth del Team Rocket",
+            "number": "161/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/MeowthdelTeamRocketAscesaEroica161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-162/217",
+            "name": "Kangaskhan-ex del Team Rocket",
+            "number": "162/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Kangaskhan-exdelTeamRocketAscesaEroica162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-163/217",
+            "name": "Dunsparce di Ubaldo",
+            "number": "163/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/DunsparcediUbaldoAscesaEroica163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-164/217",
+            "name": "Dudunsparce-ex di Ubaldo",
+            "number": "164/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Dudunsparce-exdiUbaldoAscesaEroica164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-165/217",
+            "name": "Skitty",
+            "number": "165/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SkittyAscesaEroica165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-166/217",
+            "name": "Delcatty",
+            "number": "166/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DelcattyAscesaEroica166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-167/217",
+            "name": "Zangoose-ex",
+            "number": "167/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Zangoose-exAscesaEroica167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-168/217",
+            "name": "Starly di Ubaldo",
+            "number": "168/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/StarlydiUbaldoAscesaEroica168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-169/217",
+            "name": "Staravia di Ubaldo",
+            "number": "169/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/StaraviadiUbaldoAscesaEroica169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-170/217",
+            "name": "Staraptor di Ubaldo",
+            "number": "170/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/StaraptordiUbaldoAscesaEroica170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-171/217",
+            "name": "Rotom Vortice",
+            "number": "171/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/RotomVorticeAscesaEroica171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-172/217",
+            "name": "Mega Audino-ex",
+            "number": "172/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MegaAudino-exAscesaEroica172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-173/217",
+            "name": "Rufflet di Ubaldo",
+            "number": "173/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RuffletdiUbaldoAscesaEroica173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-174/217",
+            "name": "Braviary di Ubaldo",
+            "number": "174/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BraviarydiUbaldoAscesaEroica174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-175/217",
+            "name": "Komala di Ubaldo",
+            "number": "175/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KomaladiUbaldoAscesaEroica175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-176/217",
+            "name": "Drampa",
+            "number": "176/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/DrampaAscesaEroica176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-177/217",
+            "name": "Cramorant di Hop",
+            "number": "177/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CramorantdiHopAscesaEroica177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-178/217",
+            "name": "Terapagos",
+            "number": "178/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/TerapagosAscesaEroica178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-179/217",
+            "name": "Terapagos-ex",
+            "number": "179/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Terapagos-exAscesaEroica179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-180/217",
+            "name": "Birichinata di Malpi",
+            "number": "180/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/BirichinatadiMalpiAscesaEroica180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-181/217",
+            "name": "Palloncino",
+            "number": "181/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/PalloncinoAscesaEroica181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-182/217",
+            "name": "Antea e Concordia",
+            "number": "182/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/AnteaeConcordiaAscesaEroica182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-183/217",
+            "name": "Ordini del Capo [Corvin]",
+            "number": "183/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/OrdinidelCapoAscesaEroica183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-184/217",
+            "name": "Poffin del Cuore",
+            "number": "184/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/PoffindelCuoreAscesaEroica184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-185/217",
+            "name": "Canary",
+            "number": "185/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/CanaryAscesaEroica185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-186/217",
+            "name": "Contrappeso",
+            "number": "186/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ContrappesoAscesaEroica186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-187/217",
+            "name": "Gong di Lotta",
+            "number": "187/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/GongdiLottaAscesaEroica187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-188/217",
+            "name": "Bosco della Vitalità",
+            "number": "188/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/BoscodellaVitalit%C3%A0AscesaEroica188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-189/217",
+            "name": "Tromba di Vetro",
+            "number": "189/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/TrombadiVetroAscesaEroica189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-190/217",
+            "name": "Spirito Combattivo di Iris",
+            "number": "190/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/SpiritoCombattivodiIrisAscesaEroica190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-191/217",
+            "name": "Elettropalla",
+            "number": "191/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/ElettropallaAscesaEroica191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-192/217",
+            "name": "Determinazione di Lylia",
+            "number": "192/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/DeterminazionediLyliaAscesaEroica192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-193/217",
+            "name": "Megasegnale",
+            "number": "193/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/MegasegnaleAscesaEroica193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-194/217",
+            "name": "Giardino dei Misteri",
+            "number": "194/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/GiardinodeiMisteriAscesaEroica194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-195/217",
+            "name": "PP-su di N",
+            "number": "195/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/PP-sudiNAscesaEroica195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-196/217",
+            "name": "Barella Notturna",
+            "number": "196/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/BarellaNotturnaAscesaEroica196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-197/217",
+            "name": "Miniera di Notte",
+            "number": "197/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/MinieradiNotteAscesaEroica197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-198/217",
+            "name": "Poké Pad",
+            "number": "198/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/Pok%C3%A9PadAscesaEroica198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-199/217",
+            "name": "Potenza Premium Pro",
+            "number": "199/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/PotenzaPremiumProAscesaEroica199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-200/217",
+            "name": "Surfista",
+            "number": "200/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SurfistaAscesaEroica200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-201/217",
+            "name": "Archer del Team Rocket",
+            "number": "201/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ArcherdelTeamRocketAscesaEroica201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-202/217",
+            "name": "Atena del Team Rocket",
+            "number": "202/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/AtenadelTeamRocketAscesaEroica202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-203/217",
+            "name": "Fabbrica del Team Rocket",
+            "number": "203/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/FabbricadelTeamRocketAscesaEroica203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-204/217",
+            "name": "Giovanni del Team Rocket",
+            "number": "204/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/GiovannidelTeamRocketAscesaEroica204.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-205/217",
+            "name": "Mega Ball del Team Rocket",
+            "number": "205/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/MegaBalldelTeamRocketAscesaEroica205.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-206/217",
+            "name": "Ipnotizzatore del Team Rocket",
+            "number": "206/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/IpnotizzatoredelTeamRocketAscesaEroica206.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-207/217",
+            "name": "Maxus del Team Rocket",
+            "number": "207/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MaxusdelTeamRocketAscesaEroica207.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-208/217",
+            "name": "Milas del Team Rocket",
+            "number": "208/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MilasdelTeamRocketAscesaEroica208.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-209/217",
+            "name": "Ricetrasmettitore del Team Rocket",
+            "number": "209/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/RicetrasmettitoredelTeamRocketAscesaEroica209.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-210/217",
+            "name": "Torre di Guardia del Team Rocket",
+            "number": "210/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/TorrediGuardiadelTeamRocketAscesaEroica210.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-211/217",
+            "name": "Squama Spessa",
+            "number": "211/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/SquamaSpessaAscesaEroica211.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-212/217",
+            "name": "Scartaoggetti",
+            "number": "212/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/ScartaoggettiAscesaEroica212.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-213/217",
+            "name": "Ultra Ball",
+            "number": "213/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/UltraBallAscesaEroica213.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-214/217",
+            "name": "Ryon",
+            "number": "214/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/RyonAscesaEroica214.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-215/217",
+            "name": "Cameriera",
+            "number": "215/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/CamerieraAscesaEroica215.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-216/217",
+            "name": "Energia Prisma",
+            "number": "216/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/EnergiaPrismaAscesaEroica216.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-217/217",
+            "name": "Energia del Team Rocket",
+            "number": "217/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/EnergiadelTeamRocketAscesaEroica217.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "ASC-218/217",
+            "name": "Tangela di Erika",
+            "number": "218/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/TangeladiErikaAscesaEroica218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-219/217",
+            "name": "Beautifly",
+            "number": "219/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/BeautiflyAscesaEroica219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-220/217",
+            "name": "Dustox",
+            "number": "220/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/DustoxAscesaEroica220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-221/217",
+            "name": "Budew",
+            "number": "221/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/BudewAscesaEroica221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-222/217",
+            "name": "Magcargo di Armonio",
+            "number": "222/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/MagcargodiArmonioAscesaEroica222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-223/217",
+            "name": "Numel",
+            "number": "223/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/NumelAscesaEroica223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-224/217",
+            "name": "Salazzle",
+            "number": "224/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/SalazzleAscesaEroica224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-225/217",
+            "name": "Scorbunny",
+            "number": "225/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ScorbunnyAscesaEroica225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-226/217",
+            "name": "Psyduck",
+            "number": "226/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PsyduckAscesaEroica226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-227/217",
+            "name": "Snorunt",
+            "number": "227/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/SnoruntAscesaEroica227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-228/217",
+            "name": "Weavile",
+            "number": "228/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/WeavileAscesaEroica228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-229/217",
+            "name": "Heliolisk",
+            "number": "229/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/HelioliskAscesaEroica229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-230/217",
+            "name": "Vikavolt",
+            "number": "230/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/VikavoltAscesaEroica230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-231/217",
+            "name": "Wattrel di Kissara",
+            "number": "231/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/WattreldiKissaraAscesaEroica231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-232/217",
+            "name": "Marill",
+            "number": "232/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MarillAscesaEroica232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-233/217",
+            "name": "Misdreavus",
+            "number": "233/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MisdreavusAscesaEroica233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-234/217",
+            "name": "Banette",
+            "number": "234/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/BanetteAscesaEroica234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-235/217",
+            "name": "Togekiss",
+            "number": "235/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/TogekissAscesaEroica235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-236/217",
+            "name": "Slurpuff",
+            "number": "236/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SlurpuffAscesaEroica236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-237/217",
+            "name": "Trevenant di Hop",
+            "number": "237/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/TrevenantdiHopAscesaEroica237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-238/217",
+            "name": "Mimikyu del Team Rocket",
+            "number": "238/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MimikyudelTeamRocketAscesaEroica238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-239/217",
+            "name": "Dugtrio del Team Rocket",
+            "number": "239/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DugtriodelTeamRocketAscesaEroica239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-240/217",
+            "name": "Hitmontop",
+            "number": "240/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/HitmontopAscesaEroica240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-241/217",
+            "name": "Medicham",
+            "number": "241/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MedichamAscesaEroica241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-242/217",
+            "name": "Carbink",
+            "number": "242/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CarbinkAscesaEroica242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-243/217",
+            "name": "Mightyena",
+            "number": "243/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/MightyenaAscesaEroica243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-244/217",
+            "name": "Spiritomb di Camilla",
+            "number": "244/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/SpiritombdiCamillaAscesaEroica244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-245/217",
+            "name": "Obstagoon di Galar",
+            "number": "245/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/ObstagoondiGalarAscesaEroica245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-246/217",
+            "name": "Mawile",
+            "number": "246/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/MawileAscesaEroica246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-247/217",
+            "name": "Dreepy",
+            "number": "247/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DreepyAscesaEroica247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-248/217",
+            "name": "Drakloak",
+            "number": "248/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/DrakloakAscesaEroica248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-249/217",
+            "name": "Staraptor di Ubaldo",
+            "number": "249/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/StaraptordiUbaldoAscesaEroica249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-250/217",
+            "name": "Rotom Vortice",
+            "number": "250/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/RotomVorticeAscesaEroica250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-251/217",
+            "name": "Sprigatito-ex",
+            "number": "251/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Sprigatito-exAscesaEroica251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-252/217",
+            "name": "Stunfisk-ex",
+            "number": "252/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Stunfisk-exAscesaEroica252.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-253/217",
+            "name": "Mega Audino-ex",
+            "number": "253/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MegaAudino-exAscesaEroica253.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-254/217",
+            "name": "Antea e Concordia",
+            "number": "254/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/AnteaeConcordiaAscesaEroica254.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-255/217",
+            "name": "Allenamento di Cinturanera",
+            "number": "255/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/AllenamentodiCinturaneraAscesaEroica255.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-256/217",
+            "name": "Ordini del Capo [Corvin]",
+            "number": "256/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/OrdinidelCapoAscesaEroica256.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-257/217",
+            "name": "Canary",
+            "number": "257/217",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/CanaryAscesaEroica257.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-258/217",
+            "name": "Komor",
+            "number": "258/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/KomorAscesaEroica258.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-259/217",
+            "name": "Contrappeso",
+            "number": "259/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ContrappesoAscesaEroica259.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-260/217",
+            "name": "Tromba di Vetro",
+            "number": "260/217",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/TrombadiVetroAscesaEroica260.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-261/217",
+            "name": "Torre di Interferenza",
+            "number": "261/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/TorrediInterferenzaAscesaEroica261.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-262/217",
+            "name": "PP-su di N",
+            "number": "262/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PP-sudiNAscesaEroica262.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-263/217",
+            "name": "Ricetrasmettitore del Team Rocket",
+            "number": "263/217",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/RicetrasmettitoredelTeamRocketAscesaEroica263.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-264/217",
+            "name": "Ultra Ball",
+            "number": "264/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/UltraBallAscesaEroica264.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-265/217",
+            "name": "Mega Froslass-ex",
+            "number": "265/217",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MegaFroslass-exAscesaEroica265.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-266/217",
+            "name": "Mega Eelektross-ex",
+            "number": "266/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MegaEelektross-exAscesaEroica266.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-267/217",
+            "name": "Mega Diancie-ex",
+            "number": "267/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MegaDiancie-exAscesaEroica267.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-268/217",
+            "name": "Mega Hawlucha-ex",
+            "number": "268/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MegaHawlucha-exAscesaEroica268.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-269/217",
+            "name": "Mega Gengar-ex",
+            "number": "269/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/MegaGengar-exAscesaEroica269.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-270/217",
+            "name": "Mega Scrafty-ex",
+            "number": "270/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MegaScrafty-exAscesaEroica270.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-271/217",
+            "name": "Mega Dragonite-ex",
+            "number": "271/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MegaDragonite-exAscesaEroica271.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-272/217",
+            "name": "Mega Meganium-ex",
+            "number": "272/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MegaMeganium-exAscesaEroica272.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-273/217",
+            "name": "Mega Emboar-ex",
+            "number": "273/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MegaEmboar-exAscesaEroica273.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-274/217",
+            "name": "Mega Feraligatr-ex",
+            "number": "274/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MegaFeraligatr-exAscesaEroica274.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-275/217",
+            "name": "Mega Froslass-ex",
+            "number": "275/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MegaFroslass-exAscesaEroica275.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-276/217",
+            "name": "Pikachu-ex",
+            "number": "276/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Pikachu-exAscesaEroica276.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-277/217",
+            "name": "Pikachu-ex",
+            "number": "277/217",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Pikachu-exAscesaEroica277.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-278/217",
+            "name": "Mega Eelektross-ex",
+            "number": "278/217",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MegaEelektross-exAscesaEroica278.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-279/217",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "279/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Bellibolt-exdiKissaraAscesaEroica279.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-280/217",
+            "name": "Clefairy-ex di Lylia",
+            "number": "280/217",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Clefairy-exdiLyliaAscesaEroica280.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-281/217",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "281/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Mewtwo-exdelTeamRocketAscesaEroica281.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-282/217",
+            "name": "Mega Diancie-ex",
+            "number": "282/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MegaDiancie-exAscesaEroica282.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-283/217",
+            "name": "Mega Hawlucha-ex",
+            "number": "283/217",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/MegaHawlucha-exAscesaEroica283.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-284/217",
+            "name": "Mega Gengar-ex",
+            "number": "284/217",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MegaGengar-exAscesaEroica284.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-285/217",
+            "name": "Mega Scrafty-ex",
+            "number": "285/217",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MegaScrafty-exAscesaEroica285.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-286/217",
+            "name": "Zoroark-ex di N",
+            "number": "286/217",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Zoroark-exdiNAscesaEroica286.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-287/217",
+            "name": "Grimmsnarl-ex di Mary",
+            "number": "287/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/Grimmsnarl-exdiMaryAscesaEroica287.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-288/217",
+            "name": "Fezandipiti-ex",
+            "number": "288/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Fezandipiti-exAscesaEroica288.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-289/217",
+            "name": "Metagross-ex di Rocco",
+            "number": "289/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Metagross-exdiRoccoAscesaEroica289.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-290/217",
+            "name": "Mega Dragonite-ex",
+            "number": "290/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MegaDragonite-exAscesaEroica290.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-291/217",
+            "name": "Canary",
+            "number": "291/217",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/CanaryAscesaEroica291.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-292/217",
+            "name": "Spirito Combattivo di Iris",
+            "number": "292/217",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SpiritoCombattivodiIrisAscesaEroica292.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-293/217",
+            "name": "Surfista",
+            "number": "293/217",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/SurfistaAscesaEroica293.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-294/217",
+            "name": "Mega Charizard Y-ex",
+            "number": "294/217",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MegaCharizardY-exAscesaEroica294.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "ASC-295/217",
+            "name": "Mega Dragonite-ex",
+            "number": "295/217",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MegaDragonite-exAscesaEroica295.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

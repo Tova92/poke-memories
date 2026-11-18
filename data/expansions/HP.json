@@ -1,0 +1,790 @@
+{
+    "expansion": {
+        "id": "HP",
+        "name": "EX Fantasmi di Holon",
+				"year": 2006,
+				"month": 5,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetEX_Fantasmi_di_Holon.png",
+        "cardCount": 111
+    },
+    "cards": [
+        {
+            "id": "HP-1/110",
+            "name": "Armaldo δ",
+            "number": "1/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ArmaldoEXFantasmidiHolon1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-2/110",
+            "name": "Cradily δ",
+            "number": "2/110",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/CradilyEXFantasmidiHolon2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-3/110",
+            "name": "Deoxys δ",
+            "number": "3/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/DeoxysEXFantasmidiHolon3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-4/110",
+            "name": "Deoxys δ",
+            "number": "4/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/DeoxysEXFantasmidiHolon4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-5/110",
+            "name": "Deoxys δ",
+            "number": "5/110",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/DeoxysEXFantasmidiHolon5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-6/110",
+            "name": "Deoxys δ",
+            "number": "6/110",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/DeoxysEXFantasmidiHolon6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-7/110",
+            "name": "Flygon δ",
+            "number": "7/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/FlygonEXFantasmidiHolon7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-8/110",
+            "name": "Gyarados δ",
+            "number": "8/110",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/GyaradosEXFantasmidiHolon8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-9/110",
+            "name": "Kabutops δ",
+            "number": "9/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/KabutopsEXFantasmidiHolon9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-10/110",
+            "name": "Kingdra δ",
+            "number": "10/110",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/KingdraEXFantasmidiHolon10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-11/110",
+            "name": "Latias δ",
+            "number": "11/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/LatiasEXFantasmidiHolon11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-12/110",
+            "name": "Latios δ",
+            "number": "12/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/LatiosEXFantasmidiHolon12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-13/110",
+            "name": "Omastar δ",
+            "number": "13/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/OmastarEXFantasmidiHolon13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-14/110",
+            "name": "Pidgeot δ",
+            "number": "14/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/PidgeotEXFantasmidiHolon14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-15/110",
+            "name": "Raichu δ",
+            "number": "15/110",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/RaichuEXFantasmidiHolon15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-16/110",
+            "name": "Rayquaza δ",
+            "number": "16/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RayquazaEXFantasmidiHolon16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-17/110",
+            "name": "Vileplume δ",
+            "number": "17/110",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/VileplumeEXFantasmidiHolon17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-18/110",
+            "name": "Absol",
+            "number": "18/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/AbsolEXFantasmidiHolon18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-19/110",
+            "name": "Bellossom δ",
+            "number": "19/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/BellossomEXFantasmidiHolon19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-20/110",
+            "name": "Blaziken",
+            "number": "20/110",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/BlazikenEXFantasmidiHolon20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-21/110",
+            "name": "Latias δ",
+            "number": "21/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/LatiasEXFantasmidiHolon21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-22/110",
+            "name": "Latios δ",
+            "number": "22/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/LatiosEXFantasmidiHolon22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-23/110",
+            "name": "Mawile",
+            "number": "23/110",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/MawileEXFantasmidiHolon23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-24/110",
+            "name": "Mewtwo δ",
+            "number": "24/110",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MewtwoEXFantasmidiHolon24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-25/110",
+            "name": "Nosepass",
+            "number": "25/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/NosepassEXFantasmidiHolon25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-26/110",
+            "name": "Rayquaza δ",
+            "number": "26/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/RayquazaEXFantasmidiHolon26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-27/110",
+            "name": "Regice",
+            "number": "27/110",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/RegiceEXFantasmidiHolon27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-28/110",
+            "name": "Regirock",
+            "number": "28/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/RegirockEXFantasmidiHolon28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-29/110",
+            "name": "Registeel",
+            "number": "29/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/RegisteelEXFantasmidiHolon29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-30/110",
+            "name": "Relicanth",
+            "number": "30/110",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/RelicanthEXFantasmidiHolon30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-31/110",
+            "name": "Sableye",
+            "number": "31/110",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/SableyeEXFantasmidiHolon31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-32/110",
+            "name": "Seviper",
+            "number": "32/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/SeviperEXFantasmidiHolon32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-33/110",
+            "name": "Torkoal",
+            "number": "33/110",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/TorkoalEXFantasmidiHolon33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-34/110",
+            "name": "Zangoose",
+            "number": "34/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/ZangooseEXFantasmidiHolon34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-35/110",
+            "name": "Aerodactyl δ",
+            "number": "35/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/AerodactylEXFantasmidiHolon35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-36/110",
+            "name": "Camerupt",
+            "number": "36/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/CameruptEXFantasmidiHolon36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-37/110",
+            "name": "Chimecho δ",
+            "number": "37/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/ChimechoEXFantasmidiHolon37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-38/110",
+            "name": "Claydol",
+            "number": "38/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ClaydolEXFantasmidiHolon38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-39/110",
+            "name": "Combusken",
+            "number": "39/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/CombuskenEXFantasmidiHolon39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-40/110",
+            "name": "Donphan",
+            "number": "40/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DonphanEXFantasmidiHolon40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-41/110",
+            "name": "Exeggutor δ",
+            "number": "41/110",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/ExeggutorEXFantasmidiHolon41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-42/110",
+            "name": "Gloom δ",
+            "number": "42/110",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/GloomEXFantasmidiHolon42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-43/110",
+            "name": "Golduck δ",
+            "number": "43/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/GolduckEXFantasmidiHolon43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-44/110",
+            "name": "Holon Castform",
+            "number": "44/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/HolonCastformEXFantasmidiHolon44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-45/110",
+            "name": "Lairon",
+            "number": "45/110",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/LaironEXFantasmidiHolon45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-46/110",
+            "name": "Manectric",
+            "number": "46/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ManectricEXFantasmidiHolon46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-47/110",
+            "name": "Masquerain",
+            "number": "47/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MasquerainEXFantasmidiHolon47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-48/110",
+            "name": "Persian δ",
+            "number": "48/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/PersianEXFantasmidiHolon48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-49/110",
+            "name": "Pidgeotto δ",
+            "number": "49/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/PidgeottoEXFantasmidiHolon49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-50/110",
+            "name": "Primeape δ",
+            "number": "50/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PrimeapeEXFantasmidiHolon50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-51/110",
+            "name": "Raichu",
+            "number": "51/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/RaichuEXFantasmidiHolon51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-52/110",
+            "name": "Seadra δ",
+            "number": "52/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SeadraEXFantasmidiHolon52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-53/110",
+            "name": "Sharpedo δ",
+            "number": "53/110",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SharpedoEXFantasmidiHolon53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-54/110",
+            "name": "Vibrava δ",
+            "number": "54/110",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/VibravaEXFantasmidiHolon54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-55/110",
+            "name": "Whiscash",
+            "number": "55/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/WhiscashEXFantasmidiHolon55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-56/110",
+            "name": "Wobbuffet",
+            "number": "56/110",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/WobbuffetEXFantasmidiHolon56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-57/110",
+            "name": "Anorith δ",
+            "number": "57/110",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/AnorithEXFantasmidiHolon57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-58/110",
+            "name": "Aron",
+            "number": "58/110",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/AronEXFantasmidiHolon58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-59/110",
+            "name": "Baltoy",
+            "number": "59/110",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BaltoyEXFantasmidiHolon59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-60/110",
+            "name": "Barboach",
+            "number": "60/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/BarboachEXFantasmidiHolon60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-61/110",
+            "name": "Carvanha δ",
+            "number": "61/110",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/CarvanhaEXFantasmidiHolon61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-62/110",
+            "name": "Corphish",
+            "number": "62/110",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CorphishEXFantasmidiHolon62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-63/110",
+            "name": "Corphish",
+            "number": "63/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/CorphishEXFantasmidiHolon63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-64/110",
+            "name": "Electrike",
+            "number": "64/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ElectrikeEXFantasmidiHolon64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-65/110",
+            "name": "Exeggcute δ",
+            "number": "65/110",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/ExeggcuteEXFantasmidiHolon65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-66/110",
+            "name": "Horsea δ",
+            "number": "66/110",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/HorseaEXFantasmidiHolon66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-67/110",
+            "name": "Kabuto δ",
+            "number": "67/110",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/KabutoEXFantasmidiHolon67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-68/110",
+            "name": "Lileep δ",
+            "number": "68/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/LileepEXFantasmidiHolon68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-69/110",
+            "name": "Magikarp δ",
+            "number": "69/110",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MagikarpEXFantasmidiHolon69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-70/110",
+            "name": "Mankey δ",
+            "number": "70/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/MankeyEXFantasmidiHolon70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-71/110",
+            "name": "Meowth δ",
+            "number": "71/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/MeowthEXFantasmidiHolon71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-72/110",
+            "name": "Numel",
+            "number": "72/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/NumelEXFantasmidiHolon72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-73/110",
+            "name": "Oddish δ",
+            "number": "73/110",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/OddishEXFantasmidiHolon73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-74/110",
+            "name": "Omanyte δ",
+            "number": "74/110",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/OmanyteEXFantasmidiHolon74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-75/110",
+            "name": "Phanpy",
+            "number": "75/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/PhanpyEXFantasmidiHolon75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-76/110",
+            "name": "Pichu δ",
+            "number": "76/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/PichuEXFantasmidiHolon76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-77/110",
+            "name": "Pidgey δ",
+            "number": "77/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/PidgeyEXFantasmidiHolon77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-78/110",
+            "name": "Pikachu",
+            "number": "78/110",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/PikachuEXFantasmidiHolon78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-79/110",
+            "name": "Pikachu δ",
+            "number": "79/110",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/PikachuEXFantasmidiHolon79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-80/110",
+            "name": "Poochyena",
+            "number": "80/110",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/PoochyenaEXFantasmidiHolon80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-81/110",
+            "name": "Psyduck δ",
+            "number": "81/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/PsyduckEXFantasmidiHolon81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-82/110",
+            "name": "Surskit",
+            "number": "82/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SurskitEXFantasmidiHolon82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-83/110",
+            "name": "Torchic",
+            "number": "83/110",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/TorchicEXFantasmidiHolon83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-84/110",
+            "name": "Trapinch δ",
+            "number": "84/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/TrapinchEXFantasmidiHolon84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-85/110",
+            "name": "Avventuriero di Holon",
+            "number": "85/110",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/AvventurierodiHolonEXFantasmidiHolon85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-86/110",
+            "name": "Fossile di Holon",
+            "number": "86/110",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/FossilediHolonEXFantasmidiHolon86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-87/110",
+            "name": "Lago di Holon",
+            "number": "87/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/LagodiHolonEXFantasmidiHolon87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-88/110",
+            "name": "Progetto del Sig. Petri",
+            "number": "88/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/ProgettodelSigPetriEXFantasmidiHolon88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-89/110",
+            "name": "Scoperta del Professor Cosmi",
+            "number": "89/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/ScopertadelProfessorCosmiEXFantasmidiHolon89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-90/110",
+            "name": "Caramella Rara",
+            "number": "90/110",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/CaramellaRaraEXFantasmidiHolon90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-91/110",
+            "name": "Artiglio Fossile",
+            "number": "91/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/ArtiglioFossileEXFantasmidiHolon91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-92/110",
+            "name": "Fossile Misterioso",
+            "number": "92/110",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/FossileMisteriosoEXFantasmidiHolon92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-93/110",
+            "name": "Radice Fossile",
+            "number": "93/110",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/RadiceFossileEXFantasmidiHolon93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-94/110",
+            "name": "Energia Oscurità",
+            "number": "94/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/EnergiaOscurit%C3%A0EXFantasmidiHolon94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-95/110",
+            "name": "Energia Metallo",
+            "number": "95/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/EnergiaMetalloEXFantasmidiHolon95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-96/110",
+            "name": "Multienergia",
+            "number": "96/110",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MultienergiaEXFantasmidiHolon96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-97/110",
+            "name": "Energia Oscurità Metallo",
+            "number": "97/110",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/EnergiaOscurit%C3%A0MetalloEXFantasmidiHolon97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-98/110",
+            "name": "Energia Arcobaleno δ",
+            "number": "98/110",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/EnergiaArcobaleno%CE%B4EXFantasmidiHolon98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-99/110",
+            "name": "Crawdaunt ex",
+            "number": "99/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/CrawdauntexEXFantasmidiHolon99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-100/110",
+            "name": "Mew ex",
+            "number": "100/110",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/MewexEXFantasmidiHolon100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-101/110",
+            "name": "Mightyena ex",
+            "number": "101/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MightyenaexEXFantasmidiHolon101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-102/110",
+            "name": "Gyarados ☆ δ",
+            "number": "102/110",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/GyaradosEXFantasmidiHolon102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-103/110",
+            "name": "Mewtwo ☆",
+            "number": "103/110",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MewtwoEXFantasmidiHolon102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-104/110",
+            "name": "Pikachu ☆",
+            "number": "104/110",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PikachuEXFantasmidiHolon102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-105/110",
+            "name": "Energia Erba",
+            "number": "105/110",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/EnergiaErbaEXFantasmidiHolon105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-106/110",
+            "name": "Energia Fuoco",
+            "number": "106/110",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/EnergiaFuocoEXFantasmidiHolon106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-107/110",
+            "name": "Energia Acqua",
+            "number": "107/110",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/EnergiaAcquaEXFantasmidiHolon107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-108/110",
+            "name": "Energia Lampo",
+            "number": "108/110",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/EnergiaLampoEXFantasmidiHolon108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-109/110",
+            "name": "Energia Psiche",
+            "number": "109/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/EnergiaPsicheEXFantasmidiHolon109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-110/110",
+            "name": "Energia Lotta",
+            "number": "110/110",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/EnergiaLottaEXFantasmidiHolon110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "HP-111/110",
+            "name": "Mew",
+            "number": "111/110",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MewEXFantasmidiHolon111.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

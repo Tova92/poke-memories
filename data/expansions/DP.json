@@ -1,0 +1,923 @@
+{
+    "expansion": {
+        "id": "DP",
+        "name": "Diamante & Perla",
+				"year": 2007,
+				"month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetDiamante_%26_Perla.png",
+        "cardCount": 130
+    },
+    "cards": [
+        {
+            "id": "DP-1/130",
+            "name": "Dialga",
+            "number": "1/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/DialgaDiamanteePerla1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-2/130",
+            "name": "Dusknoir",
+            "number": "2/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/DusknoirDiamanteePerla2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-3/130",
+            "name": "Electivire",
+            "number": "3/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ElectivireDiamanteePerla3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-4/130",
+            "name": "Empoleon",
+            "number": "4/130",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/EmpoleonDiamanteePerla4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-5/130",
+            "name": "Infernape",
+            "number": "5/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/InfernapeDiamanteePerla5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-6/130",
+            "name": "Lucario",
+            "number": "6/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/LucarioDiamanteePerla6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-7/130",
+            "name": "Luxray",
+            "number": "7/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/LuxrayDiamanteePerla7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-8/130",
+            "name": "Magnezone",
+            "number": "8/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/MagnezoneDiamanteePerla8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-9/130",
+            "name": "Manaphy",
+            "number": "9/130",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ManaphyDiamanteePerla9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-10/130",
+            "name": "Mismagius",
+            "number": "10/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MismagiusDiamanteePerla10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-11/130",
+            "name": "Palkia",
+            "number": "11/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/PalkiaDiamanteePerla11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-12/130",
+            "name": "Rhyperior",
+            "number": "12/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/RhyperiorDiamanteePerla12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-13/130",
+            "name": "Roserade",
+            "number": "13/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/RoseradeDiamanteePerla13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-14/130",
+            "name": "Shiftry",
+            "number": "14/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ShiftryDiamanteePerla14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-15/130",
+            "name": "Skuntank",
+            "number": "15/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SkuntankDiamanteePerla15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-16/130",
+            "name": "Staraptor",
+            "number": "16/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/StaraptorDiamanteePerla16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-17/130",
+            "name": "Torterra",
+            "number": "17/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/TorterraDiamanteePerla17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-18/130",
+            "name": "Azumarill",
+            "number": "18/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/AzumarillDiamanteePerla18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-19/130",
+            "name": "Beautifly",
+            "number": "19/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/BeautiflyDiamanteePerla19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-20/130",
+            "name": "Bibarel",
+            "number": "20/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/BibarelDiamanteePerla20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-21/130",
+            "name": "Carnivine",
+            "number": "21/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/CarnivineDiamanteePerla21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-22/130",
+            "name": "Clefable",
+            "number": "22/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ClefableDiamanteePerla22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-23/130",
+            "name": "Drapion",
+            "number": "23/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/DrapionDiamanteePerla23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-24/130",
+            "name": "Drifblim",
+            "number": "24/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/DrifblimDiamanteePerla24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-25/130",
+            "name": "Dustox",
+            "number": "25/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/DustoxDiamanteePerla25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-26/130",
+            "name": "Floatzel",
+            "number": "26/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/FloatzelDiamanteePerla26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-27/130",
+            "name": "Gengar",
+            "number": "27/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/GengarDiamanteePerla27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-28/130",
+            "name": "Heracross",
+            "number": "28/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/HeracrossDiamanteePerla28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-29/130",
+            "name": "Hippowdon",
+            "number": "29/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/HippowdonDiamanteePerla29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-30/130",
+            "name": "Lopunny",
+            "number": "30/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/LopunnyDiamanteePerla30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-31/130",
+            "name": "Machamp",
+            "number": "31/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MachampDiamanteePerla31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-32/130",
+            "name": "Medicham",
+            "number": "32/130",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MedichamDiamanteePerla32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-33/130",
+            "name": "Munchlax",
+            "number": "33/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MunchlaxDiamanteePerla33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-34/130",
+            "name": "Noctowl",
+            "number": "34/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/NoctowlDiamanteePerla34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-35/130",
+            "name": "Pachirisu",
+            "number": "35/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PachirisuDiamanteePerla35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-36/130",
+            "name": "Purugly",
+            "number": "36/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/PuruglyDiamanteePerla36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-37/130",
+            "name": "Snorlax",
+            "number": "37/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/SnorlaxDiamanteePerla37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-38/130",
+            "name": "Steelix",
+            "number": "38/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SteelixDiamanteePerla38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-39/130",
+            "name": "Vespiquen",
+            "number": "39/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/VespiquenDiamanteePerla39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-40/130",
+            "name": "Weavile",
+            "number": "40/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/WeavileDiamanteePerla40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-41/130",
+            "name": "Wobbuffet",
+            "number": "41/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/WobbuffetDiamanteePerla41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-42/130",
+            "name": "Wynaut",
+            "number": "42/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/WynautDiamanteePerla42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-43/130",
+            "name": "Budew",
+            "number": "43/130",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/BudewDiamanteePerla43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-44/130",
+            "name": "Cascoon",
+            "number": "44/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/CascoonDiamanteePerla44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-45/130",
+            "name": "Cherrim",
+            "number": "45/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/CherrimDiamanteePerla45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-46/130",
+            "name": "Drifloon",
+            "number": "46/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/DrifloonDiamanteePerla46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-47/130",
+            "name": "Dusclops",
+            "number": "47/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DusclopsDiamanteePerla47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-48/130",
+            "name": "Elekid",
+            "number": "48/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ElekidDiamanteePerla48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-49/130",
+            "name": "Grotle",
+            "number": "49/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/GrotleDiamanteePerla49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-50/130",
+            "name": "Haunter",
+            "number": "50/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/HaunterDiamanteePerla50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-51/130",
+            "name": "Hippopotas",
+            "number": "51/130",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/HippopotasDiamanteePerla51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-52/130",
+            "name": "Luxio",
+            "number": "52/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/LuxioDiamanteePerla52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-53/130",
+            "name": "Machoke",
+            "number": "53/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/MachokeDiamanteePerla53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-54/130",
+            "name": "Magneton",
+            "number": "54/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MagnetonDiamanteePerla54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-55/130",
+            "name": "Mantyke",
+            "number": "55/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MantykeDiamanteePerla55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-56/130",
+            "name": "Monferno",
+            "number": "56/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/MonfernoDiamanteePerla56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-57/130",
+            "name": "Nuzleaf",
+            "number": "57/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/NuzleafDiamanteePerla57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-58/130",
+            "name": "Prinplup",
+            "number": "58/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PrinplupDiamanteePerla58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-59/130",
+            "name": "Rapidash",
+            "number": "59/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/RapidashDiamanteePerla59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-60/130",
+            "name": "Rhydon",
+            "number": "60/130",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/RhydonDiamanteePerla60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-61/130",
+            "name": "Riolu",
+            "number": "61/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/RioluDiamanteePerla61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-62/130",
+            "name": "Seaking",
+            "number": "62/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/SeakingDiamanteePerla62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-63/130",
+            "name": "Silcoon",
+            "number": "63/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/SilcoonDiamanteePerla63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-64/130",
+            "name": "Staravia",
+            "number": "64/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/StaraviaDiamanteePerla64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-65/130",
+            "name": "Unown A",
+            "number": "65/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/UnownADiamanteePerla65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-66/130",
+            "name": "Unown B",
+            "number": "66/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/UnownBDiamanteePerla66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-67/130",
+            "name": "Unown C",
+            "number": "67/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/UnownCDiamanteePerla67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-68/130",
+            "name": "Unown D",
+            "number": "68/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/UnownDDiamanteePerla68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-69/130",
+            "name": "Azurill",
+            "number": "69/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/AzurillDiamanteePerla69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-70/130",
+            "name": "Bidoof",
+            "number": "70/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/BidoofDiamanteePerla70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-71/130",
+            "name": "Bonsly",
+            "number": "71/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/BonslyDiamanteePerla71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-72/130",
+            "name": "Buizel",
+            "number": "72/130",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/BuizelDiamanteePerla72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-73/130",
+            "name": "Buneary",
+            "number": "73/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/BunearyDiamanteePerla73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-74/130",
+            "name": "Chatot",
+            "number": "74/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ChatotDiamanteePerla74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-75/130",
+            "name": "Cherubi",
+            "number": "75/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CherubiDiamanteePerla75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-76/130",
+            "name": "Chimchar",
+            "number": "76/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/ChimcharDiamanteePerla76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-77/130",
+            "name": "Clefairy",
+            "number": "77/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ClefairyDiamanteePerla77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-78/130",
+            "name": "Cleffa",
+            "number": "78/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/CleffaDiamanteePerla78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-79/130",
+            "name": "Combee",
+            "number": "79/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/CombeeDiamanteePerla79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-80/130",
+            "name": "Duskull",
+            "number": "80/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/DuskullDiamanteePerla80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-81/130",
+            "name": "Electabuzz",
+            "number": "81/130",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ElectabuzzDiamanteePerla81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-82/130",
+            "name": "Gastly",
+            "number": "82/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GastlyDiamanteePerla82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-83/130",
+            "name": "Glameow",
+            "number": "83/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/GlameowDiamanteePerla83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-84/130",
+            "name": "Goldeen",
+            "number": "84/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/GoldeenDiamanteePerla84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-85/130",
+            "name": "Hoothoot",
+            "number": "85/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/HoothootDiamanteePerla85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-86/130",
+            "name": "Machop",
+            "number": "86/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/MachopDiamanteePerla86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-87/130",
+            "name": "Magnemite",
+            "number": "87/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MagnemiteDiamanteePerla87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-88/130",
+            "name": "Marill",
+            "number": "88/130",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MarillDiamanteePerla88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-89/130",
+            "name": "Meditite",
+            "number": "89/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/MedititeDiamanteePerla89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-90/130",
+            "name": "Mime Jr.",
+            "number": "90/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/MimeJrDiamanteePerla90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-91/130",
+            "name": "Misdreavus",
+            "number": "91/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MisdreavusDiamanteePerla91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-92/130",
+            "name": "Onix",
+            "number": "92/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/OnixDiamanteePerla92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-93/130",
+            "name": "Piplup",
+            "number": "93/130",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/PiplupDiamanteePerla93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-94/130",
+            "name": "Ponyta",
+            "number": "94/130",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/PonytaDiamanteePerla94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-95/130",
+            "name": "Rhyhorn",
+            "number": "95/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/RhyhornDiamanteePerla95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-96/130",
+            "name": "Roselia",
+            "number": "96/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/RoseliaDiamanteePerla96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-97/130",
+            "name": "Seedot",
+            "number": "97/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/SeedotDiamanteePerla97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-98/130",
+            "name": "Shinx",
+            "number": "98/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/ShinxDiamanteePerla98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-99/130",
+            "name": "Skorupi",
+            "number": "99/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/SkorupiDiamanteePerla99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-100/130",
+            "name": "Sneasel",
+            "number": "100/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/SneaselDiamanteePerla100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-101/130",
+            "name": "Starly",
+            "number": "101/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/StarlyDiamanteePerla101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-102/130",
+            "name": "Stunky",
+            "number": "102/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/StunkyDiamanteePerla102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-103/130",
+            "name": "Turtwig",
+            "number": "103/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/TurtwigDiamanteePerla103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-104/130",
+            "name": "Wurmple",
+            "number": "104/130",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/WurmpleDiamanteePerla104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-105/130",
+            "name": "Doppio Recupero Totale",
+            "number": "105/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/DoppioRecuperoTotaleDiamanteePerla105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-106/130",
+            "name": "Ripristina Energia",
+            "number": "106/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/RipristinaEnergiaDiamanteePerla106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-107/130",
+            "name": "Scambio di Energia",
+            "number": "107/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/ScambiodiEnergiaDiamanteePerla107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-108/130",
+            "name": "Centro Pokémon Notturno",
+            "number": "108/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/CentroPok%C3%A9monNotturnoDiamanteePerla108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-109/130",
+            "name": "PlusPotenza",
+            "number": "109/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/PlusPotenzaDiamanteePerla109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-110/130",
+            "name": "Poké Ball",
+            "number": "110/130",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Pok%C3%A9BallDiamanteePerla110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-111/130",
+            "name": "Pokédex HANDY910is",
+            "number": "111/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Pok%C3%A9dexHANDY910isDiamanteePerla111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-112/130",
+            "name": "Professor Rowan",
+            "number": "112/130",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ProfessorRowanDiamanteePerla112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-113/130",
+            "name": "Rivale",
+            "number": "113/130",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/RivaleDiamanteePerla113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-114/130",
+            "name": "RapiStadio",
+            "number": "114/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/RapiStadioDiamanteePerla114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-115/130",
+            "name": "Super Recupero",
+            "number": "115/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/SuperRecuperoDiamanteePerla115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-116/130",
+            "name": "Punto di Curvatura",
+            "number": "116/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PuntodiCurvaturaDiamanteePerla116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-117/130",
+            "name": "Ricerca di Energia",
+            "number": "117/130",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/RicercadiEnergiaDiamanteePerla117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-118/130",
+            "name": "Pozione Magica",
+            "number": "118/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/PozioneMagicaDiamanteePerla118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-119/130",
+            "name": "Scambio",
+            "number": "119/130",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ScambioDiamanteePerla119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-120/130",
+            "name": "Empoleon LIV.X",
+            "number": "120/130",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/EmpoleonLIVXDiamanteePerla120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-121/130",
+            "name": "Infernape LIV.X",
+            "number": "121/130",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/InfernapeLIVXDiamanteePerla121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-122/130",
+            "name": "Torterra LIV.X",
+            "number": "122/130",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/TorterraLIVXDiamanteePerla122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-123/130",
+            "name": "Energia Erba",
+            "number": "123/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/EnergiaErbaDiamanteePerla123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-124/130",
+            "name": "Energia Fuoco",
+            "number": "124/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/EnergiaFuocoDiamanteePerla124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-125/130",
+            "name": "Energia Acqua",
+            "number": "125/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EnergiaAcquaDiamanteePerla125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-126/130",
+            "name": "Energia Lampo",
+            "number": "126/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/EnergiaLampoDiamanteePerla126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-127/130",
+            "name": "Energia Psiche",
+            "number": "127/130",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/EnergiaPsicheDiamanteePerla127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-128/130",
+            "name": "Energia Combattimento",
+            "number": "128/130",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaCombattimentoDiamanteePerla128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-129/130",
+            "name": "Energia Oscurità",
+            "number": "129/130",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/EnergiaOscurit%C3%A0DiamanteePerla129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DP-130/130",
+            "name": "Energia Metallo",
+            "number": "130/130",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EnergiaMetalloDiamanteePerla130.png",
+            "section": "Set principale"
+        }
+    ]
+}

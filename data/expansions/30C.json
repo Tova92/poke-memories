@@ -1,0 +1,1379 @@
+{
+    "expansion": {
+        "id": "30C",
+        "name": "30º Anniversario",
+        "year": 2026,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0a/SimboloSet30%C2%BA_Anniversario.png",
+        "cardCount": 191
+    },
+    "cards": [
+        {
+            "id": "30C-001/128",
+            "name": "Exeggcute",
+            "number": "001/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/Exeggcute30Anniversario1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-002/128",
+            "name": "Exeggutor di Alola",
+            "number": "002/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ExeggutordiAlola30Anniversario2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-003/128",
+            "name": "Volbeat",
+            "number": "003/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Volbeat30Anniversario3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-004/128",
+            "name": "Illumise",
+            "number": "004/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Illumise30Anniversario4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-005/128",
+            "name": "Tropius",
+            "number": "005/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Tropius30Anniversario5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-006/128",
+            "name": "Cherubi",
+            "number": "006/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Cherubi30Anniversario6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-007/128",
+            "name": "Cherrim",
+            "number": "007/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Cherrim30Anniversario7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-008/128",
+            "name": "Vivillon",
+            "number": "008/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Vivillon30Anniversario8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-009/128",
+            "name": "Vulpix",
+            "number": "009/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Vulpix30Anniversario9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-010/128",
+            "name": "Ninetales",
+            "number": "010/128",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Ninetales30Anniversario10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-011/128",
+            "name": "Moltres",
+            "number": "011/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Moltres30Anniversario11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-012/128",
+            "name": "Ho-Oh",
+            "number": "012/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Ho-Oh30Anniversario12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-013/128",
+            "name": "Victini",
+            "number": "013/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Victini30Anniversario13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-014/128",
+            "name": "Reshiram",
+            "number": "014/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Reshiram30Anniversario14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-015/128",
+            "name": "Fuecoco-ex",
+            "number": "015/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Fuecoco-ex30Anniversario15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-016/128",
+            "name": "Slowpoke",
+            "number": "016/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Slowpoke30Anniversario16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-017/128",
+            "name": "Lapras",
+            "number": "017/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Lapras30Anniversario17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-018/128",
+            "name": "Articuno",
+            "number": "018/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Articuno30Anniversario18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-019/128",
+            "name": "Kyogre",
+            "number": "019/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Kyogre30Anniversario19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-020/128",
+            "name": "Palkia",
+            "number": "020/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Palkia30Anniversario20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-021/128",
+            "name": "Greninja-ex",
+            "number": "021/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Greninja-ex30Anniversario21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-022/128",
+            "name": "Wishiwashi",
+            "number": "022/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Wishiwashi30Anniversario22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-023/128",
+            "name": "Pikachu",
+            "number": "023/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/Pikachu30Anniversario23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-024/128",
+            "name": "Pikachu",
+            "number": "024/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Pikachu30Anniversario24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-025/128",
+            "name": "Pikachu",
+            "number": "025/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Pikachu30Anniversario25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-026/128",
+            "name": "Pikachu",
+            "number": "026/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Pikachu30Anniversario26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-027/128",
+            "name": "Pikachu",
+            "number": "027/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Pikachu30Anniversario27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-028/128",
+            "name": "Pikachu",
+            "number": "028/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Pikachu30Anniversario28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-029/128",
+            "name": "Pikachu",
+            "number": "029/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Pikachu30Anniversario29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-030/128",
+            "name": "Pikachu",
+            "number": "030/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Pikachu30Anniversario30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-031/128",
+            "name": "Pikachu",
+            "number": "031/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Pikachu30Anniversario31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-032/128",
+            "name": "Pikachu",
+            "number": "032/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Pikachu30Anniversario32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-033/128",
+            "name": "Pikachu",
+            "number": "033/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Pikachu30Anniversario33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-034/128",
+            "name": "Pikachu",
+            "number": "034/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Pikachu30Anniversario34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-035/128",
+            "name": "Pikachu",
+            "number": "035/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Pikachu30Anniversario35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-036/128",
+            "name": "Pikachu",
+            "number": "036/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Pikachu30Anniversario36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-037/128",
+            "name": "Pikachu",
+            "number": "037/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Pikachu30Anniversario37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-038/128",
+            "name": "Pikachu",
+            "number": "038/128",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Pikachu30Anniversario38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-039/128",
+            "name": "Pikachu",
+            "number": "039/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Pikachu30Anniversario39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-040/128",
+            "name": "Pikachu",
+            "number": "040/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Pikachu30Anniversario40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-041/128",
+            "name": "Pikachu",
+            "number": "041/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/Pikachu30Anniversario41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-042/128",
+            "name": "Pikachu",
+            "number": "042/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Pikachu30Anniversario42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-043/128",
+            "name": "Pikachu",
+            "number": "043/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Pikachu30Anniversario43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-044/128",
+            "name": "Pikachu",
+            "number": "044/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Pikachu30Anniversario44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-045/128",
+            "name": "Pikachu",
+            "number": "045/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Pikachu30Anniversario45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-046/128",
+            "name": "Pikachu",
+            "number": "046/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Pikachu30Anniversario46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-047/128",
+            "name": "Pikachu",
+            "number": "047/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Pikachu30Anniversario47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-048/128",
+            "name": "Pikachu",
+            "number": "048/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Pikachu30Anniversario48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-049/128",
+            "name": "Pikachu",
+            "number": "049/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Pikachu30Anniversario49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-050/128",
+            "name": "Pikachu",
+            "number": "050/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/Pikachu30Anniversario50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-051/128",
+            "name": "Pikachu",
+            "number": "051/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/Pikachu30Anniversario51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-052/128",
+            "name": "Pikachu",
+            "number": "052/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Pikachu30Anniversario52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-053/128",
+            "name": "Pikachu-ex",
+            "number": "053/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Pikachu-ex30Anniversario53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-054/128",
+            "name": "Pikachu-ex",
+            "number": "054/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Pikachu-ex30Anniversario54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-055/128",
+            "name": "Zapdos",
+            "number": "055/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Zapdos30Anniversario55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-056/128",
+            "name": "Zekrom",
+            "number": "056/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Zekrom30Anniversario56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-057/128",
+            "name": "Zeraora",
+            "number": "057/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Zeraora30Anniversario57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-058/128",
+            "name": "Toxel",
+            "number": "058/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Toxel30Anniversario58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-059/128",
+            "name": "Toxtricity",
+            "number": "059/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/Toxtricity30Anniversario59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-060/128",
+            "name": "Toxtricity",
+            "number": "060/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Toxtricity30Anniversario60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-061/128",
+            "name": "Morpeko",
+            "number": "061/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Morpeko30Anniversario61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-062/128",
+            "name": "Miraidon",
+            "number": "062/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Miraidon30Anniversario62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-063/128",
+            "name": "Mewtwo",
+            "number": "063/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/Mewtwo30Anniversario63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-064/128",
+            "name": "Mewtwo-ex",
+            "number": "064/128",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Mewtwo-ex30Anniversario64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-065/128",
+            "name": "Mew",
+            "number": "065/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Mew30Anniversario65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-066/128",
+            "name": "Mew-ex",
+            "number": "066/128",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Mew-ex30Anniversario66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-067/128",
+            "name": "Marill",
+            "number": "067/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Marill30Anniversario67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-068/128",
+            "name": "Azumarill",
+            "number": "068/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Azumarill30Anniversario68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-069/128",
+            "name": "Espeon",
+            "number": "069/128",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Espeon30Anniversario69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-070/128",
+            "name": "Espeon-ex",
+            "number": "070/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/Espeon-ex30Anniversario70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-071/128",
+            "name": "Sylveon-ex",
+            "number": "071/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Sylveon-ex30Anniversario71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-072/128",
+            "name": "Unown",
+            "number": "072/128",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Unown30Anniversario72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-073/128",
+            "name": "Drifloon",
+            "number": "073/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Drifloon30Anniversario73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-074/128",
+            "name": "Cresselia",
+            "number": "074/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Cresselia30Anniversario74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-075/128",
+            "name": "Chandelure",
+            "number": "075/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Chandelure30Anniversario75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-076/128",
+            "name": "Xerneas",
+            "number": "076/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Xerneas30Anniversario76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-077/128",
+            "name": "Comfey",
+            "number": "077/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Comfey30Anniversario77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-078/128",
+            "name": "Cosmog",
+            "number": "078/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Cosmog30Anniversario78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-079/128",
+            "name": "Cosmoem",
+            "number": "079/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Cosmoem30Anniversario79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-080/128",
+            "name": "Lunala",
+            "number": "080/128",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/Lunala30Anniversario80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-081/128",
+            "name": "Gimmighoul",
+            "number": "081/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Gimmighoul30Anniversario81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-082/128",
+            "name": "Groudon",
+            "number": "082/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Groudon30Anniversario82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-083/128",
+            "name": "Lucario",
+            "number": "083/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Lucario30Anniversario83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-084/128",
+            "name": "Seismitoad",
+            "number": "084/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Seismitoad30Anniversario84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-085/128",
+            "name": "Lycanroc",
+            "number": "085/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Lycanroc30Anniversario85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-086/128",
+            "name": "Koraidon",
+            "number": "086/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Koraidon30Anniversario86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-087/128",
+            "name": "Nidoran♀",
+            "number": "087/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Nidoran30Anniversario87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-088/128",
+            "name": "Nidorina",
+            "number": "088/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Nidorina30Anniversario88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-089/128",
+            "name": "Meowth di Alola",
+            "number": "089/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MeowthdiAlola30Anniversario89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-090/128",
+            "name": "Gengar-ex",
+            "number": "090/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Gengar-ex30Anniversario90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-091/128",
+            "name": "Umbreon",
+            "number": "091/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Umbreon30Anniversario91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-092/128",
+            "name": "Umbreon-ex",
+            "number": "092/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Umbreon-ex30Anniversario92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-093/128",
+            "name": "Murkrow",
+            "number": "093/128",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Murkrow30Anniversario93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-094/128",
+            "name": "Scraggy",
+            "number": "094/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Scraggy30Anniversario94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-095/128",
+            "name": "Zorua",
+            "number": "095/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Zorua30Anniversario95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-096/128",
+            "name": "Zoroark",
+            "number": "096/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Zoroark30Anniversario96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-097/128",
+            "name": "Deino",
+            "number": "097/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Deino30Anniversario97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-098/128",
+            "name": "Zweilous",
+            "number": "098/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Zweilous30Anniversario98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-099/128",
+            "name": "Hydreigon",
+            "number": "099/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Hydreigon30Anniversario99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-100/128",
+            "name": "Yveltal",
+            "number": "100/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Yveltal30Anniversario100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-101/128",
+            "name": "Meowth di Galar",
+            "number": "101/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/MeowthdiGalar30Anniversario101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-102/128",
+            "name": "Jirachi-ex",
+            "number": "102/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Jirachi-ex30Anniversario102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-103/128",
+            "name": "Dialga",
+            "number": "103/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Dialga30Anniversario103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-104/128",
+            "name": "Ferrothorn",
+            "number": "104/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Ferrothorn30Anniversario104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-105/128",
+            "name": "Solgaleo",
+            "number": "105/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Solgaleo30Anniversario105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-106/128",
+            "name": "Zacian",
+            "number": "106/128",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Zacian30Anniversario106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-107/128",
+            "name": "Zamazenta",
+            "number": "107/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/Zamazenta30Anniversario107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-108/128",
+            "name": "Gholdengo",
+            "number": "108/128",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Gholdengo30Anniversario108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-109/128",
+            "name": "Salamence-ex",
+            "number": "109/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Salamence-ex30Anniversario109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-110/128",
+            "name": "Jangmo-o",
+            "number": "110/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Jangmo-o30Anniversario110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-111/128",
+            "name": "Hakamo-o",
+            "number": "111/128",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Hakamo-o30Anniversario111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-112/128",
+            "name": "Kommo-o",
+            "number": "112/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/Kommo-o30Anniversario112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-113/128",
+            "name": "Meowth",
+            "number": "113/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Meowth30Anniversario113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-114/128",
+            "name": "Kangaskhan",
+            "number": "114/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Kangaskhan30Anniversario114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-115/128",
+            "name": "Ditto",
+            "number": "115/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Ditto30Anniversario115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-116/128",
+            "name": "Eevee",
+            "number": "116/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Eevee30Anniversario116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-117/128",
+            "name": "Eevee",
+            "number": "117/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/Eevee30Anniversario117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-118/128",
+            "name": "Eevee",
+            "number": "118/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Eevee30Anniversario118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-119/128",
+            "name": "Snorlax",
+            "number": "119/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Snorlax30Anniversario119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-120/128",
+            "name": "Igglybuff",
+            "number": "120/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Igglybuff30Anniversario120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-121/128",
+            "name": "Lugia",
+            "number": "121/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Lugia30Anniversario121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-122/128",
+            "name": "Zorua di Hisui",
+            "number": "122/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ZoruadiHisui30Anniversario122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-123/128",
+            "name": "Zoroark di Hisui",
+            "number": "123/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ZoroarkdiHisui30Anniversario123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-124/128",
+            "name": "Minior",
+            "number": "124/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/Minior30Anniversario124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-125/128",
+            "name": "Maushold",
+            "number": "125/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Maushold30Anniversario125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-126/128",
+            "name": "Poké Pad",
+            "number": "126/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/Pok%C3%A9Pad30Anniversario126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-127/128",
+            "name": "Scambio",
+            "number": "127/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Scambio30Anniversario127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-128/128",
+            "name": "Ultra Ball",
+            "number": "128/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/UltraBall30Anniversario128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "30C-129/128",
+            "name": "Exeggutor di Alola",
+            "number": "129/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ExeggutordiAlola30Anniversario129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-130/128",
+            "name": "Moltres",
+            "number": "130/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Moltres30Anniversario130.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-131/128",
+            "name": "Lapras",
+            "number": "131/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Lapras30Anniversario131.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-132/128",
+            "name": "Articuno",
+            "number": "132/128",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Articuno30Anniversario132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-133/128",
+            "name": "Zapdos",
+            "number": "133/128",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Zapdos30Anniversario133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-134/128",
+            "name": "Toxtricity",
+            "number": "134/128",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Toxtricity30Anniversario134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-135/128",
+            "name": "Morpeko",
+            "number": "135/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Morpeko30Anniversario135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-136/128",
+            "name": "Drifloon",
+            "number": "136/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Drifloon30Anniversario136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-137/128",
+            "name": "Chandelure",
+            "number": "137/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Chandelure30Anniversario137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-138/128",
+            "name": "Lycanroc",
+            "number": "138/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Lycanroc30Anniversario138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-139/128",
+            "name": "Meowth di Alola",
+            "number": "139/128",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MeowthdiAlola30Anniversario139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-140/128",
+            "name": "Scraggy",
+            "number": "140/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Scraggy30Anniversario140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-141/128",
+            "name": "Meowth di Galar",
+            "number": "141/128",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/MeowthdiGalar30Anniversario141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-142/128",
+            "name": "Gholdengo",
+            "number": "142/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Gholdengo30Anniversario142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-143/128",
+            "name": "Kommo-o",
+            "number": "143/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Kommo-o30Anniversario143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-144/128",
+            "name": "Meowth",
+            "number": "144/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Meowth30Anniversario144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-145/128",
+            "name": "Zorua di Hisui",
+            "number": "145/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/ZoruadiHisui30Anniversario145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-146/128",
+            "name": "Maushold",
+            "number": "146/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Maushold30Anniversario146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-147/128",
+            "name": "Fuecoco-ex",
+            "number": "147/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/Fuecoco-ex30Anniversario147.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-148/128",
+            "name": "Greninja-ex",
+            "number": "148/128",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Greninja-ex30Anniversario148.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-149/128",
+            "name": "Pikachu-ex",
+            "number": "149/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Pikachu-ex30Anniversario149.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-150/128",
+            "name": "Pikachu-ex",
+            "number": "150/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Pikachu-ex30Anniversario150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-151/128",
+            "name": "Mewtwo-ex",
+            "number": "151/128",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Mewtwo-ex30Anniversario151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-152/128",
+            "name": "Mew-ex",
+            "number": "152/128",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Mew-ex30Anniversario152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-153/128",
+            "name": "Sylveon-ex",
+            "number": "153/128",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Sylveon-ex30Anniversario153.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-154/128",
+            "name": "Gengar-ex",
+            "number": "154/128",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Gengar-ex30Anniversario154.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-155/128",
+            "name": "Jirachi-ex",
+            "number": "155/128",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Jirachi-ex30Anniversario155.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-156/128",
+            "name": "Salamence-ex",
+            "number": "156/128",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Salamence-ex30Anniversario156.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-157/128",
+            "name": "Mewtwo-ex",
+            "number": "157/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Mewtwo-ex30Anniversario157.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-158/128",
+            "name": "Mew-ex",
+            "number": "158/128",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Mew-ex30Anniversario158.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "30C-58/102",
+            "name": "Pikachu [Set Base]",
+            "number": "58/102",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Pikachu30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-4/102",
+            "name": "Charizard [Set Base]",
+            "number": "4/102",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Charizard30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-18/132",
+            "name": "Misty [Gym Heroes]",
+            "number": "18/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Misty30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-69/132",
+            "name": "Jigglypuff di Erika [Gym Challenge]",
+            "number": "69/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/JigglypuffdiErika30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-25/111",
+            "name": "Sneasel [Neo Genesis]",
+            "number": "25/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Sneasel30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-106/105",
+            "name": "Shining Celebi [Neo Destiny]",
+            "number": "106/105",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ShiningCelebi30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-149/147",
+            "name": "Lugia [Aquapolis]",
+            "number": "149/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Lugia30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-5/109",
+            "name": "Delcatty [EX Rubino & Zaffiro]",
+            "number": "5/109",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Delcatty30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-19/109",
+            "name": "Dark Tyranitar [EX Team Rocket Returns]",
+            "number": "19/109",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/DarkTyranitar30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-108/115",
+            "name": "Scizor ex [EX Forze Segrete]",
+            "number": "108/115",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Scizorex30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-11/113",
+            "name": "Metagross δ [EX Specie Delta]",
+            "number": "11/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Metagross30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-106/106",
+            "name": "Palkia LIV.X [Incontri Leggendari]",
+            "number": "106/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/PalkiaLIVX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-43/146",
+            "name": "Uxie [Il Risveglio dei Miti]",
+            "number": "43/146",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Uxie30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-47/127",
+            "name": "Crobat G [Platino]",
+            "number": "47/127",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/CrobatG30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-94/102",
+            "name": "Gengar [Battaglie Trionfali]",
+            "number": "94/102",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Gengar30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-99/102",
+            "name": "Darkrai & Cresselia LEGGENDA [Battaglie Trionfali]",
+            "number": "99/102",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/DarkraieCresseliaLEGGENDA30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-100/102",
+            "name": "Darkrai & Cresselia LEGGENDA [Battaglie Trionfali]",
+            "number": "100/102",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/DarkraieCresseliaLEGGENDA30AnniversarioCollezioneClassica-2.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-101/101",
+            "name": "N [Vittorie Regali]",
+            "number": "101/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/N30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-85/124",
+            "name": "Rayquaza-EX [Stirpe dei Draghi]",
+            "number": "85/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Rayquaza-EX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-11/101",
+            "name": "Genesect-EX [Esplosione Plasma]",
+            "number": "11/101",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Genesect-EX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-106/160",
+            "name": "M Gardevoir-EX [Scontro Primordiale]",
+            "number": "106/160",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MGardevoir-EX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-41/122",
+            "name": "Greninja TURBO [Turbocrash]",
+            "number": "41/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/GreninjaTURBO30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-89/149",
+            "name": "Solgaleo-GX [Sole e Luna]",
+            "number": "89/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Solgaleo-GX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-57/111",
+            "name": "Buzzwole-GX [Invasione Scarlatta]",
+            "number": "57/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Buzzwole-GX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-33/181",
+            "name": "Pikachu e Zekrom-GX [Gioco di Squadra]",
+            "number": "33/181",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/PikachueZekrom-GX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-138/202",
+            "name": "Zacian-V [Spada e Scudo]",
+            "number": "138/202",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/Zacian-V30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-050/185",
+            "name": "Raikou [Voltaggio Sfolgorante]",
+            "number": "050/185",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Raikou30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-114/264",
+            "name": "Mew-VMAX [Colpo Fusione]",
+            "number": "114/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Mew-VMAX30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-123/172",
+            "name": "Arceus-V ASTRO [Astri Lucenti]",
+            "number": "123/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Arceus-VASTRO30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-203/193",
+            "name": "Magikarp [Evoluzioni a Paldea]",
+            "number": "203/193",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Magikarp30AnniversarioCollezioneClassica.png",
+            "section": "Collezione Classica"
+        },
+        {
+            "id": "30C-R/RGB",
+            "name": "Mew",
+            "number": "R/RGB",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Mew30AnniversarioR.png",
+            "section": "Mew RGB"
+        },
+        {
+            "id": "30C-G/RGB",
+            "name": "Mew",
+            "number": "G/RGB",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Mew30AnniversarioG.png",
+            "section": "Mew RGB"
+        },
+        {
+            "id": "30C-B/RGB",
+            "name": "Mew",
+            "number": "B/RGB",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Mew30AnniversarioB.png",
+            "section": "Mew RGB"
+        }
+    ],
+		"energies": [
+				"MEE-009",
+				"MEE-010",
+				"MEE-011",
+				"MEE-012",
+				"MEE-013",
+				"MEE-014",
+				"MEE-015",
+				"MEE-016"
+		],
+		"promo": [
+				"MEP-094",
+				"MEP-095",
+				"MEP-096",
+				"MEP-097",
+				"MEP-098",
+				"MEP-099",
+				"MEP-100",
+				"MEP-101",
+				"MEP-102",
+				"MEP-103",
+				"MEP-104",
+				"MEP-105",
+				"MEP-106",
+				"MEP-107",
+				"MEP-108",
+				"MEP-109",
+				"MEP-110"
+		]
+}

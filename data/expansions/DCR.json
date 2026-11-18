@@ -1,0 +1,251 @@
+{
+    "expansion": {
+        "id": "DCR",
+        "name": "Doppio Scontro",
+        "year": 2015,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c5/SimboloSetDoppio_Scontro.png",
+        "cardCount": 34
+    },
+    "cards": [
+        {
+            "id": "DCR-1/34",
+            "name": "Numel del Team Magma",
+            "number": "1/34",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/NumeldelTeamMagmaDoppioScontro1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-2/34",
+            "name": "Camerupt del Team Magma",
+            "number": "2/34",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/CameruptdelTeamMagmaDoppioScontro2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-3/34",
+            "name": "Spheal del Team Idro",
+            "number": "3/34",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/SphealdelTeamIdroDoppioScontro3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-4/34",
+            "name": "Sealeo del Team Idro",
+            "number": "4/34",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/SealeodelTeamIdroDoppioScontro4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-5/34",
+            "name": "Walrein del Team Idro",
+            "number": "5/34",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/WalreindelTeamIdroDoppioScontro5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-6/34",
+            "name": "Kyogre-EX del Team Idro",
+            "number": "6/34",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Kyogre-EXdelTeamIdroDoppioScontro6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-7/34",
+            "name": "Grimer del Team Idro",
+            "number": "7/34",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/GrimerdelTeamIdroDoppioScontro7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-8/34",
+            "name": "Muk del Team Idro",
+            "number": "8/34",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MukdelTeamIdroDoppioScontro8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-9/34",
+            "name": "Seviper del Team Idro",
+            "number": "9/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SeviperdelTeamIdroDoppioScontro9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-10/34",
+            "name": "Baltoy del Team Magma",
+            "number": "10/34",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/BaltoydelTeamMagmaDoppioScontro10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-11/34",
+            "name": "Claydol del Team Magma",
+            "number": "11/34",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ClaydoldelTeamMagmaDoppioScontro11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-12/34",
+            "name": "Aron del Team Magma",
+            "number": "12/34",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ArondelTeamMagmaDoppioScontro12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-13/34",
+            "name": "Lairon del Team Magma",
+            "number": "13/34",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/LairondelTeamMagmaDoppioScontro13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-14/34",
+            "name": "Aggron del Team Magma",
+            "number": "14/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/AggrondelTeamMagmaDoppioScontro14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-15/34",
+            "name": "Groudon-EX del Team Magma",
+            "number": "15/34",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Groudon-EXdelTeamMagmaDoppioScontro15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-16/34",
+            "name": "Poochyena del Team Idro",
+            "number": "16/34",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/PoochyenadelTeamIdroDoppioScontro16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-17/34",
+            "name": "Poochyena del Team Magma",
+            "number": "17/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/PoochyenadelTeamMagmaDoppioScontro17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-18/34",
+            "name": "Mightyena del Team Idro",
+            "number": "18/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MightyenadelTeamIdroDoppioScontro18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-19/34",
+            "name": "Mightyena del Team Magma",
+            "number": "19/34",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MightyenadelTeamMagmaDoppioScontro19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-20/34",
+            "name": "Carvanha del Team Idro",
+            "number": "20/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/CarvanhadelTeamIdroDoppioScontro20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-21/34",
+            "name": "Sharpedo del Team Idro",
+            "number": "21/34",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/SharpedodelTeamIdroDoppioScontro21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-22/34",
+            "name": "Zangoose del Team Magma",
+            "number": "22/34",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ZangoosedelTeamMagmaDoppioScontro22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-23/34",
+            "name": "Acquaspenser",
+            "number": "23/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/AcquaspenserDoppioScontro23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-24/34",
+            "name": "Magmalaser",
+            "number": "24/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MagmalaserDoppioScontro24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-25/34",
+            "name": "Idrotenente",
+            "number": "25/34",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/IdrotenenteDoppioScontro25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-26/34",
+            "name": "Recluta del Team Idro",
+            "number": "26/34",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ReclutadelTeamIdroDoppioScontro26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-27/34",
+            "name": "Mega Ball del Team Idro",
+            "number": "27/34",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MegaBalldelTeamIdroDoppioScontro27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-28/34",
+            "name": "Base Segreta del Team Idro",
+            "number": "28/34",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/BaseSegretadelTeamIdroDoppioScontro28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-29/34",
+            "name": "Magmatenente",
+            "number": "29/34",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/MagmatenenteDoppioScontro29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-30/34",
+            "name": "Recluta del Team Magma",
+            "number": "30/34",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/ReclutadelTeamMagmaDoppioScontro30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-31/34",
+            "name": "Mega Ball del Team Magma",
+            "number": "31/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MegaBalldelTeamMagmaDoppioScontro31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-32/34",
+            "name": "Base Segreta del Team Magma",
+            "number": "32/34",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/BaseSegretadelTeamMagmaDoppioScontro32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-33/34",
+            "name": "Energia Idro doppia",
+            "number": "33/34",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/EnergiaIdrodoppiaDoppioScontro33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DCR-34/34",
+            "name": "Energia Magma doppia",
+            "number": "34/34",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/EnergiaMagmadoppiaDoppioScontro34.png",
+            "section": "Set principale"
+        }
+    ]
+}

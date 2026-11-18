@@ -1,0 +1,896 @@
+{
+    "expansion": {
+        "id": "CIN",
+        "name": "Sole e Luna - Invasione Scarlatta",
+        "year": 2017,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetInvasione_Scarlatta.png",
+        "cardCount": 124,
+				"yellowAAlternateCardCount": 2
+    },
+    "cards": [
+        {
+            "id": "CIN-1/111",
+            "name": "Weedle",
+            "number": "1/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/WeedleInvasioneScarlatta1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-2/111",
+            "name": "Kakuna",
+            "number": "2/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/KakunaInvasioneScarlatta2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-3/111",
+            "name": "Beedrill",
+            "number": "3/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/BeedrillInvasioneScarlatta3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-4/111",
+            "name": "Exeggcute",
+            "number": "4/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/ExeggcuteInvasioneScarlatta4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-5/111",
+            "name": "Cacnea",
+            "number": "5/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/CacneaInvasioneScarlatta5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-6/111",
+            "name": "Cacturne",
+            "number": "6/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CacturneInvasioneScarlatta6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-7/111",
+            "name": "Karrablast",
+            "number": "7/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/KarrablastInvasioneScarlatta7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-8/111",
+            "name": "Shelmet",
+            "number": "8/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ShelmetInvasioneScarlatta8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-9/111",
+            "name": "Accelgor",
+            "number": "9/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/AccelgorInvasioneScarlatta9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-10/111",
+            "name": "Skiddo",
+            "number": "10/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/SkiddoInvasioneScarlatta10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-11/111",
+            "name": "Gogoat",
+            "number": "11/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GogoatInvasioneScarlatta11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-12/111",
+            "name": "Marowak di Alola",
+            "number": "12/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/MarowakdiAlolaInvasioneScarlatta12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-13/111",
+            "name": "Numel",
+            "number": "13/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/NumelInvasioneScarlatta13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-14/111",
+            "name": "Camerupt",
+            "number": "14/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/CameruptInvasioneScarlatta14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-15/111",
+            "name": "Staryu",
+            "number": "15/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/StaryuInvasioneScarlatta15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-16/111",
+            "name": "Starmie",
+            "number": "16/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/StarmieInvasioneScarlatta16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-17/111",
+            "name": "Magikarp",
+            "number": "17/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/MagikarpInvasioneScarlatta17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-18/111",
+            "name": "Gyarados-GX",
+            "number": "18/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Gyarados-GXInvasioneScarlatta18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-19/111",
+            "name": "Swinub",
+            "number": "19/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SwinubInvasioneScarlatta19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-20/111",
+            "name": "Piloswine",
+            "number": "20/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/PiloswineInvasioneScarlatta20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-21/111",
+            "name": "Mamoswine",
+            "number": "21/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MamoswineInvasioneScarlatta21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-22/111",
+            "name": "Remoraid",
+            "number": "22/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/RemoraidInvasioneScarlatta22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-23/111",
+            "name": "Octillery",
+            "number": "23/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/OctilleryInvasioneScarlatta23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-24/111",
+            "name": "Corphish",
+            "number": "24/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/CorphishInvasioneScarlatta24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-25/111",
+            "name": "Crawdaunt",
+            "number": "25/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/CrawdauntInvasioneScarlatta25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-26/111",
+            "name": "Feebas",
+            "number": "26/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/FeebasInvasioneScarlatta26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-27/111",
+            "name": "Milotic",
+            "number": "27/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/MiloticInvasioneScarlatta27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-28/111",
+            "name": "Regice",
+            "number": "28/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/RegiceInvasioneScarlatta28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-29/111",
+            "name": "Shellos",
+            "number": "29/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ShellosInvasioneScarlatta29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-30/111",
+            "name": "Pikachu",
+            "number": "30/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/PikachuInvasioneScarlatta30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-31/111",
+            "name": "Raichu di Alola",
+            "number": "31/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RaichudiAlolaInvasioneScarlatta31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-32/111",
+            "name": "Geodude di Alola",
+            "number": "32/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GeodudediAlolaInvasioneScarlatta32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-33/111",
+            "name": "Graveler di Alola",
+            "number": "33/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/GravelerdiAlolaInvasioneScarlatta33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-34/111",
+            "name": "Golem di Alola-GX",
+            "number": "34/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/GolemdiAlola-GXInvasioneScarlatta34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-35/111",
+            "name": "Emolga",
+            "number": "35/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/EmolgaInvasioneScarlatta35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-36/111",
+            "name": "Gastly",
+            "number": "36/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GastlyInvasioneScarlatta36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-37/111",
+            "name": "Haunter",
+            "number": "37/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/HaunterInvasioneScarlatta37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-38/111",
+            "name": "Gengar",
+            "number": "38/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/GengarInvasioneScarlatta38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-39/111",
+            "name": "Misdreavus",
+            "number": "39/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MisdreavusInvasioneScarlatta39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-40/111",
+            "name": "Mismagius",
+            "number": "40/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/MismagiusInvasioneScarlatta40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-41/111",
+            "name": "Spoink",
+            "number": "41/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SpoinkInvasioneScarlatta41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-42/111",
+            "name": "Grumpig",
+            "number": "42/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GrumpigInvasioneScarlatta42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-43/111",
+            "name": "Chimecho",
+            "number": "43/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/ChimechoInvasioneScarlatta43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-44/111",
+            "name": "Pumpkaboo",
+            "number": "44/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/PumpkabooInvasioneScarlatta44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-45/111",
+            "name": "Gourgeist",
+            "number": "45/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/GourgeistInvasioneScarlatta45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-46/111",
+            "name": "Salandit",
+            "number": "46/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SalanditInvasioneScarlatta46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-47/111",
+            "name": "Salazzle",
+            "number": "47/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SalazzleInvasioneScarlatta47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-48/111",
+            "name": "Oranguru",
+            "number": "48/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/OranguruInvasioneScarlatta48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-49/111",
+            "name": "Nihilego-GX",
+            "number": "49/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Nihilego-GXInvasioneScarlatta49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-50/111",
+            "name": "Mankey",
+            "number": "50/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MankeyInvasioneScarlatta50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-51/111",
+            "name": "Primeape",
+            "number": "51/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/PrimeapeInvasioneScarlatta51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-52/111",
+            "name": "Cubone",
+            "number": "52/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/CuboneInvasioneScarlatta52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-53/111",
+            "name": "Regirock",
+            "number": "53/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/RegirockInvasioneScarlatta53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-54/111",
+            "name": "Gastrodon",
+            "number": "54/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/GastrodonInvasioneScarlatta54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-55/111",
+            "name": "Stufful",
+            "number": "55/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/StuffulInvasioneScarlatta55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-56/111",
+            "name": "Bewear",
+            "number": "56/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/BewearInvasioneScarlatta56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-57/111",
+            "name": "Buzzwole-GX",
+            "number": "57/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Buzzwole-GXInvasioneScarlatta57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-58/111",
+            "name": "Houndour",
+            "number": "58/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/HoundourInvasioneScarlatta58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-59/111",
+            "name": "Houndoom",
+            "number": "59/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/HoundoomInvasioneScarlatta59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-60/111",
+            "name": "Deino",
+            "number": "60/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/DeinoInvasioneScarlatta60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-61/111",
+            "name": "Zweilous",
+            "number": "61/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/ZweilousInvasioneScarlatta61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-62/111",
+            "name": "Hydreigon",
+            "number": "62/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/HydreigonInvasioneScarlatta62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-63/111",
+            "name": "Guzzlord-GX",
+            "number": "63/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Guzzlord-GXInvasioneScarlatta63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-64/111",
+            "name": "Mawile",
+            "number": "64/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/MawileInvasioneScarlatta64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-65/111",
+            "name": "Aron",
+            "number": "65/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/AronInvasioneScarlatta65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-66/111",
+            "name": "Lairon",
+            "number": "66/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/LaironInvasioneScarlatta66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-67/111",
+            "name": "Aggron",
+            "number": "67/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/AggronInvasioneScarlatta67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-68/111",
+            "name": "Registeel",
+            "number": "68/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RegisteelInvasioneScarlatta68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-69/111",
+            "name": "Escavalier",
+            "number": "69/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/EscavalierInvasioneScarlatta69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-70/111",
+            "name": "Kartana-GX",
+            "number": "70/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Kartana-GXInvasioneScarlatta70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-71/111",
+            "name": "Jigglypuff",
+            "number": "71/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/JigglypuffInvasioneScarlatta71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-72/111",
+            "name": "Wigglytuff",
+            "number": "72/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/WigglytuffInvasioneScarlatta72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-73/111",
+            "name": "Xerneas",
+            "number": "73/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/XerneasInvasioneScarlatta73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-74/111",
+            "name": "Exeggutor di Alola-GX",
+            "number": "74/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/ExeggutordiAlola-GXInvasioneScarlatta74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-75/111",
+            "name": "Jangmo-o",
+            "number": "75/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Jangmo-oInvasioneScarlatta75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-76/111",
+            "name": "Hakamo-o",
+            "number": "76/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Hakamo-oInvasioneScarlatta76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-77/111",
+            "name": "Kommo-o",
+            "number": "77/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Kommo-oInvasioneScarlatta77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-78/111",
+            "name": "Miltank",
+            "number": "78/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/MiltankInvasioneScarlatta78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-79/111",
+            "name": "Swablu",
+            "number": "79/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/SwabluInvasioneScarlatta79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-80/111",
+            "name": "Altaria",
+            "number": "80/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/AltariaInvasioneScarlatta80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-81/111",
+            "name": "Starly",
+            "number": "81/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/StarlyInvasioneScarlatta81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-82/111",
+            "name": "Staravia",
+            "number": "82/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/StaraviaInvasioneScarlatta82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-83/111",
+            "name": "Staraptor",
+            "number": "83/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/StaraptorInvasioneScarlatta83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-84/111",
+            "name": "Regigigas",
+            "number": "84/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/RegigigasInvasioneScarlatta84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-85/111",
+            "name": "Minccino",
+            "number": "85/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/MinccinoInvasioneScarlatta85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-86/111",
+            "name": "Cinccino",
+            "number": "86/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/CinccinoInvasioneScarlatta86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-87/111",
+            "name": "Bunnelby",
+            "number": "87/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/BunnelbyInvasioneScarlatta87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-88/111",
+            "name": "Diggersby",
+            "number": "88/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/DiggersbyInvasioneScarlatta88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-89/111",
+            "name": "Tipo Zero",
+            "number": "89/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/TipoZeroInvasioneScarlatta89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-90/111",
+            "name": "Silvally-GX",
+            "number": "90/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Silvally-GXInvasioneScarlatta90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-91/111",
+            "name": "Contracchiappa-Pokémon",
+            "number": "91/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Contracchiappa-Pok%C3%A9monInvasioneScarlatta91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-92/111",
+            "name": "Marsupio Lesto",
+            "number": "92/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MarsupioLestoInvasioneScarlatta92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-93/111",
+            "name": "Piana Desolata",
+            "number": "93/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PianaDesolataInvasioneScarlatta93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-94/111",
+            "name": "ROM Lotta",
+            "number": "94/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ROMLottaInvasioneScarlatta94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-95/111",
+            "name": "Iridio",
+            "number": "95/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/IridioInvasioneScarlatta95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-96/111",
+            "name": "Samina",
+            "number": "96/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SaminaInvasioneScarlatta96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-97/111",
+            "name": "Cartelrosso Spione",
+            "number": "97/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CartelrossoSpioneInvasioneScarlatta97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-98/111",
+            "name": "ROM Psico",
+            "number": "98/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/ROMPsicoInvasioneScarlatta98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-99/111",
+            "name": "Mare Vacuo",
+            "number": "99/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MareVacuoInvasioneScarlatta99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-100/111",
+            "name": "Energia Contrattacco",
+            "number": "100/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/EnergiaContrattaccoInvasioneScarlatta100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-101/111",
+            "name": "Gyarados-GX",
+            "number": "101/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Gyarados-GXInvasioneScarlatta101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-102/111",
+            "name": "Golem di Alola-GX",
+            "number": "102/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/GolemdiAlola-GXInvasioneScarlatta102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-103/111",
+            "name": "Nihilego-GX",
+            "number": "103/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Nihilego-GXInvasioneScarlatta103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-104/111",
+            "name": "Buzzwole-GX",
+            "number": "104/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/Buzzwole-GXInvasioneScarlatta104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-105/111",
+            "name": "Guzzlord-GX",
+            "number": "105/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Guzzlord-GXInvasioneScarlatta105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-106/111",
+            "name": "Kartana-GX",
+            "number": "106/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Kartana-GXInvasioneScarlatta106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-107/111",
+            "name": "Exeggutor di Alola-GX",
+            "number": "107/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ExeggutordiAlola-GXInvasioneScarlatta107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-108/111",
+            "name": "Silvally-GX",
+            "number": "108/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/Silvally-GXInvasioneScarlatta108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-109/111",
+            "name": "Iridio",
+            "number": "109/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/IridioInvasioneScarlatta109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-110/111",
+            "name": "Samina",
+            "number": "110/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SaminaInvasioneScarlatta110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-111/111",
+            "name": "Alyxia",
+            "number": "111/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/AlyxiaInvasioneScarlatta111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CIN-112/111",
+            "name": "Gyarados-GX",
+            "number": "112/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Gyarados-GXInvasioneScarlatta112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-113/111",
+            "name": "Golem di Alola-GX",
+            "number": "113/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/GolemdiAlola-GXInvasioneScarlatta113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-114/111",
+            "name": "Nihilego-GX",
+            "number": "114/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/Nihilego-GXInvasioneScarlatta114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-115/111",
+            "name": "Buzzwole-GX",
+            "number": "115/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Buzzwole-GXInvasioneScarlatta115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-116/111",
+            "name": "Guzzlord-GX",
+            "number": "116/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Guzzlord-GXInvasioneScarlatta116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-117/111",
+            "name": "Kartana-GX",
+            "number": "117/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Kartana-GXInvasioneScarlatta117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-118/111",
+            "name": "Exeggutor di Alola-GX",
+            "number": "118/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/ExeggutordiAlola-GXInvasioneScarlatta118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-119/111",
+            "name": "Silvally-GX",
+            "number": "119/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Silvally-GXInvasioneScarlatta119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-120/111",
+            "name": "Contracchiappa-Pokémon",
+            "number": "120/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Contracchiappa-Pok%C3%A9monInvasioneScarlatta120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-121/111",
+            "name": "Testimone della Speranza",
+            "number": "121/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/TestimonedellaSperanzaInvasioneScarlatta121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-122/111",
+            "name": "Energia Contrattacco",
+            "number": "122/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/EnergiaContrattaccoInvasioneScarlatta122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-123/111",
+            "name": "Energia Curvatura",
+            "number": "123/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/EnergiaCurvaturaInvasioneScarlatta123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-124/111",
+            "name": "Energia Acqua",
+            "number": "124/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EnergiaAcquaInvasioneScarlatta124.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CIN-63a/111",
+            "name": "Guzzlord-GX",
+            "number": "63a/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Guzzlord-GXInvasioneScarlatta63a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "CIN-84a/111",
+            "name": "Regigigas",
+            "number": "84a/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/RegigigasInvasioneScarlatta84a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

@@ -1,0 +1,1525 @@
+{
+    "expansion": {
+        "id": "BRS",
+        "name": "Spada e Scudo - Astri Lucenti",
+        "year": 2022,
+        "month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/f/f6/SimboloSetAstri_Lucenti.png",
+        "cardCount": 216
+    },
+    "cards": [
+        {
+            "id": "BRS-001/172",
+            "name": "Exeggcute",
+            "number": "001/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ExeggcuteAstriLucenti1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-002/172",
+            "name": "Exeggutor",
+            "number": "002/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ExeggutorAstriLucenti2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-003/172",
+            "name": "Shroomish",
+            "number": "003/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/ShroomishAstriLucenti3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-004/172",
+            "name": "Breloom",
+            "number": "004/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/BreloomAstriLucenti4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-005/172",
+            "name": "Tropius",
+            "number": "005/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/TropiusAstriLucenti5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-006/172",
+            "name": "Turtwig",
+            "number": "006/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/TurtwigAstriLucenti6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-007/172",
+            "name": "Grotle",
+            "number": "007/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/GrotleAstriLucenti7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-008/172",
+            "name": "Torterra",
+            "number": "008/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/TorterraAstriLucenti8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-009/172",
+            "name": "Burmy",
+            "number": "009/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/BurmyAstriLucenti9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-010/172",
+            "name": "Wormadam",
+            "number": "010/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/WormadamAstriLucenti10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-011/172",
+            "name": "Mothim",
+            "number": "011/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MothimAstriLucenti11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-012/172",
+            "name": "Cherubi",
+            "number": "012/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/CherubiAstriLucenti12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-013/172",
+            "name": "Shaymin-V",
+            "number": "013/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Shaymin-VAstriLucenti13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-014/172",
+            "name": "Shaymin-V ASTRO",
+            "number": "014/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Shaymin-VASTROAstriLucenti14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-015/172",
+            "name": "Karrablast",
+            "number": "015/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/KarrablastAstriLucenti15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-016/172",
+            "name": "Zarude-V",
+            "number": "016/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Zarude-VAstriLucenti16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-017/172",
+            "name": "Charizard-V",
+            "number": "017/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Charizard-VAstriLucenti17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-018/172",
+            "name": "Charizard-V ASTRO",
+            "number": "018/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Charizard-VASTROAstriLucenti18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-019/172",
+            "name": "Magmar",
+            "number": "019/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MagmarAstriLucenti19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-020/172",
+            "name": "Magmortar",
+            "number": "020/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MagmortarAstriLucenti20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-021/172",
+            "name": "Moltres",
+            "number": "021/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/MoltresAstriLucenti21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-022/172",
+            "name": "Entei-V",
+            "number": "022/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Entei-VAstriLucenti22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-023/172",
+            "name": "Torkoal",
+            "number": "023/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/TorkoalAstriLucenti23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-024/172",
+            "name": "Chimchar",
+            "number": "024/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ChimcharAstriLucenti24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-025/172",
+            "name": "Monferno",
+            "number": "025/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MonfernoAstriLucenti25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-026/172",
+            "name": "Infernape",
+            "number": "026/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/InfernapeAstriLucenti26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-027/172",
+            "name": "Simisear-V",
+            "number": "027/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Simisear-VAstriLucenti27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-028/172",
+            "name": "Kingler-V",
+            "number": "028/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/Kingler-VAstriLucenti28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-029/172",
+            "name": "Kingler-VMAX",
+            "number": "029/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Kingler-VMAXAstriLucenti29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-030/172",
+            "name": "Staryu",
+            "number": "030/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/StaryuAstriLucenti30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-031/172",
+            "name": "Lapras",
+            "number": "031/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/LaprasAstriLucenti31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-032/172",
+            "name": "Corphish",
+            "number": "032/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/CorphishAstriLucenti32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-033/172",
+            "name": "Crawdaunt",
+            "number": "033/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/CrawdauntAstriLucenti33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-034/172",
+            "name": "Snorunt",
+            "number": "034/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SnoruntAstriLucenti34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-035/172",
+            "name": "Piplup",
+            "number": "035/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/PiplupAstriLucenti35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-036/172",
+            "name": "Prinplup",
+            "number": "036/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/PrinplupAstriLucenti36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-037/172",
+            "name": "Empoleon",
+            "number": "037/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EmpoleonAstriLucenti37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-038/172",
+            "name": "Buizel",
+            "number": "038/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/BuizelAstriLucenti38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-039/172",
+            "name": "Floatzel",
+            "number": "039/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/FloatzelAstriLucenti39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-040/172",
+            "name": "Lumineon-V",
+            "number": "040/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Lumineon-VAstriLucenti40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-041/172",
+            "name": "Manaphy",
+            "number": "041/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/ManaphyAstriLucenti41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-042/172",
+            "name": "Cubchoo",
+            "number": "042/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/CubchooAstriLucenti42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-043/172",
+            "name": "Beartic",
+            "number": "043/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/BearticAstriLucenti43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-044/172",
+            "name": "Eiscue",
+            "number": "044/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/EiscueAstriLucenti44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-045/172",
+            "name": "Raichu-V",
+            "number": "045/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/Raichu-VAstriLucenti45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-046/172",
+            "name": "Electabuzz",
+            "number": "046/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ElectabuzzAstriLucenti46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-047/172",
+            "name": "Electivire",
+            "number": "047/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ElectivireAstriLucenti47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-048/172",
+            "name": "Raikou-V",
+            "number": "048/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Raikou-VAstriLucenti48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-049/172",
+            "name": "Shinx",
+            "number": "049/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ShinxAstriLucenti49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-050/172",
+            "name": "Luxio",
+            "number": "050/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/LuxioAstriLucenti50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-051/172",
+            "name": "Luxray",
+            "number": "051/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/LuxrayAstriLucenti51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-052/172",
+            "name": "Pachirisu",
+            "number": "052/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/PachirisuAstriLucenti52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-053/172",
+            "name": "Clefairy",
+            "number": "053/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/ClefairyAstriLucenti53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-054/172",
+            "name": "Clefable",
+            "number": "054/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ClefableAstriLucenti54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-055/172",
+            "name": "Starmie",
+            "number": "055/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/StarmieAstriLucenti55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-056/172",
+            "name": "Mewtwo",
+            "number": "056/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MewtwoAstriLucenti56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-057/172",
+            "name": "Granbull-V",
+            "number": "057/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Granbull-VAstriLucenti57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-058/172",
+            "name": "Baltoy",
+            "number": "058/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/BaltoyAstriLucenti58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-059/172",
+            "name": "Claydol",
+            "number": "059/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/ClaydolAstriLucenti59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-060/172",
+            "name": "Duskull",
+            "number": "060/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/DuskullAstriLucenti60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-061/172",
+            "name": "Dusclops",
+            "number": "061/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/DusclopsAstriLucenti61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-062/172",
+            "name": "Dusknoir",
+            "number": "062/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/DusknoirAstriLucenti62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-063/172",
+            "name": "Chimecho",
+            "number": "063/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/ChimechoAstriLucenti63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-064/172",
+            "name": "Whimsicott-V",
+            "number": "064/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Whimsicott-VAstriLucenti64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-065/172",
+            "name": "Whimsicott-V ASTRO",
+            "number": "065/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Whimsicott-VASTROAstriLucenti65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-066/172",
+            "name": "Sigilyph",
+            "number": "066/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/SigilyphAstriLucenti66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-067/172",
+            "name": "Dedenne",
+            "number": "067/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/DedenneAstriLucenti67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-068/172",
+            "name": "Mimikyu-V",
+            "number": "068/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/Mimikyu-VAstriLucenti68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-069/172",
+            "name": "Mimikyu-VMAX",
+            "number": "069/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Mimikyu-VMAXAstriLucenti69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-070/172",
+            "name": "Milcery",
+            "number": "070/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MilceryAstriLucenti70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-071/172",
+            "name": "Alcremie",
+            "number": "071/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/AlcremieAstriLucenti71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-072/172",
+            "name": "Hitmontop",
+            "number": "072/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/HitmontopAstriLucenti72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-073/172",
+            "name": "Nosepass",
+            "number": "073/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/NosepassAstriLucenti73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-074/172",
+            "name": "Trapinch",
+            "number": "074/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/TrapinchAstriLucenti74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-075/172",
+            "name": "Vibrava",
+            "number": "075/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/VibravaAstriLucenti75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-076/172",
+            "name": "Flygon",
+            "number": "076/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/FlygonAstriLucenti76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-077/172",
+            "name": "Wormadam",
+            "number": "077/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/WormadamAstriLucenti77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-078/172",
+            "name": "Riolu",
+            "number": "078/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/RioluAstriLucenti78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-079/172",
+            "name": "Lucario",
+            "number": "079/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/LucarioAstriLucenti79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-080/172",
+            "name": "Throh",
+            "number": "080/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ThrohAstriLucenti80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-081/172",
+            "name": "Sawk",
+            "number": "081/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/SawkAstriLucenti81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-082/172",
+            "name": "Golett",
+            "number": "082/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/GolettAstriLucenti82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-083/172",
+            "name": "Golurk",
+            "number": "083/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GolurkAstriLucenti83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-084/172",
+            "name": "Grimer",
+            "number": "084/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/GrimerAstriLucenti84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-085/172",
+            "name": "Muk",
+            "number": "085/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MukAstriLucenti85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-086/172",
+            "name": "Sneasel",
+            "number": "086/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/SneaselAstriLucenti86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-087/172",
+            "name": "Weavile",
+            "number": "087/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/WeavileAstriLucenti87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-088/172",
+            "name": "Honchkrow-V",
+            "number": "088/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/Honchkrow-VAstriLucenti88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-089/172",
+            "name": "Spiritomb",
+            "number": "089/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SpiritombAstriLucenti89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-090/172",
+            "name": "Purrloin",
+            "number": "090/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/PurrloinAstriLucenti90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-091/172",
+            "name": "Liepard",
+            "number": "091/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LiepardAstriLucenti91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-092/172",
+            "name": "Impidimp",
+            "number": "092/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ImpidimpAstriLucenti92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-093/172",
+            "name": "Morgrem",
+            "number": "093/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MorgremAstriLucenti93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-094/172",
+            "name": "Grimmsnarl",
+            "number": "094/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/GrimmsnarlAstriLucenti94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-095/172",
+            "name": "Morpeko-V",
+            "number": "095/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/Morpeko-VAstriLucenti95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-096/172",
+            "name": "Aggron-V",
+            "number": "096/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Aggron-VAstriLucenti96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-097/172",
+            "name": "Aggron-VMAX",
+            "number": "097/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Aggron-VMAXAstriLucenti97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-098/172",
+            "name": "Wormadam",
+            "number": "098/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/WormadamAstriLucenti98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-099/172",
+            "name": "Probopass",
+            "number": "099/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ProbopassAstriLucenti99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-100/172",
+            "name": "Heatran",
+            "number": "100/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/HeatranAstriLucenti100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-101/172",
+            "name": "Escavalier",
+            "number": "101/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/EscavalierAstriLucenti101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-102/172",
+            "name": "Klink",
+            "number": "102/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/KlinkAstriLucenti102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-103/172",
+            "name": "Klang",
+            "number": "103/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/KlangAstriLucenti103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-104/172",
+            "name": "Klinklang",
+            "number": "104/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/KlinklangAstriLucenti104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-105/172",
+            "name": "Zamazenta-V",
+            "number": "105/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Zamazenta-VAstriLucenti105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-106/172",
+            "name": "Flygon-V",
+            "number": "106/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/Flygon-VAstriLucenti106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-107/172",
+            "name": "Gible",
+            "number": "107/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/GibleAstriLucenti107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-108/172",
+            "name": "Gabite",
+            "number": "108/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/GabiteAstriLucenti108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-109/172",
+            "name": "Garchomp",
+            "number": "109/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/GarchompAstriLucenti109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-110/172",
+            "name": "Axew",
+            "number": "110/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/AxewAstriLucenti110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-111/172",
+            "name": "Fraxure",
+            "number": "111/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/FraxureAstriLucenti111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-112/172",
+            "name": "Haxorus",
+            "number": "112/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/HaxorusAstriLucenti112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-113/172",
+            "name": "Druddigon",
+            "number": "113/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/DruddigonAstriLucenti113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-114/172",
+            "name": "Dracovish-V",
+            "number": "114/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Dracovish-VAstriLucenti114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-115/172",
+            "name": "Farfetch'd",
+            "number": "115/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/FarfetchdAstriLucenti115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-116/172",
+            "name": "Castform",
+            "number": "116/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/CastformAstriLucenti116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-117/172",
+            "name": "Starly",
+            "number": "117/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/StarlyAstriLucenti117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-118/172",
+            "name": "Staravia",
+            "number": "118/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/StaraviaAstriLucenti118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-119/172",
+            "name": "Staraptor",
+            "number": "119/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/StaraptorAstriLucenti119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-120/172",
+            "name": "Bidoof",
+            "number": "120/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/BidoofAstriLucenti120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-121/172",
+            "name": "Bibarel",
+            "number": "121/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/BibarelAstriLucenti121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-122/172",
+            "name": "Arceus-V",
+            "number": "122/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Arceus-VAstriLucenti122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-123/172",
+            "name": "Arceus-V ASTRO",
+            "number": "123/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Arceus-VASTROAstriLucenti123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-124/172",
+            "name": "Minccino",
+            "number": "124/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MinccinoAstriLucenti124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-125/172",
+            "name": "Cinccino",
+            "number": "125/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/CinccinoAstriLucenti125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-126/172",
+            "name": "Tornadus",
+            "number": "126/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/TornadusAstriLucenti126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-127/172",
+            "name": "Hawlucha",
+            "number": "127/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/HawluchaAstriLucenti127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-128/172",
+            "name": "Drampa-V",
+            "number": "128/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Drampa-VAstriLucenti128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-129/172",
+            "name": "Premonizione di Malpi",
+            "number": "129/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PremonizionediMalpiAstriLucenti129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-130/172",
+            "name": "Barry",
+            "number": "130/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/BarryAstriLucenti130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-131/172",
+            "name": "Fiascopolizza",
+            "number": "131/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/FiascopolizzaAstriLucenti131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-132/172",
+            "name": "Ordini del Capo [Cyrus]",
+            "number": "132/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/OrdinidelCapoAstriLucenti132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-133/172",
+            "name": "Barista",
+            "number": "133/172",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/BaristaAstriLucenti133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-134/172",
+            "name": "Premura di Komor",
+            "number": "134/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/PremuradiKomorAstriLucenti134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-135/172",
+            "name": "Cinturascelta",
+            "number": "135/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/CinturasceltaAstriLucenti135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-136/172",
+            "name": "Guanti di Purificazione",
+            "number": "136/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/GuantidiPurificazioneAstriLucenti136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-137/172",
+            "name": "Macerie dello Stadio",
+            "number": "137/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/MaceriedelloStadioAstriLucenti137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-138/172",
+            "name": "Ambizione di Camilla",
+            "number": "138/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/AmbizionediCamillaAstriLucenti138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-139/172",
+            "name": "Set di Acqua Fresca",
+            "number": "139/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/SetdiAcquaFrescaAstriLucenti139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-140/172",
+            "name": "Amici a Galar",
+            "number": "140/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/AmiciaGalarAstriLucenti140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-141/172",
+            "name": "Gloria",
+            "number": "141/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/GloriaAstriLucenti141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-142/172",
+            "name": "Guanti da Caccia",
+            "number": "142/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/GuantidaCacciaAstriLucenti142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-143/172",
+            "name": "Brandifuoco",
+            "number": "143/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BrandifuocoAstriLucenti143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-144/172",
+            "name": "Bacino di Magma",
+            "number": "144/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/BacinodiMagmaAstriLucenti144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-145/172",
+            "name": "Orgoglio di Mary",
+            "number": "145/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/OrgogliodiMaryAstriLucenti145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-146/172",
+            "name": "Elmopentola",
+            "number": "146/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/ElmopentolaAstriLucenti146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-147/172",
+            "name": "Ricerca Accademica [Professor Rowan]",
+            "number": "147/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/RicercaAccademicaAstriLucenti147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-148/172",
+            "name": "Backup di Rosabella",
+            "number": "148/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/BackupdiRosabellaAstriLucenti148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-149/172",
+            "name": "Tifo del Team Yell",
+            "number": "149/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/TifodelTeamYellAstriLucenti149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-150/172",
+            "name": "Ultra Ball",
+            "number": "150/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/UltraBallAstriLucenti150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-151/172",
+            "name": "Energia Turbo Doppia",
+            "number": "151/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/EnergiaTurboDoppiaAstriLucenti151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-152/172",
+            "name": "Shaymin-V",
+            "number": "152/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/Shaymin-VAstriLucenti152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-153/172",
+            "name": "Charizard-V",
+            "number": "153/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Charizard-VAstriLucenti153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-154/172",
+            "name": "Charizard-V",
+            "number": "154/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Charizard-VAstriLucenti154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-155/172",
+            "name": "Lumineon-V",
+            "number": "155/172",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Lumineon-VAstriLucenti155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-156/172",
+            "name": "Lumineon-V",
+            "number": "156/172",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/Lumineon-VAstriLucenti156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-157/172",
+            "name": "Pikachu-V",
+            "number": "157/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Pikachu-VAstriLucenti157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-158/172",
+            "name": "Raichu-V",
+            "number": "158/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Raichu-VAstriLucenti158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-159/172",
+            "name": "Granbull-V",
+            "number": "159/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Granbull-VAstriLucenti159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-160/172",
+            "name": "Whimsicott-V",
+            "number": "160/172",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Whimsicott-VAstriLucenti160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-161/172",
+            "name": "Honchkrow-V",
+            "number": "161/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/Honchkrow-VAstriLucenti161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-162/172",
+            "name": "Honchkrow-V",
+            "number": "162/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Honchkrow-VAstriLucenti162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-163/172",
+            "name": "Zamazenta-V",
+            "number": "163/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Zamazenta-VAstriLucenti163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-164/172",
+            "name": "Flygon-V",
+            "number": "164/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Flygon-VAstriLucenti164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-165/172",
+            "name": "Arceus-V",
+            "number": "165/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Arceus-VAstriLucenti165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-166/172",
+            "name": "Arceus-V",
+            "number": "166/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/Arceus-VAstriLucenti166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-167/172",
+            "name": "Barry",
+            "number": "167/172",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/BarryAstriLucenti167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-168/172",
+            "name": "Premura di Komor",
+            "number": "168/172",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/PremuradiKomorAstriLucenti168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-169/172",
+            "name": "Ambizione di Camilla",
+            "number": "169/172",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/AmbizionediCamillaAstriLucenti169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-170/172",
+            "name": "Brandifuoco",
+            "number": "170/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/BrandifuocoAstriLucenti170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-171/172",
+            "name": "Orgoglio di Mary",
+            "number": "171/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/OrgogliodiMaryAstriLucenti171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-172/172",
+            "name": "Backup di Rosabella",
+            "number": "172/172",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/BackupdiRosabellaAstriLucenti172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BRS-173/172",
+            "name": "Shaymin-V ASTRO",
+            "number": "173/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Shaymin-VASTROAstriLucenti173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-174/172",
+            "name": "Charizard-V ASTRO",
+            "number": "174/172",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Charizard-VASTROAstriLucenti174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-175/172",
+            "name": "Whimsicott-V ASTRO",
+            "number": "175/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Whimsicott-VASTROAstriLucenti175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-176/172",
+            "name": "Arceus-V ASTRO",
+            "number": "176/172",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Arceus-VASTROAstriLucenti176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-177/172",
+            "name": "Premura di Komor",
+            "number": "177/172",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/PremuradiKomorAstriLucenti177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-178/172",
+            "name": "Ambizione di Camilla",
+            "number": "178/172",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/AmbizionediCamillaAstriLucenti178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-179/172",
+            "name": "Brandifuoco",
+            "number": "179/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/BrandifuocoAstriLucenti179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-180/172",
+            "name": "Backup di Rosabella",
+            "number": "180/172",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/BackupdiRosabellaAstriLucenti180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-181/172",
+            "name": "Articuno di Galar-V",
+            "number": "181/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ArticunodiGalar-VAstriLucenti181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-182/172",
+            "name": "Zapdos di Galar-V",
+            "number": "182/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/ZapdosdiGalar-VAstriLucenti182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-183/172",
+            "name": "Moltres di Galar-V",
+            "number": "183/172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MoltresdiGalar-VAstriLucenti183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-184/172",
+            "name": "Arceus-V ASTRO",
+            "number": "184/172",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Arceus-VASTROAstriLucenti184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-185/172",
+            "name": "Bacino di Magma",
+            "number": "185/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/BacinodiMagmaAstriLucenti185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-186/172",
+            "name": "Ultra Ball",
+            "number": "186/172",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/UltraBallAstriLucenti186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BRS-TG01/TG30",
+            "name": "Flareon",
+            "number": "TG01/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/FlareonAstriLucentiTG1.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG02/TG30",
+            "name": "Vaporeon",
+            "number": "TG02/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/VaporeonAstriLucentiTG2.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG03/TG30",
+            "name": "Octillery",
+            "number": "TG03/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/OctilleryAstriLucentiTG3.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG04/TG30",
+            "name": "Jolteon",
+            "number": "TG04/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/JolteonAstriLucentiTG4.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG05/TG30",
+            "name": "Zekrom",
+            "number": "TG05/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/ZekromAstriLucentiTG5.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG06/TG30",
+            "name": "Dusknoir",
+            "number": "TG06/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/DusknoirAstriLucentiTG6.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG07/TG30",
+            "name": "Dedenne",
+            "number": "TG07/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DedenneAstriLucentiTG7.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG08/TG30",
+            "name": "Alcremie",
+            "number": "TG08/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/AlcremieAstriLucentiTG8.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG09/TG30",
+            "name": "Ariados",
+            "number": "TG09/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/AriadosAstriLucentiTG9.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG10/TG30",
+            "name": "Houndoom",
+            "number": "TG10/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/HoundoomAstriLucentiTG10.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG11/TG30",
+            "name": "Eevee",
+            "number": "TG11/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/EeveeAstriLucentiTG11.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG12/TG30",
+            "name": "Oranguru",
+            "number": "TG12/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/OranguruAstriLucentiTG12.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG13/TG30",
+            "name": "Boltund-V",
+            "number": "TG13/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Boltund-VAstriLucentiTG13.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG14/TG30",
+            "name": "Sylveon-V",
+            "number": "TG14/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Sylveon-VAstriLucentiTG14.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG15/TG30",
+            "name": "Sylveon-VMAX",
+            "number": "TG15/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Sylveon-VMAXAstriLucentiTG15.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG16/TG30",
+            "name": "Mimikyu-V",
+            "number": "TG16/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Mimikyu-VAstriLucentiTG16.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG17/TG30",
+            "name": "Mimikyu-VMAX",
+            "number": "TG17/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Mimikyu-VMAXAstriLucentiTG17.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG18/TG30",
+            "name": "Urshifu Singolcolpo-V",
+            "number": "TG18/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/UrshifuSingolcolpo-VAstriLucentiTG18.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG19/TG30",
+            "name": "Urshifu Singolcolpo-VMAX",
+            "number": "TG19/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/UrshifuSingolcolpo-VMAXAstriLucentiTG19.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG20/TG30",
+            "name": "Urshifu Pluricolpo-V",
+            "number": "TG20/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/UrshifuPluricolpo-VAstriLucentiTG20.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG21/TG30",
+            "name": "Urshifu Pluricolpo-VMAX",
+            "number": "TG21/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/UrshifuPluricolpo-VMAXAstriLucentiTG21.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG22/TG30",
+            "name": "Umbreon-V",
+            "number": "TG22/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Umbreon-VAstriLucentiTG22.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG23/TG30",
+            "name": "Umbreon-VMAX",
+            "number": "TG23/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Umbreon-VMAXAstriLucentiTG23.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG24/TG30",
+            "name": "Premonizione di Malpi",
+            "number": "TG24/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/PremonizionediMalpiAstriLucentiTG24.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG25/TG30",
+            "name": "Barista",
+            "number": "TG25/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/BaristaAstriLucentiTG25.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG26/TG30",
+            "name": "Gloria",
+            "number": "TG26/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/GloriaAstriLucentiTG26.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG27/TG30",
+            "name": "Mustard Stile Pluricolpo",
+            "number": "TG27/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MustardStilePluricolpoAstriLucentiTG27.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG28/TG30",
+            "name": "Mustard Stile Singolcolpo",
+            "number": "TG28/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/MustardStileSingolcolpoAstriLucentiTG28.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG29/TG30",
+            "name": "Urshifu Singolcolpo-VMAX",
+            "number": "TG29/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/UrshifuSingolcolpo-VMAXAstriLucentiTG29.png",
+            "section": "Galleria degli Allenatori"
+        },
+        {
+            "id": "BRS-TG30/TG30",
+            "name": "Urshifu Pluricolpo-VMAX",
+            "number": "TG30/TG30",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/UrshifuPluricolpo-VMAXAstriLucentiTG30.png",
+            "section": "Galleria degli Allenatori"
+        }
+    ]
+}

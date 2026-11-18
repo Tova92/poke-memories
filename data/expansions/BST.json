@@ -1,0 +1,1294 @@
+{
+    "expansion": {
+        "id": "BST",
+        "name": "Spada e Scudo - Stili di Lotta",
+        "year": 2021,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cf/SimboloSetStili_di_Lotta.png",
+        "cardCount": 183
+    },
+    "cards": [
+        {
+            "id": "BST-001/163",
+            "name": "Bellsprout",
+            "number": "001/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/BellsproutStilidiLotta1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-002/163",
+            "name": "Weepinbell",
+            "number": "002/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/WeepinbellStilidiLotta2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-003/163",
+            "name": "Victreebel",
+            "number": "003/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/VictreebelStilidiLotta3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-004/163",
+            "name": "Cacnea",
+            "number": "004/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/CacneaStilidiLotta4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-005/163",
+            "name": "Cacturne",
+            "number": "005/163",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/CacturneStilidiLotta5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-006/163",
+            "name": "Kricketune-V",
+            "number": "006/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Kricketune-VStilidiLotta6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-007/163",
+            "name": "Cherubi",
+            "number": "007/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/CherubiStilidiLotta7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-008/163",
+            "name": "Cherrim",
+            "number": "008/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CherrimStilidiLotta8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-009/163",
+            "name": "Carnivine",
+            "number": "009/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/CarnivineStilidiLotta9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-010/163",
+            "name": "Durant",
+            "number": "010/163",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/DurantStilidiLotta10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-011/163",
+            "name": "Scatterbug",
+            "number": "011/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/ScatterbugStilidiLotta11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-012/163",
+            "name": "Spewpa",
+            "number": "012/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/SpewpaStilidiLotta12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-013/163",
+            "name": "Vivillon",
+            "number": "013/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/VivillonStilidiLotta13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-014/163",
+            "name": "Fomantis",
+            "number": "014/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/FomantisStilidiLotta14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-015/163",
+            "name": "Lurantis",
+            "number": "015/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LurantisStilidiLotta15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-016/163",
+            "name": "Tapu Bulu",
+            "number": "016/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/TapuBuluStilidiLotta16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-017/163",
+            "name": "Blipbug",
+            "number": "017/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/BlipbugStilidiLotta17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-018/163",
+            "name": "Flapple-V",
+            "number": "018/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Flapple-VStilidiLotta18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-019/163",
+            "name": "Flapple-VMAX",
+            "number": "019/163",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/Flapple-VMAXStilidiLotta19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-020/163",
+            "name": "Entei",
+            "number": "020/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/EnteiStilidiLotta20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-021/163",
+            "name": "Victini-V",
+            "number": "021/163",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Victini-VStilidiLotta21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-022/163",
+            "name": "Victini-VMAX",
+            "number": "022/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Victini-VMAXStilidiLotta22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-023/163",
+            "name": "Tepig",
+            "number": "023/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TepigStilidiLotta23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-024/163",
+            "name": "Pignite",
+            "number": "024/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/PigniteStilidiLotta24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-025/163",
+            "name": "Emboar",
+            "number": "025/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/EmboarStilidiLotta25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-026/163",
+            "name": "Heatmor",
+            "number": "026/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/HeatmorStilidiLotta26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-027/163",
+            "name": "Salandit",
+            "number": "027/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/SalanditStilidiLotta27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-028/163",
+            "name": "Salazzle",
+            "number": "028/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SalazzleStilidiLotta28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-029/163",
+            "name": "Sizzlipede",
+            "number": "029/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SizzlipedeStilidiLotta29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-030/163",
+            "name": "Centiskorch",
+            "number": "030/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/CentiskorchStilidiLotta30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-031/163",
+            "name": "Horsea",
+            "number": "031/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/HorseaStilidiLotta31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-032/163",
+            "name": "Seadra",
+            "number": "032/163",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SeadraStilidiLotta32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-033/163",
+            "name": "Kingdra",
+            "number": "033/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/KingdraStilidiLotta33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-034/163",
+            "name": "Mr. Mime di Galar",
+            "number": "034/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/MrMimediGalarStilidiLotta34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-035/163",
+            "name": "Mr. Rime di Galar",
+            "number": "035/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/MrRimediGalarStilidiLotta35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-036/163",
+            "name": "Remoraid",
+            "number": "036/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/RemoraidStilidiLotta36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-037/163",
+            "name": "Octillery",
+            "number": "037/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/OctilleryStilidiLotta37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-038/163",
+            "name": "Corphish",
+            "number": "038/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/CorphishStilidiLotta38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-039/163",
+            "name": "Crawdaunt",
+            "number": "039/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/CrawdauntStilidiLotta39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-040/163",
+            "name": "Empoleon-V",
+            "number": "040/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Empoleon-VStilidiLotta40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-041/163",
+            "name": "Frillish",
+            "number": "041/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/FrillishStilidiLotta41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-042/163",
+            "name": "Jellicent",
+            "number": "042/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/JellicentStilidiLotta42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-043/163",
+            "name": "Bruxish",
+            "number": "043/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/BruxishStilidiLotta43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-044/163",
+            "name": "Electabuzz",
+            "number": "044/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ElectabuzzStilidiLotta44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-045/163",
+            "name": "Electivire",
+            "number": "045/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/ElectivireStilidiLotta45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-046/163",
+            "name": "Shinx",
+            "number": "046/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ShinxStilidiLotta46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-047/163",
+            "name": "Luxio",
+            "number": "047/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/LuxioStilidiLotta47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-048/163",
+            "name": "Luxray",
+            "number": "048/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/LuxrayStilidiLotta48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-049/163",
+            "name": "Pachirisu",
+            "number": "049/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/PachirisuStilidiLotta49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-050/163",
+            "name": "Tapu Koko-V",
+            "number": "050/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TapuKoko-VStilidiLotta50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-051/163",
+            "name": "Tapu Koko-VMAX",
+            "number": "051/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/TapuKoko-VMAXStilidiLotta51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-052/163",
+            "name": "Yamper",
+            "number": "052/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/YamperStilidiLotta52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-053/163",
+            "name": "Boltund",
+            "number": "053/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/BoltundStilidiLotta53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-054/163",
+            "name": "Slowpoke di Galar",
+            "number": "054/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SlowpokediGalarStilidiLotta54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-055/163",
+            "name": "Spoink",
+            "number": "055/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/SpoinkStilidiLotta55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-056/163",
+            "name": "Grumpig",
+            "number": "056/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/GrumpigStilidiLotta56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-057/163",
+            "name": "Baltoy",
+            "number": "057/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/BaltoyStilidiLotta57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-058/163",
+            "name": "Claydol",
+            "number": "058/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/ClaydolStilidiLotta58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-059/163",
+            "name": "Chimecho",
+            "number": "059/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/ChimechoStilidiLotta59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-060/163",
+            "name": "Espurr",
+            "number": "060/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/EspurrStilidiLotta60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-061/163",
+            "name": "Meowstic",
+            "number": "061/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MeowsticStilidiLotta61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-062/163",
+            "name": "Mimikyu-V",
+            "number": "062/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Mimikyu-VStilidiLotta62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-063/163",
+            "name": "Necrozma-V",
+            "number": "063/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Necrozma-VStilidiLotta63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-064/163",
+            "name": "Dottler",
+            "number": "064/163",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/DottlerStilidiLotta64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-065/163",
+            "name": "Orbeetle",
+            "number": "065/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/OrbeetleStilidiLotta65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-066/163",
+            "name": "Mankey",
+            "number": "066/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MankeyStilidiLotta66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-067/163",
+            "name": "Primeape",
+            "number": "067/163",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/PrimeapeStilidiLotta67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-068/163",
+            "name": "Onix",
+            "number": "068/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/OnixStilidiLotta68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-069/163",
+            "name": "Cubone",
+            "number": "069/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/CuboneStilidiLotta69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-070/163",
+            "name": "Marowak",
+            "number": "070/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/MarowakStilidiLotta70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-071/163",
+            "name": "Gligar",
+            "number": "071/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/GligarStilidiLotta71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-072/163",
+            "name": "Gliscor",
+            "number": "072/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/GliscorStilidiLotta72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-073/163",
+            "name": "Timburr",
+            "number": "073/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/TimburrStilidiLotta73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-074/163",
+            "name": "Gurdurr",
+            "number": "074/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/GurdurrStilidiLotta74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-075/163",
+            "name": "Conkeldurr",
+            "number": "075/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ConkeldurrStilidiLotta75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-076/163",
+            "name": "Mienfoo",
+            "number": "076/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/MienfooStilidiLotta76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-077/163",
+            "name": "Mienshao",
+            "number": "077/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/MienshaoStilidiLotta77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-078/163",
+            "name": "Rolycoly",
+            "number": "078/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/RolycolyStilidiLotta78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-079/163",
+            "name": "Carkol",
+            "number": "079/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/CarkolStilidiLotta79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-080/163",
+            "name": "Coalossal",
+            "number": "080/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/CoalossalStilidiLotta80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-081/163",
+            "name": "Silicobra",
+            "number": "081/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/SilicobraStilidiLotta81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-082/163",
+            "name": "Sandaconda",
+            "number": "082/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SandacondaStilidiLotta82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-083/163",
+            "name": "Falinks",
+            "number": "083/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/FalinksStilidiLotta83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-084/163",
+            "name": "Stonjourner",
+            "number": "084/163",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/StonjournerStilidiLotta84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-085/163",
+            "name": "Urshifu Singolcolpo-V",
+            "number": "085/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/UrshifuSingolcolpo-VStilidiLotta85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-086/163",
+            "name": "Urshifu Singolcolpo-VMAX",
+            "number": "086/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/UrshifuSingolcolpo-VMAXStilidiLotta86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-087/163",
+            "name": "Urshifu Pluricolpo-V",
+            "number": "087/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/UrshifuPluricolpo-VStilidiLotta87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-088/163",
+            "name": "Urshifu Pluricolpo-VMAX",
+            "number": "088/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/UrshifuPluricolpo-VMAXStilidiLotta88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-089/163",
+            "name": "Zubat",
+            "number": "089/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/ZubatStilidiLotta89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-090/163",
+            "name": "Golbat",
+            "number": "090/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/GolbatStilidiLotta90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-091/163",
+            "name": "Crobat",
+            "number": "091/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/CrobatStilidiLotta91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-092/163",
+            "name": "Slowbro di Galar",
+            "number": "092/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/SlowbrodiGalarStilidiLotta92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-093/163",
+            "name": "Murkrow",
+            "number": "093/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MurkrowStilidiLotta93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-094/163",
+            "name": "Honchkrow",
+            "number": "094/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/HonchkrowStilidiLotta94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-095/163",
+            "name": "Houndour",
+            "number": "095/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/HoundourStilidiLotta95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-096/163",
+            "name": "Houndoom",
+            "number": "096/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/HoundoomStilidiLotta96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-097/163",
+            "name": "Tyranitar-V",
+            "number": "097/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Tyranitar-VStilidiLotta97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-098/163",
+            "name": "Morpeko",
+            "number": "098/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MorpekoStilidiLotta98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-099/163",
+            "name": "Steelix",
+            "number": "099/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SteelixStilidiLotta99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-100/163",
+            "name": "Mawile",
+            "number": "100/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/MawileStilidiLotta100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-101/163",
+            "name": "Bronzor",
+            "number": "101/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/BronzorStilidiLotta101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-102/163",
+            "name": "Bronzong",
+            "number": "102/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/BronzongStilidiLotta102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-103/163",
+            "name": "Pawniard",
+            "number": "103/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PawniardStilidiLotta103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-104/163",
+            "name": "Bisharp",
+            "number": "104/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/BisharpStilidiLotta104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-105/163",
+            "name": "Honedge",
+            "number": "105/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/HonedgeStilidiLotta105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-106/163",
+            "name": "Doublade",
+            "number": "106/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/DoubladeStilidiLotta106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-107/163",
+            "name": "Aegislash",
+            "number": "107/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/AegislashStilidiLotta107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-108/163",
+            "name": "Aegislash",
+            "number": "108/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/AegislashStilidiLotta108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-109/163",
+            "name": "Corviknight-V",
+            "number": "109/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Corviknight-VStilidiLotta109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-110/163",
+            "name": "Corviknight-VMAX",
+            "number": "110/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/Corviknight-VMAXStilidiLotta110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-111/163",
+            "name": "Spearow",
+            "number": "111/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/SpearowStilidiLotta111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-112/163",
+            "name": "Fearow",
+            "number": "112/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/FearowStilidiLotta112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-113/163",
+            "name": "Lickitung",
+            "number": "113/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/LickitungStilidiLotta113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-114/163",
+            "name": "Lickilicky",
+            "number": "114/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/LickilickyStilidiLotta114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-115/163",
+            "name": "Glameow",
+            "number": "115/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GlameowStilidiLotta115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-116/163",
+            "name": "Purugly",
+            "number": "116/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/PuruglyStilidiLotta116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-117/163",
+            "name": "Stoutland-V",
+            "number": "117/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Stoutland-VStilidiLotta117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-118/163",
+            "name": "Bouffalant",
+            "number": "118/163",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/BouffalantStilidiLotta118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-119/163",
+            "name": "Drampa",
+            "number": "119/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/DrampaStilidiLotta119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-120/163",
+            "name": "Indeedee",
+            "number": "120/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/IndeedeeStilidiLotta120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-121/163",
+            "name": "Bruno",
+            "number": "121/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/BrunoStilidiLotta121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-122/163",
+            "name": "Kit da campeggio",
+            "number": "122/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/KitdacampeggioStilidiLotta122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-123/163",
+            "name": "Demetra",
+            "number": "123/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DemetraStilidiLotta123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-124/163",
+            "name": "Riciclaggio di Energia",
+            "number": "124/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/RiciclaggiodiEnergiaStilidiLotta124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-125/163",
+            "name": "Fune di Fuga",
+            "number": "125/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/FunediFugaStilidiLotta125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-126/163",
+            "name": "Condividi Esperienza",
+            "number": "126/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/CondividiEsperienzaStilidiLotta126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-127/163",
+            "name": "Ventaglio delle Onde",
+            "number": "127/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/VentagliodelleOndeStilidiLotta127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-128/163",
+            "name": "Impegno di Ornella",
+            "number": "128/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ImpegnodiOrnellaStilidiLotta128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-129/163",
+            "name": "Level Ball",
+            "number": "129/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/LevelBallStilidiLotta129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-130/163",
+            "name": "Ester",
+            "number": "130/163",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/EsterStilidiLotta130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-131/163",
+            "name": "Rotolo dei Vortici Colpo Rapido",
+            "number": "131/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/RotolodeiVorticiColpoRapidoStilidiLotta131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-132/163",
+            "name": "Mustard Stile Pluricolpo",
+            "number": "132/163",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MustardStilePluricolpoStilidiLotta132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-133/163",
+            "name": "Rotolo dello Sdegno Colpo Singolo",
+            "number": "133/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/RotolodelloSdegnoColpoSingoloStilidiLotta133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-134/163",
+            "name": "Mustard Stile Singolcolpo",
+            "number": "134/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/MustardStileSingolcolpoStilidiLotta134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-135/163",
+            "name": "Brandobaldo e Scudobaldo",
+            "number": "135/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/BrandobaldoeScudobaldoStilidiLotta135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-136/163",
+            "name": "Bloccoggetti",
+            "number": "136/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/BloccoggettiStilidiLotta136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-137/163",
+            "name": "Torre Buio",
+            "number": "137/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/TorreBuioStilidiLotta137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-138/163",
+            "name": "Torre Acqua",
+            "number": "138/163",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/TorreAcquaStilidiLotta138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-139/163",
+            "name": "Urna del Vigore",
+            "number": "139/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/UrnadelVigoreStilidiLotta139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-140/163",
+            "name": "Energia Colpo Rapido",
+            "number": "140/163",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaColpoRapidoStilidiLotta140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-141/163",
+            "name": "Energia Colpo Singolo",
+            "number": "141/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/EnergiaColpoSingoloStilidiLotta141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-142/163",
+            "name": "Kricketune-V",
+            "number": "142/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Kricketune-VStilidiLotta142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-143/163",
+            "name": "Flapple-V",
+            "number": "143/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Flapple-VStilidiLotta143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-144/163",
+            "name": "Victini-V",
+            "number": "144/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/Victini-VStilidiLotta144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-145/163",
+            "name": "Empoleon-V",
+            "number": "145/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/Empoleon-VStilidiLotta145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-146/163",
+            "name": "Empoleon-V",
+            "number": "146/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/Empoleon-VStilidiLotta146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-147/163",
+            "name": "Tapu Koko-V",
+            "number": "147/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/TapuKoko-VStilidiLotta147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-148/163",
+            "name": "Mimikyu-V",
+            "number": "148/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Mimikyu-VStilidiLotta148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-149/163",
+            "name": "Necrozma-V",
+            "number": "149/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Necrozma-VStilidiLotta149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-150/163",
+            "name": "Urshifu Singolcolpo-V",
+            "number": "150/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/UrshifuSingolcolpo-VStilidiLotta150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-151/163",
+            "name": "Urshifu Singolcolpo-V",
+            "number": "151/163",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/UrshifuSingolcolpo-VStilidiLotta151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-152/163",
+            "name": "Urshifu Pluricolpo-V",
+            "number": "152/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/UrshifuPluricolpo-VStilidiLotta152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-153/163",
+            "name": "Urshifu Pluricolpo-V",
+            "number": "153/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/UrshifuPluricolpo-VStilidiLotta153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-154/163",
+            "name": "Tyranitar-V",
+            "number": "154/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Tyranitar-VStilidiLotta154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-155/163",
+            "name": "Tyranitar-V",
+            "number": "155/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/Tyranitar-VStilidiLotta155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-156/163",
+            "name": "Corviknight-V",
+            "number": "156/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/Corviknight-VStilidiLotta156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-157/163",
+            "name": "Stoutland-V",
+            "number": "157/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Stoutland-VStilidiLotta157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-158/163",
+            "name": "Bruno",
+            "number": "158/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/BrunoStilidiLotta158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-159/163",
+            "name": "Demetra",
+            "number": "159/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DemetraStilidiLotta159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-160/163",
+            "name": "Impegno di Ornella",
+            "number": "160/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ImpegnodiOrnellaStilidiLotta160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-161/163",
+            "name": "Ester",
+            "number": "161/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/EsterStilidiLotta161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-162/163",
+            "name": "Mustard Stile Pluricolpo",
+            "number": "162/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MustardStilePluricolpoStilidiLotta162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-163/163",
+            "name": "Mustard Stile Singolcolpo",
+            "number": "163/163",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MustardStileSingolcolpoStilidiLotta163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BST-164/163",
+            "name": "Flapple-VMAX",
+            "number": "164/163",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/Flapple-VMAXStilidiLotta164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-165/163",
+            "name": "Victini-VMAX",
+            "number": "165/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Victini-VMAXStilidiLotta165.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-166/163",
+            "name": "Tapu Koko-VMAX",
+            "number": "166/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/TapuKoko-VMAXStilidiLotta166.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-167/163",
+            "name": "Urshifu Singolcolpo-VMAX",
+            "number": "167/163",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/UrshifuSingolcolpo-VMAXStilidiLotta167.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-168/163",
+            "name": "Urshifu Singolcolpo-VMAX",
+            "number": "168/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/UrshifuSingolcolpo-VMAXStilidiLotta168.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-169/163",
+            "name": "Urshifu Pluricolpo-VMAX",
+            "number": "169/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/UrshifuPluricolpo-VMAXStilidiLotta169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-170/163",
+            "name": "Urshifu Pluricolpo-VMAX",
+            "number": "170/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/UrshifuPluricolpo-VMAXStilidiLotta170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-171/163",
+            "name": "Corviknight-VMAX",
+            "number": "171/163",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Corviknight-VMAXStilidiLotta171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-172/163",
+            "name": "Bruno",
+            "number": "172/163",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/BrunoStilidiLotta172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-173/163",
+            "name": "Demetra",
+            "number": "173/163",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/DemetraStilidiLotta173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-174/163",
+            "name": "Impegno di Ornella",
+            "number": "174/163",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/ImpegnodiOrnellaStilidiLotta174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-175/163",
+            "name": "Ester",
+            "number": "175/163",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/EsterStilidiLotta175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-176/163",
+            "name": "Mustard Stile Pluricolpo",
+            "number": "176/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/MustardStilePluricolpoStilidiLotta176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-177/163",
+            "name": "Mustard Stile Singolcolpo",
+            "number": "177/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MustardStileSingolcolpoStilidiLotta177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-178/163",
+            "name": "Octillery",
+            "number": "178/163",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/OctilleryStilidiLotta178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-179/163",
+            "name": "Houndoom",
+            "number": "179/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/HoundoomStilidiLotta179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-180/163",
+            "name": "Condividi Esperienza",
+            "number": "180/163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/CondividiEsperienzaStilidiLotta180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-181/163",
+            "name": "Level Ball",
+            "number": "181/163",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/LevelBallStilidiLotta181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-182/163",
+            "name": "Energia Colpo Rapido",
+            "number": "182/163",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/EnergiaColpoRapidoStilidiLotta182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BST-183/163",
+            "name": "Energia Colpo Singolo",
+            "number": "183/163",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaColpoSingoloStilidiLotta183.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

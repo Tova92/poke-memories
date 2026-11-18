@@ -1,0 +1,699 @@
+{
+    "expansion": {
+        "id": "EPO",
+        "name": "Nero e Bianco - Nuove Forze",
+				"year": 2011,
+				"month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/52/SimboloSetNuove_Forze.png",
+        "cardCount": 98
+    },
+    "cards": [
+        {
+            "id": "EPO-1/98",
+            "name": "Pansage",
+            "number": "1/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/PansageNuoveForze1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-2/98",
+            "name": "Simisage",
+            "number": "2/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/SimisageNuoveForze2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-3/98",
+            "name": "Sewaddle",
+            "number": "3/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SewaddleNuoveForze3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-4/98",
+            "name": "Sewaddle",
+            "number": "4/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/SewaddleNuoveForze4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-5/98",
+            "name": "Swadloon",
+            "number": "5/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/SwadloonNuoveForze5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-6/98",
+            "name": "Swadloon",
+            "number": "6/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/SwadloonNuoveForze6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-7/98",
+            "name": "Leavanny",
+            "number": "7/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/LeavannyNuoveForze7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-8/98",
+            "name": "Leavanny",
+            "number": "8/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/LeavannyNuoveForze8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-9/98",
+            "name": "Cottonee",
+            "number": "9/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CottoneeNuoveForze9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-10/98",
+            "name": "Cottonee",
+            "number": "10/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/CottoneeNuoveForze10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-11/98",
+            "name": "Whimsicott",
+            "number": "11/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/WhimsicottNuoveForze11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-12/98",
+            "name": "Whimsicott",
+            "number": "12/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/WhimsicottNuoveForze12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-13/98",
+            "name": "Petilil",
+            "number": "13/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PetililNuoveForze13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-14/98",
+            "name": "Lilligant",
+            "number": "14/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/LilligantNuoveForze14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-15/98",
+            "name": "Deerling",
+            "number": "15/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/DeerlingNuoveForze15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-16/98",
+            "name": "Sawsbuck",
+            "number": "16/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/SawsbuckNuoveForze16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-17/98",
+            "name": "Virizion",
+            "number": "17/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/VirizionNuoveForze17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-18/98",
+            "name": "Pansear",
+            "number": "18/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/PansearNuoveForze18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-19/98",
+            "name": "Simisear",
+            "number": "19/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/SimisearNuoveForze19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-20/98",
+            "name": "Darumaka",
+            "number": "20/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/DarumakaNuoveForze20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-21/98",
+            "name": "Darmanitan",
+            "number": "21/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/DarmanitanNuoveForze21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-22/98",
+            "name": "Panpour",
+            "number": "22/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/PanpourNuoveForze22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-23/98",
+            "name": "Simipour",
+            "number": "23/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/SimipourNuoveForze23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-24/98",
+            "name": "Basculin",
+            "number": "24/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/BasculinNuoveForze24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-25/98",
+            "name": "Basculin",
+            "number": "25/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/BasculinNuoveForze25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-26/98",
+            "name": "Ducklett",
+            "number": "26/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/DucklettNuoveForze26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-27/98",
+            "name": "Swanna",
+            "number": "27/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/SwannaNuoveForze27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-28/98",
+            "name": "Cubchoo",
+            "number": "28/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/CubchooNuoveForze28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-29/98",
+            "name": "Cubchoo",
+            "number": "29/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/CubchooNuoveForze29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-30/98",
+            "name": "Beartic",
+            "number": "30/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/BearticNuoveForze30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-31/98",
+            "name": "Beartic",
+            "number": "31/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/BearticNuoveForze31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-32/98",
+            "name": "Emolga",
+            "number": "32/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/EmolgaNuoveForze32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-33/98",
+            "name": "Joltik",
+            "number": "33/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/JoltikNuoveForze33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-34/98",
+            "name": "Galvantula",
+            "number": "34/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/GalvantulaNuoveForze34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-35/98",
+            "name": "Thundurus",
+            "number": "35/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ThundurusNuoveForze35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-36/98",
+            "name": "Woobat",
+            "number": "36/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/WoobatNuoveForze36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-37/98",
+            "name": "Swoobat",
+            "number": "37/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/SwoobatNuoveForze37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-38/98",
+            "name": "Venipede",
+            "number": "38/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/VenipedeNuoveForze38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-39/98",
+            "name": "Whirlipede",
+            "number": "39/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/WhirlipedeNuoveForze39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-40/98",
+            "name": "Scolipede",
+            "number": "40/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/ScolipedeNuoveForze40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-41/98",
+            "name": "Sigilyph",
+            "number": "41/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SigilyphNuoveForze41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-42/98",
+            "name": "Sigilyph",
+            "number": "42/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/SigilyphNuoveForze42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-43/98",
+            "name": "Gothita",
+            "number": "43/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/GothitaNuoveForze43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-44/98",
+            "name": "Gothita",
+            "number": "44/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/GothitaNuoveForze44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-45/98",
+            "name": "Gothorita",
+            "number": "45/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/GothoritaNuoveForze45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-46/98",
+            "name": "Gothorita",
+            "number": "46/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/GothoritaNuoveForze46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-47/98",
+            "name": "Gothitelle",
+            "number": "47/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/GothitelleNuoveForze47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-48/98",
+            "name": "Gothitelle",
+            "number": "48/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/GothitelleNuoveForze48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-49/98",
+            "name": "Roggenrola",
+            "number": "49/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/RoggenrolaNuoveForze49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-50/98",
+            "name": "Roggenrola",
+            "number": "50/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/RoggenrolaNuoveForze50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-51/98",
+            "name": "Boldore",
+            "number": "51/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/BoldoreNuoveForze51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-52/98",
+            "name": "Boldore",
+            "number": "52/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/BoldoreNuoveForze52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-53/98",
+            "name": "Gigalith",
+            "number": "53/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GigalithNuoveForze53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-54/98",
+            "name": "Drilbur",
+            "number": "54/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/DrilburNuoveForze54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-55/98",
+            "name": "Drilbur",
+            "number": "55/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/DrilburNuoveForze55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-56/98",
+            "name": "Excadrill",
+            "number": "56/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ExcadrillNuoveForze56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-57/98",
+            "name": "Excadrill",
+            "number": "57/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ExcadrillNuoveForze57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-58/98",
+            "name": "Throh",
+            "number": "58/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ThrohNuoveForze58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-59/98",
+            "name": "Sawk",
+            "number": "59/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/SawkNuoveForze59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-60/98",
+            "name": "Sandile",
+            "number": "60/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/SandileNuoveForze60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-61/98",
+            "name": "Krokorok",
+            "number": "61/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/KrokorokNuoveForze61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-62/98",
+            "name": "Krookodile",
+            "number": "62/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/KrookodileNuoveForze62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-63/98",
+            "name": "Terrakion",
+            "number": "63/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/TerrakionNuoveForze63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-64/98",
+            "name": "Purrloin",
+            "number": "64/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/PurrloinNuoveForze64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-65/98",
+            "name": "Liepard",
+            "number": "65/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/LiepardNuoveForze65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-66/98",
+            "name": "Zorua",
+            "number": "66/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ZoruaNuoveForze66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-67/98",
+            "name": "Zoroark",
+            "number": "67/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ZoroarkNuoveForze67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-68/98",
+            "name": "Vullaby",
+            "number": "68/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/VullabyNuoveForze68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-69/98",
+            "name": "Mandibuzz",
+            "number": "69/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/MandibuzzNuoveForze69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-70/98",
+            "name": "Ferroseed",
+            "number": "70/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/FerroseedNuoveForze70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-71/98",
+            "name": "Ferroseed",
+            "number": "71/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/FerroseedNuoveForze71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-72/98",
+            "name": "Ferrothorn",
+            "number": "72/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/FerrothornNuoveForze72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-73/98",
+            "name": "Ferrothorn",
+            "number": "73/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/FerrothornNuoveForze73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-74/98",
+            "name": "Klink",
+            "number": "74/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/KlinkNuoveForze74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-75/98",
+            "name": "Klang",
+            "number": "75/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/KlangNuoveForze75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-76/98",
+            "name": "Klinklang",
+            "number": "76/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/KlinklangNuoveForze76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-77/98",
+            "name": "Cobalion",
+            "number": "77/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/CobalionNuoveForze77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-78/98",
+            "name": "Patrat",
+            "number": "78/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/PatratNuoveForze78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-79/98",
+            "name": "Watchog",
+            "number": "79/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/WatchogNuoveForze79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-80/98",
+            "name": "Pidove",
+            "number": "80/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/PidoveNuoveForze80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-81/98",
+            "name": "Tranquill",
+            "number": "81/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/TranquillNuoveForze81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-82/98",
+            "name": "Unfezant",
+            "number": "82/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/UnfezantNuoveForze82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-83/98",
+            "name": "Audino",
+            "number": "83/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/AudinoNuoveForze83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-84/98",
+            "name": "Minccino",
+            "number": "84/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/MinccinoNuoveForze84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-85/98",
+            "name": "Cinccino",
+            "number": "85/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/CinccinoNuoveForze85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-86/98",
+            "name": "Rufflet",
+            "number": "86/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/RuffletNuoveForze86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-87/98",
+            "name": "Rufflet",
+            "number": "87/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/RuffletNuoveForze87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-88/98",
+            "name": "Braviary",
+            "number": "88/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/BraviaryNuoveForze88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-89/98",
+            "name": "Tornadus",
+            "number": "89/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/TornadusNuoveForze89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-90/98",
+            "name": "Belle",
+            "number": "90/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/BelleNuoveForze90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-91/98",
+            "name": "Komor",
+            "number": "91/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/KomorNuoveForze91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-92/98",
+            "name": "Martello Dirompente",
+            "number": "92/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/MartelloDirompenteNuoveForze92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-93/98",
+            "name": "Mega Ball",
+            "number": "93/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/MegaBallNuoveForze93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-94/98",
+            "name": "Pozione Max",
+            "number": "94/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/PozioneMaxNuoveForze94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-95/98",
+            "name": "Acchiappa-Pokémon",
+            "number": "95/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Acchiappa-Pok%C3%A9monNuoveForze95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-96/98",
+            "name": "Riciclo",
+            "number": "96/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/RicicloNuoveForze96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-97/98",
+            "name": "Thundurus",
+            "number": "97/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/ThundurusNuoveForze97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EPO-98/98",
+            "name": "Tornadus",
+            "number": "98/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/TornadusNuoveForze98.png",
+            "section": "Set principale"
+        }
+    ]
+}

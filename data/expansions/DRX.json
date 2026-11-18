@@ -1,0 +1,909 @@
+{
+    "expansion": {
+        "id": "DRX",
+        "name": "Nero e Bianco - Stirpe dei Draghi",
+				"year": 2012,
+				"month": 10,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/65/SimboloSetStirpe_dei_Draghi.png",
+        "cardCount": 128
+    },
+    "cards": [
+        {
+            "id": "DRX-1/124",
+            "name": "Hoppip",
+            "number": "1/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/HoppipStirpedeiDraghi1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-2/124",
+            "name": "Skiploom",
+            "number": "2/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/SkiploomStirpedeiDraghi2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-3/124",
+            "name": "Jumpluff",
+            "number": "3/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/JumpluffStirpedeiDraghi3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-4/124",
+            "name": "Yanma",
+            "number": "4/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/YanmaStirpedeiDraghi4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-5/124",
+            "name": "Yanmega",
+            "number": "5/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/YanmegaStirpedeiDraghi5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-6/124",
+            "name": "Wurmple",
+            "number": "6/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/WurmpleStirpedeiDraghi6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-7/124",
+            "name": "Silcoon",
+            "number": "7/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SilcoonStirpedeiDraghi7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-8/124",
+            "name": "Beautifly",
+            "number": "8/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/BeautiflyStirpedeiDraghi8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-9/124",
+            "name": "Cascoon",
+            "number": "9/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/CascoonStirpedeiDraghi9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-10/124",
+            "name": "Nincada",
+            "number": "10/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/NincadaStirpedeiDraghi10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-11/124",
+            "name": "Ninjask",
+            "number": "11/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/NinjaskStirpedeiDraghi11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-12/124",
+            "name": "Roselia",
+            "number": "12/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/RoseliaStirpedeiDraghi12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-13/124",
+            "name": "Roselia",
+            "number": "13/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/RoseliaStirpedeiDraghi13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-14/124",
+            "name": "Roserade",
+            "number": "14/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/RoseradeStirpedeiDraghi14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-15/124",
+            "name": "Roserade",
+            "number": "15/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/RoseradeStirpedeiDraghi15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-16/124",
+            "name": "Maractus",
+            "number": "16/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/MaractusStirpedeiDraghi16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-17/124",
+            "name": "Foongus",
+            "number": "17/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/FoongusStirpedeiDraghi17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-18/124",
+            "name": "Vulpix",
+            "number": "18/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/VulpixStirpedeiDraghi18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-19/124",
+            "name": "Ninetales",
+            "number": "19/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/NinetalesStirpedeiDraghi19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-20/124",
+            "name": "Magmar",
+            "number": "20/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/MagmarStirpedeiDraghi20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-21/124",
+            "name": "Magmortar",
+            "number": "21/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/MagmortarStirpedeiDraghi21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-22/124",
+            "name": "Ho-Oh-EX",
+            "number": "22/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Ho-Oh-EXStirpedeiDraghi22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-23/124",
+            "name": "Magikarp",
+            "number": "23/124",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/MagikarpStirpedeiDraghi23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-24/124",
+            "name": "Gyarados",
+            "number": "24/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/GyaradosStirpedeiDraghi24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-25/124",
+            "name": "Wailmer",
+            "number": "25/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/WailmerStirpedeiDraghi25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-26/124",
+            "name": "Wailord",
+            "number": "26/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/WailordStirpedeiDraghi26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-27/124",
+            "name": "Feebas",
+            "number": "27/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/FeebasStirpedeiDraghi27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-28/124",
+            "name": "Milotic",
+            "number": "28/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/MiloticStirpedeiDraghi28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-29/124",
+            "name": "Spheal",
+            "number": "29/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/SphealStirpedeiDraghi29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-30/124",
+            "name": "Sealeo",
+            "number": "30/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SealeoStirpedeiDraghi30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-31/124",
+            "name": "Walrein",
+            "number": "31/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/WalreinStirpedeiDraghi31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-32/124",
+            "name": "Buizel",
+            "number": "32/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/BuizelStirpedeiDraghi32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-33/124",
+            "name": "Floatzel",
+            "number": "33/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/FloatzelStirpedeiDraghi33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-34/124",
+            "name": "Tympole",
+            "number": "34/124",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/TympoleStirpedeiDraghi34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-35/124",
+            "name": "Palpitoad",
+            "number": "35/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/PalpitoadStirpedeiDraghi35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-36/124",
+            "name": "Seismitoad",
+            "number": "36/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/SeismitoadStirpedeiDraghi36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-37/124",
+            "name": "Alomomola",
+            "number": "37/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/AlomomolaStirpedeiDraghi37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-38/124",
+            "name": "Mareep",
+            "number": "38/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MareepStirpedeiDraghi38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-39/124",
+            "name": "Flaaffy",
+            "number": "39/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/FlaaffyStirpedeiDraghi39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-40/124",
+            "name": "Ampharos",
+            "number": "40/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/AmpharosStirpedeiDraghi40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-41/124",
+            "name": "Electrike",
+            "number": "41/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ElectrikeStirpedeiDraghi41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-42/124",
+            "name": "Electrike",
+            "number": "42/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/ElectrikeStirpedeiDraghi42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-43/124",
+            "name": "Manectric",
+            "number": "43/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ManectricStirpedeiDraghi43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-44/124",
+            "name": "Manectric",
+            "number": "44/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ManectricStirpedeiDraghi44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-45/124",
+            "name": "Emolga",
+            "number": "45/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/EmolgaStirpedeiDraghi45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-46/124",
+            "name": "Mew-EX",
+            "number": "46/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Mew-EXStirpedeiDraghi46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-47/124",
+            "name": "Dustox",
+            "number": "47/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/DustoxStirpedeiDraghi47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-48/124",
+            "name": "Shedinja",
+            "number": "48/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/ShedinjaStirpedeiDraghi48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-49/124",
+            "name": "Drifloon",
+            "number": "49/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/DrifloonStirpedeiDraghi49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-50/124",
+            "name": "Drifloon",
+            "number": "50/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/DrifloonStirpedeiDraghi50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-51/124",
+            "name": "Drifblim",
+            "number": "51/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/DrifblimStirpedeiDraghi51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-52/124",
+            "name": "Sigilyph",
+            "number": "52/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SigilyphStirpedeiDraghi52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-53/124",
+            "name": "Trubbish",
+            "number": "53/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TrubbishStirpedeiDraghi53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-54/124",
+            "name": "Garbodor",
+            "number": "54/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/GarbodorStirpedeiDraghi54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-55/124",
+            "name": "Gothita",
+            "number": "55/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/GothitaStirpedeiDraghi55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-56/124",
+            "name": "Gothorita",
+            "number": "56/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/GothoritaStirpedeiDraghi56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-57/124",
+            "name": "Gothitelle",
+            "number": "57/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/GothitelleStirpedeiDraghi57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-58/124",
+            "name": "Golett",
+            "number": "58/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/GolettStirpedeiDraghi58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-59/124",
+            "name": "Golurk",
+            "number": "59/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/GolurkStirpedeiDraghi59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-60/124",
+            "name": "Cubone",
+            "number": "60/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CuboneStirpedeiDraghi60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-61/124",
+            "name": "Marowak",
+            "number": "61/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/MarowakStirpedeiDraghi61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-62/124",
+            "name": "Nosepass",
+            "number": "62/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/NosepassStirpedeiDraghi62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-63/124",
+            "name": "Baltoy",
+            "number": "63/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/BaltoyStirpedeiDraghi63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-64/124",
+            "name": "Claydol",
+            "number": "64/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ClaydolStirpedeiDraghi64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-65/124",
+            "name": "Roggenrola",
+            "number": "65/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/RoggenrolaStirpedeiDraghi65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-66/124",
+            "name": "Boldore",
+            "number": "66/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/BoldoreStirpedeiDraghi66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-67/124",
+            "name": "Gigalith",
+            "number": "67/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/GigalithStirpedeiDraghi67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-68/124",
+            "name": "Throh",
+            "number": "68/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ThrohStirpedeiDraghi68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-69/124",
+            "name": "Sawk",
+            "number": "69/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SawkStirpedeiDraghi69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-70/124",
+            "name": "Stunfisk",
+            "number": "70/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/StunfiskStirpedeiDraghi70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-71/124",
+            "name": "Terrakion-EX",
+            "number": "71/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/Terrakion-EXStirpedeiDraghi71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-72/124",
+            "name": "Murkrow",
+            "number": "72/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MurkrowStirpedeiDraghi72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-73/124",
+            "name": "Honchkrow",
+            "number": "73/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/HonchkrowStirpedeiDraghi73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-74/124",
+            "name": "Houndour",
+            "number": "74/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/HoundourStirpedeiDraghi74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-75/124",
+            "name": "Houndoom",
+            "number": "75/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/HoundoomStirpedeiDraghi75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-76/124",
+            "name": "Stunky",
+            "number": "76/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/StunkyStirpedeiDraghi76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-77/124",
+            "name": "Skuntank",
+            "number": "77/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SkuntankStirpedeiDraghi77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-78/124",
+            "name": "Aron",
+            "number": "78/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/AronStirpedeiDraghi78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-79/124",
+            "name": "Lairon",
+            "number": "79/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/LaironStirpedeiDraghi79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-80/124",
+            "name": "Aggron",
+            "number": "80/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/AggronStirpedeiDraghi80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-81/124",
+            "name": "Registeel-EX",
+            "number": "81/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/Registeel-EXStirpedeiDraghi81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-82/124",
+            "name": "Probopass",
+            "number": "82/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ProbopassStirpedeiDraghi82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-83/124",
+            "name": "Durant",
+            "number": "83/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/DurantStirpedeiDraghi83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-84/124",
+            "name": "Altaria",
+            "number": "84/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/AltariaStirpedeiDraghi84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-85/124",
+            "name": "Rayquaza-EX",
+            "number": "85/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Rayquaza-EXStirpedeiDraghi85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-86/124",
+            "name": "Gible",
+            "number": "86/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/GibleStirpedeiDraghi86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-87/124",
+            "name": "Gible",
+            "number": "87/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/GibleStirpedeiDraghi87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-88/124",
+            "name": "Gabite",
+            "number": "88/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/GabiteStirpedeiDraghi88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-89/124",
+            "name": "Gabite",
+            "number": "89/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GabiteStirpedeiDraghi89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-90/124",
+            "name": "Garchomp",
+            "number": "90/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/GarchompStirpedeiDraghi90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-91/124",
+            "name": "Garchomp",
+            "number": "91/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/GarchompStirpedeiDraghi91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-92/124",
+            "name": "Giratina-EX",
+            "number": "92/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Giratina-EXStirpedeiDraghi92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-93/124",
+            "name": "Deino",
+            "number": "93/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DeinoStirpedeiDraghi93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-94/124",
+            "name": "Deino",
+            "number": "94/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/DeinoStirpedeiDraghi94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-95/124",
+            "name": "Zweilous",
+            "number": "95/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/ZweilousStirpedeiDraghi95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-96/124",
+            "name": "Zweilous",
+            "number": "96/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ZweilousStirpedeiDraghi96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-97/124",
+            "name": "Hydreigon",
+            "number": "97/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/HydreigonStirpedeiDraghi97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-98/124",
+            "name": "Hydreigon",
+            "number": "98/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/HydreigonStirpedeiDraghi98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-99/124",
+            "name": "Aipom",
+            "number": "99/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/AipomStirpedeiDraghi99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-100/124",
+            "name": "Ambipom",
+            "number": "100/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/AmbipomStirpedeiDraghi100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-101/124",
+            "name": "Slakoth",
+            "number": "101/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/SlakothStirpedeiDraghi101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-102/124",
+            "name": "Vigoroth",
+            "number": "102/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/VigorothStirpedeiDraghi102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-103/124",
+            "name": "Slaking",
+            "number": "103/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SlakingStirpedeiDraghi103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-104/124",
+            "name": "Swablu",
+            "number": "104/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/SwabluStirpedeiDraghi104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-105/124",
+            "name": "Swablu",
+            "number": "105/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SwabluStirpedeiDraghi105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-106/124",
+            "name": "Bidoof",
+            "number": "106/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/BidoofStirpedeiDraghi106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-107/124",
+            "name": "Bibarel",
+            "number": "107/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/BibarelStirpedeiDraghi107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-108/124",
+            "name": "Audino",
+            "number": "108/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/AudinoStirpedeiDraghi108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-109/124",
+            "name": "Minccino",
+            "number": "109/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/MinccinoStirpedeiDraghi109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-110/124",
+            "name": "Bouffalant",
+            "number": "110/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/BouffalantStirpedeiDraghi110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-111/124",
+            "name": "Rufflet",
+            "number": "111/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/RuffletStirpedeiDraghi111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-112/124",
+            "name": "Braviary",
+            "number": "112/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BraviaryStirpedeiDraghi112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-113/124",
+            "name": "Getto di Involuzione",
+            "number": "113/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/GettodiInvoluzioneStirpedeiDraghi113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-114/124",
+            "name": "Mantello Gigante",
+            "number": "114/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/MantelloGiganteStirpedeiDraghi114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-115/124",
+            "name": "Sciarpa Salvagente",
+            "number": "115/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SciarpaSalvagenteStirpedeiDraghi115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-116/124",
+            "name": "Scartaoggetti",
+            "number": "116/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ScartaoggettiStirpedeiDraghi116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-117/124",
+            "name": "Energia Fusione EFPO",
+            "number": "117/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/EnergiaFusioneEFPOStirpedeiDraghi117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-118/124",
+            "name": "Energia Fusione ALCM",
+            "number": "118/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/EnergiaFusioneALCMStirpedeiDraghi118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-119/124",
+            "name": "Ho-Oh-EX",
+            "number": "119/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Ho-Oh-EXStirpedeiDraghi119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-120/124",
+            "name": "Mew-EX",
+            "number": "120/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Mew-EXStirpedeiDraghi120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-121/124",
+            "name": "Terrakion-EX",
+            "number": "121/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/Terrakion-EXStirpedeiDraghi121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-122/124",
+            "name": "Registeel-EX",
+            "number": "122/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Registeel-EXStirpedeiDraghi122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-123/124",
+            "name": "Rayquaza-EX",
+            "number": "123/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Rayquaza-EXStirpedeiDraghi123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-124/124",
+            "name": "Giratina-EX",
+            "number": "124/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Giratina-EXStirpedeiDraghi124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRX-125/124",
+            "name": "Serperior",
+            "number": "125/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SerperiorStirpedeiDraghi125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRX-126/124",
+            "name": "Reuniclus",
+            "number": "126/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ReuniclusStirpedeiDraghi126.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRX-127/124",
+            "name": "Krookodile",
+            "number": "127/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/KrookodileStirpedeiDraghi127.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRX-128/124",
+            "name": "Rayquaza",
+            "number": "128/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/RayquazaStirpedeiDraghi128.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

@@ -1,0 +1,1084 @@
+{
+    "expansion": {
+        "id": "BCR",
+        "name": "Nero e Bianco - Confini Varcati",
+				"year": 2013,
+				"month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetConfini_Varcati.png",
+        "cardCount": 153
+    },
+    "cards": [
+        {
+            "id": "BCR-1/149",
+            "name": "Oddish",
+            "number": "1/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/OddishConfiniVarcati1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-2/149",
+            "name": "Gloom",
+            "number": "2/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/GloomConfiniVarcati2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-3/149",
+            "name": "Vileplume",
+            "number": "3/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/VileplumeConfiniVarcati3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-4/149",
+            "name": "Bellossom",
+            "number": "4/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/BellossomConfiniVarcati4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-5/149",
+            "name": "Tangela",
+            "number": "5/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/TangelaConfiniVarcati5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-6/149",
+            "name": "Tangrowth",
+            "number": "6/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/TangrowthConfiniVarcati6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-7/149",
+            "name": "Scyther",
+            "number": "7/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/ScytherConfiniVarcati7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-8/149",
+            "name": "Heracross",
+            "number": "8/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/HeracrossConfiniVarcati8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-9/149",
+            "name": "Celebi-EX",
+            "number": "9/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Celebi-EXConfiniVarcati9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-10/149",
+            "name": "Shaymin",
+            "number": "10/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ShayminConfiniVarcati10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-11/149",
+            "name": "Snivy",
+            "number": "11/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SnivyConfiniVarcati11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-12/149",
+            "name": "Servine",
+            "number": "12/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/ServineConfiniVarcati12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-13/149",
+            "name": "Serperior",
+            "number": "13/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SerperiorConfiniVarcati13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-14/149",
+            "name": "Cottonee",
+            "number": "14/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/CottoneeConfiniVarcati14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-15/149",
+            "name": "Whimsicott",
+            "number": "15/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/WhimsicottConfiniVarcati15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-16/149",
+            "name": "Petilil",
+            "number": "16/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PetililConfiniVarcati16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-17/149",
+            "name": "Lilligant",
+            "number": "17/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/LilligantConfiniVarcati17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-18/149",
+            "name": "Charmander",
+            "number": "18/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CharmanderConfiniVarcati18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-19/149",
+            "name": "Charmeleon",
+            "number": "19/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/CharmeleonConfiniVarcati19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-20/149",
+            "name": "Charizard",
+            "number": "20/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/CharizardConfiniVarcati20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-21/149",
+            "name": "Numel",
+            "number": "21/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/NumelConfiniVarcati21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-22/149",
+            "name": "Camerupt",
+            "number": "22/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/CameruptConfiniVarcati22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-23/149",
+            "name": "Victini",
+            "number": "23/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/VictiniConfiniVarcati23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-24/149",
+            "name": "Tepig",
+            "number": "24/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/TepigConfiniVarcati24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-25/149",
+            "name": "Pignite",
+            "number": "25/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/PigniteConfiniVarcati25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-26/149",
+            "name": "Emboar",
+            "number": "26/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/EmboarConfiniVarcati26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-27/149",
+            "name": "Darumaka",
+            "number": "27/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/DarumakaConfiniVarcati27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-28/149",
+            "name": "Darmanitan",
+            "number": "28/149",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/DarmanitanConfiniVarcati28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-29/149",
+            "name": "Squirtle",
+            "number": "29/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SquirtleConfiniVarcati29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-30/149",
+            "name": "Wartortle",
+            "number": "30/149",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/WartortleConfiniVarcati30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-31/149",
+            "name": "Blastoise",
+            "number": "31/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/BlastoiseConfiniVarcati31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-32/149",
+            "name": "Psyduck",
+            "number": "32/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/PsyduckConfiniVarcati32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-33/149",
+            "name": "Psyduck",
+            "number": "33/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/PsyduckConfiniVarcati33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-34/149",
+            "name": "Golduck",
+            "number": "34/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GolduckConfiniVarcati34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-35/149",
+            "name": "Golduck",
+            "number": "35/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/GolduckConfiniVarcati35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-36/149",
+            "name": "Marill",
+            "number": "36/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MarillConfiniVarcati36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-37/149",
+            "name": "Azumarill",
+            "number": "37/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/AzumarillConfiniVarcati37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-38/149",
+            "name": "Delibird",
+            "number": "38/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DelibirdConfiniVarcati38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-39/149",
+            "name": "Oshawott",
+            "number": "39/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/OshawottConfiniVarcati39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-40/149",
+            "name": "Dewott",
+            "number": "40/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/DewottConfiniVarcati40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-41/149",
+            "name": "Samurott",
+            "number": "41/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/SamurottConfiniVarcati41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-42/149",
+            "name": "Ducklett",
+            "number": "42/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DucklettConfiniVarcati42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-43/149",
+            "name": "Swanna",
+            "number": "43/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/SwannaConfiniVarcati43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-44/149",
+            "name": "Frillish",
+            "number": "44/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/FrillishConfiniVarcati44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-45/149",
+            "name": "Jellicent",
+            "number": "45/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/JellicentConfiniVarcati45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-46/149",
+            "name": "Cryogonal",
+            "number": "46/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/CryogonalConfiniVarcati46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-47/149",
+            "name": "Keldeo",
+            "number": "47/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/KeldeoConfiniVarcati47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-48/149",
+            "name": "Keldeo",
+            "number": "48/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/KeldeoConfiniVarcati48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-49/149",
+            "name": "Keldeo-EX",
+            "number": "49/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Keldeo-EXConfiniVarcati49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-50/149",
+            "name": "Pikachu",
+            "number": "50/149",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/PikachuConfiniVarcati50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-51/149",
+            "name": "Voltorb",
+            "number": "51/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/VoltorbConfiniVarcati51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-52/149",
+            "name": "Electrode",
+            "number": "52/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ElectrodeConfiniVarcati52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-53/149",
+            "name": "Electabuzz",
+            "number": "53/149",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ElectabuzzConfiniVarcati53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-54/149",
+            "name": "Electivire",
+            "number": "54/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ElectivireConfiniVarcati54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-55/149",
+            "name": "Chinchou",
+            "number": "55/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ChinchouConfiniVarcati55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-56/149",
+            "name": "Blitzle",
+            "number": "56/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/BlitzleConfiniVarcati56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-57/149",
+            "name": "Zebstrika",
+            "number": "57/149",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/ZebstrikaConfiniVarcati57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-58/149",
+            "name": "Wobbuffet",
+            "number": "58/149",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/WobbuffetConfiniVarcati58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-59/149",
+            "name": "Spoink",
+            "number": "59/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/SpoinkConfiniVarcati59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-60/149",
+            "name": "Grumpig",
+            "number": "60/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/GrumpigConfiniVarcati60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-61/149",
+            "name": "Duskull",
+            "number": "61/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/DuskullConfiniVarcati61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-62/149",
+            "name": "Dusclops",
+            "number": "62/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/DusclopsConfiniVarcati62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-63/149",
+            "name": "Dusknoir",
+            "number": "63/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/DusknoirConfiniVarcati63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-64/149",
+            "name": "Croagunk",
+            "number": "64/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/CroagunkConfiniVarcati64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-65/149",
+            "name": "Croagunk",
+            "number": "65/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/CroagunkConfiniVarcati65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-66/149",
+            "name": "Toxicroak",
+            "number": "66/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ToxicroakConfiniVarcati66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-67/149",
+            "name": "Cresselia-EX",
+            "number": "67/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/Cresselia-EXConfiniVarcati67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-68/149",
+            "name": "Munna",
+            "number": "68/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MunnaConfiniVarcati68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-69/149",
+            "name": "Musharna",
+            "number": "69/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MusharnaConfiniVarcati69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-70/149",
+            "name": "Woobat",
+            "number": "70/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/WoobatConfiniVarcati70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-71/149",
+            "name": "Swoobat",
+            "number": "71/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/SwoobatConfiniVarcati71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-72/149",
+            "name": "Venipede",
+            "number": "72/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/VenipedeConfiniVarcati72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-73/149",
+            "name": "Whirlipede",
+            "number": "73/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/WhirlipedeConfiniVarcati73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-74/149",
+            "name": "Scolipede",
+            "number": "74/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ScolipedeConfiniVarcati74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-75/149",
+            "name": "Gothita",
+            "number": "75/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/GothitaConfiniVarcati75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-76/149",
+            "name": "Gothorita",
+            "number": "76/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/GothoritaConfiniVarcati76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-77/149",
+            "name": "Meloetta",
+            "number": "77/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MeloettaConfiniVarcati77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-78/149",
+            "name": "Sandshrew",
+            "number": "78/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SandshrewConfiniVarcati78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-79/149",
+            "name": "Sandslash",
+            "number": "79/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SandslashConfiniVarcati79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-80/149",
+            "name": "Gligar",
+            "number": "80/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/GligarConfiniVarcati80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-81/149",
+            "name": "Gliscor",
+            "number": "81/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/GliscorConfiniVarcati81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-82/149",
+            "name": "Makuhita",
+            "number": "82/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/MakuhitaConfiniVarcati82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-83/149",
+            "name": "Trapinch",
+            "number": "83/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/TrapinchConfiniVarcati83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-84/149",
+            "name": "Dwebble",
+            "number": "84/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DwebbleConfiniVarcati84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-85/149",
+            "name": "Crustle",
+            "number": "85/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/CrustleConfiniVarcati85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-86/149",
+            "name": "Mienfoo",
+            "number": "86/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/MienfooConfiniVarcati86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-87/149",
+            "name": "Mienfoo",
+            "number": "87/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/MienfooConfiniVarcati87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-88/149",
+            "name": "Mienshao",
+            "number": "88/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/MienshaoConfiniVarcati88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-89/149",
+            "name": "Landorus-EX",
+            "number": "89/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Landorus-EXConfiniVarcati89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-90/149",
+            "name": "Purrloin",
+            "number": "90/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/PurrloinConfiniVarcati90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-91/149",
+            "name": "Liepard",
+            "number": "91/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/LiepardConfiniVarcati91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-92/149",
+            "name": "Vullaby",
+            "number": "92/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/VullabyConfiniVarcati92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-93/149",
+            "name": "Mandibuzz",
+            "number": "93/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/MandibuzzConfiniVarcati93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-94/149",
+            "name": "Scizor",
+            "number": "94/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ScizorConfiniVarcati94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-95/149",
+            "name": "Skarmory",
+            "number": "95/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/SkarmoryConfiniVarcati95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-96/149",
+            "name": "Skarmory",
+            "number": "96/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SkarmoryConfiniVarcati96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-97/149",
+            "name": "Klink",
+            "number": "97/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/KlinkConfiniVarcati97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-98/149",
+            "name": "Vibrava",
+            "number": "98/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/VibravaConfiniVarcati98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-99/149",
+            "name": "Flygon",
+            "number": "99/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/FlygonConfiniVarcati99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-100/149",
+            "name": "Kyurem Nero",
+            "number": "100/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/KyuremNeroConfiniVarcati100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-101/149",
+            "name": "Kyurem Nero-EX",
+            "number": "101/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/KyuremNero-EXConfiniVarcati101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-102/149",
+            "name": "Kyurem Bianco",
+            "number": "102/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/KyuremBiancoConfiniVarcati102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-103/149",
+            "name": "Kyurem Bianco-EX",
+            "number": "103/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/KyuremBianco-EXConfiniVarcati103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-104/149",
+            "name": "Rattata",
+            "number": "104/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RattataConfiniVarcati104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-105/149",
+            "name": "Raticate",
+            "number": "105/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/RaticateConfiniVarcati105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-106/149",
+            "name": "Meowth",
+            "number": "106/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MeowthConfiniVarcati106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-107/149",
+            "name": "Farfetch'd",
+            "number": "107/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/FarfetchdConfiniVarcati107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-108/149",
+            "name": "Ditto",
+            "number": "108/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/DittoConfiniVarcati108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-109/149",
+            "name": "Snorlax",
+            "number": "109/149",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SnorlaxConfiniVarcati109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-110/149",
+            "name": "Togepi",
+            "number": "110/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/TogepiConfiniVarcati110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-111/149",
+            "name": "Dunsparce",
+            "number": "111/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DunsparceConfiniVarcati111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-112/149",
+            "name": "Taillow",
+            "number": "112/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/TaillowConfiniVarcati112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-113/149",
+            "name": "Skitty",
+            "number": "113/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/SkittyConfiniVarcati113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-114/149",
+            "name": "Delcatty",
+            "number": "114/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DelcattyConfiniVarcati114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-115/149",
+            "name": "Spinda",
+            "number": "115/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/SpindaConfiniVarcati115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-116/149",
+            "name": "Buneary",
+            "number": "116/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/BunearyConfiniVarcati116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-117/149",
+            "name": "Lopunny",
+            "number": "117/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/LopunnyConfiniVarcati117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-118/149",
+            "name": "Patrat",
+            "number": "118/149",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/PatratConfiniVarcati118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-119/149",
+            "name": "Watchog",
+            "number": "119/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/WatchogConfiniVarcati119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-120/149",
+            "name": "Lillipup",
+            "number": "120/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/LillipupConfiniVarcati120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-121/149",
+            "name": "Herdier",
+            "number": "121/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/HerdierConfiniVarcati121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-122/149",
+            "name": "Stoutland",
+            "number": "122/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/StoutlandConfiniVarcati122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-123/149",
+            "name": "Pidove",
+            "number": "123/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/PidoveConfiniVarcati123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-124/149",
+            "name": "Tranquill",
+            "number": "124/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/TranquillConfiniVarcati124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-125/149",
+            "name": "Unfezant",
+            "number": "125/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/UnfezantConfiniVarcati125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-126/149",
+            "name": "Audino",
+            "number": "126/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/AudinoConfiniVarcati126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-127/149",
+            "name": "Palestra di Alisopoli",
+            "number": "127/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/PalestradiAlisopoliConfiniVarcati127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-128/149",
+            "name": "Ricerca di Energia",
+            "number": "128/149",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/RicercadiEnergiaConfiniVarcati128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-129/149",
+            "name": "Mega Ball",
+            "number": "129/149",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MegaBallConfiniVarcati129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-130/149",
+            "name": "Toni",
+            "number": "130/149",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ToniConfiniVarcati130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-131/149",
+            "name": "Poké Ball",
+            "number": "131/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Pok%C3%A9BallConfiniVarcati131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-132/149",
+            "name": "Pozione",
+            "number": "132/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/PozioneConfiniVarcati132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-133/149",
+            "name": "Bitorzolelmo",
+            "number": "133/149",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/BitorzolelmoConfiniVarcati133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-134/149",
+            "name": "Anemone",
+            "number": "134/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/AnemoneConfiniVarcati134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-135/149",
+            "name": "Scambio",
+            "number": "135/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/ScambioConfiniVarcati135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-136/149",
+            "name": "Mappa Città",
+            "number": "136/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MappaCitt%C3%A0ConfiniVarcati136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-137/149",
+            "name": "Ricerca Computerizzata",
+            "number": "137/149",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/RicercaComputerizzataConfiniVarcati137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-138/149",
+            "name": "Lama di Cristallo",
+            "number": "138/149",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/LamadiCristalloConfiniVarcati138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-139/149",
+            "name": "Scudo di Cristallo",
+            "number": "139/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ScudodiCristalloConfiniVarcati139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-140/149",
+            "name": "Pozione d'Oro",
+            "number": "140/149",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/PozionedOroConfiniVarcati140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-141/149",
+            "name": "Celebi-EX",
+            "number": "141/149",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Celebi-EXConfiniVarcati141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-142/149",
+            "name": "Keldeo-EX",
+            "number": "142/149",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Keldeo-EXConfiniVarcati142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-143/149",
+            "name": "Cresselia-EX",
+            "number": "143/149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Cresselia-EXConfiniVarcati143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-144/149",
+            "name": "Landorus-EX",
+            "number": "144/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Landorus-EXConfiniVarcati144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-145/149",
+            "name": "Kyurem Nero-EX",
+            "number": "145/149",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/KyuremNero-EXConfiniVarcati145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-146/149",
+            "name": "Kyurem Bianco-EX",
+            "number": "146/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/KyuremBianco-EXConfiniVarcati146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-147/149",
+            "name": "Belle",
+            "number": "147/149",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/BelleConfiniVarcati147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-148/149",
+            "name": "Komor",
+            "number": "148/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/KomorConfiniVarcati148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-149/149",
+            "name": "Anemone",
+            "number": "149/149",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/AnemoneConfiniVarcati149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BCR-150/149",
+            "name": "Golurk",
+            "number": "150/149",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/GolurkConfiniVarcati150.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BCR-151/149",
+            "name": "Terrakion",
+            "number": "151/149",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/TerrakionConfiniVarcati151.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BCR-152/149",
+            "name": "Altaria",
+            "number": "152/149",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/AltariaConfiniVarcati152.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BCR-153/149",
+            "name": "Bitorzolelmo",
+            "number": "153/149",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/BitorzolelmoConfiniVarcati153.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

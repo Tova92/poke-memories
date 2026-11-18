@@ -1,0 +1,825 @@
+{
+    "expansion": {
+        "id": "FG",
+        "name": "EX RossoFuoco e VerdeFoglia",
+				"year": 2004,
+				"month": 9,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/20/SimboloSetEX_RossoFuoco_%26_VerdeFoglia.png",
+        "cardCount": 116
+    },
+    "cards": [
+        {
+            "id": "FG-1/112",
+            "name": "Beedrill",
+            "number": "1/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/BeedrillEXRossoFuocoeVerdeFoglia1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-2/112",
+            "name": "Butterfree",
+            "number": "2/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ButterfreeEXRossoFuocoeVerdeFoglia2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-3/112",
+            "name": "Dewgong",
+            "number": "3/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/DewgongEXRossoFuocoeVerdeFoglia3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-4/112",
+            "name": "Ditto",
+            "number": "4/112",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/DittoEXRossoFuocoeVerdeFoglia4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-5/112",
+            "name": "Exeggutor",
+            "number": "5/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ExeggutorEXRossoFuocoeVerdeFoglia5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-6/112",
+            "name": "Kangaskhan",
+            "number": "6/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/KangaskhanEXRossoFuocoeVerdeFoglia6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-7/112",
+            "name": "Marowak",
+            "number": "7/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/MarowakEXRossoFuocoeVerdeFoglia7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-8/112",
+            "name": "Nidoking",
+            "number": "8/112",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/NidokingEXRossoFuocoeVerdeFoglia8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-9/112",
+            "name": "Nidoqueen",
+            "number": "9/112",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/NidoqueenEXRossoFuocoeVerdeFoglia9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-10/112",
+            "name": "Pidgeot",
+            "number": "10/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/PidgeotEXRossoFuocoeVerdeFoglia10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-11/112",
+            "name": "Poliwrath",
+            "number": "11/112",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/PoliwrathEXRossoFuocoeVerdeFoglia11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-12/112",
+            "name": "Raichu",
+            "number": "12/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/RaichuEXRossoFuocoeVerdeFoglia12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-13/112",
+            "name": "Rapidash",
+            "number": "13/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/RapidashEXRossoFuocoeVerdeFoglia13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-14/112",
+            "name": "Slowbro",
+            "number": "14/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/SlowbroEXRossoFuocoeVerdeFoglia14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-15/112",
+            "name": "Snorlax",
+            "number": "15/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/SnorlaxEXRossoFuocoeVerdeFoglia15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-16/112",
+            "name": "Tauros",
+            "number": "16/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/TaurosEXRossoFuocoeVerdeFoglia16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-17/112",
+            "name": "Victreebel",
+            "number": "17/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/VictreebelEXRossoFuocoeVerdeFoglia17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-18/112",
+            "name": "Arcanine",
+            "number": "18/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ArcanineEXRossoFuocoeVerdeFoglia18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-19/112",
+            "name": "Chansey",
+            "number": "19/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ChanseyEXRossoFuocoeVerdeFoglia19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-20/112",
+            "name": "Cloyster",
+            "number": "20/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CloysterEXRossoFuocoeVerdeFoglia20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-21/112",
+            "name": "Dodrio",
+            "number": "21/112",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/DodrioEXRossoFuocoeVerdeFoglia21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-22/112",
+            "name": "Dugtrio",
+            "number": "22/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DugtrioEXRossoFuocoeVerdeFoglia22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-23/112",
+            "name": "Farfetch'd",
+            "number": "23/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/FarfetchdEXRossoFuocoeVerdeFoglia23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-24/112",
+            "name": "Fearow",
+            "number": "24/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/FearowEXRossoFuocoeVerdeFoglia24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-25/112",
+            "name": "Hypno",
+            "number": "25/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/HypnoEXRossoFuocoeVerdeFoglia25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-26/112",
+            "name": "Kingler",
+            "number": "26/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/KinglerEXRossoFuocoeVerdeFoglia26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-27/112",
+            "name": "Magneton",
+            "number": "27/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/MagnetonEXRossoFuocoeVerdeFoglia27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-28/112",
+            "name": "Primeape",
+            "number": "28/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/PrimeapeEXRossoFuocoeVerdeFoglia28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-29/112",
+            "name": "Scyther",
+            "number": "29/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/ScytherEXRossoFuocoeVerdeFoglia29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-30/112",
+            "name": "Tangela",
+            "number": "30/112",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/TangelaEXRossoFuocoeVerdeFoglia30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-31/112",
+            "name": "Charmeleon",
+            "number": "31/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/CharmeleonEXRossoFuocoeVerdeFoglia31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-32/112",
+            "name": "Drowzee",
+            "number": "32/112",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/DrowzeeEXRossoFuocoeVerdeFoglia32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-33/112",
+            "name": "Exeggcute",
+            "number": "33/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/ExeggcuteEXRossoFuocoeVerdeFoglia33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-34/112",
+            "name": "Haunter",
+            "number": "34/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/HaunterEXRossoFuocoeVerdeFoglia34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-35/112",
+            "name": "Ivysaur",
+            "number": "35/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/IvysaurEXRossoFuocoeVerdeFoglia35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-36/112",
+            "name": "Kakuna",
+            "number": "36/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/KakunaEXRossoFuocoeVerdeFoglia36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-37/112",
+            "name": "Lickitung",
+            "number": "37/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/LickitungEXRossoFuocoeVerdeFoglia37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-38/112",
+            "name": "Mankey",
+            "number": "38/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MankeyEXRossoFuocoeVerdeFoglia38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-39/112",
+            "name": "Metapod",
+            "number": "39/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/MetapodEXRossoFuocoeVerdeFoglia39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-40/112",
+            "name": "Nidorina",
+            "number": "40/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/NidorinaEXRossoFuocoeVerdeFoglia40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-41/112",
+            "name": "Nidorino",
+            "number": "41/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/NidorinoEXRossoFuocoeVerdeFoglia41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-42/112",
+            "name": "Onix",
+            "number": "42/112",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/OnixEXRossoFuocoeVerdeFoglia42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-43/112",
+            "name": "Parasect",
+            "number": "43/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/ParasectEXRossoFuocoeVerdeFoglia43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-44/112",
+            "name": "Persian",
+            "number": "44/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/PersianEXRossoFuocoeVerdeFoglia44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-45/112",
+            "name": "Pidgeotto",
+            "number": "45/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/PidgeottoEXRossoFuocoeVerdeFoglia45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-46/112",
+            "name": "Poliwhirl",
+            "number": "46/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/PoliwhirlEXRossoFuocoeVerdeFoglia46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-47/112",
+            "name": "Porygon",
+            "number": "47/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/PorygonEXRossoFuocoeVerdeFoglia47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-48/112",
+            "name": "Raticate",
+            "number": "48/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/RaticateEXRossoFuocoeVerdeFoglia48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-49/112",
+            "name": "Venomoth",
+            "number": "49/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/VenomothEXRossoFuocoeVerdeFoglia49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-50/112",
+            "name": "Wartortle",
+            "number": "50/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/WartortleEXRossoFuocoeVerdeFoglia50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-51/112",
+            "name": "Weepinbell",
+            "number": "51/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/WeepinbellEXRossoFuocoeVerdeFoglia51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-52/112",
+            "name": "Wigglytuff",
+            "number": "52/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/WigglytuffEXRossoFuocoeVerdeFoglia52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-53/112",
+            "name": "Bellsprout",
+            "number": "53/112",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/BellsproutEXRossoFuocoeVerdeFoglia53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-54/112",
+            "name": "Bulbasaur",
+            "number": "54/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/BulbasaurEXRossoFuocoeVerdeFoglia54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-55/112",
+            "name": "Bulbasaur",
+            "number": "55/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/BulbasaurEXRossoFuocoeVerdeFoglia55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-56/112",
+            "name": "Caterpie",
+            "number": "56/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CaterpieEXRossoFuocoeVerdeFoglia56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-57/112",
+            "name": "Charmander",
+            "number": "57/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/CharmanderEXRossoFuocoeVerdeFoglia57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-58/112",
+            "name": "Charmander",
+            "number": "58/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CharmanderEXRossoFuocoeVerdeFoglia58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-59/112",
+            "name": "Clefairy",
+            "number": "59/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ClefairyEXRossoFuocoeVerdeFoglia59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-60/112",
+            "name": "Cubone",
+            "number": "60/112",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/CuboneEXRossoFuocoeVerdeFoglia60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-61/112",
+            "name": "Diglett",
+            "number": "61/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/DiglettEXRossoFuocoeVerdeFoglia61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-62/112",
+            "name": "Doduo",
+            "number": "62/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/DoduoEXRossoFuocoeVerdeFoglia62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-63/112",
+            "name": "Gastly",
+            "number": "63/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GastlyEXRossoFuocoeVerdeFoglia63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-64/112",
+            "name": "Growlithe",
+            "number": "64/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/GrowlitheEXRossoFuocoeVerdeFoglia64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-65/112",
+            "name": "Jigglypuff",
+            "number": "65/112",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/JigglypuffEXRossoFuocoeVerdeFoglia65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-66/112",
+            "name": "Krabby",
+            "number": "66/112",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/KrabbyEXRossoFuocoeVerdeFoglia66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-67/112",
+            "name": "Magikarp",
+            "number": "67/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/MagikarpEXRossoFuocoeVerdeFoglia67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-68/112",
+            "name": "Magnemite",
+            "number": "68/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MagnemiteEXRossoFuocoeVerdeFoglia68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-69/112",
+            "name": "Meowth",
+            "number": "69/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/MeowthEXRossoFuocoeVerdeFoglia69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-70/112",
+            "name": "Nidoran♀",
+            "number": "70/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/NidoranEXRossoFuocoeVerdeFoglia70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-71/112",
+            "name": "Nidoran♂",
+            "number": "71/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/NidoranEXRossoFuocoeVerdeFoglia71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-72/112",
+            "name": "Paras",
+            "number": "72/112",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/ParasEXRossoFuocoeVerdeFoglia72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-73/112",
+            "name": "Pidgey",
+            "number": "73/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/PidgeyEXRossoFuocoeVerdeFoglia73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-74/112",
+            "name": "Pikachu",
+            "number": "74/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/PikachuEXRossoFuocoeVerdeFoglia74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-75/112",
+            "name": "Poliwag",
+            "number": "75/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/PoliwagEXRossoFuocoeVerdeFoglia75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-76/112",
+            "name": "Ponyta",
+            "number": "76/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/PonytaEXRossoFuocoeVerdeFoglia76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-77/112",
+            "name": "Rattata",
+            "number": "77/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/RattataEXRossoFuocoeVerdeFoglia77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-78/112",
+            "name": "Seel",
+            "number": "78/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/SeelEXRossoFuocoeVerdeFoglia78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-79/112",
+            "name": "Shellder",
+            "number": "79/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/ShellderEXRossoFuocoeVerdeFoglia79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-80/112",
+            "name": "Slowpoke",
+            "number": "80/112",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SlowpokeEXRossoFuocoeVerdeFoglia80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-81/112",
+            "name": "Spearow",
+            "number": "81/112",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SpearowEXRossoFuocoeVerdeFoglia81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-82/112",
+            "name": "Squirtle",
+            "number": "82/112",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/SquirtleEXRossoFuocoeVerdeFoglia82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-83/112",
+            "name": "Squirtle",
+            "number": "83/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/SquirtleEXRossoFuocoeVerdeFoglia83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-84/112",
+            "name": "Venonat",
+            "number": "84/112",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/VenonatEXRossoFuocoeVerdeFoglia84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-85/112",
+            "name": "Voltorb",
+            "number": "85/112",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/VoltorbEXRossoFuocoeVerdeFoglia85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-86/112",
+            "name": "Weedle",
+            "number": "86/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/WeedleEXRossoFuocoeVerdeFoglia86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-87/112",
+            "name": "Sostegno di Bill",
+            "number": "87/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/SostegnodiBillEXRossoFuocoeVerdeFoglia87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-88/112",
+            "name": "Network di Celio",
+            "number": "88/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/NetworkdiCelioEXRossoFuocoeVerdeFoglia88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-89/112",
+            "name": "Rimozione di Energia 2",
+            "number": "89/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/RimozionediEnergia2EXRossoFuocoeVerdeFoglia89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-90/112",
+            "name": "Scambio di Energia",
+            "number": "90/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ScambiodiEnergiaEXRossoFuocoeVerdeFoglia90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-91/112",
+            "name": "Distribuzione di Esperienza",
+            "number": "91/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/DistribuzionediEsperienzaEXRossoFuocoeVerdeFoglia91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-92/112",
+            "name": "Grande Palla",
+            "number": "92/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/GrandePallaEXRossoFuocoeVerdeFoglia92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-93/112",
+            "name": "Erba Vita",
+            "number": "93/112",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ErbaVitaEXRossoFuocoeVerdeFoglia93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-94/112",
+            "name": "Monte Luna",
+            "number": "94/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MonteLunaEXRossoFuocoeVerdeFoglia94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-95/112",
+            "name": "Poké Ball",
+            "number": "95/112",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Pok%C3%A9BallEXRossoFuocoeVerdeFoglia95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-96/112",
+            "name": "PokéDex HANDY909",
+            "number": "96/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Pok%C3%A9DexHANDY909EXRossoFuocoeVerdeFoglia96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-97/112",
+            "name": "Contropiede Pokémon",
+            "number": "97/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/ContropiedePok%C3%A9monEXRossoFuocoeVerdeFoglia97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-98/112",
+            "name": "La Ricerca del Professor Oak",
+            "number": "98/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/LaRicercadelProfessorOakEXRossoFuocoeVerdeFoglia98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-99/112",
+            "name": "Super Recupero",
+            "number": "99/112",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SuperRecuperoEXRossoFuocoeVerdeFoglia99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-100/112",
+            "name": "Cercasfide",
+            "number": "100/112",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/CercasfideEXRossoFuocoeVerdeFoglia100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-101/112",
+            "name": "Pozione Magica",
+            "number": "101/112",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PozioneMagicaEXRossoFuocoeVerdeFoglia101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-102/112",
+            "name": "Scambio",
+            "number": "102/112",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ScambioEXRossoFuocoeVerdeFoglia102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-103/112",
+            "name": "Multienergia",
+            "number": "103/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/MultienergiaEXRossoFuocoeVerdeFoglia103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-104/112",
+            "name": "Blastoise ex",
+            "number": "104/112",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/BlastoiseexEXRossoFuocoeVerdeFoglia104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-105/112",
+            "name": "Charizard ex",
+            "number": "105/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/CharizardexEXRossoFuocoeVerdeFoglia105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-106/112",
+            "name": "Clefable ex",
+            "number": "106/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ClefableexEXRossoFuocoeVerdeFoglia106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-107/112",
+            "name": "Electrode ex",
+            "number": "107/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ElectrodeexEXRossoFuocoeVerdeFoglia107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-108/112",
+            "name": "Gengar ex",
+            "number": "108/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/GengarexEXRossoFuocoeVerdeFoglia108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-109/112",
+            "name": "Gyarados ex",
+            "number": "109/112",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/GyaradosexEXRossoFuocoeVerdeFoglia109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-110/112",
+            "name": "Mr. Mime ex",
+            "number": "110/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MrMimeexEXRossoFuocoeVerdeFoglia110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-111/112",
+            "name": "Mr. Mime ex",
+            "number": "111/112",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MrMimeexEXRossoFuocoeVerdeFoglia111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-112/112",
+            "name": "Venusaur ex",
+            "number": "112/112",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/VenusaurexEXRossoFuocoeVerdeFoglia112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FG-113/112",
+            "name": "Charmander",
+            "number": "113/112",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/CharmanderEXRossoFuocoeVerdeFoglia113.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FG-114/112",
+            "name": "Articuno ex",
+            "number": "114/112",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ArticunoexEXRossoFuocoeVerdeFoglia114.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FG-115/112",
+            "name": "Moltres ex",
+            "number": "115/112",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/MoltresexEXRossoFuocoeVerdeFoglia115.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FG-116/112",
+            "name": "Zapdos ex",
+            "number": "116/112",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ZapdosexEXRossoFuocoeVerdeFoglia116.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

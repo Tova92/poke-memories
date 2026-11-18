@@ -1,0 +1,713 @@
+{
+    "expansion": {
+        "id": "CG",
+        "name": "EX Guardiani dei Cristalli",
+				"year": 2006,
+				"month": 8,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/8/8f/SimboloSetEX_Guardiani_dei_Cristalli.png",
+        "cardCount": 100
+    },
+    "cards": [
+        {
+            "id": "CG-1/100",
+            "name": "Banette",
+            "number": "1/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/BanetteEXGuardianideiCristalli1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-2/100",
+            "name": "Blastoise δ",
+            "number": "2/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/BlastoiseEXGuardianideiCristalli2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-3/100",
+            "name": "Camerupt",
+            "number": "3/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/CameruptEXGuardianideiCristalli3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-4/100",
+            "name": "Charizard δ",
+            "number": "4/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/CharizardEXGuardianideiCristalli4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-5/100",
+            "name": "Dugtrio",
+            "number": "5/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/DugtrioEXGuardianideiCristalli5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-6/100",
+            "name": "Ludicolo δ",
+            "number": "6/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LudicoloEXGuardianideiCristalli6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-7/100",
+            "name": "Luvdisc",
+            "number": "7/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/LuvdiscEXGuardianideiCristalli7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-8/100",
+            "name": "Manectric",
+            "number": "8/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ManectricEXGuardianideiCristalli8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-9/100",
+            "name": "Mawile",
+            "number": "9/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/MawileEXGuardianideiCristalli9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-10/100",
+            "name": "Sableye",
+            "number": "10/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SableyeEXGuardianideiCristalli10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-11/100",
+            "name": "Swalot",
+            "number": "11/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/SwalotEXGuardianideiCristalli11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-12/100",
+            "name": "Tauros",
+            "number": "12/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/TaurosEXGuardianideiCristalli12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-13/100",
+            "name": "Wigglytuff",
+            "number": "13/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/WigglytuffEXGuardianideiCristalli13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-14/100",
+            "name": "Blastoise",
+            "number": "14/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/BlastoiseEXGuardianideiCristalli14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-15/100",
+            "name": "Cacturne δ",
+            "number": "15/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/CacturneEXGuardianideiCristalli15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-16/100",
+            "name": "Combusken",
+            "number": "16/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/CombuskenEXGuardianideiCristalli16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-17/100",
+            "name": "Dusclops",
+            "number": "17/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/DusclopsEXGuardianideiCristalli17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-18/100",
+            "name": "Fearow δ",
+            "number": "18/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/FearowEXGuardianideiCristalli18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-19/100",
+            "name": "Grovyle δ",
+            "number": "19/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/GrovyleEXGuardianideiCristalli19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-20/100",
+            "name": "Grumpig",
+            "number": "20/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/GrumpigEXGuardianideiCristalli20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-21/100",
+            "name": "Igglybuff",
+            "number": "21/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/IgglybuffEXGuardianideiCristalli21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-22/100",
+            "name": "Kingler δ",
+            "number": "22/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/KinglerEXGuardianideiCristalli22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-23/100",
+            "name": "Loudred",
+            "number": "23/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/LoudredEXGuardianideiCristalli23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-24/100",
+            "name": "Marshtomp",
+            "number": "24/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MarshtompEXGuardianideiCristalli24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-25/100",
+            "name": "Medicham",
+            "number": "25/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/MedichamEXGuardianideiCristalli25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-26/100",
+            "name": "Pelipper δ",
+            "number": "26/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/PelipperEXGuardianideiCristalli26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-27/100",
+            "name": "Swampert",
+            "number": "27/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SwampertEXGuardianideiCristalli27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-28/100",
+            "name": "Venusaur",
+            "number": "28/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/VenusaurEXGuardianideiCristalli28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-29/100",
+            "name": "Charmeleon",
+            "number": "29/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/CharmeleonEXGuardianideiCristalli29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-30/100",
+            "name": "Charmeleon δ",
+            "number": "30/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/CharmeleonEXGuardianideiCristalli30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-31/100",
+            "name": "Combusken",
+            "number": "31/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/CombuskenEXGuardianideiCristalli31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-32/100",
+            "name": "Grovyle",
+            "number": "32/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/GrovyleEXGuardianideiCristalli32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-33/100",
+            "name": "Gulpin",
+            "number": "33/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/GulpinEXGuardianideiCristalli33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-34/100",
+            "name": "Ivysaur",
+            "number": "34/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/IvysaurEXGuardianideiCristalli34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-35/100",
+            "name": "Ivysaur",
+            "number": "35/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/IvysaurEXGuardianideiCristalli35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-36/100",
+            "name": "Lairon",
+            "number": "36/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/LaironEXGuardianideiCristalli36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-37/100",
+            "name": "Lombre",
+            "number": "37/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LombreEXGuardianideiCristalli37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-38/100",
+            "name": "Marshtomp",
+            "number": "38/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/MarshtompEXGuardianideiCristalli38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-39/100",
+            "name": "Nuzleaf",
+            "number": "39/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/NuzleafEXGuardianideiCristalli39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-40/100",
+            "name": "Shuppet",
+            "number": "40/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ShuppetEXGuardianideiCristalli40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-41/100",
+            "name": "Skitty",
+            "number": "41/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/SkittyEXGuardianideiCristalli41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-42/100",
+            "name": "Wartortle",
+            "number": "42/100",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/WartortleEXGuardianideiCristalli42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-43/100",
+            "name": "Wartortle",
+            "number": "43/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/WartortleEXGuardianideiCristalli43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-44/100",
+            "name": "Aron",
+            "number": "44/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/AronEXGuardianideiCristalli44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-45/100",
+            "name": "Bulbasaur",
+            "number": "45/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/BulbasaurEXGuardianideiCristalli45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-46/100",
+            "name": "Bulbasaur",
+            "number": "46/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/BulbasaurEXGuardianideiCristalli46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-47/100",
+            "name": "Cacnea",
+            "number": "47/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/CacneaEXGuardianideiCristalli47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-48/100",
+            "name": "Charmander",
+            "number": "48/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/CharmanderEXGuardianideiCristalli48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-49/100",
+            "name": "Charmander δ",
+            "number": "49/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/CharmanderEXGuardianideiCristalli49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-50/100",
+            "name": "Diglett",
+            "number": "50/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/DiglettEXGuardianideiCristalli50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-51/100",
+            "name": "Duskull",
+            "number": "51/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/DuskullEXGuardianideiCristalli51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-52/100",
+            "name": "Electrike",
+            "number": "52/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/ElectrikeEXGuardianideiCristalli52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-53/100",
+            "name": "Jigglypuff",
+            "number": "53/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/JigglypuffEXGuardianideiCristalli53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-54/100",
+            "name": "Krabby",
+            "number": "54/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/KrabbyEXGuardianideiCristalli54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-55/100",
+            "name": "Lotad",
+            "number": "55/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/LotadEXGuardianideiCristalli55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-56/100",
+            "name": "Meditite",
+            "number": "56/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MedititeEXGuardianideiCristalli56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-57/100",
+            "name": "Mudkip",
+            "number": "57/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/MudkipEXGuardianideiCristalli57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-58/100",
+            "name": "Mudkip",
+            "number": "58/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/MudkipEXGuardianideiCristalli58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-59/100",
+            "name": "Numel",
+            "number": "59/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/NumelEXGuardianideiCristalli59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-60/100",
+            "name": "Seedot",
+            "number": "60/100",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SeedotEXGuardianideiCristalli60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-61/100",
+            "name": "Spearow",
+            "number": "61/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/SpearowEXGuardianideiCristalli61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-62/100",
+            "name": "Spoink",
+            "number": "62/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/SpoinkEXGuardianideiCristalli62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-63/100",
+            "name": "Squirtle",
+            "number": "63/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/SquirtleEXGuardianideiCristalli63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-64/100",
+            "name": "Squirtle",
+            "number": "64/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SquirtleEXGuardianideiCristalli64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-65/100",
+            "name": "Torchic",
+            "number": "65/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/TorchicEXGuardianideiCristalli65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-66/100",
+            "name": "Torchic",
+            "number": "66/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/TorchicEXGuardianideiCristalli66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-67/100",
+            "name": "Treecko",
+            "number": "67/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/TreeckoEXGuardianideiCristalli67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-68/100",
+            "name": "Treecko δ",
+            "number": "68/100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/TreeckoEXGuardianideiCristalli68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-69/100",
+            "name": "Whismur",
+            "number": "69/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/WhismurEXGuardianideiCristalli69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-70/100",
+            "name": "Wingull",
+            "number": "70/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/WingullEXGuardianideiCristalli70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-71/100",
+            "name": "Sostegno di Bill",
+            "number": "71/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/SostegnodiBillEXGuardianideiCristalli71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-72/100",
+            "name": "Naufrago",
+            "number": "72/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/NaufragoEXGuardianideiCristalli72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-73/100",
+            "name": "Network di Celio",
+            "number": "73/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/NetworkdiCelioEXGuardianideiCristalli73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-74/100",
+            "name": "Cristallo Bloccante",
+            "number": "74/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/CristalloBloccanteEXGuardianideiCristalli74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-75/100",
+            "name": "Spiaggia dei Cristalli",
+            "number": "75/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SpiaggiadeiCristalliEXGuardianideiCristalli75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-76/100",
+            "name": "Frammento Cristallino",
+            "number": "76/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/FrammentoCristallinoEXGuardianideiCristalli76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-77/100",
+            "name": "Doppio Recupero Totale",
+            "number": "77/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DoppioRecuperoTotaleEXGuardianideiCristalli77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-78/100",
+            "name": "Palla Doppia",
+            "number": "78/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/PallaDoppiaEXGuardianideiCristalli78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-79/100",
+            "name": "Cerchio di Holon",
+            "number": "79/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/CerchiodiHolonEXGuardianideiCristalli79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-80/100",
+            "name": "Bacca Memoria",
+            "number": "80/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/BaccaMemoriaEXGuardianideiCristalli80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-81/100",
+            "name": "Frammento Misterioso",
+            "number": "81/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/FrammentoMisteriosoEXGuardianideiCristalli81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-82/100",
+            "name": "Poké Ball",
+            "number": "82/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Pok%C3%A9BallEXGuardianideiCristalli82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-83/100",
+            "name": "PokéNav",
+            "number": "83/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Pok%C3%A9NavEXGuardianideiCristalli83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-84/100",
+            "name": "Punto di Curvatura",
+            "number": "84/100",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/PuntodiCurvaturaEXGuardianideiCristalli84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-85/100",
+            "name": "Tempesta di Vento",
+            "number": "85/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/TempestadiVentoEXGuardianideiCristalli85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-86/100",
+            "name": "Ricerca di Energia",
+            "number": "86/100",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/RicercadiEnergiaEXGuardianideiCristalli86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-87/100",
+            "name": "Pozione Magica",
+            "number": "87/100",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/PozioneMagicaEXGuardianideiCristalli87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-88/100",
+            "name": "Duplice Energia Arcobaleno",
+            "number": "88/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/DupliceEnergiaArcobalenoEXGuardianideiCristalli88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-89/100",
+            "name": "Aggron ex",
+            "number": "89/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/AggronexEXGuardianideiCristalli89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-90/100",
+            "name": "Blaziken ex",
+            "number": "90/100",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/BlazikenexEXGuardianideiCristalli90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-91/100",
+            "name": "Delcatty ex",
+            "number": "91/100",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/DelcattyexEXGuardianideiCristalli91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-92/100",
+            "name": "Exploud ex",
+            "number": "92/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ExploudexEXGuardianideiCristalli92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-93/100",
+            "name": "Groudon ex",
+            "number": "93/100",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GroudonexEXGuardianideiCristalli93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-94/100",
+            "name": "Jirachi ex",
+            "number": "94/100",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/JirachiexEXGuardianideiCristalli94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-95/100",
+            "name": "Kyogre ex",
+            "number": "95/100",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/KyogreexEXGuardianideiCristalli95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-96/100",
+            "name": "Sceptile ex δ",
+            "number": "96/100",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/SceptileexEXGuardianideiCristalli96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-97/100",
+            "name": "Shiftry ex",
+            "number": "97/100",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/ShiftryexEXGuardianideiCristalli97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-98/100",
+            "name": "Swampert ex",
+            "number": "98/100",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/SwampertexEXGuardianideiCristalli98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-99/100",
+            "name": "Alakazam ☆",
+            "number": "99/100",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/AlakazamEXGuardianideiCristalli99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "CG-100/100",
+            "name": "Celebi ☆",
+            "number": "100/100",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/CelebiEXGuardianideiCristalli100.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

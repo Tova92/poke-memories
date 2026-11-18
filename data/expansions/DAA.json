@@ -1,0 +1,1420 @@
+{
+    "expansion": {
+        "id": "DAA",
+        "name": "Spada e Scudo - Fiamme Oscure",
+        "year": 2020,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetFiamme_Oscure.png",
+        "cardCount": 201
+    },
+    "cards": [
+        {
+            "id": "DAA-001/189",
+            "name": "Butterfree-V",
+            "number": "001/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Butterfree-VFiammeOscure1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-002/189",
+            "name": "Butterfree-VMAX",
+            "number": "002/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Butterfree-VMAXFiammeOscure2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-003/189",
+            "name": "Paras",
+            "number": "003/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/ParasFiammeOscure3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-004/189",
+            "name": "Parasect",
+            "number": "004/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ParasectFiammeOscure4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-005/189",
+            "name": "Carnivine",
+            "number": "005/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/CarnivineFiammeOscure5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-006/189",
+            "name": "Pansage",
+            "number": "006/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/PansageFiammeOscure6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-007/189",
+            "name": "Simisage",
+            "number": "007/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/SimisageFiammeOscure7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-008/189",
+            "name": "Karrablast",
+            "number": "008/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/KarrablastFiammeOscure8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-009/189",
+            "name": "Shelmet",
+            "number": "009/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/ShelmetFiammeOscure9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-010/189",
+            "name": "Accelgor",
+            "number": "010/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/AccelgorFiammeOscure10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-011/189",
+            "name": "Rowlet",
+            "number": "011/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/RowletFiammeOscure11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-012/189",
+            "name": "Dartrix",
+            "number": "012/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/DartrixFiammeOscure12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-013/189",
+            "name": "Decidueye",
+            "number": "013/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/DecidueyeFiammeOscure13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-014/189",
+            "name": "Bounsweet",
+            "number": "014/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/BounsweetFiammeOscure14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-015/189",
+            "name": "Steenee",
+            "number": "015/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/SteeneeFiammeOscure15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-016/189",
+            "name": "Tsareena",
+            "number": "016/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/TsareenaFiammeOscure16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-017/189",
+            "name": "Wimpod",
+            "number": "017/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/WimpodFiammeOscure17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-018/189",
+            "name": "Golisopod",
+            "number": "018/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/GolisopodFiammeOscure18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-019/189",
+            "name": "Charizard-V",
+            "number": "019/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Charizard-VFiammeOscure19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-020/189",
+            "name": "Charizard-VMAX",
+            "number": "020/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Charizard-VMAXFiammeOscure20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-021/189",
+            "name": "Houndoom-V",
+            "number": "021/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Houndoom-VFiammeOscure21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-022/189",
+            "name": "Torchic",
+            "number": "022/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/TorchicFiammeOscure22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-023/189",
+            "name": "Combusken",
+            "number": "023/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/CombuskenFiammeOscure23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-024/189",
+            "name": "Blaziken",
+            "number": "024/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/BlazikenFiammeOscure24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-025/189",
+            "name": "Heatran",
+            "number": "025/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/HeatranFiammeOscure25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-026/189",
+            "name": "Pansear",
+            "number": "026/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PansearFiammeOscure26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-027/189",
+            "name": "Simisear",
+            "number": "027/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SimisearFiammeOscure27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-028/189",
+            "name": "Darmanitan di Galar",
+            "number": "028/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/DarmanitandiGalarFiammeOscure28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-029/189",
+            "name": "Larvesta",
+            "number": "029/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/LarvestaFiammeOscure29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-030/189",
+            "name": "Volcarona",
+            "number": "030/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/VolcaronaFiammeOscure30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-031/189",
+            "name": "Fletchinder",
+            "number": "031/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/FletchinderFiammeOscure31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-032/189",
+            "name": "Talonflame",
+            "number": "032/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TalonflameFiammeOscure32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-033/189",
+            "name": "Centiskorch-V",
+            "number": "033/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Centiskorch-VFiammeOscure33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-034/189",
+            "name": "Centiskorch-VMAX",
+            "number": "034/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Centiskorch-VMAXFiammeOscure34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-035/189",
+            "name": "Mr. Mime di Galar",
+            "number": "035/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/MrMimediGalarFiammeOscure35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-036/189",
+            "name": "Mr. Rime di Galar",
+            "number": "036/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/MrRimediGalarFiammeOscure36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-037/189",
+            "name": "Suicune",
+            "number": "037/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SuicuneFiammeOscure37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-038/189",
+            "name": "Feebas",
+            "number": "038/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/FeebasFiammeOscure38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-039/189",
+            "name": "Milotic",
+            "number": "039/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/MiloticFiammeOscure39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-040/189",
+            "name": "Relicanth",
+            "number": "040/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/RelicanthFiammeOscure40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-041/189",
+            "name": "Panpour",
+            "number": "041/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/PanpourFiammeOscure41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-042/189",
+            "name": "Simipour",
+            "number": "042/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/SimipourFiammeOscure42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-043/189",
+            "name": "Darumaka di Galar",
+            "number": "043/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DarumakadiGalarFiammeOscure43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-044/189",
+            "name": "Darmanitan di Galar",
+            "number": "044/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/DarmanitandiGalarFiammeOscure44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-045/189",
+            "name": "Vanillite",
+            "number": "045/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/VanilliteFiammeOscure45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-046/189",
+            "name": "Vanillish",
+            "number": "046/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/VanillishFiammeOscure46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-047/189",
+            "name": "Vanilluxe",
+            "number": "047/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/VanilluxeFiammeOscure47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-048/189",
+            "name": "Cubchoo",
+            "number": "048/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/CubchooFiammeOscure48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-049/189",
+            "name": "Beartic",
+            "number": "049/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/BearticFiammeOscure49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-050/189",
+            "name": "Wishiwashi",
+            "number": "050/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/WishiwashiFiammeOscure50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-051/189",
+            "name": "Mareanie",
+            "number": "051/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MareanieFiammeOscure51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-052/189",
+            "name": "Toxapex",
+            "number": "052/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ToxapexFiammeOscure52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-053/189",
+            "name": "Dracovish",
+            "number": "053/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/DracovishFiammeOscure53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-054/189",
+            "name": "Arctovish",
+            "number": "054/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/ArctovishFiammeOscure54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-055/189",
+            "name": "Mareep",
+            "number": "055/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/MareepFiammeOscure55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-056/189",
+            "name": "Flaaffy",
+            "number": "056/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/FlaaffyFiammeOscure56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-057/189",
+            "name": "Ampharos",
+            "number": "057/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/AmpharosFiammeOscure57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-058/189",
+            "name": "Electrike",
+            "number": "058/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/ElectrikeFiammeOscure58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-059/189",
+            "name": "Manectric",
+            "number": "059/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/ManectricFiammeOscure59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-060/189",
+            "name": "Vikavolt-V",
+            "number": "060/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Vikavolt-VFiammeOscure60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-061/189",
+            "name": "Tapu Koko",
+            "number": "061/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/TapuKokoFiammeOscure61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-062/189",
+            "name": "Toxel",
+            "number": "062/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ToxelFiammeOscure62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-063/189",
+            "name": "Toxtricity",
+            "number": "063/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/ToxtricityFiammeOscure63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-064/189",
+            "name": "Pincurchin",
+            "number": "064/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PincurchinFiammeOscure64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-065/189",
+            "name": "Dracozolt",
+            "number": "065/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/DracozoltFiammeOscure65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-066/189",
+            "name": "Arctozolt",
+            "number": "066/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/ArctozoltFiammeOscure66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-067/189",
+            "name": "Jigglypuff",
+            "number": "067/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/JigglypuffFiammeOscure67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-068/189",
+            "name": "Wigglytuff",
+            "number": "068/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/WigglytuffFiammeOscure68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-069/189",
+            "name": "Mew-V",
+            "number": "069/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Mew-VFiammeOscure69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-070/189",
+            "name": "Snubbull",
+            "number": "070/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SnubbullFiammeOscure70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-071/189",
+            "name": "Granbull",
+            "number": "071/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/GranbullFiammeOscure71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-072/189",
+            "name": "Lunatone",
+            "number": "072/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/LunatoneFiammeOscure72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-073/189",
+            "name": "Gothita",
+            "number": "073/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/GothitaFiammeOscure73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-074/189",
+            "name": "Gothorita",
+            "number": "074/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/GothoritaFiammeOscure74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-075/189",
+            "name": "Gothitelle",
+            "number": "075/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/GothitelleFiammeOscure75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-076/189",
+            "name": "Golett",
+            "number": "076/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/GolettFiammeOscure76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-077/189",
+            "name": "Golurk",
+            "number": "077/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/GolurkFiammeOscure77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-078/189",
+            "name": "Dedenne",
+            "number": "078/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/DedenneFiammeOscure78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-079/189",
+            "name": "Morelull",
+            "number": "079/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/MorelullFiammeOscure79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-080/189",
+            "name": "Shiinotic",
+            "number": "080/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/ShiinoticFiammeOscure80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-081/189",
+            "name": "Mimikyu",
+            "number": "081/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/MimikyuFiammeOscure81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-082/189",
+            "name": "Sinistea",
+            "number": "082/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SinisteaFiammeOscure82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-083/189",
+            "name": "Polteageist",
+            "number": "083/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PolteageistFiammeOscure83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-084/189",
+            "name": "Diglett",
+            "number": "084/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/DiglettFiammeOscure84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-085/189",
+            "name": "Dugtrio",
+            "number": "085/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/DugtrioFiammeOscure85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-086/189",
+            "name": "Larvitar",
+            "number": "086/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/LarvitarFiammeOscure86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-087/189",
+            "name": "Pupitar",
+            "number": "087/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/PupitarFiammeOscure87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-088/189",
+            "name": "Tyranitar",
+            "number": "088/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/TyranitarFiammeOscure88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-089/189",
+            "name": "Trapinch",
+            "number": "089/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/TrapinchFiammeOscure89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-090/189",
+            "name": "Vibrava",
+            "number": "090/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/VibravaFiammeOscure90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-091/189",
+            "name": "Flygon",
+            "number": "091/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/FlygonFiammeOscure91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-092/189",
+            "name": "Solrock",
+            "number": "092/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SolrockFiammeOscure92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-093/189",
+            "name": "Hippopotas",
+            "number": "093/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/HippopotasFiammeOscure93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-094/189",
+            "name": "Hippowdon",
+            "number": "094/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/HippowdonFiammeOscure94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-095/189",
+            "name": "Rhyperior-V",
+            "number": "095/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/Rhyperior-VFiammeOscure95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-096/189",
+            "name": "Diggersby",
+            "number": "096/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/DiggersbyFiammeOscure96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-097/189",
+            "name": "Passimian",
+            "number": "097/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/PassimianFiammeOscure97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-098/189",
+            "name": "Sirfetch'd di Galar",
+            "number": "098/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/SirfetchddiGalarFiammeOscure98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-099/189",
+            "name": "Slowbro di Galar-V",
+            "number": "099/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SlowbrodiGalar-VFiammeOscure99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-100/189",
+            "name": "Grimer",
+            "number": "100/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/GrimerFiammeOscure100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-101/189",
+            "name": "Muk",
+            "number": "101/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MukFiammeOscure101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-102/189",
+            "name": "Spinarak",
+            "number": "102/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/SpinarakFiammeOscure102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-103/189",
+            "name": "Ariados",
+            "number": "103/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/AriadosFiammeOscure103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-104/189",
+            "name": "Crobat-V",
+            "number": "104/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/Crobat-VFiammeOscure104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-105/189",
+            "name": "Darkrai",
+            "number": "105/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/DarkraiFiammeOscure105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-106/189",
+            "name": "Purrloin",
+            "number": "106/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/PurrloinFiammeOscure106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-107/189",
+            "name": "Liepard",
+            "number": "107/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/LiepardFiammeOscure107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-108/189",
+            "name": "Deino",
+            "number": "108/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/DeinoFiammeOscure108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-109/189",
+            "name": "Zweilous",
+            "number": "109/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/ZweilousFiammeOscure109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-110/189",
+            "name": "Hydreigon",
+            "number": "110/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/HydreigonFiammeOscure110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-111/189",
+            "name": "Hoopa",
+            "number": "111/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/HoopaFiammeOscure111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-112/189",
+            "name": "Nickit",
+            "number": "112/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/NickitFiammeOscure112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-113/189",
+            "name": "Thievul",
+            "number": "113/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/ThievulFiammeOscure113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-114/189",
+            "name": "Grimmsnarl-V",
+            "number": "114/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Grimmsnarl-VFiammeOscure114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-115/189",
+            "name": "Grimmsnarl-VMAX",
+            "number": "115/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Grimmsnarl-VMAXFiammeOscure115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-116/189",
+            "name": "Eternatus-V",
+            "number": "116/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Eternatus-VFiammeOscure116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-117/189",
+            "name": "Eternatus-VMAX",
+            "number": "117/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/Eternatus-VMAXFiammeOscure117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-118/189",
+            "name": "Scizor-V",
+            "number": "118/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Scizor-VFiammeOscure118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-119/189",
+            "name": "Scizor-VMAX",
+            "number": "119/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Scizor-VMAXFiammeOscure119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-120/189",
+            "name": "Skarmory",
+            "number": "120/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SkarmoryFiammeOscure120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-121/189",
+            "name": "Aron",
+            "number": "121/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/AronFiammeOscure121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-122/189",
+            "name": "Lairon",
+            "number": "122/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/LaironFiammeOscure122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-123/189",
+            "name": "Aggron",
+            "number": "123/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/AggronFiammeOscure123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-124/189",
+            "name": "Escavalier",
+            "number": "124/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/EscavalierFiammeOscure124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-125/189",
+            "name": "Klink",
+            "number": "125/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/KlinkFiammeOscure125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-126/189",
+            "name": "Klang",
+            "number": "126/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/KlangFiammeOscure126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-127/189",
+            "name": "Klinklang",
+            "number": "127/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/KlinklangFiammeOscure127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-128/189",
+            "name": "Stunfisk di Galar-V",
+            "number": "128/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/StunfiskdiGalar-VFiammeOscure128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-129/189",
+            "name": "Meltan",
+            "number": "129/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MeltanFiammeOscure129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-130/189",
+            "name": "Melmetal",
+            "number": "130/189",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MelmetalFiammeOscure130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-131/189",
+            "name": "Cufant",
+            "number": "131/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/CufantFiammeOscure131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-132/189",
+            "name": "Copperajah",
+            "number": "132/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/CopperajahFiammeOscure132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-133/189",
+            "name": "Kangaskhan",
+            "number": "133/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/KangaskhanFiammeOscure133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-134/189",
+            "name": "Tauros",
+            "number": "134/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/TaurosFiammeOscure134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-135/189",
+            "name": "Sentret",
+            "number": "135/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SentretFiammeOscure135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-136/189",
+            "name": "Furret",
+            "number": "136/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/FurretFiammeOscure136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-137/189",
+            "name": "Dunsparce",
+            "number": "137/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/DunsparceFiammeOscure137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-138/189",
+            "name": "Teddiursa",
+            "number": "138/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/TeddiursaFiammeOscure138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-139/189",
+            "name": "Ursaring",
+            "number": "139/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/UrsaringFiammeOscure139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-140/189",
+            "name": "Lugia",
+            "number": "140/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/LugiaFiammeOscure140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-141/189",
+            "name": "Skitty",
+            "number": "141/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SkittyFiammeOscure141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-142/189",
+            "name": "Delcatty",
+            "number": "142/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DelcattyFiammeOscure142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-143/189",
+            "name": "Salamence-V",
+            "number": "143/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/Salamence-VFiammeOscure143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-144/189",
+            "name": "Salamence-VMAX",
+            "number": "144/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Salamence-VMAXFiammeOscure144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-145/189",
+            "name": "Starly",
+            "number": "145/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/StarlyFiammeOscure145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-146/189",
+            "name": "Staravia",
+            "number": "146/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/StaraviaFiammeOscure146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-147/189",
+            "name": "Staraptor",
+            "number": "147/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/StaraptorFiammeOscure147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-148/189",
+            "name": "Ducklett",
+            "number": "148/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/DucklettFiammeOscure148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-149/189",
+            "name": "Swanna",
+            "number": "149/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SwannaFiammeOscure149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-150/189",
+            "name": "Bunnelby",
+            "number": "150/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/BunnelbyFiammeOscure150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-151/189",
+            "name": "Fletchling",
+            "number": "151/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/FletchlingFiammeOscure151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-152/189",
+            "name": "Skwovet",
+            "number": "152/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/SkwovetFiammeOscure152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-153/189",
+            "name": "Greedent",
+            "number": "153/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/GreedentFiammeOscure153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-154/189",
+            "name": "Rookidee",
+            "number": "154/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/RookideeFiammeOscure154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-155/189",
+            "name": "Corvisquire",
+            "number": "155/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CorvisquireFiammeOscure155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-156/189",
+            "name": "Corviknight",
+            "number": "156/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/CorviknightFiammeOscure156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-157/189",
+            "name": "Parasole Grande",
+            "number": "157/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ParasoleGrandeFiammeOscure157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-158/189",
+            "name": "Fumogeno",
+            "number": "158/189",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/FumogenoFiammeOscure158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-159/189",
+            "name": "Avicoltore",
+            "number": "159/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/AvicoltoreFiammeOscure159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-160/189",
+            "name": "Mantello della Tenacia",
+            "number": "160/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/MantellodellaTenaciaFiammeOscure160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-161/189",
+            "name": "Campanella Familiare",
+            "number": "161/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/CampanellaFamiliareFiammeOscure161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-162/189",
+            "name": "Bosco Brillabirinto",
+            "number": "162/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/BoscoBrillabirintoFiammeOscure162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-163/189",
+            "name": "Kabu",
+            "number": "163/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/KabuFiammeOscure163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-164/189",
+            "name": "Vecchio PC",
+            "number": "164/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/VecchioPCFiammeOscure164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-165/189",
+            "name": "Ginepro",
+            "number": "165/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/GineproFiammeOscure165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-166/189",
+            "name": "Premura dell'Allevapokémon",
+            "number": "166/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/PremuradellAllevapok%C3%A9monFiammeOscure166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-167/189",
+            "name": "Fossile Raro",
+            "number": "167/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/FossileRaroFiammeOscure167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-168/189",
+            "name": "Rose",
+            "number": "168/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/RoseFiammeOscure168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-169/189",
+            "name": "Rose Tower",
+            "number": "169/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/RoseTowerFiammeOscure169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-170/189",
+            "name": "Spikeville",
+            "number": "170/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SpikevilleFiammeOscure170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-171/189",
+            "name": "Guantoni Debolezza",
+            "number": "171/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/GuantoniDebolezzaFiammeOscure171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-172/189",
+            "name": "Distintivo Turbo",
+            "number": "172/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/DistintivoTurboFiammeOscure172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-173/189",
+            "name": "Trombetta Yell",
+            "number": "173/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/TrombettaYellFiammeOscure173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-174/189",
+            "name": "Energia F Calore",
+            "number": "174/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EnergiaFCaloreFiammeOscure174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-175/189",
+            "name": "Energia O Nascosta",
+            "number": "175/189",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/EnergiaONascostaFiammeOscure175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-176/189",
+            "name": "Energia I Potente",
+            "number": "176/189",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/EnergiaIPotenteFiammeOscure176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-177/189",
+            "name": "Butterfree-V",
+            "number": "177/189",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/Butterfree-VFiammeOscure177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-178/189",
+            "name": "Houndoom-V",
+            "number": "178/189",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Houndoom-VFiammeOscure178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-179/189",
+            "name": "Centiskorch-V",
+            "number": "179/189",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Centiskorch-VFiammeOscure179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-180/189",
+            "name": "Vikavolt-V",
+            "number": "180/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Vikavolt-VFiammeOscure180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-181/189",
+            "name": "Rhyperior-V",
+            "number": "181/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Rhyperior-VFiammeOscure181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-182/189",
+            "name": "Crobat-V",
+            "number": "182/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Crobat-VFiammeOscure182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-183/189",
+            "name": "Scizor-V",
+            "number": "183/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/Scizor-VFiammeOscure183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-184/189",
+            "name": "Stunfisk di Galar-V",
+            "number": "184/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/StunfiskdiGalar-VFiammeOscure184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-185/189",
+            "name": "Salamence-V",
+            "number": "185/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Salamence-VFiammeOscure185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-186/189",
+            "name": "Kabu",
+            "number": "186/189",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/KabuFiammeOscure186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-187/189",
+            "name": "Ginepro",
+            "number": "187/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/GineproFiammeOscure187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-188/189",
+            "name": "Premura dell'Allevapokémon",
+            "number": "188/189",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/PremuradellAllevapok%C3%A9monFiammeOscure188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-189/189",
+            "name": "Rose",
+            "number": "189/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/RoseFiammeOscure189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DAA-190/189",
+            "name": "Butterfree-VMAX",
+            "number": "190/189",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Butterfree-VMAXFiammeOscure190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-191/189",
+            "name": "Centiskorch-VMAX",
+            "number": "191/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Centiskorch-VMAXFiammeOscure191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-192/189",
+            "name": "Eternatus-VMAX",
+            "number": "192/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Eternatus-VMAXFiammeOscure192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-193/189",
+            "name": "Scizor-VMAX",
+            "number": "193/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Scizor-VMAXFiammeOscure193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-194/189",
+            "name": "Salamence-VMAX",
+            "number": "194/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Salamence-VMAXFiammeOscure194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-195/189",
+            "name": "Premura dell'Allevapokémon",
+            "number": "195/189",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/PremuradellAllevapok%C3%A9monFiammeOscure195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-196/189",
+            "name": "Rose",
+            "number": "196/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/RoseFiammeOscure196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-197/189",
+            "name": "Rillaboom",
+            "number": "197/189",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/RillaboomFiammeOscure197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-198/189",
+            "name": "Coalossal",
+            "number": "198/189",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CoalossalFiammeOscure198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-199/189",
+            "name": "Parasole Grande",
+            "number": "199/189",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ParasoleGrandeFiammeOscure199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-200/189",
+            "name": "Distintivo Turbo",
+            "number": "200/189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/DistintivoTurboFiammeOscure200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DAA-201/189",
+            "name": "Energia Cattura",
+            "number": "201/189",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/EnergiaCatturaFiammeOscure201.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

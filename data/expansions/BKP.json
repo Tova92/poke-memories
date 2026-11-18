@@ -1,0 +1,896 @@
+{
+    "expansion": {
+        "id": "BKP",
+        "name": "XY - Turbocrash",
+        "year": 2016,
+        "month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/f/fa/SimboloSetTurbocrash.png",
+        "cardCount": 123,
+				"yellowAAlternateCardCount": 3
+    },
+    "cards": [
+        {
+            "id": "BKP-1/122",
+            "name": "Chikorita",
+            "number": "1/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ChikoritaTurbocrash1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-2/122",
+            "name": "Bayleef",
+            "number": "2/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/BayleefTurbocrash2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-3/122",
+            "name": "Meganium",
+            "number": "3/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/MeganiumTurbocrash3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-4/122",
+            "name": "Seedot",
+            "number": "4/122",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/SeedotTurbocrash4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-5/122",
+            "name": "Kricketot",
+            "number": "5/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/KricketotTurbocrash5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-6/122",
+            "name": "Kricketune",
+            "number": "6/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/KricketuneTurbocrash6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-7/122",
+            "name": "Petilil",
+            "number": "7/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/PetililTurbocrash7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-8/122",
+            "name": "Lilligant",
+            "number": "8/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/LilligantTurbocrash8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-9/122",
+            "name": "Durant",
+            "number": "9/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DurantTurbocrash9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-10/122",
+            "name": "Growlithe",
+            "number": "10/122",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/GrowlitheTurbocrash10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-11/122",
+            "name": "Arcanine",
+            "number": "11/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/ArcanineTurbocrash11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-12/122",
+            "name": "Numel",
+            "number": "12/122",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/NumelTurbocrash12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-13/122",
+            "name": "Camerupt",
+            "number": "13/122",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/CameruptTurbocrash13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-14/122",
+            "name": "Emboar-EX",
+            "number": "14/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Emboar-EXTurbocrash14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-15/122",
+            "name": "Heatmor",
+            "number": "15/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/HeatmorTurbocrash15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-16/122",
+            "name": "Psyduck",
+            "number": "16/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/PsyduckTurbocrash16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-17/122",
+            "name": "Golduck",
+            "number": "17/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/GolduckTurbocrash17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-18/122",
+            "name": "Golduck TURBO",
+            "number": "18/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/GolduckTURBOTurbocrash18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-19/122",
+            "name": "Slowpoke",
+            "number": "19/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SlowpokeTurbocrash19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-20/122",
+            "name": "Slowbro",
+            "number": "20/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/SlowbroTurbocrash20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-21/122",
+            "name": "Slowking",
+            "number": "21/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SlowkingTurbocrash21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-22/122",
+            "name": "Shellder",
+            "number": "22/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/ShellderTurbocrash22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-23/122",
+            "name": "Shellder",
+            "number": "23/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/ShellderTurbocrash23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-24/122",
+            "name": "Cloyster",
+            "number": "24/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/CloysterTurbocrash24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-25/122",
+            "name": "Staryu",
+            "number": "25/122",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/StaryuTurbocrash25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-26/122",
+            "name": "Gyarados-EX",
+            "number": "26/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Gyarados-EXTurbocrash26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-27/122",
+            "name": "M Gyarados-EX",
+            "number": "27/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/MGyarados-EXTurbocrash27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-28/122",
+            "name": "Lapras",
+            "number": "28/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/LaprasTurbocrash28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-29/122",
+            "name": "Corsola",
+            "number": "29/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/CorsolaTurbocrash29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-30/122",
+            "name": "Suicune",
+            "number": "30/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/SuicuneTurbocrash30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-31/122",
+            "name": "Palkia-EX",
+            "number": "31/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/Palkia-EXTurbocrash31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-32/122",
+            "name": "Manaphy-EX",
+            "number": "32/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Manaphy-EXTurbocrash32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-33/122",
+            "name": "Tympole",
+            "number": "33/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/TympoleTurbocrash33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-34/122",
+            "name": "Palpitoad",
+            "number": "34/122",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/PalpitoadTurbocrash34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-35/122",
+            "name": "Seismitoad",
+            "number": "35/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/SeismitoadTurbocrash35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-36/122",
+            "name": "Ducklett",
+            "number": "36/122",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/DucklettTurbocrash36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-37/122",
+            "name": "Swanna",
+            "number": "37/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/SwannaTurbocrash37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-38/122",
+            "name": "Froakie",
+            "number": "38/122",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/FroakieTurbocrash38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-39/122",
+            "name": "Frogadier",
+            "number": "39/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/FrogadierTurbocrash39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-40/122",
+            "name": "Greninja",
+            "number": "40/122",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/GreninjaTurbocrash40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-41/122",
+            "name": "Greninja TURBO",
+            "number": "41/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/GreninjaTURBOTurbocrash41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-42/122",
+            "name": "Electabuzz",
+            "number": "42/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/ElectabuzzTurbocrash42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-43/122",
+            "name": "Electivire",
+            "number": "43/122",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/ElectivireTurbocrash43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-44/122",
+            "name": "Shinx",
+            "number": "44/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/ShinxTurbocrash44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-45/122",
+            "name": "Luxio",
+            "number": "45/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/LuxioTurbocrash45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-46/122",
+            "name": "Luxray",
+            "number": "46/122",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/LuxrayTurbocrash46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-47/122",
+            "name": "Luxray TURBO",
+            "number": "47/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/LuxrayTURBOTurbocrash47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-48/122",
+            "name": "Blitzle",
+            "number": "48/122",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/BlitzleTurbocrash48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-49/122",
+            "name": "Zebstrika",
+            "number": "49/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ZebstrikaTurbocrash49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-50/122",
+            "name": "Drowzee",
+            "number": "50/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/DrowzeeTurbocrash50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-51/122",
+            "name": "Hypno",
+            "number": "51/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/HypnoTurbocrash51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-52/122",
+            "name": "Espeon-EX",
+            "number": "52/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/Espeon-EXTurbocrash52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-53/122",
+            "name": "Skorupi",
+            "number": "53/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/SkorupiTurbocrash53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-54/122",
+            "name": "Drapion",
+            "number": "54/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/DrapionTurbocrash54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-55/122",
+            "name": "Sigilyph",
+            "number": "55/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/SigilyphTurbocrash55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-56/122",
+            "name": "Trubbish",
+            "number": "56/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/TrubbishTurbocrash56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-57/122",
+            "name": "Garbodor",
+            "number": "57/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/GarbodorTurbocrash57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-58/122",
+            "name": "Espurr",
+            "number": "58/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/EspurrTurbocrash58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-59/122",
+            "name": "Meowstic",
+            "number": "59/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MeowsticTurbocrash59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-60/122",
+            "name": "Honedge",
+            "number": "60/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/HonedgeTurbocrash60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-61/122",
+            "name": "Doublade",
+            "number": "61/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/DoubladeTurbocrash61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-62/122",
+            "name": "Aegislash",
+            "number": "62/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/AegislashTurbocrash62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-63/122",
+            "name": "Skrelp",
+            "number": "63/122",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SkrelpTurbocrash63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-64/122",
+            "name": "Phantump",
+            "number": "64/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PhantumpTurbocrash64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-65/122",
+            "name": "Trevenant",
+            "number": "65/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/TrevenantTurbocrash65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-66/122",
+            "name": "Trevenant TURBO",
+            "number": "66/122",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/TrevenantTURBOTurbocrash66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-67/122",
+            "name": "Sudowoodo",
+            "number": "67/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/SudowoodoTurbocrash67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-68/122",
+            "name": "Gible",
+            "number": "68/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/GibleTurbocrash68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-69/122",
+            "name": "Gabite",
+            "number": "69/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/GabiteTurbocrash69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-70/122",
+            "name": "Garchomp",
+            "number": "70/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/GarchompTurbocrash70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-71/122",
+            "name": "Pancham",
+            "number": "71/122",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/PanchamTurbocrash71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-72/122",
+            "name": "Nuzleaf",
+            "number": "72/122",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/NuzleafTurbocrash72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-73/122",
+            "name": "Shiftry",
+            "number": "73/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ShiftryTurbocrash73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-74/122",
+            "name": "Darkrai-EX",
+            "number": "74/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Darkrai-EXTurbocrash74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-75/122",
+            "name": "Pangoro",
+            "number": "75/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/PangoroTurbocrash75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-76/122",
+            "name": "Scizor-EX",
+            "number": "76/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Scizor-EXTurbocrash76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-77/122",
+            "name": "M Scizor-EX",
+            "number": "77/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MScizor-EXTurbocrash77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-78/122",
+            "name": "Mawile",
+            "number": "78/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/MawileTurbocrash78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-79/122",
+            "name": "Ferroseed",
+            "number": "79/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/FerroseedTurbocrash79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-80/122",
+            "name": "Ferrothorn",
+            "number": "80/122",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/FerrothornTurbocrash80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-81/122",
+            "name": "Clefairy",
+            "number": "81/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/ClefairyTurbocrash81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-82/122",
+            "name": "Clefable",
+            "number": "82/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/ClefableTurbocrash82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-83/122",
+            "name": "Togekiss-EX",
+            "number": "83/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Togekiss-EXTurbocrash83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-84/122",
+            "name": "Spritzee",
+            "number": "84/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SpritzeeTurbocrash84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-85/122",
+            "name": "Aromatisse",
+            "number": "85/122",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/AromatisseTurbocrash85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-86/122",
+            "name": "Dragalge",
+            "number": "86/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/DragalgeTurbocrash86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-87/122",
+            "name": "Rattata",
+            "number": "87/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/RattataTurbocrash87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-88/122",
+            "name": "Raticate",
+            "number": "88/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/RaticateTurbocrash88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-89/122",
+            "name": "Raticate TURBO",
+            "number": "89/122",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/RaticateTURBOTurbocrash89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-90/122",
+            "name": "Dunsparce",
+            "number": "90/122",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DunsparceTurbocrash90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-91/122",
+            "name": "Stantler",
+            "number": "91/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/StantlerTurbocrash91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-92/122",
+            "name": "Ho-Oh-EX",
+            "number": "92/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Ho-Oh-EXTurbocrash92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-93/122",
+            "name": "Glameow",
+            "number": "93/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/GlameowTurbocrash93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-94/122",
+            "name": "Purugly",
+            "number": "94/122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/PuruglyTurbocrash94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-95/122",
+            "name": "Furfrou",
+            "number": "95/122",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/FurfrouTurbocrash95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-96/122",
+            "name": "Festa Notturna",
+            "number": "96/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/FestaNotturnaTurbocrash96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-97/122",
+            "name": "Palloncino Esplosivo",
+            "number": "97/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/PalloncinoEsplosivoTurbocrash97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-98/122",
+            "name": "Tipaccia",
+            "number": "98/122",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/TipacciaTurbocrash98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-99/122",
+            "name": "Cintura Furialotta",
+            "number": "99/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/CinturaFurialottaTurbocrash99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-100/122",
+            "name": "Mega Ball",
+            "number": "100/122",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MegaBallTurbocrash100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-101/122",
+            "name": "Legame Mentale con Gyarados",
+            "number": "101/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/LegameMentaleconGyaradosTurbocrash101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-102/122",
+            "name": "Elisir Max",
+            "number": "102/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/ElisirMaxTurbocrash102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-103/122",
+            "name": "Pozione Max",
+            "number": "103/122",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/PozioneMaxTurbocrash103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-104/122",
+            "name": "Determinazione di Misty",
+            "number": "104/122",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/DeterminazionediMistyTurbocrash104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-105/122",
+            "name": "Acchiappa-Pokémon",
+            "number": "105/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Acchiappa-Pok%C3%A9monTurbocrash105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-106/122",
+            "name": "Pozione",
+            "number": "106/122",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/PozioneTurbocrash106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-107/122",
+            "name": "Professor Platan",
+            "number": "107/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ProfessorPlatanTurbocrash107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-108/122",
+            "name": "Terzo Occhio del Sensitivo",
+            "number": "108/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/TerzoOcchiodelSensitivoTurbocrash108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-109/122",
+            "name": "Enigma Cronologico",
+            "number": "109/122",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/EnigmaCronologicoTurbocrash109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-110/122",
+            "name": "Valle Inversa",
+            "number": "110/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ValleInversaTurbocrash110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-111/122",
+            "name": "Legame Mentale con Scizor",
+            "number": "111/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/LegameMentaleconScizorTurbocrash111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-112/122",
+            "name": "Tierno",
+            "number": "112/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/TiernoTurbocrash112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-113/122",
+            "name": "Energia Spruzzo",
+            "number": "113/122",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/EnergiaSpruzzoTurbocrash113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-114/122",
+            "name": "Gyarados-EX",
+            "number": "114/122",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Gyarados-EXTurbocrash114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-115/122",
+            "name": "M Gyarados-EX",
+            "number": "115/122",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MGyarados-EXTurbocrash115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-116/122",
+            "name": "Manaphy-EX",
+            "number": "116/122",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Manaphy-EXTurbocrash116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-117/122",
+            "name": "Espeon-EX",
+            "number": "117/122",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/Espeon-EXTurbocrash117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-118/122",
+            "name": "Darkrai-EX",
+            "number": "118/122",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/Darkrai-EXTurbocrash118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-119/122",
+            "name": "Scizor-EX",
+            "number": "119/122",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Scizor-EXTurbocrash119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-120/122",
+            "name": "M Scizor-EX",
+            "number": "120/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MScizor-EXTurbocrash120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-121/122",
+            "name": "Ho-Oh-EX",
+            "number": "121/122",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Ho-Oh-EXTurbocrash121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-122/122",
+            "name": "Anemone",
+            "number": "122/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/AnemoneTurbocrash122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKP-123/122",
+            "name": "Gyarados-EX",
+            "number": "123/122",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Gyarados-EXTurbocrash123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BKP-98a/122",
+            "name": "Tipaccia",
+            "number": "98a/122",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/TipacciaTurbocrash98a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BKP-98b/122",
+            "name": "Tipaccia",
+            "number": "98b/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/TipacciaTurbocrash98b.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "BKP-107a/122",
+            "name": "Professor Platan",
+            "number": "107a/122",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ProfessorPlatanTurbocrash107a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

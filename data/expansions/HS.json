@@ -1,0 +1,881 @@
+{
+    "expansion": {
+        "id": "HS",
+        "name": "HeartGold & SoulSilver",
+				"year": 2010,
+				"month": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/47/SimboloSetHeartGold_%26_SoulSilver.png",
+        "cardCount": 124
+    },
+    "cards": [
+        {
+            "id": "HS-1/123",
+            "name": "Arcanine",
+            "number": "1/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ArcanineHeartGoldeSoulSilver1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-2/123",
+            "name": "Azumarill",
+            "number": "2/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/AzumarillHeartGoldeSoulSilver2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-3/123",
+            "name": "Clefable",
+            "number": "3/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/ClefableHeartGoldeSoulSilver3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-4/123",
+            "name": "Gyarados",
+            "number": "4/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/GyaradosHeartGoldeSoulSilver4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-5/123",
+            "name": "Hitmontop",
+            "number": "5/123",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/HitmontopHeartGoldeSoulSilver5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-6/123",
+            "name": "Jumpluff",
+            "number": "6/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/JumpluffHeartGoldeSoulSilver6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-7/123",
+            "name": "Ninetales",
+            "number": "7/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/NinetalesHeartGoldeSoulSilver7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-8/123",
+            "name": "Noctowl",
+            "number": "8/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/NoctowlHeartGoldeSoulSilver8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-9/123",
+            "name": "Quagsire",
+            "number": "9/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/QuagsireHeartGoldeSoulSilver9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-10/123",
+            "name": "Raichu",
+            "number": "10/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/RaichuHeartGoldeSoulSilver10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-11/123",
+            "name": "Shuckle",
+            "number": "11/123",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/ShuckleHeartGoldeSoulSilver11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-12/123",
+            "name": "Slowking",
+            "number": "12/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/SlowkingHeartGoldeSoulSilver12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-13/123",
+            "name": "Wobbuffet",
+            "number": "13/123",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/WobbuffetHeartGoldeSoulSilver13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-14/123",
+            "name": "Ampharos",
+            "number": "14/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/AmpharosHeartGoldeSoulSilver14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-15/123",
+            "name": "Ariados",
+            "number": "15/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/AriadosHeartGoldeSoulSilver15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-16/123",
+            "name": "Butterfree",
+            "number": "16/123",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/ButterfreeHeartGoldeSoulSilver16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-17/123",
+            "name": "Cleffa",
+            "number": "17/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/CleffaHeartGoldeSoulSilver17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-18/123",
+            "name": "Exeggutor",
+            "number": "18/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ExeggutorHeartGoldeSoulSilver18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-19/123",
+            "name": "Farfetch'd",
+            "number": "19/123",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/FarfetchdHeartGoldeSoulSilver19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-20/123",
+            "name": "Feraligatr",
+            "number": "20/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/FeraligatrHeartGoldeSoulSilver20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-21/123",
+            "name": "Furret",
+            "number": "21/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/FurretHeartGoldeSoulSilver21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-22/123",
+            "name": "Granbull",
+            "number": "22/123",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/GranbullHeartGoldeSoulSilver22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-23/123",
+            "name": "Hypno",
+            "number": "23/123",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/HypnoHeartGoldeSoulSilver23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-24/123",
+            "name": "Lapras",
+            "number": "24/123",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/LaprasHeartGoldeSoulSilver24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-25/123",
+            "name": "Ledian",
+            "number": "25/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/LedianHeartGoldeSoulSilver25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-26/123",
+            "name": "Meganium",
+            "number": "26/123",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MeganiumHeartGoldeSoulSilver26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-27/123",
+            "name": "Persian",
+            "number": "27/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PersianHeartGoldeSoulSilver27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-28/123",
+            "name": "Pichu",
+            "number": "28/123",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/PichuHeartGoldeSoulSilver28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-29/123",
+            "name": "Sandslash",
+            "number": "29/123",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/SandslashHeartGoldeSoulSilver29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-30/123",
+            "name": "Smoochum",
+            "number": "30/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/SmoochumHeartGoldeSoulSilver30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-31/123",
+            "name": "Sunflora",
+            "number": "31/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SunfloraHeartGoldeSoulSilver31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-32/123",
+            "name": "Typhlosion",
+            "number": "32/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/TyphlosionHeartGoldeSoulSilver32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-33/123",
+            "name": "Tyrogue",
+            "number": "33/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/TyrogueHeartGoldeSoulSilver33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-34/123",
+            "name": "Weezing",
+            "number": "34/123",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/WeezingHeartGoldeSoulSilver34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-35/123",
+            "name": "Bayleef",
+            "number": "35/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/BayleefHeartGoldeSoulSilver35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-36/123",
+            "name": "Blissey",
+            "number": "36/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/BlisseyHeartGoldeSoulSilver36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-37/123",
+            "name": "Corsola",
+            "number": "37/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CorsolaHeartGoldeSoulSilver37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-38/123",
+            "name": "Croconaw",
+            "number": "38/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/CroconawHeartGoldeSoulSilver38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-39/123",
+            "name": "Delibird",
+            "number": "39/123",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/DelibirdHeartGoldeSoulSilver39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-40/123",
+            "name": "Donphan",
+            "number": "40/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DonphanHeartGoldeSoulSilver40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-41/123",
+            "name": "Dunsparce",
+            "number": "41/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/DunsparceHeartGoldeSoulSilver41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-42/123",
+            "name": "Flaaffy",
+            "number": "42/123",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/FlaaffyHeartGoldeSoulSilver42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-43/123",
+            "name": "Heracross",
+            "number": "43/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/HeracrossHeartGoldeSoulSilver43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-44/123",
+            "name": "Igglybuff",
+            "number": "44/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/IgglybuffHeartGoldeSoulSilver44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-45/123",
+            "name": "Mantine",
+            "number": "45/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/MantineHeartGoldeSoulSilver45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-46/123",
+            "name": "Metapod",
+            "number": "46/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MetapodHeartGoldeSoulSilver46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-47/123",
+            "name": "Miltank",
+            "number": "47/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/MiltankHeartGoldeSoulSilver47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-48/123",
+            "name": "Parasect",
+            "number": "48/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ParasectHeartGoldeSoulSilver48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-49/123",
+            "name": "Quilava",
+            "number": "49/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/QuilavaHeartGoldeSoulSilver49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-50/123",
+            "name": "Qwilfish",
+            "number": "50/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/QwilfishHeartGoldeSoulSilver50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-51/123",
+            "name": "Skiploom",
+            "number": "51/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SkiploomHeartGoldeSoulSilver51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-52/123",
+            "name": "Slowbro",
+            "number": "52/123",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SlowbroHeartGoldeSoulSilver52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-53/123",
+            "name": "Starmie",
+            "number": "53/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/StarmieHeartGoldeSoulSilver53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-54/123",
+            "name": "Unown",
+            "number": "54/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/UnownHeartGoldeSoulSilver54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-55/123",
+            "name": "Unown",
+            "number": "55/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/UnownHeartGoldeSoulSilver55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-56/123",
+            "name": "Wigglytuff",
+            "number": "56/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/WigglytuffHeartGoldeSoulSilver56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-57/123",
+            "name": "Caterpie",
+            "number": "57/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/CaterpieHeartGoldeSoulSilver57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-58/123",
+            "name": "Chansey",
+            "number": "58/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ChanseyHeartGoldeSoulSilver58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-59/123",
+            "name": "Chikorita",
+            "number": "59/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ChikoritaHeartGoldeSoulSilver59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-60/123",
+            "name": "Clefairy",
+            "number": "60/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ClefairyHeartGoldeSoulSilver60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-61/123",
+            "name": "Cyndaquil",
+            "number": "61/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/CyndaquilHeartGoldeSoulSilver61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-62/123",
+            "name": "Drowzee",
+            "number": "62/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/DrowzeeHeartGoldeSoulSilver62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-63/123",
+            "name": "Exeggcute",
+            "number": "63/123",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/ExeggcuteHeartGoldeSoulSilver63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-64/123",
+            "name": "Girafarig",
+            "number": "64/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/GirafarigHeartGoldeSoulSilver64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-65/123",
+            "name": "Growlithe",
+            "number": "65/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/GrowlitheHeartGoldeSoulSilver65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-66/123",
+            "name": "Hoothoot",
+            "number": "66/123",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/HoothootHeartGoldeSoulSilver66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-67/123",
+            "name": "Hoppip",
+            "number": "67/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/HoppipHeartGoldeSoulSilver67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-68/123",
+            "name": "Jigglypuff",
+            "number": "68/123",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/JigglypuffHeartGoldeSoulSilver68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-69/123",
+            "name": "Jynx",
+            "number": "69/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/JynxHeartGoldeSoulSilver69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-70/123",
+            "name": "Koffing",
+            "number": "70/123",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/KoffingHeartGoldeSoulSilver70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-71/123",
+            "name": "Ledyba",
+            "number": "71/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/LedybaHeartGoldeSoulSilver71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-72/123",
+            "name": "Magikarp",
+            "number": "72/123",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MagikarpHeartGoldeSoulSilver72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-73/123",
+            "name": "Mareep",
+            "number": "73/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MareepHeartGoldeSoulSilver73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-74/123",
+            "name": "Marill",
+            "number": "74/123",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MarillHeartGoldeSoulSilver74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-75/123",
+            "name": "Meowth",
+            "number": "75/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/MeowthHeartGoldeSoulSilver75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-76/123",
+            "name": "Paras",
+            "number": "76/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/ParasHeartGoldeSoulSilver76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-77/123",
+            "name": "Phanpy",
+            "number": "77/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/PhanpyHeartGoldeSoulSilver77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-78/123",
+            "name": "Pikachu",
+            "number": "78/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PikachuHeartGoldeSoulSilver78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-79/123",
+            "name": "Sandshrew",
+            "number": "79/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/SandshrewHeartGoldeSoulSilver79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-80/123",
+            "name": "Sentret",
+            "number": "80/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SentretHeartGoldeSoulSilver80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-81/123",
+            "name": "Slowpoke",
+            "number": "81/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/SlowpokeHeartGoldeSoulSilver81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-82/123",
+            "name": "Snubbull",
+            "number": "82/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/SnubbullHeartGoldeSoulSilver82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-83/123",
+            "name": "Spinarak",
+            "number": "83/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SpinarakHeartGoldeSoulSilver83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-84/123",
+            "name": "Staryu",
+            "number": "84/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/StaryuHeartGoldeSoulSilver84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-85/123",
+            "name": "Sunkern",
+            "number": "85/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/SunkernHeartGoldeSoulSilver85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-86/123",
+            "name": "Totodile",
+            "number": "86/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/TotodileHeartGoldeSoulSilver86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-87/123",
+            "name": "Vulpix",
+            "number": "87/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/VulpixHeartGoldeSoulSilver87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-88/123",
+            "name": "Wooper",
+            "number": "88/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/WooperHeartGoldeSoulSilver88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-89/123",
+            "name": "Bill",
+            "number": "89/123",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/BillHeartGoldeSoulSilver89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-90/123",
+            "name": "Copiona",
+            "number": "90/123",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/CopionaHeartGoldeSoulSilver90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-91/123",
+            "name": "Scambio di Energia",
+            "number": "91/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ScambiodiEnergiaHeartGoldeSoulSilver91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-92/123",
+            "name": "Pescatore",
+            "number": "92/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/PescatoreHeartGoldeSoulSilver92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-93/123",
+            "name": "Recupero Totale",
+            "number": "93/123",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/RecuperoTotaleHeartGoldeSoulSilver93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-94/123",
+            "name": "Latte Mumu",
+            "number": "94/123",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/LatteMumuHeartGoldeSoulSilver94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-95/123",
+            "name": "Poké Ball",
+            "number": "95/123",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/Pok%C3%A9BallHeartGoldeSoulSilver95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-96/123",
+            "name": "Pokégear 3.0",
+            "number": "96/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Pok%C3%A9gear30HeartGoldeSoulSilver96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-97/123",
+            "name": "Collezionista di Pokémon",
+            "number": "97/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/CollezionistadiPok%C3%A9monHeartGoldeSoulSilver97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-98/123",
+            "name": "Comunicazione Pokémon",
+            "number": "98/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ComunicazionePok%C3%A9monHeartGoldeSoulSilver98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-99/123",
+            "name": "Contropiede Pokémon",
+            "number": "99/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/ContropiedePok%C3%A9monHeartGoldeSoulSilver99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-100/123",
+            "name": "Sistema d'Allenamento del Prof. Elm",
+            "number": "100/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/SistemadAllenamentodelProfElmHeartGoldeSoulSilver100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-101/123",
+            "name": "Nuova Teoria del Professor Oak",
+            "number": "101/123",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/NuovaTeoriadelProfessorOakHeartGoldeSoulSilver101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-102/123",
+            "name": "Scambio",
+            "number": "102/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ScambioHeartGoldeSoulSilver102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-103/123",
+            "name": "Energia Incolore Doppia",
+            "number": "103/123",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/EnergiaIncoloreDoppiaHeartGoldeSoulSilver103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-104/123",
+            "name": "Energia Arcobaleno",
+            "number": "104/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/EnergiaArcobalenoHeartGoldeSoulSilver104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-105/123",
+            "name": "Ampharos",
+            "number": "105/123",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/AmpharosHeartGoldeSoulSilver105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-106/123",
+            "name": "Blissey",
+            "number": "106/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BlisseyHeartGoldeSoulSilver106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-107/123",
+            "name": "Donphan",
+            "number": "107/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/DonphanHeartGoldeSoulSilver107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-108/123",
+            "name": "Feraligatr",
+            "number": "108/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/FeraligatrHeartGoldeSoulSilver108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-109/123",
+            "name": "Meganium",
+            "number": "109/123",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/MeganiumHeartGoldeSoulSilver109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-110/123",
+            "name": "Typhlosion",
+            "number": "110/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/TyphlosionHeartGoldeSoulSilver110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-111/123",
+            "name": "Ho-Oh LEGGENDA",
+            "number": "111/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Ho-OhLEGGENDAHeartGoldeSoulSilver111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-112/123",
+            "name": "Ho-Oh LEGGENDA",
+            "number": "112/123",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Ho-OhLEGGENDAHeartGoldeSoulSilver112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-113/123",
+            "name": "Lugia LEGGENDA",
+            "number": "113/123",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/LugiaLEGGENDAHeartGoldeSoulSilver113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-114/123",
+            "name": "Lugia LEGGENDA",
+            "number": "114/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/LugiaLEGGENDAHeartGoldeSoulSilver114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-115/123",
+            "name": "Energia Erba",
+            "number": "115/123",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/EnergiaErbaHeartGoldeSoulSilver115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-116/123",
+            "name": "Energia Fuoco",
+            "number": "116/123",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/EnergiaFuocoHeartGoldeSoulSilver116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-117/123",
+            "name": "Energia Acqua",
+            "number": "117/123",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/EnergiaAcquaHeartGoldeSoulSilver117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-118/123",
+            "name": "Energia Lampo",
+            "number": "118/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/EnergiaLampoHeartGoldeSoulSilver118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-119/123",
+            "name": "Energia Psiche",
+            "number": "119/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/EnergiaPsicheHeartGoldeSoulSilver119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-120/123",
+            "name": "Energia Combattimento",
+            "number": "120/123",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/EnergiaCombattimentoHeartGoldeSoulSilver120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-121/123",
+            "name": "Energia Oscurità",
+            "number": "121/123",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/EnergiaOscurit%C3%A0HeartGoldeSoulSilver121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-122/123",
+            "name": "Energia Metallo",
+            "number": "122/123",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/EnergiaMetalloHeartGoldeSoulSilver122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-123/123",
+            "name": "Gyarados",
+            "number": "123/123",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/GyaradosHeartGoldeSoulSilver123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "HS-UNO",
+            "name": "Litografia d'Alfa",
+            "number": "UNO",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/LitografiadAlfaHeartGoldeSoulSilverUNO.png",
+            "section": "Litografia d'Alfa"
+        }
+    ]
+}

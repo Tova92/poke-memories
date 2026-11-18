@@ -1,0 +1,1918 @@
+{
+    "expansion": {
+        "id": "CEC",
+        "name": "Sole e Luna - Eclissi Cosmica",
+        "year": 2019,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/f/fe/SimboloSetEclissi_Cosmica.png",
+        "cardCount": 271,
+				"yellowAAlternateCardCount": 1
+    },
+    "cards": [
+        {
+            "id": "CEC-1/236",
+            "name": "Venusaur e Snivy-GX",
+            "number": "1/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/VenusaureSnivy-GXEclissiCosmica1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-2/236",
+            "name": "Oddish",
+            "number": "2/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/OddishEclissiCosmica2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-3/236",
+            "name": "Gloom",
+            "number": "3/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/GloomEclissiCosmica3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-4/236",
+            "name": "Vileplume-GX",
+            "number": "4/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Vileplume-GXEclissiCosmica4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-5/236",
+            "name": "Tangela",
+            "number": "5/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/TangelaEclissiCosmica5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-6/236",
+            "name": "Tangrowth",
+            "number": "6/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/TangrowthEclissiCosmica6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-7/236",
+            "name": "Sunkern",
+            "number": "7/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SunkernEclissiCosmica7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-8/236",
+            "name": "Sunflora",
+            "number": "8/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/SunfloraEclissiCosmica8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-9/236",
+            "name": "Heracross",
+            "number": "9/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/HeracrossEclissiCosmica9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-10/236",
+            "name": "Lileep",
+            "number": "10/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LileepEclissiCosmica10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-11/236",
+            "name": "Cradily",
+            "number": "11/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/CradilyEclissiCosmica11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-12/236",
+            "name": "Tropius",
+            "number": "12/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TropiusEclissiCosmica12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-13/236",
+            "name": "Kricketot",
+            "number": "13/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/KricketotEclissiCosmica13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-14/236",
+            "name": "Kricketune",
+            "number": "14/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/KricketuneEclissiCosmica14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-15/236",
+            "name": "Deerling",
+            "number": "15/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/DeerlingEclissiCosmica15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-16/236",
+            "name": "Sawsbuck",
+            "number": "16/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/SawsbuckEclissiCosmica16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-17/236",
+            "name": "Rowlet",
+            "number": "17/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/RowletEclissiCosmica17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-18/236",
+            "name": "Rowlet",
+            "number": "18/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/RowletEclissiCosmica18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-19/236",
+            "name": "Dartrix",
+            "number": "19/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/DartrixEclissiCosmica19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-20/236",
+            "name": "Decidueye",
+            "number": "20/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/DecidueyeEclissiCosmica20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-21/236",
+            "name": "Buzzwole",
+            "number": "21/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/BuzzwoleEclissiCosmica21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-22/236",
+            "name": "Charizard e Braixen-GX",
+            "number": "22/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CharizardeBraixen-GXEclissiCosmica22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-23/236",
+            "name": "Ponyta",
+            "number": "23/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/PonytaEclissiCosmica23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-24/236",
+            "name": "Rapidash",
+            "number": "24/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/RapidashEclissiCosmica24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-25/236",
+            "name": "Flareon",
+            "number": "25/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/FlareonEclissiCosmica25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-26/236",
+            "name": "Slugma",
+            "number": "26/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SlugmaEclissiCosmica26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-27/236",
+            "name": "Magcargo",
+            "number": "27/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MagcargoEclissiCosmica27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-28/236",
+            "name": "Entei",
+            "number": "28/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/EnteiEclissiCosmica28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-29/236",
+            "name": "Torkoal",
+            "number": "29/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/TorkoalEclissiCosmica29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-30/236",
+            "name": "Victini",
+            "number": "30/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/VictiniEclissiCosmica30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-31/236",
+            "name": "Tepig",
+            "number": "31/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/TepigEclissiCosmica31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-32/236",
+            "name": "Pignite",
+            "number": "32/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/PigniteEclissiCosmica32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-33/236",
+            "name": "Emboar",
+            "number": "33/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/EmboarEclissiCosmica33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-34/236",
+            "name": "Larvesta",
+            "number": "34/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/LarvestaEclissiCosmica34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-35/236",
+            "name": "Volcarona-GX",
+            "number": "35/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Volcarona-GXEclissiCosmica35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-36/236",
+            "name": "Litleo",
+            "number": "36/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/LitleoEclissiCosmica36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-37/236",
+            "name": "Pyroar",
+            "number": "37/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/PyroarEclissiCosmica37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-38/236",
+            "name": "Blastoise e Piplup-GX",
+            "number": "38/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/BlastoiseePiplup-GXEclissiCosmica38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-39/236",
+            "name": "Vulpix di Alola",
+            "number": "39/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/VulpixdiAlolaEclissiCosmica39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-40/236",
+            "name": "Psyduck",
+            "number": "40/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/PsyduckEclissiCosmica40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-41/236",
+            "name": "Golduck",
+            "number": "41/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/GolduckEclissiCosmica41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-42/236",
+            "name": "Vaporeon",
+            "number": "42/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/VaporeonEclissiCosmica42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-43/236",
+            "name": "Sneasel",
+            "number": "43/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/SneaselEclissiCosmica43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-44/236",
+            "name": "Weavile",
+            "number": "44/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/WeavileEclissiCosmica44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-45/236",
+            "name": "Wailmer",
+            "number": "45/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/WailmerEclissiCosmica45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-46/236",
+            "name": "Wailord",
+            "number": "46/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/WailordEclissiCosmica46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-47/236",
+            "name": "Snorunt",
+            "number": "47/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SnoruntEclissiCosmica47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-48/236",
+            "name": "Glalie",
+            "number": "48/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/GlalieEclissiCosmica48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-49/236",
+            "name": "Spheal",
+            "number": "49/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/SphealEclissiCosmica49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-50/236",
+            "name": "Spheal",
+            "number": "50/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SphealEclissiCosmica50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-51/236",
+            "name": "Sealeo",
+            "number": "51/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/SealeoEclissiCosmica51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-52/236",
+            "name": "Walrein",
+            "number": "52/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/WalreinEclissiCosmica52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-53/236",
+            "name": "Kyogre",
+            "number": "53/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/KyogreEclissiCosmica53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-54/236",
+            "name": "Piplup",
+            "number": "54/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PiplupEclissiCosmica54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-55/236",
+            "name": "Prinplup",
+            "number": "55/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PrinplupEclissiCosmica55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-56/236",
+            "name": "Empoleon",
+            "number": "56/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/EmpoleonEclissiCosmica56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-57/236",
+            "name": "Phione",
+            "number": "57/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/PhioneEclissiCosmica57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-58/236",
+            "name": "Tympole",
+            "number": "58/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/TympoleEclissiCosmica58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-59/236",
+            "name": "Ducklett",
+            "number": "59/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/DucklettEclissiCosmica59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-60/236",
+            "name": "Swanna",
+            "number": "60/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/SwannaEclissiCosmica60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-61/236",
+            "name": "Kyurem Nero",
+            "number": "61/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/KyuremNeroEclissiCosmica61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-62/236",
+            "name": "Wishiwashi",
+            "number": "62/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/WishiwashiEclissiCosmica62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-63/236",
+            "name": "Wishiwashi-GX",
+            "number": "63/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/Wishiwashi-GXEclissiCosmica63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-64/236",
+            "name": "Dewpider",
+            "number": "64/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/DewpiderEclissiCosmica64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-65/236",
+            "name": "Araquanid",
+            "number": "65/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/AraquanidEclissiCosmica65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-66/236",
+            "name": "Pikachu",
+            "number": "66/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/PikachuEclissiCosmica66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-67/236",
+            "name": "Raichu",
+            "number": "67/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/RaichuEclissiCosmica67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-68/236",
+            "name": "Magnemite",
+            "number": "68/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MagnemiteEclissiCosmica68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-69/236",
+            "name": "Magneton",
+            "number": "69/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MagnetonEclissiCosmica69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-70/236",
+            "name": "Jolteon",
+            "number": "70/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/JolteonEclissiCosmica70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-71/236",
+            "name": "Chinchou",
+            "number": "71/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/ChinchouEclissiCosmica71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-72/236",
+            "name": "Lanturn",
+            "number": "72/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LanturnEclissiCosmica72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-73/236",
+            "name": "Togedemaru",
+            "number": "73/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/TogedemaruEclissiCosmica73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-74/236",
+            "name": "Togedemaru",
+            "number": "74/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/TogedemaruEclissiCosmica74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-75/236",
+            "name": "Solgaleo e Lunala-GX",
+            "number": "75/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SolgaleoeLunala-GXEclissiCosmica75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-76/236",
+            "name": "Koffing",
+            "number": "76/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/KoffingEclissiCosmica76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-77/236",
+            "name": "Weezing",
+            "number": "77/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/WeezingEclissiCosmica77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-78/236",
+            "name": "Natu",
+            "number": "78/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/NatuEclissiCosmica78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-79/236",
+            "name": "Xatu",
+            "number": "79/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/XatuEclissiCosmica79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-80/236",
+            "name": "Ralts",
+            "number": "80/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/RaltsEclissiCosmica80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-81/236",
+            "name": "Kirlia",
+            "number": "81/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/KirliaEclissiCosmica81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-82/236",
+            "name": "Gallade",
+            "number": "82/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/GalladeEclissiCosmica82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-83/236",
+            "name": "Duskull",
+            "number": "83/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/DuskullEclissiCosmica83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-84/236",
+            "name": "Dusclops",
+            "number": "84/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DusclopsEclissiCosmica84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-85/236",
+            "name": "Dusknoir",
+            "number": "85/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/DusknoirEclissiCosmica85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-86/236",
+            "name": "Rotom",
+            "number": "86/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/RotomEclissiCosmica86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-87/236",
+            "name": "Woobat",
+            "number": "87/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/WoobatEclissiCosmica87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-88/236",
+            "name": "Swoobat",
+            "number": "88/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SwoobatEclissiCosmica88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-89/236",
+            "name": "Golett",
+            "number": "89/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/GolettEclissiCosmica89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-90/236",
+            "name": "Golurk",
+            "number": "90/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/GolurkEclissiCosmica90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-91/236",
+            "name": "Skrelp",
+            "number": "91/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/SkrelpEclissiCosmica91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-92/236",
+            "name": "Dragalge",
+            "number": "92/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/DragalgeEclissiCosmica92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-93/236",
+            "name": "Phantump",
+            "number": "93/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/PhantumpEclissiCosmica93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-94/236",
+            "name": "Trevenant",
+            "number": "94/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/TrevenantEclissiCosmica94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-95/236",
+            "name": "Oricorio-GX",
+            "number": "95/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Oricorio-GXEclissiCosmica95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-96/236",
+            "name": "Mimikyu",
+            "number": "96/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/MimikyuEclissiCosmica96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-97/236",
+            "name": "Mimikyu",
+            "number": "97/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/MimikyuEclissiCosmica97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-98/236",
+            "name": "Dhelmise",
+            "number": "98/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/DhelmiseEclissiCosmica98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-99/236",
+            "name": "Cosmog",
+            "number": "99/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/CosmogEclissiCosmica99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-100/236",
+            "name": "Cosmog",
+            "number": "100/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/CosmogEclissiCosmica100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-101/236",
+            "name": "Cosmoem",
+            "number": "101/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/CosmoemEclissiCosmica101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-102/236",
+            "name": "Lunala",
+            "number": "102/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/LunalaEclissiCosmica102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-103/236",
+            "name": "Marshadow",
+            "number": "103/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/MarshadowEclissiCosmica103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-104/236",
+            "name": "Blacephalon",
+            "number": "104/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/BlacephalonEclissiCosmica104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-105/236",
+            "name": "Onix",
+            "number": "105/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/OnixEclissiCosmica105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-106/236",
+            "name": "Nosepass",
+            "number": "106/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/NosepassEclissiCosmica106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-107/236",
+            "name": "Trapinch",
+            "number": "107/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/TrapinchEclissiCosmica107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-108/236",
+            "name": "Trapinch",
+            "number": "108/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/TrapinchEclissiCosmica108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-109/236",
+            "name": "Vibrava",
+            "number": "109/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/VibravaEclissiCosmica109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-110/236",
+            "name": "Flygon-GX",
+            "number": "110/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Flygon-GXEclissiCosmica110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-111/236",
+            "name": "Anorith",
+            "number": "111/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/AnorithEclissiCosmica111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-112/236",
+            "name": "Armaldo",
+            "number": "112/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ArmaldoEclissiCosmica112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-113/236",
+            "name": "Groudon",
+            "number": "113/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/GroudonEclissiCosmica113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-114/236",
+            "name": "Drilbur",
+            "number": "114/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DrilburEclissiCosmica114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-115/236",
+            "name": "Excadrill",
+            "number": "115/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ExcadrillEclissiCosmica115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-116/236",
+            "name": "Palpitoad",
+            "number": "116/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/PalpitoadEclissiCosmica116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-117/236",
+            "name": "Seismitoad",
+            "number": "117/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SeismitoadEclissiCosmica117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-118/236",
+            "name": "Throh",
+            "number": "118/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ThrohEclissiCosmica118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-119/236",
+            "name": "Pancham",
+            "number": "119/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/PanchamEclissiCosmica119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-120/236",
+            "name": "Pangoro",
+            "number": "120/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/PangoroEclissiCosmica120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-121/236",
+            "name": "Crabrawler",
+            "number": "121/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/CrabrawlerEclissiCosmica121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-122/236",
+            "name": "Crabominable",
+            "number": "122/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/CrabominableEclissiCosmica122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-123/236",
+            "name": "Rockruff",
+            "number": "123/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RockruffEclissiCosmica123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-124/236",
+            "name": "Lycanroc",
+            "number": "124/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/LycanrocEclissiCosmica124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-125/236",
+            "name": "Passimian",
+            "number": "125/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/PassimianEclissiCosmica125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-126/236",
+            "name": "Sandygast",
+            "number": "126/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/SandygastEclissiCosmica126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-127/236",
+            "name": "Palossand",
+            "number": "127/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/PalossandEclissiCosmica127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-128/236",
+            "name": "Meowth di Alola",
+            "number": "128/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MeowthdiAlolaEclissiCosmica128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-129/236",
+            "name": "Persian di Alola-GX",
+            "number": "129/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PersiandiAlola-GXEclissiCosmica129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-130/236",
+            "name": "Grimer di Alola",
+            "number": "130/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/GrimerdiAlolaEclissiCosmica130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-131/236",
+            "name": "Muk di Alola",
+            "number": "131/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/MukdiAlolaEclissiCosmica131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-132/236",
+            "name": "Carvanha",
+            "number": "132/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/CarvanhaEclissiCosmica132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-133/236",
+            "name": "Absol",
+            "number": "133/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/AbsolEclissiCosmica133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-134/236",
+            "name": "Pawniard",
+            "number": "134/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/PawniardEclissiCosmica134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-135/236",
+            "name": "Bisharp",
+            "number": "135/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/BisharpEclissiCosmica135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-136/236",
+            "name": "Guzzlord",
+            "number": "136/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/GuzzlordEclissiCosmica136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-137/236",
+            "name": "Sandshrew di Alola",
+            "number": "137/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/SandshrewdiAlolaEclissiCosmica137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-138/236",
+            "name": "Sandslash di Alola",
+            "number": "138/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SandslashdiAlolaEclissiCosmica138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-139/236",
+            "name": "Steelix",
+            "number": "139/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SteelixEclissiCosmica139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-140/236",
+            "name": "Mawile",
+            "number": "140/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/MawileEclissiCosmica140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-141/236",
+            "name": "Probopass",
+            "number": "141/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ProbopassEclissiCosmica141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-142/236",
+            "name": "Solgaleo",
+            "number": "142/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SolgaleoEclissiCosmica142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-143/236",
+            "name": "Togepi, Cleffa e Igglybuff-GX",
+            "number": "143/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/TogepiCleffaeIgglybuff-GXEclissiCosmica143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-144/236",
+            "name": "Clefairy",
+            "number": "144/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ClefairyEclissiCosmica144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-145/236",
+            "name": "Ninetales di Alola",
+            "number": "145/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/NinetalesdiAlolaEclissiCosmica145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-146/236",
+            "name": "Azurill",
+            "number": "146/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/AzurillEclissiCosmica146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-147/236",
+            "name": "Cottonee",
+            "number": "147/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/CottoneeEclissiCosmica147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-148/236",
+            "name": "Whimsicott",
+            "number": "148/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/WhimsicottEclissiCosmica148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-149/236",
+            "name": "Flabébé",
+            "number": "149/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/Flab%C3%A9b%C3%A9EclissiCosmica149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-150/236",
+            "name": "Flabébé",
+            "number": "150/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/Flab%C3%A9b%C3%A9EclissiCosmica150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-151/236",
+            "name": "Floette",
+            "number": "151/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/FloetteEclissiCosmica151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-152/236",
+            "name": "Florges",
+            "number": "152/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/FlorgesEclissiCosmica152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-153/236",
+            "name": "Swirlix",
+            "number": "153/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SwirlixEclissiCosmica153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-154/236",
+            "name": "Slurpuff",
+            "number": "154/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/SlurpuffEclissiCosmica154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-155/236",
+            "name": "Sylveon",
+            "number": "155/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/SylveonEclissiCosmica155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-156/236",
+            "name": "Arceus, Dialga e Palkia-GX",
+            "number": "156/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/ArceusDialgaePalkia-GXEclissiCosmica156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-157/236",
+            "name": "Reshiram e Zekrom-GX",
+            "number": "157/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ReshirameZekrom-GXEclissiCosmica157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-158/236",
+            "name": "Naganadel e Guzzlord-GX",
+            "number": "158/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/NaganadeleGuzzlord-GXEclissiCosmica158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-159/236",
+            "name": "Drampa",
+            "number": "159/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/DrampaEclissiCosmica159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-160/236",
+            "name": "Jangmo-o",
+            "number": "160/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/Jangmo-oEclissiCosmica160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-161/236",
+            "name": "Jangmo-o",
+            "number": "161/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Jangmo-oEclissiCosmica161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-162/236",
+            "name": "Hakamo-o",
+            "number": "162/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Hakamo-oEclissiCosmica162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-163/236",
+            "name": "Kommo-o",
+            "number": "163/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Kommo-oEclissiCosmica163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-164/236",
+            "name": "UltraNecrozma",
+            "number": "164/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/UltraNecrozmaEclissiCosmica164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-165/236",
+            "name": "Mega Lopunny e Jigglypuff-GX",
+            "number": "165/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/MegaLopunnyeJigglypuff-GXEclissiCosmica165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-166/236",
+            "name": "Eevee",
+            "number": "166/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/EeveeEclissiCosmica166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-167/236",
+            "name": "Eevee",
+            "number": "167/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EeveeEclissiCosmica167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-168/236",
+            "name": "Igglybuff",
+            "number": "168/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/IgglybuffEclissiCosmica168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-169/236",
+            "name": "Aipom",
+            "number": "169/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/AipomEclissiCosmica169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-170/236",
+            "name": "Ambipom",
+            "number": "170/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/AmbipomEclissiCosmica170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-171/236",
+            "name": "Teddiursa",
+            "number": "171/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/TeddiursaEclissiCosmica171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-172/236",
+            "name": "Ursaring",
+            "number": "172/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/UrsaringEclissiCosmica172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-173/236",
+            "name": "Zangoose",
+            "number": "173/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/ZangooseEclissiCosmica173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-174/236",
+            "name": "Lillipup",
+            "number": "174/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/LillipupEclissiCosmica174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-175/236",
+            "name": "Herdier",
+            "number": "175/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/HerdierEclissiCosmica175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-176/236",
+            "name": "Stoutland",
+            "number": "176/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/StoutlandEclissiCosmica176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-177/236",
+            "name": "Rufflet",
+            "number": "177/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/RuffletEclissiCosmica177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-178/236",
+            "name": "Braviary",
+            "number": "178/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/BraviaryEclissiCosmica178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-179/236",
+            "name": "Helioptile",
+            "number": "179/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/HelioptileEclissiCosmica179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-180/236",
+            "name": "Heliolisk",
+            "number": "180/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/HelioliskEclissiCosmica180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-181/236",
+            "name": "Stufful",
+            "number": "181/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/StuffulEclissiCosmica181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-182/236",
+            "name": "Bewear",
+            "number": "182/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BewearEclissiCosmica182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-183/236",
+            "name": "Tipo Zero",
+            "number": "183/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/TipoZeroEclissiCosmica183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-184/236",
+            "name": "Silvally-GX",
+            "number": "184/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Silvally-GXEclissiCosmica184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-185/236",
+            "name": "Pietra Ultracreatura",
+            "number": "185/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/PietraUltracreaturaEclissiCosmica185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-186/236",
+            "name": "Malicia e Fantasilvestro",
+            "number": "186/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MaliciaeFantasilvestroEclissiCosmica186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-187/236",
+            "name": "Caos Gravitazionale",
+            "number": "187/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/CaosGravitazionaleEclissiCosmica187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-188/236",
+            "name": "Rafan",
+            "number": "188/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/RafanEclissiCosmica188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-189/236",
+            "name": "Camilla e Catlina",
+            "number": "189/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CamillaeCatlinaEclissiCosmica189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-190/236",
+            "name": "Draconium Z: Dragartigli",
+            "number": "190/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DraconiumZDragartigliEclissiCosmica190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-191/236",
+            "name": "Erika",
+            "number": "191/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ErikaEclissiCosmica191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-192/236",
+            "name": "Acchiappa-Pokémon Potenziato",
+            "number": "192/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/Acchiappa-Pok%C3%A9monPotenziatoEclissiCosmica192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-193/236",
+            "name": "Guzman e Hala",
+            "number": "193/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/GuzmaneHalaEclissiCosmica193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-194/236",
+            "name": "Ciondolo del giro delle isole",
+            "number": "194/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/CiondolodelgirodelleisoleEclissiCosmica194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-195/236",
+            "name": "Amo di Suiren",
+            "number": "195/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/AmodiSuirenEclissiCosmica195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-196/236",
+            "name": "Lylia alla Massima Potenza",
+            "number": "196/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/LyliaallaMassimaPotenzaEclissiCosmica196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-197/236",
+            "name": "Poké Bambola di Lylia",
+            "number": "197/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Pok%C3%A9BamboladiLyliaEclissiCosmica197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-198/236",
+            "name": "Ibis e Suiren",
+            "number": "198/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/IbiseSuirenEclissiCosmica198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-199/236",
+            "name": "Misty e Lorelei",
+            "number": "199/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MistyeLoreleiEclissiCosmica199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-200/236",
+            "name": "Grinta di N",
+            "number": "200/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GrintadiNEclissiCosmica200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-201/236",
+            "name": "Allestimento del Professor Oak",
+            "number": "201/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/AllestimentodelProfessorOakEclissiCosmica201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-202/236",
+            "name": "Rosso e Blu",
+            "number": "202/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RossoeBluEclissiCosmica202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-203/236",
+            "name": "Pattinatrice",
+            "number": "203/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/PattinatriceEclissiCosmica203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-204/236",
+            "name": "Rina",
+            "number": "204/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/RinaEclissiCosmica204.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-205/236",
+            "name": "Velia",
+            "number": "205/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/VeliaEclissiCosmica205.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-206/236",
+            "name": "Richiamo Alleati",
+            "number": "206/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/RichiamoAlleatiEclissiCosmica206.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-207/236",
+            "name": "Fossile Sconosciuto",
+            "number": "207/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/FossileSconosciutoEclissiCosmica207.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-208/236",
+            "name": "Pino",
+            "number": "208/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PinoEclissiCosmica208.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-209/236",
+            "name": "Energia Pesca",
+            "number": "209/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/EnergiaPescaEclissiCosmica209.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-210/236",
+            "name": "Venusaur e Snivy-GX",
+            "number": "210/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/VenusaureSnivy-GXEclissiCosmica210.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-211/236",
+            "name": "Vileplume-GX",
+            "number": "211/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Vileplume-GXEclissiCosmica211.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-212/236",
+            "name": "Charizard e Braixen-GX",
+            "number": "212/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/CharizardeBraixen-GXEclissiCosmica212.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-213/236",
+            "name": "Volcarona-GX",
+            "number": "213/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Volcarona-GXEclissiCosmica213.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-214/236",
+            "name": "Blastoise e Piplup-GX",
+            "number": "214/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/BlastoiseePiplup-GXEclissiCosmica214.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-215/236",
+            "name": "Blastoise e Piplup-GX",
+            "number": "215/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/BlastoiseePiplup-GXEclissiCosmica215.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-216/236",
+            "name": "Solgaleo e Lunala-GX",
+            "number": "216/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SolgaleoeLunala-GXEclissiCosmica216.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-217/236",
+            "name": "Oricorio-GX",
+            "number": "217/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/Oricorio-GXEclissiCosmica217.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-218/236",
+            "name": "Flygon-GX",
+            "number": "218/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Flygon-GXEclissiCosmica218.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-219/236",
+            "name": "Persian di Alola-GX",
+            "number": "219/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/PersiandiAlola-GXEclissiCosmica219.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-220/236",
+            "name": "Arceus, Dialga e Palkia-GX",
+            "number": "220/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/ArceusDialgaePalkia-GXEclissiCosmica220.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-221/236",
+            "name": "Arceus, Dialga e Palkia-GX",
+            "number": "221/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/ArceusDialgaePalkia-GXEclissiCosmica221.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-222/236",
+            "name": "Reshiram e Zekrom-GX",
+            "number": "222/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ReshirameZekrom-GXEclissiCosmica222.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-223/236",
+            "name": "Naganadel e Guzzlord-GX",
+            "number": "223/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/NaganadeleGuzzlord-GXEclissiCosmica223.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-224/236",
+            "name": "Naganadel e Guzzlord-GX",
+            "number": "224/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/NaganadeleGuzzlord-GXEclissiCosmica224.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-225/236",
+            "name": "Mega Lopunny e Jigglypuff-GX",
+            "number": "225/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MegaLopunnyeJigglypuff-GXEclissiCosmica225.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-226/236",
+            "name": "Mega Lopunny e Jigglypuff-GX",
+            "number": "226/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/MegaLopunnyeJigglypuff-GXEclissiCosmica226.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-227/236",
+            "name": "Silvally-GX",
+            "number": "227/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Silvally-GXEclissiCosmica227.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-228/236",
+            "name": "Camilla e Catlina",
+            "number": "228/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CamillaeCatlinaEclissiCosmica228.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-229/236",
+            "name": "Guzman e Hala",
+            "number": "229/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/GuzmaneHalaEclissiCosmica229.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-230/236",
+            "name": "Lylia alla Massima Potenza",
+            "number": "230/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/LyliaallaMassimaPotenzaEclissiCosmica230.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-231/236",
+            "name": "Ibis e Suiren",
+            "number": "231/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/IbiseSuirenEclissiCosmica231.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-232/236",
+            "name": "Grinta di N",
+            "number": "232/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/GrintadiNEclissiCosmica232.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-233/236",
+            "name": "Allestimento del Professor Oak",
+            "number": "233/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/AllestimentodelProfessorOakEclissiCosmica233.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-234/236",
+            "name": "Rosso e Blu",
+            "number": "234/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/RossoeBluEclissiCosmica234.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-235/236",
+            "name": "Pattinatrice",
+            "number": "235/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/PattinatriceEclissiCosmica235.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-236/236",
+            "name": "Rina",
+            "number": "236/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/RinaEclissiCosmica236.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CEC-237/236",
+            "name": "Torkoal",
+            "number": "237/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/TorkoalEclissiCosmica237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-238/236",
+            "name": "Weavile",
+            "number": "238/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/WeavileEclissiCosmica238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-239/236",
+            "name": "Piplup",
+            "number": "239/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/PiplupEclissiCosmica239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-240/236",
+            "name": "Wishiwashi",
+            "number": "240/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/WishiwashiEclissiCosmica240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-241/236",
+            "name": "Pikachu",
+            "number": "241/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/PikachuEclissiCosmica241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-242/236",
+            "name": "Magnemite",
+            "number": "242/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/MagnemiteEclissiCosmica242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-243/236",
+            "name": "Koffing",
+            "number": "243/236",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/KoffingEclissiCosmica243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-244/236",
+            "name": "Gallade",
+            "number": "244/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/GalladeEclissiCosmica244.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-245/236",
+            "name": "Mimikyu",
+            "number": "245/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/MimikyuEclissiCosmica245.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-246/236",
+            "name": "Excadrill",
+            "number": "246/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/ExcadrillEclissiCosmica246.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-247/236",
+            "name": "Steelix",
+            "number": "247/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SteelixEclissiCosmica247.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-248/236",
+            "name": "Stoutland",
+            "number": "248/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/StoutlandEclissiCosmica248.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-249/236",
+            "name": "Venusaur e Snivy-GX",
+            "number": "249/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/VenusaureSnivy-GXEclissiCosmica249.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-250/236",
+            "name": "Vileplume-GX",
+            "number": "250/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Vileplume-GXEclissiCosmica250.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-251/236",
+            "name": "Charizard e Braixen-GX",
+            "number": "251/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/CharizardeBraixen-GXEclissiCosmica251.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-252/236",
+            "name": "Volcarona-GX",
+            "number": "252/236",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Volcarona-GXEclissiCosmica252.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-253/236",
+            "name": "Blastoise e Piplup-GX",
+            "number": "253/236",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/BlastoiseePiplup-GXEclissiCosmica253.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-254/236",
+            "name": "Solgaleo e Lunala-GX",
+            "number": "254/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/SolgaleoeLunala-GXEclissiCosmica254.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-255/236",
+            "name": "Oricorio-GX",
+            "number": "255/236",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/Oricorio-GXEclissiCosmica255.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-256/236",
+            "name": "Flygon-GX",
+            "number": "256/236",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Flygon-GXEclissiCosmica256.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-257/236",
+            "name": "Persian di Alola-GX",
+            "number": "257/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PersiandiAlola-GXEclissiCosmica257.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-258/236",
+            "name": "Arceus, Dialga e Palkia-GX",
+            "number": "258/236",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/ArceusDialgaePalkia-GXEclissiCosmica258.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-259/236",
+            "name": "Reshiram e Zekrom-GX",
+            "number": "259/236",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ReshirameZekrom-GXEclissiCosmica259.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-260/236",
+            "name": "Naganadel e Guzzlord-GX",
+            "number": "260/236",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/NaganadeleGuzzlord-GXEclissiCosmica260.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-261/236",
+            "name": "Mega Lopunny e Jigglypuff-GX",
+            "number": "261/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MegaLopunnyeJigglypuff-GXEclissiCosmica261.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-262/236",
+            "name": "Silvally-GX",
+            "number": "262/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/Silvally-GXEclissiCosmica262.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-263/236",
+            "name": "Focolare Gigante",
+            "number": "263/236",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/FocolareGiganteEclissiCosmica263.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-264/236",
+            "name": "Acchiappa-Pokémon Potenziato",
+            "number": "264/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Acchiappa-Pok%C3%A9monPotenziatoEclissiCosmica264.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-265/236",
+            "name": "Ciondolo del giro delle isole",
+            "number": "265/236",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/CiondolodelgirodelleisoleEclissiCosmica265.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-266/236",
+            "name": "Amo di Suiren",
+            "number": "266/236",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/AmodiSuirenEclissiCosmica266.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-267/236",
+            "name": "Poké Bambola di Lylia",
+            "number": "267/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Pok%C3%A9BamboladiLyliaEclissiCosmica267.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-268/236",
+            "name": "Dojo di Arti Marziali",
+            "number": "268/236",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DojodiArtiMarzialiEclissiCosmica268.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-269/236",
+            "name": "Centrale Elettrica",
+            "number": "269/236",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/CentraleElettricaEclissiCosmica269.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-270/236",
+            "name": "Richiamo Alleati",
+            "number": "270/236",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/RichiamoAlleatiEclissiCosmica270.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-271/236",
+            "name": "Energia Pesca",
+            "number": "271/236",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/EnergiaPescaEclissiCosmica271.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CEC-143a/236",
+            "name": "Togepi, Cleffa e Igglybuff-GX",
+            "number": "143a/236",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TogepiCleffaeIgglybuff-GXEclissiCosmica143a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

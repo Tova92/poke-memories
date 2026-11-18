@@ -1,0 +1,1169 @@
+{
+    "expansion": {
+        "id": "BKT",
+        "name": "XY - Turboblitz",
+        "year": 2015,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetTurboblitz.png",
+        "cardCount": 164,
+				"yellowAAlternateCardCount": 1
+    },
+    "cards": [
+        {
+            "id": "BKT-1/162",
+            "name": "Paras",
+            "number": "1/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ParasTurboblitz1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-2/162",
+            "name": "Parasect",
+            "number": "2/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/ParasectTurboblitz2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-3/162",
+            "name": "Pinsir",
+            "number": "3/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PinsirTurboblitz3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-4/162",
+            "name": "Cacnea",
+            "number": "4/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/CacneaTurboblitz4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-5/162",
+            "name": "Pansage",
+            "number": "5/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/PansageTurboblitz5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-6/162",
+            "name": "Simisage",
+            "number": "6/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/SimisageTurboblitz6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-7/162",
+            "name": "Chespin",
+            "number": "7/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/ChespinTurboblitz7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-8/162",
+            "name": "Chespin",
+            "number": "8/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/ChespinTurboblitz8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-9/162",
+            "name": "Chespin",
+            "number": "9/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ChespinTurboblitz9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-10/162",
+            "name": "Quilladin",
+            "number": "10/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/QuilladinTurboblitz10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-11/162",
+            "name": "Chesnaught",
+            "number": "11/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/ChesnaughtTurboblitz11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-12/162",
+            "name": "Chesnaught TURBO",
+            "number": "12/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ChesnaughtTURBOTurboblitz12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-13/162",
+            "name": "Scatterbug",
+            "number": "13/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ScatterbugTurboblitz13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-14/162",
+            "name": "Spewpa",
+            "number": "14/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SpewpaTurboblitz14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-15/162",
+            "name": "Vivillon",
+            "number": "15/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/VivillonTurboblitz15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-16/162",
+            "name": "Skiddo",
+            "number": "16/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SkiddoTurboblitz16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-17/162",
+            "name": "Gogoat",
+            "number": "17/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/GogoatTurboblitz17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-18/162",
+            "name": "Cyndaquil",
+            "number": "18/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/CyndaquilTurboblitz18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-19/162",
+            "name": "Quilava",
+            "number": "19/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/QuilavaTurboblitz19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-20/162",
+            "name": "Typhlosion",
+            "number": "20/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/TyphlosionTurboblitz20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-21/162",
+            "name": "Houndoom-EX",
+            "number": "21/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Houndoom-EXTurboblitz21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-22/162",
+            "name": "M Houndoom-EX",
+            "number": "22/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/MHoundoom-EXTurboblitz22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-23/162",
+            "name": "Pansear",
+            "number": "23/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/PansearTurboblitz23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-24/162",
+            "name": "Simisear",
+            "number": "24/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SimisearTurboblitz24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-25/162",
+            "name": "Fennekin",
+            "number": "25/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/FennekinTurboblitz25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-26/162",
+            "name": "Braixen",
+            "number": "26/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/BraixenTurboblitz26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-27/162",
+            "name": "Goldeen",
+            "number": "27/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/GoldeenTurboblitz27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-28/162",
+            "name": "Seaking",
+            "number": "28/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/SeakingTurboblitz28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-29/162",
+            "name": "Staryu",
+            "number": "29/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/StaryuTurboblitz29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-30/162",
+            "name": "Starmie",
+            "number": "30/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/StarmieTurboblitz30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-31/162",
+            "name": "Remoraid",
+            "number": "31/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/RemoraidTurboblitz31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-32/162",
+            "name": "Remoraid",
+            "number": "32/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/RemoraidTurboblitz32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-33/162",
+            "name": "Octillery",
+            "number": "33/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/OctilleryTurboblitz33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-34/162",
+            "name": "Glalie-EX",
+            "number": "34/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/Glalie-EXTurboblitz34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-35/162",
+            "name": "M Glalie-EX",
+            "number": "35/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/MGlalie-EXTurboblitz35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-36/162",
+            "name": "Piplup",
+            "number": "36/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/PiplupTurboblitz36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-37/162",
+            "name": "Prinplup",
+            "number": "37/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/PrinplupTurboblitz37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-38/162",
+            "name": "Empoleon",
+            "number": "38/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/EmpoleonTurboblitz38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-39/162",
+            "name": "Snover",
+            "number": "39/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/SnoverTurboblitz39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-40/162",
+            "name": "Abomasnow",
+            "number": "40/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/AbomasnowTurboblitz40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-41/162",
+            "name": "Panpour",
+            "number": "41/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/PanpourTurboblitz41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-42/162",
+            "name": "Simipour",
+            "number": "42/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/SimipourTurboblitz42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-43/162",
+            "name": "Vanillite",
+            "number": "43/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/VanilliteTurboblitz43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-44/162",
+            "name": "Vanillish",
+            "number": "44/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/VanillishTurboblitz44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-45/162",
+            "name": "Vanilluxe",
+            "number": "45/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/VanilluxeTurboblitz45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-46/162",
+            "name": "Froakie",
+            "number": "46/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/FroakieTurboblitz46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-47/162",
+            "name": "Frogadier",
+            "number": "47/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/FrogadierTurboblitz47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-48/162",
+            "name": "Pikachu",
+            "number": "48/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/PikachuTurboblitz48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-49/162",
+            "name": "Raichu",
+            "number": "49/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/RaichuTurboblitz49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-50/162",
+            "name": "Raichu TURBO",
+            "number": "50/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/RaichuTURBOTurboblitz50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-51/162",
+            "name": "Magnemite",
+            "number": "51/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MagnemiteTurboblitz51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-52/162",
+            "name": "Magnemite",
+            "number": "52/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MagnemiteTurboblitz52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-53/162",
+            "name": "Magneton",
+            "number": "53/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/MagnetonTurboblitz53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-54/162",
+            "name": "Magnezone",
+            "number": "54/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/MagnezoneTurboblitz54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-55/162",
+            "name": "Raikou",
+            "number": "55/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/RaikouTurboblitz55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-56/162",
+            "name": "Stunfisk",
+            "number": "56/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/StunfiskTurboblitz56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-57/162",
+            "name": "Dedenne",
+            "number": "57/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/DedenneTurboblitz57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-58/162",
+            "name": "Gastly",
+            "number": "58/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/GastlyTurboblitz58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-59/162",
+            "name": "Haunter",
+            "number": "59/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/HaunterTurboblitz59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-60/162",
+            "name": "Gengar",
+            "number": "60/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/GengarTurboblitz60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-61/162",
+            "name": "Mewtwo-EX",
+            "number": "61/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Mewtwo-EXTurboblitz61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-62/162",
+            "name": "Mewtwo-EX",
+            "number": "62/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Mewtwo-EXTurboblitz62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-63/162",
+            "name": "M Mewtwo-EX",
+            "number": "63/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/MMewtwo-EXTurboblitz63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-64/162",
+            "name": "M Mewtwo-EX",
+            "number": "64/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MMewtwo-EXTurboblitz64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-65/162",
+            "name": "Misdreavus",
+            "number": "65/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MisdreavusTurboblitz65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-66/162",
+            "name": "Mismagius",
+            "number": "66/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MismagiusTurboblitz66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-67/162",
+            "name": "Wobbuffet",
+            "number": "67/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/WobbuffetTurboblitz67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-68/162",
+            "name": "Ralts",
+            "number": "68/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/RaltsTurboblitz68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-69/162",
+            "name": "Kirlia",
+            "number": "69/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/KirliaTurboblitz69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-70/162",
+            "name": "Cresselia",
+            "number": "70/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/CresseliaTurboblitz70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-71/162",
+            "name": "Woobat",
+            "number": "71/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/WoobatTurboblitz71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-72/162",
+            "name": "Swoobat",
+            "number": "72/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SwoobatTurboblitz72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-73/162",
+            "name": "Elgyem",
+            "number": "73/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ElgyemTurboblitz73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-74/162",
+            "name": "Beheeyem",
+            "number": "74/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/BeheeyemTurboblitz74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-75/162",
+            "name": "Sandshrew",
+            "number": "75/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SandshrewTurboblitz75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-76/162",
+            "name": "Sandslash",
+            "number": "76/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/SandslashTurboblitz76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-77/162",
+            "name": "Cubone",
+            "number": "77/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CuboneTurboblitz77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-78/162",
+            "name": "Marowak",
+            "number": "78/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MarowakTurboblitz78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-79/162",
+            "name": "Marowak TURBO",
+            "number": "79/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/MarowakTURBOTurboblitz79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-80/162",
+            "name": "Swinub",
+            "number": "80/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/SwinubTurboblitz80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-81/162",
+            "name": "Piloswine",
+            "number": "81/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/PiloswineTurboblitz81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-82/162",
+            "name": "Mamoswine",
+            "number": "82/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MamoswineTurboblitz82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-83/162",
+            "name": "Hippopotas",
+            "number": "83/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/HippopotasTurboblitz83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-84/162",
+            "name": "Gallade",
+            "number": "84/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/GalladeTurboblitz84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-85/162",
+            "name": "Meloetta",
+            "number": "85/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/MeloettaTurboblitz85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-86/162",
+            "name": "Pancham",
+            "number": "86/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/PanchamTurboblitz86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-87/162",
+            "name": "Hawlucha",
+            "number": "87/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/HawluchaTurboblitz87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-88/162",
+            "name": "Cacturne",
+            "number": "88/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CacturneTurboblitz88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-89/162",
+            "name": "Zorua",
+            "number": "89/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/ZoruaTurboblitz89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-90/162",
+            "name": "Zorua",
+            "number": "90/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ZoruaTurboblitz90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-91/162",
+            "name": "Zoroark",
+            "number": "91/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/ZoroarkTurboblitz91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-92/162",
+            "name": "Zoroark TURBO",
+            "number": "92/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/ZoroarkTURBOTurboblitz92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-93/162",
+            "name": "Inkay",
+            "number": "93/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/InkayTurboblitz93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-94/162",
+            "name": "Yveltal",
+            "number": "94/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/YveltalTurboblitz94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-95/162",
+            "name": "Bronzor",
+            "number": "95/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/BronzorTurboblitz95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-96/162",
+            "name": "Bronzong",
+            "number": "96/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/BronzongTurboblitz96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-97/162",
+            "name": "Mr. Mime",
+            "number": "97/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/MrMimeTurboblitz97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-98/162",
+            "name": "Snubbull",
+            "number": "98/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SnubbullTurboblitz98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-99/162",
+            "name": "Granbull",
+            "number": "99/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GranbullTurboblitz99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-100/162",
+            "name": "Ralts",
+            "number": "100/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/RaltsTurboblitz100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-101/162",
+            "name": "Flabébé",
+            "number": "101/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Flab%C3%A9b%C3%A9Turboblitz101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-102/162",
+            "name": "Floette",
+            "number": "102/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/FloetteTurboblitz102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-103/162",
+            "name": "Florges",
+            "number": "103/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/FlorgesTurboblitz103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-104/162",
+            "name": "Florges TURBO",
+            "number": "104/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/FlorgesTURBOTurboblitz104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-105/162",
+            "name": "Spritzee",
+            "number": "105/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/SpritzeeTurboblitz105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-106/162",
+            "name": "Aromatisse",
+            "number": "106/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/AromatisseTurboblitz106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-107/162",
+            "name": "Xerneas",
+            "number": "107/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/XerneasTurboblitz107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-108/162",
+            "name": "Axew",
+            "number": "108/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/AxewTurboblitz108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-109/162",
+            "name": "Axew",
+            "number": "109/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/AxewTurboblitz109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-110/162",
+            "name": "Fraxure",
+            "number": "110/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/FraxureTurboblitz110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-111/162",
+            "name": "Haxorus",
+            "number": "111/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/HaxorusTurboblitz111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-112/162",
+            "name": "Noivern",
+            "number": "112/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/NoivernTurboblitz112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-113/162",
+            "name": "Noivern TURBO",
+            "number": "113/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/NoivernTURBOTurboblitz113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-114/162",
+            "name": "Meowth",
+            "number": "114/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MeowthTurboblitz114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-115/162",
+            "name": "Doduo",
+            "number": "115/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DoduoTurboblitz115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-116/162",
+            "name": "Doduo",
+            "number": "116/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/DoduoTurboblitz116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-117/162",
+            "name": "Dodrio",
+            "number": "117/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DodrioTurboblitz117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-118/162",
+            "name": "Snorlax",
+            "number": "118/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/SnorlaxTurboblitz118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-119/162",
+            "name": "Hoothoot",
+            "number": "119/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/HoothootTurboblitz119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-120/162",
+            "name": "Noctowl",
+            "number": "120/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/NoctowlTurboblitz120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-121/162",
+            "name": "Teddiursa",
+            "number": "121/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/TeddiursaTurboblitz121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-122/162",
+            "name": "Ursaring",
+            "number": "122/162",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/UrsaringTurboblitz122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-123/162",
+            "name": "Smeargle",
+            "number": "123/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/SmeargleTurboblitz123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-124/162",
+            "name": "Swablu",
+            "number": "124/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/SwabluTurboblitz124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-125/162",
+            "name": "Starly",
+            "number": "125/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/StarlyTurboblitz125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-126/162",
+            "name": "Staravia",
+            "number": "126/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/StaraviaTurboblitz126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-127/162",
+            "name": "Staraptor",
+            "number": "127/162",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/StaraptorTurboblitz127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-128/162",
+            "name": "Chatot",
+            "number": "128/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/ChatotTurboblitz128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-129/162",
+            "name": "Rufflet",
+            "number": "129/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/RuffletTurboblitz129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-130/162",
+            "name": "Braviary",
+            "number": "130/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/BraviaryTurboblitz130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-131/162",
+            "name": "Noibat",
+            "number": "131/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/NoibatTurboblitz131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-132/162",
+            "name": "Noibat",
+            "number": "132/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/NoibatTurboblitz132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-133/162",
+            "name": "Corpetto assalto",
+            "number": "133/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/CorpettoassaltoTurboblitz133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-134/162",
+            "name": "Colette",
+            "number": "134/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/ColetteTurboblitz134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-135/162",
+            "name": "Salvamico",
+            "number": "135/162",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/SalvamicoTurboblitz135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-136/162",
+            "name": "Pescatore",
+            "number": "136/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/PescatoreTurboblitz136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-137/162",
+            "name": "Pietralieve",
+            "number": "137/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/PietralieveTurboblitz137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-138/162",
+            "name": "Piano di Giovanni",
+            "number": "138/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/PianodiGiovanniTurboblitz138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-139/162",
+            "name": "Legame Mentale con Glalie",
+            "number": "139/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/LegameMentaleconGlalieTurboblitz139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-140/162",
+            "name": "Peso Ball",
+            "number": "140/162",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/PesoBallTurboblitz140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-141/162",
+            "name": "Scarponi Pesanti",
+            "number": "141/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ScarponiPesantiTurboblitz141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-142/162",
+            "name": "Legame Mentale con Houndoom",
+            "number": "142/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/LegameMentaleconHoundoomTurboblitz142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-143/162",
+            "name": "Arbitro",
+            "number": "143/162",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/ArbitroTurboblitz143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-144/162",
+            "name": "Legame Mentale con Mewtwo",
+            "number": "144/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/LegameMentaleconMewtwoTurboblitz144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-145/162",
+            "name": "Città Parallela",
+            "number": "145/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Citt%C3%A0ParallelaTurboblitz145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-146/162",
+            "name": "Lettera del Prof",
+            "number": "146/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/LetteradelProfTurboblitz146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-147/162",
+            "name": "Prenotazione",
+            "number": "147/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/PrenotazioneTurboblitz147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-148/162",
+            "name": "Anemone",
+            "number": "148/162",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/AnemoneTurboblitz148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-149/162",
+            "name": "Super Amo",
+            "number": "149/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/SuperAmoTurboblitz149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-150/162",
+            "name": "Mappa Città",
+            "number": "150/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/MappaCitt%C3%A0Turboblitz150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-151/162",
+            "name": "Energia Infuocata",
+            "number": "151/162",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/EnergiaInfuocataTurboblitz151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-152/162",
+            "name": "Energia Arcobaleno",
+            "number": "152/162",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaArcobalenoTurboblitz152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-153/162",
+            "name": "Houndoom-EX",
+            "number": "153/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/Houndoom-EXTurboblitz153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-154/162",
+            "name": "M Houndoom-EX",
+            "number": "154/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MHoundoom-EXTurboblitz154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-155/162",
+            "name": "Glalie-EX",
+            "number": "155/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Glalie-EXTurboblitz155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-156/162",
+            "name": "M Glalie-EX",
+            "number": "156/162",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/MGlalie-EXTurboblitz156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-157/162",
+            "name": "Mewtwo-EX",
+            "number": "157/162",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Mewtwo-EXTurboblitz157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-158/162",
+            "name": "Mewtwo-EX",
+            "number": "158/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Mewtwo-EXTurboblitz158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-159/162",
+            "name": "M Mewtwo-EX",
+            "number": "159/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/MMewtwo-EXTurboblitz159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-160/162",
+            "name": "M Mewtwo-EX",
+            "number": "160/162",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MMewtwo-EXTurboblitz160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-161/162",
+            "name": "Colette",
+            "number": "161/162",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/ColetteTurboblitz161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-162/162",
+            "name": "Piano di Giovanni",
+            "number": "162/162",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PianodiGiovanniTurboblitz162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BKT-163/162",
+            "name": "Mewtwo-EX",
+            "number": "163/162",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Mewtwo-EXTurboblitz163.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BKT-164/162",
+            "name": "Mewtwo-EX",
+            "number": "164/162",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Mewtwo-EXTurboblitz164.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "BKT-146a/162",
+            "name": "Lettera del Prof",
+            "number": "146a/162",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/LetteradelProfTurboblitz146a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

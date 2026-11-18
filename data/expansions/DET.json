@@ -1,0 +1,139 @@
+{
+    "expansion": {
+        "id": "DET",
+        "name": "Detective Pikachu",
+        "year": 2019,
+        "month": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetDetective_Pikachu.png",
+        "cardCount": 18
+    },
+    "cards": [
+        {
+            "id": "DET-1/18",
+            "name": "Bulbasaur",
+            "number": "1/18",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/BulbasaurDetectivePikachu1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-2/18",
+            "name": "Ludicolo",
+            "number": "2/18",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/LudicoloDetectivePikachu2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-3/18",
+            "name": "Morelull",
+            "number": "3/18",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MorelullDetectivePikachu3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-4/18",
+            "name": "Charmander",
+            "number": "4/18",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/CharmanderDetectivePikachu4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-5/18",
+            "name": "Charizard",
+            "number": "5/18",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/CharizardDetectivePikachu5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-6/18",
+            "name": "Arcanine",
+            "number": "6/18",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/ArcanineDetectivePikachu6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-7/18",
+            "name": "Psyduck",
+            "number": "7/18",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/PsyduckDetectivePikachu7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-8/18",
+            "name": "Magikarp",
+            "number": "8/18",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/MagikarpDetectivePikachu8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-9/18",
+            "name": "Greninja",
+            "number": "9/18",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/GreninjaDetectivePikachu9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-10/18",
+            "name": "Detective Pikachu",
+            "number": "10/18",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/DetectivePikachuDetectivePikachu10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-11/18",
+            "name": "Mr. Mime",
+            "number": "11/18",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MrMimeDetectivePikachu11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-12/18",
+            "name": "Mewtwo",
+            "number": "12/18",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MewtwoDetectivePikachu12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-13/18",
+            "name": "Machamp",
+            "number": "13/18",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MachampDetectivePikachu13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-14/18",
+            "name": "Jigglypuff",
+            "number": "14/18",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/JigglypuffDetectivePikachu14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-15/18",
+            "name": "Snubbull",
+            "number": "15/18",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/SnubbullDetectivePikachu15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-16/18",
+            "name": "Lickitung",
+            "number": "16/18",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/LickitungDetectivePikachu16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-17/18",
+            "name": "Ditto",
+            "number": "17/18",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/DittoDetectivePikachu17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DET-18/18",
+            "name": "Slaking",
+            "number": "18/18",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/SlakingDetectivePikachu18.png",
+            "section": "Set principale"
+        }
+    ]
+}

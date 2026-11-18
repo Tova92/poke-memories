@@ -1,0 +1,2001 @@
+{
+    "expansion": {
+        "id": "FST",
+        "name": "Spada e Scudo - Colpo Fusione",
+        "year": 2021,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/93/SimboloSetColpo_Fusione.png",
+        "cardCount": 284
+    },
+    "cards": [
+        {
+            "id": "FST-001/264",
+            "name": "Caterpie",
+            "number": "001/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/CaterpieColpoFusione1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-002/264",
+            "name": "Metapod",
+            "number": "002/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MetapodColpoFusione2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-003/264",
+            "name": "Butterfree",
+            "number": "003/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ButterfreeColpoFusione3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-004/264",
+            "name": "Shroomish",
+            "number": "004/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/ShroomishColpoFusione4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-005/264",
+            "name": "Breloom",
+            "number": "005/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/BreloomColpoFusione5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-006/264",
+            "name": "Breloom-V",
+            "number": "006/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Breloom-VColpoFusione6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-007/264",
+            "name": "Pansage",
+            "number": "007/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/PansageColpoFusione7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-008/264",
+            "name": "Simisage",
+            "number": "008/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SimisageColpoFusione8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-009/264",
+            "name": "Sewaddle",
+            "number": "009/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SewaddleColpoFusione9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-010/264",
+            "name": "Swadloon",
+            "number": "010/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SwadloonColpoFusione10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-011/264",
+            "name": "Leavanny",
+            "number": "011/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/LeavannyColpoFusione11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-012/264",
+            "name": "Maractus",
+            "number": "012/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MaractusColpoFusione12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-013/264",
+            "name": "Shelmet",
+            "number": "013/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/ShelmetColpoFusione13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-014/264",
+            "name": "Accelgor",
+            "number": "014/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/AccelgorColpoFusione14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-015/264",
+            "name": "Virizion",
+            "number": "015/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/VirizionColpoFusione15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-016/264",
+            "name": "Phantump",
+            "number": "016/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PhantumpColpoFusione16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-017/264",
+            "name": "Trevenant",
+            "number": "017/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/TrevenantColpoFusione17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-018/264",
+            "name": "Grubbin",
+            "number": "018/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/GrubbinColpoFusione18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-019/264",
+            "name": "Dewpider",
+            "number": "019/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/DewpiderColpoFusione19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-020/264",
+            "name": "Araquanid",
+            "number": "020/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/AraquanidColpoFusione20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-021/264",
+            "name": "Tsareena-V",
+            "number": "021/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Tsareena-VColpoFusione21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-022/264",
+            "name": "Rillaboom-V",
+            "number": "022/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Rillaboom-VColpoFusione22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-023/264",
+            "name": "Rillaboom-VMAX",
+            "number": "023/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Rillaboom-VMAXColpoFusione23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-024/264",
+            "name": "Gossifleur",
+            "number": "024/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GossifleurColpoFusione24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-025/264",
+            "name": "Eldegoss",
+            "number": "025/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/EldegossColpoFusione25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-026/264",
+            "name": "Appletun-V",
+            "number": "026/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Appletun-VColpoFusione26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-027/264",
+            "name": "Zarude",
+            "number": "027/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ZarudeColpoFusione27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-028/264",
+            "name": "Vulpix",
+            "number": "028/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/VulpixColpoFusione28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-029/264",
+            "name": "Vulpix",
+            "number": "029/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/VulpixColpoFusione29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-030/264",
+            "name": "Ninetales",
+            "number": "030/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/NinetalesColpoFusione30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-031/264",
+            "name": "Ninetales",
+            "number": "031/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/NinetalesColpoFusione31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-032/264",
+            "name": "Growlithe",
+            "number": "032/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/GrowlitheColpoFusione32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-033/264",
+            "name": "Arcanine",
+            "number": "033/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/ArcanineColpoFusione33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-034/264",
+            "name": "Slugma",
+            "number": "034/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/SlugmaColpoFusione34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-035/264",
+            "name": "Magcargo",
+            "number": "035/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MagcargoColpoFusione35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-036/264",
+            "name": "Victini",
+            "number": "036/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/VictiniColpoFusione36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-037/264",
+            "name": "Pansear",
+            "number": "037/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/PansearColpoFusione37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-038/264",
+            "name": "Simisear",
+            "number": "038/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SimisearColpoFusione38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-039/264",
+            "name": "Chandelure-V",
+            "number": "039/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/Chandelure-VColpoFusione39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-040/264",
+            "name": "Chandelure-VMAX",
+            "number": "040/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Chandelure-VMAXColpoFusione40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-041/264",
+            "name": "Heatmor",
+            "number": "041/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/HeatmorColpoFusione41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-042/264",
+            "name": "Oricorio",
+            "number": "042/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/OricorioColpoFusione42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-043/264",
+            "name": "Cinderace-V",
+            "number": "043/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Cinderace-VColpoFusione43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-044/264",
+            "name": "Cinderace-V",
+            "number": "044/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/Cinderace-VColpoFusione44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-045/264",
+            "name": "Cinderace-VMAX",
+            "number": "045/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Cinderace-VMAXColpoFusione45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-046/264",
+            "name": "Sizzlipede",
+            "number": "046/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/SizzlipedeColpoFusione46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-047/264",
+            "name": "Sizzlipede",
+            "number": "047/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SizzlipedeColpoFusione47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-048/264",
+            "name": "Centiskorch",
+            "number": "048/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CentiskorchColpoFusione48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-049/264",
+            "name": "Centiskorch",
+            "number": "049/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/CentiskorchColpoFusione49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-050/264",
+            "name": "Shellder",
+            "number": "050/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/ShellderColpoFusione50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-051/264",
+            "name": "Cloyster",
+            "number": "051/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/CloysterColpoFusione51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-052/264",
+            "name": "Staryu",
+            "number": "052/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/StaryuColpoFusione52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-053/264",
+            "name": "Starmie",
+            "number": "053/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/StarmieColpoFusione53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-054/264",
+            "name": "Lapras",
+            "number": "054/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/LaprasColpoFusione54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-055/264",
+            "name": "Totodile",
+            "number": "055/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/TotodileColpoFusione55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-056/264",
+            "name": "Croconaw",
+            "number": "056/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/CroconawColpoFusione56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-057/264",
+            "name": "Feraligatr",
+            "number": "057/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/FeraligatrColpoFusione57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-058/264",
+            "name": "Marill",
+            "number": "058/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MarillColpoFusione58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-059/264",
+            "name": "Azumarill",
+            "number": "059/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/AzumarillColpoFusione59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-060/264",
+            "name": "Qwilfish",
+            "number": "060/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/QwilfishColpoFusione60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-061/264",
+            "name": "Mantine",
+            "number": "061/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/MantineColpoFusione61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-062/264",
+            "name": "Mudkip",
+            "number": "062/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MudkipColpoFusione62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-063/264",
+            "name": "Marshtomp",
+            "number": "063/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MarshtompColpoFusione63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-064/264",
+            "name": "Swampert",
+            "number": "064/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SwampertColpoFusione64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-065/264",
+            "name": "Clamperl",
+            "number": "065/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ClamperlColpoFusione65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-066/264",
+            "name": "Huntail",
+            "number": "066/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/HuntailColpoFusione66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-067/264",
+            "name": "Gorebyss",
+            "number": "067/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/GorebyssColpoFusione67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-068/264",
+            "name": "Panpour",
+            "number": "068/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/PanpourColpoFusione68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-069/264",
+            "name": "Simipour",
+            "number": "069/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/SimipourColpoFusione69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-070/264",
+            "name": "Basculin",
+            "number": "070/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/BasculinColpoFusione70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-071/264",
+            "name": "Darumaka di Galar",
+            "number": "071/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/DarumakadiGalarColpoFusione71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-072/264",
+            "name": "Darmanitan di Galar",
+            "number": "072/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/DarmanitandiGalarColpoFusione72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-073/264",
+            "name": "Greninja-V",
+            "number": "073/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Greninja-VColpoFusione73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-074/264",
+            "name": "Clauncher",
+            "number": "074/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/ClauncherColpoFusione74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-075/264",
+            "name": "Clawitzer",
+            "number": "075/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/ClawitzerColpoFusione75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-076/264",
+            "name": "Crabominable-V",
+            "number": "076/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Crabominable-VColpoFusione76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-077/264",
+            "name": "Pyukumuku",
+            "number": "077/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/PyukumukuColpoFusione77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-078/264",
+            "name": "Inteleon-V",
+            "number": "078/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Inteleon-VColpoFusione78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-079/264",
+            "name": "Inteleon-VMAX",
+            "number": "079/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Inteleon-VMAXColpoFusione79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-080/264",
+            "name": "Chewtle",
+            "number": "080/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/ChewtleColpoFusione80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-081/264",
+            "name": "Drednaw",
+            "number": "081/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/DrednawColpoFusione81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-082/264",
+            "name": "Arrokuda",
+            "number": "082/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ArrokudaColpoFusione82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-083/264",
+            "name": "Barraskewda",
+            "number": "083/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/BarraskewdaColpoFusione83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-084/264",
+            "name": "Snom",
+            "number": "084/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SnomColpoFusione84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-085/264",
+            "name": "Frosmoth",
+            "number": "085/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/FrosmothColpoFusione85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-086/264",
+            "name": "Pikachu-V",
+            "number": "086/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Pikachu-VColpoFusione86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-087/264",
+            "name": "Voltorb",
+            "number": "087/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/VoltorbColpoFusione87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-088/264",
+            "name": "Electrode",
+            "number": "088/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ElectrodeColpoFusione88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-089/264",
+            "name": "Plusle",
+            "number": "089/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/PlusleColpoFusione89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-090/264",
+            "name": "Minun",
+            "number": "090/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/MinunColpoFusione90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-091/264",
+            "name": "Shinx",
+            "number": "091/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/ShinxColpoFusione91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-092/264",
+            "name": "Luxio",
+            "number": "092/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/LuxioColpoFusione92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-093/264",
+            "name": "Luxray",
+            "number": "093/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/LuxrayColpoFusione93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-094/264",
+            "name": "Rotom",
+            "number": "094/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/RotomColpoFusione94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-095/264",
+            "name": "Tynamo",
+            "number": "095/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/TynamoColpoFusione95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-096/264",
+            "name": "Eelektrik",
+            "number": "096/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/EelektrikColpoFusione96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-097/264",
+            "name": "Eelektross",
+            "number": "097/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/EelektrossColpoFusione97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-098/264",
+            "name": "Helioptile",
+            "number": "098/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/HelioptileColpoFusione98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-099/264",
+            "name": "Heliolisk",
+            "number": "099/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/HelioliskColpoFusione99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-100/264",
+            "name": "Charjabug",
+            "number": "100/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/CharjabugColpoFusione100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-101/264",
+            "name": "Vikavolt",
+            "number": "101/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/VikavoltColpoFusione101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-102/264",
+            "name": "Zeraora",
+            "number": "102/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ZeraoraColpoFusione102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-103/264",
+            "name": "Boltund-V",
+            "number": "103/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Boltund-VColpoFusione103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-104/264",
+            "name": "Boltund-VMAX",
+            "number": "104/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Boltund-VMAXColpoFusione104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-105/264",
+            "name": "Toxel",
+            "number": "105/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/ToxelColpoFusione105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-106/264",
+            "name": "Toxel",
+            "number": "106/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/ToxelColpoFusione106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-107/264",
+            "name": "Toxtricity",
+            "number": "107/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ToxtricityColpoFusione107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-108/264",
+            "name": "Toxtricity",
+            "number": "108/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/ToxtricityColpoFusione108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-109/264",
+            "name": "Morpeko",
+            "number": "109/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MorpekoColpoFusione109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-110/264",
+            "name": "Jigglypuff",
+            "number": "110/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/JigglypuffColpoFusione110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-111/264",
+            "name": "Wigglytuff",
+            "number": "111/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/WigglytuffColpoFusione111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-112/264",
+            "name": "Jynx",
+            "number": "112/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/JynxColpoFusione112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-113/264",
+            "name": "Mew-V",
+            "number": "113/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Mew-VColpoFusione113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-114/264",
+            "name": "Mew-VMAX",
+            "number": "114/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/Mew-VMAXColpoFusione114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-115/264",
+            "name": "Snubbull",
+            "number": "115/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SnubbullColpoFusione115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-116/264",
+            "name": "Granbull",
+            "number": "116/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/GranbullColpoFusione116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-117/264",
+            "name": "Corsola di Galar",
+            "number": "117/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/CorsoladiGalarColpoFusione117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-118/264",
+            "name": "Cursola di Galar",
+            "number": "118/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/CursoladiGalarColpoFusione118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-119/264",
+            "name": "Mawile",
+            "number": "119/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/MawileColpoFusione119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-120/264",
+            "name": "Deoxys",
+            "number": "120/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/DeoxysColpoFusione120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-121/264",
+            "name": "Munna",
+            "number": "121/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/MunnaColpoFusione121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-122/264",
+            "name": "Musharna",
+            "number": "122/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MusharnaColpoFusione122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-123/264",
+            "name": "Sigilyph",
+            "number": "123/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/SigilyphColpoFusione123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-124/264",
+            "name": "Meloetta",
+            "number": "124/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MeloettaColpoFusione124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-125/264",
+            "name": "Sandygast",
+            "number": "125/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/SandygastColpoFusione125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-126/264",
+            "name": "Palossand",
+            "number": "126/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PalossandColpoFusione126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-127/264",
+            "name": "Indeedee",
+            "number": "127/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/IndeedeeColpoFusione127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-128/264",
+            "name": "Dreepy",
+            "number": "128/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/DreepyColpoFusione128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-129/264",
+            "name": "Drakloak",
+            "number": "129/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/DrakloakColpoFusione129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-130/264",
+            "name": "Dragapult",
+            "number": "130/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/DragapultColpoFusione130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-131/264",
+            "name": "Sandshrew",
+            "number": "131/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SandshrewColpoFusione131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-132/264",
+            "name": "Sandslash",
+            "number": "132/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SandslashColpoFusione132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-133/264",
+            "name": "Mankey",
+            "number": "133/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/MankeyColpoFusione133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-134/264",
+            "name": "Primeape",
+            "number": "134/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PrimeapeColpoFusione134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-135/264",
+            "name": "Geodude",
+            "number": "135/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/GeodudeColpoFusione135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-136/264",
+            "name": "Graveler",
+            "number": "136/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/GravelerColpoFusione136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-137/264",
+            "name": "Golem",
+            "number": "137/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/GolemColpoFusione137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-138/264",
+            "name": "Onix",
+            "number": "138/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/OnixColpoFusione138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-139/264",
+            "name": "Steelix",
+            "number": "139/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/SteelixColpoFusione139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-140/264",
+            "name": "Gligar",
+            "number": "140/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/GligarColpoFusione140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-141/264",
+            "name": "Gliscor",
+            "number": "141/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/GliscorColpoFusione141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-142/264",
+            "name": "Makuhita",
+            "number": "142/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/MakuhitaColpoFusione142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-143/264",
+            "name": "Hariyama",
+            "number": "143/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/HariyamaColpoFusione143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-144/264",
+            "name": "Baltoy",
+            "number": "144/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/BaltoyColpoFusione144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-145/264",
+            "name": "Claydol",
+            "number": "145/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ClaydolColpoFusione145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-146/264",
+            "name": "Lucario-V",
+            "number": "146/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/Lucario-VColpoFusione146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-147/264",
+            "name": "Drilbur",
+            "number": "147/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/DrilburColpoFusione147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-148/264",
+            "name": "Landorus",
+            "number": "148/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/LandorusColpoFusione148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-149/264",
+            "name": "Pancham",
+            "number": "149/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PanchamColpoFusione149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-150/264",
+            "name": "Stufful",
+            "number": "150/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/StuffulColpoFusione150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-151/264",
+            "name": "Bewear",
+            "number": "151/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/BewearColpoFusione151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-152/264",
+            "name": "Clobbopus",
+            "number": "152/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ClobbopusColpoFusione152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-153/264",
+            "name": "Grapploct",
+            "number": "153/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/GrapploctColpoFusione153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-154/264",
+            "name": "Falinks",
+            "number": "154/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/FalinksColpoFusione154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-155/264",
+            "name": "Falinks",
+            "number": "155/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/FalinksColpoFusione155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-156/264",
+            "name": "Gengar-V",
+            "number": "156/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/Gengar-VColpoFusione156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-157/264",
+            "name": "Gengar-VMAX",
+            "number": "157/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Gengar-VMAXColpoFusione157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-158/264",
+            "name": "Tyranitar-V",
+            "number": "158/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/Tyranitar-VColpoFusione158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-159/264",
+            "name": "Zigzagoon di Galar",
+            "number": "159/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ZigzagoondiGalarColpoFusione159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-160/264",
+            "name": "Linoone di Galar",
+            "number": "160/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/LinoonediGalarColpoFusione160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-161/264",
+            "name": "Obstagoon di Galar",
+            "number": "161/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/ObstagoondiGalarColpoFusione161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-162/264",
+            "name": "Carvanha",
+            "number": "162/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/CarvanhaColpoFusione162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-163/264",
+            "name": "Sharpedo",
+            "number": "163/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/SharpedoColpoFusione163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-164/264",
+            "name": "Absol",
+            "number": "164/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/AbsolColpoFusione164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-165/264",
+            "name": "Croagunk",
+            "number": "165/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/CroagunkColpoFusione165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-166/264",
+            "name": "Toxicroak",
+            "number": "166/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ToxicroakColpoFusione166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-167/264",
+            "name": "Darkrai",
+            "number": "167/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/DarkraiColpoFusione167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-168/264",
+            "name": "Trubbish",
+            "number": "168/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/TrubbishColpoFusione168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-169/264",
+            "name": "Garbodor",
+            "number": "169/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/GarbodorColpoFusione169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-170/264",
+            "name": "Zorua",
+            "number": "170/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ZoruaColpoFusione170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-171/264",
+            "name": "Zoroark",
+            "number": "171/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/ZoroarkColpoFusione171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-172/264",
+            "name": "Vullaby",
+            "number": "172/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/VullabyColpoFusione172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-173/264",
+            "name": "Mandibuzz",
+            "number": "173/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/MandibuzzColpoFusione173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-174/264",
+            "name": "Pangoro",
+            "number": "174/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/PangoroColpoFusione174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-175/264",
+            "name": "Yveltal",
+            "number": "175/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/YveltalColpoFusione175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-176/264",
+            "name": "Impidimp",
+            "number": "176/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ImpidimpColpoFusione176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-177/264",
+            "name": "Morgrem",
+            "number": "177/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MorgremColpoFusione177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-178/264",
+            "name": "Grimmsnarl",
+            "number": "178/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/GrimmsnarlColpoFusione178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-179/264",
+            "name": "Morpeko",
+            "number": "179/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MorpekoColpoFusione179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-180/264",
+            "name": "Meowth di Galar",
+            "number": "180/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MeowthdiGalarColpoFusione180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-181/264",
+            "name": "Perrserker di Galar",
+            "number": "181/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/PerrserkerdiGalarColpoFusione181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-182/264",
+            "name": "Skarmory",
+            "number": "182/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/SkarmoryColpoFusione182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-183/264",
+            "name": "Excadrill",
+            "number": "183/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ExcadrillColpoFusione183.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-184/264",
+            "name": "Durant",
+            "number": "184/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/DurantColpoFusione184.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-185/264",
+            "name": "Genesect-V",
+            "number": "185/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/Genesect-VColpoFusione185.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-186/264",
+            "name": "Klefki",
+            "number": "186/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/KlefkiColpoFusione186.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-187/264",
+            "name": "Togedemaru",
+            "number": "187/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/TogedemaruColpoFusione187.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-188/264",
+            "name": "Meltan",
+            "number": "188/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/MeltanColpoFusione188.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-189/264",
+            "name": "Melmetal",
+            "number": "189/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MelmetalColpoFusione189.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-190/264",
+            "name": "Corviknight",
+            "number": "190/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/CorviknightColpoFusione190.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-191/264",
+            "name": "Cufant",
+            "number": "191/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CufantColpoFusione191.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-192/264",
+            "name": "Copperajah",
+            "number": "192/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CopperajahColpoFusione192.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-193/264",
+            "name": "Latias",
+            "number": "193/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LatiasColpoFusione193.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-194/264",
+            "name": "Latios",
+            "number": "194/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/LatiosColpoFusione194.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-195/264",
+            "name": "Goomy",
+            "number": "195/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/GoomyColpoFusione195.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-196/264",
+            "name": "Sliggoo",
+            "number": "196/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/SliggooColpoFusione196.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-197/264",
+            "name": "Goodra",
+            "number": "197/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/GoodraColpoFusione197.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-198/264",
+            "name": "Turtonator",
+            "number": "198/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/TurtonatorColpoFusione198.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-199/264",
+            "name": "Meowth",
+            "number": "199/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MeowthColpoFusione199.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-200/264",
+            "name": "Persian",
+            "number": "200/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PersianColpoFusione200.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-201/264",
+            "name": "Dodrio-V",
+            "number": "201/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Dodrio-VColpoFusione201.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-202/264",
+            "name": "Chansey",
+            "number": "202/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/ChanseyColpoFusione202.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-203/264",
+            "name": "Blissey",
+            "number": "203/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/BlisseyColpoFusione203.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-204/264",
+            "name": "Kangaskhan",
+            "number": "204/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/KangaskhanColpoFusione204.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-205/264",
+            "name": "Eevee",
+            "number": "205/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/EeveeColpoFusione205.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-206/264",
+            "name": "Snorlax",
+            "number": "206/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/SnorlaxColpoFusione206.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-207/264",
+            "name": "Dunsparce",
+            "number": "207/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/DunsparceColpoFusione207.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-208/264",
+            "name": "Stantler",
+            "number": "208/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/StantlerColpoFusione208.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-209/264",
+            "name": "Smeargle",
+            "number": "209/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/SmeargleColpoFusione209.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-210/264",
+            "name": "Skitty",
+            "number": "210/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/SkittyColpoFusione210.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-211/264",
+            "name": "Delcatty",
+            "number": "211/264",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/DelcattyColpoFusione211.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-212/264",
+            "name": "Buneary",
+            "number": "212/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/BunearyColpoFusione212.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-213/264",
+            "name": "Lopunny",
+            "number": "213/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/LopunnyColpoFusione213.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-214/264",
+            "name": "Bunnelby",
+            "number": "214/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/BunnelbyColpoFusione214.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-215/264",
+            "name": "Diggersby",
+            "number": "215/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/DiggersbyColpoFusione215.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-216/264",
+            "name": "Hawlucha",
+            "number": "216/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/HawluchaColpoFusione216.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-217/264",
+            "name": "Greedent-V",
+            "number": "217/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Greedent-VColpoFusione217.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-218/264",
+            "name": "Greedent-VMAX",
+            "number": "218/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/Greedent-VMAXColpoFusione218.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-219/264",
+            "name": "Rookidee",
+            "number": "219/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/RookideeColpoFusione219.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-220/264",
+            "name": "Corvisquire",
+            "number": "220/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CorvisquireColpoFusione220.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-221/264",
+            "name": "Wooloo",
+            "number": "221/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/WoolooColpoFusione221.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-222/264",
+            "name": "Wooloo",
+            "number": "222/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/WoolooColpoFusione222.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-223/264",
+            "name": "Dubwool",
+            "number": "223/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/DubwoolColpoFusione223.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-224/264",
+            "name": "Scoperta dell'Avventuriera",
+            "number": "224/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ScopertadellAvventurieraColpoFusione224.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-225/264",
+            "name": "Superpass VIP Lotta",
+            "number": "225/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/SuperpassVIPLottaColpoFusione225.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-226/264",
+            "name": "Pigliamosche",
+            "number": "226/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/PigliamoscheColpoFusione226.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-227/264",
+            "name": "Chicco, Spighetto e Maisello",
+            "number": "227/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ChiccoSpighettoeMaiselloColpoFusione227.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-228/264",
+            "name": "Cuoco",
+            "number": "228/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/CuocoColpoFusione228.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-229/264",
+            "name": "CramoBot",
+            "number": "229/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/CramoBotColpoFusione229.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-230/264",
+            "name": "Scambiatore Incrociato",
+            "number": "230/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ScambiatoreIncrociatoColpoFusione230.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-231/264",
+            "name": "Ricevitore Incrociato",
+            "number": "231/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/RicevitoreIncrociatoColpoFusione231.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-232/264",
+            "name": "Ballerina",
+            "number": "232/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/BallerinaColpoFusione232.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-233/264",
+            "name": "Leggiadria di Camelia",
+            "number": "233/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/LeggiadriadiCameliaColpoFusione233.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-234/264",
+            "name": "Sonaglio di Addio",
+            "number": "234/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/SonagliodiAddioColpoFusione234.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-235/264",
+            "name": "Arbitro",
+            "number": "235/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/ArbitroColpoFusione235.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-236/264",
+            "name": "Compressa Energetica",
+            "number": "236/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/CompressaEnergeticaColpoFusione236.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-237/264",
+            "name": "Velox Ball",
+            "number": "237/264",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/VeloxBallColpoFusione237.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-238/264",
+            "name": "Studente",
+            "number": "238/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/StudenteColpoFusione238.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-239/264",
+            "name": "Studentessa",
+            "number": "239/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/StudentessaColpoFusione239.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-240/264",
+            "name": "Shana",
+            "number": "240/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/ShanaColpoFusione240.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-241/264",
+            "name": "Fosco",
+            "number": "241/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/FoscoColpoFusione241.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-242/264",
+            "name": "Skatepark",
+            "number": "242/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/SkateparkColpoFusione242.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-243/264",
+            "name": "Guanti Spugnosi",
+            "number": "243/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/GuantiSpugnosiColpoFusione243.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-244/264",
+            "name": "Energia Colpo Fusione",
+            "number": "244/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaColpoFusioneColpoFusione244.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-245/264",
+            "name": "Celebi-V",
+            "number": "245/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Celebi-VColpoFusione245.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-246/264",
+            "name": "Tsareena-V",
+            "number": "246/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Tsareena-VColpoFusione246.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-247/264",
+            "name": "Chandelure-V",
+            "number": "247/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Chandelure-VColpoFusione247.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-248/264",
+            "name": "Crabominable-V",
+            "number": "248/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/Crabominable-VColpoFusione248.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-249/264",
+            "name": "Boltund-V",
+            "number": "249/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Boltund-VColpoFusione249.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-250/264",
+            "name": "Mew-V",
+            "number": "250/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Mew-VColpoFusione250.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-251/264",
+            "name": "Mew-V",
+            "number": "251/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Mew-VColpoFusione251.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-252/264",
+            "name": "Sandaconda-V",
+            "number": "252/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Sandaconda-VColpoFusione252.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-253/264",
+            "name": "Hoopa-V",
+            "number": "253/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Hoopa-VColpoFusione253.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-254/264",
+            "name": "Genesect-V",
+            "number": "254/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Genesect-VColpoFusione254.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-255/264",
+            "name": "Genesect-V",
+            "number": "255/264",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Genesect-VColpoFusione255.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-256/264",
+            "name": "Greedent-V",
+            "number": "256/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/Greedent-VColpoFusione256.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-257/264",
+            "name": "Greedent-V",
+            "number": "257/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/Greedent-VColpoFusione257.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-258/264",
+            "name": "Chicco, Spighetto e Maisello",
+            "number": "258/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ChiccoSpighettoeMaiselloColpoFusione258.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-259/264",
+            "name": "Ballerina",
+            "number": "259/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/BallerinaColpoFusione259.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-260/264",
+            "name": "Leggiadria di Camelia",
+            "number": "260/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/LeggiadriadiCameliaColpoFusione260.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-261/264",
+            "name": "Studente",
+            "number": "261/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/StudenteColpoFusione261.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-262/264",
+            "name": "Studentessa",
+            "number": "262/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/StudentessaColpoFusione262.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-263/264",
+            "name": "Shana",
+            "number": "263/264",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/ShanaColpoFusione263.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-264/264",
+            "name": "Fosco",
+            "number": "264/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/FoscoColpoFusione264.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FST-265/264",
+            "name": "Chandelure-VMAX",
+            "number": "265/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Chandelure-VMAXColpoFusione265.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-266/264",
+            "name": "Inteleon-VMAX",
+            "number": "266/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Inteleon-VMAXColpoFusione266.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-267/264",
+            "name": "Boltund-VMAX",
+            "number": "267/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/Boltund-VMAXColpoFusione267.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-268/264",
+            "name": "Mew-VMAX",
+            "number": "268/264",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Mew-VMAXColpoFusione268.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-269/264",
+            "name": "Mew-VMAX",
+            "number": "269/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Mew-VMAXColpoFusione269.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-270/264",
+            "name": "Espeon-VMAX",
+            "number": "270/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/Espeon-VMAXColpoFusione270.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-271/264",
+            "name": "Gengar-VMAX",
+            "number": "271/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Gengar-VMAXColpoFusione271.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-272/264",
+            "name": "Greedent-VMAX",
+            "number": "272/264",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Greedent-VMAXColpoFusione272.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-273/264",
+            "name": "Chicco, Spighetto e Maisello",
+            "number": "273/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/ChiccoSpighettoeMaiselloColpoFusione273.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-274/264",
+            "name": "Ballerina",
+            "number": "274/264",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/BallerinaColpoFusione274.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-275/264",
+            "name": "Leggiadria di Camelia",
+            "number": "275/264",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/LeggiadriadiCameliaColpoFusione275.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-276/264",
+            "name": "Studente",
+            "number": "276/264",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/StudenteColpoFusione276.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-277/264",
+            "name": "Studentessa",
+            "number": "277/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/StudentessaColpoFusione277.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-278/264",
+            "name": "Shana",
+            "number": "278/264",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ShanaColpoFusione278.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-279/264",
+            "name": "Fosco",
+            "number": "279/264",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/FoscoColpoFusione279.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-280/264",
+            "name": "Flaaffy",
+            "number": "280/264",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/FlaaffyColpoFusione280.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-281/264",
+            "name": "Compressa Energetica",
+            "number": "281/264",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/CompressaEnergeticaColpoFusione281.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-282/264",
+            "name": "Cortile di Allenamento",
+            "number": "282/264",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CortilediAllenamentoColpoFusione282.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-283/264",
+            "name": "Energia Erba",
+            "number": "283/264",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/EnergiaErbaColpoFusione283.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FST-284/264",
+            "name": "Energia Fuoco",
+            "number": "284/264",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/EnergiaFuocoColpoFusione284.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

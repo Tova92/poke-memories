@@ -1,0 +1,812 @@
+{
+    "expansion": {
+        "id": "FFI",
+        "name": "XY - Colpi Furiosi",
+        "year": 2014,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetColpi_Furiosi.png",
+        "cardCount": 113,
+				"yellowAAlternateCardCount": 1
+    },
+    "cards": [
+        {
+            "id": "FFI-1/111",
+            "name": "Bellsprout",
+            "number": "1/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/BellsproutColpiFuriosi1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-2/111",
+            "name": "Weepinbell",
+            "number": "2/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/WeepinbellColpiFuriosi2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-3/111",
+            "name": "Victreebel",
+            "number": "3/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/VictreebelColpiFuriosi3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-4/111",
+            "name": "Heracross-EX",
+            "number": "4/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Heracross-EXColpiFuriosi4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-5/111",
+            "name": "M Heracross-EX",
+            "number": "5/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MHeracross-EXColpiFuriosi5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-6/111",
+            "name": "Shroomish",
+            "number": "6/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/ShroomishColpiFuriosi6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-7/111",
+            "name": "Leafeon",
+            "number": "7/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/LeafeonColpiFuriosi7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-8/111",
+            "name": "Shelmet",
+            "number": "8/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/ShelmetColpiFuriosi8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-9/111",
+            "name": "Accelgor",
+            "number": "9/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/AccelgorColpiFuriosi9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-10/111",
+            "name": "Magmar",
+            "number": "10/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/MagmarColpiFuriosi10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-11/111",
+            "name": "Magmortar",
+            "number": "11/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MagmortarColpiFuriosi11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-12/111",
+            "name": "Torchic",
+            "number": "12/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/TorchicColpiFuriosi12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-13/111",
+            "name": "Combusken",
+            "number": "13/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/CombuskenColpiFuriosi13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-14/111",
+            "name": "Blaziken",
+            "number": "14/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/BlazikenColpiFuriosi14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-15/111",
+            "name": "Poliwag",
+            "number": "15/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/PoliwagColpiFuriosi15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-16/111",
+            "name": "Poliwhirl",
+            "number": "16/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/PoliwhirlColpiFuriosi16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-17/111",
+            "name": "Poliwrath",
+            "number": "17/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/PoliwrathColpiFuriosi17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-18/111",
+            "name": "Politoed",
+            "number": "18/111",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/PolitoedColpiFuriosi18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-19/111",
+            "name": "Glaceon",
+            "number": "19/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/GlaceonColpiFuriosi19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-20/111",
+            "name": "Seismitoad-EX",
+            "number": "20/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Seismitoad-EXColpiFuriosi20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-21/111",
+            "name": "Cubchoo",
+            "number": "21/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/CubchooColpiFuriosi21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-22/111",
+            "name": "Beartic",
+            "number": "22/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/BearticColpiFuriosi22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-23/111",
+            "name": "Clauncher",
+            "number": "23/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ClauncherColpiFuriosi23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-24/111",
+            "name": "Clawitzer",
+            "number": "24/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ClawitzerColpiFuriosi24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-25/111",
+            "name": "Amaura",
+            "number": "25/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/AmauraColpiFuriosi25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-26/111",
+            "name": "Aurorus",
+            "number": "26/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/AurorusColpiFuriosi26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-27/111",
+            "name": "Pikachu",
+            "number": "27/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/PikachuColpiFuriosi27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-28/111",
+            "name": "Raichu",
+            "number": "28/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/RaichuColpiFuriosi28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-29/111",
+            "name": "Electabuzz",
+            "number": "29/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ElectabuzzColpiFuriosi29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-30/111",
+            "name": "Electivire",
+            "number": "30/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ElectivireColpiFuriosi30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-31/111",
+            "name": "Plusle",
+            "number": "31/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/PlusleColpiFuriosi31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-32/111",
+            "name": "Minun",
+            "number": "32/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MinunColpiFuriosi32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-33/111",
+            "name": "Thundurus",
+            "number": "33/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/ThundurusColpiFuriosi33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-34/111",
+            "name": "Dedenne",
+            "number": "34/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/DedenneColpiFuriosi34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-35/111",
+            "name": "Drowzee",
+            "number": "35/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/DrowzeeColpiFuriosi35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-36/111",
+            "name": "Hypno",
+            "number": "36/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/HypnoColpiFuriosi36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-37/111",
+            "name": "Jynx",
+            "number": "37/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/JynxColpiFuriosi37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-38/111",
+            "name": "Skorupi",
+            "number": "38/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/SkorupiColpiFuriosi38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-39/111",
+            "name": "Gothita",
+            "number": "39/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/GothitaColpiFuriosi39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-40/111",
+            "name": "Gothorita",
+            "number": "40/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/GothoritaColpiFuriosi40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-41/111",
+            "name": "Gothitelle",
+            "number": "41/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/GothitelleColpiFuriosi41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-42/111",
+            "name": "Golett",
+            "number": "42/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/GolettColpiFuriosi42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-43/111",
+            "name": "Golurk",
+            "number": "43/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/GolurkColpiFuriosi43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-44/111",
+            "name": "Machop",
+            "number": "44/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/MachopColpiFuriosi44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-45/111",
+            "name": "Machoke",
+            "number": "45/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MachokeColpiFuriosi45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-46/111",
+            "name": "Machamp",
+            "number": "46/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MachampColpiFuriosi46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-47/111",
+            "name": "Hitmonlee",
+            "number": "47/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/HitmonleeColpiFuriosi47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-48/111",
+            "name": "Hitmonchan",
+            "number": "48/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/HitmonchanColpiFuriosi48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-49/111",
+            "name": "Hitmontop",
+            "number": "49/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/HitmontopColpiFuriosi49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-50/111",
+            "name": "Breloom",
+            "number": "50/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/BreloomColpiFuriosi50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-51/111",
+            "name": "Makuhita",
+            "number": "51/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MakuhitaColpiFuriosi51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-52/111",
+            "name": "Hariyama",
+            "number": "52/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/HariyamaColpiFuriosi52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-53/111",
+            "name": "Trapinch",
+            "number": "53/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/TrapinchColpiFuriosi53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-54/111",
+            "name": "Lucario-EX",
+            "number": "54/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Lucario-EXColpiFuriosi54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-55/111",
+            "name": "M Lucario-EX",
+            "number": "55/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MLucario-EXColpiFuriosi55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-56/111",
+            "name": "Mienfoo",
+            "number": "56/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MienfooColpiFuriosi56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-57/111",
+            "name": "Mienshao",
+            "number": "57/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/MienshaoColpiFuriosi57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-58/111",
+            "name": "Landorus",
+            "number": "58/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/LandorusColpiFuriosi58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-59/111",
+            "name": "Pancham",
+            "number": "59/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/PanchamColpiFuriosi59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-60/111",
+            "name": "Pancham",
+            "number": "60/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/PanchamColpiFuriosi60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-61/111",
+            "name": "Tyrunt",
+            "number": "61/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/TyruntColpiFuriosi61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-62/111",
+            "name": "Tyrantrum",
+            "number": "62/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/TyrantrumColpiFuriosi62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-63/111",
+            "name": "Hawlucha",
+            "number": "63/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/HawluchaColpiFuriosi63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-64/111",
+            "name": "Hawlucha-EX",
+            "number": "64/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Hawlucha-EXColpiFuriosi64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-65/111",
+            "name": "Drapion",
+            "number": "65/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/DrapionColpiFuriosi65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-66/111",
+            "name": "Scraggy",
+            "number": "66/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/ScraggyColpiFuriosi66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-67/111",
+            "name": "Scrafty",
+            "number": "67/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/ScraftyColpiFuriosi67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-68/111",
+            "name": "Pangoro",
+            "number": "68/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PangoroColpiFuriosi68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-69/111",
+            "name": "Clefairy",
+            "number": "69/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ClefairyColpiFuriosi69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-70/111",
+            "name": "Clefairy",
+            "number": "70/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/ClefairyColpiFuriosi70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-71/111",
+            "name": "Clefable",
+            "number": "71/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ClefableColpiFuriosi71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-72/111",
+            "name": "Sylveon",
+            "number": "72/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SylveonColpiFuriosi72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-73/111",
+            "name": "Klefki",
+            "number": "73/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/KlefkiColpiFuriosi73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-74/111",
+            "name": "Dragonite-EX",
+            "number": "74/111",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Dragonite-EXColpiFuriosi74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-75/111",
+            "name": "Vibrava",
+            "number": "75/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/VibravaColpiFuriosi75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-76/111",
+            "name": "Flygon",
+            "number": "76/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/FlygonColpiFuriosi76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-77/111",
+            "name": "Noivern",
+            "number": "77/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/NoivernColpiFuriosi77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-78/111",
+            "name": "Lickitung",
+            "number": "78/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/LickitungColpiFuriosi78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-79/111",
+            "name": "Lickilicky",
+            "number": "79/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/LickilickyColpiFuriosi79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-80/111",
+            "name": "Eevee",
+            "number": "80/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/EeveeColpiFuriosi80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-81/111",
+            "name": "Slakoth",
+            "number": "81/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SlakothColpiFuriosi81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-82/111",
+            "name": "Vigoroth",
+            "number": "82/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/VigorothColpiFuriosi82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-83/111",
+            "name": "Slaking",
+            "number": "83/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SlakingColpiFuriosi83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-84/111",
+            "name": "Patrat",
+            "number": "84/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/PatratColpiFuriosi84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-85/111",
+            "name": "Watchog",
+            "number": "85/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/WatchogColpiFuriosi85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-86/111",
+            "name": "Tornadus",
+            "number": "86/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/TornadusColpiFuriosi86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-87/111",
+            "name": "Noibat",
+            "number": "87/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/NoibatColpiFuriosi87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-88/111",
+            "name": "Inviato Speciale",
+            "number": "88/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/InviatoSpecialeColpiFuriosi88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-89/111",
+            "name": "Scambio di Energia",
+            "number": "89/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/ScambiodiEnergiaColpiFuriosi89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-90/111",
+            "name": "Stadio Lotta",
+            "number": "90/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/StadioLottaColpiFuriosi90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-91/111",
+            "name": "Focalnastro",
+            "number": "91/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/FocalnastroColpiFuriosi91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-92/111",
+            "name": "Ricercatore di Fossili",
+            "number": "92/111",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/RicercatorediFossiliColpiFuriosi92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-93/111",
+            "name": "Cura Totale",
+            "number": "93/111",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CuraTotaleColpiFuriosi93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-94/111",
+            "name": "Fossilmascella",
+            "number": "94/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/FossilmascellaColpiFuriosi94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-95/111",
+            "name": "Ornella",
+            "number": "95/111",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/OrnellaColpiFuriosi95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-96/111",
+            "name": "Manutenzione",
+            "number": "96/111",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ManutenzioneColpiFuriosi96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-97/111",
+            "name": "Ring Montano",
+            "number": "97/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/RingMontanoColpiFuriosi97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-98/111",
+            "name": "Fossilpinna",
+            "number": "98/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/FossilpinnaColpiFuriosi98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-99/111",
+            "name": "Accappatoio Scintillante",
+            "number": "99/111",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/AccappatoioScintillanteColpiFuriosi99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-100/111",
+            "name": "Super Recupero",
+            "number": "100/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/SuperRecuperoColpiFuriosi100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-101/111",
+            "name": "Recupera Oggetti",
+            "number": "101/111",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/RecuperaOggettiColpiFuriosi101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-102/111",
+            "name": "Centro Allenamento",
+            "number": "102/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/CentroAllenamentoColpiFuriosi102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-103/111",
+            "name": "Energia Vegetale",
+            "number": "103/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/EnergiaVegetaleColpiFuriosi103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-104/111",
+            "name": "Energia Vigore",
+            "number": "104/111",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/EnergiaVigoreColpiFuriosi104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-105/111",
+            "name": "Heracross-EX",
+            "number": "105/111",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Heracross-EXColpiFuriosi105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-106/111",
+            "name": "Seismitoad-EX",
+            "number": "106/111",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/Seismitoad-EXColpiFuriosi106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-107/111",
+            "name": "Lucario-EX",
+            "number": "107/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Lucario-EXColpiFuriosi107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-108/111",
+            "name": "Dragonite-EX",
+            "number": "108/111",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Dragonite-EXColpiFuriosi108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-109/111",
+            "name": "Inviato Speciale",
+            "number": "109/111",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/InviatoSpecialeColpiFuriosi109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-110/111",
+            "name": "Ricercatore di Fossili",
+            "number": "110/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/RicercatorediFossiliColpiFuriosi110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-111/111",
+            "name": "Ornella",
+            "number": "111/111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/OrnellaColpiFuriosi111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FFI-112/111",
+            "name": "M Heracross-EX",
+            "number": "112/111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/MHeracross-EXColpiFuriosi112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FFI-113/111",
+            "name": "M Lucario-EX",
+            "number": "113/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/MLucario-EXColpiFuriosi113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FFI-55a/111",
+            "name": "M Lucario-EX",
+            "number": "55a/111",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/MLucario-EXColpiFuriosi55a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

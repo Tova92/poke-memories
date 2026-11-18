@@ -1,0 +1,937 @@
+{
+    "expansion": {
+        "id": "G1",
+        "name": "Gym Heroes",
+				"year": 2000,
+				"month": 8,
+				"language": "en",
+        "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetGym_Heroes.svg",
+        "cardCount": 132
+    },
+    "cards": [
+        {
+            "id": "G1-1/132",
+            "name": "Blaine's Moltres",
+            "number": "1/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/BlaineMoltresGymHeroes1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-2/132",
+            "name": "Brock's Rhydon",
+            "number": "2/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/BrockRhydonGymHeroes2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-3/132",
+            "name": "Erika's Clefable",
+            "number": "3/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/ErikaClefableGymHeroes3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-4/132",
+            "name": "Erika's Dragonair",
+            "number": "4/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ErikaDragonairGymHeroes4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-5/132",
+            "name": "Erika's Vileplume",
+            "number": "5/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/ErikaVileplumeGymHeroes5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-6/132",
+            "name": "Lt. Surge's Electabuzz",
+            "number": "6/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/LtSurgeElectabuzzGymHeroes6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-7/132",
+            "name": "Lt. Surge's Fearow",
+            "number": "7/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/LtSurgeFearowGymHeroes7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-8/132",
+            "name": "Lt. Surge's Magneton",
+            "number": "8/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/LtSurgeMagnetonGymHeroes8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-9/132",
+            "name": "Misty's Seadra",
+            "number": "9/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/MistySeadraGymHeroes9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-10/132",
+            "name": "Misty's Tentacruel",
+            "number": "10/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MistyTentacruelGymHeroes10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-11/132",
+            "name": "Rocket's Hitmonchan",
+            "number": "11/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/RocketHitmonchanGymHeroes11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-12/132",
+            "name": "Rocket's Moltres",
+            "number": "12/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/RocketMoltresGymHeroes12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-13/132",
+            "name": "Rocket's Scyther",
+            "number": "13/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/RocketScytherGymHeroes13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-14/132",
+            "name": "Sabrina's Gengar",
+            "number": "14/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/SabrinaGengarGymHeroes14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-15/132",
+            "name": "Brock",
+            "number": "15/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/BrockGymHeroes15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-16/132",
+            "name": "Erika",
+            "number": "16/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/ErikaGymHeroes16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-17/132",
+            "name": "Lt. Surge",
+            "number": "17/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LtSurgeGymHeroes17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-18/132",
+            "name": "Misty",
+            "number": "18/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MistyGymHeroes18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-19/132",
+            "name": "The Rocket's Trap",
+            "number": "19/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/TheRocketTrapGymHeroes19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-20/132",
+            "name": "Brock's Golem",
+            "number": "20/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/BrockGolemGymHeroes20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-21/132",
+            "name": "Brock's Onix",
+            "number": "21/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/BrockOnixGymHeroes21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-22/132",
+            "name": "Brock's Rhyhorn",
+            "number": "22/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/BrockRhyhornGymHeroes22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-23/132",
+            "name": "Brock's Sandslash",
+            "number": "23/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/BrockSandslashGymHeroes23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-24/132",
+            "name": "Brock's Zubat",
+            "number": "24/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BrockZubatGymHeroes24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-25/132",
+            "name": "Erika's Clefairy",
+            "number": "25/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/ErikaClefairyGymHeroes25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-26/132",
+            "name": "Erika's Victreebel",
+            "number": "26/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ErikaVictreebelGymHeroes26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-27/132",
+            "name": "Lt. Surge's Electabuzz",
+            "number": "27/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/LtSurgeElectabuzzGymHeroes27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-28/132",
+            "name": "Lt. Surge's Raichu",
+            "number": "28/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/LtSurgeRaichuGymHeroes28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-29/132",
+            "name": "Misty's Cloyster",
+            "number": "29/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/MistyCloysterGymHeroes29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-30/132",
+            "name": "Misty's Goldeen",
+            "number": "30/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MistyGoldeenGymHeroes30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-31/132",
+            "name": "Misty's Poliwrath",
+            "number": "31/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/MistyPoliwrathGymHeroes31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-32/132",
+            "name": "Misty's Tentacool",
+            "number": "32/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MistyTentacoolGymHeroes32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-33/132",
+            "name": "Rocket's Snorlax",
+            "number": "33/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/RocketSnorlaxGymHeroes33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-34/132",
+            "name": "Sabrina's Venomoth",
+            "number": "34/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/SabrinaVenomothGymHeroes34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-35/132",
+            "name": "Blaine's Growlithe",
+            "number": "35/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/BlaineGrowlitheGymHeroes35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-36/132",
+            "name": "Blaine's Kangaskhan",
+            "number": "36/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/BlaineKangaskhanGymHeroes36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-37/132",
+            "name": "Blaine's Magmar",
+            "number": "37/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/BlaineMagmarGymHeroes37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-38/132",
+            "name": "Brock's Geodude",
+            "number": "38/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/BrockGeodudeGymHeroes38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-39/132",
+            "name": "Brock's Golbat",
+            "number": "39/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/BrockGolbatGymHeroes39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-40/132",
+            "name": "Brock's Graveler",
+            "number": "40/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/BrockGravelerGymHeroes40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-41/132",
+            "name": "Brock's Lickitung",
+            "number": "41/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/BrockLickitungGymHeroes41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-42/132",
+            "name": "Erika's Dratini",
+            "number": "42/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/ErikaDratiniGymHeroes42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-43/132",
+            "name": "Erika's Exeggcute",
+            "number": "43/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/ErikaExeggcuteGymHeroes43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-44/132",
+            "name": "Erika's Exeggutor",
+            "number": "44/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ErikaExeggutorGymHeroes44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-45/132",
+            "name": "Erika's Gloom",
+            "number": "45/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/ErikaGloomGymHeroes45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-46/132",
+            "name": "Erika's Gloom",
+            "number": "46/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/ErikaGloomGymHeroes46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-47/132",
+            "name": "Erika's Oddish",
+            "number": "47/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/ErikaOddishGymHeroes47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-48/132",
+            "name": "Erika's Weepinbell",
+            "number": "48/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ErikaWeepinbellGymHeroes48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-49/132",
+            "name": "Erika's Weepinbell",
+            "number": "49/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ErikaWeepinbellGymHeroes49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-50/132",
+            "name": "Lt. Surge's Magnemite",
+            "number": "50/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/LtSurgeMagnemiteGymHeroes50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-51/132",
+            "name": "Lt. Surge's Raticate",
+            "number": "51/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/LtSurgeRaticateGymHeroes51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-52/132",
+            "name": "Lt. Surge's Spearow",
+            "number": "52/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/LtSurgeSpearowGymHeroes52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-53/132",
+            "name": "Misty's Poliwhirl",
+            "number": "53/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MistyPoliwhirlGymHeroes53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-54/132",
+            "name": "Misty's Psyduck",
+            "number": "54/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/MistyPsyduckGymHeroes54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-55/132",
+            "name": "Misty's Seaking",
+            "number": "55/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MistySeakingGymHeroes55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-56/132",
+            "name": "Misty's Starmie",
+            "number": "56/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MistyStarmieGymHeroes56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-57/132",
+            "name": "Misty's Tentacool",
+            "number": "57/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MistyTentacoolGymHeroes57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-58/132",
+            "name": "Sabrina's Haunter",
+            "number": "58/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/SabrinaHaunterGymHeroes58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-59/132",
+            "name": "Sabrina's Jynx",
+            "number": "59/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/SabrinaJynxGymHeroes59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-60/132",
+            "name": "Sabrina's Slowbro",
+            "number": "60/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SabrinaSlowbroGymHeroes60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-61/132",
+            "name": "Blaine's Charmander",
+            "number": "61/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/BlaineCharmanderGymHeroes61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-62/132",
+            "name": "Blaine's Growlithe",
+            "number": "62/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/BlaineGrowlitheGymHeroes62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-63/132",
+            "name": "Blaine's Ponyta",
+            "number": "63/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/BlainePonytaGymHeroes63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-64/132",
+            "name": "Blaine's Tauros",
+            "number": "64/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/BlaineTaurosGymHeroes64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-65/132",
+            "name": "Blaine's Vulpix",
+            "number": "65/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/BlaineVulpixGymHeroes65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-66/132",
+            "name": "Brock's Geodude",
+            "number": "66/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/BrockGeodudeGymHeroes66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-67/132",
+            "name": "Brock's Mankey",
+            "number": "67/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/BrockMankeyGymHeroes67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-68/132",
+            "name": "Brock's Mankey",
+            "number": "68/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/BrockMankeyGymHeroes68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-69/132",
+            "name": "Brock's Onix",
+            "number": "69/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/BrockOnixGymHeroes69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-70/132",
+            "name": "Brock's Rhyhorn",
+            "number": "70/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/BrockRhyhornGymHeroes70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-71/132",
+            "name": "Brock's Sandshrew",
+            "number": "71/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BrockSandshrewGymHeroes71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-72/132",
+            "name": "Brock's Sandshrew",
+            "number": "72/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/BrockSandshrewGymHeroes72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-73/132",
+            "name": "Brock's Vulpix",
+            "number": "73/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BrockVulpixGymHeroes73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-74/132",
+            "name": "Brock's Zubat",
+            "number": "74/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/BrockZubatGymHeroes74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-75/132",
+            "name": "Erika's Bellsprout",
+            "number": "75/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ErikaBellsproutGymHeroes75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-76/132",
+            "name": "Erika's Bellsprout",
+            "number": "76/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/ErikaBellsproutGymHeroes76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-77/132",
+            "name": "Erika's Exeggcute",
+            "number": "77/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/ErikaExeggcuteGymHeroes77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-78/132",
+            "name": "Erika's Oddish",
+            "number": "78/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ErikaOddishGymHeroes78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-79/132",
+            "name": "Erika's Tangela",
+            "number": "79/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/ErikaTangelaGymHeroes79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-80/132",
+            "name": "Lt. Surge's Magnemite",
+            "number": "80/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/LtSurgeMagnemiteGymHeroes80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-81/132",
+            "name": "Lt. Surge's Pikachu",
+            "number": "81/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/LtSurgePikachuGymHeroes81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-82/132",
+            "name": "Lt. Surge's Rattata",
+            "number": "82/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/LtSurgeRattataGymHeroes82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-83/132",
+            "name": "Lt. Surge's Spearow",
+            "number": "83/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/LtSurgeSpearowGymHeroes83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-84/132",
+            "name": "Lt. Surge's Voltorb",
+            "number": "84/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/LtSurgeVoltorbGymHeroes84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-85/132",
+            "name": "Misty's Goldeen",
+            "number": "85/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/MistyGoldeenGymHeroes85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-86/132",
+            "name": "Misty's Horsea",
+            "number": "86/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/MistyHorseaGymHeroes86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-87/132",
+            "name": "Misty's Poliwag",
+            "number": "87/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/MistyPoliwagGymHeroes87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-88/132",
+            "name": "Misty's Seel",
+            "number": "88/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MistySeelGymHeroes88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-89/132",
+            "name": "Misty's Shellder",
+            "number": "89/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MistyShellderGymHeroes89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-90/132",
+            "name": "Misty's Staryu",
+            "number": "90/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/MistyStaryuGymHeroes90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-91/132",
+            "name": "Sabrina's Abra",
+            "number": "91/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SabrinaAbraGymHeroes91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-92/132",
+            "name": "Sabrina's Drowzee",
+            "number": "92/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/SabrinaDrowzeeGymHeroes92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-93/132",
+            "name": "Sabrina's Gastly",
+            "number": "93/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/SabrinaGastlyGymHeroes93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-94/132",
+            "name": "Sabrina's Mr. Mime",
+            "number": "94/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/SabrinaMrMimeGymHeroes94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-95/132",
+            "name": "Sabrina's Slowpoke",
+            "number": "95/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/SabrinaSlowpokeGymHeroes95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-96/132",
+            "name": "Sabrina's Venonat",
+            "number": "96/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SabrinaVenonatGymHeroes96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-97/132",
+            "name": "Blaine's Quiz #1",
+            "number": "97/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/BlaineQuiz1GymHeroes97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-98/132",
+            "name": "Brock",
+            "number": "98/132",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/BrockGymHeroes98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-99/132",
+            "name": "Charity",
+            "number": "99/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/CharityGymHeroes99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-100/132",
+            "name": "Erika",
+            "number": "100/132",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ErikaGymHeroes100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-101/132",
+            "name": "Lt. Surge",
+            "number": "101/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/LtSurgeGymHeroes101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-102/132",
+            "name": "Misty",
+            "number": "102/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MistyGymHeroes102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-103/132",
+            "name": "No Removal Gym",
+            "number": "103/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/NoRemovalGymGymHeroes103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-104/132",
+            "name": "The Rocket's Training Gym",
+            "number": "104/132",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/TheRocketTrainingGymGymHeroes104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-105/132",
+            "name": "Blaine's Last Resort",
+            "number": "105/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/BlaineLastResortGymHeroes105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-106/132",
+            "name": "Brock's Training Method",
+            "number": "106/132",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/BrockTrainingMethodGymHeroes106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-107/132",
+            "name": "Celadon City Gym",
+            "number": "107/132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/CeladonCityGymGymHeroes107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-108/132",
+            "name": "Cerulean City Gym",
+            "number": "108/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/CeruleanCityGymGymHeroes108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-109/132",
+            "name": "Erika's Maids",
+            "number": "109/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/ErikaMaidsGymHeroes109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-110/132",
+            "name": "Erika's Perfume",
+            "number": "110/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/ErikaPerfumeGymHeroes110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-111/132",
+            "name": "Good Manners",
+            "number": "111/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/GoodMannersGymHeroes111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-112/132",
+            "name": "Lt. Surge's Treaty",
+            "number": "112/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/LtSurgeTreatyGymHeroes112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-113/132",
+            "name": "Minion of Team Rocket",
+            "number": "113/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MinionTeamRocketGymHeroes113.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-114/132",
+            "name": "Misty's Wrath",
+            "number": "114/132",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MistyWrathGymHeroes114.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-115/132",
+            "name": "Pewter City Gym",
+            "number": "115/132",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/PewterCityGymGymHeroes115.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-116/132",
+            "name": "Recall",
+            "number": "116/132",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/RecallGymHeroes116.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-117/132",
+            "name": "Sabrina's ESP",
+            "number": "117/132",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/SabrinaESPGymHeroes117.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-118/132",
+            "name": "Secret Mission",
+            "number": "118/132",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/SecretMissionGymHeroes118.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-119/132",
+            "name": "Tickling Machine",
+            "number": "119/132",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/TicklingMachineGymHeroes119.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-120/132",
+            "name": "Vermilion City Gym",
+            "number": "120/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/VermilionCityGymGymHeroes120.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-121/132",
+            "name": "Blaine's Gamble",
+            "number": "121/132",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/BlaineGambleGymHeroes121.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-122/132",
+            "name": "Energy Flow",
+            "number": "122/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/EnergyFlowGymHeroes122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-123/132",
+            "name": "Misty's Duel",
+            "number": "123/132",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/MistyDuelGymHeroes123.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-124/132",
+            "name": "Narrow Gym",
+            "number": "124/132",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/NarrowGymGymHeroes124.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-125/132",
+            "name": "Sabrina's Gaze",
+            "number": "125/132",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/SabrinaGazeGymHeroes125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-126/132",
+            "name": "Trash Exchange",
+            "number": "126/132",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/TrashExchangeGymHeroes126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-127/132",
+            "name": "Fighting Energy",
+            "number": "127/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-128/132",
+            "name": "Fire Energy",
+            "number": "128/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-129/132",
+            "name": "Grass Energy",
+            "number": "129/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-130/132",
+            "name": "Lightning Energy",
+            "number": "130/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-131/132",
+            "name": "Psychic Energy",
+            "number": "131/132",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "G1-132/132",
+            "name": "Water Energy",
+            "number": "132/132",
+            "image": null,
+            "section": "Set principale"
+        }
+    ]
+}

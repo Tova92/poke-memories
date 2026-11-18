@@ -1,0 +1,818 @@
+{
+    "expansion": {
+        "id": "BLW",
+        "name": "Nero e Bianco",
+				"year": 2011,
+				"month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetNero_e_Bianco.png",
+        "cardCount": 115
+    },
+    "cards": [
+        {
+            "id": "BLW-1/114",
+            "name": "Snivy",
+            "number": "1/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/SnivyNeroeBianco1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-2/114",
+            "name": "Snivy",
+            "number": "2/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/SnivyNeroeBianco2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-3/114",
+            "name": "Servine",
+            "number": "3/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/ServineNeroeBianco3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-4/114",
+            "name": "Servine",
+            "number": "4/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ServineNeroeBianco4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-5/114",
+            "name": "Serperior",
+            "number": "5/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/SerperiorNeroeBianco5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-6/114",
+            "name": "Serperior",
+            "number": "6/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/SerperiorNeroeBianco6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-7/114",
+            "name": "Pansage",
+            "number": "7/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/PansageNeroeBianco7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-8/114",
+            "name": "Simisage",
+            "number": "8/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/SimisageNeroeBianco8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-9/114",
+            "name": "Petilil",
+            "number": "9/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/PetililNeroeBianco9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-10/114",
+            "name": "Lilligant",
+            "number": "10/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/LilligantNeroeBianco10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-11/114",
+            "name": "Maractus",
+            "number": "11/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MaractusNeroeBianco11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-12/114",
+            "name": "Maractus",
+            "number": "12/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/MaractusNeroeBianco12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-13/114",
+            "name": "Deerling",
+            "number": "13/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/DeerlingNeroeBianco13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-14/114",
+            "name": "Sawsbuck",
+            "number": "14/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SawsbuckNeroeBianco14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-15/114",
+            "name": "Tepig",
+            "number": "15/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/TepigNeroeBianco15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-16/114",
+            "name": "Tepig",
+            "number": "16/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/TepigNeroeBianco16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-17/114",
+            "name": "Pignite",
+            "number": "17/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PigniteNeroeBianco17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-18/114",
+            "name": "Pignite",
+            "number": "18/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PigniteNeroeBianco18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-19/114",
+            "name": "Emboar",
+            "number": "19/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/EmboarNeroeBianco19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-20/114",
+            "name": "Emboar",
+            "number": "20/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/EmboarNeroeBianco20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-21/114",
+            "name": "Pansear",
+            "number": "21/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/PansearNeroeBianco21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-22/114",
+            "name": "Simisear",
+            "number": "22/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/SimisearNeroeBianco22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-23/114",
+            "name": "Darumaka",
+            "number": "23/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/DarumakaNeroeBianco23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-24/114",
+            "name": "Darumaka",
+            "number": "24/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/DarumakaNeroeBianco24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-25/114",
+            "name": "Darmanitan",
+            "number": "25/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/DarmanitanNeroeBianco25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-26/114",
+            "name": "Reshiram",
+            "number": "26/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/ReshiramNeroeBianco26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-27/114",
+            "name": "Oshawott",
+            "number": "27/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/OshawottNeroeBianco27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-28/114",
+            "name": "Oshawott",
+            "number": "28/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/OshawottNeroeBianco28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-29/114",
+            "name": "Dewott",
+            "number": "29/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DewottNeroeBianco29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-30/114",
+            "name": "Dewott",
+            "number": "30/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DewottNeroeBianco30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-31/114",
+            "name": "Samurott",
+            "number": "31/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/SamurottNeroeBianco31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-32/114",
+            "name": "Samurott",
+            "number": "32/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/SamurottNeroeBianco32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-33/114",
+            "name": "Panpour",
+            "number": "33/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/PanpourNeroeBianco33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-34/114",
+            "name": "Simipour",
+            "number": "34/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SimipourNeroeBianco34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-35/114",
+            "name": "Basculin",
+            "number": "35/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/BasculinNeroeBianco35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-36/114",
+            "name": "Ducklett",
+            "number": "36/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/DucklettNeroeBianco36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-37/114",
+            "name": "Swanna",
+            "number": "37/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/SwannaNeroeBianco37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-38/114",
+            "name": "Alomomola",
+            "number": "38/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/AlomomolaNeroeBianco38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-39/114",
+            "name": "Alomomola",
+            "number": "39/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/AlomomolaNeroeBianco39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-40/114",
+            "name": "Blitzle",
+            "number": "40/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/BlitzleNeroeBianco40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-41/114",
+            "name": "Blitzle",
+            "number": "41/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/BlitzleNeroeBianco41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-42/114",
+            "name": "Zebstrika",
+            "number": "42/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/ZebstrikaNeroeBianco42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-43/114",
+            "name": "Zebstrika",
+            "number": "43/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ZebstrikaNeroeBianco43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-44/114",
+            "name": "Joltik",
+            "number": "44/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/JoltikNeroeBianco44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-45/114",
+            "name": "Joltik",
+            "number": "45/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/JoltikNeroeBianco45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-46/114",
+            "name": "Galvantula",
+            "number": "46/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/GalvantulaNeroeBianco46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-47/114",
+            "name": "Zekrom",
+            "number": "47/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/ZekromNeroeBianco47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-48/114",
+            "name": "Munna",
+            "number": "48/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/MunnaNeroeBianco48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-49/114",
+            "name": "Musharna",
+            "number": "49/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/MusharnaNeroeBianco49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-50/114",
+            "name": "Woobat",
+            "number": "50/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/WoobatNeroeBianco50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-51/114",
+            "name": "Swoobat",
+            "number": "51/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SwoobatNeroeBianco51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-52/114",
+            "name": "Venipede",
+            "number": "52/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/VenipedeNeroeBianco52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-53/114",
+            "name": "Whirlipede",
+            "number": "53/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/WhirlipedeNeroeBianco53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-54/114",
+            "name": "Scolipede",
+            "number": "54/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ScolipedeNeroeBianco54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-55/114",
+            "name": "Solosis",
+            "number": "55/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SolosisNeroeBianco55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-56/114",
+            "name": "Duosion",
+            "number": "56/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DuosionNeroeBianco56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-57/114",
+            "name": "Reuniclus",
+            "number": "57/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/ReuniclusNeroeBianco57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-58/114",
+            "name": "Timburr",
+            "number": "58/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/TimburrNeroeBianco58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-59/114",
+            "name": "Timburr",
+            "number": "59/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/TimburrNeroeBianco59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-60/114",
+            "name": "Gurdurr",
+            "number": "60/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/GurdurrNeroeBianco60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-61/114",
+            "name": "Throh",
+            "number": "61/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ThrohNeroeBianco61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-62/114",
+            "name": "Sawk",
+            "number": "62/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SawkNeroeBianco62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-63/114",
+            "name": "Sandile",
+            "number": "63/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/SandileNeroeBianco63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-64/114",
+            "name": "Krokorok",
+            "number": "64/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/KrokorokNeroeBianco64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-65/114",
+            "name": "Krookodile",
+            "number": "65/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/KrookodileNeroeBianco65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-66/114",
+            "name": "Purrloin",
+            "number": "66/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/PurrloinNeroeBianco66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-67/114",
+            "name": "Liepard",
+            "number": "67/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/LiepardNeroeBianco67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-68/114",
+            "name": "Scraggy",
+            "number": "68/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/ScraggyNeroeBianco68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-69/114",
+            "name": "Scrafty",
+            "number": "69/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/ScraftyNeroeBianco69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-70/114",
+            "name": "Zorua",
+            "number": "70/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/ZoruaNeroeBianco70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-71/114",
+            "name": "Zoroark",
+            "number": "71/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ZoroarkNeroeBianco71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-72/114",
+            "name": "Vullaby",
+            "number": "72/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/VullabyNeroeBianco72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-73/114",
+            "name": "Mandibuzz",
+            "number": "73/114",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MandibuzzNeroeBianco73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-74/114",
+            "name": "Klink",
+            "number": "74/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/KlinkNeroeBianco74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-75/114",
+            "name": "Klang",
+            "number": "75/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/KlangNeroeBianco75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-76/114",
+            "name": "Klinklang",
+            "number": "76/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/KlinklangNeroeBianco76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-77/114",
+            "name": "Patrat",
+            "number": "77/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/PatratNeroeBianco77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-78/114",
+            "name": "Patrat",
+            "number": "78/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/PatratNeroeBianco78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-79/114",
+            "name": "Watchog",
+            "number": "79/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/WatchogNeroeBianco79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-80/114",
+            "name": "Lillipup",
+            "number": "80/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/LillipupNeroeBianco80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-81/114",
+            "name": "Lillipup",
+            "number": "81/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/LillipupNeroeBianco81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-82/114",
+            "name": "Herdier",
+            "number": "82/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/HerdierNeroeBianco82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-83/114",
+            "name": "Stoutland",
+            "number": "83/114",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/StoutlandNeroeBianco83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-84/114",
+            "name": "Pidove",
+            "number": "84/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/PidoveNeroeBianco84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-85/114",
+            "name": "Tranquill",
+            "number": "85/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/TranquillNeroeBianco85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-86/114",
+            "name": "Unfezant",
+            "number": "86/114",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/UnfezantNeroeBianco86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-87/114",
+            "name": "Audino",
+            "number": "87/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/AudinoNeroeBianco87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-88/114",
+            "name": "Minccino",
+            "number": "88/114",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MinccinoNeroeBianco88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-89/114",
+            "name": "Cinccino",
+            "number": "89/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/CinccinoNeroeBianco89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-90/114",
+            "name": "Bouffalant",
+            "number": "90/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/BouffalantNeroeBianco90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-91/114",
+            "name": "Bouffalant",
+            "number": "91/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/BouffalantNeroeBianco91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-92/114",
+            "name": "Recupero di Energia",
+            "number": "92/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/RecuperodiEnergiaNeroeBianco92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-93/114",
+            "name": "Ricerca di Energia",
+            "number": "93/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/RicercadiEnergiaNeroeBianco93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-94/114",
+            "name": "Scambio di Energia",
+            "number": "94/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ScambiodiEnergiaNeroeBianco94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-95/114",
+            "name": "Recupero Totale",
+            "number": "95/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/RecuperoTotaleNeroeBianco95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-96/114",
+            "name": "PlusPotenza",
+            "number": "96/114",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/PlusPotenzaNeroeBianco96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-97/114",
+            "name": "Poké Ball",
+            "number": "97/114",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/Pok%C3%A9BallNeroeBianco97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-98/114",
+            "name": "Pokédex",
+            "number": "98/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/Pok%C3%A9dexNeroeBianco98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-99/114",
+            "name": "Comunicazione Pokémon",
+            "number": "99/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/ComunicazionePok%C3%A9monNeroeBianco99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-100/114",
+            "name": "Pozione",
+            "number": "100/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/PozioneNeroeBianco100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-101/114",
+            "name": "Prof.ssa Aralia",
+            "number": "101/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ProfssaAraliaNeroeBianco101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-102/114",
+            "name": "Revitalizzante",
+            "number": "102/114",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/RevitalizzanteNeroeBianco102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-103/114",
+            "name": "Super Recupero",
+            "number": "103/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/SuperRecuperoNeroeBianco103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-104/114",
+            "name": "Scambio",
+            "number": "104/114",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/ScambioNeroeBianco104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-105/114",
+            "name": "Energia Erba",
+            "number": "105/114",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/EnergiaErbaNeroeBianco105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-106/114",
+            "name": "Energia Fuoco",
+            "number": "106/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EnergiaFuocoNeroeBianco106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-107/114",
+            "name": "Energia Acqua",
+            "number": "107/114",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/EnergiaAcquaNeroeBianco107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-108/114",
+            "name": "Energia Lampo",
+            "number": "108/114",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/EnergiaLampoNeroeBianco108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-109/114",
+            "name": "Energia Psiche",
+            "number": "109/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/EnergiaPsicheNeroeBianco109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-110/114",
+            "name": "Energia Combattimento",
+            "number": "110/114",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/EnergiaCombattimentoNeroeBianco110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-111/114",
+            "name": "Energia Oscurità",
+            "number": "111/114",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/EnergiaOscurit%C3%A0NeroeBianco111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-112/114",
+            "name": "Energia Metallo",
+            "number": "112/114",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/EnergiaMetalloNeroeBianco112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-113/114",
+            "name": "Reshiram",
+            "number": "113/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/ReshiramNeroeBianco113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-114/114",
+            "name": "Zekrom",
+            "number": "114/114",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/ZekromNeroeBianco114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "BLW-115/114",
+            "name": "Pikachu",
+            "number": "115/114",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PikachuNeroeBianco115.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

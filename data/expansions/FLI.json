@@ -1,0 +1,1064 @@
+{
+    "expansion": {
+        "id": "FLI",
+        "name": "Sole e Luna - Apocalisse di Luce",
+        "year": 2018,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetApocalisse_di_Luce.png",
+        "cardCount": 146,
+				"yellowAAlternateCardCount": 4
+    },
+    "cards": [
+        {
+            "id": "FLI-1/131",
+            "name": "Exeggcute",
+            "number": "1/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/ExeggcuteApocalissediLuce1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-2/131",
+            "name": "Exeggutor di Alola",
+            "number": "2/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ExeggutordiAlolaApocalissediLuce2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-3/131",
+            "name": "Snover",
+            "number": "3/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/SnoverApocalissediLuce3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-4/131",
+            "name": "Abomasnow",
+            "number": "4/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/AbomasnowApocalissediLuce4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-5/131",
+            "name": "Scatterbug",
+            "number": "5/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ScatterbugApocalissediLuce5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-6/131",
+            "name": "Scatterbug",
+            "number": "6/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/ScatterbugApocalissediLuce6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-7/131",
+            "name": "Spewpa",
+            "number": "7/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/SpewpaApocalissediLuce7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-8/131",
+            "name": "Vivillon",
+            "number": "8/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/VivillonApocalissediLuce8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-9/131",
+            "name": "Skiddo",
+            "number": "9/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/SkiddoApocalissediLuce9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-10/131",
+            "name": "Gogoat",
+            "number": "10/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/GogoatApocalissediLuce10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-11/131",
+            "name": "Pheromosa",
+            "number": "11/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PheromosaApocalissediLuce11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-12/131",
+            "name": "Marowak di Alola",
+            "number": "12/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/MarowakdiAlolaApocalissediLuce12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-13/131",
+            "name": "Heatran",
+            "number": "13/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/HeatranApocalissediLuce13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-14/131",
+            "name": "Fennekin",
+            "number": "14/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/FennekinApocalissediLuce14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-15/131",
+            "name": "Fennekin",
+            "number": "15/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/FennekinApocalissediLuce15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-16/131",
+            "name": "Braixen",
+            "number": "16/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/BraixenApocalissediLuce16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-17/131",
+            "name": "Delphox",
+            "number": "17/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/DelphoxApocalissediLuce17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-18/131",
+            "name": "Litleo",
+            "number": "18/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/LitleoApocalissediLuce18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-19/131",
+            "name": "Pyroar",
+            "number": "19/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PyroarApocalissediLuce19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-20/131",
+            "name": "Palkia-GX",
+            "number": "20/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Palkia-GXApocalissediLuce20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-21/131",
+            "name": "Froakie",
+            "number": "21/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/FroakieApocalissediLuce21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-22/131",
+            "name": "Froakie",
+            "number": "22/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/FroakieApocalissediLuce22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-23/131",
+            "name": "Frogadier",
+            "number": "23/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/FrogadierApocalissediLuce23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-24/131",
+            "name": "Greninja-GX",
+            "number": "24/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Greninja-GXApocalissediLuce24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-25/131",
+            "name": "Clauncher",
+            "number": "25/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/ClauncherApocalissediLuce25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-26/131",
+            "name": "Clawitzer",
+            "number": "26/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ClawitzerApocalissediLuce26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-27/131",
+            "name": "Amaura",
+            "number": "27/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/AmauraApocalissediLuce27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-28/131",
+            "name": "Aurorus",
+            "number": "28/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/AurorusApocalissediLuce28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-29/131",
+            "name": "Bergmite",
+            "number": "29/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/BergmiteApocalissediLuce29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-30/131",
+            "name": "Avalugg",
+            "number": "30/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/AvaluggApocalissediLuce30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-31/131",
+            "name": "Volcanion ◇",
+            "number": "31/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/VolcanionApocalissediLuce31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-32/131",
+            "name": "Dewpider",
+            "number": "32/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/DewpiderApocalissediLuce32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-33/131",
+            "name": "Araquanid",
+            "number": "33/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/AraquanidApocalissediLuce33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-34/131",
+            "name": "Magnemite",
+            "number": "34/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MagnemiteApocalissediLuce34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-35/131",
+            "name": "Magneton",
+            "number": "35/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/MagnetonApocalissediLuce35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-36/131",
+            "name": "Magnezone",
+            "number": "36/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/MagnezoneApocalissediLuce36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-37/131",
+            "name": "Helioptile",
+            "number": "37/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/HelioptileApocalissediLuce37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-38/131",
+            "name": "Heliolisk",
+            "number": "38/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/HelioliskApocalissediLuce38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-39/131",
+            "name": "Xurkitree",
+            "number": "39/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/XurkitreeApocalissediLuce39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-40/131",
+            "name": "Rotom",
+            "number": "40/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/RotomApocalissediLuce40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-41/131",
+            "name": "Uxie",
+            "number": "41/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/UxieApocalissediLuce41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-42/131",
+            "name": "Mesprit",
+            "number": "42/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MespritApocalissediLuce42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-43/131",
+            "name": "Azelf",
+            "number": "43/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/AzelfApocalissediLuce43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-44/131",
+            "name": "Espurr",
+            "number": "44/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/EspurrApocalissediLuce44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-45/131",
+            "name": "Meowstic",
+            "number": "45/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/MeowsticApocalissediLuce45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-46/131",
+            "name": "Honedge",
+            "number": "46/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/HonedgeApocalissediLuce46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-47/131",
+            "name": "Honedge",
+            "number": "47/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/HonedgeApocalissediLuce47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-48/131",
+            "name": "Doublade",
+            "number": "48/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/DoubladeApocalissediLuce48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-49/131",
+            "name": "Aegislash",
+            "number": "49/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/AegislashApocalissediLuce49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-50/131",
+            "name": "Inkay",
+            "number": "50/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/InkayApocalissediLuce50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-51/131",
+            "name": "Malamar",
+            "number": "51/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MalamarApocalissediLuce51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-52/131",
+            "name": "Skrelp",
+            "number": "52/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SkrelpApocalissediLuce52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-53/131",
+            "name": "Dragalge",
+            "number": "53/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/DragalgeApocalissediLuce53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-54/131",
+            "name": "Hoopa",
+            "number": "54/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/HoopaApocalissediLuce54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-55/131",
+            "name": "Poipole",
+            "number": "55/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/PoipoleApocalissediLuce55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-56/131",
+            "name": "Naganadel-GX",
+            "number": "56/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Naganadel-GXApocalissediLuce56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-57/131",
+            "name": "Cubone",
+            "number": "57/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/CuboneApocalissediLuce57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-58/131",
+            "name": "Torterra",
+            "number": "58/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/TorterraApocalissediLuce58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-59/131",
+            "name": "Infernape",
+            "number": "59/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/InfernapeApocalissediLuce59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-60/131",
+            "name": "Gible",
+            "number": "60/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/GibleApocalissediLuce60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-61/131",
+            "name": "Gabite",
+            "number": "61/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/GabiteApocalissediLuce61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-62/131",
+            "name": "Garchomp",
+            "number": "62/131",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/GarchompApocalissediLuce62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-63/131",
+            "name": "Croagunk",
+            "number": "63/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/CroagunkApocalissediLuce63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-64/131",
+            "name": "Toxicroak",
+            "number": "64/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/ToxicroakApocalissediLuce64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-65/131",
+            "name": "Pancham",
+            "number": "65/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/PanchamApocalissediLuce65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-66/131",
+            "name": "Binacle",
+            "number": "66/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/BinacleApocalissediLuce66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-67/131",
+            "name": "Barbaracle",
+            "number": "67/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/BarbaracleApocalissediLuce67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-68/131",
+            "name": "Tyrunt",
+            "number": "68/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/TyruntApocalissediLuce68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-69/131",
+            "name": "Tyrantrum",
+            "number": "69/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/TyrantrumApocalissediLuce69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-70/131",
+            "name": "Hawlucha",
+            "number": "70/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/HawluchaApocalissediLuce70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-71/131",
+            "name": "Zygarde",
+            "number": "71/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/ZygardeApocalissediLuce71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-72/131",
+            "name": "Zygarde",
+            "number": "72/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/ZygardeApocalissediLuce72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-73/131",
+            "name": "Zygarde-GX",
+            "number": "73/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/Zygarde-GXApocalissediLuce73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-74/131",
+            "name": "Diancie ◇",
+            "number": "74/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/DiancieApocalissediLuce74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-75/131",
+            "name": "Rockruff",
+            "number": "75/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/RockruffApocalissediLuce75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-76/131",
+            "name": "Lycanroc",
+            "number": "76/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/LycanrocApocalissediLuce76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-77/131",
+            "name": "Buzzwole",
+            "number": "77/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/BuzzwoleApocalissediLuce77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-78/131",
+            "name": "Pangoro",
+            "number": "78/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/PangoroApocalissediLuce78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-79/131",
+            "name": "Yveltal-GX",
+            "number": "79/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Yveltal-GXApocalissediLuce79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-80/131",
+            "name": "Guzzlord",
+            "number": "80/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/GuzzlordApocalissediLuce80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-81/131",
+            "name": "Empoleon",
+            "number": "81/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/EmpoleonApocalissediLuce81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-82/131",
+            "name": "Dialga-GX",
+            "number": "82/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Dialga-GXApocalissediLuce82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-83/131",
+            "name": "Flabébé",
+            "number": "83/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/Flab%C3%A9b%C3%A9ApocalissediLuce83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-84/131",
+            "name": "Flabébé",
+            "number": "84/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Flab%C3%A9b%C3%A9ApocalissediLuce84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-85/131",
+            "name": "Floette",
+            "number": "85/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/FloetteApocalissediLuce85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-86/131",
+            "name": "Florges",
+            "number": "86/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/FlorgesApocalissediLuce86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-87/131",
+            "name": "Sylveon",
+            "number": "87/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/SylveonApocalissediLuce87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-88/131",
+            "name": "Dedenne",
+            "number": "88/131",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/DedenneApocalissediLuce88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-89/131",
+            "name": "Klefki",
+            "number": "89/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/KlefkiApocalissediLuce89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-90/131",
+            "name": "Xerneas-GX",
+            "number": "90/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Xerneas-GXApocalissediLuce90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-91/131",
+            "name": "Goomy",
+            "number": "91/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/GoomyApocalissediLuce91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-92/131",
+            "name": "Goomy",
+            "number": "92/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/GoomyApocalissediLuce92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-93/131",
+            "name": "Sliggoo",
+            "number": "93/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SliggooApocalissediLuce93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-94/131",
+            "name": "Goodra",
+            "number": "94/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/GoodraApocalissediLuce94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-95/131",
+            "name": "UltraNecrozma-GX",
+            "number": "95/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/UltraNecrozma-GXApocalissediLuce95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-96/131",
+            "name": "Arceus ◇",
+            "number": "96/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/ArceusApocalissediLuce96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-97/131",
+            "name": "Bunnelby",
+            "number": "97/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BunnelbyApocalissediLuce97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-98/131",
+            "name": "Diggersby",
+            "number": "98/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/DiggersbyApocalissediLuce98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-99/131",
+            "name": "Furfrou",
+            "number": "99/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/FurfrouApocalissediLuce99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-100/131",
+            "name": "Noibat",
+            "number": "100/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/NoibatApocalissediLuce100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-101/131",
+            "name": "Noivern",
+            "number": "101/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/NoivernApocalissediLuce101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-102/131",
+            "name": "Cerchio Creatura",
+            "number": "102/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/CerchioCreaturaApocalissediLuce102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-103/131",
+            "name": "Clem",
+            "number": "103/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/ClemApocalissediLuce103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-104/131",
+            "name": "Omar il Distruttore",
+            "number": "104/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/OmarilDistruttoreApocalissediLuce104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-105/131",
+            "name": "Diantha",
+            "number": "105/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/DianthaApocalissediLuce105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-106/131",
+            "name": "Energitrasporto",
+            "number": "106/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/EnergitrasportoApocalissediLuce106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-107/131",
+            "name": "Mappa Scavafossili",
+            "number": "107/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/MappaScavafossiliApocalissediLuce107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-108/131",
+            "name": "Arbitro",
+            "number": "108/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ArbitroApocalissediLuce108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-109/131",
+            "name": "Lady",
+            "number": "109/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/LadyApocalissediLuce109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-110/131",
+            "name": "Elisio ◇",
+            "number": "110/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ElisioApocalissediLuce110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-111/131",
+            "name": "Laboratori Elisio",
+            "number": "111/131",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/LaboratoriElisioApocalissediLuce111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-112/131",
+            "name": "Padella di Metallo",
+            "number": "112/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PadelladiMetalloApocalissediLuce112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-113/131",
+            "name": "Tesoro Misterioso",
+            "number": "113/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/TesoroMisteriosoApocalissediLuce113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-114/131",
+            "name": "Ultrapattuglia",
+            "number": "114/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/UltrapattugliaApocalissediLuce114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-115/131",
+            "name": "Ultramondo",
+            "number": "115/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/UltramondoApocalissediLuce115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-116/131",
+            "name": "Fossile Sconosciuto",
+            "number": "116/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/FossileSconosciutoApocalissediLuce116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-117/131",
+            "name": "Energia Creatura ◇",
+            "number": "117/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/EnergiaCreaturaApocalissediLuce117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-118/131",
+            "name": "Energia Unione LOF",
+            "number": "118/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/EnergiaUnioneLOFApocalissediLuce118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-119/131",
+            "name": "Palkia-GX",
+            "number": "119/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Palkia-GXApocalissediLuce119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-120/131",
+            "name": "Greninja-GX",
+            "number": "120/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Greninja-GXApocalissediLuce120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-121/131",
+            "name": "Naganadel-GX",
+            "number": "121/131",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Naganadel-GXApocalissediLuce121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-122/131",
+            "name": "Lucario-GX",
+            "number": "122/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Lucario-GXApocalissediLuce122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-123/131",
+            "name": "Zygarde-GX",
+            "number": "123/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Zygarde-GXApocalissediLuce123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-124/131",
+            "name": "Yveltal-GX",
+            "number": "124/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/Yveltal-GXApocalissediLuce124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-125/131",
+            "name": "Dialga-GX",
+            "number": "125/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Dialga-GXApocalissediLuce125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-126/131",
+            "name": "Xerneas-GX",
+            "number": "126/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Xerneas-GXApocalissediLuce126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-127/131",
+            "name": "UltraNecrozma-GX",
+            "number": "127/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/UltraNecrozma-GXApocalissediLuce127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-128/131",
+            "name": "Clem",
+            "number": "128/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ClemApocalissediLuce128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-129/131",
+            "name": "Omar il Distruttore",
+            "number": "129/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/OmarilDistruttoreApocalissediLuce129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-130/131",
+            "name": "Diantha",
+            "number": "130/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/DianthaApocalissediLuce130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-131/131",
+            "name": "Ultrapattuglia",
+            "number": "131/131",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/UltrapattugliaApocalissediLuce131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLI-132/131",
+            "name": "Palkia-GX",
+            "number": "132/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Palkia-GXApocalissediLuce132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-133/131",
+            "name": "Greninja-GX",
+            "number": "133/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/Greninja-GXApocalissediLuce133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-134/131",
+            "name": "Naganadel-GX",
+            "number": "134/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/Naganadel-GXApocalissediLuce134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-135/131",
+            "name": "Lucario-GX",
+            "number": "135/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Lucario-GXApocalissediLuce135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-136/131",
+            "name": "Zygarde-GX",
+            "number": "136/131",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/Zygarde-GXApocalissediLuce136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-137/131",
+            "name": "Yveltal-GX",
+            "number": "137/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Yveltal-GXApocalissediLuce137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-138/131",
+            "name": "Dialga-GX",
+            "number": "138/131",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Dialga-GXApocalissediLuce138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-139/131",
+            "name": "Xerneas-GX",
+            "number": "139/131",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Xerneas-GXApocalissediLuce139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-140/131",
+            "name": "UltraNecrozma-GX",
+            "number": "140/131",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/UltraNecrozma-GXApocalissediLuce140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-141/131",
+            "name": "Cerchio Creatura",
+            "number": "141/131",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/CerchioCreaturaApocalissediLuce141.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-142/131",
+            "name": "Energitrasporto",
+            "number": "142/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/EnergitrasportoApocalissediLuce142.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-143/131",
+            "name": "Riciclaggio di Energia",
+            "number": "143/131",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/RiciclaggiodiEnergiaApocalissediLuce143.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-144/131",
+            "name": "Padella di Metallo",
+            "number": "144/131",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/PadelladiMetalloApocalissediLuce144.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-145/131",
+            "name": "Tesoro Misterioso",
+            "number": "145/131",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/TesoroMisteriosoApocalissediLuce145.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-146/131",
+            "name": "Energia Unione LOF",
+            "number": "146/131",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/EnergiaUnioneLOFApocalissediLuce146.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLI-2a/131",
+            "name": "Exeggutor di Alola",
+            "number": "2a/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/ExeggutordiAlolaApocalissediLuce2a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "FLI-102a/131",
+            "name": "Cerchio Creatura",
+            "number": "102a/131",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "FLI-112a/131",
+            "name": "Padella di Metallo",
+            "number": "112a/131",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/PadelladiMetalloApocalissediLuce112a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "FLI-113a/131",
+            "name": "Tesoro Misterioso",
+            "number": "113a/131",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/TesoroMisteriosoApocalissediLuce113a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

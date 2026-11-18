@@ -1,0 +1,917 @@
+{
+    "expansion": {
+        "id": "FCO",
+        "name": "XY - Destini Incrociati",
+        "year": 2016,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/67/SimboloSetDestini_Incrociati.png",
+        "cardCount": 125,
+				"yellowAAlternateCardCount": 4
+    },
+    "cards": [
+        {
+            "id": "FCO-1/124",
+            "name": "Shuckle",
+            "number": "1/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/ShuckleDestiniIncrociati1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-2/124",
+            "name": "Burmy",
+            "number": "2/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/BurmyDestiniIncrociati2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-3/124",
+            "name": "Wormadam",
+            "number": "3/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/WormadamDestiniIncrociati3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-4/124",
+            "name": "Mothim",
+            "number": "4/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/MothimDestiniIncrociati4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-5/124",
+            "name": "Snivy",
+            "number": "5/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SnivyDestiniIncrociati5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-6/124",
+            "name": "Servine",
+            "number": "6/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/ServineDestiniIncrociati6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-7/124",
+            "name": "Serperior",
+            "number": "7/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/SerperiorDestiniIncrociati7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-8/124",
+            "name": "Deerling",
+            "number": "8/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/DeerlingDestiniIncrociati8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-9/124",
+            "name": "Moltres",
+            "number": "9/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MoltresDestiniIncrociati9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-10/124",
+            "name": "Fennekin",
+            "number": "10/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/FennekinDestiniIncrociati10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-11/124",
+            "name": "Fennekin",
+            "number": "11/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/FennekinDestiniIncrociati11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-12/124",
+            "name": "Braixen",
+            "number": "12/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/BraixenDestiniIncrociati12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-13/124",
+            "name": "Delphox",
+            "number": "13/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/DelphoxDestiniIncrociati13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-14/124",
+            "name": "Delphox TURBO",
+            "number": "14/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/DelphoxTURBODestiniIncrociati14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-15/124",
+            "name": "Seel",
+            "number": "15/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/SeelDestiniIncrociati15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-16/124",
+            "name": "Dewgong",
+            "number": "16/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/DewgongDestiniIncrociati16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-17/124",
+            "name": "Omanyte",
+            "number": "17/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/OmanyteDestiniIncrociati17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-18/124",
+            "name": "Omastar",
+            "number": "18/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/OmastarDestiniIncrociati18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-19/124",
+            "name": "Omastar TURBO",
+            "number": "19/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/OmastarTURBODestiniIncrociati19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-20/124",
+            "name": "Glaceon-EX",
+            "number": "20/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/Glaceon-EXDestiniIncrociati20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-21/124",
+            "name": "Kyurem Bianco",
+            "number": "21/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/KyuremBiancoDestiniIncrociati21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-22/124",
+            "name": "Binacle",
+            "number": "22/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/BinacleDestiniIncrociati22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-23/124",
+            "name": "Barbaracle",
+            "number": "23/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/BarbaracleDestiniIncrociati23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-24/124",
+            "name": "Rotom",
+            "number": "24/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/RotomDestiniIncrociati24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-25/124",
+            "name": "Alakazam-EX",
+            "number": "25/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/Alakazam-EXDestiniIncrociati25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-26/124",
+            "name": "M Alakazam-EX",
+            "number": "26/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MAlakazam-EXDestiniIncrociati26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-27/124",
+            "name": "Koffing",
+            "number": "27/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/KoffingDestiniIncrociati27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-28/124",
+            "name": "Weezing",
+            "number": "28/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/WeezingDestiniIncrociati28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-29/124",
+            "name": "Mew",
+            "number": "29/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/MewDestiniIncrociati29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-30/124",
+            "name": "Spoink",
+            "number": "30/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/SpoinkDestiniIncrociati30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-31/124",
+            "name": "Grumpig",
+            "number": "31/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/GrumpigDestiniIncrociati31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-32/124",
+            "name": "Gothita",
+            "number": "32/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/GothitaDestiniIncrociati32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-33/124",
+            "name": "Solosis",
+            "number": "33/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/SolosisDestiniIncrociati33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-34/124",
+            "name": "Duosion",
+            "number": "34/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/DuosionDestiniIncrociati34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-35/124",
+            "name": "Reuniclus",
+            "number": "35/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/ReuniclusDestiniIncrociati35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-36/124",
+            "name": "Diglett",
+            "number": "36/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/DiglettDestiniIncrociati36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-37/124",
+            "name": "Marowak",
+            "number": "37/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/MarowakDestiniIncrociati37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-38/124",
+            "name": "Kabuto",
+            "number": "38/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/KabutoDestiniIncrociati38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-39/124",
+            "name": "Kabutops",
+            "number": "39/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/KabutopsDestiniIncrociati39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-40/124",
+            "name": "Larvitar",
+            "number": "40/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/LarvitarDestiniIncrociati40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-41/124",
+            "name": "Larvitar",
+            "number": "41/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/LarvitarDestiniIncrociati41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-42/124",
+            "name": "Pupitar",
+            "number": "42/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/PupitarDestiniIncrociati42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-43/124",
+            "name": "Regirock-EX",
+            "number": "43/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/Regirock-EXDestiniIncrociati43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-44/124",
+            "name": "Wormadam",
+            "number": "44/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/WormadamDestiniIncrociati44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-45/124",
+            "name": "Riolu",
+            "number": "45/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/RioluDestiniIncrociati45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-46/124",
+            "name": "Riolu",
+            "number": "46/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/RioluDestiniIncrociati46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-47/124",
+            "name": "Lucario",
+            "number": "47/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/LucarioDestiniIncrociati47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-48/124",
+            "name": "Hawlucha",
+            "number": "48/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/HawluchaDestiniIncrociati48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-49/124",
+            "name": "Carbink",
+            "number": "49/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/CarbinkDestiniIncrociati49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-50/124",
+            "name": "Carbink",
+            "number": "50/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/CarbinkDestiniIncrociati50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-51/124",
+            "name": "Carbink TURBO",
+            "number": "51/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/CarbinkTURBODestiniIncrociati51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-52/124",
+            "name": "Zygarde",
+            "number": "52/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ZygardeDestiniIncrociati52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-53/124",
+            "name": "Zygarde",
+            "number": "53/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/ZygardeDestiniIncrociati53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-54/124",
+            "name": "Zygarde-EX",
+            "number": "54/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Zygarde-EXDestiniIncrociati54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-55/124",
+            "name": "Umbreon-EX",
+            "number": "55/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Umbreon-EXDestiniIncrociati55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-56/124",
+            "name": "Tyranitar",
+            "number": "56/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/TyranitarDestiniIncrociati56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-57/124",
+            "name": "Vullaby",
+            "number": "57/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/VullabyDestiniIncrociati57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-58/124",
+            "name": "Mandibuzz",
+            "number": "58/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/MandibuzzDestiniIncrociati58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-59/124",
+            "name": "Wormadam",
+            "number": "59/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/WormadamDestiniIncrociati59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-60/124",
+            "name": "Bronzor",
+            "number": "60/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/BronzorDestiniIncrociati60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-61/124",
+            "name": "Bronzong",
+            "number": "61/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/BronzongDestiniIncrociati61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-62/124",
+            "name": "Bronzong TURBO",
+            "number": "62/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/BronzongTURBODestiniIncrociati62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-63/124",
+            "name": "Lucario",
+            "number": "63/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/LucarioDestiniIncrociati63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-64/124",
+            "name": "Genesect-EX",
+            "number": "64/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/Genesect-EXDestiniIncrociati64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-65/124",
+            "name": "Jigglypuff",
+            "number": "65/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/JigglypuffDestiniIncrociati65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-66/124",
+            "name": "Wigglytuff",
+            "number": "66/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/WigglytuffDestiniIncrociati66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-67/124",
+            "name": "Mr. Mime",
+            "number": "67/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MrMimeDestiniIncrociati67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-68/124",
+            "name": "Snubbull",
+            "number": "68/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SnubbullDestiniIncrociati68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-69/124",
+            "name": "M Altaria-EX",
+            "number": "69/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/MAltaria-EXDestiniIncrociati69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-70/124",
+            "name": "Cottonee",
+            "number": "70/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/CottoneeDestiniIncrociati70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-71/124",
+            "name": "Whimsicott",
+            "number": "71/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/WhimsicottDestiniIncrociati71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-72/124",
+            "name": "Diancie-EX",
+            "number": "72/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/Diancie-EXDestiniIncrociati72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-73/124",
+            "name": "Kingdra-EX",
+            "number": "73/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Kingdra-EXDestiniIncrociati73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-74/124",
+            "name": "Meowth",
+            "number": "74/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MeowthDestiniIncrociati74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-75/124",
+            "name": "Kangaskhan",
+            "number": "75/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/KangaskhanDestiniIncrociati75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-76/124",
+            "name": "Aerodactyl",
+            "number": "76/124",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/AerodactylDestiniIncrociati76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-77/124",
+            "name": "Snorlax",
+            "number": "77/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/SnorlaxDestiniIncrociati77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-78/124",
+            "name": "Lugia",
+            "number": "78/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/LugiaDestiniIncrociati78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-79/124",
+            "name": "Lugia TURBO",
+            "number": "79/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/LugiaTURBODestiniIncrociati79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-80/124",
+            "name": "Whismur",
+            "number": "80/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/WhismurDestiniIncrociati80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-81/124",
+            "name": "Loudred",
+            "number": "81/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/LoudredDestiniIncrociati81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-82/124",
+            "name": "Exploud",
+            "number": "82/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/ExploudDestiniIncrociati82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-83/124",
+            "name": "Altaria-EX",
+            "number": "83/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Altaria-EXDestiniIncrociati83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-84/124",
+            "name": "Audino-EX",
+            "number": "84/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Audino-EXDestiniIncrociati84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-85/124",
+            "name": "M Audino-EX",
+            "number": "85/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/MAudino-EXDestiniIncrociati85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-86/124",
+            "name": "Minccino",
+            "number": "86/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MinccinoDestiniIncrociati86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-87/124",
+            "name": "Minccino",
+            "number": "87/124",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/MinccinoDestiniIncrociati87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-88/124",
+            "name": "Cinccino",
+            "number": "88/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/CinccinoDestiniIncrociati88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-89/124",
+            "name": "Cinccino",
+            "number": "89/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/CinccinoDestiniIncrociati89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-90/124",
+            "name": "Legame Mentale con Alakazam",
+            "number": "90/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/LegameMentaleconAlakazamDestiniIncrociati90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-91/124",
+            "name": "Legame Mentale con Altaria",
+            "number": "91/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/LegameMentaleconAltariaDestiniIncrociati91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-92/124",
+            "name": "Legame Mentale con Audino",
+            "number": "92/124",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/LegameMentaleconAudinoDestiniIncrociati92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-93/124",
+            "name": "Cucchiaio Piegato",
+            "number": "93/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/CucchiaioPiegatoDestiniIncrociati93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-94/124",
+            "name": "Torre Caos",
+            "number": "94/124",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/TorreCaosDestiniIncrociati94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-95/124",
+            "name": "Getto di Involuzione",
+            "number": "95/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/GettodiInvoluzioneDestiniIncrociati95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-96/124",
+            "name": "Domofossile di Kabuto",
+            "number": "96/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/DomofossilediKabutoDestiniIncrociati96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-97/124",
+            "name": "Borsetta Energia",
+            "number": "97/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/BorsettaEnergiaDestiniIncrociati97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-98/124",
+            "name": "Ripresa Energetica",
+            "number": "98/124",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/RipresaEnergeticaDestiniIncrociati98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-99/124",
+            "name": "Goccia Fatata",
+            "number": "99/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/GocciaFatataDestiniIncrociati99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-100/124",
+            "name": "Giardino Fatato",
+            "number": "100/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/GiardinoFatatoDestiniIncrociati100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-101/124",
+            "name": "Kit Scavafossili",
+            "number": "101/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/KitScavafossiliDestiniIncrociati101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-102/124",
+            "name": "Helixfossile di Omanyte",
+            "number": "102/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/HelixfossilediOmanyteDestiniIncrociati102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-103/124",
+            "name": "Omaggio della Pupa",
+            "number": "103/124",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/OmaggiodellaPupaDestiniIncrociati103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-104/124",
+            "name": "Acchiappa-Mega",
+            "number": "104/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/Acchiappa-MegaDestiniIncrociati104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-105/124",
+            "name": "N",
+            "number": "105/124",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/NDestiniIncrociati105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-106/124",
+            "name": "Ambra Antica di Aerodactyl",
+            "number": "106/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/AmbraAnticadiAerodactylDestiniIncrociati106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-107/124",
+            "name": "Pokémon Fan Club",
+            "number": "107/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/Pok%C3%A9monFanClubDestiniIncrociati107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-108/124",
+            "name": "Potere della Memoria",
+            "number": "108/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/PoteredellaMemoriaDestiniIncrociati108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-109/124",
+            "name": "Destinatario Casuale",
+            "number": "109/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DestinatarioCasualeDestiniIncrociati109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-110/124",
+            "name": "Terra Infuocata",
+            "number": "110/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TerraInfuocataDestiniIncrociati110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-111/124",
+            "name": "Shana",
+            "number": "111/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ShanaDestiniIncrociati111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-112/124",
+            "name": "Malefatte del Team Rocket",
+            "number": "112/124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MalefattedelTeamRocketDestiniIncrociati112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-113/124",
+            "name": "Ultra Ball",
+            "number": "113/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/UltraBallDestiniIncrociati113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-114/124",
+            "name": "Energia Incolore doppia",
+            "number": "114/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/EnergiaIncoloredoppiaDestiniIncrociati114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-115/124",
+            "name": "Energia Vigore",
+            "number": "115/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/EnergiaVigoreDestiniIncrociati115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-116/124",
+            "name": "Glaceon-EX",
+            "number": "116/124",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/Glaceon-EXDestiniIncrociati116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-117/124",
+            "name": "Alakazam-EX",
+            "number": "117/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/Alakazam-EXDestiniIncrociati117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-118/124",
+            "name": "M Alakazam-EX",
+            "number": "118/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/MAlakazam-EXDestiniIncrociati118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-119/124",
+            "name": "Umbreon-EX",
+            "number": "119/124",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Umbreon-EXDestiniIncrociati119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-120/124",
+            "name": "Genesect-EX",
+            "number": "120/124",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/Genesect-EXDestiniIncrociati120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-121/124",
+            "name": "M Altaria-EX",
+            "number": "121/124",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MAltaria-EXDestiniIncrociati121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-122/124",
+            "name": "Kingdra-EX",
+            "number": "122/124",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Kingdra-EXDestiniIncrociati122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-123/124",
+            "name": "Altaria-EX",
+            "number": "123/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/Altaria-EXDestiniIncrociati123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-124/124",
+            "name": "Malefatte del Team Rocket",
+            "number": "124/124",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/MalefattedelTeamRocketDestiniIncrociati124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FCO-125/124",
+            "name": "Alakazam-EX",
+            "number": "125/124",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Alakazam-EXDestiniIncrociati125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FCO-43a/124",
+            "name": "Regirock-EX",
+            "number": "43a/124",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Regirock-EXDestiniIncrociati43a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "FCO-54a/124",
+            "name": "Zygarde-EX",
+            "number": "54a/124",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Zygarde-EXDestiniIncrociati54a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "FCO-105a/124",
+            "name": "N",
+            "number": "105a/124",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/NDestiniIncrociati105a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "FCO-111a/124",
+            "name": "Shana",
+            "number": "111a/124",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ShanaDestiniIncrociati111a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

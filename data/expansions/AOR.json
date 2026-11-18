@@ -1,0 +1,721 @@
+{
+    "expansion": {
+        "id": "AOR",
+        "name": "XY - Antiche Origini",
+        "year": 2015,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1d/SimboloSetAntiche_Origini.png",
+        "cardCount": 100,
+				"yellowAAlternateCardCount": 1
+    },
+    "cards": [
+        {
+            "id": "AOR-1/98",
+            "name": "Oddish",
+            "number": "1/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/OddishAnticheOrigini1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-2/98",
+            "name": "Gloom",
+            "number": "2/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/GloomAnticheOrigini2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-3/98",
+            "name": "Vileplume",
+            "number": "3/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/VileplumeAnticheOrigini3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-4/98",
+            "name": "Bellossom",
+            "number": "4/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/BellossomAnticheOrigini4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-5/98",
+            "name": "Spinarak",
+            "number": "5/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/SpinarakAnticheOrigini5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-6/98",
+            "name": "Ariados",
+            "number": "6/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/AriadosAnticheOrigini6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-7/98",
+            "name": "Sceptile-EX",
+            "number": "7/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/Sceptile-EXAnticheOrigini7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-8/98",
+            "name": "M Sceptile-EX",
+            "number": "8/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/MSceptile-EXAnticheOrigini8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-9/98",
+            "name": "Combee",
+            "number": "9/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/CombeeAnticheOrigini9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-10/98",
+            "name": "Vespiquen",
+            "number": "10/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/VespiquenAnticheOrigini10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-11/98",
+            "name": "Vespiquen",
+            "number": "11/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/VespiquenAnticheOrigini11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-12/98",
+            "name": "Virizion",
+            "number": "12/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/VirizionAnticheOrigini12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-13/98",
+            "name": "Flareon",
+            "number": "13/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/FlareonAnticheOrigini13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-14/98",
+            "name": "Entei",
+            "number": "14/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/EnteiAnticheOrigini14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-15/98",
+            "name": "Entei",
+            "number": "15/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/EnteiAnticheOrigini15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-16/98",
+            "name": "Larvesta",
+            "number": "16/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/LarvestaAnticheOrigini16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-17/98",
+            "name": "Volcarona",
+            "number": "17/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/VolcaronaAnticheOrigini17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-18/98",
+            "name": "Volcarona",
+            "number": "18/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/VolcaronaAnticheOrigini18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-19/98",
+            "name": "Magikarp",
+            "number": "19/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/MagikarpAnticheOrigini19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-20/98",
+            "name": "Gyarados",
+            "number": "20/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/GyaradosAnticheOrigini20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-21/98",
+            "name": "Gyarados",
+            "number": "21/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/GyaradosAnticheOrigini21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-22/98",
+            "name": "Vaporeon",
+            "number": "22/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/VaporeonAnticheOrigini22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-23/98",
+            "name": "Relicanth",
+            "number": "23/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/RelicanthAnticheOrigini23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-24/98",
+            "name": "Regice",
+            "number": "24/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/RegiceAnticheOrigini24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-25/98",
+            "name": "Kyurem-EX",
+            "number": "25/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Kyurem-EXAnticheOrigini25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-26/98",
+            "name": "Jolteon",
+            "number": "26/98",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/JolteonAnticheOrigini26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-27/98",
+            "name": "Ampharos-EX",
+            "number": "27/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/Ampharos-EXAnticheOrigini27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-28/98",
+            "name": "M Ampharos-EX",
+            "number": "28/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MAmpharos-EXAnticheOrigini28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-29/98",
+            "name": "Rotom",
+            "number": "29/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/RotomAnticheOrigini29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-30/98",
+            "name": "Unown",
+            "number": "30/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/UnownAnticheOrigini30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-31/98",
+            "name": "Baltoy",
+            "number": "31/98",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/BaltoyAnticheOrigini31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-32/98",
+            "name": "Baltoy",
+            "number": "32/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/BaltoyAnticheOrigini32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-33/98",
+            "name": "Claydol",
+            "number": "33/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/ClaydolAnticheOrigini33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-34/98",
+            "name": "Golett",
+            "number": "34/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/GolettAnticheOrigini34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-35/98",
+            "name": "Golurk",
+            "number": "35/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/GolurkAnticheOrigini35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-36/98",
+            "name": "Hoopa-EX",
+            "number": "36/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Hoopa-EXAnticheOrigini36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-37/98",
+            "name": "Machamp-EX",
+            "number": "37/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Machamp-EXAnticheOrigini37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-38/98",
+            "name": "Wooper",
+            "number": "38/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/WooperAnticheOrigini38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-39/98",
+            "name": "Quagsire",
+            "number": "39/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/QuagsireAnticheOrigini39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-40/98",
+            "name": "Regirock",
+            "number": "40/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/RegirockAnticheOrigini40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-41/98",
+            "name": "Golurk",
+            "number": "41/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/GolurkAnticheOrigini41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-42/98",
+            "name": "Tyranitar-EX",
+            "number": "42/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Tyranitar-EXAnticheOrigini42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-43/98",
+            "name": "M Tyranitar-EX",
+            "number": "43/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/MTyranitar-EXAnticheOrigini43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-44/98",
+            "name": "Sableye",
+            "number": "44/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SableyeAnticheOrigini44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-45/98",
+            "name": "Inkay",
+            "number": "45/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/InkayAnticheOrigini45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-46/98",
+            "name": "Malamar",
+            "number": "46/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/MalamarAnticheOrigini46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-47/98",
+            "name": "Beldum",
+            "number": "47/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/BeldumAnticheOrigini47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-48/98",
+            "name": "Metang",
+            "number": "48/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/MetangAnticheOrigini48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-49/98",
+            "name": "Metagross",
+            "number": "49/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/MetagrossAnticheOrigini49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-50/98",
+            "name": "Metagross",
+            "number": "50/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/MetagrossAnticheOrigini50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-51/98",
+            "name": "Registeel",
+            "number": "51/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/RegisteelAnticheOrigini51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-52/98",
+            "name": "Ralts",
+            "number": "52/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/RaltsAnticheOrigini52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-53/98",
+            "name": "Kirlia",
+            "number": "53/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/KirliaAnticheOrigini53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-54/98",
+            "name": "Gardevoir",
+            "number": "54/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GardevoirAnticheOrigini54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-55/98",
+            "name": "Cottonee",
+            "number": "55/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/CottoneeAnticheOrigini55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-56/98",
+            "name": "Whimsicott",
+            "number": "56/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/WhimsicottAnticheOrigini56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-57/98",
+            "name": "Giratina-EX",
+            "number": "57/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/Giratina-EXAnticheOrigini57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-58/98",
+            "name": "Goomy",
+            "number": "58/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/GoomyAnticheOrigini58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-59/98",
+            "name": "Sliggoo",
+            "number": "59/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/SliggooAnticheOrigini59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-60/98",
+            "name": "Goodra",
+            "number": "60/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/GoodraAnticheOrigini60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-61/98",
+            "name": "Meowth",
+            "number": "61/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MeowthAnticheOrigini61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-62/98",
+            "name": "Persian",
+            "number": "62/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/PersianAnticheOrigini62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-63/98",
+            "name": "Eevee",
+            "number": "63/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/EeveeAnticheOrigini63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-64/98",
+            "name": "Porygon",
+            "number": "64/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/PorygonAnticheOrigini64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-65/98",
+            "name": "Porygon2",
+            "number": "65/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Porygon2AnticheOrigini65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-66/98",
+            "name": "Porygon-Z",
+            "number": "66/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Porygon-ZAnticheOrigini66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-67/98",
+            "name": "Porygon-Z",
+            "number": "67/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/Porygon-ZAnticheOrigini67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-68/98",
+            "name": "Lugia-EX",
+            "number": "68/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Lugia-EXAnticheOrigini68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-69/98",
+            "name": "Fantallenatori",
+            "number": "69/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/FantallenatoriAnticheOrigini69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-70/98",
+            "name": "Legame Mentale con Ampharos",
+            "number": "70/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/LegameMentaleconAmpharosAnticheOrigini70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-71/98",
+            "name": "Braccio Ecologico",
+            "number": "71/98",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/BraccioEcologicoAnticheOrigini71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-72/98",
+            "name": "Riciclaggio di Energia",
+            "number": "72/98",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/RiciclaggiodiEnergiaAnticheOrigini72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-73/98",
+            "name": "Città Deserta",
+            "number": "73/98",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Citt%C3%A0DesertaAnticheOrigini73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-74/98",
+            "name": "Foresta delle Piante Giganti",
+            "number": "74/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ForestadellePianteGigantiAnticheOrigini74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-75/98",
+            "name": "Streghetta",
+            "number": "75/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/StreghettaAnticheOrigini75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-76/98",
+            "name": "Level Ball",
+            "number": "76/98",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/LevelBallAnticheOrigini76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-77/98",
+            "name": "Fortunelmo",
+            "number": "77/98",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/FortunelmoAnticheOrigini77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-78/98",
+            "name": "Elisio",
+            "number": "78/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ElisioAnticheOrigini78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-79/98",
+            "name": "Imbiancarullo",
+            "number": "79/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ImbiancarulloAnticheOrigini79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-80/92",
+            "name": "Legame Mentale con Sceptile",
+            "number": "80/92",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/LegameMentaleconSceptileAnticheOrigini80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-81/92",
+            "name": "Legame Mentale con Tyranitar",
+            "number": "81/92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/LegameMentaleconTyranitarAnticheOrigini81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-82/92",
+            "name": "Energia Pericolo",
+            "number": "82/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/EnergiaPericoloAnticheOrigini82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-83/92",
+            "name": "Energia Flash",
+            "number": "83/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/EnergiaFlashAnticheOrigini83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-84/92",
+            "name": "Sceptile-EX",
+            "number": "84/92",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Sceptile-EXAnticheOrigini84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-85/98",
+            "name": "M Sceptile-EX",
+            "number": "85/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/MSceptile-EXAnticheOrigini85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-86/98",
+            "name": "Kyurem-EX",
+            "number": "86/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Kyurem-EXAnticheOrigini86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-87/98",
+            "name": "Ampharos-EX",
+            "number": "87/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/Ampharos-EXAnticheOrigini87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-88/98",
+            "name": "M Ampharos-EX",
+            "number": "88/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/MAmpharos-EXAnticheOrigini88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-89/98",
+            "name": "Hoopa-EX",
+            "number": "89/98",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Hoopa-EXAnticheOrigini89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-90/98",
+            "name": "Machamp-EX",
+            "number": "90/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Machamp-EXAnticheOrigini90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-91/98",
+            "name": "Tyranitar-EX",
+            "number": "91/98",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Tyranitar-EXAnticheOrigini91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-92/98",
+            "name": "M Tyranitar-EX",
+            "number": "92/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/MTyranitar-EXAnticheOrigini92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-93/98",
+            "name": "Giratina-EX",
+            "number": "93/98",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/Giratina-EXAnticheOrigini93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-94/98",
+            "name": "Lugia-EX",
+            "number": "94/98",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/Lugia-EXAnticheOrigini94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-95/98",
+            "name": "Rocco",
+            "number": "95/98",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/RoccoAnticheOrigini95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-96/98",
+            "name": "Archeo Kyogre-EX",
+            "number": "96/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/ArcheoKyogre-EXAnticheOrigini96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-97/98",
+            "name": "Archeo Groudon-EX",
+            "number": "97/98",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ArcheoGroudon-EXAnticheOrigini97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-98/98",
+            "name": "M Rayquaza-EX",
+            "number": "98/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/MRayquaza-EXAnticheOrigini98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AOR-99/98",
+            "name": "Recupero di Energia",
+            "number": "99/98",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/RecuperodiEnergiaAnticheOrigini99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "AOR-100/98",
+            "name": "Posta Allenatori",
+            "number": "100/98",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/PostaAllenatoriAnticheOrigini100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "AOR-75a/98",
+            "name": "Streghetta",
+            "number": "75a/98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/StreghettaAnticheOrigini75a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

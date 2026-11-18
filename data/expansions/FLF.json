@@ -1,0 +1,784 @@
+{
+    "expansion": {
+        "id": "FLF",
+        "name": "XY - Fuoco Infernale",
+        "year": 2014,
+        "month": 6,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetFuoco_Infernale.png",
+        "cardCount": 109,
+				"yellowAAlternateCardCount": 1
+    },
+    "cards": [
+        {
+            "id": "FLF-1/106",
+            "name": "Caterpie",
+            "number": "1/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/CaterpieFuocoInfernale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-2/106",
+            "name": "Metapod",
+            "number": "2/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/MetapodFuocoInfernale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-3/106",
+            "name": "Butterfree",
+            "number": "3/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/ButterfreeFuocoInfernale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-4/106",
+            "name": "Pineco",
+            "number": "4/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/PinecoFuocoInfernale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-5/106",
+            "name": "Seedot",
+            "number": "5/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/SeedotFuocoInfernale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-6/106",
+            "name": "Nuzleaf",
+            "number": "6/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/NuzleafFuocoInfernale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-7/106",
+            "name": "Shiftry",
+            "number": "7/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ShiftryFuocoInfernale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-8/106",
+            "name": "Roselia",
+            "number": "8/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/RoseliaFuocoInfernale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-9/106",
+            "name": "Roserade",
+            "number": "9/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/RoseradeFuocoInfernale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-10/106",
+            "name": "Maractus",
+            "number": "10/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/MaractusFuocoInfernale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-11/106",
+            "name": "Charizard-EX",
+            "number": "11/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Charizard-EXFuocoInfernale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-12/106",
+            "name": "Charizard-EX",
+            "number": "12/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Charizard-EXFuocoInfernale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-13/106",
+            "name": "M Charizard-EX",
+            "number": "13/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/MCharizard-EXFuocoInfernale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-14/106",
+            "name": "Ponyta",
+            "number": "14/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/PonytaFuocoInfernale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-15/106",
+            "name": "Rapidash",
+            "number": "15/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/RapidashFuocoInfernale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-16/106",
+            "name": "Torkoal",
+            "number": "16/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/TorkoalFuocoInfernale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-17/106",
+            "name": "Fletchinder",
+            "number": "17/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/FletchinderFuocoInfernale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-18/106",
+            "name": "Litleo",
+            "number": "18/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/LitleoFuocoInfernale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-19/106",
+            "name": "Litleo",
+            "number": "19/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/LitleoFuocoInfernale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-20/106",
+            "name": "Pyroar",
+            "number": "20/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/PyroarFuocoInfernale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-21/106",
+            "name": "Qwilfish",
+            "number": "21/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/QwilfishFuocoInfernale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-22/106",
+            "name": "Feebas",
+            "number": "22/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/FeebasFuocoInfernale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-23/106",
+            "name": "Milotic",
+            "number": "23/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/MiloticFuocoInfernale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-24/106",
+            "name": "Spheal",
+            "number": "24/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/SphealFuocoInfernale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-25/106",
+            "name": "Sealeo",
+            "number": "25/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/SealeoFuocoInfernale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-26/106",
+            "name": "Walrein",
+            "number": "26/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/WalreinFuocoInfernale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-27/106",
+            "name": "Luvdisc",
+            "number": "27/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/LuvdiscFuocoInfernale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-28/106",
+            "name": "Buizel",
+            "number": "28/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/BuizelFuocoInfernale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-29/106",
+            "name": "Floatzel",
+            "number": "29/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/FloatzelFuocoInfernale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-30/106",
+            "name": "Bergmite",
+            "number": "30/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/BergmiteFuocoInfernale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-31/106",
+            "name": "Avalugg",
+            "number": "31/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/AvaluggFuocoInfernale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-32/106",
+            "name": "Shinx",
+            "number": "32/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ShinxFuocoInfernale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-33/106",
+            "name": "Luxio",
+            "number": "33/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/LuxioFuocoInfernale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-34/106",
+            "name": "Luxray",
+            "number": "34/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/LuxrayFuocoInfernale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-35/106",
+            "name": "Magnezone-EX",
+            "number": "35/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Magnezone-EXFuocoInfernale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-36/106",
+            "name": "Helioptile",
+            "number": "36/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/HelioptileFuocoInfernale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-37/106",
+            "name": "Heliolisk",
+            "number": "37/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/HelioliskFuocoInfernale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-38/106",
+            "name": "Duskull",
+            "number": "38/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/DuskullFuocoInfernale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-39/106",
+            "name": "Dusclops",
+            "number": "39/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/DusclopsFuocoInfernale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-40/106",
+            "name": "Dusknoir",
+            "number": "40/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DusknoirFuocoInfernale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-41/106",
+            "name": "Toxicroak-EX",
+            "number": "41/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Toxicroak-EXFuocoInfernale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-42/106",
+            "name": "Espurr",
+            "number": "42/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/EspurrFuocoInfernale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-43/106",
+            "name": "Meowstic",
+            "number": "43/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MeowsticFuocoInfernale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-44/106",
+            "name": "Skrelp",
+            "number": "44/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SkrelpFuocoInfernale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-45/106",
+            "name": "Geodude",
+            "number": "45/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/GeodudeFuocoInfernale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-46/106",
+            "name": "Graveler",
+            "number": "46/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/GravelerFuocoInfernale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-47/106",
+            "name": "Golem",
+            "number": "47/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/GolemFuocoInfernale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-48/106",
+            "name": "Binacle",
+            "number": "48/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/BinacleFuocoInfernale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-49/106",
+            "name": "Barbaracle",
+            "number": "49/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/BarbaracleFuocoInfernale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-50/106",
+            "name": "Sneasel",
+            "number": "50/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/SneaselFuocoInfernale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-51/106",
+            "name": "Sneasel",
+            "number": "51/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/SneaselFuocoInfernale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-52/106",
+            "name": "Weavile",
+            "number": "52/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/WeavileFuocoInfernale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-53/106",
+            "name": "Stunky",
+            "number": "53/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/StunkyFuocoInfernale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-54/106",
+            "name": "Stunky",
+            "number": "54/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/StunkyFuocoInfernale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-55/106",
+            "name": "Skuntank",
+            "number": "55/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/SkuntankFuocoInfernale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-56/106",
+            "name": "Sandile",
+            "number": "56/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/SandileFuocoInfernale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-57/106",
+            "name": "Krokorok",
+            "number": "57/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/KrokorokFuocoInfernale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-58/106",
+            "name": "Scraggy",
+            "number": "58/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ScraggyFuocoInfernale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-59/106",
+            "name": "Scrafty",
+            "number": "59/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/ScraftyFuocoInfernale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-60/106",
+            "name": "Forretress",
+            "number": "60/106",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/ForretressFuocoInfernale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-61/106",
+            "name": "Durant",
+            "number": "61/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/DurantFuocoInfernale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-62/106",
+            "name": "Flabébé",
+            "number": "62/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Flab%C3%A9b%C3%A9FuocoInfernale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-63/106",
+            "name": "Flabébé",
+            "number": "63/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/Flab%C3%A9b%C3%A9FuocoInfernale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-64/106",
+            "name": "Floette",
+            "number": "64/106",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FloetteFuocoInfernale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-65/106",
+            "name": "Floette",
+            "number": "65/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/FloetteFuocoInfernale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-66/106",
+            "name": "Florges",
+            "number": "66/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/FlorgesFuocoInfernale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-67/106",
+            "name": "Spritzee",
+            "number": "67/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/SpritzeeFuocoInfernale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-68/106",
+            "name": "Carbink",
+            "number": "68/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/CarbinkFuocoInfernale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-69/106",
+            "name": "M Charizard-EX",
+            "number": "69/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/MCharizard-EXFuocoInfernale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-70/106",
+            "name": "Druddigon",
+            "number": "70/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/DruddigonFuocoInfernale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-71/106",
+            "name": "Dragalge",
+            "number": "71/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/DragalgeFuocoInfernale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-72/106",
+            "name": "Goomy",
+            "number": "72/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/GoomyFuocoInfernale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-73/106",
+            "name": "Sliggoo",
+            "number": "73/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/SliggooFuocoInfernale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-74/106",
+            "name": "Goodra",
+            "number": "74/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/GoodraFuocoInfernale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-75/106",
+            "name": "Pidgey",
+            "number": "75/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/PidgeyFuocoInfernale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-76/106",
+            "name": "Pidgeotto",
+            "number": "76/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/PidgeottoFuocoInfernale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-77/106",
+            "name": "Pidgeot",
+            "number": "77/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/PidgeotFuocoInfernale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-78/106",
+            "name": "Kangaskhan-EX",
+            "number": "78/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Kangaskhan-EXFuocoInfernale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-79/106",
+            "name": "M Kangaskhan-EX",
+            "number": "79/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/MKangaskhan-EXFuocoInfernale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-80/106",
+            "name": "Snorlax",
+            "number": "80/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SnorlaxFuocoInfernale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-81/106",
+            "name": "Sentret",
+            "number": "81/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/SentretFuocoInfernale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-82/106",
+            "name": "Furret",
+            "number": "82/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/FurretFuocoInfernale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-83/106",
+            "name": "Miltank",
+            "number": "83/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MiltankFuocoInfernale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-84/106",
+            "name": "Buneary",
+            "number": "84/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/BunearyFuocoInfernale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-85/106",
+            "name": "Lopunny",
+            "number": "85/106",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/LopunnyFuocoInfernale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-86/106",
+            "name": "Fletchling",
+            "number": "86/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/FletchlingFuocoInfernale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-87/106",
+            "name": "Furfrou",
+            "number": "87/106",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/FurfrouFuocoInfernale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-88/106",
+            "name": "Fabbro",
+            "number": "88/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/FabbroFuocoInfernale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-89/106",
+            "name": "Torciardente",
+            "number": "89/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/TorciardenteFuocoInfernale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-90/106",
+            "name": "Elisio",
+            "number": "90/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ElisioFuocoInfernale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-91/106",
+            "name": "Tempesta Magnetica",
+            "number": "91/106",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/TempestaMagneticaFuocoInfernale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-92/106",
+            "name": "Blocco Amici",
+            "number": "92/106",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/BloccoAmiciFuocoInfernale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-93/106",
+            "name": "Addetta del Centro Pokémon",
+            "number": "93/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/AddettadelCentroPok%C3%A9monFuocoInfernale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-94/106",
+            "name": "Pokémon Fan Club",
+            "number": "94/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Pok%C3%A9monFanClubFuocoInfernale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-95/106",
+            "name": "Cubo Protettivo",
+            "number": "95/106",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/CuboProtettivoFuocoInfernale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-96/106",
+            "name": "Ceneremagica",
+            "number": "96/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/CeneremagicaFuocoInfernale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-97/106",
+            "name": "Megafono Assordante",
+            "number": "97/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/MegafonoAssordanteFuocoInfernale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-98/106",
+            "name": "Paletta Dispettosa",
+            "number": "98/106",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/PalettaDispettosaFuocoInfernale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-99/106",
+            "name": "Ultra Ball",
+            "number": "99/106",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/UltraBallFuocoInfernale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-100/106",
+            "name": "Charizard-EX",
+            "number": "100/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Charizard-EXFuocoInfernale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-101/106",
+            "name": "Magnezone-EX",
+            "number": "101/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/Magnezone-EXFuocoInfernale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-102/106",
+            "name": "Toxicroak-EX",
+            "number": "102/106",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Toxicroak-EXFuocoInfernale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-103/106",
+            "name": "Kangaskhan-EX",
+            "number": "103/106",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Kangaskhan-EXFuocoInfernale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-104/106",
+            "name": "Elisio",
+            "number": "104/106",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ElisioFuocoInfernale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-105/106",
+            "name": "Addetta del Centro Pokémon",
+            "number": "105/106",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/AddettadelCentroPok%C3%A9monFuocoInfernale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-106/106",
+            "name": "Pokémon Fan Club",
+            "number": "106/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Pok%C3%A9monFanClubFuocoInfernale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "FLF-107/106",
+            "name": "M Charizard-EX",
+            "number": "107/106",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MCharizard-EXFuocoInfernale107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLF-108/106",
+            "name": "M Charizard-EX",
+            "number": "108/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/MCharizard-EXFuocoInfernale108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLF-109/106",
+            "name": "M Kangaskhan-EX",
+            "number": "109/106",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MKangaskhan-EXFuocoInfernale109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "FLF-88a/106",
+            "name": "Fabbro",
+            "number": "88a/106",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/FabbroFuocoInfernale88a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

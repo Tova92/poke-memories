@@ -1,0 +1,573 @@
+{
+    "expansion": {
+        "id": "CPA",
+        "name": "Futuri Campioni",
+        "year": 2020,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/6e/SimboloSetFuturi_Campioni.png",
+        "cardCount": 80
+    },
+    "cards": [
+        {
+            "id": "CPA-001/073",
+            "name": "Venusaur-V",
+            "number": "001/073",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Venusaur-VFuturiCampioni1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-002/073",
+            "name": "Weedle",
+            "number": "002/073",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/WeedleFuturiCampioni2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-003/073",
+            "name": "Kakuna",
+            "number": "003/073",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/KakunaFuturiCampioni3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-004/073",
+            "name": "Beedrill",
+            "number": "004/073",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/BeedrillFuturiCampioni4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-005/073",
+            "name": "Eldegoss-V",
+            "number": "005/073",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Eldegoss-VFuturiCampioni5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-006/073",
+            "name": "Vulpix",
+            "number": "006/073",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/VulpixFuturiCampioni6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-007/073",
+            "name": "Victini",
+            "number": "007/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/VictiniFuturiCampioni7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-008/073",
+            "name": "Incineroar-V",
+            "number": "008/073",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Incineroar-VFuturiCampioni8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-009/073",
+            "name": "Sizzlipede",
+            "number": "009/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SizzlipedeFuturiCampioni9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-010/073",
+            "name": "Centiskorch",
+            "number": "010/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/CentiskorchFuturiCampioni10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-011/073",
+            "name": "Carvanha",
+            "number": "011/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/CarvanhaFuturiCampioni11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-012/073",
+            "name": "Sharpedo",
+            "number": "012/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/SharpedoFuturiCampioni12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-013/073",
+            "name": "Wailord-V",
+            "number": "013/073",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/Wailord-VFuturiCampioni13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-014/073",
+            "name": "Drednaw-V",
+            "number": "014/073",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Drednaw-VFuturiCampioni14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-015/073",
+            "name": "Drednaw-VMAX",
+            "number": "015/073",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Drednaw-VMAXFuturiCampioni15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-016/073",
+            "name": "Gardevoir-V",
+            "number": "016/073",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Gardevoir-VFuturiCampioni16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-017/073",
+            "name": "Gardevoir-VMAX",
+            "number": "017/073",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Gardevoir-VMAXFuturiCampioni17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-018/073",
+            "name": "Hatenna",
+            "number": "018/073",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/HatennaFuturiCampioni18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-019/073",
+            "name": "Hattrem",
+            "number": "019/073",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/HattremFuturiCampioni19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-020/073",
+            "name": "Hatterene",
+            "number": "020/073",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/HattereneFuturiCampioni20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-021/073",
+            "name": "Cursola di Galar-V",
+            "number": "021/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/CursoladiGalar-VFuturiCampioni21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-022/073",
+            "name": "Alcremie-V",
+            "number": "022/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Alcremie-VFuturiCampioni22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-023/073",
+            "name": "Alcremie-VMAX",
+            "number": "023/073",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Alcremie-VMAXFuturiCampioni23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-024/073",
+            "name": "Machop",
+            "number": "024/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MachopFuturiCampioni24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-025/073",
+            "name": "Machoke",
+            "number": "025/073",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/MachokeFuturiCampioni25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-026/073",
+            "name": "Machamp",
+            "number": "026/073",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/MachampFuturiCampioni26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-027/073",
+            "name": "Lucario-V",
+            "number": "027/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/Lucario-VFuturiCampioni27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-028/073",
+            "name": "Zygarde",
+            "number": "028/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ZygardeFuturiCampioni28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-029/073",
+            "name": "Rockruff",
+            "number": "029/073",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/RockruffFuturiCampioni29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-030/073",
+            "name": "Lycanroc",
+            "number": "030/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/LycanrocFuturiCampioni30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-031/073",
+            "name": "Rolycoly",
+            "number": "031/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/RolycolyFuturiCampioni31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-032/073",
+            "name": "Grapploct-V",
+            "number": "032/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Grapploct-VFuturiCampioni32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-033/073",
+            "name": "Ekans",
+            "number": "033/073",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/EkansFuturiCampioni33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-034/073",
+            "name": "Arbok",
+            "number": "034/073",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ArbokFuturiCampioni34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-035/073",
+            "name": "Zigzagoon di Galar",
+            "number": "035/073",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/ZigzagoondiGalarFuturiCampioni35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-036/073",
+            "name": "Linoone di Galar",
+            "number": "036/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/LinoonediGalarFuturiCampioni36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-037/073",
+            "name": "Obstagoon di Galar",
+            "number": "037/073",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/ObstagoondiGalarFuturiCampioni37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-038/073",
+            "name": "Absol",
+            "number": "038/073",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/AbsolFuturiCampioni38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-039/073",
+            "name": "Purrloin",
+            "number": "039/073",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/PurrloinFuturiCampioni39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-040/073",
+            "name": "Liepard",
+            "number": "040/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/LiepardFuturiCampioni40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-041/073",
+            "name": "Scraggy",
+            "number": "041/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ScraggyFuturiCampioni41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-042/073",
+            "name": "Scrafty",
+            "number": "042/073",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ScraftyFuturiCampioni42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-043/073",
+            "name": "Trubbish",
+            "number": "043/073",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/TrubbishFuturiCampioni43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-044/073",
+            "name": "Inkay",
+            "number": "044/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/InkayFuturiCampioni44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-045/073",
+            "name": "Malamar",
+            "number": "045/073",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/MalamarFuturiCampioni45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-046/073",
+            "name": "Nickit",
+            "number": "046/073",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/NickitFuturiCampioni46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-047/073",
+            "name": "Duraludon-V",
+            "number": "047/073",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Duraludon-VFuturiCampioni47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-048/073",
+            "name": "Swablu",
+            "number": "048/073",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/SwabluFuturiCampioni48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-049/073",
+            "name": "Altaria",
+            "number": "049/073",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/AltariaFuturiCampioni49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-050/073",
+            "name": "Beet",
+            "number": "050/073",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/BeetFuturiCampioni50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-051/073",
+            "name": "Cura Totale",
+            "number": "051/073",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CuraTotaleFuturiCampioni51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-052/073",
+            "name": "Mega Ball",
+            "number": "052/073",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/MegaBallFuturiCampioni52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-053/073",
+            "name": "Hop",
+            "number": "053/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/HopFuturiCampioni53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-054/073",
+            "name": "Iperpozione",
+            "number": "054/073",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/IperpozioneFuturiCampioni54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-055/073",
+            "name": "Kabu",
+            "number": "055/073",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/KabuFuturiCampioni55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-056/073",
+            "name": "Mary",
+            "number": "056/073",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/MaryFuturiCampioni56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-057/073",
+            "name": "Yarrow",
+            "number": "057/073",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/YarrowFuturiCampioni57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-058/073",
+            "name": "Ginepro",
+            "number": "058/073",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/GineproFuturiCampioni58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-059/073",
+            "name": "Poké Ball",
+            "number": "059/073",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/Pok%C3%A9BallFuturiCampioni59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-060/073",
+            "name": "Addetta del Centro Pokémon",
+            "number": "060/073",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/AddettadelCentroPok%C3%A9monFuturiCampioni60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-061/073",
+            "name": "Pozione",
+            "number": "061/073",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PozioneFuturiCampioni61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-062/073",
+            "name": "Ricerca Accademica",
+            "number": "062/073",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/RicercaAccademicaFuturiCampioni62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-063/073",
+            "name": "Bici Rotom",
+            "number": "063/073",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/BiciRotomFuturiCampioni63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-064/073",
+            "name": "Smart Rotom",
+            "number": "064/073",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/SmartRotomFuturiCampioni64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-065/073",
+            "name": "Sonia",
+            "number": "065/073",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SoniaFuturiCampioni65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-066/073",
+            "name": "Cibo in Scatola Sospetto",
+            "number": "066/073",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CiboinScatolaSospettoFuturiCampioni66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-067/073",
+            "name": "Recluta del Team Yell",
+            "number": "067/073",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/ReclutadelTeamYellFuturiCampioni67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-068/073",
+            "name": "Stadio di Turffield",
+            "number": "068/073",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/StadiodiTurffieldFuturiCampioni68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-069/073",
+            "name": "Drednaw-V",
+            "number": "069/073",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Drednaw-VFuturiCampioni69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-070/073",
+            "name": "Gardevoir-V",
+            "number": "070/073",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Gardevoir-VFuturiCampioni70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-071/073",
+            "name": "Cursola di Galar-V",
+            "number": "071/073",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CursoladiGalar-VFuturiCampioni71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-072/073",
+            "name": "Grapploct-V",
+            "number": "072/073",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Grapploct-VFuturiCampioni72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-073/073",
+            "name": "Hop",
+            "number": "073/073",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/HopFuturiCampioni73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CPA-074/073",
+            "name": "Charizard-VMAX",
+            "number": "074/073",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/Charizard-VMAXFuturiCampioni74.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CPA-075/073",
+            "name": "Drednaw-VMAX",
+            "number": "075/073",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Drednaw-VMAXFuturiCampioni75.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CPA-076/073",
+            "name": "Gardevoir-VMAX",
+            "number": "076/073",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/Gardevoir-VMAXFuturiCampioni76.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CPA-077/073",
+            "name": "Kabu",
+            "number": "077/073",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/KabuFuturiCampioni77.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CPA-078/073",
+            "name": "Ginepro",
+            "number": "078/073",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/GineproFuturiCampioni78.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CPA-079/073",
+            "name": "Charizard-V",
+            "number": "079/073",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/Charizard-VFuturiCampioni79.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CPA-080/073",
+            "name": "Cibo in Scatola Sospetto",
+            "number": "080/073",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/CiboinScatolaSospettoFuturiCampioni80.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}

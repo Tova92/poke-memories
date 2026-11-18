@@ -1,0 +1,1323 @@
+{
+    "expansion": {
+        "id": "CES",
+        "name": "Sole e Luna - Tempesta Astrale",
+        "year": 2018,
+        "month": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetTempesta_Astrale.png",
+        "cardCount": 183,
+				"yellowAAlternateCardCount": 4
+    },
+    "cards": [
+        {
+            "id": "CES-1/168",
+            "name": "Bellsprout",
+            "number": "1/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/BellsproutTempestaAstrale1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-2/168",
+            "name": "Weepinbell",
+            "number": "2/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/WeepinbellTempestaAstrale2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-3/168",
+            "name": "Victreebel",
+            "number": "3/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/VictreebelTempestaAstrale3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-4/168",
+            "name": "Scyther",
+            "number": "4/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/ScytherTempestaAstrale4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-5/168",
+            "name": "Spinarak",
+            "number": "5/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/SpinarakTempestaAstrale5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-6/168",
+            "name": "Ariados",
+            "number": "6/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/AriadosTempestaAstrale6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-7/168",
+            "name": "Treecko",
+            "number": "7/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/TreeckoTempestaAstrale7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-8/168",
+            "name": "Treecko",
+            "number": "8/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/TreeckoTempestaAstrale8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-9/168",
+            "name": "Grovyle",
+            "number": "9/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/GrovyleTempestaAstrale9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-10/168",
+            "name": "Sceptile",
+            "number": "10/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/SceptileTempestaAstrale10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-11/168",
+            "name": "Seedot",
+            "number": "11/168",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/SeedotTempestaAstrale11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-12/168",
+            "name": "Seedot",
+            "number": "12/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/SeedotTempestaAstrale12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-13/168",
+            "name": "Nuzleaf",
+            "number": "13/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/NuzleafTempestaAstrale13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-14/168",
+            "name": "Shiftry-GX",
+            "number": "14/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/Shiftry-GXTempestaAstrale14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-15/168",
+            "name": "Surskit",
+            "number": "15/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/SurskitTempestaAstrale15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-16/168",
+            "name": "Masquerain",
+            "number": "16/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MasquerainTempestaAstrale16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-17/168",
+            "name": "Volbeat",
+            "number": "17/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/VolbeatTempestaAstrale17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-18/168",
+            "name": "Illumise",
+            "number": "18/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/IllumiseTempestaAstrale18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-19/168",
+            "name": "Cacnea",
+            "number": "19/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CacneaTempestaAstrale19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-20/168",
+            "name": "Cacturne",
+            "number": "20/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/CacturneTempestaAstrale20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-21/168",
+            "name": "Tropius",
+            "number": "21/168",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/TropiusTempestaAstrale21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-22/168",
+            "name": "Dhelmise",
+            "number": "22/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/DhelmiseTempestaAstrale22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-23/168",
+            "name": "Slugma",
+            "number": "23/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/SlugmaTempestaAstrale23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-24/168",
+            "name": "Magcargo",
+            "number": "24/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MagcargoTempestaAstrale24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-25/168",
+            "name": "Torchic",
+            "number": "25/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/TorchicTempestaAstrale25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-26/168",
+            "name": "Torchic",
+            "number": "26/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TorchicTempestaAstrale26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-27/168",
+            "name": "Combusken",
+            "number": "27/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CombuskenTempestaAstrale27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-28/168",
+            "name": "Blaziken-GX",
+            "number": "28/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Blaziken-GXTempestaAstrale28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-29/168",
+            "name": "Torkoal",
+            "number": "29/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/TorkoalTempestaAstrale29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-30/168",
+            "name": "Oricorio",
+            "number": "30/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/OricorioTempestaAstrale30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-31/168",
+            "name": "Articuno-GX",
+            "number": "31/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Articuno-GXTempestaAstrale31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-32/168",
+            "name": "Mudkip",
+            "number": "32/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MudkipTempestaAstrale32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-33/168",
+            "name": "Mudkip",
+            "number": "33/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MudkipTempestaAstrale33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-34/168",
+            "name": "Marshtomp",
+            "number": "34/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MarshtompTempestaAstrale34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-35/168",
+            "name": "Swampert",
+            "number": "35/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/SwampertTempestaAstrale35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-36/168",
+            "name": "Lotad",
+            "number": "36/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/LotadTempestaAstrale36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-37/168",
+            "name": "Lombre",
+            "number": "37/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/LombreTempestaAstrale37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-38/168",
+            "name": "Ludicolo",
+            "number": "38/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/LudicoloTempestaAstrale38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-39/168",
+            "name": "Wailmer",
+            "number": "39/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/WailmerTempestaAstrale39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-40/168",
+            "name": "Wailord",
+            "number": "40/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/WailordTempestaAstrale40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-41/168",
+            "name": "Clamperl",
+            "number": "41/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ClamperlTempestaAstrale41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-42/168",
+            "name": "Huntail",
+            "number": "42/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/HuntailTempestaAstrale42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-43/168",
+            "name": "Gorebyss",
+            "number": "43/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/GorebyssTempestaAstrale43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-44/168",
+            "name": "Luvdisc",
+            "number": "44/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/LuvdiscTempestaAstrale44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-45/168",
+            "name": "Regice",
+            "number": "45/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/RegiceTempestaAstrale45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-46/168",
+            "name": "Kyogre",
+            "number": "46/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/KyogreTempestaAstrale46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-47/168",
+            "name": "Voltorb",
+            "number": "47/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/VoltorbTempestaAstrale47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-48/168",
+            "name": "Electrode-GX",
+            "number": "48/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Electrode-GXTempestaAstrale48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-49/168",
+            "name": "Chinchou",
+            "number": "49/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/ChinchouTempestaAstrale49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-50/168",
+            "name": "Lanturn",
+            "number": "50/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/LanturnTempestaAstrale50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-51/168",
+            "name": "Electrike",
+            "number": "51/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/ElectrikeTempestaAstrale51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-52/168",
+            "name": "Manectric",
+            "number": "52/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/ManectricTempestaAstrale52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-53/168",
+            "name": "Plusle",
+            "number": "53/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/PlusleTempestaAstrale53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-54/168",
+            "name": "Minun",
+            "number": "54/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MinunTempestaAstrale54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-55/168",
+            "name": "Oricorio",
+            "number": "55/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/OricorioTempestaAstrale55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-56/168",
+            "name": "Mr. Mime-GX",
+            "number": "56/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MrMime-GXTempestaAstrale56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-57/168",
+            "name": "Gulpin",
+            "number": "57/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/GulpinTempestaAstrale57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-58/168",
+            "name": "Swalot",
+            "number": "58/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SwalotTempestaAstrale58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-59/168",
+            "name": "Spoink",
+            "number": "59/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/SpoinkTempestaAstrale59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-60/168",
+            "name": "Grumpig",
+            "number": "60/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/GrumpigTempestaAstrale60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-61/168",
+            "name": "Lunatone",
+            "number": "61/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/LunatoneTempestaAstrale61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-62/168",
+            "name": "Solrock",
+            "number": "62/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/SolrockTempestaAstrale62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-63/168",
+            "name": "Shuppet",
+            "number": "63/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/ShuppetTempestaAstrale63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-64/168",
+            "name": "Shuppet",
+            "number": "64/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ShuppetTempestaAstrale64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-65/168",
+            "name": "Banette",
+            "number": "65/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/BanetteTempestaAstrale65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-66/168",
+            "name": "Banette-GX",
+            "number": "66/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Banette-GXTempestaAstrale66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-67/168",
+            "name": "Deoxys",
+            "number": "67/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/DeoxysTempestaAstrale67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-68/168",
+            "name": "Deoxys",
+            "number": "68/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/DeoxysTempestaAstrale68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-69/168",
+            "name": "Deoxys",
+            "number": "69/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/DeoxysTempestaAstrale69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-70/168",
+            "name": "Lunala",
+            "number": "70/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/LunalaTempestaAstrale70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-71/168",
+            "name": "Onix",
+            "number": "71/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/OnixTempestaAstrale71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-72/168",
+            "name": "Phanpy",
+            "number": "72/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/PhanpyTempestaAstrale72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-73/168",
+            "name": "Donphan",
+            "number": "73/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/DonphanTempestaAstrale73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-74/168",
+            "name": "Larvitar",
+            "number": "74/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/LarvitarTempestaAstrale74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-75/168",
+            "name": "Pupitar",
+            "number": "75/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/PupitarTempestaAstrale75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-76/168",
+            "name": "Meditite",
+            "number": "76/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/MedititeTempestaAstrale76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-77/168",
+            "name": "Medicham",
+            "number": "77/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MedichamTempestaAstrale77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-78/168",
+            "name": "Baltoy",
+            "number": "78/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/BaltoyTempestaAstrale78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-79/168",
+            "name": "Claydol",
+            "number": "79/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/ClaydolTempestaAstrale79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-80/168",
+            "name": "Regirock",
+            "number": "80/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/RegirockTempestaAstrale80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-81/168",
+            "name": "Groudon",
+            "number": "81/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/GroudonTempestaAstrale81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-82/168",
+            "name": "Palossand-GX",
+            "number": "82/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Palossand-GXTempestaAstrale82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-83/168",
+            "name": "Minior",
+            "number": "83/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MiniorTempestaAstrale83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-84/168",
+            "name": "Rattata di Alola",
+            "number": "84/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/RattatadiAlolaTempestaAstrale84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-85/168",
+            "name": "Raticate di Alola-GX",
+            "number": "85/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/RaticatediAlola-GXTempestaAstrale85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-86/168",
+            "name": "Sneasel",
+            "number": "86/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/SneaselTempestaAstrale86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-87/168",
+            "name": "Tyranitar",
+            "number": "87/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/TyranitarTempestaAstrale87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-88/168",
+            "name": "Sableye",
+            "number": "88/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/SableyeTempestaAstrale88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-89/168",
+            "name": "Steelix",
+            "number": "89/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SteelixTempestaAstrale89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-90/168",
+            "name": "Scizor-GX",
+            "number": "90/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Scizor-GXTempestaAstrale90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-91/168",
+            "name": "Mawile",
+            "number": "91/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/MawileTempestaAstrale91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-92/168",
+            "name": "Beldum",
+            "number": "92/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/BeldumTempestaAstrale92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-93/168",
+            "name": "Beldum",
+            "number": "93/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/BeldumTempestaAstrale93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-94/168",
+            "name": "Metang",
+            "number": "94/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/MetangTempestaAstrale94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-95/168",
+            "name": "Metagross",
+            "number": "95/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/MetagrossTempestaAstrale95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-96/168",
+            "name": "Registeel",
+            "number": "96/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/RegisteelTempestaAstrale96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-97/168",
+            "name": "Jirachi ◇",
+            "number": "97/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/JirachiTempestaAstrale97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-98/168",
+            "name": "Heatran",
+            "number": "98/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/HeatranTempestaAstrale98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-99/168",
+            "name": "Solgaleo",
+            "number": "99/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/SolgaleoTempestaAstrale99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-100/168",
+            "name": "Celesteela",
+            "number": "100/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/CelesteelaTempestaAstrale100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-101/168",
+            "name": "Kartana",
+            "number": "101/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/KartanaTempestaAstrale101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-102/168",
+            "name": "Stakataka-GX",
+            "number": "102/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/Stakataka-GXTempestaAstrale102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-103/168",
+            "name": "Bagon",
+            "number": "103/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/BagonTempestaAstrale103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-104/168",
+            "name": "Bagon",
+            "number": "104/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/BagonTempestaAstrale104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-105/168",
+            "name": "Shelgon",
+            "number": "105/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/ShelgonTempestaAstrale105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-106/168",
+            "name": "Salamence",
+            "number": "106/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/SalamenceTempestaAstrale106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-107/168",
+            "name": "Latias ◇",
+            "number": "107/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/LatiasTempestaAstrale107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-108/168",
+            "name": "Latios ◇",
+            "number": "108/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/LatiosTempestaAstrale108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-109/168",
+            "name": "Rayquaza-GX",
+            "number": "109/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Rayquaza-GXTempestaAstrale109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-110/168",
+            "name": "Dunsparce",
+            "number": "110/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/DunsparceTempestaAstrale110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-111/168",
+            "name": "Wingull",
+            "number": "111/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/WingullTempestaAstrale111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-112/168",
+            "name": "Pelipper",
+            "number": "112/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/PelipperTempestaAstrale112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-113/168",
+            "name": "Slakoth",
+            "number": "113/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/SlakothTempestaAstrale113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-114/168",
+            "name": "Vigoroth",
+            "number": "114/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/VigorothTempestaAstrale114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-115/168",
+            "name": "Slaking",
+            "number": "115/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/SlakingTempestaAstrale115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-116/168",
+            "name": "Whismur",
+            "number": "116/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/WhismurTempestaAstrale116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-117/168",
+            "name": "Whismur",
+            "number": "117/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/WhismurTempestaAstrale117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-118/168",
+            "name": "Loudred",
+            "number": "118/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/LoudredTempestaAstrale118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-119/168",
+            "name": "Exploud",
+            "number": "119/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/ExploudTempestaAstrale119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-120/168",
+            "name": "Skitty",
+            "number": "120/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SkittyTempestaAstrale120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-121/168",
+            "name": "Delcatty",
+            "number": "121/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DelcattyTempestaAstrale121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-122/168",
+            "name": "Kecleon",
+            "number": "122/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/KecleonTempestaAstrale122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-123/168",
+            "name": "Bici da cross",
+            "number": "123/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/BicidacrossTempestaAstrale123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-124/168",
+            "name": "Costruttore di Apricorn",
+            "number": "124/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/CostruttorediApricornTempestaAstrale124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-125/168",
+            "name": "UC Ball",
+            "number": "125/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/UCBallTempestaAstrale125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-126/168",
+            "name": "Sostegno di Bill",
+            "number": "126/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SostegnodiBillTempestaAstrale126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-127/168",
+            "name": "Copiona",
+            "number": "127/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/CopionaTempestaAstrale127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-128/168",
+            "name": "Sistema di Riciclo dell'Energia",
+            "number": "128/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/SistemadiRiciclodellEnergiaTempestaAstrale128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-129/168",
+            "name": "Scambio di Energia",
+            "number": "129/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/ScambiodiEnergiaTempestaAstrale129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-130/168",
+            "name": "Pescatore",
+            "number": "130/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/PescatoreTempestaAstrale130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-131/168",
+            "name": "Friend Ball",
+            "number": "131/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/FriendBallTempestaAstrale131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-132/168",
+            "name": "Hau",
+            "number": "132/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/HauTempestaAstrale132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-133/168",
+            "name": "Montanaro",
+            "number": "133/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MontanaroTempestaAstrale133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-134/168",
+            "name": "Cintura Frenesia",
+            "number": "134/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/CinturaFrenesiaTempestaAstrale134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-135/168",
+            "name": "Pozione Ultima Chance",
+            "number": "135/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/PozioneUltimaChanceTempestaAstrale135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-136/168",
+            "name": "Erba Vita",
+            "number": "136/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/ErbaVitaTempestaAstrale136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-137/168",
+            "name": "Orthilla",
+            "number": "137/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/OrthillaTempestaAstrale137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-138/168",
+            "name": "Esca Ball",
+            "number": "138/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/EscaBallTempestaAstrale138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-139/168",
+            "name": "Mister Royale",
+            "number": "139/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/MisterRoyaleTempestaAstrale139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-140/168",
+            "name": "PokéNav",
+            "number": "140/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/Pok%C3%A9NavTempestaAstrale140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-141/168",
+            "name": "Pennello Arcobaleno",
+            "number": "141/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/PennelloArcobalenoTempestaAstrale141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-142/168",
+            "name": "Caramella Rara",
+            "number": "142/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/CaramellaRaraTempestaAstrale142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-143/168",
+            "name": "Ara del Giudizio",
+            "number": "143/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/AradelGiudizioTempestaAstrale143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-144/168",
+            "name": "Torre dei Cieli",
+            "number": "144/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/TorredeiCieliTempestaAstrale144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-145/168",
+            "name": "Grinta di Rocco",
+            "number": "145/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/GrintadiRoccoTempestaAstrale145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-146/168",
+            "name": "Super Recupero",
+            "number": "146/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/SuperRecuperoTempestaAstrale146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-147/168",
+            "name": "Scambio",
+            "number": "147/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/ScambioTempestaAstrale147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-148/168",
+            "name": "Tell e Pat",
+            "number": "148/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/TellePatTempestaAstrale148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-149/168",
+            "name": "Reporter Televisivo",
+            "number": "149/168",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/ReporterTelevisivoTempestaAstrale149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-150/168",
+            "name": "Spedizione Sotterranea",
+            "number": "150/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SpedizioneSotterraneaTempestaAstrale150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-151/168",
+            "name": "Energia Arcobaleno",
+            "number": "151/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/EnergiaArcobalenoTempestaAstrale151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-152/168",
+            "name": "Shiftry-GX",
+            "number": "152/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Shiftry-GXTempestaAstrale152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-153/168",
+            "name": "Blaziken-GX",
+            "number": "153/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Blaziken-GXTempestaAstrale153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-154/168",
+            "name": "Articuno-GX",
+            "number": "154/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Articuno-GXTempestaAstrale154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-155/168",
+            "name": "Electrode-GX",
+            "number": "155/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Electrode-GXTempestaAstrale155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-156/168",
+            "name": "Mr. Mime-GX",
+            "number": "156/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MrMime-GXTempestaAstrale156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-157/168",
+            "name": "Banette-GX",
+            "number": "157/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Banette-GXTempestaAstrale157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-158/168",
+            "name": "Scizor-GX",
+            "number": "158/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Scizor-GXTempestaAstrale158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-159/168",
+            "name": "Stakataka-GX",
+            "number": "159/168",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Stakataka-GXTempestaAstrale159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-160/168",
+            "name": "Rayquaza-GX",
+            "number": "160/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/Rayquaza-GXTempestaAstrale160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-161/168",
+            "name": "Costruttore di Apricorn",
+            "number": "161/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/CostruttorediApricornTempestaAstrale161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-162/168",
+            "name": "Sostegno di Bill",
+            "number": "162/168",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/SostegnodiBillTempestaAstrale162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-163/168",
+            "name": "Copiona",
+            "number": "163/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/CopionaTempestaAstrale163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-164/168",
+            "name": "Orthilla",
+            "number": "164/168",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/OrthillaTempestaAstrale164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-165/168",
+            "name": "Grinta di Rocco",
+            "number": "165/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/GrintadiRoccoTempestaAstrale165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-166/168",
+            "name": "Tell e Pat",
+            "number": "166/168",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/TellePatTempestaAstrale166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-167/168",
+            "name": "Reporter Televisivo",
+            "number": "167/168",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/ReporterTelevisivoTempestaAstrale167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-168/168",
+            "name": "Spedizione Sotterranea",
+            "number": "168/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SpedizioneSotterraneaTempestaAstrale168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CES-169/168",
+            "name": "Shiftry-GX",
+            "number": "169/168",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/Shiftry-GXTempestaAstrale169.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-170/168",
+            "name": "Blaziken-GX",
+            "number": "170/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Blaziken-GXTempestaAstrale170.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-171/168",
+            "name": "Articuno-GX",
+            "number": "171/168",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Articuno-GXTempestaAstrale171.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-172/168",
+            "name": "Electrode-GX",
+            "number": "172/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Electrode-GXTempestaAstrale172.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-173/168",
+            "name": "Mr. Mime-GX",
+            "number": "173/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/MrMime-GXTempestaAstrale173.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-174/168",
+            "name": "Banette-GX",
+            "number": "174/168",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/Banette-GXTempestaAstrale174.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-175/168",
+            "name": "Scizor-GX",
+            "number": "175/168",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Scizor-GXTempestaAstrale175.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-176/168",
+            "name": "Stakataka-GX",
+            "number": "176/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Stakataka-GXTempestaAstrale176.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-177/168",
+            "name": "Rayquaza-GX",
+            "number": "177/168",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/Rayquaza-GXTempestaAstrale177.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-178/168",
+            "name": "Bici da cross",
+            "number": "178/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/BicidacrossTempestaAstrale178.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-179/168",
+            "name": "Cintura Frenesia",
+            "number": "179/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/CinturaFrenesiaTempestaAstrale179.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-180/168",
+            "name": "Erba Vita",
+            "number": "180/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ErbaVitaTempestaAstrale180.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-181/168",
+            "name": "PokéNav",
+            "number": "181/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/Pok%C3%A9NavTempestaAstrale181.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-182/168",
+            "name": "Pennello Arcobaleno",
+            "number": "182/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/PennelloArcobalenoTempestaAstrale182.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-183/168",
+            "name": "Energia Arcobaleno",
+            "number": "183/168",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/EnergiaArcobalenoTempestaAstrale183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CES-10a/168",
+            "name": "Sceptile",
+            "number": "10a/168",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/SceptileTempestaAstrale10a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "CES-123a/168",
+            "name": "Bici da cross",
+            "number": "123a/168",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/BicidacrossTempestaAstrale123a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "CES-148a/168",
+            "name": "Tell e Pat",
+            "number": "148a/168",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/TellePatTempestaAstrale148a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "CES-177a/168",
+            "name": "Rayquaza-GX",
+            "number": "177a/168",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Rayquaza-GXTempestaAstrale177a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

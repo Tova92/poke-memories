@@ -1,0 +1,1010 @@
+{
+    "expansion": {
+        "id": "DLR",
+        "name": "Megaevoluzione - Dominio Delta",
+        "year": 2026,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetDominio_Delta.png",
+        "cardCount": 141
+    },
+    "cards": [
+        {
+            "id": "DLR-001/103",
+            "name": "Heracross",
+            "number": "001/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/HeracrossDominioDelta1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-002/103",
+            "name": "Surskit",
+            "number": "002/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/SurskitDominioDelta2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-003/103",
+            "name": "Masquerain",
+            "number": "003/103",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/MasquerainDominioDelta3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-004/103",
+            "name": "Cacnea",
+            "number": "004/103",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CacneaDominioDelta4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-005/103",
+            "name": "Cacturne",
+            "number": "005/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/CacturneDominioDelta5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-006/103",
+            "name": "Combee",
+            "number": "006/103",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/CombeeDominioDelta6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-007/103",
+            "name": "Vespiquen",
+            "number": "007/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/VespiquenDominioDelta7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-008/103",
+            "name": "Shaymin",
+            "number": "008/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/ShayminDominioDelta8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-009/103",
+            "name": "Virizion",
+            "number": "009/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/VirizionDominioDelta9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-010/103",
+            "name": "Wimpod",
+            "number": "010/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/WimpodDominioDelta10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-011/103",
+            "name": "Mega Golisopod-ex",
+            "number": "011/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/MegaGolisopod-exDominioDelta11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-012/103",
+            "name": "Sprigatito",
+            "number": "012/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/SprigatitoDominioDelta12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-013/103",
+            "name": "Floragato",
+            "number": "013/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/FloragatoDominioDelta13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-014/103",
+            "name": "Meowscarada-ex",
+            "number": "014/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Meowscarada-exDominioDelta14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-015/103",
+            "name": "Smoliv",
+            "number": "015/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/SmolivDominioDelta15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-016/103",
+            "name": "Dolliv",
+            "number": "016/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/DollivDominioDelta16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-017/103",
+            "name": "Arboliva",
+            "number": "017/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ArbolivaDominioDelta17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-018/103",
+            "name": "Growlithe",
+            "number": "018/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/GrowlitheDominioDelta18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-019/103",
+            "name": "Arcanine",
+            "number": "019/103",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/ArcanineDominioDelta19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-020/103",
+            "name": "Magmar",
+            "number": "020/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/MagmarDominioDelta20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-021/103",
+            "name": "Magmortar",
+            "number": "021/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MagmortarDominioDelta21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-022/103",
+            "name": "Torkoal",
+            "number": "022/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/TorkoalDominioDelta22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-023/103",
+            "name": "Rotom Calore-ex",
+            "number": "023/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/RotomCalore-exDominioDelta23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-024/103",
+            "name": "Heatmor",
+            "number": "024/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/HeatmorDominioDelta24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-025/103",
+            "name": "Mantine",
+            "number": "025/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/MantineDominioDelta25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-026/103",
+            "name": "Kyogre",
+            "number": "026/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/KyogreDominioDelta26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-027/103",
+            "name": "Frillish",
+            "number": "027/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/FrillishDominioDelta27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-028/103",
+            "name": "Jellicent",
+            "number": "028/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/JellicentDominioDelta28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-029/103",
+            "name": "Wishiwashi-ex",
+            "number": "029/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Wishiwashi-exDominioDelta29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-030/103",
+            "name": "Electabuzz",
+            "number": "030/103",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/ElectabuzzDominioDelta30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-031/103",
+            "name": "Electivire",
+            "number": "031/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/ElectivireDominioDelta31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-032/103",
+            "name": "Jolteon",
+            "number": "032/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/JolteonDominioDelta32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-033/103",
+            "name": "Raikou-ex",
+            "number": "033/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/Raikou-exDominioDelta33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-034/103",
+            "name": "Rotom",
+            "number": "034/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/RotomDominioDelta34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-035/103",
+            "name": "Thundurus",
+            "number": "035/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/ThundurusDominioDelta35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-036/103",
+            "name": "Pincurchin",
+            "number": "036/103",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PincurchinDominioDelta36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-037/103",
+            "name": "Pawmi",
+            "number": "037/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PawmiDominioDelta37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-038/103",
+            "name": "Pawmo",
+            "number": "038/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/PawmoDominioDelta38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-039/103",
+            "name": "Pawmot",
+            "number": "039/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PawmotDominioDelta39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-040/103",
+            "name": "Wattrel",
+            "number": "040/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/WattrelDominioDelta40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-041/103",
+            "name": "Kilowattrel",
+            "number": "041/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/KilowattrelDominioDelta41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-042/103",
+            "name": "Miraidon",
+            "number": "042/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/MiraidonDominioDelta42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-043/103",
+            "name": "Drowzee",
+            "number": "043/103",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/DrowzeeDominioDelta43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-044/103",
+            "name": "Hypno",
+            "number": "044/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/HypnoDominioDelta44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-045/103",
+            "name": "Giratina",
+            "number": "045/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/GiratinaDominioDelta45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-046/103",
+            "name": "Golett",
+            "number": "046/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/GolettDominioDelta46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-047/103",
+            "name": "Mega Golurk-ex",
+            "number": "047/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/MegaGolurk-exDominioDelta47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-048/103",
+            "name": "Enamorus",
+            "number": "048/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/EnamorusDominioDelta48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-049/103",
+            "name": "Sandshrew",
+            "number": "049/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SandshrewDominioDelta49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-050/103",
+            "name": "Sandslash",
+            "number": "050/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/SandslashDominioDelta50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-051/103",
+            "name": "Onix",
+            "number": "051/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/OnixDominioDelta51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-052/103",
+            "name": "Steelix",
+            "number": "052/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SteelixDominioDelta52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-053/103",
+            "name": "Groudon",
+            "number": "053/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/GroudonDominioDelta53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-054/103",
+            "name": "Landorus",
+            "number": "054/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/LandorusDominioDelta54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-055/103",
+            "name": "Nidoran♀",
+            "number": "055/103",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/NidoranDominioDelta55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-056/103",
+            "name": "Nidorina",
+            "number": "056/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/NidorinaDominioDelta56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-057/103",
+            "name": "Nidoqueen",
+            "number": "057/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/NidoqueenDominioDelta57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-058/103",
+            "name": "Spinarak",
+            "number": "058/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/SpinarakDominioDelta58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-059/103",
+            "name": "Ariados",
+            "number": "059/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/AriadosDominioDelta59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-060/103",
+            "name": "Sableye",
+            "number": "060/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/SableyeDominioDelta60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-061/103",
+            "name": "Carvanha",
+            "number": "061/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/CarvanhaDominioDelta61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-062/103",
+            "name": "Sharpedo",
+            "number": "062/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/SharpedoDominioDelta62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-063/103",
+            "name": "Darkrai",
+            "number": "063/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/DarkraiDominioDelta63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-064/103",
+            "name": "Purrloin",
+            "number": "064/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/PurrloinDominioDelta64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-065/103",
+            "name": "Liepard",
+            "number": "065/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/LiepardDominioDelta65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-066/103",
+            "name": "Zorua",
+            "number": "066/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ZoruaDominioDelta66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-067/103",
+            "name": "Zoroark-ex",
+            "number": "067/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Zoroark-exDominioDelta67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-068/103",
+            "name": "Inkay",
+            "number": "068/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/InkayDominioDelta68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-069/103",
+            "name": "Mega Malamar-ex",
+            "number": "069/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MegaMalamar-exDominioDelta69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-070/103",
+            "name": "Morpeko",
+            "number": "070/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/MorpekoDominioDelta70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-071/103",
+            "name": "Zarude",
+            "number": "071/103",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/ZarudeDominioDelta71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-072/103",
+            "name": "Druddigon",
+            "number": "072/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/DruddigonDominioDelta72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-073/103",
+            "name": "Jangmo-o",
+            "number": "073/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/Jangmo-oDominioDelta73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-074/103",
+            "name": "Hakamo-o",
+            "number": "074/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Hakamo-oDominioDelta74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-075/103",
+            "name": "Kommo-o",
+            "number": "075/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Kommo-oDominioDelta75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-076/103",
+            "name": "Cyclizar",
+            "number": "076/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/CyclizarDominioDelta76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-077/103",
+            "name": "Tauros",
+            "number": "077/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/TaurosDominioDelta77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-078/103",
+            "name": "Eevee",
+            "number": "078/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/EeveeDominioDelta78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-079/103",
+            "name": "Delibird",
+            "number": "079/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/DelibirdDominioDelta79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-080/103",
+            "name": "Azurill",
+            "number": "080/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/AzurillDominioDelta80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-081/103",
+            "name": "Swablu",
+            "number": "081/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/SwabluDominioDelta81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-082/103",
+            "name": "Altaria",
+            "number": "082/103",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/AltariaDominioDelta82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-083/103",
+            "name": "Kecleon",
+            "number": "083/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/KecleonDominioDelta83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-084/103",
+            "name": "Mega Rayquaza-ex",
+            "number": "084/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/MegaRayquaza-exDominioDelta84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-085/103",
+            "name": "Tornadus",
+            "number": "085/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/TornadusDominioDelta85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-086/103",
+            "name": "Fletchling",
+            "number": "086/103",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/FletchlingDominioDelta86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-087/103",
+            "name": "Fletchinder",
+            "number": "087/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FletchinderDominioDelta87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-088/103",
+            "name": "Talonflame-ex",
+            "number": "088/103",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Talonflame-exDominioDelta88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-089/103",
+            "name": "Iperio",
+            "number": "089/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/IperioDominioDelta89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-090/103",
+            "name": "Lanterna dell'Avventura",
+            "number": "090/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/LanternadellAvventuraDominioDelta90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-091/103",
+            "name": "Corpetto su Misura",
+            "number": "091/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/CorpettosuMisuraDominioDelta91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-092/103",
+            "name": "Entusiasmo di Emcee",
+            "number": "092/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/EntusiasmodiEmceeDominioDelta92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-093/103",
+            "name": "Gris",
+            "number": "093/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/GrisDominioDelta93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-094/103",
+            "name": "Tunnel Lavico Leggendario",
+            "number": "094/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/TunnelLavicoLeggendarioDominioDelta94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-095/103",
+            "name": "Tunnel Lavico Leggendario",
+            "number": "095/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/TunnelLavicoLeggendarioDominioDelta95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-096/103",
+            "name": "Cima Leggendaria",
+            "number": "096/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/CimaLeggendariaDominioDelta96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-097/103",
+            "name": "Cima Leggendaria",
+            "number": "097/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/CimaLeggendariaDominioDelta97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-098/103",
+            "name": "Fossa Leggendaria",
+            "number": "098/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/FossaLeggendariaDominioDelta98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-099/103",
+            "name": "Fossa Leggendaria",
+            "number": "099/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/FossaLeggendariaDominioDelta99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-100/103",
+            "name": "Berretto di Mega Rayquaza",
+            "number": "100/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/BerrettodiMegaRayquazaDominioDelta100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-101/103",
+            "name": "Palla di Riso Gustosa",
+            "number": "101/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PalladiRisoGustosaDominioDelta101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-102/103",
+            "name": "Allenamento di Tell e Pat",
+            "number": "102/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/AllenamentodiTellePatDominioDelta102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-103/103",
+            "name": "Fiducia di Lyris",
+            "number": "103/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/FiduciadiLyrisDominioDelta103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DLR-104/103",
+            "name": "Masquerain",
+            "number": "104/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/MasquerainDominioDelta104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-105/103",
+            "name": "Sprigatito",
+            "number": "105/103",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/SprigatitoDominioDelta105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-106/103",
+            "name": "Growlithe",
+            "number": "106/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/GrowlitheDominioDelta106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-107/103",
+            "name": "Magmortar",
+            "number": "107/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/MagmortarDominioDelta107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-108/103",
+            "name": "Electivire",
+            "number": "108/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/ElectivireDominioDelta108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-109/103",
+            "name": "Pincurchin",
+            "number": "109/103",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/PincurchinDominioDelta109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-110/103",
+            "name": "Enamorus",
+            "number": "110/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/EnamorusDominioDelta110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-111/103",
+            "name": "Groudon",
+            "number": "111/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/GroudonDominioDelta111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-112/103",
+            "name": "Zorua",
+            "number": "112/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/ZoruaDominioDelta112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-113/103",
+            "name": "Inkay",
+            "number": "113/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/InkayDominioDelta113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-114/103",
+            "name": "Eevee",
+            "number": "114/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/EeveeDominioDelta114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-115/103",
+            "name": "Azurill",
+            "number": "115/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/AzurillDominioDelta115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-116/103",
+            "name": "Altaria",
+            "number": "116/103",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/AltariaDominioDelta116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-117/103",
+            "name": "Kecleon",
+            "number": "117/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/KecleonDominioDelta117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-118/103",
+            "name": "Mega Golisopod-ex",
+            "number": "118/103",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MegaGolisopod-exDominioDelta118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-119/103",
+            "name": "Rotom Calore-ex",
+            "number": "119/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/RotomCalore-exDominioDelta119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-120/103",
+            "name": "Wishiwashi-ex",
+            "number": "120/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/Wishiwashi-exDominioDelta120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-121/103",
+            "name": "Raikou-ex",
+            "number": "121/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/Raikou-exDominioDelta121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-122/103",
+            "name": "Mega Golurk-ex",
+            "number": "122/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MegaGolurk-exDominioDelta122.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-123/103",
+            "name": "Mega Malamar-ex",
+            "number": "123/103",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/MegaMalamar-exDominioDelta123.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-124/103",
+            "name": "Talonflame-ex",
+            "number": "124/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Talonflame-exDominioDelta124.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-125/103",
+            "name": "Iperio",
+            "number": "125/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/IperioDominioDelta125.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-126/103",
+            "name": "Lanterna dell'Avventura",
+            "number": "126/103",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/LanternadellAvventuraDominioDelta126.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-127/103",
+            "name": "Corpetto su Misura",
+            "number": "127/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/CorpettosuMisuraDominioDelta127.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-128/103",
+            "name": "Entusiasmo di Emcee",
+            "number": "128/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/EntusiasmodiEmceeDominioDelta128.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-129/103",
+            "name": "Acchiappa-Pokémon",
+            "number": "129/103",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Acchiappa-Pok%C3%A9monDominioDelta129.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-130/103",
+            "name": "Allenamento di Tell e Pat",
+            "number": "130/103",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/AllenamentodiTellePatDominioDelta130.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-131/103",
+            "name": "Fiducia di Lyris",
+            "number": "131/103",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/FiduciadiLyrisDominioDelta131.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-132/103",
+            "name": "Energia A Frizzante",
+            "number": "132/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/EnergiaAFrizzanteDominioDelta132.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-133/103",
+            "name": "Energia E Rigogliosa",
+            "number": "133/103",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/EnergiaERigogliosaDominioDelta133.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-134/103",
+            "name": "Energia F Propulsiva",
+            "number": "134/103",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/EnergiaFPropulsivaDominioDelta134.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-135/103",
+            "name": "Mega Golisopod-ex",
+            "number": "135/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MegaGolisopod-exDominioDelta135.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-136/103",
+            "name": "Raikou-ex",
+            "number": "136/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/Raikou-exDominioDelta136.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-137/103",
+            "name": "Mega Golurk-ex",
+            "number": "137/103",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MegaGolurk-exDominioDelta137.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-138/103",
+            "name": "Mega Rayquaza-ex",
+            "number": "138/103",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/MegaRayquaza-exDominioDelta138.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-139/103",
+            "name": "Iperio",
+            "number": "139/103",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/IperioDominioDelta139.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-140/103",
+            "name": "Fiducia di Lyris",
+            "number": "140/103",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/FiduciadiLyrisDominioDelta140.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DLR-141/103",
+            "name": "Mega Rayquaza-ex",
+            "number": "141/103",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/MegaRayquaza-exDominioDelta141.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

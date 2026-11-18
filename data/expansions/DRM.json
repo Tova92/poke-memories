@@ -1,0 +1,574 @@
+{
+    "expansion": {
+        "id": "DRM",
+        "name": "Trionfo dei Draghi",
+        "year": 2018,
+        "month": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/7/79/SimboloSetTrionfo_dei_Draghi.png",
+        "cardCount": 78,
+				"yellowAAlternateCardCount": 2
+    },
+    "cards": [
+        {
+            "id": "DRM-1/70",
+            "name": "Charmander",
+            "number": "1/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/CharmanderTrionfodeiDraghi1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-2/70",
+            "name": "Charmeleon",
+            "number": "2/70",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/CharmeleonTrionfodeiDraghi2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-3/70",
+            "name": "Charizard",
+            "number": "3/70",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/CharizardTrionfodeiDraghi3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-4/70",
+            "name": "Torchic",
+            "number": "4/70",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/TorchicTrionfodeiDraghi4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-5/70",
+            "name": "Combusken",
+            "number": "5/70",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/CombuskenTrionfodeiDraghi5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-6/70",
+            "name": "Blaziken",
+            "number": "6/70",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/BlazikenTrionfodeiDraghi6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-7/70",
+            "name": "Victini ◇",
+            "number": "7/70",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/VictiniTrionfodeiDraghi7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-8/70",
+            "name": "Darumaka",
+            "number": "8/70",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/DarumakaTrionfodeiDraghi8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-9/70",
+            "name": "Darmanitan",
+            "number": "9/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/DarmanitanTrionfodeiDraghi9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-10/70",
+            "name": "Heatmor",
+            "number": "10/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/HeatmorTrionfodeiDraghi10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-11/70",
+            "name": "Reshiram-GX",
+            "number": "11/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/Reshiram-GXTrionfodeiDraghi11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-12/70",
+            "name": "Litten",
+            "number": "12/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/LittenTrionfodeiDraghi12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-13/70",
+            "name": "Salandit",
+            "number": "13/70",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/SalanditTrionfodeiDraghi13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-14/70",
+            "name": "Salazzle",
+            "number": "14/70",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SalazzleTrionfodeiDraghi14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-15/70",
+            "name": "Horsea",
+            "number": "15/70",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/HorseaTrionfodeiDraghi15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-16/70",
+            "name": "Horsea",
+            "number": "16/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/HorseaTrionfodeiDraghi16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-17/70",
+            "name": "Seadra",
+            "number": "17/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SeadraTrionfodeiDraghi17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-18/70",
+            "name": "Kingdra-GX",
+            "number": "18/70",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Kingdra-GXTrionfodeiDraghi18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-19/70",
+            "name": "Magikarp",
+            "number": "19/70",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/MagikarpTrionfodeiDraghi19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-20/70",
+            "name": "Gyarados",
+            "number": "20/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GyaradosTrionfodeiDraghi20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-21/70",
+            "name": "Lapras",
+            "number": "21/70",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/LaprasTrionfodeiDraghi21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-22/70",
+            "name": "Totodile",
+            "number": "22/70",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/TotodileTrionfodeiDraghi22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-23/70",
+            "name": "Croconaw",
+            "number": "23/70",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CroconawTrionfodeiDraghi23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-24/70",
+            "name": "Feraligatr",
+            "number": "24/70",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/FeraligatrTrionfodeiDraghi24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-25/70",
+            "name": "Wooper",
+            "number": "25/70",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/WooperTrionfodeiDraghi25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-26/70",
+            "name": "Quagsire",
+            "number": "26/70",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/QuagsireTrionfodeiDraghi26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-27/70",
+            "name": "Corsola",
+            "number": "27/70",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/CorsolaTrionfodeiDraghi27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-28/70",
+            "name": "Feebas",
+            "number": "28/70",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/FeebasTrionfodeiDraghi28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-29/70",
+            "name": "Milotic",
+            "number": "29/70",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MiloticTrionfodeiDraghi29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-30/70",
+            "name": "Phione",
+            "number": "30/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/PhioneTrionfodeiDraghi30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-31/70",
+            "name": "Wishiwashi",
+            "number": "31/70",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/WishiwashiTrionfodeiDraghi31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-32/70",
+            "name": "Trapinch",
+            "number": "32/70",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/TrapinchTrionfodeiDraghi32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-33/70",
+            "name": "Hydreigon",
+            "number": "33/70",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/HydreigonTrionfodeiDraghi33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-34/70",
+            "name": "Dratini",
+            "number": "34/70",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/DratiniTrionfodeiDraghi34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-35/70",
+            "name": "Dratini",
+            "number": "35/70",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/DratiniTrionfodeiDraghi35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-36/70",
+            "name": "Dragonair",
+            "number": "36/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/DragonairTrionfodeiDraghi36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-37/70",
+            "name": "Dragonite-GX",
+            "number": "37/70",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/Dragonite-GXTrionfodeiDraghi37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-38/70",
+            "name": "Vibrava",
+            "number": "38/70",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/VibravaTrionfodeiDraghi38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-39/70",
+            "name": "Flygon",
+            "number": "39/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/FlygonTrionfodeiDraghi39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-40/70",
+            "name": "Altaria",
+            "number": "40/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/AltariaTrionfodeiDraghi40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-41/70",
+            "name": "Altaria-GX",
+            "number": "41/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Altaria-GXTrionfodeiDraghi41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-42/70",
+            "name": "Bagon",
+            "number": "42/70",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/BagonTrionfodeiDraghi42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-43/70",
+            "name": "Shelgon",
+            "number": "43/70",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/ShelgonTrionfodeiDraghi43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-44/70",
+            "name": "Salamence-GX",
+            "number": "44/70",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Salamence-GXTrionfodeiDraghi44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-45/70",
+            "name": "Druddigon",
+            "number": "45/70",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/DruddigonTrionfodeiDraghi45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-46/70",
+            "name": "Zekrom",
+            "number": "46/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ZekromTrionfodeiDraghi46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-47/70",
+            "name": "Kyurem",
+            "number": "47/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/KyuremTrionfodeiDraghi47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-48/70",
+            "name": "Kyurem Bianco-GX",
+            "number": "48/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/KyuremBianco-GXTrionfodeiDraghi48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-49/70",
+            "name": "Zygarde",
+            "number": "49/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/ZygardeTrionfodeiDraghi49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-50/70",
+            "name": "Turtonator",
+            "number": "50/70",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/TurtonatorTrionfodeiDraghi50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-51/70",
+            "name": "Drampa",
+            "number": "51/70",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/DrampaTrionfodeiDraghi51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-52/70",
+            "name": "Jangmo-o",
+            "number": "52/70",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/Jangmo-oTrionfodeiDraghi52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-53/70",
+            "name": "Hakamo-o",
+            "number": "53/70",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Hakamo-oTrionfodeiDraghi53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-54/70",
+            "name": "Kommo-o",
+            "number": "54/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Kommo-oTrionfodeiDraghi54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-55/70",
+            "name": "Kangaskhan",
+            "number": "55/70",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/KangaskhanTrionfodeiDraghi55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-56/70",
+            "name": "Swablu",
+            "number": "56/70",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/SwabluTrionfodeiDraghi56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-57/70",
+            "name": "Swablu",
+            "number": "57/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SwabluTrionfodeiDraghi57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-58/70",
+            "name": "Ultimo Tentativo di Blaine",
+            "number": "58/70",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/UltimoTentativodiBlaineTrionfodeiDraghi58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-59/70",
+            "name": "Unghia del Drago",
+            "number": "59/70",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/UnghiadelDragoTrionfodeiDraghi59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-60/70",
+            "name": "Pietra Pirica",
+            "number": "60/70",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/PietraPiricaTrionfodeiDraghi60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-61/70",
+            "name": "Lance ◇",
+            "number": "61/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/LanceTrionfodeiDraghi61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-62/70",
+            "name": "Ciambella di Scambio",
+            "number": "62/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/CiambelladiScambioTrionfodeiDraghi62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-63/70",
+            "name": "Parco del Vulcano Wela",
+            "number": "63/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/ParcodelVulcanoWelaTrionfodeiDraghi63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-64/70",
+            "name": "Lyris",
+            "number": "64/70",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/LyrisTrionfodeiDraghi64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-65/70",
+            "name": "Reshiram-GX",
+            "number": "65/70",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Reshiram-GXTrionfodeiDraghi65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-66/70",
+            "name": "Kingdra-GX",
+            "number": "66/70",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Kingdra-GXTrionfodeiDraghi66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-67/70",
+            "name": "Dragonite-GX",
+            "number": "67/70",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Dragonite-GXTrionfodeiDraghi67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-68/70",
+            "name": "Altaria-GX",
+            "number": "68/70",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Altaria-GXTrionfodeiDraghi68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-69/70",
+            "name": "Ultimo Tentativo di Blaine",
+            "number": "69/70",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/UltimoTentativodiBlaineTrionfodeiDraghi69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-70/70",
+            "name": "Lyris",
+            "number": "70/70",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/LyrisTrionfodeiDraghi70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRM-71/70",
+            "name": "Reshiram-GX",
+            "number": "71/70",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/Reshiram-GXTrionfodeiDraghi71.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-72/70",
+            "name": "Altaria-GX",
+            "number": "72/70",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Altaria-GXTrionfodeiDraghi72.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-73/70",
+            "name": "Salamence-GX",
+            "number": "73/70",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Salamence-GXTrionfodeiDraghi73.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-74/70",
+            "name": "Kyurem Bianco-GX",
+            "number": "74/70",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/KyuremBianco-GXTrionfodeiDraghi74.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-75/70",
+            "name": "Unghia del Drago",
+            "number": "75/70",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/UnghiadelDragoTrionfodeiDraghi75.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-76/70",
+            "name": "Pietra Pirica",
+            "number": "76/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/PietraPiricaTrionfodeiDraghi76.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-77/70",
+            "name": "Ciambella di Scambio",
+            "number": "77/70",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/CiambelladiScambioTrionfodeiDraghi77.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-78/70",
+            "name": "UltraNecrozma-GX",
+            "number": "78/70",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/UltraNecrozma-GXTrionfodeiDraghi78.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRM-40a/70",
+            "name": "Altaria",
+            "number": "40a/70",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/AltariaTrionfodeiDraghi40a.png",
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "DRM-60a/70",
+            "name": "Pietra Pirica",
+            "number": "60a/70",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/PietraPiricaTrionfodeiDraghi60a.png",
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

@@ -1,0 +1,713 @@
+{
+    "expansion": {
+        "id": "DR",
+        "name": "EX Drago",
+				"year": 2003,
+				"month": 11,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetEX_Drago.png",
+        "cardCount": 100
+    },
+    "cards": [
+        {
+            "id": "DR-1/97",
+            "name": "Absol",
+            "number": "1/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/AbsolEXDrago1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-2/97",
+            "name": "Altaria",
+            "number": "2/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/AltariaEXDrago2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-3/97",
+            "name": "Crawdaunt",
+            "number": "3/97",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/CrawdauntEXDrago3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-4/97",
+            "name": "Flygon",
+            "number": "4/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/FlygonEXDrago4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-5/97",
+            "name": "Golem",
+            "number": "5/97",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/GolemEXDrago5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-6/97",
+            "name": "Grumpig",
+            "number": "6/97",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/GrumpigEXDrago6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-7/97",
+            "name": "Minun",
+            "number": "7/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MinunEXDrago7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-8/97",
+            "name": "Plusle",
+            "number": "8/97",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/PlusleEXDrago8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-9/97",
+            "name": "Roselia",
+            "number": "9/97",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/RoseliaEXDrago9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-10/97",
+            "name": "Salamence",
+            "number": "10/97",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/SalamenceEXDrago10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-11/97",
+            "name": "Shedinja",
+            "number": "11/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/ShedinjaEXDrago11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-12/97",
+            "name": "Torkoal",
+            "number": "12/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/TorkoalEXDrago12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-13/97",
+            "name": "Crawdaunt",
+            "number": "13/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/CrawdauntEXDrago13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-14/97",
+            "name": "Dragonair",
+            "number": "14/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/DragonairEXDrago14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-15/97",
+            "name": "Flygon",
+            "number": "15/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/FlygonEXDrago15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-16/97",
+            "name": "Girafarig",
+            "number": "16/97",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/GirafarigEXDrago16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-17/97",
+            "name": "Magneton",
+            "number": "17/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MagnetonEXDrago17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-18/97",
+            "name": "Ninjask",
+            "number": "18/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/NinjaskEXDrago18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-19/97",
+            "name": "Salamence",
+            "number": "19/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/SalamenceEXDrago19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-20/97",
+            "name": "Shelgon",
+            "number": "20/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/ShelgonEXDrago20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-21/97",
+            "name": "Skarmory",
+            "number": "21/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/SkarmoryEXDrago21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-22/97",
+            "name": "Vibrava",
+            "number": "22/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/VibravaEXDrago22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-23/97",
+            "name": "Bagon",
+            "number": "23/97",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/BagonEXDrago23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-24/97",
+            "name": "Camerupt",
+            "number": "24/97",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/CameruptEXDrago24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-25/97",
+            "name": "Combusken",
+            "number": "25/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/CombuskenEXDrago25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-26/97",
+            "name": "Dratini",
+            "number": "26/97",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/DratiniEXDrago26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-27/97",
+            "name": "Flaaffy",
+            "number": "27/97",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/FlaaffyEXDrago27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-28/97",
+            "name": "Forretress",
+            "number": "28/97",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/ForretressEXDrago28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-29/97",
+            "name": "Graveler",
+            "number": "29/97",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/GravelerEXDrago29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-30/97",
+            "name": "Graveler",
+            "number": "30/97",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/GravelerEXDrago30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-31/97",
+            "name": "Grovyle",
+            "number": "31/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/GrovyleEXDrago31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-32/97",
+            "name": "Gyarados",
+            "number": "32/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/GyaradosEXDrago32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-33/97",
+            "name": "Horsea",
+            "number": "33/97",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/HorseaEXDrago33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-34/97",
+            "name": "Houndoom",
+            "number": "34/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/HoundoomEXDrago34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-35/97",
+            "name": "Magneton",
+            "number": "35/97",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/MagnetonEXDrago35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-36/97",
+            "name": "Marshtomp",
+            "number": "36/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/MarshtompEXDrago36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-37/97",
+            "name": "Meditite",
+            "number": "37/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/MedititeEXDrago37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-38/97",
+            "name": "Ninjask",
+            "number": "38/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/NinjaskEXDrago38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-39/97",
+            "name": "Seadra",
+            "number": "39/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SeadraEXDrago39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-40/97",
+            "name": "Seadra",
+            "number": "40/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/SeadraEXDrago40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-41/97",
+            "name": "Shelgon",
+            "number": "41/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/ShelgonEXDrago41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-42/97",
+            "name": "Shelgon",
+            "number": "42/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ShelgonEXDrago42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-43/97",
+            "name": "Shuppet",
+            "number": "43/97",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ShuppetEXDrago43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-44/97",
+            "name": "Snorunt",
+            "number": "44/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/SnoruntEXDrago44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-45/97",
+            "name": "Swellow",
+            "number": "45/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/SwellowEXDrago45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-46/97",
+            "name": "Vibrava",
+            "number": "46/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/VibravaEXDrago46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-47/97",
+            "name": "Vibrava",
+            "number": "47/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/VibravaEXDrago47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-48/97",
+            "name": "Whiscash",
+            "number": "48/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/WhiscashEXDrago48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-49/97",
+            "name": "Bagon",
+            "number": "49/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/BagonEXDrago49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-50/97",
+            "name": "Bagon",
+            "number": "50/97",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/BagonEXDrago50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-51/97",
+            "name": "Barboach",
+            "number": "51/97",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/BarboachEXDrago51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-52/97",
+            "name": "Corphish",
+            "number": "52/97",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CorphishEXDrago52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-53/97",
+            "name": "Corphish",
+            "number": "53/97",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/CorphishEXDrago53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-54/97",
+            "name": "Corphish",
+            "number": "54/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/CorphishEXDrago54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-55/97",
+            "name": "Geodude",
+            "number": "55/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/GeodudeEXDrago55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-56/97",
+            "name": "Geodude",
+            "number": "56/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/GeodudeEXDrago56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-57/97",
+            "name": "Grimer",
+            "number": "57/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/GrimerEXDrago57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-58/97",
+            "name": "Horsea",
+            "number": "58/97",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/HorseaEXDrago58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-59/97",
+            "name": "Houndour",
+            "number": "59/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/HoundourEXDrago59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-60/97",
+            "name": "Magikarp",
+            "number": "60/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/MagikarpEXDrago60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-61/97",
+            "name": "Magnemite",
+            "number": "61/97",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/MagnemiteEXDrago61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-62/97",
+            "name": "Magnemite",
+            "number": "62/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MagnemiteEXDrago62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-63/97",
+            "name": "Magnemite",
+            "number": "63/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MagnemiteEXDrago63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-64/97",
+            "name": "Mareep",
+            "number": "64/97",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MareepEXDrago64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-65/97",
+            "name": "Mudkip",
+            "number": "65/97",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/MudkipEXDrago65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-66/97",
+            "name": "Nincada",
+            "number": "66/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/NincadaEXDrago66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-67/97",
+            "name": "Nincada",
+            "number": "67/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/NincadaEXDrago67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-68/97",
+            "name": "Nincada",
+            "number": "68/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/NincadaEXDrago68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-69/97",
+            "name": "Numel",
+            "number": "69/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/NumelEXDrago69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-70/97",
+            "name": "Numel",
+            "number": "70/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/NumelEXDrago70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-71/97",
+            "name": "Pineco",
+            "number": "71/97",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/PinecoEXDrago71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-72/97",
+            "name": "Slugma",
+            "number": "72/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SlugmaEXDrago72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-73/97",
+            "name": "Spoink",
+            "number": "73/97",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/SpoinkEXDrago73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-74/97",
+            "name": "Spoink",
+            "number": "74/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/SpoinkEXDrago74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-75/97",
+            "name": "Swablu",
+            "number": "75/97",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/SwabluEXDrago75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-76/97",
+            "name": "Taillow",
+            "number": "76/97",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/TaillowEXDrago76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-77/97",
+            "name": "Torchic",
+            "number": "77/97",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/TorchicEXDrago77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-78/97",
+            "name": "Trapinch",
+            "number": "78/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/TrapinchEXDrago78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-79/97",
+            "name": "Trapinch",
+            "number": "79/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/TrapinchEXDrago79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-80/97",
+            "name": "Treecko",
+            "number": "80/97",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/TreeckoEXDrago80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-81/97",
+            "name": "Wurmple",
+            "number": "81/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/WurmpleEXDrago81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-82/97",
+            "name": "Bacca Pallone",
+            "number": "82/97",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/BaccaPalloneEXDrago82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-83/97",
+            "name": "Paracolpi",
+            "number": "83/97",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ParacolpiEXDrago83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-84/97",
+            "name": "Sistema di Riciclo dell'Energia",
+            "number": "84/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/SistemadiRiciclodell%27EnergiaEXDrago84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-85/97",
+            "name": "Sistema di Alta Pressione",
+            "number": "85/97",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/SistemadiAltaPressioneEXDrago85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-86/97",
+            "name": "Sistema di Bassa Pressione",
+            "number": "86/97",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SistemadiBassaPressioneEXDrago86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-87/97",
+            "name": "Compassione del Sig. Marino",
+            "number": "87/97",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/CompassionedelSigMarinoEXDrago87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-88/97",
+            "name": "Reporter Televisivo",
+            "number": "88/97",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/ReporterTelevisivoEXDrago88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-89/97",
+            "name": "Ampharos ex",
+            "number": "89/97",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/AmpharosexEXDrago89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-90/97",
+            "name": "Dragonite ex",
+            "number": "90/97",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/DragoniteexEXDrago90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-91/97",
+            "name": "Golem ex",
+            "number": "91/97",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/GolemexEXDrago91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-92/97",
+            "name": "Kingdra ex",
+            "number": "92/97",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/KingdraexEXDrago92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-93/97",
+            "name": "Latias ex",
+            "number": "93/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/LatiasexEXDrago93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-94/97",
+            "name": "Latios ex",
+            "number": "94/97",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/LatiosexEXDrago94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-95/97",
+            "name": "Magcargo ex",
+            "number": "95/97",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/MagcargoexEXDrago95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-96/97",
+            "name": "Muk ex",
+            "number": "96/97",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/MukexEXDrago96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-97/97",
+            "name": "Rayquaza ex",
+            "number": "97/97",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/RayquazaexEXDrago97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DR-98/97",
+            "name": "Charmander",
+            "number": "98/97",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/CharmanderEXDrago98.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DR-99/97",
+            "name": "Charmeleon",
+            "number": "99/97",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/CharmeleonEXDrago99.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DR-100/97",
+            "name": "Charizard",
+            "number": "100/97",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/CharizardEXDrago100.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

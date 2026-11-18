@@ -1,0 +1,811 @@
+{
+    "expansion": {
+        "id": "DS",
+        "name": "EX Specie Delta",
+				"year": 2005,
+				"month": 10,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetEX_Specie_Delta.png",
+        "cardCount": 114
+    },
+    "cards": [
+        {
+            "id": "DS-1/113",
+            "name": "Beedrill δ",
+            "number": "1/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/BeedrillEXSpecieDelta1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-2/113",
+            "name": "Crobat δ",
+            "number": "2/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/CrobatEXSpecieDelta2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-3/113",
+            "name": "Dragonite δ",
+            "number": "3/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/DragoniteEXSpecieDelta3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-4/113",
+            "name": "Espeon δ",
+            "number": "4/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/EspeonEXSpecieDelta4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-5/113",
+            "name": "Flareon δ",
+            "number": "5/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/FlareonEXSpecieDelta5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-6/113",
+            "name": "Gardevoir δ",
+            "number": "6/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/GardevoirEXSpecieDelta6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-7/113",
+            "name": "Jolteon δ",
+            "number": "7/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/JolteonEXSpecieDelta7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-8/113",
+            "name": "Latias δ",
+            "number": "8/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/LatiasEXSpecieDelta8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-9/113",
+            "name": "Latios δ",
+            "number": "9/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/LatiosEXSpecieDelta9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-10/113",
+            "name": "Marowak δ",
+            "number": "10/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/MarowakEXSpecieDelta10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-11/113",
+            "name": "Metagross δ",
+            "number": "11/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/MetagrossEXSpecieDelta11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-12/113",
+            "name": "Mewtwo δ",
+            "number": "12/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/MewtwoEXSpecieDelta12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-13/113",
+            "name": "Rayquaza δ",
+            "number": "13/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/RayquazaEXSpecieDelta13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-14/113",
+            "name": "Salamence δ",
+            "number": "14/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/SalamenceEXSpecieDelta14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-15/113",
+            "name": "Starmie δ",
+            "number": "15/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/StarmieEXSpecieDelta15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-16/113",
+            "name": "Tyranitar δ",
+            "number": "16/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TyranitarEXSpecieDelta16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-17/113",
+            "name": "Umbreon δ",
+            "number": "17/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/UmbreonEXSpecieDelta17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-18/113",
+            "name": "Vaporeon δ",
+            "number": "18/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/VaporeonEXSpecieDelta18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-19/113",
+            "name": "Azumarill δ",
+            "number": "19/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/AzumarillEXSpecieDelta19.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-20/113",
+            "name": "Azurill",
+            "number": "20/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/AzurillEXSpecieDelta20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-21/113",
+            "name": "Holon Electrode",
+            "number": "21/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/HolonElectrodeEXSpecieDelta21.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-22/113",
+            "name": "Holon Magneton",
+            "number": "22/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/HolonMagnetonEXSpecieDelta22.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-23/113",
+            "name": "Hypno",
+            "number": "23/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/HypnoEXSpecieDelta23.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-24/113",
+            "name": "Mightyena δ",
+            "number": "24/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/MightyenaEXSpecieDelta24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-25/113",
+            "name": "Porygon2",
+            "number": "25/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/Porygon2EXSpecieDelta25.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-26/113",
+            "name": "Castform Pioggia",
+            "number": "26/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/CastformPioggiaEXSpecieDelta26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-27/113",
+            "name": "Sandslash δ",
+            "number": "27/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/SandslashEXSpecieDelta27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-28/113",
+            "name": "Slowking",
+            "number": "28/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/SlowkingEXSpecieDelta28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-29/113",
+            "name": "Castform Neve",
+            "number": "29/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/CastformNeveEXSpecieDelta29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-30/113",
+            "name": "Starmie δ",
+            "number": "30/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/StarmieEXSpecieDelta30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-31/113",
+            "name": "Castform Sole",
+            "number": "31/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/CastformSoleEXSpecieDelta31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-32/113",
+            "name": "Swellow",
+            "number": "32/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/SwellowEXSpecieDelta32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-33/113",
+            "name": "Weezing",
+            "number": "33/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/WeezingEXSpecieDelta33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-34/113",
+            "name": "Castform",
+            "number": "34/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/CastformEXSpecieDelta34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-35/113",
+            "name": "Ditto",
+            "number": "35/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/DittoEXSpecieDelta35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-36/113",
+            "name": "Ditto",
+            "number": "36/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/DittoEXSpecieDelta36.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-37/113",
+            "name": "Ditto",
+            "number": "37/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/DittoEXSpecieDelta37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-38/113",
+            "name": "Ditto",
+            "number": "38/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/DittoEXSpecieDelta38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-39/113",
+            "name": "Ditto",
+            "number": "39/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/DittoEXSpecieDelta39.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-40/113",
+            "name": "Ditto",
+            "number": "40/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/DittoEXSpecieDelta40.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-41/113",
+            "name": "Dragonair δ",
+            "number": "41/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/DragonairEXSpecieDelta41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-42/113",
+            "name": "Dragonair δ",
+            "number": "42/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/DragonairEXSpecieDelta42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-43/113",
+            "name": "Golbat",
+            "number": "43/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/GolbatEXSpecieDelta43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-44/113",
+            "name": "Hariyama",
+            "number": "44/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/HariyamaEXSpecieDelta44.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-45/113",
+            "name": "Illumise",
+            "number": "45/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/IllumiseEXSpecieDelta45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-46/113",
+            "name": "Kakuna",
+            "number": "46/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/KakunaEXSpecieDelta46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-47/113",
+            "name": "Kirlia",
+            "number": "47/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/KirliaEXSpecieDelta47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-48/113",
+            "name": "Magneton",
+            "number": "48/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MagnetonEXSpecieDelta48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-49/113",
+            "name": "Metang δ",
+            "number": "49/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/MetangEXSpecieDelta49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-50/113",
+            "name": "Persian",
+            "number": "50/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/PersianEXSpecieDelta50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-51/113",
+            "name": "Pupitar δ",
+            "number": "51/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/PupitarEXSpecieDelta51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-52/113",
+            "name": "Rapidash",
+            "number": "52/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/RapidashEXSpecieDelta52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-53/113",
+            "name": "Shelgon δ",
+            "number": "53/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/ShelgonEXSpecieDelta53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-54/113",
+            "name": "Shelgon δ",
+            "number": "54/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/ShelgonEXSpecieDelta54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-55/113",
+            "name": "Skarmory",
+            "number": "55/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/SkarmoryEXSpecieDelta55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-56/113",
+            "name": "Volbeat",
+            "number": "56/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/VolbeatEXSpecieDelta56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-57/113",
+            "name": "Bagon δ",
+            "number": "57/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/BagonEXSpecieDelta57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-58/113",
+            "name": "Bagon δ",
+            "number": "58/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/BagonEXSpecieDelta58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-59/113",
+            "name": "Beldum δ",
+            "number": "59/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/BeldumEXSpecieDelta59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-60/113",
+            "name": "Cubone",
+            "number": "60/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/CuboneEXSpecieDelta60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-61/113",
+            "name": "Ditto",
+            "number": "61/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/DittoEXSpecieDelta61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-62/113",
+            "name": "Ditto",
+            "number": "62/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/DittoEXSpecieDelta62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-63/113",
+            "name": "Ditto",
+            "number": "63/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/DittoEXSpecieDelta63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-64/113",
+            "name": "Ditto",
+            "number": "64/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/DittoEXSpecieDelta64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-65/113",
+            "name": "Dratini δ",
+            "number": "65/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/DratiniEXSpecieDelta65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-66/113",
+            "name": "Dratini δ",
+            "number": "66/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/DratiniEXSpecieDelta66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-67/113",
+            "name": "Drowzee",
+            "number": "67/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/DrowzeeEXSpecieDelta67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-68/113",
+            "name": "Eevee δ",
+            "number": "68/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/EeveeEXSpecieDelta68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-69/113",
+            "name": "Eevee",
+            "number": "69/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/EeveeEXSpecieDelta69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-70/113",
+            "name": "Holon Magnemite",
+            "number": "70/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/HolonMagnemiteEXSpecieDelta70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-71/113",
+            "name": "Holon Voltorb",
+            "number": "71/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/HolonVoltorbEXSpecieDelta71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-72/113",
+            "name": "Koffing",
+            "number": "72/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/KoffingEXSpecieDelta72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-73/113",
+            "name": "Larvitar δ",
+            "number": "73/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/LarvitarEXSpecieDelta73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-74/113",
+            "name": "Magnemite",
+            "number": "74/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MagnemiteEXSpecieDelta74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-75/113",
+            "name": "Makuhita",
+            "number": "75/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/MakuhitaEXSpecieDelta75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-76/113",
+            "name": "Marill",
+            "number": "76/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/MarillEXSpecieDelta76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-77/113",
+            "name": "Meowth",
+            "number": "77/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/MeowthEXSpecieDelta77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-78/113",
+            "name": "Ponyta",
+            "number": "78/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/PonytaEXSpecieDelta78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-79/113",
+            "name": "Poochyena",
+            "number": "79/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PoochyenaEXSpecieDelta79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-80/113",
+            "name": "Porygon",
+            "number": "80/113",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/PorygonEXSpecieDelta80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-81/113",
+            "name": "Ralts",
+            "number": "81/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/RaltsEXSpecieDelta81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-82/113",
+            "name": "Sandshrew",
+            "number": "82/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SandshrewEXSpecieDelta82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-83/113",
+            "name": "Slowpoke",
+            "number": "83/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/SlowpokeEXSpecieDelta83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-84/113",
+            "name": "Staryu",
+            "number": "84/113",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/StaryuEXSpecieDelta84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-85/113",
+            "name": "Staryu",
+            "number": "85/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/StaryuEXSpecieDelta85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-86/113",
+            "name": "Taillow",
+            "number": "86/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/TaillowEXSpecieDelta86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-87/113",
+            "name": "Weedle",
+            "number": "87/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/WeedleEXSpecieDelta87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-88/113",
+            "name": "Zubat",
+            "number": "88/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/ZubatEXSpecieDelta88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-89/113",
+            "name": "Palla Doppia",
+            "number": "89/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/PallaDoppiaEXSpecieDelta89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-90/113",
+            "name": "Grande Palla",
+            "number": "90/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/GrandePallaEXSpecieDelta90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-91/113",
+            "name": "Allevatore di Holon",
+            "number": "91/113",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/AllevatorediHolonEXSpecieDelta91.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-92/113",
+            "name": "Pupa di Holon",
+            "number": "92/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/PupadiHolonEXSpecieDelta92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-93/113",
+            "name": "Mentore di Holon",
+            "number": "93/113",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/MentorediHolonEXSpecieDelta93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-94/113",
+            "name": "Torre di Ricerca di Holon",
+            "number": "94/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/TorrediRicercadiHolonEXSpecieDelta94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-95/113",
+            "name": "Ricercatore di Holon",
+            "number": "95/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/RicercatorediHolonEXSpecieDelta95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-96/113",
+            "name": "Rovine di Holon",
+            "number": "96/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RovinediHolonEXSpecieDelta96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-97/113",
+            "name": "Scienziato di Holon",
+            "number": "97/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ScienziatodiHolonEXSpecieDelta97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-98/113",
+            "name": "Ricetrasmettitore di Holon",
+            "number": "98/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/RicetrasmettitorediHolonEXSpecieDelta98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-99/113",
+            "name": "Master Ball",
+            "number": "99/113",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MasterBallEXSpecieDelta99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-100/113",
+            "name": "Super Recupero",
+            "number": "100/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/SuperRecuperoEXSpecieDelta100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-101/113",
+            "name": "Pozione Magica",
+            "number": "101/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/PozioneMagicaEXSpecieDelta101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-102/113",
+            "name": "Scambio",
+            "number": "102/113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/ScambioEXSpecieDelta102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-103/113",
+            "name": "Energia Oscurità",
+            "number": "103/113",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/EnergiaOscurit%C3%A0EXSpecieDelta103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-104/113",
+            "name": "Energia Holon FL",
+            "number": "104/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/EnergiaHolonFLEXSpecieDelta104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-105/113",
+            "name": "Energia Holon EL",
+            "number": "105/113",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/EnergiaHolonELEXSpecieDelta105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-106/113",
+            "name": "Energia Holon AP",
+            "number": "106/113",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/EnergiaHolonAPEXSpecieDelta106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-107/113",
+            "name": "Energia Metallo",
+            "number": "107/113",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/EnergiaMetalloEXSpecieDelta107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-108/113",
+            "name": "Flareon ex",
+            "number": "108/113",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/FlareonexEXSpecieDelta108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-109/113",
+            "name": "Jolteon ex",
+            "number": "109/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/JolteonexEXSpecieDelta109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-110/113",
+            "name": "Vaporeon ex",
+            "number": "110/113",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/VaporeonexEXSpecieDelta110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-111/113",
+            "name": "Groudon ☆",
+            "number": "111/113",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/GroudonEXSpecieDelta111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-112/113",
+            "name": "Kyogre ☆",
+            "number": "112/113",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/KyogreEXSpecieDelta112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-113/113",
+            "name": "Metagross ☆",
+            "number": "113/113",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MetagrossEXSpecieDelta113.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "DS-114/113",
+            "name": "Azumarill",
+            "number": "114/113",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/AzumarillEXSpecieDelta114.jpg",
+            "section": "Fuoriserie"
+        }
+    ]
+}

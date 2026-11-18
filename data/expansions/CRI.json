@@ -1,0 +1,877 @@
+{
+    "expansion": {
+        "id": "CRI",
+        "name": "Megaevoluzione - Caos Nascente",
+        "year": 2026,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetCaos_Nascente.png",
+        "cardCount": 122
+    },
+    "cards": [
+        {
+            "id": "CRI-001/086",
+            "name": "Weedle",
+            "number": "001/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/WeedleCaosNascente1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-002/086",
+            "name": "Kakuna",
+            "number": "002/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/KakunaCaosNascente2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-003/086",
+            "name": "Beedrill-ex",
+            "number": "003/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/Beedrill-exCaosNascente3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-004/086",
+            "name": "Carnivine",
+            "number": "004/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/CarnivineCaosNascente4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-005/086",
+            "name": "Chespin",
+            "number": "005/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/ChespinCaosNascente5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-006/086",
+            "name": "Quilladin",
+            "number": "006/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/QuilladinCaosNascente6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-007/086",
+            "name": "Chesnaught",
+            "number": "007/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/ChesnaughtCaosNascente7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-008/086",
+            "name": "Vulpix",
+            "number": "008/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/VulpixCaosNascente8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-009/086",
+            "name": "Ninetales",
+            "number": "009/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/NinetalesCaosNascente9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-010/086",
+            "name": "Ho-Oh",
+            "number": "010/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Ho-OhCaosNascente10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-011/086",
+            "name": "Fennekin",
+            "number": "011/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/FennekinCaosNascente11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-012/086",
+            "name": "Braixen",
+            "number": "012/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/BraixenCaosNascente12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-013/086",
+            "name": "Delphox",
+            "number": "013/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/DelphoxCaosNascente13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-014/086",
+            "name": "Litleo",
+            "number": "014/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/LitleoCaosNascente14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-015/086",
+            "name": "Mega Pyroar-ex",
+            "number": "015/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/MegaPyroar-exCaosNascente15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-016/086",
+            "name": "Remoraid",
+            "number": "016/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/RemoraidCaosNascente16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-017/086",
+            "name": "Octillery",
+            "number": "017/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/OctilleryCaosNascente17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-018/086",
+            "name": "Delibird",
+            "number": "018/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/DelibirdCaosNascente18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-019/086",
+            "name": "Keldeo",
+            "number": "019/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/KeldeoCaosNascente19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-020/086",
+            "name": "Froakie",
+            "number": "020/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/FroakieCaosNascente20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-021/086",
+            "name": "Frogadier",
+            "number": "021/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FrogadierCaosNascente21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-022/086",
+            "name": "Mega Greninja-ex",
+            "number": "022/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MegaGreninja-exCaosNascente22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-023/086",
+            "name": "Bergmite",
+            "number": "023/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/BergmiteCaosNascente23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-024/086",
+            "name": "Avalugg",
+            "number": "024/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/AvaluggCaosNascente24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-025/086",
+            "name": "Wimpod",
+            "number": "025/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/WimpodCaosNascente25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-026/086",
+            "name": "Golisopod",
+            "number": "026/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/GolisopodCaosNascente26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-027/086",
+            "name": "Mareep",
+            "number": "027/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/MareepCaosNascente27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-028/086",
+            "name": "Flaaffy",
+            "number": "028/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/FlaaffyCaosNascente28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-029/086",
+            "name": "Ampharos",
+            "number": "029/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/AmpharosCaosNascente29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-030/086",
+            "name": "Emolga",
+            "number": "030/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/EmolgaCaosNascente30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-031/086",
+            "name": "Deoxys",
+            "number": "031/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DeoxysCaosNascente31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-032/086",
+            "name": "Deoxys",
+            "number": "032/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/DeoxysCaosNascente32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-033/086",
+            "name": "Deoxys",
+            "number": "033/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/DeoxysCaosNascente33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-034/086",
+            "name": "Deoxys",
+            "number": "034/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/DeoxysCaosNascente34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-035/086",
+            "name": "Mega Floette-ex",
+            "number": "035/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/MegaFloette-exCaosNascente35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-036/086",
+            "name": "Espurr",
+            "number": "036/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/EspurrCaosNascente36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-037/086",
+            "name": "Meowstic",
+            "number": "037/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MeowsticCaosNascente37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-038/086",
+            "name": "Phantump",
+            "number": "038/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/PhantumpCaosNascente38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-039/086",
+            "name": "Trevenant",
+            "number": "039/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/TrevenantCaosNascente39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-040/086",
+            "name": "Pumpkaboo",
+            "number": "040/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/PumpkabooCaosNascente40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-041/086",
+            "name": "Gourgeist-ex",
+            "number": "041/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/Gourgeist-exCaosNascente41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-042/086",
+            "name": "Xerneas",
+            "number": "042/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/XerneasCaosNascente42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-043/086",
+            "name": "Sudowoodo",
+            "number": "043/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/SudowoodoCaosNascente43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-044/086",
+            "name": "Phanpy",
+            "number": "044/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/PhanpyCaosNascente44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-045/086",
+            "name": "Donphan",
+            "number": "045/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/DonphanCaosNascente45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-046/086",
+            "name": "Baltoy",
+            "number": "046/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/BaltoyCaosNascente46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-047/086",
+            "name": "Claydol",
+            "number": "047/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ClaydolCaosNascente47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-048/086",
+            "name": "Mega Gallade-ex",
+            "number": "048/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MegaGallade-exCaosNascente48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-049/086",
+            "name": "Zubat",
+            "number": "049/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/ZubatCaosNascente49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-050/086",
+            "name": "Golbat",
+            "number": "050/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/GolbatCaosNascente50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-051/086",
+            "name": "Crobat",
+            "number": "051/086",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/CrobatCaosNascente51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-052/086",
+            "name": "Qwilfish",
+            "number": "052/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/QwilfishCaosNascente52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-053/086",
+            "name": "Stunky",
+            "number": "053/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/StunkyCaosNascente53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-054/086",
+            "name": "Skuntank",
+            "number": "054/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SkuntankCaosNascente54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-055/086",
+            "name": "Krookodile-ex",
+            "number": "055/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Krookodile-exCaosNascente55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-056/086",
+            "name": "Trubbish",
+            "number": "056/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/TrubbishCaosNascente56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-057/086",
+            "name": "Garbodor",
+            "number": "057/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/GarbodorCaosNascente57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-058/086",
+            "name": "Skrelp",
+            "number": "058/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/SkrelpCaosNascente58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-059/086",
+            "name": "Beldum",
+            "number": "059/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/BeldumCaosNascente59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-060/086",
+            "name": "Metang",
+            "number": "060/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MetangCaosNascente60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-061/086",
+            "name": "Metagross",
+            "number": "061/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MetagrossCaosNascente61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-062/086",
+            "name": "Ferroseed",
+            "number": "062/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/FerroseedCaosNascente62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-063/086",
+            "name": "Ferrothorn",
+            "number": "063/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/FerrothornCaosNascente63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-064/086",
+            "name": "Cobalion-ex",
+            "number": "064/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/Cobalion-exCaosNascente64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-065/086",
+            "name": "Mega Dragalge-ex",
+            "number": "065/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/MegaDragalge-exCaosNascente65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-066/086",
+            "name": "Goomy",
+            "number": "066/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/GoomyCaosNascente66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-067/086",
+            "name": "Sliggoo",
+            "number": "067/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/SliggooCaosNascente67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-068/086",
+            "name": "Goodra",
+            "number": "068/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/GoodraCaosNascente68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-069/086",
+            "name": "Tauros",
+            "number": "069/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/TaurosCaosNascente69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-070/086",
+            "name": "Patrat",
+            "number": "070/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/PatratCaosNascente70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-071/086",
+            "name": "Watchog",
+            "number": "071/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/WatchogCaosNascente71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-072/086",
+            "name": "Minccino",
+            "number": "072/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/MinccinoCaosNascente72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-073/086",
+            "name": "Cinccino-ex",
+            "number": "073/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/Cinccino-exCaosNascente73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-074/086",
+            "name": "Avversipolizza",
+            "number": "074/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/AvversipolizzaCaosNascente74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-075/086",
+            "name": "Floette Ange",
+            "number": "075/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/FloetteAngeCaosNascente75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-076/086",
+            "name": "Tranquillità di AZ",
+            "number": "076/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Tranquillit%C3%A0diAZCaosNascente76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-077/086",
+            "name": "Matière",
+            "number": "077/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/Mati%C3%A8reCaosNascente77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-078/086",
+            "name": "Rete Pesca Grossa",
+            "number": "078/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/RetePescaGrossaCaosNascente78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-079/086",
+            "name": "Gypso",
+            "number": "079/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/GypsoCaosNascente79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-080/086",
+            "name": "Torre Prisma",
+            "number": "080/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/TorrePrismaCaosNascente80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-081/086",
+            "name": "Performance di Velia",
+            "number": "081/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/PerformancediVeliaCaosNascente81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-082/086",
+            "name": "Cartelrosso Speciale",
+            "number": "082/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/CartelrossoSpecialeCaosNascente82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-083/086",
+            "name": "Tomo della Trasformazione",
+            "number": "083/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/TomodellaTrasformazioneCaosNascente83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-084/086",
+            "name": "Energia A Frizzante",
+            "number": "084/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/EnergiaAFrizzanteCaosNascente84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-085/086",
+            "name": "Energia M Magnetica",
+            "number": "085/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/EnergiaMMagneticaCaosNascente85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-086/086",
+            "name": "Energia F Propulsiva",
+            "number": "086/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/EnergiaFPropulsivaCaosNascente86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "CRI-087/086",
+            "name": "Chespin",
+            "number": "087/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ChespinCaosNascente87.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-088/086",
+            "name": "Froakie",
+            "number": "088/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/FroakieCaosNascente88.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-089/086",
+            "name": "Frogadier",
+            "number": "089/086",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/FrogadierCaosNascente89.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-090/086",
+            "name": "Ampharos",
+            "number": "090/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/AmpharosCaosNascente90.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-091/086",
+            "name": "Xerneas",
+            "number": "091/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/XerneasCaosNascente91.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-092/086",
+            "name": "Claydol",
+            "number": "092/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/ClaydolCaosNascente92.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-093/086",
+            "name": "Crobat",
+            "number": "093/086",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/CrobatCaosNascente93.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-094/086",
+            "name": "Metang",
+            "number": "094/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/MetangCaosNascente94.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-095/086",
+            "name": "Sliggoo",
+            "number": "095/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/SliggooCaosNascente95.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-096/086",
+            "name": "Tauros",
+            "number": "096/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/TaurosCaosNascente96.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-097/086",
+            "name": "Watchog",
+            "number": "097/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/WatchogCaosNascente97.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-098/086",
+            "name": "Beedrill-ex",
+            "number": "098/086",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Beedrill-exCaosNascente98.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-099/086",
+            "name": "Mega Pyroar-ex",
+            "number": "099/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/MegaPyroar-exCaosNascente99.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-100/086",
+            "name": "Mega Greninja-ex",
+            "number": "100/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/MegaGreninja-exCaosNascente100.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-101/086",
+            "name": "Mega Floette-ex",
+            "number": "101/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/MegaFloette-exCaosNascente101.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-102/086",
+            "name": "Gourgeist-ex",
+            "number": "102/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Gourgeist-exCaosNascente102.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-103/086",
+            "name": "Cobalion-ex",
+            "number": "103/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Cobalion-exCaosNascente103.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-104/086",
+            "name": "Mega Dragalge-ex",
+            "number": "104/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/MegaDragalge-exCaosNascente104.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-105/086",
+            "name": "Cinccino-ex",
+            "number": "105/086",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/Cinccino-exCaosNascente105.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-106/086",
+            "name": "Tranquillità di AZ",
+            "number": "106/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Tranquillit%C3%A0diAZCaosNascente106.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-107/086",
+            "name": "Matière",
+            "number": "107/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Mati%C3%A8reCaosNascente107.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-108/086",
+            "name": "Recupero di Energia",
+            "number": "108/086",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/RecuperodiEnergiaCaosNascente108.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-109/086",
+            "name": "Gelato Gigante",
+            "number": "109/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/GelatoGiganteCaosNascente109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-110/086",
+            "name": "Gypso",
+            "number": "110/086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/GypsoCaosNascente110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-111/086",
+            "name": "Torre Prisma",
+            "number": "111/086",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/TorrePrismaCaosNascente111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-112/086",
+            "name": "Performance di Velia",
+            "number": "112/086",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/PerformancediVeliaCaosNascente112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-113/086",
+            "name": "Cartelrosso Speciale",
+            "number": "113/086",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/CartelrossoSpecialeCaosNascente113.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-114/086",
+            "name": "Spiaggia dei Surfisti",
+            "number": "114/086",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SpiaggiadeiSurfistiCaosNascente114.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-115/086",
+            "name": "Scartaoggetti",
+            "number": "115/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ScartaoggettiCaosNascente115.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-116/086",
+            "name": "Mega Greninja-ex",
+            "number": "116/086",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MegaGreninja-exCaosNascente116.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-117/086",
+            "name": "Mega Floette-ex",
+            "number": "117/086",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/MegaFloette-exCaosNascente117.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-118/086",
+            "name": "Mega Dragalge-ex",
+            "number": "118/086",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/MegaDragalge-exCaosNascente118.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-119/086",
+            "name": "Cinccino-ex",
+            "number": "119/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Cinccino-exCaosNascente119.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-120/086",
+            "name": "Tranquillità di AZ",
+            "number": "120/086",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Tranquillit%C3%A0diAZCaosNascente120.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-121/086",
+            "name": "Performance di Velia",
+            "number": "121/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PerformancediVeliaCaosNascente121.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "CRI-122/086",
+            "name": "Mega Greninja-ex",
+            "number": "122/086",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MegaGreninja-exCaosNascente122.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"MEE-001",
+				"MEE-002",
+				"MEE-003",
+				"MEE-004",
+				"MEE-005",
+				"MEE-006",
+				"MEE-007",
+				"MEE-008"
+		]
+}

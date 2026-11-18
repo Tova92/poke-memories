@@ -1,0 +1,1731 @@
+{
+    "expansion": {
+        "id": "DRI",
+        "name": "Scarlatto e Violetto - Rivali Predestinati",
+        "year": 2025,
+        "month": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a8/SimboloSetRivali_Predestinati.png",
+        "cardCount": 244
+    },
+    "cards": [
+        {
+            "id": "DRI-001/182",
+            "name": "Pinsir di Armonio",
+            "number": "001/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/PinsirdiArmonioRivaliPredestinati1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-002/182",
+            "name": "Yanma",
+            "number": "002/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/YanmaRivaliPredestinati2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-003/182",
+            "name": "Yanmega-ex",
+            "number": "003/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/Yanmega-exRivaliPredestinati3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-004/182",
+            "name": "Pineco",
+            "number": "004/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/PinecoRivaliPredestinati4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-005/182",
+            "name": "Shroomish",
+            "number": "005/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/ShroomishRivaliPredestinati5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-006/182",
+            "name": "Breloom",
+            "number": "006/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/BreloomRivaliPredestinati6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-007/182",
+            "name": "Roselia di Camilla",
+            "number": "007/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/RoseliadiCamillaRivaliPredestinati7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-008/182",
+            "name": "Roserade di Camilla",
+            "number": "008/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/RoseradediCamillaRivaliPredestinati8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-009/182",
+            "name": "Rotom Taglio",
+            "number": "009/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/RotomTaglioRivaliPredestinati9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-010/182",
+            "name": "Shaymin",
+            "number": "010/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/ShayminRivaliPredestinati10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-011/182",
+            "name": "Dwebble",
+            "number": "011/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/DwebbleRivaliPredestinati11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-012/182",
+            "name": "Crustle",
+            "number": "012/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/CrustleRivaliPredestinati12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-013/182",
+            "name": "Fomantis",
+            "number": "013/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/FomantisRivaliPredestinati13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-014/182",
+            "name": "Lurantis",
+            "number": "014/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/LurantisRivaliPredestinati14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-015/182",
+            "name": "Blipbug del Team Rocket",
+            "number": "015/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/BlipbugdelTeamRocketRivaliPredestinati15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-016/182",
+            "name": "Applin",
+            "number": "016/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/ApplinRivaliPredestinati16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-017/182",
+            "name": "Dipplin",
+            "number": "017/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/DipplinRivaliPredestinati17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-018/182",
+            "name": "Hydrapple",
+            "number": "018/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/HydrappleRivaliPredestinati18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-019/182",
+            "name": "Tarountula del Team Rocket",
+            "number": "019/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/TarountuladelTeamRocketRivaliPredestinati19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-020/182",
+            "name": "Spidops del Team Rocket",
+            "number": "020/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/SpidopsdelTeamRocketRivaliPredestinati20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-021/182",
+            "name": "Smoliv",
+            "number": "021/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SmolivRivaliPredestinati21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-022/182",
+            "name": "Dolliv",
+            "number": "022/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/DollivRivaliPredestinati22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-023/182",
+            "name": "Arboliva-ex",
+            "number": "023/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/Arboliva-exRivaliPredestinati23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-024/182",
+            "name": "Rellor",
+            "number": "024/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/RellorRivaliPredestinati24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-025/182",
+            "name": "Rabsca-ex",
+            "number": "025/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Rabsca-exRivaliPredestinati25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-026/182",
+            "name": "Ogerpon Maschera Turchese",
+            "number": "026/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/OgerponMascheraTurcheseRivaliPredestinati26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-027/182",
+            "name": "Growlithe",
+            "number": "027/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/GrowlitheRivaliPredestinati27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-028/182",
+            "name": "Arcanine",
+            "number": "028/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/ArcanineRivaliPredestinati28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-029/182",
+            "name": "Ponyta",
+            "number": "029/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/PonytaRivaliPredestinati29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-030/182",
+            "name": "Rapidash",
+            "number": "030/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/RapidashRivaliPredestinati30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-031/182",
+            "name": "Moltres-ex del Team Rocket",
+            "number": "031/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Moltres-exdelTeamRocketRivaliPredestinati31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-032/182",
+            "name": "Cyndaquil di Armonio",
+            "number": "032/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/CyndaquildiArmonioRivaliPredestinati32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-033/182",
+            "name": "Quilava di Armonio",
+            "number": "033/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/QuilavadiArmonioRivaliPredestinati33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-034/182",
+            "name": "Typhlosion di Armonio",
+            "number": "034/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/TyphlosiondiArmonioRivaliPredestinati34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-035/182",
+            "name": "Slugma di Armonio",
+            "number": "035/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/SlugmadiArmonioRivaliPredestinati35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-036/182",
+            "name": "Magcargo di Armonio",
+            "number": "036/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MagcargodiArmonioRivaliPredestinati36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-037/182",
+            "name": "Houndour del Team Rocket",
+            "number": "037/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/HoundourdelTeamRocketRivaliPredestinati37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-038/182",
+            "name": "Houndoom del Team Rocket",
+            "number": "038/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/HoundoomdelTeamRocketRivaliPredestinati38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-039/182",
+            "name": "Ho-Oh-ex di Armonio",
+            "number": "039/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/Ho-Oh-exdiArmonioRivaliPredestinati39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-040/182",
+            "name": "Torchic",
+            "number": "040/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/TorchicRivaliPredestinati40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-041/182",
+            "name": "Combusken",
+            "number": "041/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/CombuskenRivaliPredestinati41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-042/182",
+            "name": "Blaziken",
+            "number": "042/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/BlazikenRivaliPredestinati42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-043/182",
+            "name": "Rotom Calore",
+            "number": "043/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/RotomCaloreRivaliPredestinati43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-044/182",
+            "name": "Ogerpon Maschera Focolare",
+            "number": "044/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/OgerponMascheraFocolareRivaliPredestinati44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-045/182",
+            "name": "Psyduck di Misty",
+            "number": "045/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/PsyduckdiMistyRivaliPredestinati45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-046/182",
+            "name": "Staryu di Misty",
+            "number": "046/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/StaryudiMistyRivaliPredestinati46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-047/182",
+            "name": "Starmie di Misty",
+            "number": "047/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/StarmiediMistyRivaliPredestinati47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-048/182",
+            "name": "Magikarp di Misty",
+            "number": "048/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/MagikarpdiMistyRivaliPredestinati48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-049/182",
+            "name": "Gyarados di Misty",
+            "number": "049/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/GyaradosdiMistyRivaliPredestinati49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-050/182",
+            "name": "Lapras di Misty",
+            "number": "050/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/LaprasdiMistyRivaliPredestinati50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-051/182",
+            "name": "Articuno del Team Rocket",
+            "number": "051/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/ArticunodelTeamRocketRivaliPredestinati51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-052/182",
+            "name": "Feebas di Camilla",
+            "number": "052/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/FeebasdiCamillaRivaliPredestinati52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-053/182",
+            "name": "Milotic di Camilla",
+            "number": "053/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MiloticdiCamillaRivaliPredestinati53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-054/182",
+            "name": "Clamperl",
+            "number": "054/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/ClamperlRivaliPredestinati54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-055/182",
+            "name": "Huntail",
+            "number": "055/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/HuntailRivaliPredestinati55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-056/182",
+            "name": "Gorebyss",
+            "number": "056/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/GorebyssRivaliPredestinati56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-057/182",
+            "name": "Buizel",
+            "number": "057/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/BuizelRivaliPredestinati57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-058/182",
+            "name": "Floatzel",
+            "number": "058/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/FloatzelRivaliPredestinati58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-059/182",
+            "name": "Snover",
+            "number": "059/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/SnoverRivaliPredestinati59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-060/182",
+            "name": "Abomasnow",
+            "number": "060/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/AbomasnowRivaliPredestinati60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-061/182",
+            "name": "Rotom Lavaggio",
+            "number": "061/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/RotomLavaggioRivaliPredestinati61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-062/182",
+            "name": "Arrokuda",
+            "number": "062/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ArrokudaRivaliPredestinati62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-063/182",
+            "name": "Barraskewda",
+            "number": "063/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/BarraskewdaRivaliPredestinati63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-064/182",
+            "name": "Cetoddle",
+            "number": "064/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/CetoddleRivaliPredestinati64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-065/182",
+            "name": "Cetitan-ex",
+            "number": "065/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Cetitan-exRivaliPredestinati65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-066/182",
+            "name": "Dondozo-ex",
+            "number": "066/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Dondozo-exRivaliPredestinati66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-067/182",
+            "name": "Ogerpon Maschera Pozzo",
+            "number": "067/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/OgerponMascheraPozzoRivaliPredestinati67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-068/182",
+            "name": "Electabuzz",
+            "number": "068/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ElectabuzzRivaliPredestinati68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-069/182",
+            "name": "Electivire-ex",
+            "number": "069/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/Electivire-exRivaliPredestinati69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-070/182",
+            "name": "Zapdos del Team Rocket",
+            "number": "070/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/ZapdosdelTeamRocketRivaliPredestinati70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-071/182",
+            "name": "Pichu di Armonio",
+            "number": "071/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/PichudiArmonioRivaliPredestinati71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-072/182",
+            "name": "Mareep del Team Rocket",
+            "number": "072/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/MareepdelTeamRocketRivaliPredestinati72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-073/182",
+            "name": "Flaaffy del Team Rocket",
+            "number": "073/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/FlaaffydelTeamRocketRivaliPredestinati73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-074/182",
+            "name": "Ampharos del Team Rocket",
+            "number": "074/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/AmpharosdelTeamRocketRivaliPredestinati74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-075/182",
+            "name": "Electrike",
+            "number": "075/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/ElectrikeRivaliPredestinati75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-076/182",
+            "name": "Manectric",
+            "number": "076/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/ManectricRivaliPredestinati76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-077/182",
+            "name": "Rotom",
+            "number": "077/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/RotomRivaliPredestinati77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-078/182",
+            "name": "Zeraora",
+            "number": "078/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/ZeraoraRivaliPredestinati78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-079/182",
+            "name": "Drowzee del Team Rocket",
+            "number": "079/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/DrowzeedelTeamRocketRivaliPredestinati79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-080/182",
+            "name": "Hypno del Team Rocket",
+            "number": "080/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/HypnodelTeamRocketRivaliPredestinati80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-081/182",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "081/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Mewtwo-exdelTeamRocketRivaliPredestinati81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-082/182",
+            "name": "Wobbuffet del Team Rocket",
+            "number": "082/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/WobbuffetdelTeamRocketRivaliPredestinati82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-083/182",
+            "name": "Baltoy di Rocco",
+            "number": "083/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/BaltoydiRoccoRivaliPredestinati83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-084/182",
+            "name": "Claydol di Rocco",
+            "number": "084/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/ClaydoldiRoccoRivaliPredestinati84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-085/182",
+            "name": "Chingling del Team Rocket",
+            "number": "085/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/ChinglingdelTeamRocketRivaliPredestinati85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-086/182",
+            "name": "Carbink di Rocco",
+            "number": "086/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/CarbinkdiRoccoRivaliPredestinati86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-087/182",
+            "name": "Mimikyu del Team Rocket",
+            "number": "087/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/MimikyudelTeamRocketRivaliPredestinati87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-088/182",
+            "name": "Dottler del Team Rocket",
+            "number": "088/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/DottlerdelTeamRocketRivaliPredestinati88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-089/182",
+            "name": "Orbeetle del Team Rocket",
+            "number": "089/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/OrbeetledelTeamRocketRivaliPredestinati89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-090/182",
+            "name": "Mankey",
+            "number": "090/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/MankeyRivaliPredestinati90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-091/182",
+            "name": "Primeape",
+            "number": "091/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/PrimeapeRivaliPredestinati91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-092/182",
+            "name": "Annihilape",
+            "number": "092/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/AnnihilapeRivaliPredestinati92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-093/182",
+            "name": "Sudowoodo di Armonio",
+            "number": "093/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/SudowoododiArmonioRivaliPredestinati93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-094/182",
+            "name": "Larvitar del Team Rocket",
+            "number": "094/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LarvitardelTeamRocketRivaliPredestinati94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-095/182",
+            "name": "Pupitar del Team Rocket",
+            "number": "095/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/PupitardelTeamRocketRivaliPredestinati95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-096/182",
+            "name": "Tyranitar del Team Rocket",
+            "number": "096/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/TyranitardelTeamRocketRivaliPredestinati96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-097/182",
+            "name": "Nosepass",
+            "number": "097/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/NosepassRivaliPredestinati97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-098/182",
+            "name": "Probopass",
+            "number": "098/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/ProbopassRivaliPredestinati98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-099/182",
+            "name": "Meditite",
+            "number": "099/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MedititeRivaliPredestinati99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-100/182",
+            "name": "Medicham",
+            "number": "100/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/MedichamRivaliPredestinati100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-101/182",
+            "name": "Regirock-ex",
+            "number": "101/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Regirock-exRivaliPredestinati101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-102/182",
+            "name": "Gible di Camilla",
+            "number": "102/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/GiblediCamillaRivaliPredestinati102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-103/182",
+            "name": "Gabite di Camilla",
+            "number": "103/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/GabitediCamillaRivaliPredestinati103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-104/182",
+            "name": "Garchomp-ex di Camilla",
+            "number": "104/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Garchomp-exdiCamillaRivaliPredestinati104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-105/182",
+            "name": "Hippopotas",
+            "number": "105/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/HippopotasRivaliPredestinati105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-106/182",
+            "name": "Hippowdon",
+            "number": "106/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/HippowdonRivaliPredestinati106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-107/182",
+            "name": "Mudbray",
+            "number": "107/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/MudbrayRivaliPredestinati107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-108/182",
+            "name": "Mudsdale",
+            "number": "108/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/MudsdaleRivaliPredestinati108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-109/182",
+            "name": "Toedscool di Pepe",
+            "number": "109/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/ToedscooldiPepeRivaliPredestinati109.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-110/182",
+            "name": "Toedscruel di Pepe",
+            "number": "110/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/ToedscrueldiPepeRivaliPredestinati110.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-111/182",
+            "name": "Ogerpon Maschera Fondamenta",
+            "number": "111/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/OgerponMascheraFondamentaRivaliPredestinati111.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-112/182",
+            "name": "Ekans del Team Rocket",
+            "number": "112/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/EkansdelTeamRocketRivaliPredestinati112.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-113/182",
+            "name": "Arbok del Team Rocket",
+            "number": "113/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/ArbokdelTeamRocketRivaliPredestinati113.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-114/182",
+            "name": "Nidoran♀ del Team Rocket",
+            "number": "114/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/NidorandelTeamRocketRivaliPredestinati114.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-115/182",
+            "name": "Nidorina del Team Rocket",
+            "number": "115/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/NidorinadelTeamRocketRivaliPredestinati115.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-116/182",
+            "name": "Nidoqueen del Team Rocket",
+            "number": "116/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/NidoqueendelTeamRocketRivaliPredestinati116.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-117/182",
+            "name": "Nidoran♂ del Team Rocket",
+            "number": "117/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/NidorandelTeamRocketRivaliPredestinati117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-118/182",
+            "name": "Nidorino del Team Rocket",
+            "number": "118/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/NidorinodelTeamRocketRivaliPredestinati118.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-119/182",
+            "name": "Nidoking-ex del Team Rocket",
+            "number": "119/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Nidoking-exdelTeamRocketRivaliPredestinati119.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-120/182",
+            "name": "Zubat del Team Rocket",
+            "number": "120/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ZubatdelTeamRocketRivaliPredestinati120.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-121/182",
+            "name": "Golbat del Team Rocket",
+            "number": "121/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/GolbatdelTeamRocketRivaliPredestinati121.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-122/182",
+            "name": "Crobat-ex del Team Rocket",
+            "number": "122/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/Crobat-exdelTeamRocketRivaliPredestinati122.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-123/182",
+            "name": "Grimer del Team Rocket",
+            "number": "123/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/GrimerdelTeamRocketRivaliPredestinati123.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-124/182",
+            "name": "Muk del Team Rocket",
+            "number": "124/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/MukdelTeamRocketRivaliPredestinati124.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-125/182",
+            "name": "Koffing del Team Rocket",
+            "number": "125/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/KoffingdelTeamRocketRivaliPredestinati125.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-126/182",
+            "name": "Weezing del Team Rocket",
+            "number": "126/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/WeezingdelTeamRocketRivaliPredestinati126.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-127/182",
+            "name": "Murkrow del Team Rocket",
+            "number": "127/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MurkrowdelTeamRocketRivaliPredestinati127.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-128/182",
+            "name": "Sneasel del Team Rocket",
+            "number": "128/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/SneaseldelTeamRocketRivaliPredestinati128.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-129/182",
+            "name": "Spiritomb di Camilla",
+            "number": "129/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/SpiritombdiCamillaRivaliPredestinati129.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-130/182",
+            "name": "Purrloin di Mary",
+            "number": "130/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/PurrloindiMaryRivaliPredestinati130.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-131/182",
+            "name": "Liepard di Mary",
+            "number": "131/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/LieparddiMaryRivaliPredestinati131.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-132/182",
+            "name": "Scraggy di Mary",
+            "number": "132/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ScraggydiMaryRivaliPredestinati132.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-133/182",
+            "name": "Scrafty di Mary",
+            "number": "133/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/ScraftydiMaryRivaliPredestinati133.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-134/182",
+            "name": "Impidimp di Mary",
+            "number": "134/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/ImpidimpdiMaryRivaliPredestinati134.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-135/182",
+            "name": "Morgrem di Mary",
+            "number": "135/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MorgremdiMaryRivaliPredestinati135.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-136/182",
+            "name": "Grimmsnarl-ex di Mary",
+            "number": "136/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Grimmsnarl-exdiMaryRivaliPredestinati136.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-137/182",
+            "name": "Morpeko di Mary",
+            "number": "137/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/MorpekodiMaryRivaliPredestinati137.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-138/182",
+            "name": "Maschiff di Pepe",
+            "number": "138/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MaschiffdiPepeRivaliPredestinati138.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-139/182",
+            "name": "Mabosstiff-ex di Pepe",
+            "number": "139/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Mabosstiff-exdiPepeRivaliPredestinati139.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-140/182",
+            "name": "Forretress",
+            "number": "140/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ForretressRivaliPredestinati140.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-141/182",
+            "name": "Skarmory",
+            "number": "141/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/SkarmoryRivaliPredestinati141.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-142/182",
+            "name": "Skarmory di Rocco",
+            "number": "142/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/SkarmorydiRoccoRivaliPredestinati142.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-143/182",
+            "name": "Beldum di Rocco",
+            "number": "143/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/BeldumdiRoccoRivaliPredestinati143.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-144/182",
+            "name": "Metang di Rocco",
+            "number": "144/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/MetangdiRoccoRivaliPredestinati144.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-145/182",
+            "name": "Metagross-ex di Rocco",
+            "number": "145/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Metagross-exdiRoccoRivaliPredestinati145.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-146/182",
+            "name": "Zamazenta",
+            "number": "146/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/ZamazentaRivaliPredestinati146.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-147/182",
+            "name": "Rattata del Team Rocket",
+            "number": "147/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/RattatadelTeamRocketRivaliPredestinati147.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-148/182",
+            "name": "Raticate del Team Rocket",
+            "number": "148/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/RaticatedelTeamRocketRivaliPredestinati148.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-149/182",
+            "name": "Meowth del Team Rocket",
+            "number": "149/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/MeowthdelTeamRocketRivaliPredestinati149.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-150/182",
+            "name": "Persian-ex del Team Rocket",
+            "number": "150/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Persian-exdelTeamRocketRivaliPredestinati150.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-151/182",
+            "name": "Kangaskhan",
+            "number": "151/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/KangaskhanRivaliPredestinati151.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-152/182",
+            "name": "Tauros",
+            "number": "152/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/TaurosRivaliPredestinati152.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-153/182",
+            "name": "Porygon del Team Rocket",
+            "number": "153/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PorygondelTeamRocketRivaliPredestinati153.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-154/182",
+            "name": "Porygon2 del Team Rocket",
+            "number": "154/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Porygon2delTeamRocketRivaliPredestinati154.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-155/182",
+            "name": "Porygon-Z del Team Rocket",
+            "number": "155/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/Porygon-ZdelTeamRocketRivaliPredestinati155.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-156/182",
+            "name": "Taillow",
+            "number": "156/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/TaillowRivaliPredestinati156.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-157/182",
+            "name": "Swellow",
+            "number": "157/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/SwellowRivaliPredestinati157.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-158/182",
+            "name": "Skwovet di Pepe",
+            "number": "158/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/SkwovetdiPepeRivaliPredestinati158.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-159/182",
+            "name": "Greedent di Pepe",
+            "number": "159/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/GreedentdiPepeRivaliPredestinati159.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-160/182",
+            "name": "Squawkabilly",
+            "number": "160/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/SquawkabillyRivaliPredestinati160.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-161/182",
+            "name": "Panino di Pepe",
+            "number": "161/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/PaninodiPepeRivaliPredestinati161.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-162/182",
+            "name": "Vigorpeso di Camilla",
+            "number": "162/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/VigorpesodiCamillaRivaliPredestinati162.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-163/182",
+            "name": "Entusiasmo di Emcee",
+            "number": "163/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/EntusiasmodiEmceeRivaliPredestinati163.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-164/182",
+            "name": "Riciclaggio di Energia",
+            "number": "164/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/RiciclaggiodiEnergiaRivaliPredestinati164.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-165/182",
+            "name": "Avventura di Armonio",
+            "number": "165/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/AvventuradiArmonioRivaliPredestinati165.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-166/182",
+            "name": "Grotta Pietrosa",
+            "number": "166/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/GrottaPietrosaRivaliPredestinati166.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-167/182",
+            "name": "Arbitro",
+            "number": "167/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/ArbitroRivaliPredestinati167.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-168/182",
+            "name": "Cenere magica",
+            "number": "168/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/CeneremagicaRivaliPredestinati168.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-169/182",
+            "name": "Palestra di Spikeville",
+            "number": "169/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/PalestradiSpikevilleRivaliPredestinati169.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-170/182",
+            "name": "Archer del Team Rocket",
+            "number": "170/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ArcherdelTeamRocketRivaliPredestinati170.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-171/182",
+            "name": "Atena del Team Rocket",
+            "number": "171/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/AtenadelTeamRocketRivaliPredestinati171.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-172/182",
+            "name": "Disturbot del Team Rocket",
+            "number": "172/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/DisturbotdelTeamRocketRivaliPredestinati172.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-173/182",
+            "name": "Fabbrica del Team Rocket",
+            "number": "173/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/FabbricadelTeamRocketRivaliPredestinati173.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-174/182",
+            "name": "Giovanni del Team Rocket",
+            "number": "174/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/GiovannidelTeamRocketRivaliPredestinati174.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-175/182",
+            "name": "Mega Ball del Team Rocket",
+            "number": "175/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/MegaBalldelTeamRocketRivaliPredestinati175.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-176/182",
+            "name": "Maxus del Team Rocket",
+            "number": "176/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MaxusdelTeamRocketRivaliPredestinati176.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-177/182",
+            "name": "Milas del Team Rocket",
+            "number": "177/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MilasdelTeamRocketRivaliPredestinati177.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-178/182",
+            "name": "Ricetrasmettitore del Team Rocket",
+            "number": "178/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/RicetrasmettitoredelTeamRocketRivaliPredestinati178.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-179/182",
+            "name": "Bomba Azzardata del Team Rocket",
+            "number": "179/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/BombaAzzardatadelTeamRocketRivaliPredestinati179.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-180/182",
+            "name": "Torre di Guardia del Team Rocket",
+            "number": "180/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/TorrediGuardiadelTeamRocketRivaliPredestinati180.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-181/182",
+            "name": "Macchina MT",
+            "number": "181/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MacchinaMTRivaliPredestinati181.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-182/182",
+            "name": "Energia del Team Rocket",
+            "number": "182/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/EnergiadelTeamRocketRivaliPredestinati182.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "DRI-183/182",
+            "name": "Yanma",
+            "number": "183/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/YanmaRivaliPredestinati183.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-184/182",
+            "name": "Roserade di Camilla",
+            "number": "184/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/RoseradediCamillaRivaliPredestinati184.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-185/182",
+            "name": "Shaymin",
+            "number": "185/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/ShayminRivaliPredestinati185.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-186/182",
+            "name": "Crustle",
+            "number": "186/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/CrustleRivaliPredestinati186.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-187/182",
+            "name": "Spidops del Team Rocket",
+            "number": "187/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/SpidopsdelTeamRocketRivaliPredestinati187.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-188/182",
+            "name": "Hydrapple",
+            "number": "188/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/HydrappleRivaliPredestinati188.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-189/182",
+            "name": "Rapidash",
+            "number": "189/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/RapidashRivaliPredestinati189.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-190/182",
+            "name": "Typhlosion di Armonio",
+            "number": "190/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/TyphlosiondiArmonioRivaliPredestinati190.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-191/182",
+            "name": "Houndoom del Team Rocket",
+            "number": "191/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/HoundoomdelTeamRocketRivaliPredestinati191.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-192/182",
+            "name": "Blaziken",
+            "number": "192/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/BlazikenRivaliPredestinati192.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-193/182",
+            "name": "Psyduck di Misty",
+            "number": "193/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/PsyduckdiMistyRivaliPredestinati193.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-194/182",
+            "name": "Lapras di Misty",
+            "number": "194/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/LaprasdiMistyRivaliPredestinati194.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-195/182",
+            "name": "Clamperl",
+            "number": "195/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ClamperlRivaliPredestinati195.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-196/182",
+            "name": "Electrike",
+            "number": "196/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/ElectrikeRivaliPredestinati196.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-197/182",
+            "name": "Rotom",
+            "number": "197/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/RotomRivaliPredestinati197.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-198/182",
+            "name": "Orbeetle del Team Rocket",
+            "number": "198/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/OrbeetledelTeamRocketRivaliPredestinati198.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-199/182",
+            "name": "Weezing del Team Rocket",
+            "number": "199/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/WeezingdelTeamRocketRivaliPredestinati199.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-200/182",
+            "name": "Murkrow del Team Rocket",
+            "number": "200/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MurkrowdelTeamRocketRivaliPredestinati200.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-201/182",
+            "name": "Zamazenta",
+            "number": "201/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ZamazentaRivaliPredestinati201.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-202/182",
+            "name": "Raticate del Team Rocket",
+            "number": "202/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/RaticatedelTeamRocketRivaliPredestinati202.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-203/182",
+            "name": "Meowth del Team Rocket",
+            "number": "203/182",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MeowthdelTeamRocketRivaliPredestinati203.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-204/182",
+            "name": "Kangaskhan",
+            "number": "204/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/KangaskhanRivaliPredestinati204.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-205/182",
+            "name": "Greedent di Pepe",
+            "number": "205/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/GreedentdiPepeRivaliPredestinati205.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-206/182",
+            "name": "Yanmega-ex",
+            "number": "206/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Yanmega-exRivaliPredestinati206.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-207/182",
+            "name": "Arboliva-ex",
+            "number": "207/182",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Arboliva-exRivaliPredestinati207.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-208/182",
+            "name": "Moltres-ex del Team Rocket",
+            "number": "208/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Moltres-exdelTeamRocketRivaliPredestinati208.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-209/182",
+            "name": "Ho-Oh-ex di Armonio",
+            "number": "209/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/Ho-Oh-exdiArmonioRivaliPredestinati209.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-210/182",
+            "name": "Cetitan-ex",
+            "number": "210/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Cetitan-exRivaliPredestinati210.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-211/182",
+            "name": "Dondozo-ex",
+            "number": "211/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/Dondozo-exRivaliPredestinati211.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-212/182",
+            "name": "Electivire-ex",
+            "number": "212/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Electivire-exRivaliPredestinati212.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-213/182",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "213/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Mewtwo-exdelTeamRocketRivaliPredestinati213.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-214/182",
+            "name": "Regirock-ex",
+            "number": "214/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Regirock-exRivaliPredestinati214.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-215/182",
+            "name": "Garchomp-ex di Camilla",
+            "number": "215/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/Garchomp-exdiCamillaRivaliPredestinati215.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-216/182",
+            "name": "Nidoking-ex del Team Rocket",
+            "number": "216/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Nidoking-exdelTeamRocketRivaliPredestinati216.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-217/182",
+            "name": "Crobat-ex del Team Rocket",
+            "number": "217/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Crobat-exdelTeamRocketRivaliPredestinati217.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-218/182",
+            "name": "Mabosstiff-ex di Pepe",
+            "number": "218/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Mabosstiff-exdiPepeRivaliPredestinati218.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-219/182",
+            "name": "Persian-ex del Team Rocket",
+            "number": "219/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Persian-exdelTeamRocketRivaliPredestinati219.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-220/182",
+            "name": "Entusiasmo di Emcee",
+            "number": "220/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/EntusiasmodiEmceeRivaliPredestinati220.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-221/182",
+            "name": "Avventura di Armonio",
+            "number": "221/182",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/AvventuradiArmonioRivaliPredestinati221.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-222/182",
+            "name": "Arbitro",
+            "number": "222/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/ArbitroRivaliPredestinati222.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-223/182",
+            "name": "Archer del Team Rocket",
+            "number": "223/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ArcherdelTeamRocketRivaliPredestinati223.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-224/182",
+            "name": "Atena del Team Rocket",
+            "number": "224/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/AtenadelTeamRocketRivaliPredestinati224.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-225/182",
+            "name": "Giovanni del Team Rocket",
+            "number": "225/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/GiovannidelTeamRocketRivaliPredestinati225.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-226/182",
+            "name": "Maxus del Team Rocket",
+            "number": "226/182",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/MaxusdelTeamRocketRivaliPredestinati226.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-227/182",
+            "name": "Milas del Team Rocket",
+            "number": "227/182",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/MilasdelTeamRocketRivaliPredestinati227.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-228/182",
+            "name": "Yanmega-ex",
+            "number": "228/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Yanmega-exRivaliPredestinati228.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-229/182",
+            "name": "Moltres-ex del Team Rocket",
+            "number": "229/182",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Moltres-exdelTeamRocketRivaliPredestinati229.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-230/182",
+            "name": "Ho-Oh-ex di Armonio",
+            "number": "230/182",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Ho-Oh-exdiArmonioRivaliPredestinati230.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-231/182",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "231/182",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/Mewtwo-exdelTeamRocketRivaliPredestinati231.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-232/182",
+            "name": "Garchomp-ex di Camilla",
+            "number": "232/182",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/Garchomp-exdiCamillaRivaliPredestinati232.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-233/182",
+            "name": "Nidoking-ex del Team Rocket",
+            "number": "233/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Nidoking-exdelTeamRocketRivaliPredestinati233.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-234/182",
+            "name": "Crobat-ex del Team Rocket",
+            "number": "234/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Crobat-exdelTeamRocketRivaliPredestinati234.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-235/182",
+            "name": "Mabosstiff-ex di Pepe",
+            "number": "235/182",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/Mabosstiff-exdiPepeRivaliPredestinati235.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-236/182",
+            "name": "Avventura di Armonio",
+            "number": "236/182",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/AvventuradiArmonioRivaliPredestinati236.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-237/182",
+            "name": "Atena del Team Rocket",
+            "number": "237/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/AtenadelTeamRocketRivaliPredestinati237.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-238/182",
+            "name": "Giovanni del Team Rocket",
+            "number": "238/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/GiovannidelTeamRocketRivaliPredestinati238.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-239/182",
+            "name": "Ho-Oh-ex di Armonio",
+            "number": "239/182",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Ho-Oh-exdiArmonioRivaliPredestinati239.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-240/182",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "240/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Mewtwo-exdelTeamRocketRivaliPredestinati240.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-241/182",
+            "name": "Garchomp-ex di Camilla",
+            "number": "241/182",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Garchomp-exdiCamillaRivaliPredestinati241.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-242/182",
+            "name": "Crobat-ex del Team Rocket",
+            "number": "242/182",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Crobat-exdelTeamRocketRivaliPredestinati242.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-243/182",
+            "name": "Torre di Interferenza",
+            "number": "243/182",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/TorrediInterferenzaRivaliPredestinati243.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "DRI-244/182",
+            "name": "Leudapoli",
+            "number": "244/182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/LeudapoliRivaliPredestinati244.png",
+            "section": "Fuoriserie"
+        }
+    ],
+		"energies": [
+				"SVE-009",
+				"SVE-010",
+				"SVE-011",
+				"SVE-012",
+				"SVE-013",
+				"SVE-014",
+				"SVE-015",
+				"SVE-016"
+		]
+}

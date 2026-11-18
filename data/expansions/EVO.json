@@ -1,0 +1,804 @@
+{
+    "expansion": {
+        "id": "EVO",
+        "name": "XY - Evoluzioni",
+        "year": 2016,
+        "month": 11,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetEvoluzioni.png",
+        "cardCount": 113
+    },
+    "cards": [
+        {
+            "id": "EVO-1/108",
+            "name": "Venusaur-EX",
+            "number": "1/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Venusaur-EXEvoluzioni1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-2/108",
+            "name": "M Venusaur-EX",
+            "number": "2/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/MVenusaur-EXEvoluzioni2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-3/108",
+            "name": "Caterpie",
+            "number": "3/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/CaterpieEvoluzioni3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-4/108",
+            "name": "Metapod",
+            "number": "4/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MetapodEvoluzioni4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-5/108",
+            "name": "Weedle",
+            "number": "5/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/WeedleEvoluzioni5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-6/108",
+            "name": "Kakuna",
+            "number": "6/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/KakunaEvoluzioni6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-7/108",
+            "name": "Beedrill",
+            "number": "7/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/BeedrillEvoluzioni7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-8/108",
+            "name": "Tangela",
+            "number": "8/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ef/TangelaEvoluzioni8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-9/108",
+            "name": "Charmander",
+            "number": "9/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/CharmanderEvoluzioni9.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-10/108",
+            "name": "Charmeleon",
+            "number": "10/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/CharmeleonEvoluzioni10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-11/108",
+            "name": "Charizard",
+            "number": "11/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/CharizardEvoluzioni11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-12/108",
+            "name": "Charizard-EX",
+            "number": "12/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Charizard-EXEvoluzioni12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-13/108",
+            "name": "M Charizard-EX",
+            "number": "13/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/MCharizard-EXEvoluzioni13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-14/108",
+            "name": "Vulpix",
+            "number": "14/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/VulpixEvoluzioni14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-15/108",
+            "name": "Ninetales",
+            "number": "15/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/NinetalesEvoluzioni15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-16/108",
+            "name": "Ninetales TURBO",
+            "number": "16/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/NinetalesTURBOEvoluzioni16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-17/108",
+            "name": "Growlithe",
+            "number": "17/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/GrowlitheEvoluzioni17.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-18/108",
+            "name": "Arcanine",
+            "number": "18/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ArcanineEvoluzioni18.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-19/108",
+            "name": "Ponyta",
+            "number": "19/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/PonytaEvoluzioni19.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-20/108",
+            "name": "Magmar",
+            "number": "20/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/MagmarEvoluzioni20.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-21/108",
+            "name": "Blastoise-EX",
+            "number": "21/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/Blastoise-EXEvoluzioni21.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-22/108",
+            "name": "M Blastoise-EX",
+            "number": "22/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/MBlastoise-EXEvoluzioni22.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-23/108",
+            "name": "Poliwag",
+            "number": "23/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/PoliwagEvoluzioni23.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-24/108",
+            "name": "Poliwhirl",
+            "number": "24/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PoliwhirlEvoluzioni24.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-25/108",
+            "name": "Poliwrath",
+            "number": "25/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/PoliwrathEvoluzioni25.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-26/108",
+            "name": "Slowbro-EX",
+            "number": "26/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Slowbro-EXEvoluzioni26.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-27/108",
+            "name": "M Slowbro-EX",
+            "number": "27/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/MSlowbro-EXEvoluzioni27.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-28/108",
+            "name": "Seel",
+            "number": "28/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SeelEvoluzioni28.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-29/108",
+            "name": "Dewgong",
+            "number": "29/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/DewgongEvoluzioni29.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-30/108",
+            "name": "Staryu",
+            "number": "30/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/StaryuEvoluzioni30.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-31/108",
+            "name": "Starmie",
+            "number": "31/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/StarmieEvoluzioni31.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-32/108",
+            "name": "Starmie TURBO",
+            "number": "32/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/StarmieTURBOEvoluzioni32.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-33/108",
+            "name": "Magikarp",
+            "number": "33/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/MagikarpEvoluzioni33.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-34/108",
+            "name": "Gyarados",
+            "number": "34/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/GyaradosEvoluzioni34.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-35/108",
+            "name": "Pikachu",
+            "number": "35/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/PikachuEvoluzioni35.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-36/108",
+            "name": "Raichu",
+            "number": "36/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RaichuEvoluzioni36.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-37/108",
+            "name": "Magnemite",
+            "number": "37/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/MagnemiteEvoluzioni37.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-38/108",
+            "name": "Magneton",
+            "number": "38/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/MagnetonEvoluzioni38.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-39/108",
+            "name": "Voltorb",
+            "number": "39/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/VoltorbEvoluzioni39.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-40/108",
+            "name": "Electrode",
+            "number": "40/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/ElectrodeEvoluzioni40.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-41/108",
+            "name": "Electabuzz",
+            "number": "41/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/ElectabuzzEvoluzioni41.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-42/108",
+            "name": "Zapdos",
+            "number": "42/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/ZapdosEvoluzioni42.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-43/108",
+            "name": "Nidoran♂",
+            "number": "43/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/NidoranEvoluzioni43.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-44/108",
+            "name": "Nidorino",
+            "number": "44/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/NidorinoEvoluzioni44.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-45/108",
+            "name": "Nidoking",
+            "number": "45/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/NidokingEvoluzioni45.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-46/108",
+            "name": "Nidoking TURBO",
+            "number": "46/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/NidokingTURBOEvoluzioni46.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-47/108",
+            "name": "Gastly",
+            "number": "47/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/GastlyEvoluzioni47.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-48/108",
+            "name": "Haunter",
+            "number": "48/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/HaunterEvoluzioni48.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-49/108",
+            "name": "Drowzee",
+            "number": "49/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/DrowzeeEvoluzioni49.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-50/108",
+            "name": "Koffing",
+            "number": "50/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/KoffingEvoluzioni50.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-51/108",
+            "name": "Mewtwo",
+            "number": "51/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MewtwoEvoluzioni51.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-52/108",
+            "name": "Mewtwo-EX",
+            "number": "52/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Mewtwo-EXEvoluzioni52.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-53/108",
+            "name": "Mew",
+            "number": "53/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/MewEvoluzioni53.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-54/108",
+            "name": "Sandshrew",
+            "number": "54/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/SandshrewEvoluzioni54.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-55/108",
+            "name": "Diglett",
+            "number": "55/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/DiglettEvoluzioni55.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-56/108",
+            "name": "Dugtrio",
+            "number": "56/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/DugtrioEvoluzioni56.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-57/108",
+            "name": "Machop",
+            "number": "57/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/MachopEvoluzioni57.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-58/108",
+            "name": "Machoke",
+            "number": "58/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/MachokeEvoluzioni58.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-59/108",
+            "name": "Machamp",
+            "number": "59/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MachampEvoluzioni59.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-60/108",
+            "name": "Machamp TURBO",
+            "number": "60/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/MachampTURBOEvoluzioni60.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-61/108",
+            "name": "Onix",
+            "number": "61/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/OnixEvoluzioni61.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-62/108",
+            "name": "Hitmonchan",
+            "number": "62/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/HitmonchanEvoluzioni62.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-63/108",
+            "name": "Clefairy",
+            "number": "63/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ClefairyEvoluzioni63.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-64/108",
+            "name": "Pidgeot-EX",
+            "number": "64/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Pidgeot-EXEvoluzioni64.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-65/108",
+            "name": "M Pidgeot-EX",
+            "number": "65/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MPidgeot-EXEvoluzioni65.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-66/108",
+            "name": "Rattata",
+            "number": "66/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/RattataEvoluzioni66.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-67/108",
+            "name": "Raticate",
+            "number": "67/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/RaticateEvoluzioni67.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-68/108",
+            "name": "Farfetch'd",
+            "number": "68/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/FarfetchdEvoluzioni68.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-69/108",
+            "name": "Doduo",
+            "number": "69/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/DoduoEvoluzioni69.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-70/108",
+            "name": "Chansey",
+            "number": "70/108",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/ChanseyEvoluzioni70.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-71/108",
+            "name": "Porygon",
+            "number": "71/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PorygonEvoluzioni71.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-72/108",
+            "name": "Dragonite-EX",
+            "number": "72/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/Dragonite-EXEvoluzioni72.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-73/108",
+            "name": "Legame Mentale con Blastoise",
+            "number": "73/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/LegameMentaleconBlastoiseEvoluzioni73.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-74/108",
+            "name": "Tenacia di Brock",
+            "number": "74/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/TenaciadiBrockEvoluzioni74.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-75/108",
+            "name": "Legame Mentale con Charizard",
+            "number": "75/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/LegameMentaleconCharizardEvoluzioni75.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-76/108",
+            "name": "Getto di Involuzione",
+            "number": "76/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/GettodiInvoluzioneEvoluzioni76.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-77/108",
+            "name": "Recupero di Energia",
+            "number": "77/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/RecuperodiEnergiaEvoluzioni77.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-78/108",
+            "name": "Cura Totale",
+            "number": "78/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/CuraTotaleEvoluzioni78.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-79/108",
+            "name": "Manutenzione",
+            "number": "79/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/ManutenzioneEvoluzioni79.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-80/108",
+            "name": "Determinazione di Misty",
+            "number": "80/108",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/DeterminazionediMistyEvoluzioni80.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-81/108",
+            "name": "Legame Mentale con Pidgeot",
+            "number": "81/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/LegameMentaleconPidgeotEvoluzioni81.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-82/108",
+            "name": "Pokédex",
+            "number": "82/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/Pok%C3%A9dexEvoluzioni82.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-83/108",
+            "name": "Pozione",
+            "number": "83/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/PozioneEvoluzioni83.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-84/108",
+            "name": "Consiglio del Professor Oak",
+            "number": "84/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/ConsigliodelProfessorOakEvoluzioni84.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-85/108",
+            "name": "Revitalizzante",
+            "number": "85/108",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/RevitalizzanteEvoluzioni85.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-86/108",
+            "name": "Legame Mentale con Slowbro",
+            "number": "86/108",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/LegameMentaleconSlowbroEvoluzioni86.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-87/108",
+            "name": "Superpozione",
+            "number": "87/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/SuperpozioneEvoluzioni87.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-88/108",
+            "name": "Scambio",
+            "number": "88/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/ScambioEvoluzioni88.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-89/108",
+            "name": "Legame Mentale con Venusaur",
+            "number": "89/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/LegameMentaleconVenusaurEvoluzioni89.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-90/108",
+            "name": "Energia Incolore doppia",
+            "number": "90/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/EnergiaIncoloredoppiaEvoluzioni90.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-91/108",
+            "name": "Energia base Erba",
+            "number": "91/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/EnergiabaseErbaEvoluzioni91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-92/108",
+            "name": "Energia base Fuoco",
+            "number": "92/108",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/EnergiabaseFuocoEvoluzioni92.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-93/108",
+            "name": "Energia base Acqua",
+            "number": "93/108",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/EnergiabaseAcquaEvoluzioni93.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-94/108",
+            "name": "Energia base Lampo",
+            "number": "94/108",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/EnergiabaseLampoEvoluzioni94.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-95/108",
+            "name": "Energia base Psico",
+            "number": "95/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/EnergiabasePsicoEvoluzioni95.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-96/108",
+            "name": "Energia base Lotta",
+            "number": "96/108",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/EnergiabaseLottaEvoluzioni96.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-97/108",
+            "name": "Energia base Oscurità",
+            "number": "97/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/EnergiabaseOscurit%C3%A0Evoluzioni97.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-98/108",
+            "name": "Energia base Metallo",
+            "number": "98/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/EnergiabaseMetalloEvoluzioni98.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-99/108",
+            "name": "Energia base Folletto",
+            "number": "99/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/EnergiabaseFollettoEvoluzioni99.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-100/108",
+            "name": "M Venusaur-EX",
+            "number": "100/108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/MVenusaur-EXEvoluzioni100.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-101/108",
+            "name": "M Charizard-EX",
+            "number": "101/108",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MCharizard-EXEvoluzioni101.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-102/108",
+            "name": "M Blastoise-EX",
+            "number": "102/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/MBlastoise-EXEvoluzioni102.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-103/108",
+            "name": "Mewtwo-EX",
+            "number": "103/108",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/Mewtwo-EXEvoluzioni103.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-104/108",
+            "name": "Pidgeot-EX",
+            "number": "104/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/Pidgeot-EXEvoluzioni104.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-105/108",
+            "name": "M Pidgeot-EX",
+            "number": "105/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MPidgeot-EXEvoluzioni105.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-106/108",
+            "name": "Dragonite-EX",
+            "number": "106/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/Dragonite-EXEvoluzioni106.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-107/108",
+            "name": "Tenacia di Brock",
+            "number": "107/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/TenaciadiBrockEvoluzioni107.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-108/108",
+            "name": "Determinazione di Misty",
+            "number": "108/108",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/DeterminazionediMistyEvoluzioni108.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "EVO-109/108",
+            "name": "Exeggutor",
+            "number": "109/108",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/ExeggutorEvoluzioni109.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVO-110/108",
+            "name": "Pikachu Volo",
+            "number": "110/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/PikachuVoloEvoluzioni110.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVO-111/108",
+            "name": "Pikachu Surf",
+            "number": "111/108",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/PikachuSurfEvoluzioni111.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVO-112/108",
+            "name": "Doduo di Imakuni?",
+            "number": "112/108",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/DoduodiImakuniEvoluzioni112.png",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "EVO-113/108",
+            "name": "Arriva il Team Rocket!",
+            "number": "113/108",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/ArrivailTeamRocketEvoluzioni113.png",
+            "section": "Fuoriserie"
+        }
+    ]
+}
