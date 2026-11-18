@@ -1,0 +1,293 @@
+{
+    "group": {
+        "id": "NP",
+        "name": "Nintendo Black Star Promos",
+        "period": "2003-2006",
+        "sortOrder": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
+        "cardCount": 40
+    },
+    "cards": [
+        {
+            "id": "NP-001",
+            "name": "Kyogre ex",
+            "number": "001",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/KyogreexNintendoPromo1.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-002",
+            "name": "Groudon ex",
+            "number": "002",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/GroudonexNintendoPromo2.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-003",
+            "name": "Treecko",
+            "number": "003",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/TreeckoNintendoPromo3.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-004",
+            "name": "Grovyle",
+            "number": "004",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/GrovyleNintendoPromo4.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-005",
+            "name": "Mudkip",
+            "number": "005",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/MudkipNintendoPromo10.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-006",
+            "name": "Torchic",
+            "number": "006",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/TorchicNintendoPromo8.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-007",
+            "name": "Treecko",
+            "number": "007",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/TreeckoNintendoPromo3.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-008",
+            "name": "Torchic",
+            "number": "008",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/TorchicNintendoPromo8.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-009",
+            "name": "Combusken",
+            "number": "009",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/CombuskenNintendoPromo9.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-010",
+            "name": "Mudkip",
+            "number": "010",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/MudkipNintendoPromo10.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-011",
+            "name": "Marshtomp",
+            "number": "011",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/MarshtompNintendoPromo11.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-012",
+            "name": "Pikachu",
+            "number": "012",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/PikachuNintendoPromo12.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-013",
+            "name": "Meowth",
+            "number": "013",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MeowthNintendoPromo13.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-014",
+            "name": "Latias",
+            "number": "014",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-015",
+            "name": "Latios",
+            "number": "015",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-016",
+            "name": "Treecko",
+            "number": "016",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-017",
+            "name": "Torchic",
+            "number": "017",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-018",
+            "name": "Mudkip",
+            "number": "018",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-019",
+            "name": "Whismur",
+            "number": "019",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-020",
+            "name": "Ludicolo",
+            "number": "020",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-021",
+            "name": "Jirachi",
+            "number": "021",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-022",
+            "name": "Beldum",
+            "number": "022",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-023",
+            "name": "Metang",
+            "number": "023",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-024",
+            "name": "Chimecho",
+            "number": "024",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-025",
+            "name": "Flygon",
+            "number": "025",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-026",
+            "name": "Vento Tropicale",
+            "number": "026",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/VentoTropicaleNintendoPromo26.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-027",
+            "name": "Cavallone Tropicale",
+            "number": "027",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CavalloneTropicaleNintendoPromo27.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-028",
+            "name": "Championship Arena",
+            "number": "028",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/ChampionshipArenaNintendoPromo28.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-029",
+            "name": "Celebi",
+            "number": "029",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/CelebiNintendoPromo29.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-030",
+            "name": "Suicune",
+            "number": "030",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/SuicuneNintendoPromo30.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-031",
+            "name": "Moltres ex",
+            "number": "031",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-032",
+            "name": "Articuno ex",
+            "number": "032",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-033",
+            "name": "Zapdos ex",
+            "number": "033",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-034",
+            "name": "Typhlosion",
+            "number": "034",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-035",
+            "name": "Pikachu δ",
+            "number": "035",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/PikachuNintendoPromo35.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-036",
+            "name": "Cavallone Tropicale",
+            "number": "036",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/CavalloneTropicaleNintendoPromo36.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-037",
+            "name": "Kyogre ex",
+            "number": "037",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/KyogreexNintendoPromo37.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-038",
+            "name": "Groudon ex",
+            "number": "038",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/GroudonexNintendoPromo38.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-039",
+            "name": "Rayquaza ex",
+            "number": "039",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/RayquazaexNintendoPromo39.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "NP-040",
+            "name": "Mew",
+            "number": "040",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MewNintendoPromo40.jpg",
+            "section": "Non ordinate"
+        }
+    ]
+}

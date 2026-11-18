@@ -1,0 +1,384 @@
+{
+    "group": {
+        "id": "WP",
+        "name": "Wizards Black Star Promos",
+        "period": "1999-2003",
+        "sortOrder": 1,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
+        "cardCount": 53
+    },
+    "cards": [
+        {
+            "id": "WP-1",
+            "name": "Pikachu",
+            "number": "1",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/PikachuWizardsPromo1.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-2",
+            "name": "Electabuzz",
+            "number": "2",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/ElectabuzzWizardsPromo2.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-3",
+            "name": "Mewtwo",
+            "number": "3",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MewtwoWizardsPromo3.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-4",
+            "name": "Pikachu",
+            "number": "4",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/PikachuWizardsPromo4.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-5",
+            "name": "Dragonite",
+            "number": "5",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/DragoniteWizardsPromo5.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-6",
+            "name": "Arcanine",
+            "number": "6",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/ArcanineWizardsPromo6.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-7",
+            "name": "Jigglypuff",
+            "number": "7",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/JigglypuffWizardsPromo7.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-8",
+            "name": "Mew",
+            "number": "8",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MewWizardsPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-9",
+            "name": "Mew",
+            "number": "9",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MewWizardsPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-10",
+            "name": "Meowth",
+            "number": "10",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/MeowthWizardsPromo10.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-11",
+            "name": "Eevee",
+            "number": "11",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/EeveeWizardsPromo11.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-12",
+            "name": "Mewtwo",
+            "number": "12",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/MewtwoWizardsPromo12.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-13",
+            "name": "Venusaur",
+            "number": "13",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/VenusaurWizardsPromo13.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-14",
+            "name": "Mewtwo",
+            "number": "14",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MewtwoWizardsPromo14.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-15",
+            "name": "Cool Porygon",
+            "number": "15",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/CoolPorygonWizardsPromo15.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-16",
+            "name": "Computer Error",
+            "number": "16",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/ComputerErrorWizardsPromo16.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-17",
+            "name": "Dark Persian",
+            "number": "17",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/DarkPersianWizardsPromo17.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-18",
+            "name": "Team Rocket's Meowth",
+            "number": "18",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/TeamRocketMeowthWizardsPromo18.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-19",
+            "name": "Sabrina's Abra",
+            "number": "19",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/SabrinaAbraWizardsPromo19.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-20",
+            "name": "Psyduck",
+            "number": "20",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/PsyduckWizardsPromo20.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-21",
+            "name": "Moltres",
+            "number": "21",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MoltresWizardsPromo21.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-22",
+            "name": "Articuno",
+            "number": "22",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/ArticunoWizardsPromo22.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-23",
+            "name": "Zapdos",
+            "number": "23",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/ZapdosWizardsPromo23.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-24",
+            "name": "Pikachu di_____",
+            "number": "24",
+            "image": "https://media.pokemoncentral.it/wiki/b/b3/BlankPikachuWizardsPromo24.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-25",
+            "name": "Flying Pikachu",
+            "number": "25",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/FlyingPikachuWizardsPromo25.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-26",
+            "name": "Pikachu",
+            "number": "26",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/PikachuWizardsPromo26.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-27",
+            "name": "Pikachu",
+            "number": "27",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/PikachuWizardsPromo27.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-28",
+            "name": "Surfing Pikachu",
+            "number": "28",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/SurfingPikachuWizardsPromo28.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-29",
+            "name": "Marill",
+            "number": "29",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/MarillWizardsPromo29.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-30",
+            "name": "Togepi",
+            "number": "30",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/TogepiWizardsPromo30.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-31",
+            "name": "Cleffa",
+            "number": "31",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/CleffaWizardsPromo31.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-32",
+            "name": "Smeargle",
+            "number": "32",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/SmeargleWizardsPromo32.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-33",
+            "name": "Scizor",
+            "number": "33",
+            "image": "https://media.pokemoncentral.it/wiki/9/99/ScizorWizardsPromo33.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-34",
+            "name": "Entei",
+            "number": "34",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/EnteiWizardsPromo34.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-35",
+            "name": "Pichu",
+            "number": "35",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/PichuWizardsPromo35.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-36",
+            "name": "Igglybuff",
+            "number": "36",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/IgglybuffWizardsPromo36.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-37",
+            "name": "Hitmontop",
+            "number": "37",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/HitmontopWizardsPromo37.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-38",
+            "name": "Unown J",
+            "number": "38",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/UnownJWizardsPromo38.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-39",
+            "name": "Misdreavus",
+            "number": "39",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MisdreavusWizardsPromo39.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-40",
+            "name": "Pokémon Center",
+            "number": "40",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Pok%C3%A9mon_Center_%28Wizards_Promo_40%29.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-41",
+            "name": "Lucky Stadium",
+            "number": "41",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/LuckyStadiumWizardsPromo41.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-42",
+            "name": "Pokémon Tower",
+            "number": "42",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/Pok%C3%A9monTowerWizardsPromo42.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-43",
+            "name": "Machamp",
+            "number": "43",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MachampWizardsPromo43.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-44",
+            "name": "Magmar",
+            "number": "44",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/MagmarWizardsPromo44.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-45",
+            "name": "Scyther",
+            "number": "45",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/ScytherWizardsPromo45.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-46",
+            "name": "Electabuzz",
+            "number": "46",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/ElectabuzzWizardsPromo46.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-47",
+            "name": "Mew",
+            "number": "47",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MewWizardsPromo47.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-48",
+            "name": "Articuno",
+            "number": "48",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/ArticunoWizardsPromo48.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-49",
+            "name": "Snorlax",
+            "number": "49",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/SnorlaxWizardsPromo49.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-50",
+            "name": "Celebi",
+            "number": "50",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/CelebiWizardsPromo50.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-51",
+            "name": "Rapidash",
+            "number": "51",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/RapidashWizardsPromo51.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-52",
+            "name": "Ho-Oh",
+            "number": "52",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Ho-OhWizardsPromo52.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "WP-53",
+            "name": "Suicune",
+            "number": "53",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SuicuneWizardsPromo53.jpg",
+            "section": "Non ordinate"
+        }
+    ]
+}

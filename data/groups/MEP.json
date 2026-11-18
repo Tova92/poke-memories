@@ -1,0 +1,853 @@
+{
+    "group": {
+        "id": "MEP",
+        "name": "Promo stella nera MEP",
+        "period": "Megaevoluzione",
+        "sortOrder": 10,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/db/SimboloSetPromo_stella_nera_MEP.png",
+        "cardCount": 120
+    },
+    "cards": [
+        {
+            "id": "MEP-001",
+            "name": "Meganium",
+            "number": "001",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MeganiumMEPPromo1.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-002",
+            "name": "Inteleon",
+            "number": "002",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/InteleonMEPPromo2.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-003",
+            "name": "Alakazam",
+            "number": "003",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/AlakazamMEPPromo3.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-004",
+            "name": "Lunatone",
+            "number": "004",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/LunatoneMEPPromo4.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-005",
+            "name": "Drifloon",
+            "number": "005",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/DrifloonMEPPromo5.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-006",
+            "name": "Drifblim",
+            "number": "006",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/DrifblimMEPPromo6.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-007",
+            "name": "Psyduck",
+            "number": "007",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/PsyduckMEPPromo7.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-008",
+            "name": "Golduck",
+            "number": "008",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/GolduckMEPPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-009",
+            "name": "Alakazam",
+            "number": "009",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/AlakazamMEPPromo9.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-010",
+            "name": "Riolu",
+            "number": "010",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/RioluMEPPromo10.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-011",
+            "name": "Mega Latias-ex",
+            "number": "011",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/MegaLatias-exMEPPromo11.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-012",
+            "name": "Mega Lucario-ex",
+            "number": "012",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/MegaLucario-exMEPPromo12.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-013",
+            "name": "Mega Venusaur-ex",
+            "number": "013",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/MegaVenusaur-exMEPPromo13.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-014",
+            "name": "Ceruledge",
+            "number": "014",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/CeruledgeMEPPromo14.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-015",
+            "name": "Zacian",
+            "number": "015",
+            "image": "https://media.pokemoncentral.it/wiki/d/de/ZacianMEPPromo15.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-016",
+            "name": "Flygon",
+            "number": "016",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/FlygonMEPPromo16.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-017",
+            "name": "Toxtricity",
+            "number": "017",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/ToxtricityMEPPromo17.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-018",
+            "name": "Cottonee",
+            "number": "018",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/CottoneeMEPPromo18.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-019",
+            "name": "Whimsicott",
+            "number": "019",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/WhimsicottMEPPromo19.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-020",
+            "name": "Sneasel",
+            "number": "020",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/SneaselMEPPromo20.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-021",
+            "name": "Weavile",
+            "number": "021",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/WeavileMEPPromo21.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-022",
+            "name": "Charcadet",
+            "number": "022",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/CharcadetMEPPromo22.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-023",
+            "name": "Mega Charizard X-ex",
+            "number": "023",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MegaCharizardX-exMEPPromo23.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-024",
+            "name": "Oricorio-ex",
+            "number": "024",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Oricorio-exMEPPromo24.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-025",
+            "name": "Mega Kangaskhan-ex",
+            "number": "025",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/MegaKangaskhan-exMEPPromo25.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-026",
+            "name": "Meloetta",
+            "number": "026",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/MeloettaMEPPromo26.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-027",
+            "name": "Haunter",
+            "number": "027",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/HaunterMEPPromo27.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-028",
+            "name": "Fanfara Festosa",
+            "number": "028",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/FanfaraFestosaMEPPromo28.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-029",
+            "name": "Mega Charizard X-ex",
+            "number": "029",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MegaCharizardX-exMEPPromo29.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-030",
+            "name": "Mega Charizard Y-ex",
+            "number": "030",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MegaCharizardY-exMEPPromo30.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-031",
+            "name": "Zekrom di N",
+            "number": "031",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ZekromdiNMEPPromo31.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-032",
+            "name": "Mega Gardevoir-ex",
+            "number": "032",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/MegaGardevoir-exMEPPromo32.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-033",
+            "name": "Mega Lucario-ex",
+            "number": "033",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/MegaLucario-exMEPPromo33.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-034",
+            "name": "Mega Meganium-ex",
+            "number": "034",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MegaMeganium-exMEPPromo34.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-035",
+            "name": "Mega Emboar-ex",
+            "number": "035",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/MegaEmboar-exMEPPromo35.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-036",
+            "name": "Mega Feraligatr-ex",
+            "number": "036",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/MegaFeraligatr-exMEPPromo36.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-037",
+            "name": "Bulbasaur",
+            "number": "037",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/BulbasaurMEPPromo37.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-038",
+            "name": "Charmander",
+            "number": "038",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/CharmanderMEPPromo38.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-039",
+            "name": "Squirtle",
+            "number": "039",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/SquirtleMEPPromo39.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-040",
+            "name": "Turtwig",
+            "number": "040",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/TurtwigMEPPromo40.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-041",
+            "name": "Chimchar",
+            "number": "041",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/ChimcharMEPPromo41.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-042",
+            "name": "Piplup",
+            "number": "042",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PiplupMEPPromo42.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-043",
+            "name": "Rowlet",
+            "number": "043",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/RowletMEPPromo43.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-044",
+            "name": "Litten",
+            "number": "044",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/LittenMEPPromo44.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-045",
+            "name": "Popplio",
+            "number": "045",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/PopplioMEPPromo45.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-046",
+            "name": "Chikorita",
+            "number": "046",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ChikoritaMEPPromo46.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-047",
+            "name": "Cyndaquil",
+            "number": "047",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/CyndaquilMEPPromo47.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-048",
+            "name": "Totodile",
+            "number": "048",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/TotodileMEPPromo48.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-049",
+            "name": "Snivy",
+            "number": "049",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/SnivyMEPPromo49.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-050",
+            "name": "Tepig",
+            "number": "050",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/TepigMEPPromo50.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-051",
+            "name": "Oshawott",
+            "number": "051",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/OshawottMEPPromo51.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-052",
+            "name": "Grookey",
+            "number": "052",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/GrookeyMEPPromo52.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-053",
+            "name": "Scorbunny",
+            "number": "053",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ScorbunnyMEPPromo53.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-054",
+            "name": "Sobble",
+            "number": "054",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/SobbleMEPPromo54.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-055",
+            "name": "Treecko",
+            "number": "055",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/TreeckoMEPPromo55.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-056",
+            "name": "Torchic",
+            "number": "056",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/TorchicMEPPromo56.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-057",
+            "name": "Mudkip",
+            "number": "057",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MudkipMEPPromo57.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-058",
+            "name": "Chespin",
+            "number": "058",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ChespinMEPPromo58.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-059",
+            "name": "Fennekin",
+            "number": "059",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/FennekinMEPPromo59.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-060",
+            "name": "Froakie",
+            "number": "060",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/FroakieMEPPromo60.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-061",
+            "name": "Sprigatito",
+            "number": "061",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/SprigatitoMEPPromo61.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-062",
+            "name": "Fuecoco",
+            "number": "062",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/FuecocoMEPPromo62.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-063",
+            "name": "Quaxly",
+            "number": "063",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/QuaxlyMEPPromo63.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-064",
+            "name": "Serperior",
+            "number": "064",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/SerperiorMEPPromo64.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-065",
+            "name": "Barbaracle",
+            "number": "065",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/BarbaracleMEPPromo65.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-066",
+            "name": "Tyrantrum",
+            "number": "066",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/TyrantrumMEPPromo66.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-067",
+            "name": "Doublade",
+            "number": "067",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/DoubladeMEPPromo67.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-068",
+            "name": "Makuhita",
+            "number": "068",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MakuhitaMEPPromo68.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-069",
+            "name": "Chikorita",
+            "number": "069",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/ChikoritaMEPPromo69.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-070",
+            "name": "Tyrunt",
+            "number": "070",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/TyruntMEPPromo70.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-071",
+            "name": "Mega Zygarde-ex",
+            "number": "071",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MegaZygarde-exMEPPromo71.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-072",
+            "name": "Mega Clefable-ex",
+            "number": "072",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MegaClefable-exMEPPromo72.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-073",
+            "name": "Mega Gengar-ex",
+            "number": "073",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MegaGengar-exMEPPromo73.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-074",
+            "name": "Delphox",
+            "number": "074",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/DelphoxMEPPromo74.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-075",
+            "name": "Ampharos",
+            "number": "075",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/AmpharosMEPPromo75.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-076",
+            "name": "Crobat",
+            "number": "076",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/CrobatMEPPromo76.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-077",
+            "name": "Goodra",
+            "number": "077",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/GoodraMEPPromo77.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-078",
+            "name": "Toxel",
+            "number": "078",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/ToxelMEPPromo78.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-079",
+            "name": "Charmeleon",
+            "number": "079",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/CharmeleonMEPPromo79.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-080",
+            "name": "Fennekin",
+            "number": "080",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/FennekinMEPPromo80.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-081",
+            "name": "Mega Greninja-ex",
+            "number": "081",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MegaGreninja-exMEPPromo81.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-082",
+            "name": "Miraidon",
+            "number": "082",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/MiraidonMEPPromo82.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-083",
+            "name": "Slowbro",
+            "number": "083",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/SlowbroMEPPromo83.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-084",
+            "name": "Dhelmise",
+            "number": "084",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/DhelmiseMEPPromo84.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-085",
+            "name": "Bastiodon",
+            "number": "085",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/BastiodonMEPPromo85.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-086",
+            "name": "Slowpoke",
+            "number": "086",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/SlowpokeMEPPromo86.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-087",
+            "name": "Binacle",
+            "number": "087",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/BinacleMEPPromo87.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-088",
+            "name": "Zarude",
+            "number": "088",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/ZarudeMEPPromo88.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-089",
+            "name": "Mega Zeraora-ex",
+            "number": "089",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/MegaZeraora-exMEPPromo89.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-090",
+            "name": "Mega Darkrai-ex",
+            "number": "090",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MegaDarkrai-exMEPPromo90.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-091",
+            "name": "Mega Dragonite-ex",
+            "number": "091",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/MegaDragonite-exMEPPromo91.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-092",
+            "name": "Resort Paradiso",
+            "number": "092",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/ResortParadisoMEPPromo92.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-093",
+            "name": "Pikachu",
+            "number": "093",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/PikachuMEPPromo93.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-094",
+            "name": "Exeggutor di Alola",
+            "number": "094",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/ExeggutordiAlolaMEPPromo94.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-095",
+            "name": "Lucario",
+            "number": "095",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/LucarioMEPPromo95.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-096",
+            "name": "Moltres",
+            "number": "096",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/MoltresMEPPromo96.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-097",
+            "name": "Articuno",
+            "number": "097",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/ArticunoMEPPromo97.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-098",
+            "name": "Zapdos",
+            "number": "098",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/ZapdosMEPPromo98.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-099",
+            "name": "Greninja-ex",
+            "number": "099",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/Greninja-exMEPPromo99.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-100",
+            "name": "Sylveon-ex",
+            "number": "100",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Sylveon-exMEPPromo100.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-101",
+            "name": "Nidorina",
+            "number": "101",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/NidorinaMEPPromo101.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-102",
+            "name": "Victini",
+            "number": "102",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/VictiniMEPPromo102.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-103",
+            "name": "Zeraora",
+            "number": "103",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ZeraoraMEPPromo103.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-104",
+            "name": "Mewtwo",
+            "number": "104",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/MewtwoMEPPromo104.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-105",
+            "name": "Mew",
+            "number": "105",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/MewMEPPromo105.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-106",
+            "name": "Ditto",
+            "number": "106",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/DittoMEPPromo106.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-107",
+            "name": "Pikachu-ex",
+            "number": "107",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-108",
+            "name": "Espeon-ex",
+            "number": "108",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Espeon-exMEPPromo108.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-109",
+            "name": "Pikachu-ex",
+            "number": "109",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-110",
+            "name": "Umbreon-ex",
+            "number": "110",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/Umbreon-exMEPPromo110.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-111",
+            "name": "Masquerain",
+            "number": "111",
+            "image": "https://media.pokemoncentral.it/wiki/4/44/MasquerainMEPPromo111.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-112",
+            "name": "Magmortar",
+            "number": "112",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/MagmortarMEPPromo112.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-113",
+            "name": "Enamorus",
+            "number": "113",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/EnamorusMEPPromo113.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-114",
+            "name": "Kommo-o",
+            "number": "114",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Kommo-oMEPPromo114.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-115",
+            "name": "Spritzee",
+            "number": "115",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/SpritzeeMEPPromo115.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-116",
+            "name": "Seel",
+            "number": "116",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/SeelMEPPromo116.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-117",
+            "name": "Kyogre",
+            "number": "117",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/KyogreMEPPromo117.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-120",
+            "name": "Fanfara Festosa",
+            "number": "120",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/FanfaraFestosaMEPPromo120.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-131",
+            "name": "Pokémon RUN Pikachu",
+            "number": "131",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "MEP-—",
+            "name": "Pikachu at the Museum",
+            "number": "—",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/PikachuattheMuseumMEPPromo.png",
+            "section": "Non ordinate"
+        }
+    ]
+}

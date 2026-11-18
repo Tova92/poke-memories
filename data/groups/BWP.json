@@ -1,0 +1,720 @@
+{
+    "group": {
+        "id": "BWP",
+        "name": "Promo stella nera BW",
+        "period": "Nero e Bianco",
+        "sortOrder": 5,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
+        "cardCount": 101
+    },
+    "cards": [
+        {
+            "id": "BWP-BW01",
+            "name": "Snivy",
+            "number": "BW01",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/SnivyBWPromo1.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW02",
+            "name": "Tepig",
+            "number": "BW02",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/TepigBWPromo2.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW03",
+            "name": "Oshawott",
+            "number": "BW03",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/OshawottBWPromo3.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW004",
+            "name": "Reshiram",
+            "number": "BW004",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/ReshiramBWPromo4.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW005",
+            "name": "Zekrom",
+            "number": "BW005",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/ZekromBWPromo5.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW06",
+            "name": "Snivy",
+            "number": "BW06",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/SnivyBWPromo6.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW07",
+            "name": "Tepig",
+            "number": "BW07",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/TepigBWPromo7.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW08",
+            "name": "Oshawott",
+            "number": "BW08",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/OshawottBWPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW09",
+            "name": "Zoroark",
+            "number": "BW09",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/ZoroarkBWPromo9.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW10",
+            "name": "Axew",
+            "number": "BW10",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/AxewBWPromo10.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW11",
+            "name": "Pansage",
+            "number": "BW11",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/PansageBWPromo11.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW12",
+            "name": "Zorua",
+            "number": "BW12",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/ZoruaBWPromo12.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW13",
+            "name": "Minccino",
+            "number": "BW13",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MinccinoBWPromo13.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW14",
+            "name": "Pansage",
+            "number": "BW14",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/PansageBWPromo14.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW15",
+            "name": "Pidove",
+            "number": "BW15",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/PidoveBWPromo15.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW16",
+            "name": "Axew",
+            "number": "BW16",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/AxewBWPromo16.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW17",
+            "name": "Ducklett",
+            "number": "BW17",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/DucklettBWPromo17.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW18",
+            "name": "Darumaka",
+            "number": "BW18",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/DarumakaBWPromo18.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW19",
+            "name": "Zoroark",
+            "number": "BW19",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ZoroarkBWPromo19.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW20",
+            "name": "Serperior",
+            "number": "BW20",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/SerperiorBWPromo20.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW21",
+            "name": "Emboar",
+            "number": "BW21",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/EmboarBWPromo21.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW22",
+            "name": "Samurott",
+            "number": "BW22",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/SamurottBWPromo22.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW23",
+            "name": "Reshiram",
+            "number": "BW23",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/ReshiramBWPromo23.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW24",
+            "name": "Zekrom",
+            "number": "BW24",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/ZekromBWPromo24.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW25",
+            "name": "Scraggy",
+            "number": "BW25",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/ScraggyBWPromo25.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW26",
+            "name": "Axew",
+            "number": "BW26",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/AxewBWPromo26.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW27",
+            "name": "Litwick",
+            "number": "BW27",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/LitwickBWPromo27.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW28",
+            "name": "Spiaggia Tropicale",
+            "number": "BW28",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/SpiaggiaTropicaleBWPromo28.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW29",
+            "name": "Coppa Trionfo",
+            "number": "BW29",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/CoppaTrionfoBWPromo29.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW30",
+            "name": "Coppa Trionfo",
+            "number": "BW30",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/CoppaTrionfoBWPromo30.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW31",
+            "name": "Coppa Trionfo",
+            "number": "BW31",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/CoppaTrionfoBWPromo31.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW32",
+            "name": "Victini",
+            "number": "BW32",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/VictiniBWPromo32.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW33",
+            "name": "Riolu",
+            "number": "BW33",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/RioluBWPromo33.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW34",
+            "name": "Luxio",
+            "number": "BW34",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/LuxioBWPromo34.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW35",
+            "name": "Meowth",
+            "number": "BW35",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/MeowthBWPromo35.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW36",
+            "name": "Reshiram-EX",
+            "number": "BW36",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/Reshiram-EXBWPromo36.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW37",
+            "name": "Kyurem-EX",
+            "number": "BW37",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/Kyurem-EXBWPromo37.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW38",
+            "name": "Zekrom-EX",
+            "number": "BW38",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Zekrom-EXBWPromo38.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW39",
+            "name": "Città della lotta",
+            "number": "BW39",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Citt%C3%A0dellalottaBWPromo39.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW40",
+            "name": "Volcarona",
+            "number": "BW40",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/VolcaronaBWPromo40.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW41",
+            "name": "Thundurus",
+            "number": "BW41",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ThundurusBWPromo41.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW42",
+            "name": "Tornadus",
+            "number": "BW42",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/TornadusBWPromo42.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW43",
+            "name": "Landorus",
+            "number": "BW43",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/LandorusBWPromo43.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW44",
+            "name": "Kyurem",
+            "number": "BW44",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/KyuremBWPromo44.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW45",
+            "name": "Mewtwo-EX",
+            "number": "BW45",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Mewtwo-EXBWPromo45.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW46",
+            "name": "Darkrai-EX",
+            "number": "BW46",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Darkrai-EXBWPromo46.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW47",
+            "name": "Rayquaza-EX",
+            "number": "BW47",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Rayquaza-EXBWPromo47.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW48",
+            "name": "Altaria",
+            "number": "BW48",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/AltariaBWPromo48.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW49",
+            "name": "Lilligant",
+            "number": "BW49",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/LilligantBWPromo49.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW50",
+            "name": "Spiaggia Tropicale",
+            "number": "BW50",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/SpiaggiaTropicaleBWPromo50.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW51",
+            "name": "Crobat",
+            "number": "BW51",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/CrobatBWPromo51.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW52",
+            "name": "Lillipup",
+            "number": "BW52",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/LillipupBWPromo52.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW53",
+            "name": "Flygon",
+            "number": "BW53",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/FlygonBWPromo53.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW54",
+            "name": "Pikachu",
+            "number": "BW54",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/PikachuBWPromo54.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW55",
+            "name": "Elgyem",
+            "number": "BW55",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/ElgyemBWPromo55.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW56",
+            "name": "Empoleon",
+            "number": "BW56",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/EmpoleonBWPromo56.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW57",
+            "name": "Haxorus",
+            "number": "BW57",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/HaxorusBWPromo57.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW58",
+            "name": "Kyurem Nero",
+            "number": "BW58",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/KyuremNeroBWPromo58.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW59",
+            "name": "Kyurem Bianco",
+            "number": "BW59",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/KyuremBiancoBWPromo59.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW60",
+            "name": "Keldeo",
+            "number": "BW60",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/KeldeoBWPromo60.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW61",
+            "name": "Keldeo-EX",
+            "number": "BW61",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/Keldeo-EXBWPromo61.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW62",
+            "name": "Kyurem Nero-EX",
+            "number": "BW62",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/KyuremNero-EXBWPromo62.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW63",
+            "name": "Kyurem Bianco-EX",
+            "number": "BW63",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/KyuremBianco-EXBWPromo63.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW64",
+            "name": "Drifblim",
+            "number": "BW64",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/DrifblimBWPromo64.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW65",
+            "name": "Jigglypuff",
+            "number": "BW65",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/JigglypuffBWPromo65.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW66",
+            "name": "Ninetales",
+            "number": "BW66",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/NinetalesBWPromo66.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW67",
+            "name": "Ampharos",
+            "number": "BW67",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/AmpharosBWPromo67.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW68",
+            "name": "Meloetta",
+            "number": "BW68",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/MeloettaBWPromo68.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW69",
+            "name": "Meloetta",
+            "number": "BW69",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/MeloettaBWPromo69.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW70",
+            "name": "Virizion",
+            "number": "BW70",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/VirizionBWPromo70.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW71",
+            "name": "Terrakion",
+            "number": "BW71",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/TerrakionBWPromo71.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW72",
+            "name": "Cobalion",
+            "number": "BW72",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/CobalionBWPromo72.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW73",
+            "name": "Darkrai",
+            "number": "BW73",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/DarkraiBWPromo73.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW74",
+            "name": "Giratina",
+            "number": "BW74",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/GiratinaBWPromo74.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW75",
+            "name": "Metagross",
+            "number": "BW75",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/MetagrossBWPromo75.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW76",
+            "name": "Electrode",
+            "number": "BW76",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/ElectrodeBWPromo76.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW77",
+            "name": "Pikachu [Mai rilasciata]",
+            "number": "BW77",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/PikachuBWPromo77.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW78",
+            "name": "Raichu [Mai rilasciata]",
+            "number": "BW78",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/RaichuBWPromo78.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW79",
+            "name": "Landorus",
+            "number": "BW79",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/LandorusBWPromo79.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW80",
+            "name": "Druddigon",
+            "number": "BW80",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/DruddigonBWPromo80.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW81",
+            "name": "Thundurus-EX",
+            "number": "BW81",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Thundurus-EXBWPromo81.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW82",
+            "name": "Deoxys-EX",
+            "number": "BW82",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/Deoxys-EXBWPromo82.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW83",
+            "name": "Lugia-EX",
+            "number": "BW83",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Lugia-EXBWPromo83.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW84",
+            "name": "Porygon-Z",
+            "number": "BW84",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Porygon-ZBWPromo84.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW85",
+            "name": "Lucario",
+            "number": "BW85",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/LucarioBWPromo85.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW86",
+            "name": "Genesect",
+            "number": "BW86",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/GenesectBWPromo86.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW87",
+            "name": "Leafeon",
+            "number": "BW87",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/LeafeonBWPromo87.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW88",
+            "name": "Flareon",
+            "number": "BW88",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/FlareonBWPromo88.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW89",
+            "name": "Vaporeon",
+            "number": "BW89",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/VaporeonBWPromo89.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW90",
+            "name": "Glaceon",
+            "number": "BW90",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/GlaceonBWPromo90.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW91",
+            "name": "Jolteon",
+            "number": "BW91",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/JolteonBWPromo91.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW92",
+            "name": "Espeon",
+            "number": "BW92",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/EspeonBWPromo92.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW93",
+            "name": "Umbreon",
+            "number": "BW93",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/UmbreonBWPromo93.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW94",
+            "name": "Eevee",
+            "number": "BW94",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/EeveeBWPromo94.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW95",
+            "name": "Festa dei Campioni",
+            "number": "BW95",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/FestadeiCampioniBWPromo95.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW96",
+            "name": "Tornadus-EX",
+            "number": "BW96",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Tornadus-EXBWPromo96.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW97",
+            "name": "Eevee",
+            "number": "BW97",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/EeveeBWPromo97.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW98",
+            "name": "Mew",
+            "number": "BW98",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/MewBWPromo98.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW99",
+            "name": "Genesect",
+            "number": "BW99",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/GenesectBWPromo99.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW100",
+            "name": "N",
+            "number": "BW100",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/NBWPromo100.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "BWP-BW101",
+            "name": "Genesect",
+            "number": "BW101",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/GenesectBWPromo101.png",
+            "section": "Non ordinate"
+        }
+    ]
+}

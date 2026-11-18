@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP6",
+        "name": "POP Serie 6",
+        "period": "2007-2008",
+        "sortOrder": 6,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d4/SimboloSetPOP_Serie_6.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP6-1/17",
+            "name": "Bastiodon",
+            "number": "1/17",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/BastiodonPOPSerie6-1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-2/17",
+            "name": "Lucario",
+            "number": "2/17",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/LucarioPOPSerie6-2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-3/17",
+            "name": "Manaphy",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ManaphyPOPSerie6-3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-4/17",
+            "name": "Pachirisu",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/PachirisuPOPSerie6-4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-5/17",
+            "name": "Rampardos",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/RampardosPOPSerie6-5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-6/17",
+            "name": "Drifloon",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/DrifloonPOPSerie6-6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-7/17",
+            "name": "Gible",
+            "number": "7/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/GiblePOPSerie6-7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-8/17",
+            "name": "Riolu",
+            "number": "8/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/RioluPOPSerie6-8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-9/17",
+            "name": "Pikachu",
+            "number": "9/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/PikachuPOPSerie6-9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-10/17",
+            "name": "Staravia",
+            "number": "10/17",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/StaraviaPOPSerie6-10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-11/17",
+            "name": "Bidoof",
+            "number": "11/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BidoofPOPSerie6-11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-12/17",
+            "name": "Buneary",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/BunearyPOPSerie6-12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-13/17",
+            "name": "Cherubi",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/CherubiPOPSerie6-13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-14/17",
+            "name": "Chimchar",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/ChimcharPOPSerie6-14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-15/17",
+            "name": "Piplup",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/PiplupPOPSerie6-15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-16/17",
+            "name": "Starly",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/StarlyPOPSerie6-16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP6-17/17",
+            "name": "Turtwig",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/TurtwigPOPSerie6-17.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

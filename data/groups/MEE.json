@@ -1,0 +1,125 @@
+{
+    "group": {
+        "id": "MEE",
+        "name": "Energie base MEE",
+        "period": "Megaevoluzione",
+        "sortOrder": 2,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/6/66/SimboloSetEnergie_base_MEE.png",
+        "cardCount": 16
+    },
+    "cards": [
+        {
+            "id": "MEE-001",
+            "name": "Energia base Erba",
+            "number": "001",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/EnergiabaseErbaEnergiaMEE1.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-002",
+            "name": "Energia base Fuoco",
+            "number": "002",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/EnergiabaseFuocoEnergiaMEE2.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-003",
+            "name": "Energia base Acqua",
+            "number": "003",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/EnergiabaseAcquaEnergiaMEE3.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-004",
+            "name": "Energia base Lampo",
+            "number": "004",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/EnergiabaseLampoEnergiaMEE4.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-005",
+            "name": "Energia base Psico",
+            "number": "005",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/EnergiabasePsicoEnergiaMEE5.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-006",
+            "name": "Energia base Lotta",
+            "number": "006",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/EnergiabaseLottaEnergiaMEE6.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-007",
+            "name": "Energia base Oscurità",
+            "number": "007",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/EnergiabaseOscurit%C3%A0EnergiaMEE7.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-008",
+            "name": "Energia base Metallo",
+            "number": "008",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/EnergiabaseMetalloEnergiaMEE8.png",
+            "section": "Da 'Megaevoluzione'"
+        },
+        {
+            "id": "MEE-009",
+            "name": "Energia base Erba",
+            "number": "009",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/EnergiabaseErbaEnergiaMEE9.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-010",
+            "name": "Energia base Fuoco",
+            "number": "010",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/EnergiabaseFuocoEnergiaMEE10.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-011",
+            "name": "Energia base Acqua",
+            "number": "011",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/EnergiabaseAcquaEnergiaMEE11.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-012",
+            "name": "Energia base Lampo",
+            "number": "012",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/EnergiabaseLampoEnergiaMEE12.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-013",
+            "name": "Energia base Psico",
+            "number": "013",
+            "image": "https://media.pokemoncentral.it/wiki/8/84/EnergiabasePsicoEnergiaMEE13.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-014",
+            "name": "Energia base Lotta",
+            "number": "014",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/EnergiabaseLottaEnergiaMEE14.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-015",
+            "name": "Energia base Oscurità",
+            "number": "015",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/EnergiabaseOscurit%C3%A0EnergiaMEE15.png",
+            "section": "30º Anniversario"
+        },
+        {
+            "id": "MEE-016",
+            "name": "Energia base Metallo",
+            "number": "016",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/EnergiabaseMetalloEnergiaMEE16.png",
+            "section": "30º Anniversario"
+        }
+    ]
+}

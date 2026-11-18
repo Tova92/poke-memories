@@ -1,0 +1,1526 @@
+{
+    "group": {
+        "id": "XYP",
+        "name": "Promo stella nera XY",
+        "period": "XY",
+        "sortOrder": 6,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
+        "cardCount": 211,
+				"yellowAAlternateCardCount": 5
+    },
+    "cards": [
+        {
+            "id": "XYP-XY01",
+            "name": "Chespin",
+            "number": "XY01",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/ChespinXYPromo1.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY02",
+            "name": "Fennekin",
+            "number": "XY02",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/FennekinXYPromo2.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY03",
+            "name": "Froakie",
+            "number": "XY03",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/FroakieXYPromo3.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY04",
+            "name": "Sylveon",
+            "number": "XY04",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/SylveonXYPromo4.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY05",
+            "name": "Xerneas",
+            "number": "XY05",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/XerneasXYPromo5.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY06",
+            "name": "Yveltal",
+            "number": "XY06",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/YveltalXYPromo6.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY07",
+            "name": "Xerneas-EX",
+            "number": "XY07",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/Xerneas-EXXYPromo7.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY08",
+            "name": "Yveltal-EX",
+            "number": "XY08",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Yveltal-EXXYPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY09",
+            "name": "Garchomp-EX",
+            "number": "XY09",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Garchomp-EXXYPromo9.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY10",
+            "name": "Dragalge",
+            "number": "XY10",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/DragalgeXYPromo10.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY11",
+            "name": "Skiddo",
+            "number": "XY11",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/SkiddoXYPromo11.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY12",
+            "name": "Honedge",
+            "number": "XY12",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/HonedgeXYPromo12.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY13",
+            "name": "Machamp",
+            "number": "XY13",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/MachampXYPromo13.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY14",
+            "name": "Trevenant",
+            "number": "XY14",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/TrevenantXYPromo14.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY15",
+            "name": "Slurpuff",
+            "number": "XY15",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/SlurpuffXYPromo15.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY16",
+            "name": "Gogoat",
+            "number": "XY16",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/GogoatXYPromo16.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY17",
+            "name": "Charizard-EX",
+            "number": "XY17",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Charizard-EXXYPromo17.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY18",
+            "name": "Chesnaught-EX",
+            "number": "XY18",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/Chesnaught-EXXYPromo18.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY19",
+            "name": "Delphox-EX",
+            "number": "XY19",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Delphox-EXXYPromo19.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY20",
+            "name": "Greninja-EX",
+            "number": "XY20",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/Greninja-EXXYPromo20.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY21",
+            "name": "Bronzong",
+            "number": "XY21",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/BronzongXYPromo21.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY22",
+            "name": "Darkrai",
+            "number": "XY22",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/DarkraiXYPromo22.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY23",
+            "name": "Shiftry",
+            "number": "XY23",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/ShiftryXYPromo23.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY24",
+            "name": "Greninja",
+            "number": "XY24",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/GreninjaXYPromo24.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY25",
+            "name": "Krookodile-EX",
+            "number": "XY25",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Krookodile-EXXYPromo25.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY26",
+            "name": "Pyroar",
+            "number": "XY26",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PyroarXYPromo26.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY27",
+            "name": "Festa dei Campioni",
+            "number": "XY27",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/FestadeiCampioniXYPromo27.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY28",
+            "name": "Venusaur-EX",
+            "number": "XY28",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/Venusaur-EXXYPromo28.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY29",
+            "name": "Charizard-EX",
+            "number": "XY29",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Charizard-EXXYPromo29.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY30",
+            "name": "Blastoise-EX",
+            "number": "XY30",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/Blastoise-EXXYPromo30.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY31",
+            "name": "Xerneas",
+            "number": "XY31",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/XerneasXYPromo31.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY32",
+            "name": "Yveltal",
+            "number": "XY32",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/YveltalXYPromo32.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY33",
+            "name": "Trovato",
+            "number": "XY33",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/TrovatoXYPromo33.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY34",
+            "name": "Metagross-EX",
+            "number": "XY34",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Metagross-EXXYPromo34.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY35",
+            "name": "M Metagross-EX",
+            "number": "XY35",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/MMetagross-EXXYPromo35.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY36",
+            "name": "Treecko",
+            "number": "XY36",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/TreeckoXYPromo36.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY37",
+            "name": "Torchic",
+            "number": "XY37",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/TorchicXYPromo37.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY38",
+            "name": "Mudkip",
+            "number": "XY38",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/MudkipXYPromo38.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY39",
+            "name": "Kingdra",
+            "number": "XY39",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/KingdraXYPromo39.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY40",
+            "name": "Ditto",
+            "number": "XY40",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/DittoXYPromo40.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY41",
+            "name": "Kyogre-EX",
+            "number": "XY41",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Kyogre-EXXYPromo41.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY42",
+            "name": "Groudon-EX",
+            "number": "XY42",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/Groudon-EXXYPromo42.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY43",
+            "name": "Diancie-EX",
+            "number": "XY43",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/Diancie-EXXYPromo43.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY44",
+            "name": "M Diancie-EX",
+            "number": "XY44",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/MDiancie-EXXYPromo44.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY45",
+            "name": "Gallade-EX",
+            "number": "XY45",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Gallade-EXXYPromo45.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY46",
+            "name": "Altaria",
+            "number": "XY46",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/AltariaXYPromo46.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY47",
+            "name": "Heliolisk",
+            "number": "XY47",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/HelioliskXYPromo47.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY48",
+            "name": "Meowstic",
+            "number": "XY48",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/MeowsticXYPromo48.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY49",
+            "name": "Regirock",
+            "number": "XY49",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/RegirockXYPromo49.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY50",
+            "name": "Pangoro",
+            "number": "XY50",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/PangoroXYPromo50.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY51",
+            "name": "Kyogre",
+            "number": "XY51",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/KyogreXYPromo51.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY52",
+            "name": "Groudon",
+            "number": "XY52",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/GroudonXYPromo52.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY53",
+            "name": "Sceptile-EX",
+            "number": "XY53",
+            "image": "https://media.pokemoncentral.it/wiki/6/6f/Sceptile-EXXYPromo53.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY54",
+            "name": "Blaziken-EX",
+            "number": "XY54",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/Blaziken-EXXYPromo54.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY55",
+            "name": "Swampert-EX",
+            "number": "XY55",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Swampert-EXXYPromo55.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY56",
+            "name": "Blissey",
+            "number": "XY56",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/BlisseyXYPromo56.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY57",
+            "name": "Fearow",
+            "number": "XY57",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/FearowXYPromo57.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY58",
+            "name": "Malamar",
+            "number": "XY58",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/MalamarXYPromo58.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY59",
+            "name": "Salamence",
+            "number": "XY59",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SalamenceXYPromo59.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY60",
+            "name": "Gyarados",
+            "number": "XY60",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/GyaradosXYPromo60.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY61",
+            "name": "Flygon-EX",
+            "number": "XY61",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/Flygon-EXXYPromo61.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY62",
+            "name": "Absol-EX",
+            "number": "XY62",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/Absol-EXXYPromo62.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY63",
+            "name": "M Absol-EX",
+            "number": "XY63",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/MAbsol-EXXYPromo63.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY64",
+            "name": "Rayquaza",
+            "number": "XY64",
+            "image": "https://media.pokemoncentral.it/wiki/9/9f/RayquazaXYPromo64.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY65",
+            "name": "Latios",
+            "number": "XY65",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/LatiosXYPromo65.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY66",
+            "name": "Rayquaza-EX",
+            "number": "XY66",
+            "image": "https://media.pokemoncentral.it/wiki/3/3c/Rayquaza-EXXYPromo66.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY67",
+            "name": "Jirachi",
+            "number": "XY67",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/JirachiXYPromo67.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY68",
+            "name": "Chesnaught",
+            "number": "XY68",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/ChesnaughtXYPromo68.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY69",
+            "name": "Rayquaza-EX",
+            "number": "XY69",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/Rayquaza-EXXYPromo69.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY70",
+            "name": "Tyrantrum-EX",
+            "number": "XY70",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/Tyrantrum-EXXYPromo70.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY71",
+            "name": "Hoopa-EX",
+            "number": "XY71",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Hoopa-EXXYPromo71.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY72",
+            "name": "Latios-EX",
+            "number": "XY72",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/Latios-EXXYPromo72.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY73",
+            "name": "Rayquaza-EX",
+            "number": "XY73",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/Rayquaza-EXXYPromo73.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY74",
+            "name": "Reshiram",
+            "number": "XY74",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/ReshiramXYPromo74.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY75",
+            "name": "Palkia",
+            "number": "XY75",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/PalkiaXYPromo75.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY76",
+            "name": "Zekrom",
+            "number": "XY76",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/ZekromXYPromo76.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY77",
+            "name": "Dialga",
+            "number": "XY77",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/DialgaXYPromo77.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY78",
+            "name": "Latias",
+            "number": "XY78",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/LatiasXYPromo78.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY79",
+            "name": "Latios",
+            "number": "XY79",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/LatiosXYPromo79.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY80",
+            "name": "Kyurem Nero",
+            "number": "XY80",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/KyuremNeroXYPromo80.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY81",
+            "name": "Kyurem Bianco",
+            "number": "XY81",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/KyuremBiancoXYPromo81.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY82",
+            "name": "Regigigas",
+            "number": "XY82",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/RegigigasXYPromo82.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY83",
+            "name": "Arceus",
+            "number": "XY83",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/ArceusXYPromo83.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY84",
+            "name": "Pikachu-EX",
+            "number": "XY84",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/Pikachu-EXXYPromo84.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY85",
+            "name": "Hoopa-EX",
+            "number": "XY85",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/Hoopa-EXXYPromo85.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY86",
+            "name": "M Blaziken-EX",
+            "number": "XY86",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MBlaziken-EXXYPromo86.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY87",
+            "name": "M Swampert-EX",
+            "number": "XY87",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/MSwampert-EXXYPromo87.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY88",
+            "name": "Chespin",
+            "number": "XY88",
+            "image": "https://media.pokemoncentral.it/wiki/6/6a/ChespinXYPromo88.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY89",
+            "name": "Pikachu",
+            "number": "XY89",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/PikachuXYPromo89.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY90",
+            "name": "Hoopa",
+            "number": "XY90",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/HoopaXYPromo90.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY91",
+            "name": "Festa dei Campioni",
+            "number": "XY91",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/FestadeiCampioniXYPromo91.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY92",
+            "name": "Sableye",
+            "number": "XY92",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SableyeXYPromo92.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY93",
+            "name": "Celebi",
+            "number": "XY93",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CelebiXYPromo93.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY94",
+            "name": "Trevenant",
+            "number": "XY94",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/TrevenantXYPromo94.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY95",
+            "name": "Pikachu",
+            "number": "XY95",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/PikachuXYPromo95.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY96",
+            "name": "Umbreon",
+            "number": "XY96",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/UmbreonXYPromo96.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY97",
+            "name": "Aerodactyl-EX",
+            "number": "XY97",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/Aerodactyl-EXXYPromo97.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY98",
+            "name": "M Aerodactyl-EX",
+            "number": "XY98",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/MAerodactyl-EXXYPromo98.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY99",
+            "name": "Legame Mentale con Aerodactyl",
+            "number": "XY99",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/LegameMentaleconAerodactylXYPromo99.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY100",
+            "name": "Mewtwo",
+            "number": "XY100",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/MewtwoXYPromo100.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY101",
+            "name": "Mewtwo",
+            "number": "XY101",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/MewtwoXYPromo101.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY102",
+            "name": "Aurorus-EX",
+            "number": "XY102",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Aurorus-EXXYPromo102.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY103",
+            "name": "Mawile-EX",
+            "number": "XY103",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/Mawile-EXXYPromo103.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY104",
+            "name": "M Mawile-EX",
+            "number": "XY104",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/MMawile-EXXYPromo104.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY105",
+            "name": "Legame Mentale con Mawile",
+            "number": "XY105",
+            "image": "https://media.pokemoncentral.it/wiki/d/d5/LegameMentaleconMawileXYPromo105.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY106",
+            "name": "Gyarados-EX",
+            "number": "XY106",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Gyarados-EXXYPromo106.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY107",
+            "name": "Mewtwo-EX",
+            "number": "XY107",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Mewtwo-EXXYPromo107.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY108",
+            "name": "Machamp-EX",
+            "number": "XY108",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/Machamp-EXXYPromo108.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY109",
+            "name": "Gyarados",
+            "number": "XY109",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/GyaradosXYPromo109.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY110",
+            "name": "Mew",
+            "number": "XY110",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/MewXYPromo110.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY111",
+            "name": "Celebi",
+            "number": "XY111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/CelebiXYPromo111.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY112",
+            "name": "Jirachi",
+            "number": "XY112",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/JirachiXYPromo112.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY113",
+            "name": "Manaphy",
+            "number": "XY113",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/ManaphyXYPromo113.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY114",
+            "name": "Darkrai",
+            "number": "XY114",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/DarkraiXYPromo114.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY115",
+            "name": "Shaymin",
+            "number": "XY115",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/ShayminXYPromo115.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY116",
+            "name": "Arceus",
+            "number": "XY116",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/ArceusXYPromo116.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY117",
+            "name": "Victini",
+            "number": "XY117",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/VictiniXYPromo117.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY118",
+            "name": "Keldeo",
+            "number": "XY118",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/KeldeoXYPromo118.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY119",
+            "name": "Genesect",
+            "number": "XY119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e5/GenesectXYPromo119.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY120",
+            "name": "Meloetta",
+            "number": "XY120",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MeloettaXYPromo120.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY121",
+            "name": "Charizard-EX",
+            "number": "XY121",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/Charizard-EXXYPromo121.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY122",
+            "name": "Blastoise-EX",
+            "number": "XY122",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/Blastoise-EXXYPromo122.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY123",
+            "name": "Venusaur-EX",
+            "number": "XY123",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Venusaur-EXXYPromo123.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY124",
+            "name": "Pikachu-EX",
+            "number": "XY124",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Pikachu-EXXYPromo124.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY125",
+            "name": "Mewtwo-EX",
+            "number": "XY125",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/Mewtwo-EXXYPromo125.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY126",
+            "name": "Mew-EX",
+            "number": "XY126",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/Mew-EXXYPromo126.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY127",
+            "name": "Moltres",
+            "number": "XY127",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/MoltresXYPromo127.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY128",
+            "name": "Kyurem Bianco",
+            "number": "XY128",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/KyuremBiancoXYPromo128.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY129",
+            "name": "Zygarde",
+            "number": "XY129",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/ZygardeXYPromo129.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY130",
+            "name": "Tyranitar",
+            "number": "XY130",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/TyranitarXYPromo130.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY131",
+            "name": "Pansear",
+            "number": "XY131",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/PansearXYPromo131.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY132",
+            "name": "Gastly",
+            "number": "XY132",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/GastlyXYPromo132.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY133",
+            "name": "Greninja Ash-EX",
+            "number": "XY133",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/GreninjaAsh-EXXYPromo133.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY134",
+            "name": "Empoleon TURBO",
+            "number": "XY134",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/EmpoleonTURBOXYPromo134.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY135",
+            "name": "Beheeyem TURBO",
+            "number": "XY135",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/BeheeyemTURBOXYPromo135.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY136",
+            "name": "Noctowl TURBO",
+            "number": "XY136",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/NoctowlTURBOXYPromo136.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY137",
+            "name": "Vivillon",
+            "number": "XY137",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/VivillonXYPromo137.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY138",
+            "name": "Froakie",
+            "number": "XY138",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/FroakieXYPromo138.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY139",
+            "name": "Floette",
+            "number": "XY139",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/FloetteXYPromo139.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY140",
+            "name": "Lucario",
+            "number": "XY140",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/LucarioXYPromo140.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY141",
+            "name": "Rayquaza",
+            "number": "XY141",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/RayquazaXYPromo141.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY142",
+            "name": "Azelf",
+            "number": "XY142",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/AzelfXYPromo142.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY143",
+            "name": "Magikarp",
+            "number": "XY143",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MagikarpXYPromo143.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY144",
+            "name": "Yanmega",
+            "number": "XY144",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/YanmegaXYPromo144.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY145",
+            "name": "Volcanion",
+            "number": "XY145",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/VolcanionXYPromo145.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY146",
+            "name": "Clawitzer",
+            "number": "XY146",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/ClawitzerXYPromo146.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY147",
+            "name": "Hoopa",
+            "number": "XY147",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/HoopaXYPromo147.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY148",
+            "name": "Shaymin-EX",
+            "number": "XY148",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/Shaymin-EXXYPromo148.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY149",
+            "name": "Xerneas-EX",
+            "number": "XY149",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/Xerneas-EXXYPromo149.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY150",
+            "name": "Yveltal-EX",
+            "number": "XY150",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Yveltal-EXXYPromo150.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY151",
+            "name": "Zygarde-EX",
+            "number": "XY151",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/Zygarde-EXXYPromo151.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY152",
+            "name": "Zygarde",
+            "number": "XY152",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/ZygardeXYPromo152.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY153",
+            "name": "Ho-Oh",
+            "number": "XY153",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Ho-OhXYPromo153.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY154",
+            "name": "Ho-Oh TURBO",
+            "number": "XY154",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/Ho-OhTURBOXYPromo154.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY155",
+            "name": "Wobbuffet TURBO",
+            "number": "XY155",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/WobbuffetTURBOXYPromo155.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY156",
+            "name": "Lugia",
+            "number": "XY156",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/LugiaXYPromo156.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY157",
+            "name": "Beedrill-EX",
+            "number": "XY157",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Beedrill-EXXYPromo157.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY158",
+            "name": "M Beedrill-EX",
+            "number": "XY158",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/MBeedrill-EXXYPromo158.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY159",
+            "name": "Legame Mentale con Beedrill",
+            "number": "XY159",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/LegameMentaleconBeedrillXYPromo159.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY160",
+            "name": "Kyurem Nero",
+            "number": "XY160",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/KyuremNeroXYPromo160.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY161",
+            "name": "Braixen",
+            "number": "XY161",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/BraixenXYPromo161.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY162",
+            "name": "Greninja",
+            "number": "XY162",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/GreninjaXYPromo162.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY163",
+            "name": "Weezing",
+            "number": "XY163",
+            "image": "https://media.pokemoncentral.it/wiki/3/33/WeezingXYPromo163.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY164",
+            "name": "Volcanion",
+            "number": "XY164",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/VolcanionXYPromo164.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY165",
+            "name": "Magearna",
+            "number": "XY165",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/MagearnaXYPromo165.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY166",
+            "name": "M Gengar-EX",
+            "number": "XY166",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/MGengar-EXXYPromo166.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY167",
+            "name": "Garchomp-EX",
+            "number": "XY167",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Garchomp-EXXYPromo167.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY168",
+            "name": "M Garchomp-EX",
+            "number": "XY168",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/MGarchomp-EXXYPromo168.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY169",
+            "name": "Legame Mentale con Garchomp",
+            "number": "XY169",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/LegameMentaleconGarchompXYPromo169.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY170",
+            "name": "Salamence-EX",
+            "number": "XY170",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Salamence-EXXYPromo170.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY171",
+            "name": "M Salamence-EX",
+            "number": "XY171",
+            "image": "https://media.pokemoncentral.it/wiki/7/7e/MSalamence-EXXYPromo171.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY172",
+            "name": "Legame Mentale con Salamence",
+            "number": "XY172",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/LegameMentaleconSalamenceXYPromo172.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY173",
+            "name": "Volcanion-EX",
+            "number": "XY173",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Volcanion-EXXYPromo173.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY174",
+            "name": "Pikachu-EX",
+            "number": "XY174",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Pikachu-EXXYPromo174.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY175",
+            "name": "Magearna-EX",
+            "number": "XY175",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Magearna-EXXYPromo175.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY176",
+            "name": "Festa dei Campioni",
+            "number": "XY176",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/FestadeiCampioniXYPromo176.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY177",
+            "name": "Karen",
+            "number": "XY177",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/KarenXYPromo177.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY178",
+            "name": "Absol",
+            "number": "XY178",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/AbsolXYPromo178.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY179",
+            "name": "Snorlax",
+            "number": "XY179",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SnorlaxXYPromo179.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY180",
+            "name": "Arcanine TURBO",
+            "number": "XY180",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/ArcanineTURBOXYPromo180.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY181",
+            "name": "Crobat TURBO",
+            "number": "XY181",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/CrobatTURBOXYPromo181.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY182",
+            "name": "Mandibuzz TURBO",
+            "number": "XY182",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/MandibuzzTURBOXYPromo182.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY183",
+            "name": "Mewtwo-EX",
+            "number": "XY183",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/Mewtwo-EXXYPromo183.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY184",
+            "name": "Giratina",
+            "number": "XY184",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/GiratinaXYPromo184.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY185",
+            "name": "Volcanion",
+            "number": "XY185",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/VolcanionXYPromo185.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY186",
+            "name": "Magearna",
+            "number": "XY186",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/MagearnaXYPromo186.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY187",
+            "name": "Celebi",
+            "number": "XY187",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/CelebiXYPromo187.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY188",
+            "name": "Shaymin",
+            "number": "XY188",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/ShayminXYPromo188.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY189",
+            "name": "Victini",
+            "number": "XY189",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/VictiniXYPromo189.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY190",
+            "name": "Manaphy",
+            "number": "XY190",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/ManaphyXYPromo190.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY191",
+            "name": "Keldeo",
+            "number": "XY191",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/KeldeoXYPromo191.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY192",
+            "name": "Mew",
+            "number": "XY192",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/MewXYPromo192.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY193",
+            "name": "Meloetta",
+            "number": "XY193",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/MeloettaXYPromo193.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY194",
+            "name": "Darkrai",
+            "number": "XY194",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/DarkraiXYPromo194.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY195",
+            "name": "Jirachi",
+            "number": "XY195",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/JirachiXYPromo195.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY196",
+            "name": "Genesect",
+            "number": "XY196",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/GenesectXYPromo196.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY197",
+            "name": "Arceus",
+            "number": "XY197",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/ArceusXYPromo197.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY198",
+            "name": "M Camerupt-EX",
+            "number": "XY198",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/MCamerupt-EXXYPromo198.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY199",
+            "name": "Legame Mentale con Camerupt",
+            "number": "XY199",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/LegameMentaleconCameruptXYPromo199.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY200",
+            "name": "M Sharpedo-EX",
+            "number": "XY200",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MSharpedo-EXXYPromo200.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY201",
+            "name": "Legame Mentale con Sharpedo",
+            "number": "XY201",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/LegameMentaleconSharpedoXYPromo201.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY202",
+            "name": "Pikachu",
+            "number": "XY202",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PikachuXYPromo202.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY203",
+            "name": "Medaglia",
+            "number": "XY203",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/MedagliaXYPromo203.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY204",
+            "name": "Medaglia",
+            "number": "XY204",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MedagliaXYPromo204.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY205",
+            "name": "Medaglia",
+            "number": "XY205",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MedagliaXYPromo205.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY206",
+            "name": "Medaglia",
+            "number": "XY206",
+            "image": "https://media.pokemoncentral.it/wiki/4/4f/MedagliaXYPromo206.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY207",
+            "name": "Medaglia",
+            "number": "XY207",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/MedagliaXYPromo207.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY208",
+            "name": "Medaglia",
+            "number": "XY208",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MedagliaXYPromo208.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY209",
+            "name": "Medaglia",
+            "number": "XY209",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/MedagliaXYPromo209.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY210",
+            "name": "Medaglia",
+            "number": "XY210",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/MedagliaXYPromo210.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY211",
+            "name": "Legame Mentale con Lucario",
+            "number": "XY211",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/LegameMentaleconLucarioXYPromo211.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "XYP-XY67a",
+            "name": "Jirachi",
+            "number": "XY67a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "XYP-XY150a",
+            "name": "Yveltal-EX",
+            "number": "XY150a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "XYP-XY177a",
+            "name": "Karen",
+            "number": "XY177a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "XYP-XY198a",
+            "name": "M Camerupt-EX",
+            "number": "XY198a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "XYP-XY200a",
+            "name": "M Sharpedo-EX",
+            "number": "XY200a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

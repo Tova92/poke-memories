@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP1",
+        "name": "POP Serie 1",
+        "period": "2004-2005",
+        "sortOrder": 1,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/4/43/SimboloSetPOP_Serie_1.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP1-1/17",
+            "name": "Blaziken",
+            "number": "1/17",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/BlazikenPOPSerie1-1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-2/17",
+            "name": "Metagross",
+            "number": "2/17",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/MetagrossPOPSerie1-2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-3/17",
+            "name": "Rayquaza",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/RayquazaPOPSerie1-3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-4/17",
+            "name": "Sceptile",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/SceptilePOPSerie1-4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-5/17",
+            "name": "Swampert",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/SwampertPOPSerie1-5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-6/17",
+            "name": "Beautifly",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/BeautiflyPOPSerie1-6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-7/17",
+            "name": "Masquerain",
+            "number": "7/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/MasquerainPOPSerie1-7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-8/17",
+            "name": "Murkrow",
+            "number": "8/17",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MurkrowPOPSerie1-8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-9/17",
+            "name": "Pupitar",
+            "number": "9/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/PupitarPOPSerie1-9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-10/17",
+            "name": "Torkoal",
+            "number": "10/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/TorkoalPOPSerie1-10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-11/17",
+            "name": "Larvitar",
+            "number": "11/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LarvitarPOPSerie1-11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-12/17",
+            "name": "Minun",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/MinunPOPSerie1-12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-13/17",
+            "name": "Plusle",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/PluslePOPSerie1-13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-14/17",
+            "name": "Surskit",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/SurskitPOPSerie1-14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-15/17",
+            "name": "Swellow",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/SwellowPOPSerie1-15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-16/17",
+            "name": "Armaldo ex",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/ArmaldoexPOPSerie1-16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP1-17/17",
+            "name": "Tyranitar ex",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/TyranitarexPOPSerie1-17.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

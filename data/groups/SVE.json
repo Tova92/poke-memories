@@ -1,0 +1,181 @@
+{
+    "group": {
+        "id": "SVE",
+        "name": "Energie base SVE",
+        "period": "Scarlatto e Violetto",
+        "sortOrder": 1,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetEnergie_base_SVE.png",
+        "cardCount": 24
+    },
+    "cards": [
+        {
+            "id": "SVE-001",
+            "name": "Energia base Erba",
+            "number": "001",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/EnergiabaseErbaEnergiaSVE1.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-002",
+            "name": "Energia base Fuoco",
+            "number": "002",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/EnergiabaseFuocoEnergiaSVE2.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-003",
+            "name": "Energia base Acqua",
+            "number": "003",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/EnergiabaseAcquaEnergiaSVE3.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-004",
+            "name": "Energia base Lampo",
+            "number": "004",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/EnergiabaseLampoEnergiaSVE4.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-005",
+            "name": "Energia base Psico",
+            "number": "005",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/EnergiabasePsicoEnergiaSVE5.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-006",
+            "name": "Energia base Lotta",
+            "number": "006",
+            "image": "https://media.pokemoncentral.it/wiki/b/bd/EnergiabaseLottaEnergiaSVE6.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-007",
+            "name": "Energia base Oscurità",
+            "number": "007",
+            "image": "https://media.pokemoncentral.it/wiki/b/b4/EnergiabaseOscurit%C3%A0EnergiaSVE7.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-008",
+            "name": "Energia base Metallo",
+            "number": "008",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/EnergiabaseMetalloEnergiaSVE8.png",
+            "section": "Da 'Scarlatto e Violetto' a 'Segreto Fiabesco'"
+        },
+        {
+            "id": "SVE-009",
+            "name": "Energia base Erba",
+            "number": "009",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/EnergiabaseErbaEnergiaSVE9.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-010",
+            "name": "Energia base Fuoco",
+            "number": "010",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/EnergiabaseFuocoEnergiaSVE10.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-011",
+            "name": "Energia base Acqua",
+            "number": "011",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/EnergiabaseAcquaEnergiaSVE11.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-012",
+            "name": "Energia base Lampo",
+            "number": "012",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/EnergiabaseLampoEnergiaSVE12.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-013",
+            "name": "Energia base Psico",
+            "number": "013",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/EnergiabasePsicoEnergiaSVE13.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-014",
+            "name": "Energia base Lotta",
+            "number": "014",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/EnergiabaseLottaEnergiaSVE14.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-015",
+            "name": "Energia base Oscurità",
+            "number": "015",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/EnergiabaseOscurit%C3%A0EnergiaSVE15.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-016",
+            "name": "Energia base Metallo",
+            "number": "016",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/EnergiabaseMetalloEnergiaSVE16.png",
+            "section": "Da 'Corona Astrale' a 'Rivali Predestinati'"
+        },
+        {
+            "id": "SVE-017",
+            "name": "Energia base Erba",
+            "number": "017",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/EnergiabaseErbaEnergiaSVE17.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-018",
+            "name": "Energia base Fuoco",
+            "number": "018",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/EnergiabaseFuocoEnergiaSVE18.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-019",
+            "name": "Energia base Acqua",
+            "number": "019",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/EnergiabaseAcquaEnergiaSVE19.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-020",
+            "name": "Energia base Lampo",
+            "number": "020",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/EnergiabaseLampoEnergiaSVE20.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-021",
+            "name": "Energia base Psico",
+            "number": "021",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/EnergiabasePsicoEnergiaSVE21.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-022",
+            "name": "Energia base Lotta",
+            "number": "022",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/EnergiabaseLottaEnergiaSVE22.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-023",
+            "name": "Energia base Oscurità",
+            "number": "023",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/EnergiabaseOscurit%C3%A0EnergiaSVE23.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        },
+        {
+            "id": "SVE-024",
+            "name": "Energia base Metallo",
+            "number": "024",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/EnergiabaseMetalloEnergiaSVE24.png",
+            "section": "Luce Nera e Fuoco Bianco"
+        }
+    ]
+}

@@ -1,0 +1,1771 @@
+{
+    "group": {
+        "id": "SMP",
+        "name": "Promo stella nera SM",
+        "period": "Sole e Luna",
+        "sortOrder": 7,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
+        "cardCount": 248,
+				"yellowAAlternateCardCount": 3
+    },
+    "cards": [
+        {
+            "id": "SMP-SM01",
+            "name": "Rowlet",
+            "number": "SM01",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/RowletSMPromo1.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM02",
+            "name": "Litten",
+            "number": "SM02",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/LittenSMPromo2.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM03",
+            "name": "Popplio",
+            "number": "SM03",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/PopplioSMPromo3.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM04",
+            "name": "Pikachu",
+            "number": "SM04",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/PikachuSMPromo4.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM05",
+            "name": "Snorlax-GX",
+            "number": "SM05",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/Snorlax-GXSMPromo5.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM06",
+            "name": "Rockruff",
+            "number": "SM06",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/RockruffSMPromo6.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM07",
+            "name": "Pikipek",
+            "number": "SM07",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/PikipekSMPromo7.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM08",
+            "name": "Litten",
+            "number": "SM08",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/LittenSMPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM09",
+            "name": "Togedemaru",
+            "number": "SM09",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/TogedemaruSMPromo9.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM10",
+            "name": "Shiinotic",
+            "number": "SM10",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/ShiinoticSMPromo10.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM11",
+            "name": "Bruxish",
+            "number": "SM11",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/BruxishSMPromo11.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM12",
+            "name": "Passimian",
+            "number": "SM12",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/PassimianSMPromo12.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM13",
+            "name": "Oranguru",
+            "number": "SM13",
+            "image": "https://media.pokemoncentral.it/wiki/b/bf/OranguruSMPromo13.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM14",
+            "name": "Lycanroc-GX",
+            "number": "SM14",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Lycanroc-GXSMPromo14.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM15",
+            "name": "Zygarde",
+            "number": "SM15",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/ZygardeSMPromo15.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM16",
+            "name": "Solgaleo-GX",
+            "number": "SM16",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/Solgaleo-GXSMPromo16.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM17",
+            "name": "Lunala-GX",
+            "number": "SM17",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Lunala-GXSMPromo17.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM18",
+            "name": "Sandslash di Alola",
+            "number": "SM18",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/SandslashdiAlolaSMPromo18.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM19",
+            "name": "Oricorio",
+            "number": "SM19",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/OricorioSMPromo19.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM20",
+            "name": "Mudsdale",
+            "number": "SM20",
+            "image": "https://media.pokemoncentral.it/wiki/c/c7/MudsdaleSMPromo20.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM21",
+            "name": "Drampa",
+            "number": "SM21",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/DrampaSMPromo21.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM22",
+            "name": "Rowlet",
+            "number": "SM22",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/RowletSMPromo22.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM23",
+            "name": "Litten",
+            "number": "SM23",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/LittenSMPromo23.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM24",
+            "name": "Popplio",
+            "number": "SM24",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PopplioSMPromo24.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM25",
+            "name": "Lurantis",
+            "number": "SM25",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/LurantisSMPromo25.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM26",
+            "name": "Tsareena",
+            "number": "SM26",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/TsareenaSMPromo26.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM27",
+            "name": "Turtonator",
+            "number": "SM27",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/TurtonatorSMPromo27.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM28",
+            "name": "Vikavolt",
+            "number": "SM28",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/VikavoltSMPromo28.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM29",
+            "name": "Mimikyu",
+            "number": "SM29",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/MimikyuSMPromo29.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM30",
+            "name": "Tapu Koko",
+            "number": "SM30",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/TapuKokoSMPromo30.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM31",
+            "name": "Tapu Koko",
+            "number": "SM31",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/TapuKokoSMPromo31.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM32",
+            "name": "Tapu Bulu-GX",
+            "number": "SM32",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/TapuBulu-GXSMPromo32.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM33",
+            "name": "Tapu Koko-GX",
+            "number": "SM33",
+            "image": "https://media.pokemoncentral.it/wiki/f/f8/TapuKoko-GXSMPromo33.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM34",
+            "name": "Bewear-GX",
+            "number": "SM34",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Bewear-GXSMPromo34.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM35",
+            "name": "Espeon-GX",
+            "number": "SM35",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/Espeon-GXSMPromo35.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM36",
+            "name": "Umbreon-GX",
+            "number": "SM36",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/Umbreon-GXSMPromo36.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM37",
+            "name": "Decidueye-GX",
+            "number": "SM37",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/Decidueye-GXSMPromo37.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM38",
+            "name": "Incineroar-GX",
+            "number": "SM38",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/Incineroar-GXSMPromo38.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM39",
+            "name": "Primarina-GX",
+            "number": "SM39",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Primarina-GXSMPromo39.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM40",
+            "name": "Jangmo-o",
+            "number": "SM40",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/Jangmo-oSMPromo40.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM41",
+            "name": "Komala",
+            "number": "SM41",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/KomalaSMPromo41.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM42",
+            "name": "Cosmog",
+            "number": "SM42",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/CosmogSMPromo42.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM43",
+            "name": "Meowth di Alola",
+            "number": "SM43",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/MeowthdiAlolaSMPromo43.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM44",
+            "name": "Togedemaru",
+            "number": "SM44",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/TogedemaruSMPromo44.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM45",
+            "name": "Tapu Lele",
+            "number": "SM45",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/TapuLeleSMPromo45.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM46",
+            "name": "Seviper",
+            "number": "SM46",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/SeviperSMPromo46.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM47",
+            "name": "Crabominable",
+            "number": "SM47",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/CrabominableSMPromo47.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM48",
+            "name": "Zygarde",
+            "number": "SM48",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/ZygardeSMPromo48.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM49",
+            "name": "Bewear",
+            "number": "SM49",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/BewearSMPromo49.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM50",
+            "name": "Tapu Koko-GX",
+            "number": "SM50",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/TapuKoko-GXSMPromo50.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM51",
+            "name": "Meowth di Alola",
+            "number": "SM51",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/MeowthdiAlolaSMPromo51.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM52",
+            "name": "Golisopod",
+            "number": "SM52",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/GolisopodSMPromo52.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM53",
+            "name": "Dhelmise",
+            "number": "SM53",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/DhelmiseSMPromo53.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM54",
+            "name": "Lucario",
+            "number": "SM54",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/LucarioSMPromo54.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM55",
+            "name": "Decidueye",
+            "number": "SM55",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/DecidueyeSMPromo55.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM56",
+            "name": "Tsareena-GX",
+            "number": "SM56",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Tsareena-GXSMPromo56.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM57",
+            "name": "Ho-Oh-GX",
+            "number": "SM57",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Ho-Oh-GXSMPromo57.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM58",
+            "name": "Necrozma-GX",
+            "number": "SM58",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Necrozma-GXSMPromo58.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM59",
+            "name": "Marshadow-GX",
+            "number": "SM59",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/Marshadow-GXSMPromo59.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM60",
+            "name": "Charizard-GX",
+            "number": "SM60",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/Charizard-GXSMPromo60.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM61",
+            "name": "Tapu Bulu",
+            "number": "SM61",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/TapuBuluSMPromo61.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM62",
+            "name": "Golisopod-GX",
+            "number": "SM62",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/Golisopod-GXSMPromo62.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM63",
+            "name": "Salazzle-GX",
+            "number": "SM63",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/Salazzle-GXSMPromo63.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM64",
+            "name": "Silvally",
+            "number": "SM64",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/SilvallySMPromo64.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM65",
+            "name": "Raichu di Alola",
+            "number": "SM65",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/RaichudiAlolaSMPromo65.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM66",
+            "name": "Pheromosa-GX",
+            "number": "SM66",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Pheromosa-GXSMPromo66.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM67",
+            "name": "Celesteela-GX",
+            "number": "SM67",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Celesteela-GXSMPromo67.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM68",
+            "name": "Xurkitree-GX",
+            "number": "SM68",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Xurkitree-GXSMPromo68.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM69",
+            "name": "Buzzwole-GX",
+            "number": "SM69",
+            "image": "https://media.pokemoncentral.it/wiki/1/10/Buzzwole-GXSMPromo69.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM70",
+            "name": "Ho-Oh iridescente",
+            "number": "SM70",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/Ho-OhiridescenteSMPromo70.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM71",
+            "name": "Kommo-o-GX",
+            "number": "SM71",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/Kommo-o-GXSMPromo71.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM72",
+            "name": "Raichu di Alola",
+            "number": "SM72",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/RaichudiAlolaSMPromo72.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM73",
+            "name": "Salazzle",
+            "number": "SM73",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/SalazzleSMPromo73.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM74",
+            "name": "Regirock",
+            "number": "SM74",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/RegirockSMPromo74.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM75",
+            "name": "Registeel",
+            "number": "SM75",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/RegisteelSMPromo75.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM76",
+            "name": "Pikachu",
+            "number": "SM76",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/PikachuSMPromo76.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM77",
+            "name": "Mewtwo",
+            "number": "SM77",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/MewtwoSMPromo77.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM78",
+            "name": "Festa dei Campioni",
+            "number": "SM78",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/FestadeiCampioniSMPromo78.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM79",
+            "name": "Celebi iridescente",
+            "number": "SM79",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/CelebiiridescenteSMPromo79.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM80",
+            "name": "Ho-Oh-GX",
+            "number": "SM80",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Ho-Oh-GXSMPromo80.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM81",
+            "name": "Pikachu",
+            "number": "SM81",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/PikachuSMPromo81.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM82",
+            "name": "Lugia iridescente",
+            "number": "SM82",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/LugiairidescenteSMPromo82.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM83",
+            "name": "Zorua",
+            "number": "SM83",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/ZoruaSMPromo83.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM84",
+            "name": "Zoroark-GX",
+            "number": "SM84",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Zoroark-GXSMPromo84.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM85",
+            "name": "Marshadow",
+            "number": "SM85",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/MarshadowSMPromo85.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM86",
+            "name": "Pikachu",
+            "number": "SM86",
+            "image": "https://media.pokemoncentral.it/wiki/2/20/PikachuSMPromo86.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM87",
+            "name": "Latias",
+            "number": "SM87",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/LatiasSMPromo87.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM88",
+            "name": "Latios",
+            "number": "SM88",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/LatiosSMPromo88.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM89",
+            "name": "Zoroark",
+            "number": "SM89",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/ZoroarkSMPromo89.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM90",
+            "name": "Raichu-GX",
+            "number": "SM90",
+            "image": "https://media.pokemoncentral.it/wiki/b/bb/Raichu-GXSMPromo90.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM91",
+            "name": "Silvally-GX",
+            "number": "SM91",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/Silvally-GXSMPromo91.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM92",
+            "name": "Tapu Fini",
+            "number": "SM92",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/TapuFiniSMPromo92.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM93",
+            "name": "Marshadow",
+            "number": "SM93",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/MarshadowSMPromo93.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM94",
+            "name": "Rotom Lavaggio",
+            "number": "SM94",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/RotomLavaggioSMPromo94.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM95",
+            "name": "Lucario",
+            "number": "SM95",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/LucarioSMPromo95.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM96",
+            "name": "Heatran",
+            "number": "SM96",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/HeatranSMPromo96.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM97",
+            "name": "Gumshoos",
+            "number": "SM97",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/GumshoosSMPromo97.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM98",
+            "name": "Pikachu",
+            "number": "SM98",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/PikachuSMPromo98.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM99",
+            "name": "Mimikyu",
+            "number": "SM99",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/MimikyuSMPromo99.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM100",
+            "name": "Lucario-GX",
+            "number": "SM100",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/Lucario-GXSMPromo100.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM101",
+            "name": "Necrozma Ali dell'Aurora-GX",
+            "number": "SM101",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/NecrozmaAlidellAurora-GXSMPromo101.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM102",
+            "name": "Necrozma Criniera del Vespro-GX",
+            "number": "SM102",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/NecrozmaCrinieradelVespro-GXSMPromo102.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM103",
+            "name": "Lunala-GX",
+            "number": "SM103",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Lunala-GXSMPromo103.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM104",
+            "name": "Solgaleo-GX",
+            "number": "SM104",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Solgaleo-GXSMPromo104.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM105",
+            "name": "Lycanroc",
+            "number": "SM105",
+            "image": "https://media.pokemoncentral.it/wiki/5/52/LycanrocSMPromo105.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM106",
+            "name": "Necrozma Ali dell'Aurora",
+            "number": "SM106",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/NecrozmaAlidellAuroraSMPromo106.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM107",
+            "name": "Necrozma Criniera del Vespro",
+            "number": "SM107",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/NecrozmaCrinieradelVesproSMPromo107.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM108",
+            "name": "Pikachu di Ash",
+            "number": "SM108",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/PikachudiAshSMPromo108.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM109",
+            "name": "Pikachu di Ash",
+            "number": "SM109",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/PikachudiAshSMPromo109.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM110",
+            "name": "Pikachu di Ash",
+            "number": "SM110",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/PikachudiAshSMPromo110.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM111",
+            "name": "Pikachu di Ash",
+            "number": "SM111",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/PikachudiAshSMPromo111.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM112",
+            "name": "Pikachu di Ash",
+            "number": "SM112",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/PikachudiAshSMPromo112.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM113",
+            "name": "Pikachu di Ash",
+            "number": "SM113",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PikachudiAshSMPromo113.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM114",
+            "name": "Pikachu di Ash",
+            "number": "SM114",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/PikachudiAshSMPromo114.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM115",
+            "name": "Pheromosa",
+            "number": "SM115",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/PheromosaSMPromo115.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM116",
+            "name": "Xurkitree",
+            "number": "SM116",
+            "image": "https://media.pokemoncentral.it/wiki/a/ad/XurkitreeSMPromo116.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM117",
+            "name": "Malamar",
+            "number": "SM117",
+            "image": "https://media.pokemoncentral.it/wiki/9/93/MalamarSMPromo117.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM118",
+            "name": "Lycanroc",
+            "number": "SM118",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/LycanrocSMPromo118.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM119",
+            "name": "Exeggcute",
+            "number": "SM119",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/ExeggcuteSMPromo119.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM120",
+            "name": "Rockruff",
+            "number": "SM120",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/RockruffSMPromo120.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM121",
+            "name": "Raikou-GX",
+            "number": "SM121",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Raikou-GXSMPromo121.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM122",
+            "name": "Zygarde-GX",
+            "number": "SM122",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/Zygarde-GXSMPromo122.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM123",
+            "name": "Necrozma Ali dell'Aurora",
+            "number": "SM123",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/NecrozmaAlidellAuroraSMPromo123.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM124",
+            "name": "Necrozma Criniera del Vespro",
+            "number": "SM124",
+            "image": "https://media.pokemoncentral.it/wiki/3/34/NecrozmaCrinieradelVesproSMPromo124.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM125",
+            "name": "Naganadel-GX",
+            "number": "SM125",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/Naganadel-GXSMPromo125.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM126",
+            "name": "UltraNecrozma-GX",
+            "number": "SM126",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/UltraNecrozma-GXSMPromo126.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM127",
+            "name": "Sandslash di Alola",
+            "number": "SM127",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/SandslashdiAlolaSMPromo127.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM128",
+            "name": "Ninetales di Alola",
+            "number": "SM128",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/NinetalesdiAlolaSMPromo128.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM129",
+            "name": "Kyogre",
+            "number": "SM129",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/KyogreSMPromo129.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM130",
+            "name": "Manectric",
+            "number": "SM130",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ManectricSMPromo130.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM131",
+            "name": "Celesteela",
+            "number": "SM131",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/CelesteelaSMPromo131.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM132",
+            "name": "Delcatty",
+            "number": "SM132",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/DelcattySMPromo132.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM133",
+            "name": "Thundurus-GX",
+            "number": "SM133",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/Thundurus-GXSMPromo133.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM134",
+            "name": "Tornadus-GX",
+            "number": "SM134",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/Tornadus-GXSMPromo134.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM135",
+            "name": "Latias",
+            "number": "SM135",
+            "image": "https://media.pokemoncentral.it/wiki/c/c6/LatiasSMPromo135.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM136",
+            "name": "Latios",
+            "number": "SM136",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/LatiosSMPromo136.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM137",
+            "name": "Reshiram-GX",
+            "number": "SM137",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/Reshiram-GXSMPromo137.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM138",
+            "name": "Zekrom-GX",
+            "number": "SM138",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/Zekrom-GXSMPromo138.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM139",
+            "name": "Salamence-GX",
+            "number": "SM139",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/Salamence-GXSMPromo139.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM140",
+            "name": "Salamence",
+            "number": "SM140",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/SalamenceSMPromo140.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM141",
+            "name": "Kyurem Bianco-GX",
+            "number": "SM141",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/KyuremBianco-GXSMPromo141.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM142",
+            "name": "Kyurem",
+            "number": "SM142",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/KyuremSMPromo142.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM143",
+            "name": "Moltres",
+            "number": "SM143",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/MoltresSMPromo143.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM144",
+            "name": "Articuno",
+            "number": "SM144",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ArticunoSMPromo144.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM145",
+            "name": "Zapdos",
+            "number": "SM145",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ZapdosSMPromo145.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM146",
+            "name": "Leafeon-GX",
+            "number": "SM146",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/Leafeon-GXSMPromo146.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM147",
+            "name": "Glaceon-GX",
+            "number": "SM147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/Glaceon-GXSMPromo147.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM148",
+            "name": "Champions Festival",
+            "number": "SM148",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/FestadeiCampioniSMPromo148.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM149",
+            "name": "Suicune",
+            "number": "SM149",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SuicuneSMPromo149.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM150",
+            "name": "Raikou",
+            "number": "SM150",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/RaikouSMPromo150.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM151",
+            "name": "Giratina",
+            "number": "SM151",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/GiratinaSMPromo151.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM152",
+            "name": "Tapu Lele",
+            "number": "SM152",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/TapuLeleSMPromo152.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM153",
+            "name": "Rowlet",
+            "number": "SM153",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/RowletSMPromo153.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM154",
+            "name": "Salandit",
+            "number": "SM154",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/SalanditSMPromo154.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM155",
+            "name": "Kingdra-GX",
+            "number": "SM155",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/Kingdra-GXSMPromo155.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM156",
+            "name": "Dragonite-GX",
+            "number": "SM156",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/Dragonite-GXSMPromo156.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM157",
+            "name": "Pikachu",
+            "number": "SM157",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/PikachuSMPromo157.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM158",
+            "name": "Charizard",
+            "number": "SM158",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/CharizardSMPromo158.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM159",
+            "name": "Zapdos",
+            "number": "SM159",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/ZapdosSMPromo159.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM160",
+            "name": "Nidoqueen",
+            "number": "SM160",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/NidoqueenSMPromo160.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM161",
+            "name": "Jirachi",
+            "number": "SM161",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/JirachiSMPromo161.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM162",
+            "name": "Pikachu",
+            "number": "SM162",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/PikachuSMPromo162.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM163",
+            "name": "Mimikyu",
+            "number": "SM163",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/MimikyuSMPromo163.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM164",
+            "name": "Deoxys",
+            "number": "SM164",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/DeoxysSMPromo164.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM165",
+            "name": "UltraNecrozma",
+            "number": "SM165",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/UltraNecrozmaSMPromo165.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM166",
+            "name": "Magikarp e Wailord-GX",
+            "number": "SM166",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/MagikarpeWailord-GXSMPromo166.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM167",
+            "name": "Celebi e Venusaur-GX",
+            "number": "SM167",
+            "image": "https://media.pokemoncentral.it/wiki/2/2c/CelebieVenusaur-GXSMPromo167.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM168",
+            "name": "Pikachu e Zekrom-GX",
+            "number": "SM168",
+            "image": "https://media.pokemoncentral.it/wiki/d/dc/PikachueZekrom-GXSMPromo168.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM169",
+            "name": "Eevee e Snorlax-GX",
+            "number": "SM169",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/EeveeeSnorlax-GXSMPromo169.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM170",
+            "name": "Detective Pikachu",
+            "number": "SM170",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/DetectivePikachuSMPromo170.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM171",
+            "name": "Flareon-GX",
+            "number": "SM171",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/Flareon-GXSMPromo171.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM172",
+            "name": "Vaporeon-GX",
+            "number": "SM172",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/Vaporeon-GXSMPromo172.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM173",
+            "name": "Jolteon-GX",
+            "number": "SM173",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Jolteon-GXSMPromo173.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM174",
+            "name": "Eevee-GX",
+            "number": "SM174",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Eevee-GXSMPromo174.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM175",
+            "name": "Eevee-GX",
+            "number": "SM175",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Eevee-GXSMPromo175.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM176",
+            "name": "Eevee-GX",
+            "number": "SM176",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/Eevee-GXSMPromo176.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM177",
+            "name": "Meltan",
+            "number": "SM177",
+            "image": "https://media.pokemoncentral.it/wiki/1/15/MeltanSMPromo177.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM178",
+            "name": "Melmetal-GX",
+            "number": "SM178",
+            "image": "https://media.pokemoncentral.it/wiki/b/b7/Melmetal-GXSMPromo178.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM179",
+            "name": "Volcanion",
+            "number": "SM179",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/VolcanionSMPromo179.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM180",
+            "name": "Stakataka",
+            "number": "SM180",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/StakatakaSMPromo180.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM181",
+            "name": "Melmetal",
+            "number": "SM181",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/MelmetalSMPromo181.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM182",
+            "name": "Persian",
+            "number": "SM182",
+            "image": "https://media.pokemoncentral.it/wiki/6/63/PersianSMPromo182.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM183",
+            "name": "Pikachu",
+            "number": "SM183",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/PikachuSMPromo183.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM184",
+            "name": "Eevee",
+            "number": "SM184",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/EeveeSMPromo184.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM185",
+            "name": "Typhlosion",
+            "number": "SM185",
+            "image": "https://media.pokemoncentral.it/wiki/3/3b/TyphlosionSMPromo185.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM186",
+            "name": "Flareon",
+            "number": "SM186",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/FlareonSMPromo186.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM187",
+            "name": "Marowak di Alola-GX",
+            "number": "SM187",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/MarowakdiAlola-GXSMPromo187.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM188",
+            "name": "Kangaskhan-GX",
+            "number": "SM188",
+            "image": "https://media.pokemoncentral.it/wiki/7/7b/Kangaskhan-GXSMPromo188.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM189",
+            "name": "Blastoise-GX",
+            "number": "SM189",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Blastoise-GXSMPromo189.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM190",
+            "name": "Detective Pikachu",
+            "number": "SM190",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/DetectivePikachuSMPromo190.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM191",
+            "name": "Mewtwo & Mew-GX",
+            "number": "SM191",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/MewtwoeMew-GXSMPromo191.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM192",
+            "name": "Lucario & Melmetal-GX",
+            "number": "SM192",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/LucarioeMelmetal-GXSMPromo192.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM193",
+            "name": "Garchomp & Giratina-GX",
+            "number": "SM193",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/GarchompeGiratina-GXSMPromo193.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM194",
+            "name": "Detective Pikachu",
+            "number": "SM194",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/DetectivePikachuSMPromo194.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM195",
+            "name": "Charizard-GX",
+            "number": "SM195",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Charizard-GXSMPromo195.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM196",
+            "name": "Mewtwo-GX",
+            "number": "SM196",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Mewtwo-GXSMPromo196.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM197",
+            "name": "Greninja-GX",
+            "number": "SM197",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/Greninja-GXSMPromo197.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM198",
+            "name": "Bulbasaur",
+            "number": "SM198",
+            "image": "https://media.pokemoncentral.it/wiki/8/8e/BulbasaurSMPromo198.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM199",
+            "name": "Psyduck",
+            "number": "SM199",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PsyduckSMPromo199.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM200",
+            "name": "Snubbull",
+            "number": "SM200",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/SnubbullSMPromo200.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM201",
+            "name": "Reshiram e Charizard-GX",
+            "number": "SM201",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/ReshirameCharizard-GXSMPromo201.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM202",
+            "name": "Amoonguss",
+            "number": "SM202",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/AmoongussSMPromo202.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM203",
+            "name": "Tapu Fini",
+            "number": "SM203",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/TapuFiniSMPromo203.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM204",
+            "name": "Necrozma",
+            "number": "SM204",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/NecrozmaSMPromo204.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM205",
+            "name": "Terrakion",
+            "number": "SM205",
+            "image": "https://media.pokemoncentral.it/wiki/8/81/TerrakionSMPromo205.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM206",
+            "name": "Pikachu",
+            "number": "SM206",
+            "image": "https://media.pokemoncentral.it/wiki/f/f2/PikachuSMPromo206.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM207",
+            "name": "Sudowoodo",
+            "number": "SM207",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/SudowoodoSMPromo207.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM208",
+            "name": "Vikavolt",
+            "number": "SM208",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/VikavoltSMPromo208.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM209",
+            "name": "Stakataka",
+            "number": "SM209",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/StakatakaSMPromo209.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM210",
+            "name": "Moltres, Zapdos e Articuno-GX",
+            "number": "SM210",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/MoltresZapdoseArticuno-GXSMPromo210.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM211",
+            "name": "Charizard-GX",
+            "number": "SM211",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/Charizard-GXSMPromo211.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM212",
+            "name": "Gyarados-GX",
+            "number": "SM212",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/Gyarados-GXSMPromo212.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM213",
+            "name": "Raichu-GX",
+            "number": "SM213",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/Raichu-GXSMPromo213.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM214",
+            "name": "Mewtwo",
+            "number": "SM214",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/MewtwoSMPromo214.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM215",
+            "name": "Mew",
+            "number": "SM215",
+            "image": "https://media.pokemoncentral.it/wiki/3/30/MewSMPromo215.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM216",
+            "name": "Porygon-Z-GX",
+            "number": "SM216",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Porygon-Z-GXSMPromo216.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM217",
+            "name": "Trevenant e Dusknoir-GX",
+            "number": "SM217",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/TrevenanteDusknoir-GXSMPromo217.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM218",
+            "name": "Buzzwole",
+            "number": "SM218",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/BuzzwoleSMPromo218.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM219",
+            "name": "Entei",
+            "number": "SM219",
+            "image": "https://media.pokemoncentral.it/wiki/e/e4/EnteiSMPromo219.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM220",
+            "name": "Phione",
+            "number": "SM220",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/PhioneSMPromo220.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM221",
+            "name": "Blacephalon",
+            "number": "SM221",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/BlacephalonSMPromo221.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM222",
+            "name": "Mismagius",
+            "number": "SM222",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/MismagiusSMPromo222.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM223",
+            "name": "Terrakion",
+            "number": "SM223",
+            "image": "https://media.pokemoncentral.it/wiki/e/ec/TerrakionSMPromo223.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM224",
+            "name": "Celebi",
+            "number": "SM224",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/CelebiSMPromo224.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM225",
+            "name": "Victini",
+            "number": "SM225",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/VictiniSMPromo225.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM226",
+            "name": "Charizard",
+            "number": "SM226",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/CharizardSMPromo226.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM227",
+            "name": "Pikachu",
+            "number": "SM227",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/PikachuSMPromo227.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM228",
+            "name": "Mewtwo Corazzato",
+            "number": "SM228",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/MewtwoCorazzatoSMPromo228.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM229",
+            "name": "Venusaur e Snivy-GX",
+            "number": "SM229",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/VenusaureSnivy-GXSMPromo229.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM230",
+            "name": "Charizard e Braixen-GX",
+            "number": "SM230",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/CharizardeBraixen-GXSMPromo230.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM231",
+            "name": "Festa dei Campioni",
+            "number": "SM231",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/FestadeiCampioniSMPromo231.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM232",
+            "name": "Pikachu-GX",
+            "number": "SM232",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Pikachu-GXSMPromo232.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM233",
+            "name": "Eevee-GX",
+            "number": "SM233",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/Eevee-GXSMPromo233.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM234",
+            "name": "Pikachu",
+            "number": "SM234",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/PikachuSMPromo234.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM235",
+            "name": "Eevee",
+            "number": "SM235",
+            "image": "https://media.pokemoncentral.it/wiki/1/1c/EeveeSMPromo235.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM236",
+            "name": "Sandslash di Alola-GX",
+            "number": "SM236",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/SandslashdiAlola-GXSMPromo236.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM237",
+            "name": "Leafeon",
+            "number": "SM237",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/LeafeonSMPromo237.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM238",
+            "name": "Glaceon",
+            "number": "SM238",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/GlaceonSMPromo238.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM239",
+            "name": "Carracosta-GX",
+            "number": "SM239",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/Carracosta-GXSMPromo239.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM240",
+            "name": "Espeon e Deoxys-GX",
+            "number": "SM240",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/EspeoneDeoxys-GXSMPromo240.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM241",
+            "name": "Umbreon e Darkrai-GX",
+            "number": "SM241",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/UmbreoneDarkrai-GXSMPromo241.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM242",
+            "name": "Eevee-GX",
+            "number": "SM242",
+            "image": "https://media.pokemoncentral.it/wiki/a/a1/Eevee-GXSMPromo242.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM243",
+            "name": "Regigigas",
+            "number": "SM243",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/RegigigasSMPromo243.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM244",
+            "name": "Aipom",
+            "number": "SM244",
+            "image": "https://media.pokemoncentral.it/wiki/5/5b/AipomSMPromo244.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM245",
+            "name": "Mismagius",
+            "number": "SM245",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/MismagiusSMPromo245.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM246",
+            "name": "Sabrina e Silvestro",
+            "number": "SM246",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/SabrinaeSilvestroSMPromo246.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM247",
+            "name": "Reshiram & Charizard-GX",
+            "number": "SM247",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ReshirameCharizard-GXSMPromo247.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM248",
+            "name": "Pikachu & Zekrom-GX",
+            "number": "SM248",
+            "image": "https://media.pokemoncentral.it/wiki/f/f0/PikachueZekrom-GXSMPromo248.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SMP-SM30a",
+            "name": "Tapu Koko",
+            "number": "SM30a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "SMP-SM103a",
+            "name": "Lunala-GX",
+            "number": "SM103a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        },
+        {
+            "id": "SMP-SM104a",
+            "name": "Solgaleo-GX",
+            "number": "SM104a",
+            "image": null,
+            "section": "Alternativa A gialla"
+        }
+    ]
+}

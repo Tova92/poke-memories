@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP4",
+        "name": "POP Serie 4",
+        "period": "2006-2007",
+        "sortOrder": 4,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetPOP_Serie_4.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP4-1/17",
+            "name": "Chimecho δ",
+            "number": "1/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/fa/ChimechoPOPSerie4-1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-2/17",
+            "name": "Deoxys δ [Normale]",
+            "number": "2/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/DeoxysPOPSerie4-2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-3/17",
+            "name": "Flygon",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FlygonPOPSerie4-3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-4/17",
+            "name": "Mew",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/MewPOPSerie4-4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-5/17",
+            "name": "Sceptile",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/SceptilePOPSerie4-5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-6/17",
+            "name": "Combusken",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/CombuskenPOPSerie4-6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-7/17",
+            "name": "Grovyle",
+            "number": "7/17",
+            "image": "https://media.pokemoncentral.it/wiki/3/37/GrovylePOPSerie4-7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-8/17",
+            "name": "Heal Energy",
+            "number": "8/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-9/17",
+            "name": "Pokémon Fan Club",
+            "number": "9/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/Pok%C3%A9monFanClubPOPSerie4-9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-10/17",
+            "name": "Scramble Energy",
+            "number": "10/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-11/17",
+            "name": "Mudkip",
+            "number": "11/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/MudkipPOPSerie4-11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-12/17",
+            "name": "Pidgey",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/da/PidgeyPOPSerie4-12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-13/17",
+            "name": "Pikachu",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/PikachuPOPSerie4-13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-14/17",
+            "name": "Squirtle",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/SquirtlePOPSerie4-14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-15/17",
+            "name": "Treecko δ",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/TreeckoPOPSerie4-15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-16/17",
+            "name": "Wobbuffet",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/WobbuffetPOPSerie4-16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP4-17/17",
+            "name": "Deoxys ex [Speed]",
+            "number": "17/17",
+            "image": null,
+            "section": "Set principale"
+        }
+    ]
+}

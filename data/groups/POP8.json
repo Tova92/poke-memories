@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP8",
+        "name": "POP Serie 8",
+        "period": "2008-2009",
+        "sortOrder": 8,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a1/SimboloSetPOP_Serie_8.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP8-1/17",
+            "name": "Heatran",
+            "number": "1/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/HeatranPOPSerie8-1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-2/17",
+            "name": "Lucario",
+            "number": "2/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/LucarioPOPSerie8-2.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-3/17",
+            "name": "Luxray",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/LuxrayPOPSerie8-3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-4/17",
+            "name": "Probopass",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/ProbopassPOPSerie8-4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-5/17",
+            "name": "Yanmega",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/YanmegaPOPSerie8-5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-6/17",
+            "name": "Cherrim",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/CherrimPOPSerie8-6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-7/17",
+            "name": "Carnivine",
+            "number": "7/17",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/CarnivinePOPSerie8-7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-8/17",
+            "name": "Luxio",
+            "number": "8/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/LuxioPOPSerie8-8.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-9/17",
+            "name": "Manutenzione Notturna",
+            "number": "9/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-10/17",
+            "name": "Caramella Rara",
+            "number": "10/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-11/17",
+            "name": "Ricerca di Rosabella",
+            "number": "11/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-12/17",
+            "name": "Chimchar",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ChimcharPOPSerie8-12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-13/17",
+            "name": "Croagunk",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/CroagunkPOPSerie8-13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-14/17",
+            "name": "Happiny",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/HappinyPOPSerie8-14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-15/17",
+            "name": "Piplup",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/PiplupPOPSerie8-15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-16/17",
+            "name": "Riolu",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/a/a8/RioluPOPSerie8-16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP8-17/17",
+            "name": "Turtwig",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/TurtwigPOPSerie8-17.png",
+            "section": "Set principale"
+        }
+    ]
+}

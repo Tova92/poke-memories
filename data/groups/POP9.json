@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP9",
+        "name": "POP Serie 9",
+        "period": "2009-2009",
+        "sortOrder": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b3/SimboloSetPOP_Serie_9.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP9-1/17",
+            "name": "Garchomp",
+            "number": "1/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-2/17",
+            "name": "Manaphy",
+            "number": "2/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-3/17",
+            "name": "Raichu",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/RaichuPOPSerie9-3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-4/17",
+            "name": "Regigigas",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/RegigigasPOPSerie9-4.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-5/17",
+            "name": "Rotom",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/RotomPOPSerie9-5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-6/17",
+            "name": "Buizel",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/BuizelPOPSerie9-6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-7/17",
+            "name": "Croagunk",
+            "number": "7/17",
+            "image": "https://media.pokemoncentral.it/wiki/1/13/CroagunkPOPSerie9-7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-8/17",
+            "name": "Gabite",
+            "number": "8/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-9/17",
+            "name": "Lopunny",
+            "number": "9/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/LopunnyPOPSerie9-9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-10/17",
+            "name": "Pachirisu",
+            "number": "10/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/PachirisuPOPSerie9-10.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-11/17",
+            "name": "Pichu",
+            "number": "11/17",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/PichuPOPSerie9-11.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-12/17",
+            "name": "Buneary",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/BunearyPOPSerie9-12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-13/17",
+            "name": "Chimchar",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/ChimcharPOPSerie9-13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-14/17",
+            "name": "Gible",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/GiblePOPSerie9-14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-15/17",
+            "name": "Pikachu",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/PikachuPOPSerie9-15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-16/17",
+            "name": "Piplup",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/PiplupPOPSerie9-16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP9-17/17",
+            "name": "Turtwig",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/9c/TurtwigPOPSerie9-17.png",
+            "section": "Set principale"
+        }
+    ]
+}

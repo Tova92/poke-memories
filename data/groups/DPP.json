@@ -1,0 +1,405 @@
+{
+    "group": {
+        "id": "DPP",
+        "name": "DP Black Star Promos",
+        "period": "Diamante & Perla",
+        "sortOrder": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
+        "cardCount": 56
+    },
+    "cards": [
+        {
+            "id": "DPP-DP01",
+            "name": "Turtwig",
+            "number": "DP01",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP02",
+            "name": "Chimchar",
+            "number": "DP02",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP03",
+            "name": "Piplup",
+            "number": "DP03",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/PiplupDPPromo3.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP04",
+            "name": "Pachirisu",
+            "number": "DP04",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP05",
+            "name": "Vento Tropicale",
+            "number": "DP05",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/VentoTropicaleDPPromo5.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP06",
+            "name": "Buneary",
+            "number": "DP06",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP07",
+            "name": "Cranidos",
+            "number": "DP07",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP08",
+            "name": "Shieldon",
+            "number": "DP08",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP09",
+            "name": "Torterra LV.X",
+            "number": "DP09",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP10",
+            "name": "Infernape LV.X",
+            "number": "DP10",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP11",
+            "name": "Empoleon LV.X",
+            "number": "DP11",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP12",
+            "name": "Lucario LV.X",
+            "number": "DP12",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP13",
+            "name": "Buizel",
+            "number": "DP13",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP14",
+            "name": "Chatot",
+            "number": "DP14",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP15",
+            "name": "Shinx",
+            "number": "DP15",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP16",
+            "name": "Pikachu",
+            "number": "DP16",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/PikachuDPPromo16.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP17",
+            "name": "Dialga LV.X",
+            "number": "DP17",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/DialgaLVXDPPromo17.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP18",
+            "name": "Palkia LV.X",
+            "number": "DP18",
+            "image": "https://media.pokemoncentral.it/wiki/2/28/PalkiaLVXDPPromo18.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP19",
+            "name": "Darkrai LV.X",
+            "number": "DP19",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/DarkraiLVXDPPromo19.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP20",
+            "name": "Magmortar",
+            "number": "DP20",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP21",
+            "name": "Raichu",
+            "number": "DP21",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP22",
+            "name": "Mime Jr.",
+            "number": "DP22",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP23",
+            "name": "Glameow",
+            "number": "DP23",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP24",
+            "name": "Darkrai",
+            "number": "DP24",
+            "image": "https://media.pokemoncentral.it/wiki/7/7a/DarkraiDPPromo24.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP25",
+            "name": "Vento Tropicale",
+            "number": "DP25",
+            "image": "https://media.pokemoncentral.it/wiki/c/ca/VentoTropicaleDPPromo25.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP26",
+            "name": "Dialga",
+            "number": "DP26",
+            "image": "https://media.pokemoncentral.it/wiki/2/2b/DialgaDPPromo26.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP27",
+            "name": "Palkia",
+            "number": "DP27",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP28",
+            "name": "Mewtwo LV.X",
+            "number": "DP28",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP29",
+            "name": "Rhyperior LV.X",
+            "number": "DP29",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP30",
+            "name": "Regigigas LV.X",
+            "number": "DP30",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP31",
+            "name": "Heatran LV.X",
+            "number": "DP31",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP32",
+            "name": "Magnezone",
+            "number": "DP32",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP33",
+            "name": "Dusknoir",
+            "number": "DP33",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP34",
+            "name": "Drifblim",
+            "number": "DP34",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP35",
+            "name": "Porygon-Z",
+            "number": "DP35",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP36",
+            "name": "Gliscor",
+            "number": "DP36",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP37",
+            "name": "Dialga LV.X",
+            "number": "DP37",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/DialgaLVXDPPromo37.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP38",
+            "name": "Giratina LV.X",
+            "number": "DP38",
+            "image": "https://media.pokemoncentral.it/wiki/d/d1/GiratinaLVXDPPromo38.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP39",
+            "name": "Shaymin LV.X",
+            "number": "DP39",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP40",
+            "name": "Regigigas",
+            "number": "DP40",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP41",
+            "name": "Toxicroak G",
+            "number": "DP41",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP42",
+            "name": "Carnivine G",
+            "number": "DP42",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP43",
+            "name": "Probopass G",
+            "number": "DP43",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP44",
+            "name": "Magnezone",
+            "number": "DP44",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP45",
+            "name": "Charizard G LV.X",
+            "number": "DP45",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/CharizardGLVXDPPromo45.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP46",
+            "name": "Garchomp C LV.X",
+            "number": "DP46",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP47",
+            "name": "Rayquaza C LV.X",
+            "number": "DP47",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/RayquazaCLVXDPPromo47.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP48",
+            "name": "Vento Tropicale",
+            "number": "DP48",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/VentoTropicaleDPPromo48.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP49",
+            "name": "Dialga",
+            "number": "DP49",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP50",
+            "name": "Arceus",
+            "number": "DP50",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/ArceusDPPromo50.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP51",
+            "name": "Cresselia",
+            "number": "DP51",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP52",
+            "name": "Darkrai",
+            "number": "DP52",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/DarkraiDPPromo52.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP53",
+            "name": "Arceus LV.X",
+            "number": "DP53",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/ArceusLVXDPPromo53.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP54",
+            "name": "Beginning Door",
+            "number": "DP54",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP55",
+            "name": "Ultimate Zone",
+            "number": "DP55",
+            "image": null,
+            "section": "Non ordinate"
+        },
+        {
+            "id": "DPP-DP56",
+            "name": "Arceus LV.X",
+            "number": "DP56",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/ArceusLVXDPPromo56.jpg",
+            "section": "Non ordinate"
+        }
+    ]
+}

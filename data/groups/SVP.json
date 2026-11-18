@@ -1,0 +1,1595 @@
+{
+    "group": {
+        "id": "SVP",
+        "name": "Promo stella nera SVP",
+        "period": "Scarlatto e Violetto",
+        "sortOrder": 9,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/9/9d/SimboloSetPromo_stella_nera_SVP.png",
+        "cardCount": 226
+    },
+    "cards": [
+        {
+            "id": "SVP-001",
+            "name": "Sprigatito",
+            "number": "001",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/SprigatitoSVPPromo1.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-002",
+            "name": "Fuecoco",
+            "number": "002",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/FuecocoSVPPromo2.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-003",
+            "name": "Quaxly",
+            "number": "003",
+            "image": "https://media.pokemoncentral.it/wiki/3/31/QuaxlySVPPromo3.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-004",
+            "name": "Mimikyu-ex",
+            "number": "004",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Mimikyu-exSVPPromo4.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-005",
+            "name": "Quaquaval",
+            "number": "005",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/QuaquavalSVPPromo5.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-006",
+            "name": "Pawmot",
+            "number": "006",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/PawmotSVPPromo6.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-007",
+            "name": "Hawlucha",
+            "number": "007",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/HawluchaSVPPromo7.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-008",
+            "name": "Revavroom",
+            "number": "008",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/RevavroomSVPPromo8.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-009",
+            "name": "Spidops",
+            "number": "009",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/SpidopsSVPPromo9.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-010",
+            "name": "Espathra",
+            "number": "010",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/EspathraSVPPromo10.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-011",
+            "name": "Arcanine",
+            "number": "011",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/ArcanineSVPPromo11.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-012",
+            "name": "Dondozo",
+            "number": "012",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/DondozoSVPPromo12.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-013",
+            "name": "Miraidon",
+            "number": "013",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MiraidonSVPPromo13.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-014",
+            "name": "Koraidon",
+            "number": "014",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/KoraidonSVPPromo14.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-015",
+            "name": "Flaaffy",
+            "number": "015",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/FlaffySVPPromo15.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-016",
+            "name": "Ampharos-ex",
+            "number": "016",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/Ampharos-exSVPPromo16.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-017",
+            "name": "Lucario-ex",
+            "number": "017",
+            "image": "https://media.pokemoncentral.it/wiki/e/e2/Lucario-exSVPPromo17.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-018",
+            "name": "Cyclizar-ex",
+            "number": "018",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/Cyclizar-exSVPPromo18.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-019",
+            "name": "Baxcalibur",
+            "number": "019",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/BaxcaliburSVPPromo19.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-020",
+            "name": "Tinkaton",
+            "number": "020",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/TinkatonSVPPromo20.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-021",
+            "name": "Murkrow",
+            "number": "021",
+            "image": "https://media.pokemoncentral.it/wiki/c/c9/MurkrowSVPPromo21.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-022",
+            "name": "Pelipper",
+            "number": "022",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/PelipperSVPPromo22.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-023",
+            "name": "Smoliv",
+            "number": "023",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/SmolivSVPPromo23.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-024",
+            "name": "Growlithe",
+            "number": "024",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/GrowlitheSVPPromo24.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-025",
+            "name": "Tinkatink",
+            "number": "025",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/TinkatinkSVPPromo25.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-026",
+            "name": "Varoom",
+            "number": "026",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/VaroomSVPPromo26.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-027",
+            "name": "Pikachu",
+            "number": "027",
+            "image": "https://media.pokemoncentral.it/wiki/c/c4/PikachuSVPPromo27.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-028",
+            "name": "Miraidon-ex",
+            "number": "028",
+            "image": "https://media.pokemoncentral.it/wiki/0/06/Miraidon-exSVPPromo28.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-029",
+            "name": "Koraidon-ex",
+            "number": "029",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/Koraidon-exSVPPromo29.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-030",
+            "name": "Chien-Pao-ex",
+            "number": "030",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Chien-Pao-exSVPPromo30.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-031",
+            "name": "Tinkaton-ex",
+            "number": "031",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/Tinkaton-exSVPPromo31.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-032",
+            "name": "Annihilape-ex",
+            "number": "032",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/Annihilape-exSVPPromo32.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-033",
+            "name": "Meowscarada-ex",
+            "number": "033",
+            "image": "https://media.pokemoncentral.it/wiki/a/a3/Meowscarada-exSVPPromo33.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-034",
+            "name": "Skeledirge-ex",
+            "number": "034",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/Skeledirge-exSVPPromo34.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-035",
+            "name": "Quaquaval-ex",
+            "number": "035",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/Quaquaval-exSVPPromo35.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-036",
+            "name": "Palafin",
+            "number": "036",
+            "image": "https://media.pokemoncentral.it/wiki/0/09/PalafinSVPPromo36.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-037",
+            "name": "Cleffa",
+            "number": "037",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/CleffaSVPPromo37.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-038",
+            "name": "Togekiss",
+            "number": "038",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/TogekissSVPPromo38.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-039",
+            "name": "Mawile",
+            "number": "039",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/MawileSVPPromo39.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-040",
+            "name": "Pawmi",
+            "number": "040",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/PawmiSVPPromo40.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-041",
+            "name": "Wooper di Paldea",
+            "number": "041",
+            "image": "https://media.pokemoncentral.it/wiki/c/c5/WooperdiPaldeaSVPPromo41.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-042",
+            "name": "Houndstone",
+            "number": "042",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/HoundstoneSVPPromo42.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-043",
+            "name": "Eevee",
+            "number": "043",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/EeveeSVPPromo43.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-044",
+            "name": "Charmander",
+            "number": "044",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/CharmanderSVPPromo44.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-045",
+            "name": "Resort Paradiso",
+            "number": "045",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/ResortParadisoSVPPromo45.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-046",
+            "name": "Bulbasaur",
+            "number": "046",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/BulbasaurSVPPromo46.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-047",
+            "name": "Charmander",
+            "number": "047",
+            "image": "https://media.pokemoncentral.it/wiki/4/49/CharmanderSVPPromo47.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-048",
+            "name": "Squirtle",
+            "number": "048",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/SquirtleSVPPromo48.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-049",
+            "name": "Zapdos-ex",
+            "number": "049",
+            "image": "https://media.pokemoncentral.it/wiki/1/16/Zapdos-exSVPPromo49.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-050",
+            "name": "Alakazam-ex",
+            "number": "050",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Alakazam-exSVPPromo50.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-051",
+            "name": "Snorlax",
+            "number": "051",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/SnorlaxSVPPromo51.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-052",
+            "name": "Mewtwo",
+            "number": "052",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/MewtwoSVPPromo52.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-053",
+            "name": "Mew-ex",
+            "number": "053",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/Mew-exSVPPromo53.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-054",
+            "name": "Greninja-ex",
+            "number": "054",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/Greninja-exSVPPromo54.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-055",
+            "name": "Kangaskhan-ex",
+            "number": "055",
+            "image": "https://media.pokemoncentral.it/wiki/7/70/Kangaskhan-exSVPPromo55.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-056",
+            "name": "Charizard-ex",
+            "number": "056",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/Charizard-exSVPPromo56.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-057",
+            "name": "Chi-Yu",
+            "number": "057",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/Chi-YuSVPPromo57.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-058",
+            "name": "Saccoferreo",
+            "number": "058",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/SaccoferreoSVPPromo58.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-059",
+            "name": "Xatu",
+            "number": "059",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/XatuSVPPromo59.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-060",
+            "name": "Aegislash",
+            "number": "060",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/AegislashSVPPromo60.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-061",
+            "name": "Pineco",
+            "number": "061",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/PinecoSVPPromo61.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-062",
+            "name": "Sinistea",
+            "number": "062",
+            "image": "https://media.pokemoncentral.it/wiki/5/51/SinsteaSVPPromo62.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-063",
+            "name": "Cetitan",
+            "number": "063",
+            "image": "https://media.pokemoncentral.it/wiki/2/23/CetitanSVPPromo63.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-064",
+            "name": "Arctibax",
+            "number": "064",
+            "image": "https://media.pokemoncentral.it/wiki/c/cf/ArctibaxSVPPromo64.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-065",
+            "name": "Codaurlante",
+            "number": "065",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/CodaurlanteSVPPromo65.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-066",
+            "name": "Saccoferreo",
+            "number": "066",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/SaccoferreoSVPPromo66.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-067",
+            "name": "Lunaruggente-ex",
+            "number": "067",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/Lunaruggente-exSVPPromo67.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-068",
+            "name": "Eroeferreo-ex",
+            "number": "068",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/Eroeferreo-exSVPPromo68.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-069",
+            "name": "Fidough",
+            "number": "069",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/FidoughSVPPromo69.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-070",
+            "name": "Greavard",
+            "number": "070",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/GreavardSVPPromo70.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-071",
+            "name": "Maschiff",
+            "number": "071",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/MaschiffSVPPromo71.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-072",
+            "name": "Grandizanne-ex",
+            "number": "072",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/Grandizanne-exSVPPromo72.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-073",
+            "name": "Solcoferreo-ex",
+            "number": "073",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/Solcoferreo-exSVPPromo73.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-074",
+            "name": "Charizard-ex",
+            "number": "074",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/Charizard-exSVPPromo74.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-075",
+            "name": "Mimikyu",
+            "number": "075",
+            "image": "https://media.pokemoncentral.it/wiki/8/8f/MimikyuSVPPromo75.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-076",
+            "name": "Sprigatito",
+            "number": "076",
+            "image": "https://media.pokemoncentral.it/wiki/2/24/SprigatitoSVPPromo76.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-077",
+            "name": "Floragato",
+            "number": "077",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/FloragatoSVPPromo77.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-078",
+            "name": "Meowscarada-ex",
+            "number": "078",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/Meowscarada-exSVPPromo78.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-079",
+            "name": "Fuecoco",
+            "number": "079",
+            "image": "https://media.pokemoncentral.it/wiki/3/3d/FuecocoSVPPromo79.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-080",
+            "name": "Crocalor",
+            "number": "080",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/CrocalorSVPPromo80.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-081",
+            "name": "Skeledirge-ex",
+            "number": "081",
+            "image": "https://media.pokemoncentral.it/wiki/2/27/Skeledirge-exSVPPromo81.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-082",
+            "name": "Quaxly",
+            "number": "082",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/QuaxlySVPPromo82.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-083",
+            "name": "Quaxwell",
+            "number": "083",
+            "image": "https://media.pokemoncentral.it/wiki/1/11/QuaxwellSVPPromo83.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-084",
+            "name": "Quaquaval-ex",
+            "number": "084",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/Quaquaval-exSVPPromo84.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-085",
+            "name": "Pikachu with Grey Felt Hat",
+            "number": "085",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/PikachuwithGreyFeltHatSVPPromo85.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-086",
+            "name": "Mabosstiff-ex",
+            "number": "086",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/Mabostiff-exSVPPromo86.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-087",
+            "name": "Sprigatito-ex",
+            "number": "087",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/Sprigatito-exSVPPromo87.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-088",
+            "name": "Pikachu",
+            "number": "088",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/PikachuSVPPromo88.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-089",
+            "name": "Feraligatr",
+            "number": "089",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/FeraligatrSVPPromo89.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-090",
+            "name": "Metang",
+            "number": "090",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/MetangSVPPromo90.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-091",
+            "name": "Koraidon",
+            "number": "091",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/KoraidonSVPPromo91.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-092",
+            "name": "Miraidon",
+            "number": "092",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/MiraidonSVPPromo92.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-093",
+            "name": "Carvanha",
+            "number": "093",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/CarvanhaSVPPromo93.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-094",
+            "name": "Bellibolt",
+            "number": "094",
+            "image": "https://media.pokemoncentral.it/wiki/b/b8/BelliboltSVPPromo94.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-095",
+            "name": "Cleffa",
+            "number": "095",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/CleffaSVPPromo95.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-096",
+            "name": "Cyclizar",
+            "number": "096",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/CyclizarSVPPromo96.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-097",
+            "name": "Crinealato",
+            "number": "097",
+            "image": "https://media.pokemoncentral.it/wiki/f/f9/CrinealatoSVPPromo97.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-098",
+            "name": "Spineferree",
+            "number": "098",
+            "image": "https://media.pokemoncentral.it/wiki/e/e3/SpineferreeSVPPromo98.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-099",
+            "name": "Shroodle",
+            "number": "099",
+            "image": "https://media.pokemoncentral.it/wiki/d/d4/ShroodleSVPPromo99.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-100",
+            "name": "Grafaiai-ex",
+            "number": "100",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Grafaiai-exSVPPromo100.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-101",
+            "name": "Pikachu",
+            "number": "101",
+            "image": "https://media.pokemoncentral.it/wiki/0/04/PikachuSVPPromo101.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-102",
+            "name": "Oddish",
+            "number": "102",
+            "image": "https://media.pokemoncentral.it/wiki/9/9e/OddishSVPPromo102.jpg",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-103",
+            "name": "Houndoom-ex",
+            "number": "103",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/Houndoom-exSVPPromo103.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-104",
+            "name": "Melmetal-ex",
+            "number": "104",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/Melmetal-exSVPPromo104.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-105",
+            "name": "Armarouge-ex",
+            "number": "105",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/Armarouge-exSVPPromo105.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-106",
+            "name": "Pikachu-ex",
+            "number": "106",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/Pikachu-exSVPPromo106.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-107",
+            "name": "Mareep",
+            "number": "107",
+            "image": "https://media.pokemoncentral.it/wiki/9/97/MareepSVPPromo107.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-108",
+            "name": "Flaaffy",
+            "number": "108",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/FlaffySVPPromo108.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-109",
+            "name": "Ampharos",
+            "number": "109",
+            "image": "https://media.pokemoncentral.it/wiki/8/82/AmpharosSVPPromo109.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-110",
+            "name": "Darkrai-ex",
+            "number": "110",
+            "image": "https://media.pokemoncentral.it/wiki/1/1b/Darkrai-exSVPPromo110.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-111",
+            "name": "Pawniard",
+            "number": "111",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/PawniardSVPPromo111.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-112",
+            "name": "Bisharp",
+            "number": "112",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/BisharpSVPPromo112.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-113",
+            "name": "Kingambit",
+            "number": "113",
+            "image": "https://media.pokemoncentral.it/wiki/5/50/KingambitSVPPromo113.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-114",
+            "name": "Fan dei picnic",
+            "number": "114",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/FandeipicnicSVPPromo114.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-115",
+            "name": "Thwackey",
+            "number": "115",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/ThwackeySVPPromo115.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-116",
+            "name": "Infernape",
+            "number": "116",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/InfernapeSVPPromo116.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-117",
+            "name": "Froslass",
+            "number": "117",
+            "image": "https://media.pokemoncentral.it/wiki/5/57/FroslassSVPPromo117.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-118",
+            "name": "Tatsugiri",
+            "number": "118",
+            "image": "https://media.pokemoncentral.it/wiki/4/4c/TatsugiriSVPPromo118.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-119",
+            "name": "Toxel",
+            "number": "119",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/ToxelSVPPromo119.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-120",
+            "name": "Pupitar",
+            "number": "120",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/PupitarSVPPromo120.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-121",
+            "name": "Revavroom",
+            "number": "121",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/RevavroomSVPPromo121.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-122",
+            "name": "Snorlax",
+            "number": "122",
+            "image": "https://media.pokemoncentral.it/wiki/b/b6/SnorlaxSVPPromo122.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-123",
+            "name": "Ogerpon Maschera Turchese",
+            "number": "123",
+            "image": "https://media.pokemoncentral.it/wiki/9/9b/OgerponMascheraTurcheseSVPPromo123.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-124",
+            "name": "Kissara",
+            "number": "124",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/KissaraSVPPromo124.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-125",
+            "name": "Armarouge-ex",
+            "number": "125",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Armarouge-exSVPPromo125.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-126",
+            "name": "Palafin-ex",
+            "number": "126",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Palafin-exSVPPromo126.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-127",
+            "name": "Acquecrespe-ex",
+            "number": "127",
+            "image": "https://media.pokemoncentral.it/wiki/5/58/Acquecrespe-exSVPPromo127.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-128",
+            "name": "Fogliaferrea-ex",
+            "number": "128",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/Fogliaferrea-exSVPPromo128.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-129",
+            "name": "Pecharunt",
+            "number": "129",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/PecharuntSVPPromo129.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-130",
+            "name": "Kingambit",
+            "number": "130",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/KingambitSVPPromo130.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-131",
+            "name": "Kingdra-ex",
+            "number": "131",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Kingdra-exSVPPromo131.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-132",
+            "name": "Greninja-ex",
+            "number": "132",
+            "image": "https://media.pokemoncentral.it/wiki/3/36/Greninja-exSVPPromo132.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-133",
+            "name": "Ledian",
+            "number": "133",
+            "image": "https://media.pokemoncentral.it/wiki/7/7d/LedianSVPPromo133.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-134",
+            "name": "Crabominable",
+            "number": "134",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/CrabominableSVPPromo134.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-135",
+            "name": "Drifblim",
+            "number": "135",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/DrifblimSVPPromo135.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-136",
+            "name": "Bouffalant",
+            "number": "136",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/BouffalantSVPPromo136.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-137",
+            "name": "Horsea",
+            "number": "137",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/HorseaSVPPromo137.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-138",
+            "name": "Porygon2",
+            "number": "138",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/Porygon2SVPPromo138.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-139",
+            "name": "Latias",
+            "number": "139",
+            "image": "https://media.pokemoncentral.it/wiki/2/2e/LatiasSVPPromo139.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-140",
+            "name": "Tinkaton",
+            "number": "140",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/TinkatonSVPPromo140.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-141",
+            "name": "Noctowl",
+            "number": "141",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/NoctowlSVPPromo141.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-142",
+            "name": "Victini-ex",
+            "number": "142",
+            "image": "https://media.pokemoncentral.it/wiki/7/74/Victini-exSVPPromo142.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-143",
+            "name": "Miraidon-ex",
+            "number": "143",
+            "image": "https://media.pokemoncentral.it/wiki/7/7f/Miraidon-exSVPPromo143.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-144",
+            "name": "Vampeaguzze-ex",
+            "number": "144",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/Vampeaguzze-exSVPPromo144.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-145",
+            "name": "Furiatonante-ex",
+            "number": "145",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/Furiatonante-exSVPPromo145.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-146",
+            "name": "Capoferreo-ex",
+            "number": "146",
+            "image": "https://media.pokemoncentral.it/wiki/6/67/Capoferreo-exSVPPromo146.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-147",
+            "name": "Massoferreo-ex",
+            "number": "147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Massoferreo-exSVPPromo147.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-148",
+            "name": "Miraidon",
+            "number": "148",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/MiraidonSVPPromo148.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-149",
+            "name": "Pecharunt",
+            "number": "149",
+            "image": "https://media.pokemoncentral.it/wiki/7/73/PecharuntSVPPromo149.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-150",
+            "name": "Resort Paradiso",
+            "number": "150",
+            "image": "https://media.pokemoncentral.it/wiki/5/5f/ResortParadisoSVPPromo150.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-151",
+            "name": "Vampeaguzze",
+            "number": "151",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/VampeaguzzeSVPPromo151.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-152",
+            "name": "Chien-Pao",
+            "number": "152",
+            "image": "https://media.pokemoncentral.it/wiki/1/1a/Chien-PaoSVPPromo152.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-153",
+            "name": "Magneton",
+            "number": "153",
+            "image": "https://media.pokemoncentral.it/wiki/7/71/MagnetonSVPPromo153.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-154",
+            "name": "Indeedee",
+            "number": "154",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/IndeedeeSVPPromo154.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-155",
+            "name": "Wooper",
+            "number": "155",
+            "image": "https://media.pokemoncentral.it/wiki/0/0c/WooperSVPPromo155.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-156",
+            "name": "Quagsire",
+            "number": "156",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/QuagsireSVPPromo156.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-157",
+            "name": "Zapdos",
+            "number": "157",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/ZapdosSVPPromo157.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-158",
+            "name": "Pachirisu",
+            "number": "158",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/PachirisuSVPPromo158.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-159",
+            "name": "Magneton",
+            "number": "159",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/MagnetonSVPPromo159.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-160",
+            "name": "Squawkabilly-ex",
+            "number": "160",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/Squawkabilly-exSVPPromo160.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-161",
+            "name": "Charizard-ex",
+            "number": "161",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/Charizard-exSVPPromo161.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-162",
+            "name": "Houndstone-ex",
+            "number": "162",
+            "image": "https://media.pokemoncentral.it/wiki/0/08/Houndstone-exSVPPromo162.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-163",
+            "name": "Cinderace-ex",
+            "number": "163",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/Cinderace-exSVPPromo163.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-164",
+            "name": "Lapras-ex",
+            "number": "164",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/Lapras-exSVPPromo164.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-165",
+            "name": "Terapagos-ex",
+            "number": "165",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/Terapagos-exSVPPromo165.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-166",
+            "name": "Ogerpon Maschera Turchese-ex",
+            "number": "166",
+            "image": "https://media.pokemoncentral.it/wiki/4/45/OgerponMascheraTurchese-exSVPPromo166.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-167",
+            "name": "Flareon",
+            "number": "167",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/FlareonSVPPromo167.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-168",
+            "name": "Vaporeon",
+            "number": "168",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/VaporeonSVPPromo168.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-169",
+            "name": "Jolteon",
+            "number": "169",
+            "image": "https://media.pokemoncentral.it/wiki/1/14/JolteonSVPPromo169.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-170",
+            "name": "Leafeon",
+            "number": "170",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/LeafeonSVPPromo170.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-171",
+            "name": "Glaceon",
+            "number": "171",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/GlaceonSVPPromo171.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-172",
+            "name": "Sylveon",
+            "number": "172",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SylveonSVPPromo172.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-173",
+            "name": "Eevee",
+            "number": "173",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/EeveeSVPPromo173.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-174",
+            "name": "Eevee-ex",
+            "number": "174",
+            "image": "https://media.pokemoncentral.it/wiki/9/90/Eevee-exSVPPromo174.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-175",
+            "name": "Espeon-ex",
+            "number": "175",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/Espeon-exSVPPromo175.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-176",
+            "name": "Umbreon-ex",
+            "number": "176",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/Umbreon-exSVPPromo176.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-177",
+            "name": "Ursaluna Luna Cremisi-ex",
+            "number": "177",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/UrsalunaLunaCremisi-exSVPPromo177.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-178",
+            "name": "Kyogre-ex",
+            "number": "178",
+            "image": "https://media.pokemoncentral.it/wiki/4/46/Kyogre-exSVPPromo178.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-179",
+            "name": "Xerneas-ex",
+            "number": "179",
+            "image": "https://media.pokemoncentral.it/wiki/0/00/Xerneas-exSVPPromo179.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-180",
+            "name": "Dialga-ex",
+            "number": "180",
+            "image": "https://media.pokemoncentral.it/wiki/d/d8/Dialga-exSVPPromo180.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-181",
+            "name": "Darmanitan di N",
+            "number": "181",
+            "image": "https://media.pokemoncentral.it/wiki/8/80/DarmanitandiNSVPPromo181.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-182",
+            "name": "Kilowattrel di Kissara",
+            "number": "182",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/KilowattreldiKissaraSVPPromo182.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-183",
+            "name": "Ribombee di Lylia",
+            "number": "183",
+            "image": "https://media.pokemoncentral.it/wiki/6/68/RibombeediLyliaSVPPromo183.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-184",
+            "name": "Snorlax di Hop",
+            "number": "184",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/SnorlaxdiHopSVPPromo184.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-185",
+            "name": "Yanma",
+            "number": "185",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/YanmaSVPPromo185.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-186",
+            "name": "Scraggy",
+            "number": "186",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/ScraggySVPPromo186.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-187",
+            "name": "Yanmega",
+            "number": "187",
+            "image": "https://media.pokemoncentral.it/wiki/d/df/YanmegaSVPPromo187.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-188",
+            "name": "Scrafty",
+            "number": "188",
+            "image": "https://media.pokemoncentral.it/wiki/1/18/ScraftySVPPromo188.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-189",
+            "name": "Zorua di N",
+            "number": "189",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/ZoruadiNSVPPromo189.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-190",
+            "name": "Pikachu",
+            "number": "190",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/PikachuSVPPromo190.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-191",
+            "name": "Sprigatito",
+            "number": "191",
+            "image": "https://media.pokemoncentral.it/wiki/9/96/SprigatitoSVPPromo191.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-192",
+            "name": "Fuecoco",
+            "number": "192",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/FuecocoSVPPromo192.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-193",
+            "name": "Zacian-ex di Hop",
+            "number": "193",
+            "image": "https://media.pokemoncentral.it/wiki/4/41/Zacian-exdiHopSVPPromo193.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-194",
+            "name": "Bellibolt-ex di Kissara",
+            "number": "194",
+            "image": "https://media.pokemoncentral.it/wiki/3/39/Bellibolt-exdiKissaraSVPPromo194.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-195",
+            "name": "Clefairy-ex di Lylia",
+            "number": "195",
+            "image": "https://media.pokemoncentral.it/wiki/5/53/Clefairy-exdiLyliaSVPPromo195.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-196",
+            "name": "Charizard-ex",
+            "number": "196",
+            "image": "https://media.pokemoncentral.it/wiki/a/a6/Charizard-exSVPPromo196.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-197",
+            "name": "Koraidon-ex",
+            "number": "197",
+            "image": "https://media.pokemoncentral.it/wiki/4/4e/Koraidon-exSVPPromo197.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-198",
+            "name": "Zacian-ex",
+            "number": "198",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/Zacian-exSVPPromo198.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-199",
+            "name": "Zarude",
+            "number": "199",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/ZarudeSVPPromo199.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-200",
+            "name": "Eevee",
+            "number": "200",
+            "image": "https://media.pokemoncentral.it/wiki/c/c8/EeveeSVPPromo200.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-201",
+            "name": "Zebstrika",
+            "number": "201",
+            "image": "https://media.pokemoncentral.it/wiki/7/7c/ZebstrikaSVPPromo201.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-202",
+            "name": "Kangaskhan",
+            "number": "202",
+            "image": "https://media.pokemoncentral.it/wiki/6/62/KangaskhanSVPPromo202.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-203",
+            "name": "Wobbuffet del Team Rocket",
+            "number": "203",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/WobbuffetdelTeamRocketSVPPromo203.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-204",
+            "name": "Garchomp-ex di Camilla",
+            "number": "204",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/Garchomp-exdiCamillaSVPPromo204.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-205",
+            "name": "Mewtwo-ex del Team Rocket",
+            "number": "205",
+            "image": "https://media.pokemoncentral.it/wiki/e/e8/Mewtwo-exdelTeamRocketSVPPromo205.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-206",
+            "name": "Morpeko di Mary",
+            "number": "206",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MorpekodiMarySVPPromo206.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-207",
+            "name": "Beldum di Rocco",
+            "number": "207",
+            "image": "https://media.pokemoncentral.it/wiki/0/05/BeldumdiRoccoSVPPromo207.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-208",
+            "name": "Victini",
+            "number": "208",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/VictiniSVPPromo208.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-209",
+            "name": "Thundurus",
+            "number": "209",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/ThundurusSVPPromo209.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-210",
+            "name": "Tornadus",
+            "number": "210",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/TornadusSVPPromo210.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-211",
+            "name": "Gothitelle",
+            "number": "211",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/GothitelleSVPPromo211.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-212",
+            "name": "Reuniclus",
+            "number": "212",
+            "image": "https://media.pokemoncentral.it/wiki/d/d6/ReuniclusSVPPromo212.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-213",
+            "name": "Feraligatr",
+            "number": "213",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/FeraligatrSVPPromo213.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-214",
+            "name": "Pikachu",
+            "number": "214",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/PikachuSVPPromo214.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-215",
+            "name": "Toxtricity-ex",
+            "number": "215",
+            "image": "https://media.pokemoncentral.it/wiki/9/95/ToxtricityexSVPPromo215.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-216",
+            "name": "Mewtwo-ex",
+            "number": "216",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/Mewtwo-exdelTeamRocketSVPPromo216.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-217",
+            "name": "Nidoking-ex",
+            "number": "217",
+            "image": "https://media.pokemoncentral.it/wiki/c/ce/Nidoking-exdelTeamRocketSVPPromo217.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-218",
+            "name": "Persian-ex",
+            "number": "218",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/Persian-exdelTeamRocketSVPPromo218.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-219",
+            "name": "Allenamento di Cinturanera",
+            "number": "219",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/AllenamentodiCinturaneraSVPPromo219.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-220",
+            "name": "Allenamento di Cinturanera",
+            "number": "220",
+            "image": "https://media.pokemoncentral.it/wiki/f/f3/AllenamentodiCinturaneraSVPPromo220.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-221",
+            "name": "Ricerca Accademica [Professor Birch]",
+            "number": "221",
+            "image": "https://media.pokemoncentral.it/wiki/d/d7/RicercaAccademicaSVPPromo221.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-222",
+            "name": "Ricerca Accademica [Professor Kukui]",
+            "number": "222",
+            "image": "https://media.pokemoncentral.it/wiki/6/64/RicercaAccademicaSVPPromo222.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-223",
+            "name": "Ricerca Accademica [Prof.ssa Flora]",
+            "number": "223",
+            "image": "https://media.pokemoncentral.it/wiki/b/b1/RicercaAccademicaSVPPromo223.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-224",
+            "name": "Resort Paradiso",
+            "number": "224",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/ResortParadisoSVPPromo224.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-225",
+            "name": "Pikachu",
+            "number": "225",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/PikachuSVPPromo225.png",
+            "section": "Non ordinate"
+        },
+        {
+            "id": "SVP-—",
+            "name": "Terapagos e Amici",
+            "number": "—",
+            "image": "https://media.pokemoncentral.it/wiki/9/94/TerapagoseAmiciSVPPromo.png",
+            "section": "Non ordinate"
+        }
+    ]
+}

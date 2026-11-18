@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP3",
+        "name": "POP Serie 3",
+        "period": "2006-2006",
+        "sortOrder": 3,
+        "language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetPOP_Serie_3.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP3-1/17",
+            "name": "Blastoise",
+            "number": "1/17",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/BlastoisePOPSerie3-1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-2/17",
+            "name": "Flareon",
+            "number": "2/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/76/FlareonPOPSerie3-2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-3/17",
+            "name": "Jolteon",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/98/JolteonPOPSerie3-3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-4/17",
+            "name": "Minun",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/MinunPOPSerie3-4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-5/17",
+            "name": "Plusle",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/75/PluslePOPSerie3-5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-6/17",
+            "name": "Vaporeon",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/VaporeonPOPSerie3-6.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-7/17",
+            "name": "Combusken",
+            "number": "7/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-8/17",
+            "name": "Donphan",
+            "number": "8/17",
+            "image": "https://media.pokemoncentral.it/wiki/e/e6/DonphanPOPSerie3-8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-9/17",
+            "name": "Forretress",
+            "number": "9/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/78/ForretressPOPSerie3-9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-10/17",
+            "name": "Sistema di Alta Pressione",
+            "number": "10/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-11/17",
+            "name": "Sistema di Bassa Pressione",
+            "number": "11/17",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-12/17",
+            "name": "Ditto [Mr. Mime]",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/DittoPOPSerie3-12.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-13/17",
+            "name": "Eevee",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/8/8a/EeveePOPSerie3-13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-14/17",
+            "name": "Ivysaur",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/IvysaurPOPSerie3-14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-15/17",
+            "name": "Marshtomp",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/MarshtompPOPSerie3-15.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-16/17",
+            "name": "Pichu Bros.",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/PichuBrosPOPSerie3-16.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP3-17/17",
+            "name": "Ho-Oh ex",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/Ho-OhexPOPSerie3-17.jpg",
+            "section": "Set principale"
+        }
+    ]
+}

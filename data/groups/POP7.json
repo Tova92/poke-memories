@@ -1,0 +1,132 @@
+{
+    "group": {
+        "id": "POP7",
+        "name": "POP Series 7",
+        "period": "2008-2008",
+        "sortOrder": 7,
+        "language": "en",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cc/SimboloSetPOP_Serie_7.png",
+        "cardCount": 17
+    },
+    "cards": [
+        {
+            "id": "POP7-1/17",
+            "name": "Ampharos",
+            "number": "1/17",
+            "image": "https://media.pokemoncentral.it/wiki/a/ac/AmpharosPOPSerie7-1.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-2/17",
+            "name": "Gallade",
+            "number": "2/17",
+            "image": "https://media.pokemoncentral.it/wiki/3/35/GalladePOPSerie7-2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-3/17",
+            "name": "Latias",
+            "number": "3/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/66/LatiasPOPSerie7-3.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-4/17",
+            "name": "Latios",
+            "number": "4/17",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/LatiosPOPSerie7-4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-5/17",
+            "name": "Mothim",
+            "number": "5/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/MothimPOPSerie7-5.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-6/17",
+            "name": "Delibird",
+            "number": "6/17",
+            "image": "https://media.pokemoncentral.it/wiki/9/9a/DelibirdPOPSerie7-6.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-7/17",
+            "name": "Flaaffy",
+            "number": "7/17",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/FlaaffyPOPSerie7-7.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-8/17",
+            "name": "Kirlia",
+            "number": "8/17",
+            "image": "https://media.pokemoncentral.it/wiki/a/a5/KirliaPOPSerie7-8.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-9/17",
+            "name": "Stantler",
+            "number": "9/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/b9/StantlerPOPSerie7-9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-10/17",
+            "name": "Wormadam Sandy Cloak",
+            "number": "10/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/WormadamPOPSerie7-10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-11/17",
+            "name": "Burmy Plant Cloak",
+            "number": "11/17",
+            "image": "https://media.pokemoncentral.it/wiki/0/01/BurmyPOPSerie7-11.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-12/17",
+            "name": "Burmy Sandy Cloak",
+            "number": "12/17",
+            "image": "https://media.pokemoncentral.it/wiki/e/e9/BurmyPOPSerie7-12.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-13/17",
+            "name": "Corsola",
+            "number": "13/17",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/CorsolaPOPSerie7-13.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-14/17",
+            "name": "Mareep",
+            "number": "14/17",
+            "image": "https://media.pokemoncentral.it/wiki/d/d2/MareepPOPSerie7-14.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-15/17",
+            "name": "Ralts",
+            "number": "15/17",
+            "image": "https://media.pokemoncentral.it/wiki/0/0a/RaltsPOPSerie7-15.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-16/17",
+            "name": "Sentret",
+            "number": "16/17",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/SentretPOPSerie7-16.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "POP7-17/17",
+            "name": "Spinda",
+            "number": "17/17",
+            "image": "https://media.pokemoncentral.it/wiki/6/6d/SpindaPOPSerie7-17.png",
+            "section": "Set principale"
+        }
+    ]
+}
