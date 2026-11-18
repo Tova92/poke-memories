@@ -1,0 +1,282 @@
+{
+    "series": [
+        {
+            "id": "SERIES_O",
+            "name": "Serie originale",
+            "sortOrder": 1,
+            "period": "2000-2001",
+            "items": [
+                "BS",
+                "JU",
+                "FO",
+                "TR",
+                "G1",
+                "G2"
+            ]
+        },
+        {
+            "id": "SERIES_N",
+            "name": "Neo",
+            "sortOrder": 2,
+            "period": "2001-2002",
+            "items": [
+                "N1",
+                "N2",
+                "N3",
+                "N4"
+            ]
+        },
+        {
+            "id": "SERIES_E",
+            "name": "e-Card",
+            "sortOrder": 3,
+            "period": "2002-2003",
+            "items": [
+                "EX",
+                "AQ",
+                "SK"
+            ]
+        },
+        {
+            "id": "SERIES_EX",
+            "name": "EX",
+            "sortOrder": 4,
+            "period": "2003-2007",
+            "items": [
+                "RS",
+                "SS",
+                "DR",
+                "MA",
+                "HL",
+                "FG",
+                "TRR",
+                "DX",
+                "EM",
+                "UF",
+                "DS",
+                "LM",
+                "HP",
+                "CG",
+                "DF",
+                "PK"
+            ]
+        },
+        {
+            "id": "SERIES_DP",
+            "name": "Diamante & Perla",
+            "sortOrder": 5,
+            "period": "2007-2008",
+            "items": [
+                "DP",
+                "MT",
+                "SW",
+                "GE",
+                "MD",
+                "LA",
+                "SF"
+            ]
+        },
+        {
+            "id": "SERIES_P",
+            "name": "Platino",
+            "sortOrder": 6,
+            "period": "2009-2009",
+            "items": [
+                "PL",
+                "RR",
+                "SV",
+                "AR"
+            ]
+        },
+        {
+            "id": "SERIES_HGSS",
+            "name": "HeartGold & SoulSilver",
+            "sortOrder": 7,
+            "period": "2010-2011",
+            "items": [
+                "HS",
+                "UL",
+                "UD",
+                "TM",
+                "CL"
+            ]
+        },
+        {
+            "id": "SERIES_BW",
+            "name": "Nero e Bianco",
+            "sortOrder": 8,
+            "period": "2011-2013",
+            "items": [
+                "BLW",
+                "EPO",
+                "NVI",
+                "NXD",
+                "DEX",
+                "DRV",
+                "DRX",
+                "BCR",
+                "PLS",
+                "PLF",
+                "PLB",
+                "LTR"
+            ]
+        },
+        {
+            "id": "SERIES_XY",
+            "name": "XY",
+            "sortOrder": 9,
+            "period": "2013-2016",
+            "items": [
+                "KSS",
+                "XY",
+                "FLF",
+                "FFI",
+                "PHF",
+                "PRC",
+                "DCR",
+                "ROS",
+                "AOR",
+                "BKT",
+                "BKP",
+                "GEN",
+                "FCO",
+                "STS",
+                "EVO"
+            ]
+        },
+        {
+            "id": "SERIES_SM",
+            "name": "Sole e Luna",
+            "sortOrder": 10,
+            "period": "2017-2019",
+            "items": [
+                "SUM",
+                "GRI",
+                "BUS",
+                "SLG",
+                "CIN",
+                "UPR",
+                "FLI",
+                "CES",
+                "DRM",
+                "LOT",
+                "TEU",
+                "DET",
+                "UNB",
+                "UNM",
+                "HIF",
+                "CEC"
+            ]
+        },
+        {
+            "id": "SERIES_SWSH",
+            "name": "Spada e Scudo",
+            "sortOrder": 11,
+            "period": "2020-2023",
+            "items": [
+                "SSH",
+                "RCL",
+                "DAA",
+                "CPA",
+                "VIV",
+                "SHF",
+                "BST",
+                "CRE",
+                "EVS",
+                "CEL",
+                "FST",
+                "BRS",
+                "ASR",
+                "PGO",
+                "LOR",
+                "SIT",
+                "CRZ"
+            ]
+        },
+        {
+            "id": "SERIES_SV",
+            "name": "Scarlatto e Violetto",
+            "sortOrder": 12,
+            "period": "2023-2025",
+            "items": [
+                "SVI",
+                "PAL",
+                "OBF",
+                "MEW",
+                "PAR",
+                "PAF",
+                "TEF",
+                "TWM",
+                "SFA",
+                "SCR",
+                "SSP",
+                "PRE",
+                "JTG",
+                "DRI",
+                "BLK",
+                "WHT"
+            ]
+        },
+        {
+            "id": "SERIES_M",
+            "name": "Megaevoluzione",
+            "sortOrder": 13,
+            "period": "2025-...",
+            "items": [
+                "MEG",
+                "PFL",
+                "ASC",
+                "POR",
+                "CRI",
+                "PBL",
+                "30C",
+                "DLR"
+            ]
+        },
+        {
+            "id": "SERIES_ENERGIES",
+            "name": "Energie",
+            "sortOrder": 101,
+            "period": "2023-...",
+            "items": [
+                "SVE",
+                "MEE"
+            ]
+        },
+        {
+            "id": "SERIES_PROMO",
+            "name": "Promo",
+            "sortOrder": 201,
+            "period": "1999-...",
+            "items": [
+                "WP",
+                "NP",
+                "DPP",
+                "HSP",
+                "BWP",
+                "XYP",
+                "SMP",
+                "SWSHP",
+                "SVP",
+                "MEP"
+            ]
+        },
+        {
+            "id": "SERIES_POP",
+            "name": "POP",
+            "sortOrder": 301,
+            "period": "2004-2009",
+            "items": [
+                "POP1",
+                "POP2",
+                "POP3",
+                "POP4",
+                "POP5",
+                "POP6",
+                "POP7",
+                "POP8",
+                "POP9"
+            ]
+        }
+    ]
+}
