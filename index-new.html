@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#171426">
+    <title>PokéMemories</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            background: #171426;
+            color: #f5f0ff;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            padding: 28px 20px 18px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 29px;
+            letter-spacing: 1px;
+        }
+
+        header p {
+            color: #aaa1bd;
+            font-size: 13px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+            padding: 12px 16px 35px;
+        }
+
+        button {
+            cursor: pointer;
+            font-family: inherit;
+        }
+
+        .home-title,
+        .expansion-title {
+            margin: 8px 0 18px;
+            text-align: center;
+            font-size: 19px;
+            color: #c9a7ff;
+        }
+
+        .home-section {
+            margin-bottom: 28px;
+        }
+
+        .home-section h2 {
+            font-size: 16px;
+            margin-bottom: 12px;
+        }
+
+        .item-list {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 10px;
+        }
+
+        .item-button {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+            min-width: 0;
+            padding: 13px;
+            border: 1px solid #39324e;
+            border-radius: 12px;
+            background: #241f36;
+            color: #f5f0ff;
+            text-align: left;
+        }
+
+        .item-button:active {
+            background: #39324e;
+        }
+
+        .item-button span {
+            overflow-wrap: anywhere;
+            font-size: 13px;
+        }
+
+        .favorite-button {
+            flex-shrink: 0;
+            border: 0;
+            background: transparent;
+            color: #aaa1bd;
+            font-size: 20px;
+            padding: 2px;
+        }
+
+        .favorite-button.active {
+            color: #c9a7ff;
+        }
+
+        .series-title {
+            margin: 22px 0 10px;
+            color: #c9a7ff;
+            font-size: 16px;
+        }
+
+        .series-title:first-child {
+            margin-top: 0;
+        }
+
+        .series-items {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 8px;
+        }
+
+        .series-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+            padding: 11px 12px;
+            border: 0;
+            border-radius: 10px;
+            background: #241f36;
+            color: #f5f0ff;
+            text-align: left;
+            font-size: 12px;
+        }
+
+        .series-item:active {
+            background: #39324e;
+        }
+
+        .progress {
+            padding: 18px;
+            background: #241f36;
+            border-radius: 18px;
+            margin-bottom: 20px;
+        }
+
+        .progress-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .progress-info strong {
+            font-size: 24px;
+            color: #c9a7ff;
+        }
+
+        .bar {
+            height: 9px;
+            background: #39324e;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            width: 0;
+            background: #a77aff;
+            transition: width .25s;
+        }
+
+        .filters {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+
+        .filters button {
+            flex: 1;
+            border: 0;
+            border-radius: 12px;
+            padding: 11px 5px;
+            background: #29233d;
+            color: #c5bdd5;
+            font-size: 13px;
+        }
+
+        .filters button.active {
+            background: #a77aff;
+            color: #171426;
+            font-weight: bold;
+        }
+
+        .search {
+            width: 100%;
+            padding: 13px 15px;
+            margin-bottom: 18px;
+            border: 1px solid #39324e;
+            border-radius: 12px;
+            background: #241f36;
+            color: white;
+            font-size: 15px;
+            outline: none;
+        }
+
+        .search::placeholder {
+            color: #aaa1bd;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 12px;
+        }
+
+        .card {
+            min-width: 0;
+            border: 2px solid transparent;
+            border-radius: 13px;
+            background: #241f36;
+            padding: 7px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .card.owned {
+            border-color: #51465e;
+        }
+
+        .card-image {
+            width: 100%;
+            aspect-ratio: 63 / 88;
+            border-radius: 8px;
+            background: linear-gradient(145deg, #39324e, #211b32);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            transition: filter .25s;
+        }
+
+        .card.owned .card-image img {
+            filter: grayscale(1) brightness(.48);
+        }
+
+        .card-name {
+            font-size: 12px;
+            font-weight: bold;
+            margin-top: 9px;
+            overflow-wrap: anywhere;
+        }
+
+        .card-number {
+            font-size: 10px;
+            color: #aaa1bd;
+            margin-top: 4px;
+        }
+
+        .card-status {
+            font-size: 10px;
+            margin-top: 7px;
+            color: #c9a7ff;
+        }
+
+        .card.owned .card-status {
+            color: #aaa1bd;
+        }
+
+        .section-title {
+            grid-column: 1 / -1;
+            margin: 24px 0 8px;
+            font-size: 17px;
+        }
+
+        .empty {
+            grid-column: 1 / -1;
+            text-align: center;
+            color: #aaa1bd;
+            padding: 30px 10px;
+        }
+
+        .back-button {
+            display: block;
+            margin: 0 0 18px;
+            padding: 10px 15px;
+            border: 1px solid #51465e;
+            border-radius: 10px;
+            background: #29233d;
+            color: #f5f0ff;
+        }
+
+        .modal {
+            position: fixed;
+            inset: 0;
+            z-index: 10;
+            background: rgba(10, 8, 17, .96);
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .modal.open {
+            display: flex;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 18px;
+            right: 20px;
+            width: 42px;
+            height: 42px;
+            border: 0;
+            border-radius: 50%;
+            background: #39324e;
+            color: white;
+            font-size: 25px;
+        }
+
+        .modal-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            width: 100%;
+            max-width: 520px;
+        }
+
+        .modal-arrow {
+            flex-shrink: 0;
+            width: 38px;
+            height: 48px;
+            border: 0;
+            border-radius: 12px;
+            background: #29233d;
+            color: white;
+            font-size: 24px;
+        }
+
+        .modal-image {
+            max-width: min(65vw, 350px);
+            max-height: 56vh;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+            border-radius: 12px;
+        }
+
+        .modal-image.owned {
+            filter: grayscale(1) brightness(.48);
+        }
+
+        .modal-details {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin-top: 18px;
+        }
+
+        .modal-details h2 {
+            font-size: 19px;
+            margin: 0 0 6px;
+        }
+
+        .modal-details p {
+            font-size: 13px;
+            color: #aaa1bd;
+            margin: 0 0 15px;
+        }
+
+        .modal-status,
+        .modal-eye {
+            border: 0;
+            border-radius: 12px;
+            padding: 12px 20px;
+            font-size: 13px;
+        }
+
+        .modal-status {
+            background: #a77aff;
+            color: #171426;
+            font-weight: bold;
+        }
+
+        .modal-status.owned {
+            background: #39324e;
+            color: #f5f0ff;
+        }
+
+        .modal-eye {
+            margin-bottom: 12px;
+            border: 1px solid #51465e;
+            background: #29233d;
+            color: #f5f0ff;
+            visibility: hidden;
+        }
+
+        .modal-eye.visible {
+            visibility: visible;
+        }
+
+        footer {
+            text-align: center;
+            color: #777087;
+            font-size: 11px;
+            padding: 20px;
+        }
+
+        @media (min-width: 650px) {
+            .grid {
+                grid-template-columns: repeat(5, minmax(0, 1fr));
+            }
+
+            .item-list,
+            .series-items {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+            }
+
+            .modal-image {
+                max-height: 65vh;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>PokéMemories ✨</h1>
+    <p>Ogni carta conquistata è un nuovo traguardo</p>
+</header>
+
+<main>
+    <section id="homeView">
+        <h2 class="home-title">La mia collezione</h2>
+
+        <section class="home-section">
+            <h2>⭐ Le mie preferite</h2>
+            <div class="item-list" id="favorites"></div>
+        </section>
+
+        <section class="home-section">
+            <h2>Tutte le serie</h2>
+            <div id="seriesList">
+                <div class="empty">Caricamento...</div>
+            </div>
+        </section>
+    </section>
+
+    <section id="itemView" hidden>
+        <button class="back-button" id="backHome">
+            ← Torna alla home
+        </button>
+
+        <h2 class="expansion-title" id="itemTitle"></h2>
+
+        <section class="progress">
+            <div class="progress-info">
+                <div>
+                    <strong id="count">0 / 0</strong>
+                    <div style="color:#aaa1bd;font-size:12px">
+                        Carte acquisite
+                    </div>
+                </div>
+                <strong id="percentage">0%</strong>
+            </div>
+
+            <div class="bar">
+                <div class="bar-fill" id="bar"></div>
+            </div>
+        </section>
+
+        <div class="filters">
+            <button class="active" data-filter="all">Tutte</button>
+            <button data-filter="missing">Mancanti</button>
+            <button data-filter="owned">Acquisite</button>
+        </div>
+
+        <input
+            class="search"
+            id="search"
+            type="search"
+            placeholder="Cerca per nome o numero..."
+        >
+
+        <section class="grid" id="grid"></section>
+    </section>
+</main>
+
+<footer>
+    PokéMemories · La mia collezione Pokémon
+</footer>
+
+<div class="modal" id="modal">
+    <button class="modal-close" id="closeModal">×</button>
+
+    <div class="modal-content">
+        <button class="modal-arrow" id="previousCard">‹</button>
+        <img class="modal-image" id="modalImage" src="" alt="Carta Pokémon">
+        <button class="modal-arrow" id="nextCard">›</button>
+    </div>
+
+    <div class="modal-details">
+        <h2 id="modalName"></h2>
+        <p id="modalNumber"></p>
+
+        <button class="modal-eye" id="toggleVisibility">
+            👁 Mostra a colori
+        </button>
+
+        <button class="modal-status" id="toggleStatus"></button>
+    </div>
+</div>
+
+<script>
+    const DATA_PATH = "./data/";
+    const OWNED_KEY = "poke-memories-owned-v3";
+    const FAVORITES_KEY = "poke-memories-favorites-v1";
+
+    let series = [];
+    let currentItem = null;
+    let cards = [];
+    let owned = [];
+    let favorites = [];
+    let currentFilter = "all";
+    let currentCardId = null;
+    let revealCard = false;
+
+    const homeView = document.getElementById("homeView");
+    const itemView = document.getElementById("itemView");
+    const grid = document.getElementById("grid");
+    const search = document.getElementById("search");
+    const modal = document.getElementById("modal");
+
+    function loadStorage(key)
+    {
+        try
+        {
+            const value = JSON.parse(localStorage.getItem(key));
+
+            return Array.isArray(value) ? value : [];
+        }
+        catch
+        {
+            return [];
+        }
+    }
+
+    owned = loadStorage(OWNED_KEY);
+    favorites = loadStorage(FAVORITES_KEY);
+
+    function saveStorage(key, value)
+    {
+        localStorage.setItem(key, JSON.stringify(value));
+    }
+
+    async function fetchJSON(path)
+    {
+        const response = await fetch(path);
+
+        if (!response.ok)
+        {
+            throw new Error(`Errore ${response.status}: ${path}`);
+        }
+
+        return await response.json();
+    }
+
+    async function loadCatalog()
+    {
+        try
+        {
+            const data = await fetchJSON(DATA_PATH + "series.json");
+
+            if (!Array.isArray(data.series))
+            {
+                throw new Error("Formato series.json non valido");
+            }
+
+            series = data.series.sort(
+                (a, b) => a.sortOrder - b.sortOrder
+            );
+
+            renderHome();
+        }
+        catch (error)
+        {
+            console.error(error);
+
+            document.getElementById("seriesList").innerHTML =
+                '<div class="empty">Impossibile caricare le serie. Controlla i percorsi dei JSON.</div>';
+        }
+    }
+
+    function renderHome()
+    {
+        renderFavorites();
+
+        const container = document.getElementById("seriesList");
+        container.innerHTML = "";
+
+        series.forEach(currentSeries =>
+        {
+            const title = document.createElement("h3");
+            title.className = "series-title";
+            title.textContent = currentSeries.name;
+
+            const itemsContainer = document.createElement("div");
+            itemsContainer.className = "series-items";
+
+            currentSeries.items.forEach(id =>
+            {
+                const button = document.createElement("button");
+                button.className = "series-item";
+
+                const itemName = document.createElement("span");
+                itemName.textContent = id;
+
+                const star = document.createElement("span");
+                star.textContent = favorites.includes(id) ? "★" : "☆";
+                star.style.color = "#c9a7ff";
+                star.style.fontSize = "17px";
+
+                button.append(itemName, star);
+
+                button.addEventListener("click", () =>
+                {
+                    openItem(id);
+                });
+
+                itemsContainer.appendChild(button);
+            });
+
+            container.append(title, itemsContainer);
+        });
+    }
+
+    function renderFavorites()
+    {
+        const container = document.getElementById("favorites");
+        container.innerHTML = "";
+
+        const favoriteItems = [];
+
+        series.forEach(currentSeries =>
+        {
+            currentSeries.items.forEach(id =>
+            {
+                if (favorites.includes(id))
+                {
+                    favoriteItems.push(id);
+                }
+            });
+        });
+
+        if (!favoriteItems.length)
+        {
+            container.innerHTML =
+                '<div class="empty">Non hai ancora selezionato preferiti.</div>';
+
+            return;
+        }
+
+        favoriteItems.forEach(id =>
+        {
+            const button = document.createElement("button");
+            button.className = "item-button";
+
+            const name = document.createElement("span");
+            name.textContent = id;
+
+            const star = document.createElement("button");
+            star.className = "favorite-button active";
+            star.textContent = "★";
+            star.title = "Rimuovi dai preferiti";
+
+            star.addEventListener("click", event =>
+            {
+                event.stopPropagation();
+                toggleFavorite(id);
+            });
+
+            button.append(name, star);
+
+            button.addEventListener("click", () =>
+            {
+                openItem(id);
+            });
+
+            container.appendChild(button);
+        });
+    }
+
+    function toggleFavorite(id)
+    {
+        if (favorites.includes(id))
+        {
+            favorites = favorites.filter(item => item !== id);
+        }
+        else
+        {
+            favorites.push(id);
+        }
+
+        saveStorage(FAVORITES_KEY, favorites);
+        renderHome();
+    }
+
+    async function loadItemData(id)
+    {
+        try
+        {
+            return await fetchJSON(
+                DATA_PATH + "expansions/" + id + ".json"
+            );
+        }
+        catch
+        {
+            return await fetchJSON(
+                DATA_PATH + "groups/" + id + ".json"
+            );
+        }
+    }
+
+    async function openItem(id)
+    {
+        grid.innerHTML =
+            '<div class="empty">Caricamento delle carte...</div>';
+
+        homeView.hidden = true;
+        itemView.hidden = false;
+
+        document.getElementById("itemTitle").textContent = id;
+
+        try
+        {
+            const data = await loadItemData(id);
+
+            currentItem = data.expansion || data.group;
+
+            if (!currentItem || !Array.isArray(data.cards))
+            {
+                throw new Error("Struttura del JSON non valida");
+            }
+
+            cards = data.cards;
+
+            if (!cards.every(card =>
+                typeof card.id === "string" &&
+                typeof card.name === "string" &&
+                typeof card.number === "string" &&
+                typeof card.image === "string"
+            ))
+            {
+                throw new Error("Una o più carte hanno dati mancanti");
+            }
+
+            document.getElementById("itemTitle").textContent =
+                currentItem.name;
+
+            owned = owned.filter(value => typeof value === "string");
+
+            currentFilter = "all";
+            search.value = "";
+
+            document.querySelectorAll(".filters button").forEach(button =>
+            {
+                button.classList.toggle(
+                    "active",
+                    button.dataset.filter === "all"
+                );
+            });
+
+            renderCards();
+        }
+        catch (error)
+        {
+            console.error(error);
+
+            grid.innerHTML =
+                '<div class="empty">Impossibile caricare questo elemento. Controlla il relativo JSON.</div>';
+        }
+    }
+
+    function goHome()
+    {
+        closeModal();
+
+        currentItem = null;
+        cards = [];
+
+        itemView.hidden = true;
+        homeView.hidden = false;
+
+        renderHome();
+    }
+
+    function updateProgress()
+    {
+        const total = cards.length;
+
+        const acquired = cards.filter(
+            card => owned.includes(card.id)
+        ).length;
+
+        const percentage = total
+            ? Math.round(acquired / total * 100)
+            : 0;
+
+        document.getElementById("count").textContent =
+            `${acquired} / ${total}`;
+
+        document.getElementById("percentage").textContent =
+            `${percentage}%`;
+
+        document.getElementById("bar").style.width =
+            `${percentage}%`;
+    }
+
+    function renderCards()
+    {
+        const query = search.value.toLowerCase().trim();
+
+        const filtered = cards.filter(card =>
+        {
+            const isOwned = owned.includes(card.id);
+
+            const matchesFilter =
+                currentFilter === "all" ||
+                (currentFilter === "owned" && isOwned) ||
+                (currentFilter === "missing" && !isOwned);
+
+            const matchesSearch =
+                card.name.toLowerCase().includes(query) ||
+                card.number.toLowerCase().includes(query);
+
+            return matchesFilter && matchesSearch;
+        });
+
+        grid.innerHTML = "";
+
+        if (!filtered.length)
+        {
+            grid.innerHTML =
+                '<div class="empty">Nessuna carta trovata.</div>';
+
+            updateProgress();
+            return;
+        }
+
+        const sections = new Map();
+
+        filtered.forEach(card =>
+        {
+            const section = card.section || "Altre carte";
+
+            if (!sections.has(section))
+            {
+                sections.set(section, []);
+            }
+
+            sections.get(section).push(card);
+        });
+
+        sections.forEach((sectionCards, sectionName) =>
+        {
+            const title = document.createElement("h2");
+            title.className = "section-title";
+            title.textContent = sectionName;
+
+            grid.appendChild(title);
+
+            sectionCards.forEach(card =>
+            {
+                const isOwned = owned.includes(card.id);
+
+                const element = document.createElement("div");
+                element.className = `card ${isOwned ? "owned" : ""}`;
+
+                const imageContainer = document.createElement("div");
+                imageContainer.className = "card-image";
+
+                const image = document.createElement("img");
+                image.src = card.image;
+                image.alt = card.name;
+                image.loading = "lazy";
+
+                imageContainer.appendChild(image);
+
+                const name = document.createElement("div");
+                name.className = "card-name";
+                name.textContent = card.name;
+
+                const number = document.createElement("div");
+                number.className = "card-number";
+                number.textContent = `#${card.number}`;
+
+                const status = document.createElement("div");
+                status.className = "card-status";
+                status.textContent = isOwned
+                    ? "✓ Acquisita"
+                    : "○ Mancante";
+
+                element.append(
+                    imageContainer,
+                    name,
+                    number,
+                    status
+                );
+
+                element.addEventListener("click", () =>
+                {
+                    openModal(card.id);
+                });
+
+                grid.appendChild(element);
+            });
+        });
+
+        updateProgress();
+    }
+
+    function toggleCard(id)
+    {
+        if (owned.includes(id))
+        {
+            owned = owned.filter(item => item !== id);
+        }
+        else
+        {
+            owned.push(id);
+        }
+
+        revealCard = false;
+
+        saveStorage(OWNED_KEY, owned);
+        renderCards();
+        updateModal();
+    }
+
+    function openModal(id)
+    {
+        currentCardId = id;
+        revealCard = false;
+
+        updateModal();
+
+        modal.classList.add("open");
+        document.body.style.overflow = "hidden";
+    }
+
+    function closeModal()
+    {
+        modal.classList.remove("open");
+        document.body.style.overflow = "";
+
+        currentCardId = null;
+        revealCard = false;
+    }
+
+    function updateModal()
+    {
+        const card = cards.find(
+            item => item.id === currentCardId
+        );
+
+        if (!card)
+        {
+            return;
+        }
+
+        const isOwned = owned.includes(card.id);
+
+        if (!isOwned)
+        {
+            revealCard = false;
+        }
+
+        const image = document.getElementById("modalImage");
+
+        image.src = card.image;
+        image.alt = card.name;
+
+        image.classList.toggle(
+            "owned",
+            isOwned && !revealCard
+        );
+
+        const eyeButton =
+            document.getElementById("toggleVisibility");
+
+        eyeButton.classList.toggle("visible", isOwned);
+
+        eyeButton.textContent = revealCard
+            ? "👁 Nascondi colori"
+            : "👁 Mostra a colori";
+
+        document.getElementById("modalName").textContent =
+            card.name;
+
+        document.getElementById("modalNumber").textContent =
+            `Carta #${card.number}`;
+
+        const button = document.getElementById("toggleStatus");
+
+        button.textContent = isOwned
+            ? "Rimuovi dai posseduti"
+            : "Segna come acquisita";
+
+        button.classList.toggle("owned", isOwned);
+    }
+
+    function navigateModal(direction)
+    {
+        const position = cards.findIndex(
+            item => item.id === currentCardId
+        );
+
+        if (position === -1 || cards.length === 0)
+        {
+            return;
+        }
+
+        const nextPosition =
+            (position + direction + cards.length) % cards.length;
+
+        currentCardId = cards[nextPosition].id;
+        revealCard = false;
+
+        updateModal();
+    }
+
+    document.getElementById("backHome")
+        .addEventListener("click", goHome);
+
+    document.querySelectorAll(".filters button").forEach(button =>
+    {
+        button.addEventListener("click", () =>
+        {
+            currentFilter = button.dataset.filter;
+
+            document.querySelectorAll(".filters button")
+                .forEach(item => item.classList.remove("active"));
+
+            button.classList.add("active");
+
+            renderCards();
+        });
+    });
+
+    search.addEventListener("input", renderCards);
+
+    document.getElementById("closeModal")
+        .addEventListener("click", closeModal);
+
+    document.getElementById("previousCard")
+        .addEventListener("click", () => navigateModal(-1));
+
+    document.getElementById("nextCard")
+        .addEventListener("click", () => navigateModal(1));
+
+    document.getElementById("toggleStatus")
+        .addEventListener("click", () =>
+        {
+            toggleCard(currentCardId);
+        });
+
+    document.getElementById("toggleVisibility")
+        .addEventListener("click", () =>
+        {
+            revealCard = !revealCard;
+            updateModal();
+        });
+
+    modal.addEventListener("click", event =>
+    {
+        if (event.target === modal)
+        {
+            closeModal();
+        }
+    });
+
+    document.addEventListener("keydown", event =>
+    {
+        if (!modal.classList.contains("open"))
+        {
+            return;
+        }
+
+        if (event.key === "Escape")
+        {
+            closeModal();
+        }
+
+        if (event.key === "ArrowLeft")
+        {
+            navigateModal(-1);
+        }
+
+        if (event.key === "ArrowRight")
+        {
+            navigateModal(1);
+        }
+    });
+
+    loadCatalog();
+</script>
+
+</body>
+</html>
