@@ -1,0 +1,1315 @@
+{
+    "expansion": {
+        "id": "AQ",
+        "name": "Aquapolis",
+				"year": 2003,
+				"month": 4,
+				"language": "it",
+        "logo": "https://media.pokemoncentral.it/wiki/3/36/Logo_Aquapolis.png",
+        "cardCount": 186
+    },
+    "cards": [
+        {
+            "id": "AQ-1/147",
+            "name": "Ampharos",
+            "number": "1/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ea/AmpharosAquapolis1.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-2/147",
+            "name": "Arcanine",
+            "number": "2/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/42/ArcanineAquapolis2.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-3/147",
+            "name": "Ariados",
+            "number": "3/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/AriadosAquapolis3.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-4/147",
+            "name": "Azumarill",
+            "number": "4/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a0/AzumarillAquapolis4.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-5/147",
+            "name": "Bellossom",
+            "number": "5/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/BellossomAquapolis5.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-6/147",
+            "name": "Blissey",
+            "number": "6/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-7/147",
+            "name": "Donphan",
+            "number": "7/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/dd/DonphanAquapolis7.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-8/147",
+            "name": "Electrode",
+            "number": "8/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-9/147",
+            "name": "Elekid",
+            "number": "9/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/60/ElekidAquapolis9.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-10/147",
+            "name": "Entei",
+            "number": "10/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/07/EnteiAquapolis10.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-11/147",
+            "name": "Espeon",
+            "number": "11/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-12/147",
+            "name": "Exeggutor",
+            "number": "12/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-13/147",
+            "name": "Exeggutor",
+            "number": "13/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ExeggutorAquapolis13.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-14/147",
+            "name": "Houndoom",
+            "number": "14/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0b/HoundoomAquapolis14.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-15/147",
+            "name": "Houndoom",
+            "number": "15/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-16/147",
+            "name": "Hypno",
+            "number": "16/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-17/147",
+            "name": "Jumpluff",
+            "number": "17/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/87/JumpluffAquapolis17.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-18/147",
+            "name": "Jynx",
+            "number": "18/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/JynxAquapolis18.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-19/147",
+            "name": "Kingdra",
+            "number": "19/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-20/147",
+            "name": "Lanturn",
+            "number": "20/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ee/LanturnAquapolis20.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-21/147",
+            "name": "Lanturn",
+            "number": "21/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-22/147",
+            "name": "Magneton",
+            "number": "22/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-23/147",
+            "name": "Muk",
+            "number": "23/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-24/147",
+            "name": "Nidoking",
+            "number": "24/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2a/NidokingAquapolis24.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-25/147",
+            "name": "Ninetales",
+            "number": "25/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-26/147",
+            "name": "Octillery",
+            "number": "26/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/OctilleryAquapolis26.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-27/147",
+            "name": "Parasect",
+            "number": "27/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/59/ParasectAquapolis27.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-28/147",
+            "name": "Porygon2",
+            "number": "28/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3a/Porygon2Aquapolis28.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-29/147",
+            "name": "Primeape",
+            "number": "29/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/PrimeapeAquapolis29.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-30/147",
+            "name": "Quagsire",
+            "number": "30/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f7/QuagsireAquapolis30.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-31/147",
+            "name": "Rapidash",
+            "number": "31/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/RapidashAquapolis31.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-32/147",
+            "name": "Scizor",
+            "number": "32/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ScizorAquapolis32.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-33/147",
+            "name": "Slowbro",
+            "number": "33/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/61/SlowbroAquapolis33.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-34/147",
+            "name": "Slowking",
+            "number": "34/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5c/SlowkingAquapolis34.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-35/147",
+            "name": "Steelix",
+            "number": "35/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/SteelixAquapolis35.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-36/147",
+            "name": "Sudowoodo",
+            "number": "36/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-37/147",
+            "name": "Suicune",
+            "number": "37/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/SuicuneAquapolis37.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-38/147",
+            "name": "Tentacruel",
+            "number": "38/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/TentacruelAquapolis38.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-39/147",
+            "name": "Togetic",
+            "number": "39/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-40/147",
+            "name": "Tyranitar",
+            "number": "40/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-41/147",
+            "name": "Umbreon",
+            "number": "41/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cb/UmbreonAquapolis41.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-42/147",
+            "name": "Victreebel",
+            "number": "42/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/VictreebelAquapolis42.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-43/147",
+            "name": "Vileplume",
+            "number": "43/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/32/VileplumeAquapolis43.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-44/147",
+            "name": "Zapdos",
+            "number": "44/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-45/147",
+            "name": "Bellsprout",
+            "number": "45/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/BellsproutAquapolis45.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-46/147",
+            "name": "Dodrio",
+            "number": "46/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/6c/DodrioAquapolis46.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-47/147",
+            "name": "Flaaffy",
+            "number": "47/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/19/FlaaffyAquapolis47.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-48/147",
+            "name": "Furret",
+            "number": "48/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/ed/FurretAquapolis48.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-49/147",
+            "name": "Gloom",
+            "number": "49/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/GloomAquapolis49.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-50a/147",
+            "name": "Golduck",
+            "number": "50a/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/88/GolduckAquapolis50.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-50b/147",
+            "name": "Golduck",
+            "number": "50b/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-51/147",
+            "name": "Growlithe",
+            "number": "51/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/GrowlitheAquapolis51.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-52/147",
+            "name": "Magnemite",
+            "number": "52/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/1e/MagnemiteAquapolis52.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-53/147",
+            "name": "Marill",
+            "number": "53/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2d/MarillAquapolis53.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-54/147",
+            "name": "Marowak",
+            "number": "54/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/MarowakAquapolis54.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-55/147",
+            "name": "Nidorino",
+            "number": "55/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/NidorinoAquapolis55.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-56/147",
+            "name": "Pupitar",
+            "number": "56/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/47/PupitarAquapolis56.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-57/147",
+            "name": "Scyther",
+            "number": "57/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/ScytherAquapolis57.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-58/147",
+            "name": "Seadra",
+            "number": "58/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/SeadraAquapolis58.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-59/147",
+            "name": "Seaking",
+            "number": "59/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f4/SeakingAquapolis59.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-60/147",
+            "name": "Skiploom",
+            "number": "60/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fe/SkiploomAquapolis60.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-61/147",
+            "name": "Smoochum",
+            "number": "61/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/92/SmoochumAquapolis61.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-62/147",
+            "name": "Spinarak",
+            "number": "62/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5a/SpinarakAquapolis62.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-63/147",
+            "name": "Tyrogue",
+            "number": "63/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a4/TyrogueAquapolis63.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-64/147",
+            "name": "Voltorb",
+            "number": "64/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/48/VoltorbAquapolis64.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-65/147",
+            "name": "Weepinbell",
+            "number": "65/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3f/WeepinbellAquapolis65.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-66/147",
+            "name": "Wooper",
+            "number": "66/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f5/WooperAquapolis66.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-67/147",
+            "name": "Aipom",
+            "number": "67/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/e0/AipomAquapolis67.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-68/147",
+            "name": "Bellsprout",
+            "number": "68/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/BellsproutAquapolis68.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-69/147",
+            "name": "Chansey",
+            "number": "69/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/ChanseyAquapolis69.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-70/147",
+            "name": "Chinchou",
+            "number": "70/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cc/ChinchouAquapolis70.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-71/147",
+            "name": "Chinchou",
+            "number": "71/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a9/ChinchouAquapolis71.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-72/147",
+            "name": "Cubone",
+            "number": "72/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/CuboneAquapolis72.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-73/147",
+            "name": "Doduo",
+            "number": "73/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/38/DoduoAquapolis73.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-74a/147",
+            "name": "Drowzee",
+            "number": "74a/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/22/DrowzeeAquapolis74.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-74b/147",
+            "name": "Drowzee",
+            "number": "74b/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-75/147",
+            "name": "Eevee",
+            "number": "75/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/1d/EeveeAquapolis75.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-76/147",
+            "name": "Exeggcute",
+            "number": "76/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/ExeggcuteAquapolis76.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-77/147",
+            "name": "Exeggcute",
+            "number": "77/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c1/ExeggcuteAquapolis77.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-78/147",
+            "name": "Goldeen",
+            "number": "78/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/43/GoldeenAquapolis78.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-79/147",
+            "name": "Grimer",
+            "number": "79/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4b/GrimerAquapolis79.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-80/147",
+            "name": "Growlithe",
+            "number": "80/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/GrowlitheAquapolis80.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-81/147",
+            "name": "Hitmonchan",
+            "number": "81/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/1f/HitmonchanAquapolis81.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-82/147",
+            "name": "Hitmontop",
+            "number": "82/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/ae/HitmontopAquapolis82.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-83/147",
+            "name": "Hoppip",
+            "number": "83/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/12/HoppipAquapolis83.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-84/147",
+            "name": "Horsea",
+            "number": "84/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/HorseaAquapolis84.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-85/147",
+            "name": "Horsea",
+            "number": "85/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/cd/HorseaAquapolis85.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-86/147",
+            "name": "Houndour",
+            "number": "86/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/21/HoundourAquapolis86.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-87/147",
+            "name": "Houndour",
+            "number": "87/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c0/HoundourAquapolis87.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-88/147",
+            "name": "Kangaskhan",
+            "number": "88/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/03/KangaskhanAquapolis88.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-89/147",
+            "name": "Larvitar",
+            "number": "89/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/af/LarvitarAquapolis89.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-90/147",
+            "name": "Lickitung",
+            "number": "90/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/ab/LickitungAquapolis90.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-91/147",
+            "name": "Magnemite",
+            "number": "91/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/be/MagnemiteAquapolis91.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-92/147",
+            "name": "Mankey",
+            "number": "92/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b2/MankeyAquapolis92.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-93/147",
+            "name": "Mareep",
+            "number": "93/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/MareepAquapolis93.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-94/147",
+            "name": "Miltank",
+            "number": "94/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/bc/MiltankAquapolis94.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-95a/147",
+            "name": "Mr. Mime",
+            "number": "95a/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/02/MrMimeAquapolis95.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-95b/147",
+            "name": "Mr. Mime",
+            "number": "95b/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-96/147",
+            "name": "Nidoran♂",
+            "number": "96/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/NidoranAquapolis96.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-97/147",
+            "name": "Oddish",
+            "number": "97/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/2f/OddishAquapolis97.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-98/147",
+            "name": "Onix",
+            "number": "98/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/OnixAquapolis98.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-99/147",
+            "name": "Paras",
+            "number": "99/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/25/ParasAquapolis99.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-100/147",
+            "name": "Phanpy",
+            "number": "100/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/86/PhanpyAquapolis100.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-101/147",
+            "name": "Pinsir",
+            "number": "101/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/72/PinsirAquapolis101.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-102/147",
+            "name": "Ponyta",
+            "number": "102/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/PonytaAquapolis102.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-103a/147",
+            "name": "Porygon",
+            "number": "103a/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4d/PorygonAquapolis103.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-103b/147",
+            "name": "Porygon",
+            "number": "103b/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-104/147",
+            "name": "Psyduck",
+            "number": "104/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/PsyduckAquapolis104.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-105/147",
+            "name": "Remoraid",
+            "number": "105/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d0/RemoraidAquapolis105.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-106/147",
+            "name": "Scyther",
+            "number": "106/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/77/ScytherAquapolis106.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-107/147",
+            "name": "Sentret",
+            "number": "107/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/SentretAquapolis107.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-108/147",
+            "name": "Slowpoke",
+            "number": "108/147",
+            "image": "https://media.pokemoncentral.it/wiki/e/eb/SlowpokeAquapolis108.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-109/147",
+            "name": "Smeargle",
+            "number": "109/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/SmeargleAquapolis109.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-110/147",
+            "name": "Sneasel",
+            "number": "110/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d9/SneaselAquapolis110.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-111/147",
+            "name": "Spinarak",
+            "number": "111/147",
+            "image": "https://media.pokemoncentral.it/wiki/1/17/SpinarakAquapolis111.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-112/147",
+            "name": "Tangela",
+            "number": "112/147",
+            "image": "https://media.pokemoncentral.it/wiki/7/79/TangelaAquapolis112.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-113/147",
+            "name": "Tentacool",
+            "number": "113/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/TentacoolAquapolis113.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-114/147",
+            "name": "Togepi",
+            "number": "114/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fb/TogepiAquapolis114.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-115/147",
+            "name": "Voltorb",
+            "number": "115/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/56/VoltorbAquapolis115.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-116/147",
+            "name": "Vulpix",
+            "number": "116/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fd/VulpixAquapolis116.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-117/147",
+            "name": "Wooper",
+            "number": "117/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5d/WooperAquapolis117.png",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-118/147",
+            "name": "Foresta degli Apricorn",
+            "number": "118/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f1/ForestadegliApricornAquapolis118.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-119/147",
+            "name": "Cubo Oscurità 01",
+            "number": "119/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/CuboOscurit%C3%A001Aquapolis119.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-120/147",
+            "name": "Scambio di Energia",
+            "number": "120/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8b/ScambiodiEnergiaAquapolis120.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-121/147",
+            "name": "Cubo Combattimento 01",
+            "number": "121/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/5e/CuboCombattimento01Aquapolis121.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-122/147",
+            "name": "Cubo Fuoco 01",
+            "number": "122/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/89/CuboFuoco01Aquapolis122.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-123/147",
+            "name": "Guardia Forestale",
+            "number": "123/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/GuardiaForestaleAquapolis123.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-124/147",
+            "name": "Cubo Erba 01",
+            "number": "124/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/ff/CuboErba01Aquapolis124.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-125/147",
+            "name": "Bacca Curativa",
+            "number": "125/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/85/BaccaCurativaAquapolis125.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-126/147",
+            "name": "Prestigiatore",
+            "number": "126/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/b5/PrestigiatoreAquapolis126.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-127/147",
+            "name": "Cubo Lampo 01",
+            "number": "127/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/4a/CuboLampo01Aquapolis127.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-128/147",
+            "name": "Bacca Memoria",
+            "number": "128/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/BaccaMemoriaAquapolis128.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-129/147",
+            "name": "Cubo Metallo 01",
+            "number": "129/147",
+            "image": "https://media.pokemoncentral.it/wiki/9/91/CuboMetallo01Aquapolis129.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-130/147",
+            "name": "Pokémon Fan Club",
+            "number": "130/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8c/Pok%C3%A9monFanClubAquapolis130.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-131/147",
+            "name": "Parco Pokémon",
+            "number": "131/147",
+            "image": "https://media.pokemoncentral.it/wiki/4/40/ParcoPok%C3%A9monAquapolis131.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-132/147",
+            "name": "Cubo Psiche 01",
+            "number": "132/147",
+            "image": "https://media.pokemoncentral.it/wiki/3/3e/CuboPsiche01Aquapolis132.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-133/147",
+            "name": "Veggente",
+            "number": "133/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/83/VeggenteAquapolis133.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-134/147",
+            "name": "Super Rimozione di Energia 2",
+            "number": "134/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/SuperRimozionediEnergia2Aquapolis134.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-135/147",
+            "name": "Frammento Temporale",
+            "number": "135/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/26/FrammentoTemporaleAquapolis135.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-136/147",
+            "name": "Volontari Cittadini",
+            "number": "136/147",
+            "image": "https://media.pokemoncentral.it/wiki/0/0e/VolontariCittadiniAquapolis136.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-137/147",
+            "name": "Commesso Viaggiatore",
+            "number": "137/147",
+            "image": "https://media.pokemoncentral.it/wiki/b/ba/CommessoViaggiatoreAquapolis137.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-138/147",
+            "name": "Rovine Sommerse",
+            "number": "138/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/69/RovineSommerseAquapolis138.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-139/147",
+            "name": "Centrale Energetica",
+            "number": "139/147",
+            "image": "https://media.pokemoncentral.it/wiki/2/29/CentraleEnergeticaAquapolis139.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-140/147",
+            "name": "Cubo Acqua 01",
+            "number": "140/147",
+            "image": "https://media.pokemoncentral.it/wiki/6/6b/CuboAcqua01Aquapolis140.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-141/147",
+            "name": "Controlla Debolezza",
+            "number": "141/147",
+            "image": "https://media.pokemoncentral.it/wiki/a/a2/ControllaDebolezzaAquapolis141.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-142/147",
+            "name": "Energia Oscurità",
+            "number": "142/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-143/147",
+            "name": "Energia Metallo",
+            "number": "143/147",
+            "image": null,
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-144/147",
+            "name": "Energia Arcobaleno",
+            "number": "144/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/54/EnergiaArcobalenoAquapolis144.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-145/147",
+            "name": "Energia Extra",
+            "number": "145/147",
+            "image": "https://media.pokemoncentral.it/wiki/5/55/EnergiaExtraAquapolis145.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-146/147",
+            "name": "Energia Cristallo",
+            "number": "146/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/fc/EnergiaCristalloAquapolis146.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-147/147",
+            "name": "Energia Curvatura",
+            "number": "147/147",
+            "image": "https://media.pokemoncentral.it/wiki/c/c3/EnergiaCurvaturaAquapolis147.jpg",
+            "section": "Set principale"
+        },
+        {
+            "id": "AQ-148/147",
+            "name": "Kingdra",
+            "number": "148/147",
+            "image": "https://media.pokemoncentral.it/wiki/d/d3/KingdraAquapolis148.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "AQ-149/147",
+            "name": "Lugia",
+            "number": "149/147",
+            "image": "https://media.pokemoncentral.it/wiki/f/f6/LugiaAquapolis149.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "AQ-150/147",
+            "name": "Nidoking",
+            "number": "150/147",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/NidokingAquapolis150.jpg",
+            "section": "Fuoriserie"
+        },
+        {
+            "id": "AQ-H1/H32",
+            "name": "Ampharos",
+            "number": "H1/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H2/H32",
+            "name": "Arcanine",
+            "number": "H2/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H3/H32",
+            "name": "Ariados",
+            "number": "H3/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H4/H32",
+            "name": "Azumarill",
+            "number": "H4/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H5/H32",
+            "name": "Bellossom",
+            "number": "H5/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H6/H32",
+            "name": "Blissey",
+            "number": "H6/H32",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/BlisseyAquapolis6.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H7/H32",
+            "name": "Electrode",
+            "number": "H7/H32",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/ElectrodeAquapolis8.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H8/H32",
+            "name": "Entei",
+            "number": "H8/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H9/H32",
+            "name": "Espeon",
+            "number": "H9/H32",
+            "image": "https://media.pokemoncentral.it/wiki/6/65/EspeonAquapolis11.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H10/H32",
+            "name": "Exeggutor",
+            "number": "H10/H32",
+            "image": "https://media.pokemoncentral.it/wiki/c/c2/ExeggutorAquapolis12.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H11/H32",
+            "name": "Houndoom",
+            "number": "H11/H32",
+            "image": "https://media.pokemoncentral.it/wiki/a/a7/HoundoomAquapolis15.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H12/H32",
+            "name": "Hypno",
+            "number": "H12/H32",
+            "image": "https://media.pokemoncentral.it/wiki/e/e7/HypnoAquapolis16.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H13/H32",
+            "name": "Jumpluff",
+            "number": "H13/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H14/H32",
+            "name": "Kingdra",
+            "number": "H14/H32",
+            "image": "https://media.pokemoncentral.it/wiki/a/aa/KingdraAquapolis19.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H15/H32",
+            "name": "Lanturn",
+            "number": "H15/H32",
+            "image": "https://media.pokemoncentral.it/wiki/0/0f/LanturnAquapolis21.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H16/H32",
+            "name": "Magneton",
+            "number": "H16/H32",
+            "image": "https://media.pokemoncentral.it/wiki/b/b0/MagnetonAquapolis22.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H17/H32",
+            "name": "Muk",
+            "number": "H17/H32",
+            "image": "https://media.pokemoncentral.it/wiki/8/8d/MukAquapolis23.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H18/H32",
+            "name": "Nidoking",
+            "number": "H18/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H19/H32",
+            "name": "Ninetales",
+            "number": "H19/H32",
+            "image": "https://media.pokemoncentral.it/wiki/e/e1/NinetalesAquapolis25.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H20/H32",
+            "name": "Octillery",
+            "number": "H20/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H21/H32",
+            "name": "Scizor",
+            "number": "H21/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H22/H32",
+            "name": "Slowking",
+            "number": "H22/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H23/H32",
+            "name": "Steelix",
+            "number": "H23/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H24/H32",
+            "name": "Sudowoodo",
+            "number": "H24/H32",
+            "image": "https://media.pokemoncentral.it/wiki/0/0d/SudowoodoAquapolis36.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H25/H32",
+            "name": "Suicune",
+            "number": "H25/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H26/H32",
+            "name": "Tentacruel",
+            "number": "H26/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H27/H32",
+            "name": "Togetic",
+            "number": "H27/H32",
+            "image": "https://media.pokemoncentral.it/wiki/d/db/TogeticAquapolis39.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H28/H32",
+            "name": "Tyranitar",
+            "number": "H28/H32",
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/TyranitarAquapolis40.jpg",
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H29/H32",
+            "name": "Umbreon",
+            "number": "H29/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H30/H32",
+            "name": "Victreebel",
+            "number": "H30/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H31/H32",
+            "name": "Vileplume",
+            "number": "H31/H32",
+            "image": null,
+            "section": "Olografiche"
+        },
+        {
+            "id": "AQ-H32/H32",
+            "name": "Zapdos",
+            "number": "H32/H32",
+            "image": "https://media.pokemoncentral.it/wiki/9/9d/ZapdosAquapolis44.jpg",
+            "section": "Olografiche"
+        }
+    ]
+}
