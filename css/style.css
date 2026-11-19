@@ -540,3 +540,18 @@
     justify-content: center;
     text-align: center;
 }
+
+
+.series-item-favorite {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 44px;
+    align-self: stretch;
+    margin: -11px -12px -11px 0;
+    color: #c9a7ff;
+    font-size: 17px;
+    cursor: pointer;
+    user-select: none;
+    touch-action: manipulation;
+}
