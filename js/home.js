@@ -1,7 +1,7 @@
 import { state, elements } from "./state.js";
 import { FAVORITES_KEY, saveStorage } from "./storage.js";
 
-const expandedCategories = new Set(["SERIES"]);
+const expandedCategories = new Set();
 
 export function renderHome(openItem)
 {
