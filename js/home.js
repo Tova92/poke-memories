@@ -16,26 +16,25 @@ export function renderHome(openItem)
     });
 }
 
-function renderCategory(category, container, openItem, isMain = false)
+
+function renderCategory(category, container, openItem, level = 0)
 {
     const wrapper = document.createElement("div");
-    wrapper.className = "category";
+    wrapper.className = `category category-level-${level}`;
 
     const header = document.createElement("button");
-    header.className = isMain ? "category-header" : "subcategory-header";
-
-    const arrow = document.createElement("span");
-    arrow.className = "category-arrow";
-    arrow.textContent = expandedCategories.has(category.id) ? "▼" : "▶";
+    header.className = level === 0
+        ? "category-header"
+        : "subcategory-header";
 
     const name = document.createElement("span");
     name.className = "category-name";
     name.textContent = category.name;
 
-    header.append(arrow, name);
+    header.appendChild(name);
 
     const content = document.createElement("div");
-    content.className = "category-content";
+    content.className = `category-content category-content-level-${level}`;
     content.hidden = !expandedCategories.has(category.id);
 
     header.addEventListener("click", () =>
@@ -50,7 +49,6 @@ function renderCategory(category, container, openItem, isMain = false)
         }
 
         content.hidden = !expandedCategories.has(category.id);
-        arrow.textContent = expandedCategories.has(category.id) ? "▼" : "▶";
     });
 
     const nestedCategories = category.items.filter(item =>
@@ -61,15 +59,23 @@ function renderCategory(category, container, openItem, isMain = false)
         typeof item === "string"
     );
 
-    nestedCategories.forEach(item =>
+    if (nestedCategories.length)
     {
-        renderCategory(item, content, openItem);
-    });
+        const nestedContainer = document.createElement("div");
+        nestedContainer.className = "subcategory-list";
+
+        nestedCategories.forEach(item =>
+        {
+            renderCategory(item, nestedContainer, openItem, level + 1);
+        });
+
+        content.appendChild(nestedContainer);
+    }
 
     if (itemIds.length)
     {
         const itemsContainer = document.createElement("div");
-        itemsContainer.className = "series-items";
+        itemsContainer.className = "series-items series-items-full";
 
         itemIds.forEach(id =>
         {
