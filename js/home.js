@@ -88,26 +88,32 @@ function renderCategory(category, container, openItem, level = 0)
 
         itemIds.forEach(id =>
         {
-            const button = document.createElement("button");
-            button.className = "series-item";
-
-            const itemName = document.createElement("span");
-            itemName.textContent = id;
-
-            const star = document.createElement("span");
-            star.className = "series-item-favorite";
-            star.textContent = state.favorites.includes(id) ? "★" : "☆";
+            const wrapper = document.createElement("div");
+            wrapper.className = "series-item";
             
-            star.addEventListener("click", event =>
+            const button = document.createElement("button");
+            button.className = "series-item-open";
+            button.textContent = id;
+            button.addEventListener("click", () => openItem(id));
+            
+            const star = document.createElement("button");
+            star.className = "series-item-favorite";
+            
+            const isFavorite = state.favorites.includes(id);
+            
+            star.textContent = isFavorite ? "★" : "☆";
+            star.setAttribute("aria-label", isFavorite
+                ? `Rimuovi ${id} dai preferiti`
+                : `Aggiungi ${id} ai preferiti`);
+            star.setAttribute("aria-pressed", isFavorite);
+            
+            star.addEventListener("click", () =>
             {
-                event.stopPropagation();
                 toggleFavorite(id, openItem);
             });
-
-            button.append(itemName, star);
-            button.addEventListener("click", () => openItem(id));
-
-            itemsContainer.appendChild(button);
+            
+            wrapper.append(button, star);
+            itemsContainer.appendChild(wrapper);
         });
 
         content.appendChild(itemsContainer);
