@@ -3,6 +3,19 @@ import { FAVORITES_KEY, saveStorage } from "./storage.js";
 
 const expandedCategories = new Set();
 
+function closeCategoryTree(category)
+{
+    expandedCategories.delete(category.id);
+
+    category.items.forEach(item =>
+    {
+        if (typeof item === "object")
+        {
+            closeCategoryTree(item);
+        }
+    });
+}
+
 export function renderHome(openItem)
 {
     renderFavorites(openItem);
@@ -12,12 +25,11 @@ export function renderHome(openItem)
 
     state.series.forEach(category =>
     {
-        renderCategory(category, container, openItem);
+        renderCategory(category, container, openItem, 0, state.series);
     });
 }
 
-
-function renderCategory(category, container, openItem, level = 0)
+function renderCategory(category, container, openItem, level = 0, siblings = [])
 {
     const wrapper = document.createElement("div");
     wrapper.className = `category category-level-${level}`;
@@ -25,8 +37,6 @@ function renderCategory(category, container, openItem, level = 0)
         "expanded",
         expandedCategories.has(category.id)
     );
-    wrapper.className = `category category-level-${level}`;
-
     const header = document.createElement("button");
     header.className = level === 0
         ? "category-header"
@@ -46,18 +56,22 @@ function renderCategory(category, container, openItem, level = 0)
     {
         if (expandedCategories.has(category.id))
         {
-            expandedCategories.delete(category.id);
+            closeCategoryTree(category);
         }
         else
         {
+            siblings.forEach(sibling =>
+            {
+                if (sibling.id !== category.id)
+                {
+                    closeCategoryTree(sibling);
+                }
+            });
+    
             expandedCategories.add(category.id);
         }
-
-        wrapper.classList.toggle(
-            "expanded",
-            expandedCategories.has(category.id)
-        );
-        content.hidden = !expandedCategories.has(category.id);
+    
+        renderHome(openItem);
     });
 
     const nestedCategories = category.items.filter(item =>
@@ -75,7 +89,13 @@ function renderCategory(category, container, openItem, level = 0)
 
         nestedCategories.forEach(item =>
         {
-            renderCategory(item, nestedContainer, openItem, level + 1);
+            renderCategory(
+                item,
+                nestedContainer,
+                openItem,
+                level + 1,
+                nestedCategories
+            );
         });
 
         content.appendChild(nestedContainer);
