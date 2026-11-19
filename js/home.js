@@ -20,6 +20,7 @@ export function renderHome(openItem)
 function renderCategory(category, container, openItem, level = 0)
 {
     const wrapper = document.createElement("div");
+    wrapper.className = `category category-level-${level}`;
     wrapper.classList.toggle(
         "expanded",
         expandedCategories.has(category.id)
@@ -94,9 +95,14 @@ function renderCategory(category, container, openItem, level = 0)
             itemName.textContent = id;
 
             const star = document.createElement("span");
+            star.className = "series-item-favorite";
             star.textContent = state.favorites.includes(id) ? "★" : "☆";
-            star.style.color = "#c9a7ff";
-            star.style.fontSize = "17px";
+            
+            star.addEventListener("click", event =>
+            {
+                event.stopPropagation();
+                toggleFavorite(id, openItem);
+            });
 
             button.append(itemName, star);
             button.addEventListener("click", () => openItem(id));
