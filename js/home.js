@@ -12,7 +12,7 @@ export function renderHome(openItem)
 
     state.series.forEach(category =>
     {
-        renderCategory(category, container, openItem, true);
+        renderCategory(category, container, openItem);
     });
 }
 
