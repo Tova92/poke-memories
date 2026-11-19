@@ -528,3 +528,15 @@
     }
 }
 
+
+/* La sottocategoria aperta occupa tutta la riga */
+.subcategory-list > .category-level-1.expanded {
+    grid-column: 1 / -1;
+}
+
+/* Nomi centrati */
+.category-header,
+.subcategory-header {
+    justify-content: center;
+    text-align: center;
+}
