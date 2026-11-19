@@ -1,5 +1,7 @@
 import { DATA_PATH } from "./state.js";
 
+const itemTypes = new Map();
+
 export async function fetchJSON(path)
 {
     const response = await fetch(path);
@@ -14,26 +16,76 @@ export async function fetchJSON(path)
 
 export async function loadCatalog()
 {
-    const data = await fetchJSON(DATA_PATH + "series.json");
+    const data = await fetchJSON(DATA_PATH + "categories.json");
 
-    if (!Array.isArray(data.series))
+    if (!Array.isArray(data.categories))
     {
-        throw new Error("Formato series.json non valido");
+        throw new Error("Formato categories.json non valido");
     }
 
-    return data.series.sort((a, b) => a.sortOrder - b.sortOrder);
+    itemTypes.clear();
+
+    function processCategory(category, inheritedType = null)
+    {
+        if (
+            !category ||
+            typeof category.id !== "string" ||
+            typeof category.name !== "string" ||
+            !Array.isArray(category.items)
+        )
+        {
+            throw new Error("Struttura di una categoria non valida");
+        }
+
+        const contentType = category.contentType || inheritedType;
+
+        if (contentType !== "expansion" && contentType !== "group")
+        {
+            throw new Error(`contentType non valido: ${category.id}`);
+        }
+
+        category.items = category.items.map(item =>
+        {
+            if (typeof item === "string")
+            {
+                itemTypes.set(item, contentType);
+                return item;
+            }
+
+            processCategory(item, contentType);
+            return item;
+        });
+
+        category.items.sort((a, b) =>
+        {
+            if (typeof a === "string" || typeof b === "string")
+            {
+                return 0;
+            }
+
+            return a.sortOrder - b.sortOrder;
+        });
+
+        return category;
+    }
+
+    data.categories.forEach(category => processCategory(category));
+
+    return data.categories.sort((a, b) => a.sortOrder - b.sortOrder);
 }
 
 export async function loadItemData(id)
 {
-    try
+    const contentType = itemTypes.get(id);
+
+    if (!contentType)
     {
-        return await fetchJSON(DATA_PATH + "expansions/" + id + ".json");
+        throw new Error(`Tipo di elemento sconosciuto: ${id}`);
     }
-    catch (error)
-    {
-        return await fetchJSON(DATA_PATH + "groups/" + id + ".json");
-    }
+
+    return await fetchJSON(
+        DATA_PATH + contentType + "s/" + id + ".json"
+    );
 }
 
 export function validateItemData(data)
