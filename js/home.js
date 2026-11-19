@@ -1,6 +1,8 @@
 import { state, elements } from "./state.js";
 import { FAVORITES_KEY, saveStorage } from "./storage.js";
 
+const expandedCategories = new Set(["SERIES"]);
+
 export function renderHome(openItem)
 {
     renderFavorites(openItem);
@@ -8,16 +10,68 @@ export function renderHome(openItem)
     const container = elements.seriesList;
     container.innerHTML = "";
 
-    state.series.forEach(currentSeries =>
+    state.series.forEach(category =>
     {
-        const title = document.createElement("h3");
-        title.className = "series-title";
-        title.textContent = currentSeries.name;
+        renderCategory(category, container, openItem, true);
+    });
+}
 
+function renderCategory(category, container, openItem, isMain = false)
+{
+    const wrapper = document.createElement("div");
+    wrapper.className = "category";
+
+    const header = document.createElement("button");
+    header.className = isMain ? "category-header" : "subcategory-header";
+
+    const arrow = document.createElement("span");
+    arrow.className = "category-arrow";
+    arrow.textContent = expandedCategories.has(category.id) ? "▼" : "▶";
+
+    const name = document.createElement("span");
+    name.className = "category-name";
+    name.textContent = category.name;
+
+    header.append(arrow, name);
+
+    const content = document.createElement("div");
+    content.className = "category-content";
+    content.hidden = !expandedCategories.has(category.id);
+
+    header.addEventListener("click", () =>
+    {
+        if (expandedCategories.has(category.id))
+        {
+            expandedCategories.delete(category.id);
+        }
+        else
+        {
+            expandedCategories.add(category.id);
+        }
+
+        content.hidden = !expandedCategories.has(category.id);
+        arrow.textContent = expandedCategories.has(category.id) ? "▼" : "▶";
+    });
+
+    const nestedCategories = category.items.filter(item =>
+        typeof item === "object"
+    );
+
+    const itemIds = category.items.filter(item =>
+        typeof item === "string"
+    );
+
+    nestedCategories.forEach(item =>
+    {
+        renderCategory(item, content, openItem);
+    });
+
+    if (itemIds.length)
+    {
         const itemsContainer = document.createElement("div");
         itemsContainer.className = "series-items";
 
-        currentSeries.items.forEach(id =>
+        itemIds.forEach(id =>
         {
             const button = document.createElement("button");
             button.className = "series-item";
@@ -32,11 +86,37 @@ export function renderHome(openItem)
 
             button.append(itemName, star);
             button.addEventListener("click", () => openItem(id));
+
             itemsContainer.appendChild(button);
         });
 
-        container.append(title, itemsContainer);
+        content.appendChild(itemsContainer);
+    }
+
+    wrapper.append(header, content);
+    container.appendChild(wrapper);
+}
+
+function getAllItemIds(categories)
+{
+    const ids = [];
+
+    categories.forEach(category =>
+    {
+        category.items.forEach(item =>
+        {
+            if (typeof item === "string")
+            {
+                ids.push(item);
+            }
+            else
+            {
+                ids.push(...getAllItemIds([item]));
+            }
+        });
     });
+
+    return ids;
 }
 
 function renderFavorites(openItem)
@@ -44,18 +124,8 @@ function renderFavorites(openItem)
     const container = elements.favorites;
     container.innerHTML = "";
 
-    const favoriteItems = [];
-
-    state.series.forEach(currentSeries =>
-    {
-        currentSeries.items.forEach(id =>
-        {
-            if (state.favorites.includes(id))
-            {
-                favoriteItems.push(id);
-            }
-        });
-    });
+    const favoriteItems = getAllItemIds(state.series)
+        .filter(id => state.favorites.includes(id));
 
     if (!favoriteItems.length)
     {
