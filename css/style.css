@@ -112,22 +112,45 @@
  }
 
  .series-item {
-     display: flex;
-     align-items: center;
-     justify-content: space-between;
-     gap: 8px;
-     padding: 11px 12px;
-     border: 0;
-     border-radius: 10px;
-     background: #241f36;
-     color: #f5f0ff;
-     text-align: left;
-     font-size: 12px;
- }
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+    min-width: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #241f36;
+}
 
- .series-item:active {
-     background: #39324e;
- }
+.series-item-open {
+    flex: 1;
+    min-width: 0;
+    padding: 11px 12px;
+    border: 0;
+    background: transparent;
+    color: #f5f0ff;
+    text-align: left;
+    font-size: 12px;
+}
+
+.series-item-open:active {
+    background: #39324e;
+}
+
+.series-item-favorite {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 52px;
+    padding: 0;
+    border: 0;
+    background: #302941;
+    color: #c9a7ff;
+    font-size: 22px;
+}
+
+.series-item-favorite:active {
+    background: #514465;
+}
 
  .progress {
      padding: 18px;
@@ -542,16 +565,3 @@
 }
 
 
-.series-item-favorite {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex: 0 0 44px;
-    align-self: stretch;
-    margin: -11px -12px -11px 0;
-    color: #c9a7ff;
-    font-size: 17px;
-    cursor: pointer;
-    user-select: none;
-    touch-action: manipulation;
-}
