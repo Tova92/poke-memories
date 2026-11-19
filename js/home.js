@@ -20,6 +20,10 @@ export function renderHome(openItem)
 function renderCategory(category, container, openItem, level = 0)
 {
     const wrapper = document.createElement("div");
+    wrapper.classList.toggle(
+        "expanded",
+        expandedCategories.has(category.id)
+    );
     wrapper.className = `category category-level-${level}`;
 
     const header = document.createElement("button");
@@ -48,6 +52,10 @@ function renderCategory(category, container, openItem, level = 0)
             expandedCategories.add(category.id);
         }
 
+        wrapper.classList.toggle(
+            "expanded",
+            expandedCategories.has(category.id)
+        );
         content.hidden = !expandedCategories.has(category.id);
     });
 
