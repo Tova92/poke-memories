@@ -142,6 +142,8 @@
     justify-content: center;
     flex: 0 0 52px;
     padding: 0;
+    line-height: 1;
+    align-self: stretch;
     border: 0;
     background: #302941;
     color: #c9a7ff;
