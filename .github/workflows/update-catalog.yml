@@ -29,7 +29,6 @@ jobs:
       - name: Generate catalog index
         run: python python/create_catalog_index.py
 
-      - 
       - name: Commit catalog index
         run: |
           git add data/catalog-index.json
