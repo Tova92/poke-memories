@@ -2,9 +2,9 @@
     "expansion": {
         "id": "AQ",
         "name": "Aquapolis",
-				"year": 2003,
-				"month": 4,
-				"language": "it",
+		"year": 2003,
+		"month": 4,
+		"language": "it",
         "logo": "https://media.pokemoncentral.it/wiki/3/36/Logo_Aquapolis.png",
         "cardCount": 186
     },
@@ -286,7 +286,7 @@
             "id": "AQ-40/147",
             "name": "Tyranitar",
             "number": "40/147",
-            "image": null",
+            "image": null,
             "section": "Set principale"
         },
         {
@@ -1280,7 +1280,7 @@
             "id": "AQ-H28/H32",
             "name": "Tyranitar",
             "number": "H28/H32",
-            "image": "https://media.pokemoncentral.it/wiki/6/6e/TyranitarAquapolis40.jpg,
+            "image": "https://media.pokemoncentral.it/wiki/6/6e/TyranitarAquapolis40.jpg",
             "section": "Olografiche"
         },
         {
