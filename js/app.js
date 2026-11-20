@@ -10,6 +10,8 @@ import {
     toggleVisibility
 } from "./modal.js";
 
+let homeScrollPosition = 0;
+
 function showHome()
 {
     renderHome(openItem);
@@ -17,6 +19,8 @@ function showHome()
 
 async function openItem(id)
 {
+    homeScrollPosition = window.scrollY;
+    
     elements.grid.innerHTML = '<div class="empty">Caricamento delle carte...</div>';
     elements.homeView.hidden = true;
     elements.itemView.hidden = false;
@@ -56,6 +60,11 @@ function goHome()
     elements.itemView.hidden = true;
     elements.homeView.hidden = false;
     showHome();
+
+    requestAnimationFrame(() =>
+    {
+        window.scrollTo(0, homeScrollPosition);
+    });
 }
 
 function setupEvents()
