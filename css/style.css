@@ -501,7 +501,7 @@
 }
 
 .category-content {
-    padding: 10px 0 5px 18px;
+    padding: 10px 18px 5px 18px;
 }
 
 .category-content[hidden] {
