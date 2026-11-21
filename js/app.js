@@ -1,5 +1,10 @@
 import { state, elements } from "./state.js";
-import { loadCatalog, loadItemData, validateItemData } from "./data.js";
+import {
+    loadCatalog,
+    loadCatalogIndex,
+    loadItemData,
+    validateItemData
+} from "./data.js";
 import { renderHome } from "./home.js";
 import { renderCards } from "./collection.js";
 import {
@@ -128,6 +133,7 @@ async function startApp()
     try
     {
         state.series = await loadCatalog();
+        await loadCatalogIndex();
         showHome();
     }
     catch (error)
