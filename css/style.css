@@ -653,6 +653,6 @@
     color: #c5bdd5;
 }
 
-#favorites .series-item {
-    width: 100%;
+#favorites.item-list {
+    grid-template-columns: 1fr;
 }
