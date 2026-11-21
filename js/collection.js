@@ -15,8 +15,6 @@ export function updateProgress()
     document.getElementById("count").textContent = `${acquired} / ${total}`;
     document.getElementById("percentage").textContent = `${percentage}%`;
     document.getElementById("bar").style.width = `${percentage}%`;
-    document.getElementById("bar").offsetWidth;
-    document.getElementById("bar").style.transition = "";
 }
 
 export function renderCards(openModal)
