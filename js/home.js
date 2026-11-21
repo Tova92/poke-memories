@@ -129,11 +129,13 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
             button.style.setProperty("--progress", `${percentage}%`);
             button.addEventListener("click", () => openItem(id));
 
-            if (metadata?.logo)
+            const image = metadata?.logo || metadata?.symbol;
+
+            if (image)
             {
                 const logo = document.createElement("img");
                 logo.className = "series-item-logo";
-                logo.src = metadata.logo;
+                logo.src = image;
                 logo.alt = "";
                 logo.loading = "lazy";
 
@@ -222,23 +224,66 @@ function renderFavorites(openItem)
 
     favoriteItems.forEach(id =>
     {
+        const metadata = getItemMetadata(id);
+        const total = getTotalCardCount(id);
+
+        const owned = state.owned.filter(cardId =>
+            typeof cardId === "string" &&
+            cardId.startsWith(`${id}-`)
+        ).length;
+
+        const percentage = total > 0
+            ? Math.min(100, owned / total * 100)
+            : 0;
+
         const wrapper = document.createElement("div");
-        wrapper.className = "favorite-item";
+        wrapper.className = "series-item";
 
         const button = document.createElement("button");
-        button.className = "item-button";
-
-        const name = document.createElement("span");
-        name.textContent = id;
-        button.appendChild(name);
+        button.className = "series-item-open";
+        button.style.setProperty("--progress", `${percentage}%`);
         button.addEventListener("click", () => openItem(id));
 
+        const image = metadata?.logo || metadata?.symbol;
+
+        if (image)
+        {
+            const logo = document.createElement("img");
+            logo.className = "series-item-logo";
+            logo.src = image;
+            logo.alt = "";
+            logo.loading = "lazy";
+
+            button.appendChild(logo);
+        }
+
+        const details = document.createElement("div");
+        details.className = "series-item-details";
+
+        const name = document.createElement("span");
+        name.className = "series-item-name";
+        name.textContent = metadata?.name || id;
+
+        const count = document.createElement("span");
+        count.className = "series-item-count";
+        count.textContent = total > 0
+            ? `${owned} / ${total}`
+            : `${owned} / —`;
+
+        details.append(name, count);
+        button.appendChild(details);
+
         const star = document.createElement("button");
-        star.className = "favorite-button active";
+        star.className = "series-item-favorite";
         star.textContent = "★";
         star.title = "Rimuovi dai preferiti";
         star.setAttribute("aria-label", `Rimuovi ${id} dai preferiti`);
-        star.addEventListener("click", () => toggleFavorite(id, openItem));
+        star.setAttribute("aria-pressed", true);
+
+        star.addEventListener("click", () =>
+        {
+            toggleFavorite(id, openItem);
+        });
 
         wrapper.append(button, star);
         container.appendChild(wrapper);
