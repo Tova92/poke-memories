@@ -1105,8 +1105,8 @@
             "month": 11,
             "language": "it",
             "cardCount": 252,
-            "logo": null,
-            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+            "logo": "https://media.pokemoncentral.it/wiki/1/14/Logo_Scintille_Folgoranti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetScintille_Folgoranti.png"
         },
         {
             "id": "STS",
