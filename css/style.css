@@ -596,3 +596,59 @@
     stroke-linejoin: round;
 }
 
+
+/* Tessere espansioni e gruppi */
+.series-item {
+    border: 1px solid #39324e;
+    border-radius: 14px;
+}
+
+.series-item-open {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    min-height: 86px;
+    padding: 12px 14px;
+    background: linear-gradient(
+        to right,
+        #51416f 0%,
+        #51416f var(--progress, 0%),
+        #241f36 var(--progress, 0%),
+        #241f36 100%
+    );
+}
+
+.series-item-open:active {
+    background: linear-gradient(
+        to right,
+        #66528a 0%,
+        #66528a var(--progress, 0%),
+        #39324e var(--progress, 0%),
+        #39324e 100%
+    );
+}
+
+.series-item-logo {
+    flex: 0 0 48px;
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+}
+
+.series-item-details {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-width: 0;
+}
+
+.series-item-name {
+    font-size: 13px;
+    font-weight: bold;
+    overflow-wrap: anywhere;
+}
+
+.series-item-count {
+    font-size: 11px;
+    color: #c5bdd5;
+}
