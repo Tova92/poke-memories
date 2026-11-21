@@ -1,5 +1,6 @@
 import { state, elements } from "./state.js";
 import { FAVORITES_KEY, saveStorage } from "./storage.js";
+import { getItemMetadata, getTotalCardCount } from "./data.js";
 
 const expandedCategories = new Set();
 
@@ -108,30 +109,69 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
 
         itemIds.forEach(id =>
         {
+            const metadata = getItemMetadata(id);
+            const total = getTotalCardCount(id);
+
+            const owned = state.owned.filter(cardId =>
+                typeof cardId === "string" &&
+                cardId.startsWith(`${id}-`)
+            ).length;
+
+            const percentage = total > 0
+                ? Math.min(100, owned / total * 100)
+                : 0;
+
             const wrapper = document.createElement("div");
             wrapper.className = "series-item";
-            
+
             const button = document.createElement("button");
             button.className = "series-item-open";
-            button.textContent = id;
+            button.style.setProperty("--progress", `${percentage}%`);
             button.addEventListener("click", () => openItem(id));
-            
+
+            if (metadata?.logo)
+            {
+                const logo = document.createElement("img");
+                logo.className = "series-item-logo";
+                logo.src = metadata.logo;
+                logo.alt = "";
+                logo.loading = "lazy";
+
+                button.appendChild(logo);
+            }
+
+            const details = document.createElement("div");
+            details.className = "series-item-details";
+
+            const name = document.createElement("span");
+            name.className = "series-item-name";
+            name.textContent = metadata?.name || id;
+
+            const count = document.createElement("span");
+            count.className = "series-item-count";
+            count.textContent = total > 0
+                ? `${owned} / ${total}`
+                : `${owned} / —`;
+
+            details.append(name, count);
+            button.appendChild(details);
+
             const star = document.createElement("button");
             star.className = "series-item-favorite";
-            
+
             const isFavorite = state.favorites.includes(id);
-            
+
             star.textContent = isFavorite ? "★" : "☆";
             star.setAttribute("aria-label", isFavorite
                 ? `Rimuovi ${id} dai preferiti`
                 : `Aggiungi ${id} ai preferiti`);
             star.setAttribute("aria-pressed", isFavorite);
-            
+
             star.addEventListener("click", () =>
             {
                 toggleFavorite(id, openItem);
             });
-            
+
             wrapper.append(button, star);
             itemsContainer.appendChild(wrapper);
         });
