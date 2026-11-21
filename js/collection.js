@@ -1,10 +1,15 @@
 import { state, elements } from "./state.js";
 import { setCardImage } from "./images.js";
+import { getTotalCardCount } from "./data.js";
 
 export function updateProgress()
 {
-    const total = state.cards.length;
-    const acquired = state.cards.filter(card => state.owned.includes(card.id)).length;
+    const id = state.currentItem.id;
+    const total = getTotalCardCount(id);
+    const acquired = state.owned.filter(cardId =>
+        typeof cardId === "string" &&
+        cardId.startsWith(`${id}-`)
+    ).length;
     const percentage = total ? Math.round(acquired / total * 100) : 0;
 
     document.getElementById("count").textContent = `${acquired} / ${total}`;
