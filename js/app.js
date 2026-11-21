@@ -22,8 +22,13 @@ function showHome()
     renderHome(openItem);
 }
 
-async function openItem(id)
+async function openItem(id, addHistory = true)
 {
+    if (addHistory)
+    {
+        window.history.pushState({ view: "item", id }, "");
+    }
+
     homeScrollPosition = window.scrollY;
     
     elements.grid.innerHTML = '<div class="empty">Caricamento delle carte...</div>';
@@ -74,8 +79,23 @@ function goHome()
 
 function setupEvents()
 {
-    document.getElementById("backHome").addEventListener("click", goHome);
+    document.getElementById("backHome").addEventListener("click", () =>
+    {
+        window.history.back();
+    });
 
+    window.addEventListener("popstate", event =>
+    {
+        if (event.state?.view === "item")
+        {
+            openItem(event.state.id, false);
+        }
+        else if (!elements.itemView.hidden)
+        {
+            goHome();
+        }
+    });
+    
     document.querySelectorAll(".filters button").forEach(button =>
     {
         button.addEventListener("click", () =>
@@ -128,6 +148,7 @@ function setupEvents()
 
 async function startApp()
 {
+    window.history.replaceState({ view: "home" }, "");
     setupEvents();
 
     try
