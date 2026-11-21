@@ -629,8 +629,8 @@
 }
 
 .series-item-logo {
-    flex: 0 0 64px;
-    width: 64px;
+    flex: 0 0 110px;
+    width: 110px;
     height: 64px;
     object-fit: contain;
 }
