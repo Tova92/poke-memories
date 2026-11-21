@@ -2,11 +2,12 @@
     "expansion": {
         "id": "N1",
         "name": "Neo Genesis",
-				"year": 2001,
-				"month": 6,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetNeo_Genesis.svg",
-        "cardCount": 111
+        "year": 2001,
+        "month": 6,
+        "language": "it",
+        "cardCount": 111,
+        "logo": "https://media.pokemoncentral.it/wiki/4/47/Logo_Neo_Genesis.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetNeo_Genesis.svg"
     },
     "cards": [
         {

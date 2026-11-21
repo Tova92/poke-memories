@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DRV",
         "name": "Tesoro dei Draghi",
-				"year": 2012,
-				"month": 10,
+        "year": 2012,
+        "month": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetTesoro_dei_Draghi.png",
-        "cardCount": 21
+        "cardCount": 21,
+        "logo": "https://media.pokemoncentral.it/wiki/b/bd/Logo_Tesoro_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetTesoro_dei_Draghi.png"
     },
     "cards": [
         {

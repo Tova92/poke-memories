@@ -2,11 +2,12 @@
     "expansion": {
         "id": "PL",
         "name": "Platino",
-				"year": 2009,
-				"month": 2,
+        "year": 2009,
+        "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetPlatino.png",
-        "cardCount": 133
+        "cardCount": 133,
+        "logo": "https://media.pokemoncentral.it/wiki/0/0c/Logo_Platino.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetPlatino.png"
     },
     "cards": [
         {

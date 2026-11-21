@@ -5,8 +5,9 @@
         "year": 2023,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/99/SimboloSetOssidiana_Infuocata.png",
-        "cardCount": 230
+        "cardCount": 230,
+        "logo": "https://media.pokemoncentral.it/wiki/c/c6/Logo_Ossidiana_Infuocata.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/99/SimboloSetOssidiana_Infuocata.png"
     },
     "cards": [
         {
@@ -1620,14 +1621,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-001",
-				"SVE-002",
-				"SVE-003",
-				"SVE-004",
-				"SVE-005",
-				"SVE-006",
-				"SVE-007",
-				"SVE-008"
-		]
+    "energies": [
+        "SVE-001",
+        "SVE-002",
+        "SVE-003",
+        "SVE-004",
+        "SVE-005",
+        "SVE-006",
+        "SVE-007",
+        "SVE-008"
+    ]
 }

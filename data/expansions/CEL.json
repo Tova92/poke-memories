@@ -5,8 +5,9 @@
         "year": 2021,
         "month": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/83/SimboloSetGran_Festa.png",
-        "cardCount": 50
+        "cardCount": 50,
+        "logo": "https://media.pokemoncentral.it/wiki/9/9c/Logo_Gran_Festa.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/83/SimboloSetGran_Festa.png"
     },
     "cards": [
         {

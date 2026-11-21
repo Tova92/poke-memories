@@ -5,8 +5,9 @@
         "period": "Scarlatto e Violetto",
         "sortOrder": 1,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetEnergie_base_SVE.png",
-        "cardCount": 24
+        "cardCount": 24,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetEnergie_base_SVE.png"
     },
     "cards": [
         {

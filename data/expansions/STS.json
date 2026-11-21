@@ -5,8 +5,9 @@
         "year": 2016,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetVapori_Accesi.png",
-        "cardCount": 116
+        "cardCount": 116,
+        "logo": "https://media.pokemoncentral.it/wiki/9/91/Logo_Vapori_Accesi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetVapori_Accesi.png"
     },
     "cards": [
         {

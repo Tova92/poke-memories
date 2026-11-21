@@ -2,11 +2,12 @@
     "expansion": {
         "id": "LM",
         "name": "EX La Leggenda di Mew",
-				"year": 2006,
-				"month": 2,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetEX_La_Leggenda_di_Mew.png",
-        "cardCount": 93
+        "year": 2006,
+        "month": 2,
+        "language": "it",
+        "cardCount": 93,
+        "logo": "https://media.pokemoncentral.it/wiki/7/7b/Logo_EX_La_Leggenda_di_Mew.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetEX_La_Leggenda_di_Mew.png"
     },
     "cards": [
         {

@@ -5,9 +5,10 @@
         "year": 2016,
         "month": 4,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a3/SimboloSetGenerazioni.png",
         "cardCount": 115,
-				"yellowAAlternateCardCount": 2
+        "yellowAAlternateCardCount": 2,
+        "logo": "https://media.pokemoncentral.it/wiki/8/89/Logo_Generazioni.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a3/SimboloSetGenerazioni.png"
     },
     "cards": [
         {

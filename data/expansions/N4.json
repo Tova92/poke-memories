@@ -2,11 +2,12 @@
     "expansion": {
         "id": "N4",
         "name": "Neo Destiny",
-				"year": 2002,
-				"month": 2,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetNeo_Destiny.svg",
-        "cardCount": 113
+        "year": 2002,
+        "month": 2,
+        "language": "it",
+        "cardCount": 113,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d9/Logo_Neo_Destiny.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetNeo_Destiny.svg"
     },
     "cards": [
         {

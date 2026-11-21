@@ -2,11 +2,12 @@
     "expansion": {
         "id": "MT",
         "name": "Diamante & Perla - Tesori Misteriosi",
-				"year": 2007,
-				"month": 8,
+        "year": 2007,
+        "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/80/SimboloSetTesori_Misteriosi.png",
-        "cardCount": 124
+        "cardCount": 124,
+        "logo": "https://media.pokemoncentral.it/wiki/2/2f/Logo_Tesori_Misteriosi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/80/SimboloSetTesori_Misteriosi.png"
     },
     "cards": [
         {

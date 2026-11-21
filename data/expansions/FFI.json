@@ -5,9 +5,10 @@
         "year": 2014,
         "month": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetColpi_Furiosi.png",
         "cardCount": 113,
-				"yellowAAlternateCardCount": 1
+        "yellowAAlternateCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/3/39/Logo_Colpi_Furiosi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetColpi_Furiosi.png"
     },
     "cards": [
         {

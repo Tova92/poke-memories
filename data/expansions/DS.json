@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DS",
         "name": "EX Specie Delta",
-				"year": 2005,
-				"month": 10,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetEX_Specie_Delta.png",
-        "cardCount": 114
+        "year": 2005,
+        "month": 10,
+        "language": "it",
+        "cardCount": 114,
+        "logo": "https://media.pokemoncentral.it/wiki/6/6f/Logo_EX_Specie_Delta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetEX_Specie_Delta.png"
     },
     "cards": [
         {

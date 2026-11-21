@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DEX",
         "name": "Nero e Bianco - Esploratori delle Tenebre",
-				"year": 2012,
-				"month": 8,
+        "year": 2012,
+        "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/4a/SimboloSetEsploratori_delle_Tenebre.png",
-        "cardCount": 111
+        "cardCount": 111,
+        "logo": "https://media.pokemoncentral.it/wiki/0/03/Logo_Esploratori_delle_Tenebre.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4a/SimboloSetEsploratori_delle_Tenebre.png"
     },
     "cards": [
         {

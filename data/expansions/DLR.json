@@ -5,8 +5,9 @@
         "year": 2026,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetDominio_Delta.png",
-        "cardCount": 141
+        "cardCount": 141,
+        "logo": "https://media.pokemoncentral.it/wiki/a/a7/Logo_Dominio_Delta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetDominio_Delta.png"
     },
     "cards": [
         {
@@ -997,14 +998,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"MEE-001",
-				"MEE-002",
-				"MEE-003",
-				"MEE-004",
-				"MEE-005",
-				"MEE-006",
-				"MEE-007",
-				"MEE-008"
-		]
+    "energies": [
+        "MEE-001",
+        "MEE-002",
+        "MEE-003",
+        "MEE-004",
+        "MEE-005",
+        "MEE-006",
+        "MEE-007",
+        "MEE-008"
+    ]
 }

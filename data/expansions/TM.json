@@ -2,11 +2,12 @@
     "expansion": {
         "id": "TM",
         "name": "HS - Battaglie Trionfali",
-				"year": 2011,
-				"month": 2,
+        "year": 2011,
+        "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/e/e6/SimboloSetBattaglie_Trionfali.png",
-        "cardCount": 103
+        "cardCount": 103,
+        "logo": "https://media.pokemoncentral.it/wiki/4/40/Logo_Battaglie_Trionfali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e6/SimboloSetBattaglie_Trionfali.png"
     },
     "cards": [
         {

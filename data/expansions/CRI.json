@@ -5,8 +5,9 @@
         "year": 2026,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetCaos_Nascente.png",
-        "cardCount": 122
+        "cardCount": 122,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d3/Logo_Caos_Nascente.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetCaos_Nascente.png"
     },
     "cards": [
         {
@@ -864,14 +865,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"MEE-001",
-				"MEE-002",
-				"MEE-003",
-				"MEE-004",
-				"MEE-005",
-				"MEE-006",
-				"MEE-007",
-				"MEE-008"
-		]
+    "energies": [
+        "MEE-001",
+        "MEE-002",
+        "MEE-003",
+        "MEE-004",
+        "MEE-005",
+        "MEE-006",
+        "MEE-007",
+        "MEE-008"
+    ]
 }

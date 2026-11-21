@@ -5,8 +5,9 @@
         "period": "Scarlatto e Violetto",
         "sortOrder": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/9d/SimboloSetPromo_stella_nera_SVP.png",
-        "cardCount": 226
+        "cardCount": 226,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/9/9d/SimboloSetPromo_stella_nera_SVP.png"
     },
     "cards": [
         {

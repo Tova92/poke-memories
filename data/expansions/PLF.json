@@ -2,11 +2,12 @@
     "expansion": {
         "id": "PLF",
         "name": "Nero e Bianco - Glaciazione Plasma",
-				"year": 2013,
-				"month": 7,
+        "year": 2013,
+        "month": 7,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetGlaciazione_Plasma.png",
-        "cardCount": 122
+        "cardCount": 122,
+        "logo": "https://media.pokemoncentral.it/wiki/a/a7/Logo_Glaciazione_Plasma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetGlaciazione_Plasma.png"
     },
     "cards": [
         {

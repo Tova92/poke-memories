@@ -2,11 +2,12 @@
     "expansion": {
         "id": "AR",
         "name": "Platino - Arceus",
-				"year": 2009,
-				"month": 11,
+        "year": 2009,
+        "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetArceus.png",
-        "cardCount": 111
+        "cardCount": 111,
+        "logo": "https://media.pokemoncentral.it/wiki/1/17/Logo_Arceus.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetArceus.png"
     },
     "cards": [
         {

@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DP",
         "name": "Diamante & Perla",
-				"year": 2007,
-				"month": 5,
+        "year": 2007,
+        "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetDiamante_%26_Perla.png",
-        "cardCount": 130
+        "cardCount": 130,
+        "logo": "https://media.pokemoncentral.it/wiki/1/15/Logo_Diamante_%26_Perla.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetDiamante_%26_Perla.png"
     },
     "cards": [
         {

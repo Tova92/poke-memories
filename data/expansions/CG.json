@@ -2,11 +2,12 @@
     "expansion": {
         "id": "CG",
         "name": "EX Guardiani dei Cristalli",
-				"year": 2006,
-				"month": 8,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/8f/SimboloSetEX_Guardiani_dei_Cristalli.png",
-        "cardCount": 100
+        "year": 2006,
+        "month": 8,
+        "language": "it",
+        "cardCount": 100,
+        "logo": "https://media.pokemoncentral.it/wiki/0/05/Logo_EX_Guardiani_dei_Cristalli.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/8f/SimboloSetEX_Guardiani_dei_Cristalli.png"
     },
     "cards": [
         {

@@ -2,11 +2,12 @@
     "expansion": {
         "id": "UL",
         "name": "HS - Forze Scatenate",
-				"year": 2010,
-				"month": 5,
+        "year": 2010,
+        "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetForze_Scatenate.png",
-        "cardCount": 96
+        "cardCount": 96,
+        "logo": "https://media.pokemoncentral.it/wiki/4/4a/Logo_Forze_Scatenate.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetForze_Scatenate.png"
     },
     "cards": [
         {

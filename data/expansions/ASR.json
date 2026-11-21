@@ -5,8 +5,9 @@
         "year": 2022,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetLucentezza_Siderale.png",
-        "cardCount": 246
+        "cardCount": 246,
+        "logo": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Lucentezza_Siderale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetLucentezza_Siderale.png"
     },
     "cards": [
         {

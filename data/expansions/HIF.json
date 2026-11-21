@@ -5,8 +5,9 @@
         "year": 2019,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/f/f8/SimboloSetDestino_Sfuggente.png",
-        "cardCount": 163
+        "cardCount": 163,
+        "logo": "https://media.pokemoncentral.it/wiki/f/f1/Logo_Destino_Sfuggente.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/f8/SimboloSetDestino_Sfuggente.png"
     },
     "cards": [
         {

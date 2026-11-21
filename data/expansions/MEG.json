@@ -5,8 +5,9 @@
         "year": 2025,
         "month": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/48/SimboloSetMegaevoluzione.png",
-        "cardCount": 188
+        "cardCount": 188,
+        "logo": "https://media.pokemoncentral.it/wiki/e/ef/Logo_Megaevoluzione.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/48/SimboloSetMegaevoluzione.png"
     },
     "cards": [
         {
@@ -1326,14 +1327,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"MEE-001",
-				"MEE-002",
-				"MEE-003",
-				"MEE-004",
-				"MEE-005",
-				"MEE-006",
-				"MEE-007",
-				"MEE-008"
-		]
+    "energies": [
+        "MEE-001",
+        "MEE-002",
+        "MEE-003",
+        "MEE-004",
+        "MEE-005",
+        "MEE-006",
+        "MEE-007",
+        "MEE-008"
+    ]
 }

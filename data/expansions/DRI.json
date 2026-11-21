@@ -5,8 +5,9 @@
         "year": 2025,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a8/SimboloSetRivali_Predestinati.png",
-        "cardCount": 244
+        "cardCount": 244,
+        "logo": "https://media.pokemoncentral.it/wiki/0/0e/Logo_Rivali_Predestinati.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a8/SimboloSetRivali_Predestinati.png"
     },
     "cards": [
         {
@@ -1718,14 +1719,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-009",
-				"SVE-010",
-				"SVE-011",
-				"SVE-012",
-				"SVE-013",
-				"SVE-014",
-				"SVE-015",
-				"SVE-016"
-		]
+    "energies": [
+        "SVE-009",
+        "SVE-010",
+        "SVE-011",
+        "SVE-012",
+        "SVE-013",
+        "SVE-014",
+        "SVE-015",
+        "SVE-016"
+    ]
 }

@@ -2,11 +2,12 @@
     "expansion": {
         "id": "TRR",
         "name": "EX Team Rocket Returns",
-				"year": 2004,
-				"month": 11,
-				"language": "en",
-        "logo": "https://media.pokemoncentral.it/wiki/3/32/SimboloSetEX_Team_Rocket_Returns.png",
-        "cardCount": 111
+        "year": 2004,
+        "month": 11,
+        "language": "en",
+        "cardCount": 111,
+        "logo": "https://media.pokemoncentral.it/wiki/0/0b/Logo_EX_Team_Rocket_Returns.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/32/SimboloSetEX_Team_Rocket_Returns.png"
     },
     "cards": [
         {

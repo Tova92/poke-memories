@@ -2,11 +2,12 @@
     "expansion": {
         "id": "LTR",
         "name": "Nero e Bianco - Tesori Leggendari",
-				"year": 2013,
-				"month": 11,
+        "year": 2013,
+        "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/b/b7/SimboloSetTesori_Leggendari.png",
-        "cardCount": 140
+        "cardCount": 140,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d1/Logo_Tesori_Leggendari.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b7/SimboloSetTesori_Leggendari.png"
     },
     "cards": [
         {

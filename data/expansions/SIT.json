@@ -5,8 +5,9 @@
         "year": 2022,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/1/15/SimboloSetTempesta_Argentata.png",
-        "cardCount": 245
+        "cardCount": 245,
+        "logo": "https://media.pokemoncentral.it/wiki/4/4d/Logo_Tempesta_Argentata.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/15/SimboloSetTempesta_Argentata.png"
     },
     "cards": [
         {

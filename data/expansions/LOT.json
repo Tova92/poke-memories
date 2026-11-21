@@ -5,9 +5,10 @@
         "year": 2018,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetTuoni_Perduti.png",
         "cardCount": 236,
-				"yellowAAlternateCardCount": 4
+        "yellowAAlternateCardCount": 4,
+        "logo": "https://media.pokemoncentral.it/wiki/1/18/Logo_Tuoni_Perduti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetTuoni_Perduti.png"
     },
     "cards": [
         {

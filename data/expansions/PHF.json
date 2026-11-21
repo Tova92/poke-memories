@@ -5,9 +5,10 @@
         "year": 2014,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetForze_Spettrali.png",
         "cardCount": 122,
-				"yellowAAlternateCardCount": 2
+        "yellowAAlternateCardCount": 2,
+        "logo": "https://media.pokemoncentral.it/wiki/0/02/Logo_Forze_Spettrali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetForze_Spettrali.png"
     },
     "cards": [
         {

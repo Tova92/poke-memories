@@ -2,11 +2,12 @@
     "expansion": {
         "id": "FG",
         "name": "EX RossoFuoco e VerdeFoglia",
-				"year": 2004,
-				"month": 9,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/20/SimboloSetEX_RossoFuoco_%26_VerdeFoglia.png",
-        "cardCount": 116
+        "year": 2004,
+        "month": 9,
+        "language": "it",
+        "cardCount": 116,
+        "logo": "https://media.pokemoncentral.it/wiki/c/c6/Logo_EX_RossoFuoco_e_VerdeFoglia.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/20/SimboloSetEX_RossoFuoco_%26_VerdeFoglia.png"
     },
     "cards": [
         {

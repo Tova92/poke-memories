@@ -2,11 +2,12 @@
     "expansion": {
         "id": "FO",
         "name": "Fossil",
-				"year": 2000,
-				"month": 11,
-				"language": "it",
+        "year": 2000,
+        "month": 11,
+        "language": "it",
+        "cardCount": 62,
         "logo": "https://media.pokemoncentral.it/wiki/d/d8/Logo_Fossil.png",
-        "cardCount": 62
+        "symbol": "https://media.pokemoncentral.it/wiki/5/5e/SimboloSetFossil.svg"
     },
     "cards": [
         {

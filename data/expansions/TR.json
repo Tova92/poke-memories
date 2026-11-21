@@ -2,11 +2,12 @@
     "expansion": {
         "id": "TR",
         "name": "Team Rocket",
-				"year": 2001,
-				"month": 2,
-				"language": "it",
+        "year": 2001,
+        "month": 2,
+        "language": "it",
+        "cardCount": 83,
         "logo": "https://media.pokemoncentral.it/wiki/0/0d/Logo_Team_Rocket.png",
-        "cardCount": 83
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7b/SimboloSetTeam_Rocket.svg"
     },
     "cards": [
         {

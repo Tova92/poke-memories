@@ -2,11 +2,12 @@
     "expansion": {
         "id": "G2",
         "name": "Gym Challenge",
-				"year": 2000,
-				"month": 10,
-				"language": "en",
-        "logo": "https://media.pokemoncentral.it/wiki/f/f7/SimboloSetGym_Challenge.svg",
-        "cardCount": 132
+        "year": 2000,
+        "month": 10,
+        "language": "en",
+        "cardCount": 132,
+        "logo": "https://media.pokemoncentral.it/wiki/3/3e/Logo_Gym_Challenge.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/f7/SimboloSetGym_Challenge.svg"
     },
     "cards": [
         {

@@ -5,9 +5,10 @@
         "year": 2014,
         "month": 6,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetFuoco_Infernale.png",
         "cardCount": 109,
-				"yellowAAlternateCardCount": 1
+        "yellowAAlternateCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/0/0b/Logo_Fuoco_Infernale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetFuoco_Infernale.png"
     },
     "cards": [
         {

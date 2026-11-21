@@ -2,11 +2,12 @@
     "expansion": {
         "id": "SK",
         "name": "Skyridge",
-				"year": 2003,
-				"month": 6,
-				"language": "it",
+        "year": 2003,
+        "month": 6,
+        "language": "it",
+        "cardCount": 182,
         "logo": "https://media.pokemoncentral.it/wiki/a/a4/Logo_Skyridge.png",
-        "cardCount": 182
+        "symbol": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetSkyridge.svg"
     },
     "cards": [
         {

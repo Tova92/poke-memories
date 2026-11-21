@@ -2,11 +2,12 @@
     "expansion": {
         "id": "MD",
         "name": "Diamante & Perla - Alba Suprema",
-				"year": 2008,
-				"month": 5,
+        "year": 2008,
+        "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetAlba_Suprema.png",
-        "cardCount": 100
+        "cardCount": 100,
+        "logo": "https://media.pokemoncentral.it/wiki/a/af/Logo_Alba_Suprema.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetAlba_Suprema.png"
     },
     "cards": [
         {

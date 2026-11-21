@@ -6,8 +6,9 @@
             "year": 2026,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/0/0a/SimboloSet30%C2%BA_Anniversario.png",
-            "cardCount": 191
+            "cardCount": 191,
+            "logo": "https://media.pokemoncentral.it/wiki/2/2b/Logo_30_Anniversario.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/0/0a/SimboloSet30%C2%BA_Anniversario.png"
         },
         {
             "id": "AOR",
@@ -15,9 +16,10 @@
             "year": 2015,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/1d/SimboloSetAntiche_Origini.png",
             "cardCount": 100,
-            "yellowAAlternateCardCount": 1
+            "yellowAAlternateCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/1/1f/Logo_Antiche_Origini.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/1d/SimboloSetAntiche_Origini.png"
         },
         {
             "id": "AQ",
@@ -25,8 +27,9 @@
             "year": 2003,
             "month": 4,
             "language": "it",
+            "cardCount": 186,
             "logo": "https://media.pokemoncentral.it/wiki/3/36/Logo_Aquapolis.png",
-            "cardCount": 186
+            "symbol": "https://media.pokemoncentral.it/wiki/9/91/SimboloSetAquapolis.svg"
         },
         {
             "id": "AR",
@@ -34,8 +37,9 @@
             "year": 2009,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetArceus.png",
-            "cardCount": 111
+            "cardCount": 111,
+            "logo": "https://media.pokemoncentral.it/wiki/1/17/Logo_Arceus.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetArceus.png"
         },
         {
             "id": "ASC",
@@ -43,8 +47,9 @@
             "year": 2026,
             "month": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/97/SimboloSetAscesa_Eroica.png",
-            "cardCount": 295
+            "cardCount": 295,
+            "logo": "https://media.pokemoncentral.it/wiki/2/2c/Logo_Ascesa_Eroica.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/97/SimboloSetAscesa_Eroica.png"
         },
         {
             "id": "ASR",
@@ -52,8 +57,9 @@
             "year": 2022,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetLucentezza_Siderale.png",
-            "cardCount": 246
+            "cardCount": 246,
+            "logo": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Lucentezza_Siderale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetLucentezza_Siderale.png"
         },
         {
             "id": "BCR",
@@ -61,8 +67,9 @@
             "year": 2013,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetConfini_Varcati.png",
-            "cardCount": 153
+            "cardCount": 153,
+            "logo": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Confini_Varcati.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetConfini_Varcati.png"
         },
         {
             "id": "BKP",
@@ -70,9 +77,10 @@
             "year": 2016,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/fa/SimboloSetTurbocrash.png",
             "cardCount": 123,
-            "yellowAAlternateCardCount": 3
+            "yellowAAlternateCardCount": 3,
+            "logo": "https://media.pokemoncentral.it/wiki/6/6b/Logo_Turbocrash.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/fa/SimboloSetTurbocrash.png"
         },
         {
             "id": "BKT",
@@ -80,9 +88,10 @@
             "year": 2015,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetTurboblitz.png",
             "cardCount": 164,
-            "yellowAAlternateCardCount": 1
+            "yellowAAlternateCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/9/98/Logo_Turboblitz.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetTurboblitz.png"
         },
         {
             "id": "BLK",
@@ -90,8 +99,9 @@
             "year": 2025,
             "month": 7,
             "language": "it",
+            "cardCount": 172,
             "logo": "https://media.pokemoncentral.it/wiki/5/51/Logo_Luce_Nera.png",
-            "cardCount": 172
+            "symbol": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetLuce_Nera.png"
         },
         {
             "id": "BLW",
@@ -99,8 +109,9 @@
             "year": 2011,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetNero_e_Bianco.png",
-            "cardCount": 115
+            "cardCount": 115,
+            "logo": "https://media.pokemoncentral.it/wiki/1/12/Logo_Nero_e_Bianco.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetNero_e_Bianco.png"
         },
         {
             "id": "BRS",
@@ -108,8 +119,9 @@
             "year": 2022,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/f6/SimboloSetAstri_Lucenti.png",
-            "cardCount": 216
+            "cardCount": 216,
+            "logo": "https://media.pokemoncentral.it/wiki/b/bd/Logo_Astri_Lucenti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/f6/SimboloSetAstri_Lucenti.png"
         },
         {
             "id": "BS",
@@ -117,8 +129,9 @@
             "year": 2000,
             "month": 3,
             "language": "it",
+            "cardCount": 102,
             "logo": "https://media.pokemoncentral.it/wiki/c/cb/Logo_Set_Base.png",
-            "cardCount": 102
+            "symbol": null
         },
         {
             "id": "BST",
@@ -126,8 +139,9 @@
             "year": 2021,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/cf/SimboloSetStili_di_Lotta.png",
-            "cardCount": 183
+            "cardCount": 183,
+            "logo": "https://media.pokemoncentral.it/wiki/b/be/Logo_Stili_di_Lotta.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/cf/SimboloSetStili_di_Lotta.png"
         },
         {
             "id": "BUS",
@@ -135,9 +149,10 @@
             "year": 2017,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/4b/SimboloSetOmbre_Infuocate.png",
             "cardCount": 169,
-            "yellowAAlternateCardCount": 8
+            "yellowAAlternateCardCount": 8,
+            "logo": "https://media.pokemoncentral.it/wiki/4/4b/Logo_Ombre_Infuocate.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/4b/SimboloSetOmbre_Infuocate.png"
         },
         {
             "id": "CEC",
@@ -145,9 +160,10 @@
             "year": 2019,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/fe/SimboloSetEclissi_Cosmica.png",
             "cardCount": 271,
-            "yellowAAlternateCardCount": 1
+            "yellowAAlternateCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/4/45/Logo_Eclissi_Cosmica.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/fe/SimboloSetEclissi_Cosmica.png"
         },
         {
             "id": "CEL",
@@ -155,8 +171,9 @@
             "year": 2021,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/83/SimboloSetGran_Festa.png",
-            "cardCount": 50
+            "cardCount": 50,
+            "logo": "https://media.pokemoncentral.it/wiki/9/9c/Logo_Gran_Festa.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/83/SimboloSetGran_Festa.png"
         },
         {
             "id": "CES",
@@ -164,9 +181,10 @@
             "year": 2018,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetTempesta_Astrale.png",
             "cardCount": 183,
-            "yellowAAlternateCardCount": 4
+            "yellowAAlternateCardCount": 4,
+            "logo": "https://media.pokemoncentral.it/wiki/e/e7/Logo_Tempesta_Astrale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetTempesta_Astrale.png"
         },
         {
             "id": "CG",
@@ -174,8 +192,9 @@
             "year": 2006,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/8f/SimboloSetEX_Guardiani_dei_Cristalli.png",
-            "cardCount": 100
+            "cardCount": 100,
+            "logo": "https://media.pokemoncentral.it/wiki/0/05/Logo_EX_Guardiani_dei_Cristalli.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/8f/SimboloSetEX_Guardiani_dei_Cristalli.png"
         },
         {
             "id": "CIN",
@@ -183,9 +202,10 @@
             "year": 2017,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetInvasione_Scarlatta.png",
             "cardCount": 124,
-            "yellowAAlternateCardCount": 2
+            "yellowAAlternateCardCount": 2,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d6/Logo_Invasione_Scarlatta.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetInvasione_Scarlatta.png"
         },
         {
             "id": "CL",
@@ -193,8 +213,9 @@
             "year": 2011,
             "month": 4,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/49/SimboloSetRichiamo_delle_Leggende.png",
-            "cardCount": 106
+            "cardCount": 106,
+            "logo": "https://media.pokemoncentral.it/wiki/6/65/Logo_Richiamo_delle_Leggende.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/49/SimboloSetRichiamo_delle_Leggende.png"
         },
         {
             "id": "CPA",
@@ -202,8 +223,9 @@
             "year": 2020,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/6e/SimboloSetFuturi_Campioni.png",
-            "cardCount": 80
+            "cardCount": 80,
+            "logo": "https://media.pokemoncentral.it/wiki/f/f2/Logo_Futuri_Campioni.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/6e/SimboloSetFuturi_Campioni.png"
         },
         {
             "id": "CRE",
@@ -211,8 +233,9 @@
             "year": 2021,
             "month": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/90/SimboloSetRegno_Glaciale.png",
-            "cardCount": 233
+            "cardCount": 233,
+            "logo": "https://media.pokemoncentral.it/wiki/5/58/Logo_Regno_Glaciale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/90/SimboloSetRegno_Glaciale.png"
         },
         {
             "id": "CRI",
@@ -220,8 +243,9 @@
             "year": 2026,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetCaos_Nascente.png",
-            "cardCount": 122
+            "cardCount": 122,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d3/Logo_Caos_Nascente.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetCaos_Nascente.png"
         },
         {
             "id": "CRZ",
@@ -229,8 +253,9 @@
             "year": 2023,
             "month": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/16/SimboloSetZenit_Regale.png",
-            "cardCount": 230
+            "cardCount": 230,
+            "logo": "https://media.pokemoncentral.it/wiki/8/81/Logo_Zenit_Regale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/16/SimboloSetZenit_Regale.png"
         },
         {
             "id": "DAA",
@@ -238,8 +263,9 @@
             "year": 2020,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetFiamme_Oscure.png",
-            "cardCount": 201
+            "cardCount": 201,
+            "logo": "https://media.pokemoncentral.it/wiki/6/64/Logo_Fiamme_Oscure.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetFiamme_Oscure.png"
         },
         {
             "id": "DCR",
@@ -247,8 +273,9 @@
             "year": 2015,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/c5/SimboloSetDoppio_Scontro.png",
-            "cardCount": 34
+            "cardCount": 34,
+            "logo": "https://media.pokemoncentral.it/wiki/1/19/Logo_Doppio_Scontro_EN.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/c5/SimboloSetDoppio_Scontro.png"
         },
         {
             "id": "DET",
@@ -256,8 +283,9 @@
             "year": 2019,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetDetective_Pikachu.png",
-            "cardCount": 18
+            "cardCount": 18,
+            "logo": "https://media.pokemoncentral.it/wiki/7/77/Detective_Pikachu_logo_film.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetDetective_Pikachu.png"
         },
         {
             "id": "DEX",
@@ -265,8 +293,9 @@
             "year": 2012,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/4a/SimboloSetEsploratori_delle_Tenebre.png",
-            "cardCount": 111
+            "cardCount": 111,
+            "logo": "https://media.pokemoncentral.it/wiki/0/03/Logo_Esploratori_delle_Tenebre.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/4a/SimboloSetEsploratori_delle_Tenebre.png"
         },
         {
             "id": "DF",
@@ -274,8 +303,9 @@
             "year": 2006,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetEX_L%27Isola_dei_Draghi.png",
-            "cardCount": 101
+            "cardCount": 101,
+            "logo": "https://media.pokemoncentral.it/wiki/b/b8/Logo_EX_L%27Isola_dei_Draghi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetEX_L%27Isola_dei_Draghi.png"
         },
         {
             "id": "DLR",
@@ -283,8 +313,9 @@
             "year": 2026,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetDominio_Delta.png",
-            "cardCount": 141
+            "cardCount": 141,
+            "logo": "https://media.pokemoncentral.it/wiki/a/a7/Logo_Dominio_Delta.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetDominio_Delta.png"
         },
         {
             "id": "DP",
@@ -292,8 +323,9 @@
             "year": 2007,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetDiamante_%26_Perla.png",
-            "cardCount": 130
+            "cardCount": 130,
+            "logo": "https://media.pokemoncentral.it/wiki/1/15/Logo_Diamante_%26_Perla.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetDiamante_%26_Perla.png"
         },
         {
             "id": "DR",
@@ -301,8 +333,9 @@
             "year": 2003,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetEX_Drago.png",
-            "cardCount": 100
+            "cardCount": 100,
+            "logo": "https://media.pokemoncentral.it/wiki/8/80/Logo_EX_Drago.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetEX_Drago.png"
         },
         {
             "id": "DRI",
@@ -310,8 +343,9 @@
             "year": 2025,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a8/SimboloSetRivali_Predestinati.png",
-            "cardCount": 244
+            "cardCount": 244,
+            "logo": "https://media.pokemoncentral.it/wiki/0/0e/Logo_Rivali_Predestinati.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a8/SimboloSetRivali_Predestinati.png"
         },
         {
             "id": "DRM",
@@ -319,9 +353,10 @@
             "year": 2018,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/79/SimboloSetTrionfo_dei_Draghi.png",
             "cardCount": 78,
-            "yellowAAlternateCardCount": 2
+            "yellowAAlternateCardCount": 2,
+            "logo": "https://media.pokemoncentral.it/wiki/7/7a/Logo_Trionfo_dei_Draghi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/79/SimboloSetTrionfo_dei_Draghi.png"
         },
         {
             "id": "DRV",
@@ -329,8 +364,9 @@
             "year": 2012,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetTesoro_dei_Draghi.png",
-            "cardCount": 21
+            "cardCount": 21,
+            "logo": "https://media.pokemoncentral.it/wiki/b/bd/Logo_Tesoro_dei_Draghi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetTesoro_dei_Draghi.png"
         },
         {
             "id": "DRX",
@@ -338,8 +374,9 @@
             "year": 2012,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/65/SimboloSetStirpe_dei_Draghi.png",
-            "cardCount": 128
+            "cardCount": 128,
+            "logo": "https://media.pokemoncentral.it/wiki/3/3d/Logo_Stirpe_dei_Draghi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/65/SimboloSetStirpe_dei_Draghi.png"
         },
         {
             "id": "DS",
@@ -347,8 +384,9 @@
             "year": 2005,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetEX_Specie_Delta.png",
-            "cardCount": 114
+            "cardCount": 114,
+            "logo": "https://media.pokemoncentral.it/wiki/6/6f/Logo_EX_Specie_Delta.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetEX_Specie_Delta.png"
         },
         {
             "id": "DX",
@@ -356,8 +394,9 @@
             "year": 2005,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetEX_Deoxys.png",
-            "cardCount": 108
+            "cardCount": 108,
+            "logo": "https://media.pokemoncentral.it/wiki/0/05/Logo_EX_Deoxys.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetEX_Deoxys.png"
         },
         {
             "id": "EM",
@@ -365,8 +404,9 @@
             "year": 2005,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/d6/SimboloSetEX_Smeraldo.png",
-            "cardCount": 107
+            "cardCount": 107,
+            "logo": "https://media.pokemoncentral.it/wiki/1/18/Logo_EX_Smeraldo.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/d/d6/SimboloSetEX_Smeraldo.png"
         },
         {
             "id": "EPO",
@@ -374,8 +414,9 @@
             "year": 2011,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/52/SimboloSetNuove_Forze.png",
-            "cardCount": 98
+            "cardCount": 98,
+            "logo": "https://media.pokemoncentral.it/wiki/a/ae/Logo_Nuove_Forze.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/5/52/SimboloSetNuove_Forze.png"
         },
         {
             "id": "EVO",
@@ -383,8 +424,9 @@
             "year": 2016,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetEvoluzioni.png",
-            "cardCount": 113
+            "cardCount": 113,
+            "logo": "https://media.pokemoncentral.it/wiki/1/1d/Logo_Evoluzioni.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetEvoluzioni.png"
         },
         {
             "id": "EVS",
@@ -392,8 +434,9 @@
             "year": 2021,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetEvoluzioni_Eteree.png",
-            "cardCount": 237
+            "cardCount": 237,
+            "logo": "https://media.pokemoncentral.it/wiki/b/bb/Logo_Evoluzioni_Eteree.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetEvoluzioni_Eteree.png"
         },
         {
             "id": "EX",
@@ -401,8 +444,9 @@
             "year": 2002,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetExpedition.svg",
-            "cardCount": 165
+            "cardCount": 165,
+            "logo": "https://media.pokemoncentral.it/wiki/a/a0/Logo_Expedition.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetExpedition.svg"
         },
         {
             "id": "FCO",
@@ -410,9 +454,10 @@
             "year": 2016,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/67/SimboloSetDestini_Incrociati.png",
             "cardCount": 125,
-            "yellowAAlternateCardCount": 4
+            "yellowAAlternateCardCount": 4,
+            "logo": "https://media.pokemoncentral.it/wiki/4/46/Logo_Destini_Incrociati.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/67/SimboloSetDestini_Incrociati.png"
         },
         {
             "id": "FFI",
@@ -420,9 +465,10 @@
             "year": 2014,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetColpi_Furiosi.png",
             "cardCount": 113,
-            "yellowAAlternateCardCount": 1
+            "yellowAAlternateCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/3/39/Logo_Colpi_Furiosi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetColpi_Furiosi.png"
         },
         {
             "id": "FG",
@@ -430,8 +476,9 @@
             "year": 2004,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/20/SimboloSetEX_RossoFuoco_%26_VerdeFoglia.png",
-            "cardCount": 116
+            "cardCount": 116,
+            "logo": "https://media.pokemoncentral.it/wiki/c/c6/Logo_EX_RossoFuoco_e_VerdeFoglia.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/20/SimboloSetEX_RossoFuoco_%26_VerdeFoglia.png"
         },
         {
             "id": "FLF",
@@ -439,9 +486,10 @@
             "year": 2014,
             "month": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetFuoco_Infernale.png",
             "cardCount": 109,
-            "yellowAAlternateCardCount": 1
+            "yellowAAlternateCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/0/0b/Logo_Fuoco_Infernale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetFuoco_Infernale.png"
         },
         {
             "id": "FLI",
@@ -449,9 +497,10 @@
             "year": 2018,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetApocalisse_di_Luce.png",
             "cardCount": 146,
-            "yellowAAlternateCardCount": 4
+            "yellowAAlternateCardCount": 4,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d4/Logo_Apocalisse_di_Luce.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetApocalisse_di_Luce.png"
         },
         {
             "id": "FO",
@@ -459,8 +508,9 @@
             "year": 2000,
             "month": 11,
             "language": "it",
+            "cardCount": 62,
             "logo": "https://media.pokemoncentral.it/wiki/d/d8/Logo_Fossil.png",
-            "cardCount": 62
+            "symbol": "https://media.pokemoncentral.it/wiki/5/5e/SimboloSetFossil.svg"
         },
         {
             "id": "FST",
@@ -468,8 +518,9 @@
             "year": 2021,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/93/SimboloSetColpo_Fusione.png",
-            "cardCount": 284
+            "cardCount": 284,
+            "logo": "https://media.pokemoncentral.it/wiki/b/b7/Logo_Colpo_Fusione.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/93/SimboloSetColpo_Fusione.png"
         },
         {
             "id": "G1",
@@ -477,8 +528,9 @@
             "year": 2000,
             "month": 8,
             "language": "en",
-            "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetGym_Heroes.svg",
-            "cardCount": 132
+            "cardCount": 132,
+            "logo": "https://media.pokemoncentral.it/wiki/3/3b/Logo_Gym_Heroes.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetGym_Heroes.svg"
         },
         {
             "id": "G2",
@@ -486,8 +538,9 @@
             "year": 2000,
             "month": 10,
             "language": "en",
-            "logo": "https://media.pokemoncentral.it/wiki/f/f7/SimboloSetGym_Challenge.svg",
-            "cardCount": 132
+            "cardCount": 132,
+            "logo": "https://media.pokemoncentral.it/wiki/3/3e/Logo_Gym_Challenge.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/f7/SimboloSetGym_Challenge.svg"
         },
         {
             "id": "GE",
@@ -495,8 +548,9 @@
             "year": 2008,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetIncontri_Leggendari.png",
-            "cardCount": 106
+            "cardCount": 106,
+            "logo": "https://media.pokemoncentral.it/wiki/7/73/Logo_Incontri_Leggendari.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetIncontri_Leggendari.png"
         },
         {
             "id": "GEN",
@@ -504,9 +558,10 @@
             "year": 2016,
             "month": 4,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a3/SimboloSetGenerazioni.png",
             "cardCount": 115,
-            "yellowAAlternateCardCount": 2
+            "yellowAAlternateCardCount": 2,
+            "logo": "https://media.pokemoncentral.it/wiki/8/89/Logo_Generazioni.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a3/SimboloSetGenerazioni.png"
         },
         {
             "id": "GRI",
@@ -514,9 +569,10 @@
             "year": 2017,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetGuardiani_Nascenti.png",
             "cardCount": 169,
-            "yellowAAlternateCardCount": 11
+            "yellowAAlternateCardCount": 11,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d7/Logo_Guardiani_Nascenti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetGuardiani_Nascenti.png"
         },
         {
             "id": "HIF",
@@ -524,8 +580,9 @@
             "year": 2019,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/f8/SimboloSetDestino_Sfuggente.png",
-            "cardCount": 163
+            "cardCount": 163,
+            "logo": "https://media.pokemoncentral.it/wiki/f/f1/Logo_Destino_Sfuggente.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/f8/SimboloSetDestino_Sfuggente.png"
         },
         {
             "id": "HL",
@@ -533,8 +590,9 @@
             "year": 2004,
             "month": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/0/08/SimboloSetEX_Leggende_Nascoste.png",
-            "cardCount": 102
+            "cardCount": 102,
+            "logo": "https://media.pokemoncentral.it/wiki/2/20/Logo_EX_Leggende_Nascoste.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/0/08/SimboloSetEX_Leggende_Nascoste.png"
         },
         {
             "id": "HP",
@@ -542,8 +600,9 @@
             "year": 2006,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetEX_Fantasmi_di_Holon.png",
-            "cardCount": 111
+            "cardCount": 111,
+            "logo": "https://media.pokemoncentral.it/wiki/1/1a/Logo_EX_Fantasmi_di_Holon.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetEX_Fantasmi_di_Holon.png"
         },
         {
             "id": "HS",
@@ -551,8 +610,9 @@
             "year": 2010,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/47/SimboloSetHeartGold_%26_SoulSilver.png",
-            "cardCount": 124
+            "cardCount": 124,
+            "logo": "https://media.pokemoncentral.it/wiki/a/a8/Logo_HeartGold_%26_SoulSilver.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/47/SimboloSetHeartGold_%26_SoulSilver.png"
         },
         {
             "id": "JTG",
@@ -560,8 +620,9 @@
             "year": 2025,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/92/SimboloSetAvventure_Insieme.png",
-            "cardCount": 190
+            "cardCount": 190,
+            "logo": "https://media.pokemoncentral.it/wiki/a/af/Logo_Avventure_Insieme.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/92/SimboloSetAvventure_Insieme.png"
         },
         {
             "id": "JU",
@@ -569,8 +630,9 @@
             "year": 2000,
             "month": 7,
             "language": "it",
+            "cardCount": 64,
             "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_Jungle.png",
-            "cardCount": 64
+            "symbol": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetJungle.svg"
         },
         {
             "id": "KSS",
@@ -578,8 +640,9 @@
             "year": 2013,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/b/bc/SimboloSetBenvenuti_a_Kalos.png",
-            "cardCount": 39
+            "cardCount": 39,
+            "logo": "https://media.pokemoncentral.it/wiki/2/2f/Logo_Benvenuti_a_Kalos.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/b/bc/SimboloSetBenvenuti_a_Kalos.png"
         },
         {
             "id": "LA",
@@ -587,8 +650,9 @@
             "year": 2008,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetIl_Risveglio_dei_Miti.png",
-            "cardCount": 146
+            "cardCount": 146,
+            "logo": "https://media.pokemoncentral.it/wiki/0/04/Logo_Il_Risveglio_dei_Miti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetIl_Risveglio_dei_Miti.png"
         },
         {
             "id": "LM",
@@ -596,8 +660,9 @@
             "year": 2006,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetEX_La_Leggenda_di_Mew.png",
-            "cardCount": 93
+            "cardCount": 93,
+            "logo": "https://media.pokemoncentral.it/wiki/7/7b/Logo_EX_La_Leggenda_di_Mew.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetEX_La_Leggenda_di_Mew.png"
         },
         {
             "id": "LOR",
@@ -605,8 +670,9 @@
             "year": 2022,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/87/SimboloSetOrigine_Perduta.png",
-            "cardCount": 247
+            "cardCount": 247,
+            "logo": "https://media.pokemoncentral.it/wiki/d/df/Logo_Origine_Perduta.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/87/SimboloSetOrigine_Perduta.png"
         },
         {
             "id": "LOT",
@@ -614,9 +680,10 @@
             "year": 2018,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetTuoni_Perduti.png",
             "cardCount": 236,
-            "yellowAAlternateCardCount": 4
+            "yellowAAlternateCardCount": 4,
+            "logo": "https://media.pokemoncentral.it/wiki/1/18/Logo_Tuoni_Perduti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetTuoni_Perduti.png"
         },
         {
             "id": "LTR",
@@ -624,8 +691,9 @@
             "year": 2013,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/b/b7/SimboloSetTesori_Leggendari.png",
-            "cardCount": 140
+            "cardCount": 140,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d1/Logo_Tesori_Leggendari.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/b/b7/SimboloSetTesori_Leggendari.png"
         },
         {
             "id": "MA",
@@ -633,8 +701,9 @@
             "year": 2004,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/df/SimboloSetEX_Team_Magma_vs_Team_Idro.png",
-            "cardCount": 97
+            "cardCount": 97,
+            "logo": "https://media.pokemoncentral.it/wiki/2/25/Logo_EX_Team_Magma_vs_Team_Idro_EN.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/d/df/SimboloSetEX_Team_Magma_vs_Team_Idro.png"
         },
         {
             "id": "MD",
@@ -642,8 +711,9 @@
             "year": 2008,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetAlba_Suprema.png",
-            "cardCount": 100
+            "cardCount": 100,
+            "logo": "https://media.pokemoncentral.it/wiki/a/af/Logo_Alba_Suprema.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetAlba_Suprema.png"
         },
         {
             "id": "MEG",
@@ -651,8 +721,9 @@
             "year": 2025,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/48/SimboloSetMegaevoluzione.png",
-            "cardCount": 188
+            "cardCount": 188,
+            "logo": "https://media.pokemoncentral.it/wiki/e/ef/Logo_Megaevoluzione.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/48/SimboloSetMegaevoluzione.png"
         },
         {
             "id": "MEW",
@@ -660,8 +731,9 @@
             "year": 2023,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/9e/SimboloSet151.png",
-            "cardCount": 207
+            "cardCount": 207,
+            "logo": "https://media.pokemoncentral.it/wiki/9/92/Logo_151.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/9e/SimboloSet151.png"
         },
         {
             "id": "MT",
@@ -669,8 +741,9 @@
             "year": 2007,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/80/SimboloSetTesori_Misteriosi.png",
-            "cardCount": 124
+            "cardCount": 124,
+            "logo": "https://media.pokemoncentral.it/wiki/2/2f/Logo_Tesori_Misteriosi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/80/SimboloSetTesori_Misteriosi.png"
         },
         {
             "id": "N1",
@@ -678,8 +751,9 @@
             "year": 2001,
             "month": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetNeo_Genesis.svg",
-            "cardCount": 111
+            "cardCount": 111,
+            "logo": "https://media.pokemoncentral.it/wiki/4/47/Logo_Neo_Genesis.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetNeo_Genesis.svg"
         },
         {
             "id": "N2",
@@ -687,8 +761,9 @@
             "year": 2001,
             "month": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/e/e4/SimboloSetNeo_Discovery.svg",
-            "cardCount": 75
+            "cardCount": 75,
+            "logo": "https://media.pokemoncentral.it/wiki/5/53/Logo_Neo_Discovery.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/e/e4/SimboloSetNeo_Discovery.svg"
         },
         {
             "id": "N3",
@@ -696,8 +771,9 @@
             "year": 2001,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/2c/SimboloSetNeo_Revelation.svg",
-            "cardCount": 66
+            "cardCount": 66,
+            "logo": "https://media.pokemoncentral.it/wiki/3/35/Logo_Neo_Revelation.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/2c/SimboloSetNeo_Revelation.svg"
         },
         {
             "id": "N4",
@@ -705,8 +781,9 @@
             "year": 2002,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetNeo_Destiny.svg",
-            "cardCount": 113
+            "cardCount": 113,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d9/Logo_Neo_Destiny.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetNeo_Destiny.svg"
         },
         {
             "id": "NVI",
@@ -714,8 +791,9 @@
             "year": 2012,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a7/SimboloSetVittorie_Regali.png",
-            "cardCount": 102
+            "cardCount": 102,
+            "logo": "https://media.pokemoncentral.it/wiki/9/92/Logo_Vittorie_Regali.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a7/SimboloSetVittorie_Regali.png"
         },
         {
             "id": "NXD",
@@ -723,8 +801,9 @@
             "year": 2012,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/cd/SimboloSetDestini_Futuri.png",
-            "cardCount": 103
+            "cardCount": 103,
+            "logo": "https://media.pokemoncentral.it/wiki/c/cf/Logo_Destini_Futuri.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/cd/SimboloSetDestini_Futuri.png"
         },
         {
             "id": "OBF",
@@ -732,8 +811,9 @@
             "year": 2023,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/99/SimboloSetOssidiana_Infuocata.png",
-            "cardCount": 230
+            "cardCount": 230,
+            "logo": "https://media.pokemoncentral.it/wiki/c/c6/Logo_Ossidiana_Infuocata.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/99/SimboloSetOssidiana_Infuocata.png"
         },
         {
             "id": "PAF",
@@ -741,8 +821,9 @@
             "year": 2024,
             "month": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/4f/SimboloSetDestino_di_Paldea.png",
-            "cardCount": 245
+            "cardCount": 245,
+            "logo": "https://media.pokemoncentral.it/wiki/2/28/Logo_Destino_di_Paldea.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/4f/SimboloSetDestino_di_Paldea.png"
         },
         {
             "id": "PAL",
@@ -750,8 +831,9 @@
             "year": 2023,
             "month": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/86/SimboloSetEvoluzioni_a_Paldea.png",
-            "cardCount": 279
+            "cardCount": 279,
+            "logo": "https://media.pokemoncentral.it/wiki/9/9f/Logo_Evoluzioni_a_Paldea.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/86/SimboloSetEvoluzioni_a_Paldea.png"
         },
         {
             "id": "PAR",
@@ -759,8 +841,9 @@
             "year": 2023,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/54/SimboloSetParadosso_Temporale.png",
-            "cardCount": 266
+            "cardCount": 266,
+            "logo": "https://media.pokemoncentral.it/wiki/1/12/Logo_Paradosso_Temporale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/5/54/SimboloSetParadosso_Temporale.png"
         },
         {
             "id": "PBL",
@@ -768,8 +851,9 @@
             "year": 2026,
             "month": 7,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/e/e7/SimboloSetBuio_Pesto.png",
-            "cardCount": 120
+            "cardCount": 120,
+            "logo": "https://media.pokemoncentral.it/wiki/b/b5/Logo_Buio_Pesto.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/e/e7/SimboloSetBuio_Pesto.png"
         },
         {
             "id": "PFL",
@@ -777,8 +861,9 @@
             "year": 2025,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/d3/SimboloSetFiamme_Spettrali.png",
-            "cardCount": 130
+            "cardCount": 130,
+            "logo": "https://media.pokemoncentral.it/wiki/1/15/Logo_Fiamme_Spettrali.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/d/d3/SimboloSetFiamme_Spettrali.png"
         },
         {
             "id": "PGO",
@@ -786,8 +871,9 @@
             "year": 2022,
             "month": 7,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetPok%C3%A9mon_GO.png",
-            "cardCount": 88
+            "cardCount": 88,
+            "logo": "https://media.pokemoncentral.it/wiki/3/3d/Pokemon_Go_Logo.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetPok%C3%A9mon_GO.png"
         },
         {
             "id": "PHF",
@@ -795,9 +881,10 @@
             "year": 2014,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetForze_Spettrali.png",
             "cardCount": 122,
-            "yellowAAlternateCardCount": 2
+            "yellowAAlternateCardCount": 2,
+            "logo": "https://media.pokemoncentral.it/wiki/0/02/Logo_Forze_Spettrali.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetForze_Spettrali.png"
         },
         {
             "id": "PK",
@@ -805,8 +892,9 @@
             "year": 2007,
             "month": 2,
             "language": "en",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a6/SimboloSetEX_Power_Keepers.png",
-            "cardCount": 108
+            "cardCount": 108,
+            "logo": "https://media.pokemoncentral.it/wiki/7/71/Logo_EX_Power_Keepers.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a6/SimboloSetEX_Power_Keepers.png"
         },
         {
             "id": "PL",
@@ -814,8 +902,9 @@
             "year": 2009,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetPlatino.png",
-            "cardCount": 133
+            "cardCount": 133,
+            "logo": "https://media.pokemoncentral.it/wiki/0/0c/Logo_Platino.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetPlatino.png"
         },
         {
             "id": "PLB",
@@ -823,8 +912,9 @@
             "year": 2013,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetEsplosione_Plasma.png",
-            "cardCount": 105
+            "cardCount": 105,
+            "logo": "https://media.pokemoncentral.it/wiki/c/cd/Logo_Esplosione_Plasma.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetEsplosione_Plasma.png"
         },
         {
             "id": "PLF",
@@ -832,8 +922,9 @@
             "year": 2013,
             "month": 7,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetGlaciazione_Plasma.png",
-            "cardCount": 122
+            "cardCount": 122,
+            "logo": "https://media.pokemoncentral.it/wiki/a/a7/Logo_Glaciazione_Plasma.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetGlaciazione_Plasma.png"
         },
         {
             "id": "PLS",
@@ -841,8 +932,9 @@
             "year": 2013,
             "month": 4,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/6b/SimboloSetUragano_Plasma.png",
-            "cardCount": 138
+            "cardCount": 138,
+            "logo": "https://media.pokemoncentral.it/wiki/f/f2/Logo_Uragano_Plasma.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/6b/SimboloSetUragano_Plasma.png"
         },
         {
             "id": "POR",
@@ -850,8 +942,9 @@
             "year": 2026,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/64/SimboloSetEquilibrio_Perfetto.png",
-            "cardCount": 124
+            "cardCount": 124,
+            "logo": "https://media.pokemoncentral.it/wiki/b/b6/Logo_Equilibrio_Perfetto.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/64/SimboloSetEquilibrio_Perfetto.png"
         },
         {
             "id": "PRC",
@@ -859,8 +952,9 @@
             "year": 2015,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetScontro_Primordiale.png",
-            "cardCount": 164
+            "cardCount": 164,
+            "logo": "https://media.pokemoncentral.it/wiki/3/39/Logo_Scontro_Primordiale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetScontro_Primordiale.png"
         },
         {
             "id": "PRE",
@@ -868,8 +962,9 @@
             "year": 2025,
             "month": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/e/ec/SimboloSetEvoluzioni_Prismatiche.png",
-            "cardCount": 180
+            "cardCount": 180,
+            "logo": "https://media.pokemoncentral.it/wiki/1/1d/Logo_Evoluzioni_Prismatiche.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/e/ec/SimboloSetEvoluzioni_Prismatiche.png"
         },
         {
             "id": "RCL",
@@ -877,8 +972,9 @@
             "year": 2020,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/62/SimboloSetFragore_Ribelle.png",
-            "cardCount": 209
+            "cardCount": 209,
+            "logo": "https://media.pokemoncentral.it/wiki/7/76/Logo_Fragore_Ribelle.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/62/SimboloSetFragore_Ribelle.png"
         },
         {
             "id": "ROS",
@@ -886,9 +982,10 @@
             "year": 2015,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/0/0c/SimboloSetFurie_Volanti.png",
             "cardCount": 110,
-            "yellowAAlternateCardCount": 2
+            "yellowAAlternateCardCount": 2,
+            "logo": "https://media.pokemoncentral.it/wiki/1/1c/Logo_Furie_Volanti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/0/0c/SimboloSetFurie_Volanti.png"
         },
         {
             "id": "RR",
@@ -896,8 +993,9 @@
             "year": 2009,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/8a/SimboloSetL%27Ascesa_dei_Rivali.png",
-            "cardCount": 120
+            "cardCount": 120,
+            "logo": "https://media.pokemoncentral.it/wiki/a/a6/Logo_L%27Ascesa_dei_Rivali.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/8a/SimboloSetL%27Ascesa_dei_Rivali.png"
         },
         {
             "id": "RS",
@@ -905,8 +1003,9 @@
             "year": 2003,
             "month": 7,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetEX_Rubino_%26_Zaffiro.png",
-            "cardCount": 109
+            "cardCount": 109,
+            "logo": "https://media.pokemoncentral.it/wiki/9/94/Logo_EX_Rubino_%26_Zaffiro.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetEX_Rubino_%26_Zaffiro.png"
         },
         {
             "id": "SCR",
@@ -914,8 +1013,9 @@
             "year": 2024,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/7d/SimboloSetCorona_Astrale.png",
-            "cardCount": 175
+            "cardCount": 175,
+            "logo": "https://media.pokemoncentral.it/wiki/e/ed/Logo_Corona_Astrale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/7d/SimboloSetCorona_Astrale.png"
         },
         {
             "id": "SF",
@@ -923,8 +1023,9 @@
             "year": 2008,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/9b/SimboloSetFronte_di_Tempesta.png",
-            "cardCount": 106
+            "cardCount": 106,
+            "logo": "https://media.pokemoncentral.it/wiki/8/8b/Logo_Fronte_di_Tempesta.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/9/9b/SimboloSetFronte_di_Tempesta.png"
         },
         {
             "id": "SFA",
@@ -932,8 +1033,9 @@
             "year": 2024,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetSegreto_Fiabesco.png",
-            "cardCount": 99
+            "cardCount": 99,
+            "logo": "https://media.pokemoncentral.it/wiki/3/37/Logo_Segreto_Fiabesco.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetSegreto_Fiabesco.png"
         },
         {
             "id": "SHF",
@@ -941,8 +1043,9 @@
             "year": 2021,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetDestino_Splendente.png",
-            "cardCount": 195
+            "cardCount": 195,
+            "logo": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Destino_Splendente.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetDestino_Splendente.png"
         },
         {
             "id": "SIT",
@@ -950,8 +1053,9 @@
             "year": 2022,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/1/15/SimboloSetTempesta_Argentata.png",
-            "cardCount": 245
+            "cardCount": 245,
+            "logo": "https://media.pokemoncentral.it/wiki/4/4d/Logo_Tempesta_Argentata.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/1/15/SimboloSetTempesta_Argentata.png"
         },
         {
             "id": "SK",
@@ -959,8 +1063,9 @@
             "year": 2003,
             "month": 6,
             "language": "it",
+            "cardCount": 182,
             "logo": "https://media.pokemoncentral.it/wiki/a/a4/Logo_Skyridge.png",
-            "cardCount": 182
+            "symbol": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetSkyridge.svg"
         },
         {
             "id": "SLG",
@@ -968,9 +1073,10 @@
             "year": 2017,
             "month": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetLeggende_Iridescenti.png",
             "cardCount": 78,
-            "yellowAAlternateCardCount": 3
+            "yellowAAlternateCardCount": 3,
+            "logo": "https://media.pokemoncentral.it/wiki/5/5c/Logo_Leggende_Iridescenti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetLeggende_Iridescenti.png"
         },
         {
             "id": "SS",
@@ -978,8 +1084,9 @@
             "year": 2003,
             "month": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetEX_Tempesta_di_Sabbia.png",
-            "cardCount": 100
+            "cardCount": 100,
+            "logo": "https://media.pokemoncentral.it/wiki/f/f7/Logo_EX_Tempesta_di_Sabbia.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetEX_Tempesta_di_Sabbia.png"
         },
         {
             "id": "SSH",
@@ -987,8 +1094,9 @@
             "year": 2020,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/cb/SimboloSetSpada_e_Scudo.png",
-            "cardCount": 216
+            "cardCount": 216,
+            "logo": "https://media.pokemoncentral.it/wiki/4/44/Logo_Spada_e_Scudo.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/c/cb/SimboloSetSpada_e_Scudo.png"
         },
         {
             "id": "SSP",
@@ -996,8 +1104,9 @@
             "year": 2024,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetScintille_Folgoranti.png",
-            "cardCount": 252
+            "cardCount": 252,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "STS",
@@ -1005,8 +1114,9 @@
             "year": 2016,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetVapori_Accesi.png",
-            "cardCount": 116
+            "cardCount": 116,
+            "logo": "https://media.pokemoncentral.it/wiki/9/91/Logo_Vapori_Accesi.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetVapori_Accesi.png"
         },
         {
             "id": "SUM",
@@ -1014,9 +1124,10 @@
             "year": 2017,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/8/89/SimboloSetSole_e_Luna.png",
             "cardCount": 163,
-            "yellowAAlternateCardCount": 1
+            "yellowAAlternateCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/7/78/Logo_Sole_e_Luna.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/89/SimboloSetSole_e_Luna.png"
         },
         {
             "id": "SV",
@@ -1024,8 +1135,9 @@
             "year": 2009,
             "month": 8,
             "language": "en",
-            "logo": "https://media.pokemoncentral.it/wiki/8/8d/SimboloSetSupreme_Victors.png",
-            "cardCount": 153
+            "cardCount": 153,
+            "logo": "https://media.pokemoncentral.it/wiki/8/8d/Logo_Supreme_Victors.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/8/8d/SimboloSetSupreme_Victors.png"
         },
         {
             "id": "SVI",
@@ -1033,8 +1145,9 @@
             "year": 2023,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/e/e1/SimboloSetScarlatto_e_Violetto.png",
-            "cardCount": 258
+            "cardCount": 258,
+            "logo": "https://media.pokemoncentral.it/wiki/1/10/Logo_Scarlatto_e_Violetto.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/e/e1/SimboloSetScarlatto_e_Violetto.png"
         },
         {
             "id": "SW",
@@ -1042,8 +1155,9 @@
             "year": 2007,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetProdigi_Segreti.png",
-            "cardCount": 132
+            "cardCount": 132,
+            "logo": "https://media.pokemoncentral.it/wiki/d/d5/Logo_Prodigi_Segreti.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetProdigi_Segreti.png"
         },
         {
             "id": "TEF",
@@ -1051,8 +1165,9 @@
             "year": 2024,
             "month": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetCronoforze.png",
-            "cardCount": 218
+            "cardCount": 218,
+            "logo": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Cronoforze.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetCronoforze.png"
         },
         {
             "id": "TEU",
@@ -1060,9 +1175,10 @@
             "year": 2019,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetGioco_di_Squadra.png",
             "cardCount": 196,
-            "yellowAAlternateCardCount": 2
+            "yellowAAlternateCardCount": 2,
+            "logo": "https://media.pokemoncentral.it/wiki/4/49/Logo_Gioco_di_Squadra.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetGioco_di_Squadra.png"
         },
         {
             "id": "TM",
@@ -1070,8 +1186,9 @@
             "year": 2011,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/e/e6/SimboloSetBattaglie_Trionfali.png",
-            "cardCount": 103
+            "cardCount": 103,
+            "logo": "https://media.pokemoncentral.it/wiki/4/40/Logo_Battaglie_Trionfali.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/e/e6/SimboloSetBattaglie_Trionfali.png"
         },
         {
             "id": "TR",
@@ -1079,8 +1196,9 @@
             "year": 2001,
             "month": 2,
             "language": "it",
+            "cardCount": 83,
             "logo": "https://media.pokemoncentral.it/wiki/0/0d/Logo_Team_Rocket.png",
-            "cardCount": 83
+            "symbol": "https://media.pokemoncentral.it/wiki/7/7b/SimboloSetTeam_Rocket.svg"
         },
         {
             "id": "TRR",
@@ -1088,8 +1206,9 @@
             "year": 2004,
             "month": 11,
             "language": "en",
-            "logo": "https://media.pokemoncentral.it/wiki/3/32/SimboloSetEX_Team_Rocket_Returns.png",
-            "cardCount": 111
+            "cardCount": 111,
+            "logo": "https://media.pokemoncentral.it/wiki/0/0b/Logo_EX_Team_Rocket_Returns.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/3/32/SimboloSetEX_Team_Rocket_Returns.png"
         },
         {
             "id": "TWM",
@@ -1097,8 +1216,9 @@
             "year": 2024,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/2f/SimboloSetCrepuscolo_Mascherato.png",
-            "cardCount": 226
+            "cardCount": 226,
+            "logo": "https://media.pokemoncentral.it/wiki/c/ce/Logo_Crepuscolo_Mascherato.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/2f/SimboloSetCrepuscolo_Mascherato.png"
         },
         {
             "id": "UD",
@@ -1106,8 +1226,9 @@
             "year": 2010,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a2/SimboloSetSenza_Paura.png",
-            "cardCount": 91
+            "cardCount": 91,
+            "logo": "https://media.pokemoncentral.it/wiki/e/e4/Logo_Senza_Paura.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a2/SimboloSetSenza_Paura.png"
         },
         {
             "id": "UF",
@@ -1115,8 +1236,9 @@
             "year": 2005,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/77/SimboloSetEX_Forze_Segrete.png",
-            "cardCount": 145
+            "cardCount": 145,
+            "logo": "https://media.pokemoncentral.it/wiki/3/37/Logo_EX_Forze_Segrete.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/77/SimboloSetEX_Forze_Segrete.png"
         },
         {
             "id": "UL",
@@ -1124,8 +1246,9 @@
             "year": 2010,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetForze_Scatenate.png",
-            "cardCount": 96
+            "cardCount": 96,
+            "logo": "https://media.pokemoncentral.it/wiki/4/4a/Logo_Forze_Scatenate.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetForze_Scatenate.png"
         },
         {
             "id": "UNB",
@@ -1133,9 +1256,10 @@
             "year": 2019,
             "month": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetLegami_Inossidabili.png",
             "cardCount": 234,
-            "yellowAAlternateCardCount": 4
+            "yellowAAlternateCardCount": 4,
+            "logo": "https://media.pokemoncentral.it/wiki/b/b5/Logo_Legami_Inossidabili.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetLegami_Inossidabili.png"
         },
         {
             "id": "UNM",
@@ -1143,9 +1267,10 @@
             "year": 2019,
             "month": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/3/33/SimboloSetSintonia_Mentale.png",
             "cardCount": 258,
-            "yellowAAlternateCardCount": 3
+            "yellowAAlternateCardCount": 3,
+            "logo": "https://media.pokemoncentral.it/wiki/a/a9/Logo_Sintonia_Mentale.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/3/33/SimboloSetSintonia_Mentale.png"
         },
         {
             "id": "UPR",
@@ -1153,9 +1278,10 @@
             "year": 2018,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetUltraprisma.png",
             "cardCount": 173,
-            "yellowAAlternateCardCount": 5
+            "yellowAAlternateCardCount": 5,
+            "logo": "https://media.pokemoncentral.it/wiki/b/be/Logo_Ultraprisma.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetUltraprisma.png"
         },
         {
             "id": "VIV",
@@ -1163,8 +1289,9 @@
             "year": 2020,
             "month": 11,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/2b/SimboloSetVoltaggio_Sfolgorante.png",
-            "cardCount": 203
+            "cardCount": 203,
+            "logo": "https://media.pokemoncentral.it/wiki/4/4a/Logo_Voltaggio_Sfolgorante.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/2/2b/SimboloSetVoltaggio_Sfolgorante.png"
         },
         {
             "id": "WHT",
@@ -1172,8 +1299,9 @@
             "year": 2025,
             "month": 7,
             "language": "it",
+            "cardCount": 173,
             "logo": "https://media.pokemoncentral.it/wiki/b/bf/Logo_Fuoco_Bianco.png",
-            "cardCount": 173
+            "symbol": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetFuoco_Bianco.png"
         },
         {
             "id": "XY",
@@ -1181,9 +1309,10 @@
             "year": 2014,
             "month": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetXY.png",
             "cardCount": 146,
-            "additionalCardCount": 1
+            "additionalCardCount": 1,
+            "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_XY.png",
+            "symbol": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetXY.png"
         }
     ],
     "groups": [
@@ -1193,8 +1322,9 @@
             "period": "Nero e Bianco",
             "sortOrder": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-            "cardCount": 101
+            "cardCount": 101,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "DPP",
@@ -1202,8 +1332,9 @@
             "period": "Diamante & Perla",
             "sortOrder": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-            "cardCount": 56
+            "cardCount": 56,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "HSP",
@@ -1211,8 +1342,9 @@
             "period": "HeartGold & SoulSilver",
             "sortOrder": 4,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-            "cardCount": 25
+            "cardCount": 25,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "MEE",
@@ -1220,8 +1352,9 @@
             "period": "Megaevoluzione",
             "sortOrder": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/6/66/SimboloSetEnergie_base_MEE.png",
-            "cardCount": 16
+            "cardCount": 16,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/6/66/SimboloSetEnergie_base_MEE.png"
         },
         {
             "id": "MEP",
@@ -1229,8 +1362,9 @@
             "period": "Megaevoluzione",
             "sortOrder": 10,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/db/SimboloSetPromo_stella_nera_MEP.png",
-            "cardCount": 120
+            "cardCount": 120,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/d/db/SimboloSetPromo_stella_nera_MEP.png"
         },
         {
             "id": "NP",
@@ -1238,8 +1372,9 @@
             "period": "2003-2006",
             "sortOrder": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-            "cardCount": 40
+            "cardCount": 40,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "POP1",
@@ -1247,8 +1382,9 @@
             "period": "2004-2005",
             "sortOrder": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/4/43/SimboloSetPOP_Serie_1.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/4/43/SimboloSetPOP_Serie_1.png"
         },
         {
             "id": "POP2",
@@ -1256,8 +1392,9 @@
             "period": "2005-2006",
             "sortOrder": 2,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetPOP_Serie_2.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetPOP_Serie_2.png"
         },
         {
             "id": "POP3",
@@ -1265,8 +1402,9 @@
             "period": "2006-2006",
             "sortOrder": 3,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetPOP_Serie_3.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetPOP_Serie_3.png"
         },
         {
             "id": "POP4",
@@ -1274,8 +1412,9 @@
             "period": "2006-2007",
             "sortOrder": 4,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetPOP_Serie_4.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetPOP_Serie_4.png"
         },
         {
             "id": "POP5",
@@ -1283,8 +1422,9 @@
             "period": "2007-2007",
             "sortOrder": 5,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetPOP_Serie_5.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetPOP_Serie_5.png"
         },
         {
             "id": "POP6",
@@ -1292,8 +1432,9 @@
             "period": "2007-2008",
             "sortOrder": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/d/d4/SimboloSetPOP_Serie_6.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/d/d4/SimboloSetPOP_Serie_6.png"
         },
         {
             "id": "POP7",
@@ -1301,8 +1442,9 @@
             "period": "2008-2008",
             "sortOrder": 7,
             "language": "en",
-            "logo": "https://media.pokemoncentral.it/wiki/c/cc/SimboloSetPOP_Serie_7.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/c/cc/SimboloSetPOP_Serie_7.png"
         },
         {
             "id": "POP8",
@@ -1310,8 +1452,9 @@
             "period": "2008-2009",
             "sortOrder": 8,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/a/a1/SimboloSetPOP_Serie_8.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/a/a1/SimboloSetPOP_Serie_8.png"
         },
         {
             "id": "POP9",
@@ -1319,8 +1462,9 @@
             "period": "2009-2009",
             "sortOrder": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/b/b3/SimboloSetPOP_Serie_9.png",
-            "cardCount": 17
+            "cardCount": 17,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/b/b3/SimboloSetPOP_Serie_9.png"
         },
         {
             "id": "SMP",
@@ -1328,9 +1472,10 @@
             "period": "Sole e Luna",
             "sortOrder": 7,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
             "cardCount": 248,
-            "yellowAAlternateCardCount": 3
+            "yellowAAlternateCardCount": 3,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "SVE",
@@ -1338,8 +1483,9 @@
             "period": "Scarlatto e Violetto",
             "sortOrder": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetEnergie_base_SVE.png",
-            "cardCount": 24
+            "cardCount": 24,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetEnergie_base_SVE.png"
         },
         {
             "id": "SVP",
@@ -1347,8 +1493,9 @@
             "period": "Scarlatto e Violetto",
             "sortOrder": 9,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/9/9d/SimboloSetPromo_stella_nera_SVP.png",
-            "cardCount": 226
+            "cardCount": 226,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/9/9d/SimboloSetPromo_stella_nera_SVP.png"
         },
         {
             "id": "SWSHP",
@@ -1365,8 +1512,9 @@
             "period": "1999-2003",
             "sortOrder": 1,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-            "cardCount": 53
+            "cardCount": 53,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         },
         {
             "id": "XYP",
@@ -1374,9 +1522,10 @@
             "period": "XY",
             "sortOrder": 6,
             "language": "it",
-            "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
             "cardCount": 211,
-            "yellowAAlternateCardCount": 5
+            "yellowAAlternateCardCount": 5,
+            "logo": null,
+            "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
         }
     ]
 }

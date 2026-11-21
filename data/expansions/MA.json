@@ -2,11 +2,12 @@
     "expansion": {
         "id": "MA",
         "name": "EX Team Magma vs Team Idro",
-				"year": 2004,
-				"month": 3,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/df/SimboloSetEX_Team_Magma_vs_Team_Idro.png",
-        "cardCount": 97
+        "year": 2004,
+        "month": 3,
+        "language": "it",
+        "cardCount": 97,
+        "logo": "https://media.pokemoncentral.it/wiki/2/25/Logo_EX_Team_Magma_vs_Team_Idro_EN.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/df/SimboloSetEX_Team_Magma_vs_Team_Idro.png"
     },
     "cards": [
         {

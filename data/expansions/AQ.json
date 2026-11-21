@@ -2,11 +2,12 @@
     "expansion": {
         "id": "AQ",
         "name": "Aquapolis",
-		"year": 2003,
-		"month": 4,
-		"language": "it",
+        "year": 2003,
+        "month": 4,
+        "language": "it",
+        "cardCount": 186,
         "logo": "https://media.pokemoncentral.it/wiki/3/36/Logo_Aquapolis.png",
-        "cardCount": 186
+        "symbol": "https://media.pokemoncentral.it/wiki/9/91/SimboloSetAquapolis.svg"
     },
     "cards": [
         {

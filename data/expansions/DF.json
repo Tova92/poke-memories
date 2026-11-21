@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DF",
         "name": "EX L'Isola dei Draghi",
-				"year": 2006,
-				"month": 11,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetEX_L%27Isola_dei_Draghi.png",
-        "cardCount": 101
+        "year": 2006,
+        "month": 11,
+        "language": "it",
+        "cardCount": 101,
+        "logo": "https://media.pokemoncentral.it/wiki/b/b8/Logo_EX_L%27Isola_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetEX_L%27Isola_dei_Draghi.png"
     },
     "cards": [
         {

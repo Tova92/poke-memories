@@ -2,11 +2,12 @@
     "expansion": {
         "id": "PLB",
         "name": "Nero e Bianco - Esplosione Plasma",
-				"year": 2013,
-				"month": 10,
+        "year": 2013,
+        "month": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetEsplosione_Plasma.png",
-        "cardCount": 105
+        "cardCount": 105,
+        "logo": "https://media.pokemoncentral.it/wiki/c/cd/Logo_Esplosione_Plasma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetEsplosione_Plasma.png"
     },
     "cards": [
         {

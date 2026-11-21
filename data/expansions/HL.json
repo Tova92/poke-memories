@@ -2,11 +2,12 @@
     "expansion": {
         "id": "HL",
         "name": "EX Leggende Nascoste",
-				"year": 2004,
-				"month": 6,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/0/08/SimboloSetEX_Leggende_Nascoste.png",
-        "cardCount": 102
+        "year": 2004,
+        "month": 6,
+        "language": "it",
+        "cardCount": 102,
+        "logo": "https://media.pokemoncentral.it/wiki/2/20/Logo_EX_Leggende_Nascoste.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/08/SimboloSetEX_Leggende_Nascoste.png"
     },
     "cards": [
         {

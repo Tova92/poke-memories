@@ -2,11 +2,12 @@
     "expansion": {
         "id": "SW",
         "name": "Diamante & Perla - Prodigi Segreti",
-				"year": 2007,
-				"month": 11,
+        "year": 2007,
+        "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetProdigi_Segreti.png",
-        "cardCount": 132
+        "cardCount": 132,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d5/Logo_Prodigi_Segreti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetProdigi_Segreti.png"
     },
     "cards": [
         {

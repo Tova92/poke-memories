@@ -5,9 +5,10 @@
         "year": 2019,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetLegami_Inossidabili.png",
         "cardCount": 234,
-				"yellowAAlternateCardCount": 4
+        "yellowAAlternateCardCount": 4,
+        "logo": "https://media.pokemoncentral.it/wiki/b/b5/Logo_Legami_Inossidabili.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetLegami_Inossidabili.png"
     },
     "cards": [
         {

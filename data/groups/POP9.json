@@ -5,8 +5,9 @@
         "period": "2009-2009",
         "sortOrder": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/b/b3/SimboloSetPOP_Serie_9.png",
-        "cardCount": 17
+        "cardCount": 17,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b3/SimboloSetPOP_Serie_9.png"
     },
     "cards": [
         {

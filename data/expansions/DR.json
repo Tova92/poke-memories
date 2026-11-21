@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DR",
         "name": "EX Drago",
-				"year": 2003,
-				"month": 11,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetEX_Drago.png",
-        "cardCount": 100
+        "year": 2003,
+        "month": 11,
+        "language": "it",
+        "cardCount": 100,
+        "logo": "https://media.pokemoncentral.it/wiki/8/80/Logo_EX_Drago.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetEX_Drago.png"
     },
     "cards": [
         {

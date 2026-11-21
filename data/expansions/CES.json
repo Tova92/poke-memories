@@ -5,9 +5,10 @@
         "year": 2018,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetTempesta_Astrale.png",
         "cardCount": 183,
-				"yellowAAlternateCardCount": 4
+        "yellowAAlternateCardCount": 4,
+        "logo": "https://media.pokemoncentral.it/wiki/e/e7/Logo_Tempesta_Astrale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetTempesta_Astrale.png"
     },
     "cards": [
         {

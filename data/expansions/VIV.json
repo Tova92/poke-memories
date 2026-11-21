@@ -5,8 +5,9 @@
         "year": 2020,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/2b/SimboloSetVoltaggio_Sfolgorante.png",
-        "cardCount": 203
+        "cardCount": 203,
+        "logo": "https://media.pokemoncentral.it/wiki/4/4a/Logo_Voltaggio_Sfolgorante.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/2b/SimboloSetVoltaggio_Sfolgorante.png"
     },
     "cards": [
         {

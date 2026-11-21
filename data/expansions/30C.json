@@ -5,8 +5,9 @@
         "year": 2026,
         "month": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/0/0a/SimboloSet30%C2%BA_Anniversario.png",
-        "cardCount": 191
+        "cardCount": 191,
+        "logo": "https://media.pokemoncentral.it/wiki/2/2b/Logo_30_Anniversario.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0a/SimboloSet30%C2%BA_Anniversario.png"
     },
     "cards": [
         {
@@ -1347,33 +1348,33 @@
             "section": "Mew RGB"
         }
     ],
-		"energies": [
-				"MEE-009",
-				"MEE-010",
-				"MEE-011",
-				"MEE-012",
-				"MEE-013",
-				"MEE-014",
-				"MEE-015",
-				"MEE-016"
-		],
-		"promo": [
-				"MEP-094",
-				"MEP-095",
-				"MEP-096",
-				"MEP-097",
-				"MEP-098",
-				"MEP-099",
-				"MEP-100",
-				"MEP-101",
-				"MEP-102",
-				"MEP-103",
-				"MEP-104",
-				"MEP-105",
-				"MEP-106",
-				"MEP-107",
-				"MEP-108",
-				"MEP-109",
-				"MEP-110"
-		]
+    "energies": [
+        "MEE-009",
+        "MEE-010",
+        "MEE-011",
+        "MEE-012",
+        "MEE-013",
+        "MEE-014",
+        "MEE-015",
+        "MEE-016"
+    ],
+    "promo": [
+        "MEP-094",
+        "MEP-095",
+        "MEP-096",
+        "MEP-097",
+        "MEP-098",
+        "MEP-099",
+        "MEP-100",
+        "MEP-101",
+        "MEP-102",
+        "MEP-103",
+        "MEP-104",
+        "MEP-105",
+        "MEP-106",
+        "MEP-107",
+        "MEP-108",
+        "MEP-109",
+        "MEP-110"
+    ]
 }

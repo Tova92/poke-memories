@@ -2,11 +2,12 @@
     "expansion": {
         "id": "EM",
         "name": "EX Smeraldo",
-				"year": 2005,
-				"month": 5,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/d6/SimboloSetEX_Smeraldo.png",
-        "cardCount": 107
+        "year": 2005,
+        "month": 5,
+        "language": "it",
+        "cardCount": 107,
+        "logo": "https://media.pokemoncentral.it/wiki/1/18/Logo_EX_Smeraldo.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d6/SimboloSetEX_Smeraldo.png"
     },
     "cards": [
         {

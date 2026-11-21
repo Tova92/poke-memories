@@ -5,9 +5,10 @@
         "year": 2019,
         "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetGioco_di_Squadra.png",
         "cardCount": 196,
-				"yellowAAlternateCardCount": 2
+        "yellowAAlternateCardCount": 2,
+        "logo": "https://media.pokemoncentral.it/wiki/4/49/Logo_Gioco_di_Squadra.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetGioco_di_Squadra.png"
     },
     "cards": [
         {

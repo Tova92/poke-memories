@@ -2,11 +2,12 @@
     "expansion": {
         "id": "KSS",
         "name": "XY - Benvenuti a Kalos",
-				"year": 2013,
-				"month": 11,
+        "year": 2013,
+        "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/b/bc/SimboloSetBenvenuti_a_Kalos.png",
-        "cardCount": 39
+        "cardCount": 39,
+        "logo": "https://media.pokemoncentral.it/wiki/2/2f/Logo_Benvenuti_a_Kalos.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/b/bc/SimboloSetBenvenuti_a_Kalos.png"
     },
     "cards": [
         {

@@ -2,11 +2,12 @@
     "expansion": {
         "id": "SF",
         "name": "Diamante & Perla - Fronte di Tempesta",
-				"year": 2008,
-				"month": 11,
+        "year": 2008,
+        "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/9b/SimboloSetFronte_di_Tempesta.png",
-        "cardCount": 106
+        "cardCount": 106,
+        "logo": "https://media.pokemoncentral.it/wiki/8/8b/Logo_Fronte_di_Tempesta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/9b/SimboloSetFronte_di_Tempesta.png"
     },
     "cards": [
         {

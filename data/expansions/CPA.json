@@ -5,8 +5,9 @@
         "year": 2020,
         "month": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/6e/SimboloSetFuturi_Campioni.png",
-        "cardCount": 80
+        "cardCount": 80,
+        "logo": "https://media.pokemoncentral.it/wiki/f/f2/Logo_Futuri_Campioni.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/6e/SimboloSetFuturi_Campioni.png"
     },
     "cards": [
         {

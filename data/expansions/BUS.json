@@ -5,9 +5,10 @@
         "year": 2017,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/4b/SimboloSetOmbre_Infuocate.png",
         "cardCount": 169,
-				"yellowAAlternateCardCount": 8
+        "yellowAAlternateCardCount": 8,
+        "logo": "https://media.pokemoncentral.it/wiki/4/4b/Logo_Ombre_Infuocate.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4b/SimboloSetOmbre_Infuocate.png"
     },
     "cards": [
         {

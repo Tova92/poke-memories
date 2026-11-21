@@ -5,8 +5,9 @@
         "year": 2025,
         "month": 7,
         "language": "it",
+        "cardCount": 173,
         "logo": "https://media.pokemoncentral.it/wiki/b/bf/Logo_Fuoco_Bianco.png",
-        "cardCount": 173
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetFuoco_Bianco.png"
     },
     "cards": [
         {
@@ -1221,14 +1222,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-017",
-				"SVE-018",
-				"SVE-019",
-				"SVE-020",
-				"SVE-021",
-				"SVE-022",
-				"SVE-023",
-				"SVE-024"
-		]
+    "energies": [
+        "SVE-017",
+        "SVE-018",
+        "SVE-019",
+        "SVE-020",
+        "SVE-021",
+        "SVE-022",
+        "SVE-023",
+        "SVE-024"
+    ]
 }

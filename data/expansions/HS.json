@@ -2,11 +2,12 @@
     "expansion": {
         "id": "HS",
         "name": "HeartGold & SoulSilver",
-				"year": 2010,
-				"month": 2,
+        "year": 2010,
+        "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/47/SimboloSetHeartGold_%26_SoulSilver.png",
-        "cardCount": 124
+        "cardCount": 124,
+        "logo": "https://media.pokemoncentral.it/wiki/a/a8/Logo_HeartGold_%26_SoulSilver.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/47/SimboloSetHeartGold_%26_SoulSilver.png"
     },
     "cards": [
         {

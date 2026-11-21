@@ -5,8 +5,9 @@
         "year": 2015,
         "month": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/c/c5/SimboloSetDoppio_Scontro.png",
-        "cardCount": 34
+        "cardCount": 34,
+        "logo": "https://media.pokemoncentral.it/wiki/1/19/Logo_Doppio_Scontro_EN.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c5/SimboloSetDoppio_Scontro.png"
     },
     "cards": [
         {

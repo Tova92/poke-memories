@@ -5,9 +5,10 @@
         "year": 2017,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetInvasione_Scarlatta.png",
         "cardCount": 124,
-				"yellowAAlternateCardCount": 2
+        "yellowAAlternateCardCount": 2,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d6/Logo_Invasione_Scarlatta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetInvasione_Scarlatta.png"
     },
     "cards": [
         {

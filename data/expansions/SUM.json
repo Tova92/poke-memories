@@ -5,9 +5,10 @@
         "year": 2017,
         "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/89/SimboloSetSole_e_Luna.png",
         "cardCount": 163,
-				"yellowAAlternateCardCount": 1
+        "yellowAAlternateCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/7/78/Logo_Sole_e_Luna.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/89/SimboloSetSole_e_Luna.png"
     },
     "cards": [
         {

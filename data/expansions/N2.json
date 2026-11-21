@@ -2,11 +2,12 @@
     "expansion": {
         "id": "N2",
         "name": "Neo Discovery",
-				"year": 2001,
-				"month": 6,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/e/e4/SimboloSetNeo_Discovery.svg",
-        "cardCount": 75
+        "year": 2001,
+        "month": 6,
+        "language": "it",
+        "cardCount": 75,
+        "logo": "https://media.pokemoncentral.it/wiki/5/53/Logo_Neo_Discovery.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e4/SimboloSetNeo_Discovery.svg"
     },
     "cards": [
         {

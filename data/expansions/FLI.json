@@ -5,9 +5,10 @@
         "year": 2018,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetApocalisse_di_Luce.png",
         "cardCount": 146,
-				"yellowAAlternateCardCount": 4
+        "yellowAAlternateCardCount": 4,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d4/Logo_Apocalisse_di_Luce.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetApocalisse_di_Luce.png"
     },
     "cards": [
         {

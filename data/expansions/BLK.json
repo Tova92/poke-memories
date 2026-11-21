@@ -5,8 +5,9 @@
         "year": 2025,
         "month": 7,
         "language": "it",
+        "cardCount": 172,
         "logo": "https://media.pokemoncentral.it/wiki/5/51/Logo_Luce_Nera.png",
-        "cardCount": 172
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetLuce_Nera.png"
     },
     "cards": [
         {
@@ -1214,14 +1215,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-017",
-				"SVE-018",
-				"SVE-019",
-				"SVE-020",
-				"SVE-021",
-				"SVE-022",
-				"SVE-023",
-				"SVE-024"
-		]
+    "energies": [
+        "SVE-017",
+        "SVE-018",
+        "SVE-019",
+        "SVE-020",
+        "SVE-021",
+        "SVE-022",
+        "SVE-023",
+        "SVE-024"
+    ]
 }

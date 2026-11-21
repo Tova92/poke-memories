@@ -5,9 +5,10 @@
         "year": 2017,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetGuardiani_Nascenti.png",
         "cardCount": 169,
-				"yellowAAlternateCardCount": 11
+        "yellowAAlternateCardCount": 11,
+        "logo": "https://media.pokemoncentral.it/wiki/d/d7/Logo_Guardiani_Nascenti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetGuardiani_Nascenti.png"
     },
     "cards": [
         {

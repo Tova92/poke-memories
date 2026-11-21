@@ -5,8 +5,9 @@
         "year": 2025,
         "month": 1,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/e/ec/SimboloSetEvoluzioni_Prismatiche.png",
-        "cardCount": 180
+        "cardCount": 180,
+        "logo": "https://media.pokemoncentral.it/wiki/1/1d/Logo_Evoluzioni_Prismatiche.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/ec/SimboloSetEvoluzioni_Prismatiche.png"
     },
     "cards": [
         {
@@ -1270,14 +1271,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-009",
-				"SVE-010",
-				"SVE-011",
-				"SVE-012",
-				"SVE-013",
-				"SVE-014",
-				"SVE-015",
-				"SVE-016"
-		]
+    "energies": [
+        "SVE-009",
+        "SVE-010",
+        "SVE-011",
+        "SVE-012",
+        "SVE-013",
+        "SVE-014",
+        "SVE-015",
+        "SVE-016"
+    ]
 }

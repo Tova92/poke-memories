@@ -2,11 +2,12 @@
     "expansion": {
         "id": "NVI",
         "name": "Nero e Bianco - Vittorie Regali",
-				"year": 2012,
-				"month": 2,
+        "year": 2012,
+        "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a7/SimboloSetVittorie_Regali.png",
-        "cardCount": 102
+        "cardCount": 102,
+        "logo": "https://media.pokemoncentral.it/wiki/9/92/Logo_Vittorie_Regali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a7/SimboloSetVittorie_Regali.png"
     },
     "cards": [
         {

@@ -5,8 +5,9 @@
         "year": 2024,
         "month": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetCronoforze.png",
-        "cardCount": 218
+        "cardCount": 218,
+        "logo": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Cronoforze.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetCronoforze.png"
     },
     "cards": [
         {
@@ -1536,14 +1537,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-001",
-				"SVE-002",
-				"SVE-003",
-				"SVE-004",
-				"SVE-005",
-				"SVE-006",
-				"SVE-007",
-				"SVE-008"
-		]
+    "energies": [
+        "SVE-001",
+        "SVE-002",
+        "SVE-003",
+        "SVE-004",
+        "SVE-005",
+        "SVE-006",
+        "SVE-007",
+        "SVE-008"
+    ]
 }

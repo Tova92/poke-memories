@@ -5,8 +5,9 @@
         "period": "Diamante & Perla",
         "sortOrder": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-        "cardCount": 56
+        "cardCount": 56,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
     },
     "cards": [
         {

@@ -2,11 +2,12 @@
     "expansion": {
         "id": "UD",
         "name": "HS - Senza Paura",
-				"year": 2010,
-				"month": 8,
+        "year": 2010,
+        "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a2/SimboloSetSenza_Paura.png",
-        "cardCount": 91
+        "cardCount": 91,
+        "logo": "https://media.pokemoncentral.it/wiki/e/e4/Logo_Senza_Paura.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a2/SimboloSetSenza_Paura.png"
     },
     "cards": [
         {

@@ -5,8 +5,9 @@
         "period": "2006-2007",
         "sortOrder": 4,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetPOP_Serie_4.png",
-        "cardCount": 17
+        "cardCount": 17,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetPOP_Serie_4.png"
     },
     "cards": [
         {

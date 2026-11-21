@@ -5,9 +5,10 @@
         "year": 2019,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/f/fe/SimboloSetEclissi_Cosmica.png",
         "cardCount": 271,
-				"yellowAAlternateCardCount": 1
+        "yellowAAlternateCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/4/45/Logo_Eclissi_Cosmica.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fe/SimboloSetEclissi_Cosmica.png"
     },
     "cards": [
         {

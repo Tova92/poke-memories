@@ -5,8 +5,9 @@
         "year": 2021,
         "month": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/c/cf/SimboloSetStili_di_Lotta.png",
-        "cardCount": 183
+        "cardCount": 183,
+        "logo": "https://media.pokemoncentral.it/wiki/b/be/Logo_Stili_di_Lotta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/cf/SimboloSetStili_di_Lotta.png"
     },
     "cards": [
         {

@@ -2,11 +2,12 @@
     "expansion": {
         "id": "RS",
         "name": "EX Rubino & Zaffiro",
-				"year": 2003,
-				"month": 7,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetEX_Rubino_%26_Zaffiro.png",
-        "cardCount": 109
+        "year": 2003,
+        "month": 7,
+        "language": "it",
+        "cardCount": 109,
+        "logo": "https://media.pokemoncentral.it/wiki/9/94/Logo_EX_Rubino_%26_Zaffiro.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetEX_Rubino_%26_Zaffiro.png"
     },
     "cards": [
         {

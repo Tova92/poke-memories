@@ -2,11 +2,12 @@
     "expansion": {
         "id": "BLW",
         "name": "Nero e Bianco",
-				"year": 2011,
-				"month": 5,
+        "year": 2011,
+        "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetNero_e_Bianco.png",
-        "cardCount": 115
+        "cardCount": 115,
+        "logo": "https://media.pokemoncentral.it/wiki/1/12/Logo_Nero_e_Bianco.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetNero_e_Bianco.png"
     },
     "cards": [
         {

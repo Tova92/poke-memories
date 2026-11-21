@@ -2,11 +2,12 @@
     "expansion": {
         "id": "GE",
         "name": "Diamante & Perla - Incontri Leggendari",
-				"year": 2008,
-				"month": 2,
+        "year": 2008,
+        "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetIncontri_Leggendari.png",
-        "cardCount": 106
+        "cardCount": 106,
+        "logo": "https://media.pokemoncentral.it/wiki/7/73/Logo_Incontri_Leggendari.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetIncontri_Leggendari.png"
     },
     "cards": [
         {

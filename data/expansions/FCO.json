@@ -5,9 +5,10 @@
         "year": 2016,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/67/SimboloSetDestini_Incrociati.png",
         "cardCount": 125,
-				"yellowAAlternateCardCount": 4
+        "yellowAAlternateCardCount": 4,
+        "logo": "https://media.pokemoncentral.it/wiki/4/46/Logo_Destini_Incrociati.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/67/SimboloSetDestini_Incrociati.png"
     },
     "cards": [
         {

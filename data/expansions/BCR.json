@@ -2,11 +2,12 @@
     "expansion": {
         "id": "BCR",
         "name": "Nero e Bianco - Confini Varcati",
-				"year": 2013,
-				"month": 2,
+        "year": 2013,
+        "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetConfini_Varcati.png",
-        "cardCount": 153
+        "cardCount": 153,
+        "logo": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Confini_Varcati.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetConfini_Varcati.png"
     },
     "cards": [
         {

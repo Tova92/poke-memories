@@ -2,11 +2,12 @@
     "expansion": {
         "id": "LA",
         "name": "Diamante & Perla - Il Risveglio dei Miti",
-				"year": 2008,
-				"month": 8,
+        "year": 2008,
+        "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetIl_Risveglio_dei_Miti.png",
-        "cardCount": 146
+        "cardCount": 146,
+        "logo": "https://media.pokemoncentral.it/wiki/0/04/Logo_Il_Risveglio_dei_Miti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetIl_Risveglio_dei_Miti.png"
     },
     "cards": [
         {

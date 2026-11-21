@@ -2,11 +2,12 @@
     "expansion": {
         "id": "EPO",
         "name": "Nero e Bianco - Nuove Forze",
-				"year": 2011,
-				"month": 9,
+        "year": 2011,
+        "month": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/52/SimboloSetNuove_Forze.png",
-        "cardCount": 98
+        "cardCount": 98,
+        "logo": "https://media.pokemoncentral.it/wiki/a/ae/Logo_Nuove_Forze.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/52/SimboloSetNuove_Forze.png"
     },
     "cards": [
         {

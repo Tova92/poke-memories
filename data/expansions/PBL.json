@@ -5,8 +5,9 @@
         "year": 2026,
         "month": 7,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/e/e7/SimboloSetBuio_Pesto.png",
-        "cardCount": 120
+        "cardCount": 120,
+        "logo": "https://media.pokemoncentral.it/wiki/b/b5/Logo_Buio_Pesto.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e7/SimboloSetBuio_Pesto.png"
     },
     "cards": [
         {
@@ -850,14 +851,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"MEE-001",
-				"MEE-002",
-				"MEE-003",
-				"MEE-004",
-				"MEE-005",
-				"MEE-006",
-				"MEE-007",
-				"MEE-008"
-		]
+    "energies": [
+        "MEE-001",
+        "MEE-002",
+        "MEE-003",
+        "MEE-004",
+        "MEE-005",
+        "MEE-006",
+        "MEE-007",
+        "MEE-008"
+    ]
 }

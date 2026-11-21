@@ -2,11 +2,12 @@
     "expansion": {
         "id": "BS",
         "name": "Set Base",
-				"year": 2000,
-				"month": 3,
-				"language": "it",
+        "year": 2000,
+        "month": 3,
+        "language": "it",
+        "cardCount": 102,
         "logo": "https://media.pokemoncentral.it/wiki/c/cb/Logo_Set_Base.png",
-        "cardCount": 102
+        "symbol": null
     },
     "cards": [
         {

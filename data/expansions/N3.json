@@ -2,11 +2,12 @@
     "expansion": {
         "id": "N3",
         "name": "Neo Revelation",
-				"year": 2001,
-				"month": 10,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/2c/SimboloSetNeo_Revelation.svg",
-        "cardCount": 66
+        "year": 2001,
+        "month": 10,
+        "language": "it",
+        "cardCount": 66,
+        "logo": "https://media.pokemoncentral.it/wiki/3/35/Logo_Neo_Revelation.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/2c/SimboloSetNeo_Revelation.svg"
     },
     "cards": [
         {

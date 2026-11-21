@@ -5,8 +5,9 @@
         "year": 2025,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/d3/SimboloSetFiamme_Spettrali.png",
-        "cardCount": 130
+        "cardCount": 130,
+        "logo": "https://media.pokemoncentral.it/wiki/1/15/Logo_Fiamme_Spettrali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d3/SimboloSetFiamme_Spettrali.png"
     },
     "cards": [
         {
@@ -920,14 +921,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"MEE-001",
-				"MEE-002",
-				"MEE-003",
-				"MEE-004",
-				"MEE-005",
-				"MEE-006",
-				"MEE-007",
-				"MEE-008"
-		]
+    "energies": [
+        "MEE-001",
+        "MEE-002",
+        "MEE-003",
+        "MEE-004",
+        "MEE-005",
+        "MEE-006",
+        "MEE-007",
+        "MEE-008"
+    ]
 }

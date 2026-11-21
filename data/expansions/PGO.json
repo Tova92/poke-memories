@@ -5,8 +5,9 @@
         "year": 2022,
         "month": 7,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetPok%C3%A9mon_GO.png",
-        "cardCount": 88
+        "cardCount": 88,
+        "logo": "https://media.pokemoncentral.it/wiki/3/3d/Pokemon_Go_Logo.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetPok%C3%A9mon_GO.png"
     },
     "cards": [
         {

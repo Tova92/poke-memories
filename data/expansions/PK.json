@@ -2,11 +2,12 @@
     "expansion": {
         "id": "PK",
         "name": "EX Power Keepers",
-				"year": 2007,
-				"month": 2,
+        "year": 2007,
+        "month": 2,
         "language": "en",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a6/SimboloSetEX_Power_Keepers.png",
-        "cardCount": 108
+        "cardCount": 108,
+        "logo": "https://media.pokemoncentral.it/wiki/7/71/Logo_EX_Power_Keepers.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a6/SimboloSetEX_Power_Keepers.png"
     },
     "cards": [
         {

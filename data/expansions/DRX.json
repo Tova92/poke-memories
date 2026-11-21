@@ -2,11 +2,12 @@
     "expansion": {
         "id": "DRX",
         "name": "Nero e Bianco - Stirpe dei Draghi",
-				"year": 2012,
-				"month": 10,
+        "year": 2012,
+        "month": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/65/SimboloSetStirpe_dei_Draghi.png",
-        "cardCount": 128
+        "cardCount": 128,
+        "logo": "https://media.pokemoncentral.it/wiki/3/3d/Logo_Stirpe_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/65/SimboloSetStirpe_dei_Draghi.png"
     },
     "cards": [
         {

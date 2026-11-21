@@ -5,9 +5,10 @@
         "year": 2018,
         "month": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/79/SimboloSetTrionfo_dei_Draghi.png",
         "cardCount": 78,
-				"yellowAAlternateCardCount": 2
+        "yellowAAlternateCardCount": 2,
+        "logo": "https://media.pokemoncentral.it/wiki/7/7a/Logo_Trionfo_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/79/SimboloSetTrionfo_dei_Draghi.png"
     },
     "cards": [
         {

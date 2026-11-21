@@ -5,9 +5,10 @@
         "year": 2019,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/3/33/SimboloSetSintonia_Mentale.png",
         "cardCount": 258,
-				"yellowAAlternateCardCount": 3
+        "yellowAAlternateCardCount": 3,
+        "logo": "https://media.pokemoncentral.it/wiki/a/a9/Logo_Sintonia_Mentale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/33/SimboloSetSintonia_Mentale.png"
     },
     "cards": [
         {

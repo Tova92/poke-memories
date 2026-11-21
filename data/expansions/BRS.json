@@ -5,8 +5,9 @@
         "year": 2022,
         "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/f/f6/SimboloSetAstri_Lucenti.png",
-        "cardCount": 216
+        "cardCount": 216,
+        "logo": "https://media.pokemoncentral.it/wiki/b/bd/Logo_Astri_Lucenti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/f6/SimboloSetAstri_Lucenti.png"
     },
     "cards": [
         {

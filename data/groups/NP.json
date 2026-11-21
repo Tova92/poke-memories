@@ -5,8 +5,9 @@
         "period": "2003-2006",
         "sortOrder": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-        "cardCount": 40
+        "cardCount": 40,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
     },
     "cards": [
         {

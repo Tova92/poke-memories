@@ -2,11 +2,12 @@
     "expansion": {
         "id": "SV",
         "name": "Platino - Supreme Victors",
-				"year": 2009,
-				"month": 8,
+        "year": 2009,
+        "month": 8,
         "language": "en",
-        "logo": "https://media.pokemoncentral.it/wiki/8/8d/SimboloSetSupreme_Victors.png",
-        "cardCount": 153
+        "cardCount": 153,
+        "logo": "https://media.pokemoncentral.it/wiki/8/8d/Logo_Supreme_Victors.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/8d/SimboloSetSupreme_Victors.png"
     },
     "cards": [
         {

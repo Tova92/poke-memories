@@ -5,8 +5,9 @@
         "period": "2006-2006",
         "sortOrder": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetPOP_Serie_3.png",
-        "cardCount": 17
+        "cardCount": 17,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetPOP_Serie_3.png"
     },
     "cards": [
         {

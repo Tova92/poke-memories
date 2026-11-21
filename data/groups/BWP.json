@@ -5,8 +5,9 @@
         "period": "Nero e Bianco",
         "sortOrder": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-        "cardCount": 101
+        "cardCount": 101,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
     },
     "cards": [
         {

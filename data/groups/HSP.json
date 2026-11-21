@@ -5,8 +5,9 @@
         "period": "HeartGold & SoulSilver",
         "sortOrder": 4,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
-        "cardCount": 25
+        "cardCount": 25,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
     },
     "cards": [
         {

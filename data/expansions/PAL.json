@@ -5,8 +5,9 @@
         "year": 2023,
         "month": 6,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/86/SimboloSetEvoluzioni_a_Paldea.png",
-        "cardCount": 279
+        "cardCount": 279,
+        "logo": "https://media.pokemoncentral.it/wiki/9/9f/Logo_Evoluzioni_a_Paldea.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/86/SimboloSetEvoluzioni_a_Paldea.png"
     },
     "cards": [
         {
@@ -1963,14 +1964,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-001",
-				"SVE-002",
-				"SVE-003",
-				"SVE-004",
-				"SVE-005",
-				"SVE-006",
-				"SVE-007",
-				"SVE-008"
-		]
+    "energies": [
+        "SVE-001",
+        "SVE-002",
+        "SVE-003",
+        "SVE-004",
+        "SVE-005",
+        "SVE-006",
+        "SVE-007",
+        "SVE-008"
+    ]
 }

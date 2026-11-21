@@ -5,9 +5,10 @@
         "year": 2015,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/0/0c/SimboloSetFurie_Volanti.png",
         "cardCount": 110,
-				"yellowAAlternateCardCount": 2
+        "yellowAAlternateCardCount": 2,
+        "logo": "https://media.pokemoncentral.it/wiki/1/1c/Logo_Furie_Volanti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0c/SimboloSetFurie_Volanti.png"
     },
     "cards": [
         {

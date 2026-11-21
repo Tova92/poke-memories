@@ -2,11 +2,12 @@
     "expansion": {
         "id": "RR",
         "name": "Platino - L'Ascesa dei Rivali",
-				"year": 2009,
-				"month": 5,
+        "year": 2009,
+        "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/8a/SimboloSetL%27Ascesa_dei_Rivali.png",
-        "cardCount": 120
+        "cardCount": 120,
+        "logo": "https://media.pokemoncentral.it/wiki/a/a6/Logo_L%27Ascesa_dei_Rivali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/8a/SimboloSetL%27Ascesa_dei_Rivali.png"
     },
     "cards": [
         {

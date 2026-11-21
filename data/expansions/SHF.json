@@ -5,8 +5,9 @@
         "year": 2021,
         "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetDestino_Splendente.png",
-        "cardCount": 195
+        "cardCount": 195,
+        "logo": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Destino_Splendente.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetDestino_Splendente.png"
     },
     "cards": [
         {

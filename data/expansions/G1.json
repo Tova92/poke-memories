@@ -2,11 +2,12 @@
     "expansion": {
         "id": "G1",
         "name": "Gym Heroes",
-				"year": 2000,
-				"month": 8,
-				"language": "en",
-        "logo": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetGym_Heroes.svg",
-        "cardCount": 132
+        "year": 2000,
+        "month": 8,
+        "language": "en",
+        "cardCount": 132,
+        "logo": "https://media.pokemoncentral.it/wiki/3/3b/Logo_Gym_Heroes.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetGym_Heroes.svg"
     },
     "cards": [
         {

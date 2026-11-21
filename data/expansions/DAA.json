@@ -5,8 +5,9 @@
         "year": 2020,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetFiamme_Oscure.png",
-        "cardCount": 201
+        "cardCount": 201,
+        "logo": "https://media.pokemoncentral.it/wiki/6/64/Logo_Fiamme_Oscure.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetFiamme_Oscure.png"
     },
     "cards": [
         {

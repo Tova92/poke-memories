@@ -5,9 +5,10 @@
         "period": "XY",
         "sortOrder": 6,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png",
         "cardCount": 211,
-				"yellowAAlternateCardCount": 5
+        "yellowAAlternateCardCount": 5,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
     },
     "cards": [
         {

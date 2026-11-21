@@ -2,11 +2,12 @@
     "expansion": {
         "id": "SS",
         "name": "EX Tempesta di Sabbia",
-				"year": 2003,
-				"month": 9,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetEX_Tempesta_di_Sabbia.png",
-        "cardCount": 100
+        "year": 2003,
+        "month": 9,
+        "language": "it",
+        "cardCount": 100,
+        "logo": "https://media.pokemoncentral.it/wiki/f/f7/Logo_EX_Tempesta_di_Sabbia.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetEX_Tempesta_di_Sabbia.png"
     },
     "cards": [
         {

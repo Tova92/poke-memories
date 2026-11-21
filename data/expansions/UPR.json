@@ -5,9 +5,10 @@
         "year": 2018,
         "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetUltraprisma.png",
         "cardCount": 173,
-				"yellowAAlternateCardCount": 5
+        "yellowAAlternateCardCount": 5,
+        "logo": "https://media.pokemoncentral.it/wiki/b/be/Logo_Ultraprisma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetUltraprisma.png"
     },
     "cards": [
         {

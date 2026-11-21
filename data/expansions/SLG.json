@@ -5,9 +5,10 @@
         "year": 2017,
         "month": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetLeggende_Iridescenti.png",
         "cardCount": 78,
-				"yellowAAlternateCardCount": 3
+        "yellowAAlternateCardCount": 3,
+        "logo": "https://media.pokemoncentral.it/wiki/5/5c/Logo_Leggende_Iridescenti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetLeggende_Iridescenti.png"
     },
     "cards": [
         {

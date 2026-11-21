@@ -5,9 +5,10 @@
         "year": 2015,
         "month": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/1/1d/SimboloSetAntiche_Origini.png",
         "cardCount": 100,
-				"yellowAAlternateCardCount": 1
+        "yellowAAlternateCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/1/1f/Logo_Antiche_Origini.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1d/SimboloSetAntiche_Origini.png"
     },
     "cards": [
         {

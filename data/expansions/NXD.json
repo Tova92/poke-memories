@@ -2,11 +2,12 @@
     "expansion": {
         "id": "NXD",
         "name": "Nero e Bianco - Destini Futuri",
-				"year": 2012,
-				"month": 5,
+        "year": 2012,
+        "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/c/cd/SimboloSetDestini_Futuri.png",
-        "cardCount": 103
+        "cardCount": 103,
+        "logo": "https://media.pokemoncentral.it/wiki/c/cf/Logo_Destini_Futuri.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/cd/SimboloSetDestini_Futuri.png"
     },
     "cards": [
         {

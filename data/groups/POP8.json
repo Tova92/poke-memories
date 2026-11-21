@@ -5,8 +5,9 @@
         "period": "2008-2009",
         "sortOrder": 8,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/a1/SimboloSetPOP_Serie_8.png",
-        "cardCount": 17
+        "cardCount": 17,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a1/SimboloSetPOP_Serie_8.png"
     },
     "cards": [
         {

@@ -5,8 +5,9 @@
         "period": "Megaevoluzione",
         "sortOrder": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/66/SimboloSetEnergie_base_MEE.png",
-        "cardCount": 16
+        "cardCount": 16,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/6/66/SimboloSetEnergie_base_MEE.png"
     },
     "cards": [
         {

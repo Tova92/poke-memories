@@ -2,11 +2,12 @@
     "expansion": {
         "id": "PLS",
         "name": "Nero e Bianco - Uragano Plasma",
-				"year": 2013,
-				"month": 4,
+        "year": 2013,
+        "month": 4,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/6b/SimboloSetUragano_Plasma.png",
-        "cardCount": 138
+        "cardCount": 138,
+        "logo": "https://media.pokemoncentral.it/wiki/f/f2/Logo_Uragano_Plasma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/6b/SimboloSetUragano_Plasma.png"
     },
     "cards": [
         {

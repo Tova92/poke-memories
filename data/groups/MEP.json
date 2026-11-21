@@ -5,8 +5,9 @@
         "period": "Megaevoluzione",
         "sortOrder": 10,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/d/db/SimboloSetPromo_stella_nera_MEP.png",
-        "cardCount": 120
+        "cardCount": 120,
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/d/db/SimboloSetPromo_stella_nera_MEP.png"
     },
     "cards": [
         {

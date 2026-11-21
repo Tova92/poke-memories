@@ -2,11 +2,12 @@
     "expansion": {
         "id": "EX",
         "name": "Expedition",
-				"year": 2002,
-				"month": 9,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetExpedition.svg",
-        "cardCount": 165
+        "year": 2002,
+        "month": 9,
+        "language": "it",
+        "cardCount": 165,
+        "logo": "https://media.pokemoncentral.it/wiki/a/a0/Logo_Expedition.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetExpedition.svg"
     },
     "cards": [
         {

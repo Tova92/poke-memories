@@ -2,11 +2,12 @@
     "expansion": {
         "id": "UF",
         "name": "EX Forze Segrete",
-				"year": 2005,
-				"month": 8,
-				"language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/77/SimboloSetEX_Forze_Segrete.png",
-        "cardCount": 145
+        "year": 2005,
+        "month": 8,
+        "language": "it",
+        "cardCount": 145,
+        "logo": "https://media.pokemoncentral.it/wiki/3/37/Logo_EX_Forze_Segrete.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/77/SimboloSetEX_Forze_Segrete.png"
     },
     "cards": [
         {

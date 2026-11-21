@@ -5,8 +5,9 @@
         "year": 2024,
         "month": 1,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/4f/SimboloSetDestino_di_Paldea.png",
-        "cardCount": 245
+        "cardCount": 245,
+        "logo": "https://media.pokemoncentral.it/wiki/2/28/Logo_Destino_di_Paldea.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4f/SimboloSetDestino_di_Paldea.png"
     },
     "cards": [
         {
@@ -1725,14 +1726,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-001",
-				"SVE-002",
-				"SVE-003",
-				"SVE-004",
-				"SVE-005",
-				"SVE-006",
-				"SVE-007",
-				"SVE-008"
-		]
+    "energies": [
+        "SVE-001",
+        "SVE-002",
+        "SVE-003",
+        "SVE-004",
+        "SVE-005",
+        "SVE-006",
+        "SVE-007",
+        "SVE-008"
+    ]
 }

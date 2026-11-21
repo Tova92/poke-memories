@@ -5,8 +5,9 @@
         "year": 2021,
         "month": 6,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/9/90/SimboloSetRegno_Glaciale.png",
-        "cardCount": 233
+        "cardCount": 233,
+        "logo": "https://media.pokemoncentral.it/wiki/5/58/Logo_Regno_Glaciale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/90/SimboloSetRegno_Glaciale.png"
     },
     "cards": [
         {

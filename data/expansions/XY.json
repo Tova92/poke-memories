@@ -5,9 +5,10 @@
         "year": 2014,
         "month": 2,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetXY.png",
         "cardCount": 146,
-				"additionalCardCount": 1
+        "additionalCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_XY.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetXY.png"
     },
     "cards": [
         {

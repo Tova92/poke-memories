@@ -5,8 +5,9 @@
         "year": 2023,
         "month": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/e/e1/SimboloSetScarlatto_e_Violetto.png",
-        "cardCount": 258
+        "cardCount": 258,
+        "logo": "https://media.pokemoncentral.it/wiki/1/10/Logo_Scarlatto_e_Violetto.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e1/SimboloSetScarlatto_e_Violetto.png"
     },
     "cards": [
         {
@@ -1816,14 +1817,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-001",
-				"SVE-002",
-				"SVE-003",
-				"SVE-004",
-				"SVE-005",
-				"SVE-006",
-				"SVE-007",
-				"SVE-008"
-		]
+    "energies": [
+        "SVE-001",
+        "SVE-002",
+        "SVE-003",
+        "SVE-004",
+        "SVE-005",
+        "SVE-006",
+        "SVE-007",
+        "SVE-008"
+    ]
 }

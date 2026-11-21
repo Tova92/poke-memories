@@ -2,11 +2,12 @@
     "expansion": {
         "id": "JU",
         "name": "Jungle",
-				"year": 2000,
-				"month": 7,
-				"language": "it",
+        "year": 2000,
+        "month": 7,
+        "language": "it",
+        "cardCount": 64,
         "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_Jungle.png",
-        "cardCount": 64
+        "symbol": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetJungle.svg"
     },
     "cards": [
         {

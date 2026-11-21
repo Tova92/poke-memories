@@ -5,8 +5,9 @@
         "year": 2019,
         "month": 3,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetDetective_Pikachu.png",
-        "cardCount": 18
+        "cardCount": 18,
+        "logo": "https://media.pokemoncentral.it/wiki/7/77/Detective_Pikachu_logo_film.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetDetective_Pikachu.png"
     },
     "cards": [
         {

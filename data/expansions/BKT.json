@@ -5,9 +5,10 @@
         "year": 2015,
         "month": 11,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetTurboblitz.png",
         "cardCount": 164,
-				"yellowAAlternateCardCount": 1
+        "yellowAAlternateCardCount": 1,
+        "logo": "https://media.pokemoncentral.it/wiki/9/98/Logo_Turboblitz.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetTurboblitz.png"
     },
     "cards": [
         {

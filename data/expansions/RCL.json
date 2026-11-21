@@ -5,8 +5,9 @@
         "year": 2020,
         "month": 5,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/6/62/SimboloSetFragore_Ribelle.png",
-        "cardCount": 209
+        "cardCount": 209,
+        "logo": "https://media.pokemoncentral.it/wiki/7/76/Logo_Fragore_Ribelle.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/62/SimboloSetFragore_Ribelle.png"
     },
     "cards": [
         {

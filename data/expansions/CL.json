@@ -2,11 +2,12 @@
     "expansion": {
         "id": "CL",
         "name": "Richiamo delle Leggende",
-				"year": 2011,
-				"month": 4,
+        "year": 2011,
+        "month": 4,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/4/49/SimboloSetRichiamo_delle_Leggende.png",
-        "cardCount": 106
+        "cardCount": 106,
+        "logo": "https://media.pokemoncentral.it/wiki/6/65/Logo_Richiamo_delle_Leggende.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/49/SimboloSetRichiamo_delle_Leggende.png"
     },
     "cards": [
         {

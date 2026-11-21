@@ -5,8 +5,9 @@
         "year": 2024,
         "month": 9,
         "language": "it",
-        "logo": "https://media.pokemoncentral.it/wiki/7/7d/SimboloSetCorona_Astrale.png",
-        "cardCount": 175
+        "cardCount": 175,
+        "logo": "https://media.pokemoncentral.it/wiki/e/ed/Logo_Corona_Astrale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7d/SimboloSetCorona_Astrale.png"
     },
     "cards": [
         {
@@ -1235,14 +1236,14 @@
             "section": "Fuoriserie"
         }
     ],
-		"energies": [
-				"SVE-009",
-				"SVE-010",
-				"SVE-011",
-				"SVE-012",
-				"SVE-013",
-				"SVE-014",
-				"SVE-015",
-				"SVE-016"
-		]
+    "energies": [
+        "SVE-009",
+        "SVE-010",
+        "SVE-011",
+        "SVE-012",
+        "SVE-013",
+        "SVE-014",
+        "SVE-015",
+        "SVE-016"
+    ]
 }
