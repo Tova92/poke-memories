@@ -95,7 +95,7 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
             }
             else if (rect.top < 0)
             {
-                window.scrollBy(0, rect.top);
+                window.scrollBy(0, rect.top - 50);
             }
         });
     });
