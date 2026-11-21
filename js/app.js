@@ -34,6 +34,7 @@ async function openItem(id, addHistory = true)
     elements.grid.innerHTML = '<div class="empty">Caricamento delle carte...</div>';
     elements.homeView.hidden = true;
     elements.itemView.hidden = false;
+    document.getElementById("bar").style.transition = "none";
     elements.itemTitle.textContent = id;
 
     try
