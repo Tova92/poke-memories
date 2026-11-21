@@ -17,5 +17,13 @@ export function loadStorage(key)
 
 export function saveStorage(key, value)
 {
-    localStorage.setItem(key, JSON.stringify(value));
+    try
+    {
+        localStorage.setItem(key, JSON.stringify(value));
+    }
+    catch (error)
+    {
+        console.error("Errore durante il salvataggio:", error);
+        alert("Impossibile salvare i progressi. Controlla lo spazio disponibile nel browser.");
+    }
 }
