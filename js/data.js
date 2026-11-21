@@ -141,9 +141,97 @@ export async function loadItemData(id)
         throw new Error(`Tipo di elemento sconosciuto: ${id}`);
     }
 
-    return await fetchJSON(
+    const data = await fetchJSON(
         DATA_PATH + contentType + "s/" + id + ".json"
     );
+
+    const sourceCache = new Map();
+    const additionalCards = [];
+
+    async function loadSource(sourceId)
+    {
+        if (!sourceCache.has(sourceId))
+        {
+            const sourceMetadata = itemMetadata.get(sourceId);
+            const sourceType = sourceMetadata?.type;
+
+            if (!sourceType)
+            {
+                throw new Error(`Origine sconosciuta: ${sourceId}`);
+            }
+
+            sourceCache.set(
+                sourceId,
+                fetchJSON(
+                    DATA_PATH + sourceType + "s/" + sourceId + ".json"
+                )
+            );
+        }
+
+        return await sourceCache.get(sourceId);
+    }
+
+    async function loadAdditionalCards(ids, section)
+    {
+        if (ids === undefined)
+        {
+            return;
+        }
+
+        if (!Array.isArray(ids) || !ids.every(id => typeof id === "string"))
+        {
+            throw new Error(`Elenco ${section} non valido: ${id}`);
+        }
+
+        const groupedIds = new Map();
+
+        ids.forEach(cardId =>
+        {
+            const sourceId = cardId.split("-")[0];
+
+            if (!groupedIds.has(sourceId))
+            {
+                groupedIds.set(sourceId, []);
+            }
+
+            groupedIds.get(sourceId).push(cardId);
+        });
+
+        for (const [sourceId, cardIds] of groupedIds)
+        {
+            const sourceData = await loadSource(sourceId);
+
+            if (!Array.isArray(sourceData.cards))
+            {
+                throw new Error(`Elenco carte non valido: ${sourceId}`);
+            }
+
+            cardIds.forEach(cardId =>
+            {
+                const card = sourceData.cards.find(item => item.id === cardId);
+
+                if (!card)
+                {
+                    throw new Error(`Carta non trovata: ${cardId}`);
+                }
+
+                additionalCards.push({
+                    ...card,
+                    section
+                });
+            });
+        }
+    }
+
+    await loadAdditionalCards(data.energies, "Energie");
+    await loadAdditionalCards(data.promo, "Promo");
+
+    data.cards = [
+        ...data.cards,
+        ...additionalCards
+    ];
+
+    return data;
 }
 
 export function validateItemData(data)
@@ -153,6 +241,20 @@ export function validateItemData(data)
     if (!item || !Array.isArray(data.cards))
     {
         throw new Error("Struttura del JSON non valida");
+    }
+
+    for (const key of ["energies", "promo"])
+    {
+        if (
+            data[key] !== undefined &&
+            (
+                !Array.isArray(data[key]) ||
+                !data[key].every(id => typeof id === "string")
+            )
+        )
+        {
+            throw new Error(`Struttura ${key} non valida`);
+        }
     }
 
     const validCards = data.cards.every(card =>
