@@ -97,20 +97,25 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
             const updatedContent = updatedHeader.nextElementSibling;
             const rect = updatedContent.getBoundingClientRect();
             const margin = 50;
-    
-            if (rect.bottom > window.innerHeight - margin)
+            const availableHeight = window.innerHeight - margin * 2;
+            
+            if (rect.height > availableHeight)
             {
-                if (rect.height > window.innerHeight - margin * 2)
-                {
-                    window.scrollBy(0, rect.top - margin);
-                }
-                else
-                {
-                    window.scrollBy(
-                        0,
-                        rect.bottom - window.innerHeight + margin
-                    );
-                }
+                // I figli non entrano nello spazio disponibile: privilegia l'inizio.
+                window.scrollBy(0, rect.top - margin);
+            }
+            else if (rect.top < margin)
+            {
+                // I figli entrano, ma il loro inizio è troppo in alto.
+                window.scrollBy(0, rect.top - margin);
+            }
+            else if (rect.bottom > window.innerHeight - margin)
+            {
+                // I figli entrano, ma la loro fine è troppo in basso.
+                window.scrollBy(
+                    0,
+                    rect.bottom - window.innerHeight + margin
+                );
             }
         });
     });
