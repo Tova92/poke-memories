@@ -38,10 +38,12 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
         "expanded",
         expandedCategories.has(category.id)
     );
+    
     const header = document.createElement("button");
     header.className = level === 0
         ? "category-header"
         : "subcategory-header";
+    header.dataset.categoryId = category.id;
 
     const name = document.createElement("span");
     name.className = "category-name";
@@ -73,6 +75,29 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
         }
     
         renderHome(openItem);
+    
+        requestAnimationFrame(() =>
+        {
+            const updatedHeader = Array.from(
+                elements.seriesList.querySelectorAll("[data-category-id]")
+            ).find(button => button.dataset.categoryId === category.id);
+    
+            if (!updatedHeader)
+            {
+                return;
+            }
+    
+            const rect = updatedHeader.getBoundingClientRect();
+    
+            if (rect.bottom > window.innerHeight)
+            {
+                window.scrollBy(0, rect.bottom - window.innerHeight);
+            }
+            else if (rect.top < 0)
+            {
+                window.scrollBy(0, rect.top);
+            }
+        });
     });
 
     const nestedCategories = category.items.filter(item =>
