@@ -652,3 +652,7 @@
     font-size: 11px;
     color: #c5bdd5;
 }
+
+#favorites .series-item {
+    width: 100%;
+}
