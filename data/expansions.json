@@ -1,0 +1,767 @@
+[
+    {
+        "id": "BS",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cb/Logo_Set_Base.png",
+        "symbol": null
+    },
+    {
+        "id": "JU",
+        "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_Jungle.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetJungle.svg"
+    },
+    {
+        "id": "FO",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d8/Logo_Fossil.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/5e/SimboloSetFossil.svg"
+    },
+    {
+        "id": "B2",
+        "logo": "https://media.pokemoncentral.it/wiki/6/63/Logo_Base_Set_2.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetBase_Set_2.svg"
+    },
+    {
+        "id": "TR",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0d/Logo_Team_Rocket.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7b/SimboloSetTeam_Rocket.svg"
+    },
+    {
+        "id": "G1",
+        "logo": "https://media.pokemoncentral.it/wiki/3/3b/Logo_Gym_Heroes.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetGym_Heroes.svg"
+    },
+    {
+        "id": "G2",
+        "logo": "https://media.pokemoncentral.it/wiki/3/3e/Logo_Gym_Challenge.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/f7/SimboloSetGym_Challenge.svg"
+    },
+    {
+        "id": "N1",
+        "logo": "https://media.pokemoncentral.it/wiki/4/47/Logo_Neo_Genesis.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetNeo_Genesis.svg"
+    },
+    {
+        "id": "N2",
+        "logo": "https://media.pokemoncentral.it/wiki/5/53/Logo_Neo_Discovery.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e4/SimboloSetNeo_Discovery.svg"
+    },
+    {
+        "id": "N3",
+        "logo": "https://media.pokemoncentral.it/wiki/3/35/Logo_Neo_Revelation.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/2c/SimboloSetNeo_Revelation.svg"
+    },
+    {
+        "id": "N4",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d9/Logo_Neo_Destiny.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetNeo_Destiny.svg"
+    },
+    {
+        "id": "LC",
+        "logo": "https://media.pokemoncentral.it/wiki/5/55/Logo_Legendary_Collection.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c9/SimboloSetLegendary_Collection.svg"
+    },
+    {
+        "id": "EX",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a0/Logo_Expedition.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/27/SimboloSetExpedition.svg"
+    },
+    {
+        "id": "AQ",
+        "logo": "https://media.pokemoncentral.it/wiki/3/36/Logo_Aquapolis.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/91/SimboloSetAquapolis.svg"
+    },
+    {
+        "id": "SK",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a4/Logo_Skyridge.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetSkyridge.svg"
+    },
+    {
+        "id": "RS",
+        "logo": "https://media.pokemoncentral.it/wiki/9/94/Logo_EX_Rubino_%26_Zaffiro.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetEX_Rubino_%26_Zaffiro.png"
+    },
+    {
+        "id": "SS",
+        "logo": "https://media.pokemoncentral.it/wiki/f/f7/Logo_EX_Tempesta_di_Sabbia.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetEX_Tempesta_di_Sabbia.png"
+    },
+    {
+        "id": "DR",
+        "logo": "https://media.pokemoncentral.it/wiki/8/80/Logo_EX_Drago.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetEX_Drago.png"
+    },
+    {
+        "id": "MA",
+        "logo": "https://media.pokemoncentral.it/wiki/2/25/Logo_EX_Team_Magma_vs_Team_Idro_EN.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/df/SimboloSetEX_Team_Magma_vs_Team_Idro.png"
+    },
+    {
+        "id": "HL",
+        "logo": "https://media.pokemoncentral.it/wiki/2/20/Logo_EX_Leggende_Nascoste.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/08/SimboloSetEX_Leggende_Nascoste.png"
+    },
+    {
+        "id": "FG",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c6/Logo_EX_RossoFuoco_e_VerdeFoglia.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/20/SimboloSetEX_RossoFuoco_%26_VerdeFoglia.png"
+    },
+    {
+        "id": "TRR",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0b/Logo_EX_Team_Rocket_Returns.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/32/SimboloSetEX_Team_Rocket_Returns.png"
+    },
+    {
+        "id": "DX",
+        "logo": "https://media.pokemoncentral.it/wiki/0/05/Logo_EX_Deoxys.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetEX_Deoxys.png"
+    },
+    {
+        "id": "EM",
+        "logo": "https://media.pokemoncentral.it/wiki/1/18/Logo_EX_Smeraldo.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d6/SimboloSetEX_Smeraldo.png"
+    },
+    {
+        "id": "UF",
+        "logo": "https://media.pokemoncentral.it/wiki/3/37/Logo_EX_Forze_Segrete.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/77/SimboloSetEX_Forze_Segrete.png"
+    },
+    {
+        "id": "DS",
+        "logo": "https://media.pokemoncentral.it/wiki/6/6f/Logo_EX_Specie_Delta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetEX_Specie_Delta.png"
+    },
+    {
+        "id": "LM",
+        "logo": "https://media.pokemoncentral.it/wiki/7/7b/Logo_EX_La_Leggenda_di_Mew.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetEX_La_Leggenda_di_Mew.png"
+    },
+    {
+        "id": "HP",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1a/Logo_EX_Fantasmi_di_Holon.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetEX_Fantasmi_di_Holon.png"
+    },
+    {
+        "id": "CG",
+        "logo": "https://media.pokemoncentral.it/wiki/0/05/Logo_EX_Guardiani_dei_Cristalli.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/8f/SimboloSetEX_Guardiani_dei_Cristalli.png"
+    },
+    {
+        "id": "DF",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b8/Logo_EX_L%27Isola_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/36/SimboloSetEX_L%27Isola_dei_Draghi.png"
+    },
+    {
+        "id": "PK",
+        "logo": "https://media.pokemoncentral.it/wiki/7/71/Logo_EX_Power_Keepers.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a6/SimboloSetEX_Power_Keepers.png"
+    },
+    {
+        "id": "DP",
+        "logo": "https://media.pokemoncentral.it/wiki/1/15/Logo_Diamante_%26_Perla.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetDiamante_%26_Perla.png"
+    },
+    {
+        "id": "MT",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2f/Logo_Tesori_Misteriosi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/80/SimboloSetTesori_Misteriosi.png"
+    },
+    {
+        "id": "SW",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d5/Logo_Prodigi_Segreti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetProdigi_Segreti.png"
+    },
+    {
+        "id": "GE",
+        "logo": "https://media.pokemoncentral.it/wiki/7/73/Logo_Incontri_Leggendari.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fc/SimboloSetIncontri_Leggendari.png"
+    },
+    {
+        "id": "MD",
+        "logo": "https://media.pokemoncentral.it/wiki/a/af/Logo_Alba_Suprema.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetAlba_Suprema.png"
+    },
+    {
+        "id": "LA",
+        "logo": "https://media.pokemoncentral.it/wiki/0/04/Logo_Il_Risveglio_dei_Miti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetIl_Risveglio_dei_Miti.png"
+    },
+    {
+        "id": "SF",
+        "logo": "https://media.pokemoncentral.it/wiki/8/8b/Logo_Fronte_di_Tempesta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/9b/SimboloSetFronte_di_Tempesta.png"
+    },
+    {
+        "id": "PL",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0c/Logo_Platino.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetPlatino.png"
+    },
+    {
+        "id": "RR",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a6/Logo_L%27Ascesa_dei_Rivali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/8a/SimboloSetL%27Ascesa_dei_Rivali.png"
+    },
+    {
+        "id": "SV",
+        "logo": "https://media.pokemoncentral.it/wiki/8/8d/Logo_Supreme_Victors.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/8d/SimboloSetSupreme_Victors.png"
+    },
+    {
+        "id": "AR",
+        "logo": "https://media.pokemoncentral.it/wiki/1/17/Logo_Arceus.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetArceus.png"
+    },
+    {
+        "id": "HS",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a8/Logo_HeartGold_%26_SoulSilver.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/47/SimboloSetHeartGold_%26_SoulSilver.png"
+    },
+    {
+        "id": "UL",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4a/Logo_Forze_Scatenate.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetForze_Scatenate.png"
+    },
+    {
+        "id": "UD",
+        "logo": "https://media.pokemoncentral.it/wiki/e/e4/Logo_Senza_Paura.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a2/SimboloSetSenza_Paura.png"
+    },
+    {
+        "id": "TM",
+        "logo": "https://media.pokemoncentral.it/wiki/4/40/Logo_Battaglie_Trionfali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e6/SimboloSetBattaglie_Trionfali.png"
+    },
+    {
+        "id": "CL",
+        "logo": "https://media.pokemoncentral.it/wiki/6/65/Logo_Richiamo_delle_Leggende.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/49/SimboloSetRichiamo_delle_Leggende.png"
+    },
+    {
+        "id": "BLW",
+        "logo": "https://media.pokemoncentral.it/wiki/1/12/Logo_Nero_e_Bianco.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7f/SimboloSetNero_e_Bianco.png"
+    },
+    {
+        "id": "EPO",
+        "logo": "https://media.pokemoncentral.it/wiki/a/ae/Logo_Nuove_Forze.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/52/SimboloSetNuove_Forze.png"
+    },
+    {
+        "id": "NVI",
+        "logo": "https://media.pokemoncentral.it/wiki/9/92/Logo_Vittorie_Regali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a7/SimboloSetVittorie_Regali.png"
+    },
+    {
+        "id": "NXD",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cf/Logo_Destini_Futuri.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/cd/SimboloSetDestini_Futuri.png"
+    },
+    {
+        "id": "DEX",
+        "logo": "https://media.pokemoncentral.it/wiki/0/03/Logo_Esploratori_delle_Tenebre.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4a/SimboloSetEsploratori_delle_Tenebre.png"
+    },
+    {
+        "id": "DRV",
+        "logo": "https://media.pokemoncentral.it/wiki/b/bd/Logo_Tesoro_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetTesoro_dei_Draghi.png"
+    },
+    {
+        "id": "DRX",
+        "logo": "https://media.pokemoncentral.it/wiki/3/3d/Logo_Stirpe_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/65/SimboloSetStirpe_dei_Draghi.png"
+    },
+    {
+        "id": "BCR",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Confini_Varcati.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetConfini_Varcati.png"
+    },
+    {
+        "id": "PLS",
+        "logo": "https://media.pokemoncentral.it/wiki/f/f2/Logo_Uragano_Plasma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/6b/SimboloSetUragano_Plasma.png"
+    },
+    {
+        "id": "PLF",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a7/Logo_Glaciazione_Plasma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a0/SimboloSetGlaciazione_Plasma.png"
+    },
+    {
+        "id": "PLB",
+        "logo": "https://media.pokemoncentral.it/wiki/c/cd/Logo_Esplosione_Plasma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d9/SimboloSetEsplosione_Plasma.png"
+    },
+    {
+        "id": "LTR",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d1/Logo_Tesori_Leggendari.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b7/SimboloSetTesori_Leggendari.png"
+    },
+    {
+        "id": "KSS",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2f/Logo_Benvenuti_a_Kalos.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/b/bc/SimboloSetBenvenuti_a_Kalos.png"
+    },
+    {
+        "id": "XY",
+        "logo": "https://media.pokemoncentral.it/wiki/5/52/Logo_XY.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetXY.png"
+    },
+    {
+        "id": "FLF",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0b/Logo_Fuoco_Infernale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetFuoco_Infernale.png"
+    },
+    {
+        "id": "FFI",
+        "logo": "https://media.pokemoncentral.it/wiki/3/39/Logo_Colpi_Furiosi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/51/SimboloSetColpi_Furiosi.png"
+    },
+    {
+        "id": "PHF",
+        "logo": "https://media.pokemoncentral.it/wiki/0/02/Logo_Forze_Spettrali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetForze_Spettrali.png"
+    },
+    {
+        "id": "PRC",
+        "logo": "https://media.pokemoncentral.it/wiki/3/39/Logo_Scontro_Primordiale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetScontro_Primordiale.png"
+    },
+    {
+        "id": "DCR",
+        "logo": "https://media.pokemoncentral.it/wiki/1/19/Logo_Doppio_Scontro_EN.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c5/SimboloSetDoppio_Scontro.png"
+    },
+    {
+        "id": "ROS",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1c/Logo_Furie_Volanti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0c/SimboloSetFurie_Volanti.png"
+    },
+    {
+        "id": "AOR",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1f/Logo_Antiche_Origini.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1d/SimboloSetAntiche_Origini.png"
+    },
+    {
+        "id": "BKT",
+        "logo": "https://media.pokemoncentral.it/wiki/9/98/Logo_Turboblitz.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/af/SimboloSetTurboblitz.png"
+    },
+    {
+        "id": "BKP",
+        "logo": "https://media.pokemoncentral.it/wiki/6/6b/Logo_Turbocrash.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fa/SimboloSetTurbocrash.png"
+    },
+    {
+        "id": "GEN",
+        "logo": "https://media.pokemoncentral.it/wiki/8/89/Logo_Generazioni.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a3/SimboloSetGenerazioni.png"
+    },
+    {
+        "id": "FCO",
+        "logo": "https://media.pokemoncentral.it/wiki/4/46/Logo_Destini_Incrociati.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/67/SimboloSetDestini_Incrociati.png"
+    },
+    {
+        "id": "STS",
+        "logo": "https://media.pokemoncentral.it/wiki/9/91/Logo_Vapori_Accesi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/50/SimboloSetVapori_Accesi.png"
+    },
+    {
+        "id": "EVO",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1d/Logo_Evoluzioni.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetEvoluzioni.png"
+    },
+    {
+        "id": "SUM",
+        "logo": "https://media.pokemoncentral.it/wiki/7/78/Logo_Sole_e_Luna.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/89/SimboloSetSole_e_Luna.png"
+    },
+    {
+        "id": "GRI",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d7/Logo_Guardiani_Nascenti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/98/SimboloSetGuardiani_Nascenti.png"
+    },
+    {
+        "id": "BUS",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4b/Logo_Ombre_Infuocate.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4b/SimboloSetOmbre_Infuocate.png"
+    },
+    {
+        "id": "SLG",
+        "logo": "https://media.pokemoncentral.it/wiki/5/5c/Logo_Leggende_Iridescenti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetLeggende_Iridescenti.png"
+    },
+    {
+        "id": "CIN",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d6/Logo_Invasione_Scarlatta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/71/SimboloSetInvasione_Scarlatta.png"
+    },
+    {
+        "id": "UPR",
+        "logo": "https://media.pokemoncentral.it/wiki/b/be/Logo_Ultraprisma.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetUltraprisma.png"
+    },
+    {
+        "id": "FLI",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d4/Logo_Apocalisse_di_Luce.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1e/SimboloSetApocalisse_di_Luce.png"
+    },
+    {
+        "id": "CES",
+        "logo": "https://media.pokemoncentral.it/wiki/e/e7/Logo_Tempesta_Astrale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetTempesta_Astrale.png"
+    },
+    {
+        "id": "DRM",
+        "logo": "https://media.pokemoncentral.it/wiki/7/7a/Logo_Trionfo_dei_Draghi.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/79/SimboloSetTrionfo_dei_Draghi.png"
+    },
+    {
+        "id": "LOT",
+        "logo": "https://media.pokemoncentral.it/wiki/1/18/Logo_Tuoni_Perduti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/03/SimboloSetTuoni_Perduti.png"
+    },
+    {
+        "id": "TEU",
+        "logo": "https://media.pokemoncentral.it/wiki/4/49/Logo_Gioco_di_Squadra.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/68/SimboloSetGioco_di_Squadra.png"
+    },
+    {
+        "id": "DET",
+        "logo": "https://media.pokemoncentral.it/wiki/7/77/Detective_Pikachu_logo_film.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetDetective_Pikachu.png"
+    },
+    {
+        "id": "UNB",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b5/Logo_Legami_Inossidabili.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/74/SimboloSetLegami_Inossidabili.png"
+    },
+    {
+        "id": "UNM",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a9/Logo_Sintonia_Mentale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/3/33/SimboloSetSintonia_Mentale.png"
+    },
+    {
+        "id": "HIF",
+        "logo": "https://media.pokemoncentral.it/wiki/f/f1/Logo_Destino_Sfuggente.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/f8/SimboloSetDestino_Sfuggente.png"
+    },
+    {
+        "id": "CEC",
+        "logo": "https://media.pokemoncentral.it/wiki/4/45/Logo_Eclissi_Cosmica.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/fe/SimboloSetEclissi_Cosmica.png"
+    },
+    {
+        "id": "SSH",
+        "logo": "https://media.pokemoncentral.it/wiki/4/44/Logo_Spada_e_Scudo.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/cb/SimboloSetSpada_e_Scudo.png"
+    },
+    {
+        "id": "RCL",
+        "logo": "https://media.pokemoncentral.it/wiki/7/76/Logo_Fragore_Ribelle.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/62/SimboloSetFragore_Ribelle.png"
+    },
+    {
+        "id": "DAA",
+        "logo": "https://media.pokemoncentral.it/wiki/6/64/Logo_Fiamme_Oscure.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/1b/SimboloSetFiamme_Oscure.png"
+    },
+    {
+        "id": "CPA",
+        "logo": "https://media.pokemoncentral.it/wiki/f/f2/Logo_Futuri_Campioni.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/6e/SimboloSetFuturi_Campioni.png"
+    },
+    {
+        "id": "VIV",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4a/Logo_Voltaggio_Sfolgorante.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/2b/SimboloSetVoltaggio_Sfolgorante.png"
+    },
+    {
+        "id": "SHF",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Destino_Splendente.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetDestino_Splendente.png"
+    },
+    {
+        "id": "BST",
+        "logo": "https://media.pokemoncentral.it/wiki/b/be/Logo_Stili_di_Lotta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/cf/SimboloSetStili_di_Lotta.png"
+    },
+    {
+        "id": "CRE",
+        "logo": "https://media.pokemoncentral.it/wiki/5/58/Logo_Regno_Glaciale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/90/SimboloSetRegno_Glaciale.png"
+    },
+    {
+        "id": "EVS",
+        "logo": "https://media.pokemoncentral.it/wiki/b/bb/Logo_Evoluzioni_Eteree.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/29/SimboloSetEvoluzioni_Eteree.png"
+    },
+    {
+        "id": "CEL",
+        "logo": "https://media.pokemoncentral.it/wiki/9/9c/Logo_Gran_Festa.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/83/SimboloSetGran_Festa.png"
+    },
+    {
+        "id": "FST",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b7/Logo_Colpo_Fusione.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/93/SimboloSetColpo_Fusione.png"
+    },
+    {
+        "id": "BRS",
+        "logo": "https://media.pokemoncentral.it/wiki/b/bd/Logo_Astri_Lucenti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/f/f6/SimboloSetAstri_Lucenti.png"
+    },
+    {
+        "id": "ASR",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Lucentezza_Siderale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetLucentezza_Siderale.png"
+    },
+    {
+        "id": "PGO",
+        "logo": "https://media.pokemoncentral.it/wiki/3/3d/Pokemon_Go_Logo.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4d/SimboloSetPok%C3%A9mon_GO.png"
+    },
+    {
+        "id": "LOR",
+        "logo": "https://media.pokemoncentral.it/wiki/d/df/Logo_Origine_Perduta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/87/SimboloSetOrigine_Perduta.png"
+    },
+    {
+        "id": "SIT",
+        "logo": "https://media.pokemoncentral.it/wiki/4/4d/Logo_Tempesta_Argentata.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/15/SimboloSetTempesta_Argentata.png"
+    },
+    {
+        "id": "CRZ",
+        "logo": "https://media.pokemoncentral.it/wiki/8/81/Logo_Zenit_Regale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/1/16/SimboloSetZenit_Regale.png"
+    },
+    {
+        "id": "SVI",
+        "logo": "https://media.pokemoncentral.it/wiki/1/10/Logo_Scarlatto_e_Violetto.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e1/SimboloSetScarlatto_e_Violetto.png"
+    },
+    {
+        "id": "PAL",
+        "logo": "https://media.pokemoncentral.it/wiki/9/9f/Logo_Evoluzioni_a_Paldea.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/86/SimboloSetEvoluzioni_a_Paldea.png"
+    },
+    {
+        "id": "OBF",
+        "logo": "https://media.pokemoncentral.it/wiki/c/c6/Logo_Ossidiana_Infuocata.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/99/SimboloSetOssidiana_Infuocata.png"
+    },
+    {
+        "id": "MEW",
+        "logo": "https://media.pokemoncentral.it/wiki/9/92/Logo_151.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/9e/SimboloSet151.png"
+    },
+    {
+        "id": "PAR",
+        "logo": "https://media.pokemoncentral.it/wiki/1/12/Logo_Paradosso_Temporale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/5/54/SimboloSetParadosso_Temporale.png"
+    },
+    {
+        "id": "PAF",
+        "logo": "https://media.pokemoncentral.it/wiki/2/28/Logo_Destino_di_Paldea.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/4f/SimboloSetDestino_di_Paldea.png"
+    },
+    {
+        "id": "TEF",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Cronoforze.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetCronoforze.png"
+    },
+    {
+        "id": "TWM",
+        "logo": "https://media.pokemoncentral.it/wiki/c/ce/Logo_Crepuscolo_Mascherato.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/2f/SimboloSetCrepuscolo_Mascherato.png"
+    },
+    {
+        "id": "SFA",
+        "logo": "https://media.pokemoncentral.it/wiki/3/37/Logo_Segreto_Fiabesco.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/8/85/SimboloSetSegreto_Fiabesco.png"
+    },
+    {
+        "id": "SCR",
+        "logo": "https://media.pokemoncentral.it/wiki/e/ed/Logo_Corona_Astrale.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7d/SimboloSetCorona_Astrale.png"
+    },
+    {
+        "id": "SSP",
+        "logo": "https://media.pokemoncentral.it/wiki/1/14/Logo_Scintille_Folgoranti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/c/c7/SimboloSetScintille_Folgoranti.png"
+    },
+    {
+        "id": "PRE",
+        "logo": "https://media.pokemoncentral.it/wiki/1/1d/Logo_Evoluzioni_Prismatiche.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/ec/SimboloSetEvoluzioni_Prismatiche.png"
+    },
+    {
+        "id": "JTG",
+        "logo": "https://media.pokemoncentral.it/wiki/a/af/Logo_Avventure_Insieme.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/92/SimboloSetAvventure_Insieme.png"
+    },
+    {
+        "id": "DRI",
+        "logo": "https://media.pokemoncentral.it/wiki/0/0e/Logo_Rivali_Predestinati.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a8/SimboloSetRivali_Predestinati.png"
+    },
+    {
+        "id": "BLK",
+        "logo": "https://media.pokemoncentral.it/wiki/5/51/Logo_Luce_Nera.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0f/SimboloSetLuce_Nera.png"
+    },
+    {
+        "id": "WHT",
+        "logo": "https://media.pokemoncentral.it/wiki/b/bf/Logo_Fuoco_Bianco.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/7/7c/SimboloSetFuoco_Bianco.png"
+    },
+    {
+        "id": "MEG",
+        "logo": "https://media.pokemoncentral.it/wiki/e/ef/Logo_Megaevoluzione.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/4/48/SimboloSetMegaevoluzione.png"
+    },
+    {
+        "id": "PFL",
+        "logo": "https://media.pokemoncentral.it/wiki/1/15/Logo_Fiamme_Spettrali.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d3/SimboloSetFiamme_Spettrali.png"
+    },
+    {
+        "id": "ASC",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2c/Logo_Ascesa_Eroica.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/97/SimboloSetAscesa_Eroica.png"
+    },
+    {
+        "id": "POR",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b6/Logo_Equilibrio_Perfetto.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/6/64/SimboloSetEquilibrio_Perfetto.png"
+    },
+    {
+        "id": "CRI",
+        "logo": "https://media.pokemoncentral.it/wiki/d/d3/Logo_Caos_Nascente.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/2/22/SimboloSetCaos_Nascente.png"
+    },
+    {
+        "id": "PBL",
+        "logo": "https://media.pokemoncentral.it/wiki/b/b5/Logo_Buio_Pesto.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/e/e7/SimboloSetBuio_Pesto.png"
+    },
+    {
+        "id": "30C",
+        "logo": "https://media.pokemoncentral.it/wiki/2/2b/Logo_30_Anniversario.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/0a/SimboloSet30%C2%BA_Anniversario.png"
+    },
+    {
+        "id": "DLR",
+        "logo": "https://media.pokemoncentral.it/wiki/a/a7/Logo_Dominio_Delta.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/9/95/SimboloSetDominio_Delta.png"
+    },
+    {
+        "id": "FLO",
+        "logo": "https://media.pokemoncentral.it/wiki/9/93/Logo_Colpi_Danzanti.png",
+        "symbol": "https://media.pokemoncentral.it/wiki/0/06/SimboloSetColpi_Danzanti.png"
+    },
+    {
+        "id": "SVE",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/2/21/SimboloSetEnergie_base_SVE.png"
+    },
+    {
+        "id": "MEE",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/6/66/SimboloSetEnergie_base_MEE.png"
+    },
+    {
+        "id": "WP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "NP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "DPP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "HSP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "BWP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "XYP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "SMP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "SSP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/5/59/SimboloSetPromo.png"
+    },
+    {
+        "id": "SVP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/9/9d/SimboloSetPromo_stella_nera_SVP.png"
+    },
+    {
+        "id": "MEP",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/d/db/SimboloSetPromo_stella_nera_MEP.png"
+    },
+    {
+        "id": "POP1",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/4/43/SimboloSetPOP_Serie_1.png"
+    },
+    {
+        "id": "POP2",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b4/SimboloSetPOP_Serie_2.png"
+    },
+    {
+        "id": "POP3",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/3/3b/SimboloSetPOP_Serie_3.png"
+    },
+    {
+        "id": "POP4",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/d/da/SimboloSetPOP_Serie_4.png"
+    },
+    {
+        "id": "POP5",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/f/ff/SimboloSetPOP_Serie_5.png"
+    },
+    {
+        "id": "POP6",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/d/d4/SimboloSetPOP_Serie_6.png"
+    },
+    {
+        "id": "POP7",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/c/cc/SimboloSetPOP_Serie_7.png"
+    },
+    {
+        "id": "POP8",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/a/a1/SimboloSetPOP_Serie_8.png"
+    },
+    {
+        "id": "POP9",
+        "logo": null,
+        "symbol": "https://media.pokemoncentral.it/wiki/b/b3/SimboloSetPOP_Serie_9.png"
+    }
+]
