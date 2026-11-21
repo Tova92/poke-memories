@@ -1,6 +1,7 @@
 import { DATA_PATH } from "./state.js";
 
 const itemTypes = new Map();
+const itemMetadata = new Map();
 
 export async function fetchJSON(path)
 {
@@ -73,6 +74,62 @@ export async function loadCatalog()
 
     return data.categories.sort((a, b) => a.sortOrder - b.sortOrder);
 }
+
+
+export async function loadCatalogIndex()
+{
+    const data = await fetchJSON(DATA_PATH + "catalog-index.json");
+
+    if (
+        !Array.isArray(data.expansions) ||
+        !Array.isArray(data.groups)
+    )
+    {
+        throw new Error("Formato catalog-index.json non valido");
+    }
+
+    itemMetadata.clear();
+
+    [...data.expansions, ...data.groups].forEach(item =>
+    {
+        if (!item || typeof item.id !== "string")
+        {
+            throw new Error("Metadati con ID non valido");
+        }
+
+        itemMetadata.set(item.id, item);
+    });
+}
+
+export function getItemMetadata(id)
+{
+    return itemMetadata.get(id) || null;
+}
+
+export function getTotalCardCount(id)
+{
+    const metadata = getItemMetadata(id);
+
+    if (!metadata)
+    {
+        return 0;
+    }
+
+    return Object.entries(metadata).reduce((total, [key, value]) =>
+    {
+        if (
+            key.endsWith("CardCount") &&
+            typeof value === "number" &&
+            Number.isFinite(value)
+        )
+        {
+            return total + value;
+        }
+
+        return total;
+    }, 0);
+}
+
 
 export async function loadItemData(id)
 {
