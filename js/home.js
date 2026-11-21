@@ -91,7 +91,7 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
     
             if (rect.bottom > window.innerHeight)
             {
-                window.scrollBy(0, rect.bottom - window.innerHeight);
+                window.scrollBy(0, rect.bottom - window.innerHeight + 50);
             }
             else if (rect.top < 0)
             {
