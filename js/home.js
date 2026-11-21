@@ -57,7 +57,9 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
 
     header.addEventListener("click", () =>
     {
-        if (expandedCategories.has(category.id))
+        const isClosing = expandedCategories.has(category.id);
+    
+        if (isClosing)
         {
             closeCategoryTree(category);
         }
@@ -76,6 +78,11 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
     
         renderHome(openItem);
     
+        if (isClosing)
+        {
+            return;
+        }
+    
         requestAnimationFrame(() =>
         {
             const updatedHeader = Array.from(
@@ -87,15 +94,23 @@ function renderCategory(category, container, openItem, level = 0, siblings = [])
                 return;
             }
     
-            const rect = updatedHeader.getBoundingClientRect();
+            const updatedContent = updatedHeader.nextElementSibling;
+            const rect = updatedContent.getBoundingClientRect();
+            const margin = 50;
     
-            if (rect.bottom > window.innerHeight)
+            if (rect.bottom > window.innerHeight - margin)
             {
-                window.scrollBy(0, rect.bottom - window.innerHeight + 50);
-            }
-            else if (rect.top < 0)
-            {
-                window.scrollBy(0, rect.top - 50);
+                if (rect.height > window.innerHeight - margin * 2)
+                {
+                    window.scrollBy(0, rect.top - margin);
+                }
+                else
+                {
+                    window.scrollBy(
+                        0,
+                        rect.bottom - window.innerHeight + margin
+                    );
+                }
             }
         });
     });
