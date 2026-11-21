@@ -23,8 +23,6 @@ export async function loadCatalog()
         throw new Error("Formato categories.json non valido");
     }
 
-    itemTypes.clear();
-
     function processCategory(category, inheritedType = null)
     {
         if (
