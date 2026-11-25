@@ -3,6 +3,8 @@ import { OWNED_KEY, FAVORITES_KEY, loadStorage } from "./storage.js";
 export const DATA_PATH = "./data/";
 
 export const state = {
+    mode: "local",
+    user: null,
     series: [],
     currentItem: null,
     cards: [],
