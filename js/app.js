@@ -34,6 +34,42 @@ function showHome()
     renderHome(openItem);
 }
 
+function renderAccountStatus()
+{
+    const label = document.getElementById("accountModeLabel");
+    const description = document.getElementById("accountModeDescription");
+    const action = document.getElementById("accountAction");
+
+    if (state.mode === "local")
+    {
+        label.textContent = "Modalità locale";
+        description.textContent = "Dati salvati su questo dispositivo";
+        action.textContent = "Accedi";
+        action.disabled = false;
+    }
+    else if (state.mode === "account")
+    {
+        label.textContent = "Account connesso";
+        description.textContent = state.user?.email || "Collezione sincronizzata online";
+        action.textContent = "Esci";
+        action.disabled = false;
+    }
+    else if (state.mode === "loading")
+    {
+        label.textContent = "Verifica account...";
+        description.textContent = "Controllo della sessione";
+        action.textContent = "Attendi";
+        action.disabled = true;
+    }
+    else
+    {
+        label.textContent = "Errore account";
+        description.textContent = "Impossibile verificare o caricare i dati online";
+        action.textContent = state.user ? "Esci" : "Riprova";
+        action.disabled = false;
+    }
+}
+
 async function applySession(session)
 {
     if (!session?.user)
