@@ -242,6 +242,103 @@ function setupEvents()
     });
 }
 
+function setupAccountEvents()
+{
+    const accountAction = document.getElementById("accountAction");
+    const accountLogin = document.getElementById("accountLogin");
+    const loginForm = document.getElementById("loginForm");
+    const loginError = document.getElementById("loginError");
+    const loginEmail = document.getElementById("loginEmail");
+    const loginPassword = document.getElementById("loginPassword");
+    const cancelLogin = document.getElementById("cancelLogin");
+
+    accountAction.addEventListener("click", async () =>
+    {
+        if (state.mode === "local")
+        {
+            accountLogin.hidden = false;
+            loginError.hidden = true;
+            loginEmail.focus();
+            return;
+        }
+
+        if (state.mode === "account" || state.user)
+        {
+            try
+            {
+                await logout();
+            }
+            catch (error)
+            {
+                console.error("Errore durante la disconnessione:", error);
+                alert("Impossibile disconnettersi. Controlla la connessione e riprova.");
+            }
+
+            return;
+        }
+
+        try
+        {
+            const session = await getCurrentSession();
+            await applySession(session);
+
+            if (elements.itemView.hidden)
+            {
+                showHome();
+            }
+            else
+            {
+                renderCards(openModal);
+            }
+        }
+        catch (error)
+        {
+            console.error("Errore durante il recupero della sessione:", error);
+
+            state.mode = "error";
+            renderAccountStatus();
+
+            alert("Impossibile verificare la sessione. Ricarica la pagina e riprova.");
+        }
+    });
+
+    cancelLogin.addEventListener("click", () =>
+    {
+        accountLogin.hidden = true;
+        loginForm.reset();
+        loginError.hidden = true;
+    });
+
+    loginForm.addEventListener("submit", async event =>
+    {
+        event.preventDefault();
+        loginError.hidden = true;
+
+        const submitButton = loginForm.querySelector('button[type="submit"]');
+        submitButton.disabled = true;
+
+        try
+        {
+            await login(loginEmail.value.trim(), loginPassword.value);
+
+            loginForm.reset();
+            accountLogin.hidden = true;
+        }
+        catch (error)
+        {
+            console.error("Errore durante l'accesso:", error);
+
+            loginError.textContent =
+                "Email o password non corretti, oppure accesso non disponibile.";
+
+            loginError.hidden = false;
+        }
+        finally
+        {
+            submitButton.disabled = false;
+        }
+    });
+}
 
 async function startApp()
 {
