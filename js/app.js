@@ -343,7 +343,12 @@ function setupAccountEvents()
 async function startApp()
 {
     window.history.replaceState({ view: "home" }, "");
+
+    state.mode = "loading";
+    renderAccountStatus();
+
     setupEvents();
+    setupAccountEvents();
 
     try
     {
@@ -355,8 +360,11 @@ async function startApp()
         console.error("Errore durante il recupero della sessione:", error);
 
         state.mode = "error";
+        state.user = null;
         state.owned = [];
         state.favorites = [];
+
+        renderAccountStatus();
 
         alert("Impossibile verificare la sessione. Ricarica la pagina e riprova.");
     }
@@ -371,6 +379,9 @@ async function startApp()
         queueMicrotask(async () =>
         {
             await applySession(session);
+
+            document.getElementById("accountLogin").hidden = true;
+            document.getElementById("loginForm").reset();
 
             if (elements.itemView.hidden)
             {
