@@ -704,40 +704,102 @@
     text-align: center;
 }
 
-/* Modulo di accesso */
+/* Finestra di accesso */
 
-.account-login {
-    max-width: 360px;
-    margin: 0 auto 20px;
+.account-login-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: grid;
+    place-items: center;
     padding: 20px;
-    border: 1px solid #39324e;
-    border-radius: 14px;
-    background: #241f36;
+    background: rgba(10, 8, 17, 0.78);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
 }
 
-.account-login[hidden] {
+.account-login-overlay[hidden] {
     display: none;
 }
 
-.account-login h2 {
-    margin: 0 0 18px;
-    color: #c9a7ff;
-    font-size: 17px;
+.account-login-dialog {
+    position: relative;
+    width: 100%;
+    max-width: 380px;
+    padding: 28px 24px 24px;
+    border: 1px solid #39324e;
+    border-radius: 16px;
+    background: #241f36;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+    animation: loginAppear 0.2s ease-out;
+}
+
+@keyframes loginAppear {
+    from
+    {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to
+    {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.account-login-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    border: 0;
+    border-radius: 8px;
+    background: transparent;
+    color: #aaa1bd;
+    font-size: 25px;
+    line-height: 1;
+    cursor: pointer;
     text-align: center;
 }
 
-.account-login form {
+.account-login-close:hover {
+    background: #39324e;
+    color: #f5f0ff;
+}
+
+.account-login-dialog h2 {
+    margin: 0 28px 10px 0;
+    color: #c9a7ff;
+    font-size: 19px;
+    text-align: center;
+}
+
+.account-login-description {
+    margin: 0 0 22px;
+    color: #aaa1bd;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.account-login-dialog form {
     display: flex;
     flex-direction: column;
 }
 
-.account-login label {
+.account-login-dialog label {
     margin-bottom: 6px;
     color: #c5bdd5;
     font-size: 12px;
 }
 
-.account-login input {
+.account-login-dialog input {
     width: 100%;
     margin-bottom: 15px;
     padding: 12px;
@@ -750,34 +812,34 @@
     font-size: 14px;
 }
 
-.account-login input:focus {
+.account-login-dialog input:focus {
     border-color: #a77aff;
 }
 
 .account-login-actions {
-    display: flex;
-    gap: 10px;
     margin-top: 5px;
 }
 
 .account-login-actions button {
-    flex: 1;
-    padding: 11px;
+    width: 100%;
+    padding: 12px;
     border: 0;
     border-radius: 10px;
-    font-size: 13px;
+    background: #a77aff;
+    color: #171426;
+    font-size: 14px;
     font-weight: bold;
+    cursor: pointer;
     text-align: center;
 }
 
-.account-login-actions button[type="submit"] {
-    background: #a77aff;
-    color: #171426;
+.account-login-actions button:hover {
+    background: #b991ff;
 }
 
-.account-login-actions button[type="button"] {
-    background: #39324e;
-    color: #f5f0ff;
+.account-login-actions button:disabled {
+    opacity: 0.6;
+    cursor: wait;
 }
 
 #loginError {
