@@ -256,9 +256,7 @@ function setupAccountEvents()
     {
         if (state.mode === "local")
         {
-            accountLogin.hidden = false;
-            loginError.hidden = true;
-            loginEmail.focus();
+            openLogin();
             return;
         }
 
@@ -302,11 +300,40 @@ function setupAccountEvents()
         }
     });
 
-    cancelLogin.addEventListener("click", () =>
+    const previousBodyOverflow = document.body.style.overflow;
+
+    function closeLogin()
     {
         accountLogin.hidden = true;
         loginForm.reset();
         loginError.hidden = true;
+        document.body.style.overflow = previousBodyOverflow;
+    }
+
+    function openLogin()
+    {
+        accountLogin.hidden = false;
+        loginError.hidden = true;
+        document.body.style.overflow = "hidden";
+        loginEmail.focus();
+    }
+
+    cancelLogin.addEventListener("click", closeLogin);
+
+    accountLogin.addEventListener("click", event =>
+    {
+        if (event.target === accountLogin)
+        {
+            closeLogin();
+        }
+    });
+
+    document.addEventListener("keydown", event =>
+    {
+        if (!accountLogin.hidden && event.key === "Escape")
+        {
+            closeLogin();
+        }
     });
 
     loginForm.addEventListener("submit", async event =>
