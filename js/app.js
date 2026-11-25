@@ -308,6 +308,7 @@ function setupAccountEvents()
         loginForm.reset();
         loginError.hidden = true;
         document.body.style.overflow = previousBodyOverflow;
+        accountAction.focus();
     }
 
     function openLogin()
@@ -330,9 +331,48 @@ function setupAccountEvents()
 
     document.addEventListener("keydown", event =>
     {
-        if (!accountLogin.hidden && event.key === "Escape")
+        if (accountLogin.hidden)
+        {
+            return;
+        }
+    
+        if (event.key === "Escape")
         {
             closeLogin();
+            return;
+        }
+    
+        if (event.key !== "Tab")
+        {
+            return;
+        }
+    
+        const focusableElements = accountLogin.querySelectorAll(
+            'button:not([disabled]), input:not([disabled])'
+        );
+    
+        const firstElement = focusableElements[0];
+        const lastElement = focusableElements[focusableElements.length - 1];
+    
+        if (!firstElement || !lastElement)
+        {
+            return;
+        }
+    
+        if (event.shiftKey && document.activeElement === firstElement)
+        {
+            event.preventDefault();
+            lastElement.focus();
+        }
+        else if (!event.shiftKey && document.activeElement === lastElement)
+        {
+            event.preventDefault();
+            firstElement.focus();
+        }
+        else if (!accountLogin.contains(document.activeElement))
+        {
+            event.preventDefault();
+            firstElement.focus();
         }
     });
 
@@ -350,6 +390,8 @@ function setupAccountEvents()
 
             loginForm.reset();
             accountLogin.hidden = true;
+            document.body.style.overflow = previousBodyOverflow;
+            accountAction.focus();
         }
         catch (error)
         {
