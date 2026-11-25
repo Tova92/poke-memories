@@ -65,10 +65,15 @@ export async function loadAccountData(userId)
 
     if (!data)
     {
-        return null;
+        return {
+            exists: false,
+            owned: [],
+            favorites: []
+        };
     }
 
     return {
+        exists: true,
         owned: Array.isArray(data.owned)
             ? data.owned.filter(item => typeof item === "string")
             : [],
