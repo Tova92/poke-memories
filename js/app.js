@@ -1,5 +1,9 @@
 import { state, elements } from "./state.js";
 import {
+    getCurrentSession,
+    listenAuthChanges
+} from "./account.js";
+import {
     loadCatalog,
     loadCatalogIndex,
     loadItemData,
@@ -146,10 +150,27 @@ function setupEvents()
     });
 }
 
+
 async function startApp()
 {
     window.history.replaceState({ view: "home" }, "");
     setupEvents();
+
+    listenAuthChanges((event, session) =>
+    {
+        state.user = session?.user ?? null;
+    });
+
+    try
+    {
+        const session = await getCurrentSession();
+        state.user = session?.user ?? null;
+    }
+    catch (error)
+    {
+        console.error("Errore durante il recupero della sessione:", error);
+        state.user = null;
+    }
 
     try
     {
