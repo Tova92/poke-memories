@@ -63,11 +63,16 @@ export async function loadAccountData(userId)
         throw error;
     }
 
+    if (!data)
+    {
+        return null;
+    }
+
     return {
-        owned: Array.isArray(data?.owned)
+        owned: Array.isArray(data.owned)
             ? data.owned.filter(item => typeof item === "string")
             : [],
-        favorites: Array.isArray(data?.favorites)
+        favorites: Array.isArray(data.favorites)
             ? data.favorites.filter(item => typeof item === "string")
             : []
     };
