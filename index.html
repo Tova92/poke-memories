@@ -10,10 +10,52 @@
 
 <body>
 
+
 <header>
     <h1>PokéMemories ✨</h1>
     <p>Ogni carta conquistata è un nuovo traguardo</p>
+
+    <div class="account-status" id="accountStatus">
+        <div class="account-status-info">
+            <strong id="accountModeLabel">Modalità locale</strong>
+            <span id="accountModeDescription">
+                Dati salvati su questo dispositivo
+            </span>
+        </div>
+
+        <button id="accountAction">Accedi</button>
+    </div>
 </header>
+
+<section class="account-login" id="accountLogin" hidden>
+    <form id="loginForm">
+        <h2>Accedi alla tua collezione</h2>
+
+        <label for="loginEmail">Email</label>
+        <input
+            id="loginEmail"
+            type="email"
+            autocomplete="username"
+            required
+        >
+
+        <label for="loginPassword">Password</label>
+        <input
+            id="loginPassword"
+            type="password"
+            autocomplete="current-password"
+            required
+        >
+
+        <p id="loginError" hidden></p>
+
+        <div class="account-login-actions">
+            <button type="submit">Accedi</button>
+            <button type="button" id="cancelLogin">Annulla</button>
+        </div>
+    </form>
+</section>
+
 
 <main>
     <section id="homeView">
