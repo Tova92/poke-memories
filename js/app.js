@@ -87,17 +87,24 @@ async function applySession(session)
         {
             const localData = getLocalData();
 
-            const importLocal = confirm(
-                "Questo account non ha ancora una collezione online.\n\n" +
-                "Vuoi importare i dati salvati su questo dispositivo?\n\n" +
-                "OK: importa la collezione locale.\n" +
-                "Annulla: inizia con una collezione vuota."
-            );
+            const hasLocalData =
+                localData.owned.length > 0 ||
+                localData.favorites.length > 0;
 
-            if (importLocal)
+            if (hasLocalData)
             {
-                state.owned = localData.owned;
-                state.favorites = localData.favorites;
+                const importLocal = confirm(
+                    "Questo account non ha ancora una collezione online.\n\n" +
+                    "Vuoi importare i dati salvati su questo dispositivo?\n\n" +
+                    "OK: importa la collezione locale.\n" +
+                    "Annulla: inizia con una collezione vuota."
+                );
+
+                if (importLocal)
+                {
+                    state.owned = localData.owned;
+                    state.favorites = localData.favorites;
+                }
             }
 
             await saveCollection();
