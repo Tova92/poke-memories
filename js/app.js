@@ -1,9 +1,13 @@
 import { state, elements } from "./state.js";
 import {
     activateAccountMode,
-    activateLocalMode
+    activateLocalMode,
+    getLocalData,
+    saveCollection
 } from "./dataStore.js";
 import {
+    login,
+    logout,
     getCurrentSession,
     listenAuthChanges
 } from "./account.js";
