@@ -1,5 +1,5 @@
 import { state, elements } from "./state.js";
-import { OWNED_KEY, saveStorage } from "./storage.js";
+import { saveCollection } from "./dataStore.js";
 import { setCardImage } from "./images.js";
 import { renderCards } from "./collection.js";
 
@@ -54,7 +54,7 @@ export function closeModal()
     state.revealCard = false;
 }
 
-export function toggleCard()
+export async function toggleCard()
 {
     const id = state.currentCardId;
 
@@ -62,6 +62,8 @@ export function toggleCard()
     {
         return;
     }
+
+    const previousOwned = [...state.owned];
 
     if (state.owned.includes(id))
     {
@@ -73,7 +75,18 @@ export function toggleCard()
     }
 
     state.revealCard = false;
-    saveStorage(OWNED_KEY, state.owned);
+
+    try
+    {
+        await saveCollection();
+    }
+    catch (error)
+    {
+        console.error("Errore durante il salvataggio della collezione:", error);
+        state.owned = previousOwned;
+        alert("Impossibile salvare la collezione. Controlla la connessione e riprova.");
+    }
+
     renderCards(openModal);
     updateModal();
 }
