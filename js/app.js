@@ -1,5 +1,9 @@
 import { state, elements } from "./state.js";
 import {
+    activateAccountMode,
+    activateLocalMode
+} from "./dataStore.js";
+import {
     getCurrentSession,
     listenAuthChanges
 } from "./account.js";
@@ -24,6 +28,31 @@ let homeScrollPosition = 0;
 function showHome()
 {
     renderHome(openItem);
+}
+
+async function applySession(session)
+{
+    if (!session?.user)
+    {
+        activateLocalMode();
+        return;
+    }
+
+    try
+    {
+        await activateAccountMode(session.user);
+    }
+    catch (error)
+    {
+        console.error("Errore durante il caricamento dei dati online:", error);
+
+        state.mode = "error";
+        state.user = session.user;
+        state.owned = [];
+        state.favorites = [];
+
+        alert("Impossibile caricare la collezione online. Controlla la connessione e riprova.");
+    }
 }
 
 async function openItem(id, addHistory = true)
@@ -156,21 +185,43 @@ async function startApp()
     window.history.replaceState({ view: "home" }, "");
     setupEvents();
 
-    listenAuthChanges((event, session) =>
-    {
-        state.user = session?.user ?? null;
-    });
-
     try
     {
         const session = await getCurrentSession();
-        state.user = session?.user ?? null;
+        await applySession(session);
     }
     catch (error)
     {
         console.error("Errore durante il recupero della sessione:", error);
-        state.user = null;
+
+        state.mode = "error";
+        state.owned = [];
+        state.favorites = [];
+
+        alert("Impossibile verificare la sessione. Ricarica la pagina e riprova.");
     }
+
+    listenAuthChanges((event, session) =>
+    {
+        if (event !== "SIGNED_IN" && event !== "SIGNED_OUT")
+        {
+            return;
+        }
+
+        queueMicrotask(async () =>
+        {
+            await applySession(session);
+
+            if (elements.itemView.hidden)
+            {
+                showHome();
+            }
+            else
+            {
+                renderCards(openModal);
+            }
+        });
+    });
 
     try
     {
@@ -185,5 +236,4 @@ async function startApp()
             '<div class="empty">Impossibile caricare le serie. Controlla i percorsi dei JSON.</div>';
     }
 }
-
 startApp();
