@@ -1,5 +1,5 @@
 import { state, elements } from "./state.js";
-import { FAVORITES_KEY, saveStorage } from "./storage.js";
+import { saveCollection } from "./dataStore.js";
 import { getItemMetadata, getTotalCardCount } from "./data.js";
 
 const expandedCategories = new Set();
@@ -335,8 +335,10 @@ function renderFavorites(openItem)
     });
 }
 
-export function toggleFavorite(id, openItem)
+export async function toggleFavorite(id, openItem)
 {
+    const previousFavorites = [...state.favorites];
+
     if (state.favorites.includes(id))
     {
         state.favorites = state.favorites.filter(item => item !== id);
@@ -346,6 +348,16 @@ export function toggleFavorite(id, openItem)
         state.favorites.push(id);
     }
 
-    saveStorage(FAVORITES_KEY, state.favorites);
+    try
+    {
+        await saveCollection();
+    }
+    catch (error)
+    {
+        console.error("Errore durante il salvataggio dei preferiti:", error);
+        state.favorites = previousFavorites;
+        alert("Impossibile salvare i preferiti. Controlla la connessione e riprova.");
+    }
+
     renderHome(openItem);
 }
