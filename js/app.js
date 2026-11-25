@@ -75,12 +75,33 @@ async function applySession(session)
     if (!session?.user)
     {
         activateLocalMode();
+        renderAccountStatus();
         return;
     }
 
     try
     {
-        await activateAccountMode(session.user);
+        const exists = await activateAccountMode(session.user);
+
+        if (!exists)
+        {
+            const localData = getLocalData();
+
+            const importLocal = confirm(
+                "Questo account non ha ancora una collezione online.\n\n" +
+                "Vuoi importare i dati salvati su questo dispositivo?\n\n" +
+                "OK: importa la collezione locale.\n" +
+                "Annulla: inizia con una collezione vuota."
+            );
+
+            if (importLocal)
+            {
+                state.owned = localData.owned;
+                state.favorites = localData.favorites;
+            }
+
+            await saveCollection();
+        }
     }
     catch (error)
     {
@@ -91,8 +112,10 @@ async function applySession(session)
         state.owned = [];
         state.favorites = [];
 
-        alert("Impossibile caricare la collezione online. Controlla la connessione e riprova.");
+        alert("Impossibile caricare o salvare la collezione online. Controlla la connessione e riprova.");
     }
+
+    renderAccountStatus();
 }
 
 async function openItem(id, addHistory = true)
